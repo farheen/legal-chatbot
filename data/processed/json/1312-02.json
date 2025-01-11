@@ -1,0 +1,87 @@
+{
+  "id": 7923726,
+  "name": "STATE of Maine v. Daniel W. RYAN",
+  "name_abbreviation": "State v. Ryan",
+  "decision_date": "1984-10-04",
+  "docket_number": "",
+  "first_page": "1312",
+  "last_page": "1313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "481 A.2d 1312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "384 A.2d 437",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7980598
+      ],
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/384/0437-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 105,
+    "char_count": 898,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20059316199515878
+    },
+    "sha256": "a0a374d229d49ac8f06a96309fdb2d376a1cc8d024636665764f35ce372e4994",
+    "simhash": "1:56a21af78aa94e79",
+    "word_count": 142
+  },
+  "last_updated": "2024-02-27T19:44:37.891291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and ROBERTS, VIOLETTE, WATHEN, GLASSMAN and SCOLNIK, JJ.",
+      "All concurring."
+    ],
+    "parties": [
+      "STATE of Maine v. Daniel W. RYAN."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe Defendant, Daniel W. Ryan, was convicted of night hunting, 12 M.R.S.A. \u00a7 7406(5) following a jury trial in Superior Court (Waldo County). On appeal, he challenges the sufficiency of the evidence to prove an intent to hunt at night. After reviewing the record, we conclude that sufficient evidence was presented to establish beyond a reasonable doubt an intent to commit the crime of night hunting. See State v. Hillock, 384 A.2d 437, 440 (Me.1978).\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John R. Atwood, Dist. Atty., William R. Anderson (orally), Asst. Dist. Atty., Belfast, for plaintiff.",
+      "Blake, Hazard & Carver, Dennis C. Ha-gemann (orally), Belfast, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Daniel W. RYAN.\nSupreme Judicial Court of Maine.\nArgued Sept. 19, 1984.\nDecided Oct. 4, 1984.\nJohn R. Atwood, Dist. Atty., William R. Anderson (orally), Asst. Dist. Atty., Belfast, for plaintiff.\nBlake, Hazard & Carver, Dennis C. Ha-gemann (orally), Belfast, for defendant.\nBefore McKUSICK, C.J., and ROBERTS, VIOLETTE, WATHEN, GLASSMAN and SCOLNIK, JJ."
+  },
+  "file_name": "1312-02",
+  "first_page_order": 1372,
+  "last_page_order": 1373
+}

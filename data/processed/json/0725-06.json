@@ -1,0 +1,58 @@
+{
+  "id": 12487121,
+  "name": "Commonwealth v. Barbara Paxos",
+  "name_abbreviation": "Commonwealth v. Paxos",
+  "decision_date": "2016-08-30",
+  "docket_number": "NO. 163 MAL (2016)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 214,
+    "sha256": "a9604bc1ecf509372f39a0d551687d96c4ae691f0de9ef8c4cca3a89d3f52ec0",
+    "simhash": "1:fdbf0128b2c799b0",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nBarbara Paxos"
+    ],
+    "opinions": [
+      {
+        "text": "15 Justice MUNDY did not participate in the decision of this matter.\n--------",
+        "type": "majority",
+        "author": "15 Justice MUNDY did not participate in the decision of this matter."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nBarbara Paxos\nNO. 163 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 30, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0725-06",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

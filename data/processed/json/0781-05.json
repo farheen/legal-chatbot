@@ -1,0 +1,58 @@
+{
+  "id": 12487376,
+  "name": "Com. v. J. Westbrook",
+  "name_abbreviation": "Com. v. Westbrook",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 880 EDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "fad3536db7364031698d21a0ac73531282a2571bc99692db4359b63d88962905",
+    "simhash": "1:3f196595d0201fb4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Westbrook"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Westbrook\nNO. 880 EDA 2015\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0781-05",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

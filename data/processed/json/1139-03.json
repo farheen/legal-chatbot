@@ -1,0 +1,92 @@
+{
+  "id": 11843485,
+  "name": "Dolores FINK, Respondent v. WORKMEN'S COMPENSATION APPEAL BOARD (WALBRIDGE CORPORATION), Petitioner",
+  "name_abbreviation": "Fink v. Workmen's Compensation Appeal Board",
+  "decision_date": "1998-06-10",
+  "docket_number": "",
+  "first_page": "1139",
+  "last_page": "1140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "710 A.2d 1139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "708 A.2d 801",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11820480,
+        281186
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/708/0801-01",
+        "/pa/550/0658-01"
+      ]
+    },
+    {
+      "cite": "550 Pa. 658",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        281186
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/550/0658-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 507,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2435265530924776
+    },
+    "sha256": "b263fa5783fd0b2b714b7cf19bdcc7b0c03275ebb3dd138c0d8f0d3ff9e5a8de",
+    "simhash": "1:5d2049f4a1eda535",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T16:25:50.671612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dolores FINK, Respondent v. WORKMEN\u2019S COMPENSATION APPEAL BOARD (WALBRIDGE CORPORATION), Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED. The order of the Commonwealth Court is REVERSED and the decision of the Workmen\u2019s Compensation Appeal Board is REINSTATED. See Bethlehem Steel Corp v. Workmen\u2019s Compensation Appeal Board (Baxter), 550 Pa. 658, 708 A.2d 801 (1998).\nThe Petition to File Post-Submission Communication is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Dolores FINK, Respondent v. WORKMEN\u2019S COMPENSATION APPEAL BOARD (WALBRIDGE CORPORATION), Petitioner.\nSupreme Court of Pennsylvania.\nJune 10, 1998."
+  },
+  "file_name": "1139-03",
+  "first_page_order": 1183,
+  "last_page_order": 1184
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490530,
+  "name": "CLAD MGMT., et al. v. PENNDOT",
+  "name_abbreviation": "Clad Mgmt. v. Penndot",
+  "decision_date": "2017-04-03",
+  "docket_number": "819 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "caab46c7340b8e819c97e238905e9a798ee403fc4c4208c03ac5ae1ccb232a22",
+    "simhash": "1:7f89e6b187ec46ca",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CLAD MGMT., et al.\nv.\nPENNDOT"
+    ],
+    "opinions": [
+      {
+        "text": "Quashed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CLAD MGMT., et al.\nv.\nPENNDOT\n819 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 3, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-06",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

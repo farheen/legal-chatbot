@@ -1,0 +1,59 @@
+{
+  "id": 7288968,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Lamar ANDERSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Anderson",
+  "decision_date": "2010-06-14",
+  "docket_number": "No. 13 EM 2010",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "996 A.2d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 362,
+    "ocr_confidence": 0.671,
+    "sha256": "11eee43b6c97baf89ca729f3809166760cefc037611d976c57815028085267b7",
+    "simhash": "1:d59bd38622d7b3b6",
+    "word_count": 61
+  },
+  "last_updated": "2023-07-14T16:58:08.768875+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Lamar ANDERSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 14th day of June, 2010, the Petition for File Allowance of Appeal Nunc Pro Tunc is GRANTED. See Pa. R.Crim.P 122(B). Counsel is directed to file a Petition for Allowance of Appeal within 30 days.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Lamar ANDERSON, Petitioner.\nNo. 13 EM 2010.\nSupreme Court of Pennsylvania.\nJune 14, 2010."
+  },
+  "file_name": "0480-02",
+  "first_page_order": 538,
+  "last_page_order": 538
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486562,
+  "name": "C. Grothey v. T. Grothey",
+  "name_abbreviation": "Grothey v. Grothey",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 619 MDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 112,
+    "sha256": "50a2c8a633ea84a4058a47a6dd85ce908e846be0e9f3d718bde3b45ef65df1e1",
+    "simhash": "1:8dcf6c110bfb3dc5",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Grothey\nv.\nT. Grothey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. Grothey\nv.\nT. Grothey\nNO. 619 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nVacated and Remanded."
+  },
+  "file_name": "0197-03",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

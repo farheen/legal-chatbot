@@ -1,0 +1,58 @@
+{
+  "id": 12489578,
+  "name": "SWEET v. SWEET",
+  "name_abbreviation": "Sweet v. Sweet",
+  "decision_date": "2017-04-24",
+  "docket_number": "16\u2013374",
+  "first_page": "1098",
+  "last_page": "1098",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1098"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "024fef31c9aa196fc8cde82bfaa1e57cf051fcc3743bd8f98ba7241af0ce27f2",
+    "simhash": "1:fc154f00bb10d84c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SWEET\nv.\nSWEET"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SWEET\nv.\nSWEET\n16-374\nSupreme Court of Vermont.\nApril 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1098-06",
+  "first_page_order": 1098,
+  "last_page_order": 1098
+}

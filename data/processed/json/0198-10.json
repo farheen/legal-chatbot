@@ -1,0 +1,58 @@
+{
+  "id": 12486569,
+  "name": "C. Starkey v. J. Segars",
+  "name_abbreviation": "Starkey v. Segars",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 502 EDA 2015",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 99,
+    "sha256": "c34993f7f29762277ff69be796a09cfc3fc346a3e03efe7ea7ccded8ee571144",
+    "simhash": "1:83d16f73b69a1595",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Starkey\nv.\nJ. Segars"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. Starkey\nv.\nJ. Segars\nNO. 502 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-10",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

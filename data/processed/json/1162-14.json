@@ -1,0 +1,58 @@
+{
+  "id": 12488676,
+  "name": "Com. v. Domes, E.",
+  "name_abbreviation": "Com v. Domes",
+  "decision_date": "2016-05-27",
+  "docket_number": "1914 WDA 2015",
+  "first_page": "1162",
+  "last_page": "1162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "59fe97f67089480e5362ec3fa4f7b8549b4b6e69bb794850c4833886a4a7c1f2",
+    "simhash": "1:988b5439d9b10291",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nDomes, E."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nDomes, E.\n1914 WDA 2015\nSuperior Court of Pennsylvania.\nMay 27, 2016\nAffirmed"
+  },
+  "file_name": "1162-14",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

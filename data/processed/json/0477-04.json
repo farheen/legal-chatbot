@@ -1,0 +1,82 @@
+{
+  "id": 12487742,
+  "name": "Antwann Gibson v. State of Maryland",
+  "name_abbreviation": "Gibson v. State",
+  "decision_date": "2016-09-28",
+  "docket_number": "No. 48; Sept. Term, 2016",
+  "first_page": "477",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "146 A.3d 477"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [
+    {
+      "cite": "449 Md. 526",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        12486896,
+        6778763
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/144-2/0771-01",
+        "/md/449/0526-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 1018,
+    "sha256": "69c2ded5d6880fc4aaee89866324a36021fceda935fa7a5e99103d4aa191a196",
+    "simhash": "1:1b1712928fc2e5e4",
+    "word_count": 170
+  },
+  "last_updated": "2024-02-27T16:20:05.141817+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antwann Gibson\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM ORDER\nThe Court having considered and granted the petition for a writ of certiorari in the above entitled case, it is this 28thday of September, 2016,\nORDERED, by the Court of Appeals of Maryland, that the judgment of the Court of Special Appeals be, and it is hereby, vacated, and the case is remanded to that Court for further consideration in light of Sellman v. State, 449 Md. 526, 144 A.3d 771 (2016). Costs in this Court to be paid by the Respondent and costs in the Court of Special Appeals to abide the result.",
+        "type": "majority",
+        "author": "PER CURIAM ORDER"
+      }
+    ],
+    "attorneys": [
+      "SUBMITTED BY Brian Saccenti, Assistant Public Defender (Paul B. DeWolfe, Public Defender of Maryland of Baltimore, MD), on brief, for Petitioner.",
+      "SUBMITTED BY Zoe Gillen White, Assistant Attorney General (Brian E. Frosh, Attorney General of Maryland of Baltimore, MD), on brief, for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Antwann Gibson\nv.\nState of Maryland\nNo. 48\nSept. Term, 2016\nCourt of Appeals of Maryland.\nSeptember 28, 2016\nSUBMITTED BY Brian Saccenti, Assistant Public Defender (Paul B. DeWolfe, Public Defender of Maryland of Baltimore, MD), on brief, for Petitioner.\nSUBMITTED BY Zoe Gillen White, Assistant Attorney General (Brian E. Frosh, Attorney General of Maryland of Baltimore, MD), on brief, for Respondent.\nSUBMITTED BEFORE Barbera, C.J., Greene, Adkins, McDonald, Watts, Hotten, Getty, JJ."
+  },
+  "file_name": "0477-04",
+  "first_page_order": 477,
+  "last_page_order": 478
+}

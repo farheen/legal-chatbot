@@ -1,0 +1,58 @@
+{
+  "id": 12486006,
+  "name": "Com. v. R. Alexander",
+  "name_abbreviation": "Com. v. Alexander",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 3236 EDA 2014",
+  "first_page": "598",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 113,
+    "sha256": "123c30cfe8eb92362bef6eb92afe242020a5eefad5e8566b94355a367612ab0d",
+    "simhash": "1:899f2be38abeaa61",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Alexander"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Alexander\nNO. 3236 EDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0598-04",
+  "first_page_order": 598,
+  "last_page_order": 598
+}

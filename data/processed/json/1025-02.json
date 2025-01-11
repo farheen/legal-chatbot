@@ -1,0 +1,90 @@
+{
+  "id": 7904314,
+  "name": "Richard S. WILNER v. Malca S. WILNER",
+  "name_abbreviation": "Wilner v. Wilner",
+  "decision_date": "1985-12-04",
+  "docket_number": "",
+  "first_page": "1025",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "500 A.2d 1025"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "419 A.2d 1035",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7981468
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1037"
+        },
+        {
+          "page": "1038"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/419/1035-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 148,
+    "char_count": 1330,
+    "ocr_confidence": 0.756,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20055532195120257
+    },
+    "sha256": "da69179320b2c60fb34ef3c539980b45292414bc5c65b4f25b7150d63f65c9e5",
+    "simhash": "1:6fae1eab8f9931ab",
+    "word_count": 206
+  },
+  "last_updated": "2024-02-27T20:27:01.165951+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN and GLASSMAN, JJ."
+    ],
+    "parties": [
+      "Richard S. WILNER v. Malca S. WILNER."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe plaintiff husband appeals from an order of the Superior Court (Androscoggin County) denying his motion for reduction of his monthly alimony payments. Plaintiff argues that his motion should have been granted because he has suffered a substantial loss in income. The court found that although the financial situation of the parties had changed, plaintiff retained \u201cthe capacity to make the previously ordered payment.\u201d The decision to modify an alimony award rests within the Superior Court\u2019s discretion. Smith v. Smith, 419 A.2d 1035, 1037 (Me.1980). \u201cAbsent a violation of some positive rule of law,\u201d we will overturn that decision \u201conly if it results in a plain and unmistakable injustice, so apparent that it is instantly visible without argument.\u201d Id. at 1038. We find no patent injustice in the order of the Superior Court. The remaining arguments on appeal are without merit.\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Skelton, Taintor, Abbott & Orestis, Peter M. Garcia (orally), T. Gregory Motta, Lewi-ston, for plaintiff.",
+      "Robert A. Laskoff, P.A., Charles E. Trai-nor (orally), Lewiston, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Richard S. WILNER v. Malca S. WILNER.\nSupreme Judicial Court of Maine.\nArgued Nov. 12, 1985.\nDecided Dec. 4, 1985.\nSkelton, Taintor, Abbott & Orestis, Peter M. Garcia (orally), T. Gregory Motta, Lewi-ston, for plaintiff.\nRobert A. Laskoff, P.A., Charles E. Trai-nor (orally), Lewiston, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN and GLASSMAN, JJ."
+  },
+  "file_name": "1025-02",
+  "first_page_order": 1071,
+  "last_page_order": 1072
+}

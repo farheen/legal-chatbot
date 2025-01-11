@@ -1,0 +1,786 @@
+{
+  "id": 12054200,
+  "name": "In re ADVISORY OPINION to the GOVERNOR (Appointed Counsel)",
+  "name_abbreviation": "In re Advisory Opinion to the Governor",
+  "decision_date": "1995-11-10",
+  "docket_number": "No. 95-265-M.P.",
+  "first_page": "813",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 813"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "504 A.2d 456",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11931222
+      ],
+      "pin_cites": [
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/504/0456-01"
+      ]
+    },
+    {
+      "cite": "507 A.2d 1316",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7904025
+      ],
+      "pin_cites": [
+        {
+          "page": "1319-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/507/1316-01"
+      ]
+    },
+    {
+      "cite": "633 A.2d 664",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7371988
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/633/0664-01"
+      ]
+    },
+    {
+      "cite": "418 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7959036
+      ],
+      "pin_cites": [
+        {
+          "page": "850"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/418/0843-01"
+      ]
+    },
+    {
+      "cite": "120 R.I. 486",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8519226
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0486-01"
+      ]
+    },
+    {
+      "cite": "559 A.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7891965
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/559/0641-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782797
+      ],
+      "weight": 5,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "480"
+        },
+        {
+          "page": "494"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0471-01"
+      ]
+    },
+    {
+      "cite": "120 R.I. 679",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8519897
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "690-91"
+        },
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0679-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 129",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876716
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "133"
+        },
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/521/0129-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 734",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7938998
+      ],
+      "pin_cites": [
+        {
+          "page": "740"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0734-01"
+      ]
+    },
+    {
+      "cite": "615 A.2d 1010",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7934672
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1014"
+        },
+        {
+          "page": "1012"
+        },
+        {
+          "page": "1013"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/615/1010-01"
+      ]
+    },
+    {
+      "cite": "399 U.S. 42",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168334
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0042-01"
+      ]
+    },
+    {
+      "cite": "417 A.2d 895",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7971439
+      ],
+      "pin_cites": [
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/417/0895-01"
+      ]
+    },
+    {
+      "cite": "535 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876308
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/535/0766-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895547
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1009"
+        },
+        {
+          "page": "1010-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/521/1003-01"
+      ]
+    },
+    {
+      "cite": "109 R.I. 93",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3151014
+      ],
+      "weight": 8,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "97"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "336-37"
+        },
+        {
+          "page": "100"
+        },
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/109/0093-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 1921",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1147855
+      ],
+      "weight": 8,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1927-28"
+        },
+        {
+          "page": "755"
+        },
+        {
+          "page": "1928"
+        },
+        {
+          "page": "755"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0738-01"
+      ]
+    },
+    {
+      "cite": "440 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182780
+      ],
+      "weight": 6,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "374"
+        },
+        {
+          "page": "1162"
+        },
+        {
+          "page": "389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0367-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136521
+      ],
+      "weight": 9,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "32"
+        },
+        {
+          "page": "2010"
+        },
+        {
+          "page": "536"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "2014"
+        },
+        {
+          "page": "540"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0025-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "110 R.I. 1",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3149819
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "5"
+        },
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/110/0001-01"
+      ]
+    },
+    {
+      "cite": "483 A2d 1078",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7935337
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1079"
+        },
+        {
+          "page": "1079"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/483/1078-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 336",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1963,
+      "opinion_index": 1
+    },
+    {
+      "cite": "123 F.Supp. 439",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4248340
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "443"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/123/0439-01"
+      ]
+    },
+    {
+      "cite": "561 A.2d 1348",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7362222
+      ],
+      "pin_cites": [
+        {
+          "page": "1350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/561/1348-01"
+      ]
+    },
+    {
+      "cite": "591 A.2d 14",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7362534
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/591/0014-01"
+      ]
+    },
+    {
+      "cite": "191 A.2d 611",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "opinion_index": 1
+    },
+    {
+      "cite": "96 R.I. 358",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        4446959
+      ],
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ri/96/0358-01"
+      ]
+    },
+    {
+      "cite": "109 R.I. 289",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3150625
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "296"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ri/109/0289-01"
+      ]
+    },
+    {
+      "cite": "472 A.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7964647
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/472/0301-01"
+      ]
+    },
+    {
+      "cite": "507 A.2d 1316",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7904025
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1318-19"
+        },
+        {
+          "page": "1319"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/507/1316-01"
+      ]
+    },
+    {
+      "cite": "120 R.I. 679",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8519897
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "even though this court has recognized the validity of considering budgetary limitations in determining the extent of state-funded benefits for indigents, the budgetary limitations were enacted and imposed by the legislative and not the executive branch of the government"
+        },
+        {
+          "parenthetical": "even though this court has recognized the validity of considering budgetary limitations in determining the extent of state-funded benefits for indigents, the budgetary limitations were enacted and imposed by the legislative and not the executive branch of the government"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ri/120/0679-01"
+      ]
+    },
+    {
+      "cite": "535 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7876308
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "768"
+        },
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/535/0766-01"
+      ]
+    },
+    {
+      "cite": "521 A.2d 1003",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895547
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1010"
+        },
+        {
+          "page": "1010"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/521/1003-01"
+      ]
+    },
+    {
+      "cite": "109 R.I. 93",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3151014
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ri/109/0093-01"
+      ]
+    },
+    {
+      "cite": "440 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182780
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/440/0367-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 25",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9136521
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/407/0025-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765333
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/372/0335-01"
+      ]
+    },
+    {
+      "cite": "483 A2d 1078",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7935337
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/483/1078-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1071,
+    "char_count": 27142,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 5.069625958765438e-08,
+      "percentile": 0.31991691407491324
+    },
+    "sha256": "6d69142e0f2588bddef1e606b9bff8b3f798ae44eb75a357dd60cbc15996fad5",
+    "simhash": "1:bb8650da673b0f03",
+    "word_count": 4302
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "JOSEPH R. WEISBERGER, Chief Justice",
+      "VICTORIA LEDERBERG JOHN P. BOURCIER DONALD F. SHEA Justices"
+    ],
+    "parties": [
+      "In re ADVISORY OPINION to the GOVERNOR (Appointed Counsel)."
+    ],
+    "opinions": [
+      {
+        "text": "To His Excellency Lincoln Almond, Governor of the State of Rhode Island and Providence Plantations:\nWe have received from Your Excellency a request seeking the advice of the justices of this Court in accordance with article X, section 3, of the Rhode Island Constitution on the following question of law:\n\u201cIn view of the historical development of the law relating to the right of appointed counsel under the federal and state constitutions, and the more recent developments in federal case law, is the State of Rhode Island required by the Rhode Island Constitution to provide' free counsel to indigents notwithstanding that the trial justice determines that no incarceration will be imposed?\u201d\nIn response, we issued an order inviting briefs from various specified parties and all other interested parties. We have received and gratefully acknowledge briefs filed as amici curiae from the Attorney General, the District Court of Rhode Island, the Office of the Public Defender, the National Legal Aid and Defender Association, the Rhode Island Association of Criminal Defense Lawyers, the Rhode Island Bar Association, and the American Civil Liberties Union, Rhode Island Affiliate.\nAppropriateness of Request\nArticle X, section 3, of the Rhode Island Constitution provides that \u201c[t]he judges of the supreme court shall give their written opinion upon any question of law whenever requested by the governor or by either house of the general assembly.\u201d This Court has concluded previously that the provision is mandatory in respect to inquiries that fall within the purview of this constitutional provision. In re Advisory Opinion to the Governor, 483 A2d 1078, 1079 (R.I.1984). Nevertheless, this Court \"will generally refrain from advising the Governor on issues that do not have \u201ca bearing upon a present constitutional duty presently awaiting performance by the Governor.\u201d Advisory Opinion to the Governor, 110 R.I. 1, 5, 289 A.2d 430, 433 (1972).\nAs a threshold matter, we address whether the question of law propounded by you presents to us an appropriate subject for an advisory opinion. Your Excellency avers that your obligation to prepare and present a budget to the General Assembly, pursuant to article IX, section 15, of the Rhode Island Constitution, represents a constitutional duty awaiting your performance and argues that, therefore, your request is an appropriate one. We are of the opinion that Your Excellency has presented legitimate concerns that impede your ability to prepare a budget absent clarification of the requirements imposed by article I, section 10. We note on a related matter that on June 27, 1994, the Chief Justice of this Supreme Court entered an executive order prohibiting appointment of counsel to assist indigent litigants \u201csave where constitutionally required.\u201d The order was entered in an effort to control expenditures for appointed counsel, which outlay had exceeded appropriations by more than $300,-000 in each of the prior two fiscal years.\nAlthough we are responding to your request for advice in this instance, we would not consider that every issue affecting the state budgetary duties of the Governor or of the General Assembly would be a proper subject for such an opinion. See, e.g., In re Advisory Opinion to the Governor, 483 A.2d at 1079. Rather, we have concluded that the question before us clearly affects an issue of constitutional proportions in respect to the rights of defendants charged with criminal offenses.\nUnited States Supreme Court Treatment of the Right to Counsel Clause of the Sixth Amendment to the United States Constitution\nThe Sixth Amendment to the United States Constitution mandates that \u201c[i]n all criminal prosecutions, the accused shall enjoy the right * * * to have the assistance of counsel for his defense.\u201d In 1963, the United States Supreme Court made this requirement applicable to the states via the Fourteenth Amendment in Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963).\nThe Gideon decision, however, did not reveal the contours of the right to counsel inasmuch as that holding was limited to facts that involved a felony conviction. The issue of the right to counsel was revisited in Argersinger v. Hamlin, 407 U.S. 25, 92 S.Ct. 2006, 32 L.Ed.2d 530 (1972), in which the Supreme Court was asked to rule on whether indigent defendants facing misdemeanor charges are entitled to appointed counsel. The Arger-singer Court concluded that the rationale of the Gideon decision \u201chas relevance to any criminal trial, where an accused is deprived of his liberty.\u201d Id. at 32, 92 S.Ct. at 2010, 32 L.Ed.2d at 536. Argersinger went on to hold that any criminal prosecution resulting in the actual deprivation of an indigent defendant\u2019s liberty must be accompanied by the appointment of counsel for that defendant. Id. at 40, 92 S.Ct. at 2014, 32 L.Ed.2d at 540.\nAlthough Argersinger did not specifically address the question of whether counsel must be appointed when no imprisonment will result, the Supreme Court did reach this issue seven years later, in Scott v. Illinois, 440 U.S. 367, 99 S.Ct. 1158, 59 L.Ed.2d 383 (1979). Scott, an indigent defendant, was convicted of shoplifting and fined $50 after a trial in which he was not assisted by appointed counsel. In an opinion by Justice Rehnquist, the Court held that the right to appointed counsel under the Sixth and Fourteenth Amendments of the United States Constitution requires \u201conly that no indigent criminal defendant be sentenced to a term of imprisonment unless the State has afforded him the right to assistance of appointed counsel in his defense.\u201d Id. at 374, 99 S.Ct. at 1162, 59 L.Ed.2d at 389.\nThe Supreme Court reaffirmed the holdings of Scott and Argersinger in Nichols v. United States, \u2014 U.S.-, 114 S.Ct. 1921, 128 L.Ed.2d 745 (1994), and held that prior uneounseled misdemeanor convictions that did not themselves result in imprisonment could serve to enhance sentencing for subsequent offenses, even in the event that a subsequent sentence would include imprisonment. Id. at-, 114 S.Ct. at 1927-28, 128 L.Ed.2d at 755. In so holding, the Supreme Court expressly adhered to its holding in Scott. Id. at-, 114 S.Ct. at 1928, 128 L.Ed.2d at 755.\nRhode Island Decisions Regarding Right to Appointed Counsel\nThe Rhode Island constitutional analogue to the Sixth Amendment guarantee of the right to counsel is found in article I, section 10, of the Rhode Island Constitution. This section protects a defendant\u2019s right to assistance of counsel in terms almost identical to those of its federal counterpart: \u201cIn all criminal prosecutions, accused persons shall * * * have the assistance of counsel in their defense.\u201d In 1971, prior to the Supreme Court\u2019s rulings in Argersinger and Scott, this provision was interpreted in State v. Holliday, 109 R.I. 93, 280 A.2d 333 (1971). In Holliday, this Court prefaced its conclusions by noting that there had been no precise guidance from the United States Supreme Court on whether the United States Constitution requires that defendants charged with misdemeanors be provided with counsel. Id. at 97, 280 A.2d at 335. In the absence of such guidance, we construed article I, section 10, broadly to require appointment of counsel for indigent defendants charged with misdemeanors that carry a potential prison sentence in excess of six months, even if no imprisonment is actually imposed. Id. at OS-99, 280 A.2d at 336-37.\nWe have not been asked, until now, to reexamine our holding in Holliday since the United States Supreme Court rendered its decision in Scott. On two occasions, this Court has uncritically followed its holding in Holliday, namely, in State v. Moretti, 521 A.2d 1003 (R.I.1987), and in State v. Medeiros, 535 A.2d 766 (R.I.1987). In Moretti the defendant had been convicted of arson after the admission of evidence of several previous misdemeanor convictions that was used to impeach Moretti. On appeal, Moretti challenged the admission of the prior convictions, arguing that he had not been assisted by counsel when these convictions occurred. 521 A.2d at 1009. We acknowledged our holding in Holliday, but nevertheless decided the issue in favor of the state because there had been no \u201cpositive representation\u201d by Moretti that he had been unlawfully denied counsel. Id. at 1010-11.\nWe had no occasion in Moretti to rule on the validity of Holliday in light of Argersinger and Scott, nor did we in Medeiros, where we were again asked to reverse a conviction on the basis of the trial justice\u2019s admission of prior uncounseled misdemeanor convictions to impeach the defendant\u2019s credibility. We determined that Holliday would not work to invalidate Medeiros\u2019s conviction because any error on the trial justice\u2019s part in admitting the convictions was harmless. Medeiros, 535 A.2d at 769.\nIn Holliday this Court had no means of ascertaining the direction that the Supreme Court would take, and it is clear that our prognostication in Holliday was inaccurate. Holliday did not anticipate that the Supreme Court\u2019s test would be incarceration rather than potential punishment. Indeed, Holli-day did not meet the requirement of counsel in cases of incarceration, however brief that confinement would have been, that was set forth in Argersinger and Scott.\nShould This Court Read the Rhode Island Constitution\u2019s Right-to-Counsel Provision More Broadly than the Supreme Court Has Read the Sixth Amendment?\nAlthough certain amici have argued that the protections afforded by the Federal Constitution establish only a minimum level of protection for criminal defendants, \u201c[t]he decision to depart from minimum standards and to increase the level of protection should be made guardedly and should be supported by a principled rationale.\u201d State v. Benoit, 417 A.2d 895, 899 (R.I.1980). We are presented with no such rationale here.\nIn Benoit we held that the warrantless search of an automobile four hours after its seizure by police was invalid under article I, section 6, of the Rhode Island Constitution. In so holding, we interpreted that provision more broadly than the Supreme Court had interpreted nearly identical language in the Fourth Amendment to the United States Constitution in Chambers v. Maroney, 399 U.S. 42, 90 S.Ct. 1975, 26 L.Ed.2d 419 (1970).\nIn 1992, however, we overruled our decision in Benoit and held that the protection afforded against unlawful automobile searches by article I, section 6, of the Rhode Island Constitution was identical in scope to that guaranteed by the Fourth Amendment. State v. Werner, 615 A.2d 1010, 1014 (R.I. 1992). We noted that our departure from Chambers in Benoit was motivated by \u201cthe apparent inconsistency in Supreme Court case law at the time we decided Benoit.\u201d Id. at 1012. This Court concluded that \u201c[b]e-cause the federal case law that guided our departure from Chambers in 1980 has since been stabilized by the Supreme Court, we now believe that it is time to revisit Benoit.\u201d Werner, 615 A.2d at 1013. Cf. Kleczek v. Rhode Island Interscholastic League, Inc. 612 A.2d 734, 740 (R.I.1992) (construing equal-protection guarantee of article I, section 2, of the Rhode Island Constitution to provide protections similar to that of Fourteenth Amendment to United States Constitution); State v. Diaz, 521 A.2d 129, 133 (R.I.1987) (interpreting article I, section 7, of the Rhode Island Constitution to provide protection against double jeopardy of identical scope to that provided by Fifth Amendment to United States Constitution).\nSimilarly, our decision in Holliday was rendered at a time when no decisive Supreme Court authority was available to guide our interpretation of article I, section 10. This vacuum was filled when the Supreme Court issued the Argersinger and Scott decisions. We are of the opinion that it is timely that we revisit the Holliday holding and interpret article I, section 10, in a manner consistent with the United States Supreme Court\u2019s interpretation of the Sixth Amendment in Scott.\nOur opinion in this case has firm grounding in this Court\u2019s constitutional jurisprudence. In Diaz, 521 A.2d at 133, we expressed our belief \u201cthat the balance achieved by the Supreme Court of the United States is as favorable to the perceived rights of defendants as should rationally be applied in criminal cases. We are unwilling to interpret article 1, section 7 of the Rhode Island Constitution in such fashion as further to subordinate societal interests in effective prosecution of the guilty.\u201d Similar considerations of public policy motivate us to conform our reading of article I, section 10, to the United States Supreme Court\u2019s interpretation of the Sixth Amendment.\nMoreover, this Court has recognized the validity of considering budgetary limitations in determining the extent of state-funded benefits for indigents. Roe v. Affleck, 120 R.I. 679, 390 A.2d 361 (1978). In Roe, we upheld the denial of medical-assistance benefits under the Services for Emotionally Disturbed Children Law, G.L.1956 (1977 Reenactment) \u00a7\u00a7 40.1-7-1 to 40.1-7-9, even though the Department of Mental Health, Retardation and Hospitals (MHRH) had found the applicant eligible for such assistance. Roe was denied assistance by MHRH because the Legislature had not provided appropriations sufficient to provide aid to all eligible applicants. We determined that the \u201cdirector of MHRH is not authorized to incur any debt which would bind the state except insofar as his action creating such a debt is authorized by law,\u201d and we concluded that the director had no duty \u201cto contract for the care of eligible emotionally disturbed children in an amount that exceeds statutory appropriations.\u201d Id. at 690-91, 390 A2d at 367.\nCertain of the amici would have this Court provide heightened constitutional protection to indigent criminal defendants who, although they may face no threat of imprisonment, may suffer such consequences as denial of public housing and loss of professional licenses. It is well settled, however, that the full panoply of due-process protections attaches only when loss of a fundamental liberty results from state action. Morrissey v. Brewer, 408 U.S. 471, 92 S.Ct. 2593, 33 L.Ed.2d 484 (1972); State v. Desrosiers, 559 A.2d 641 (R.I.1989). In Morrissey the Supreme Court refused to require that the full range of due-process protections be afforded in parole-revocation proceedings because \u201cthe revocation of parole is not part of a criminal prosecution and thus the full panoply of rights due a defendant in such a proceeding does not apply.\u201d 408 U.S. at 480, 92 S.Ct. at 2600, 33 L.Ed.2d at 494.\nAlthough loss of a license or permit and denial of public housing are grave occurrences, they do not rise to the level of deprivation characterized by incarceration. An automobile driver, for instance, is not entitled to confer with counsel when asked to submit to a breathalyzer test, even though submission to or refusal of that test may result in loss of that driver\u2019s license, Dunn v. Petit, 120 R.I. 486, 388 A.2d 809 (1978), because there is no fundamental constitutional right to operate a motor vehicle. State v. Locke, 418 A.2d 843, 850 (R.I.1980). Therefore, we disagree with amici that counsel must be provided in a criminal proceeding simply because an indigent defendant may subsequently lose a comparable property right.\nIn Holliday, we stated:\n\u201cWe think it is entirely reasonable to conclude that the state has a legitimate interest in the efficient and inexpensive disposition of petty criminal cases and that the constitutional provision contained in our state constitution, art. I, sec. 10, does not contemplate imposing upon the state an unreasonable and onerous burden in accomplishing the disposition of such petty offense cases.\u201d 109 R.I. at 100, 280 A.2d at 337.\nWe conclude that it is (1) within the authority of the General Assembly to determine that the public interest would be served by increasing appropriations to provide counsel in situations not constitutionally required and (2) not the province of this Court to impose upon the state obligations that have no constitutional or statutory basis. We therefore advise Your Excellency that the United States Supreme Court\u2019s interpretation of the Sixth Amendment as a guarantee of a criminal defendant\u2019s right to counsel only when imprisonment is actually imposed represents the appropriate standard that should be applied under article I, section 10, of the Rhode Island Constitution. In conclusion, therefore, we respond to Your Excellency\u2019s question in the negative.\nJOSEPH R. WEISBERGER, Chief Justice\nVICTORIA LEDERBERG JOHN P. BOURCIER DONALD F. SHEA Justices\n. This Court has exercised its discretion to issue advisory opinions even on questions arguably improperly before the court, but of great public importance. In re Advisory from the Governor, 633 A.2d 664, 667 (R.I. 1993); In re Advisory Opinion (Chief Justice), 507 A.2d 1316, 1319\u201420 (R.I.1986); In re Advisory Opinion to the Governor, 504 A.2d 456, 459 (R.I.1986).",
+        "type": "majority",
+        "author": null
+      },
+      {
+        "text": "MURRAY, Justice,\ndissenting.\nI respectfully dissent. In my view, this case is a definitive textbook instance in which the Governor\u2019s question is not properly the subject of an advisory opinion. However, if the Governor\u2019s request were properly before this court, I would answer the question in the affirmative.\nArticle X, section 3, of the Rhode Island Constitution requires the judges of this court, upon request, to \u201cgive their written opinion upon any question of law.\u201d It is settled that this provision is mandatory in nature when the inquiry falls within the purview thereof. We have on numerous occasions, however, stated our reluctance to subvert the principle of the separation of powers by translating the obligation to give advisory opinions upon request into a grant of authority to give such opinions in situations in which the inquiry is not such as reasonably to be within the purview of this constitutional provision. See In re Advisory Opinion to the Governor, 483 A.2d 1078 (R.I.1984); In re Request for Advisory Opinion, 472 A.2d 301 (R.I.1984); Opinion to the Governor, 109 R.I. 289, 284 A.2d 295 (1971); Opinion to the Governor, 96 R.I. 358, 191 A.2d 611 (1963). More specifically, the judges of the Supreme Court are constitutionally obligated to give their advice only when the question propounded raises an issue regarding the constitutionality of existing statutes which require the implementation by the Chief Executive, In re Advisory Opinion (Chief Justice), 507 A.2d 1316, 1318-19 (R.I.1986), or when the question propounded has a bearing upon a present constitutional duty awaiting performance by the Governor. Id. at 1319.\nHere it is undisputed that the question presented does not concern the constitutionality of an existing statute. The Governor, however, argues that the question presented has a bearing upon his constitutional obligation to \u201cprepare and present to the general assembly an annual, consolidated operating and capital improvement state budget.\u201d R.I. Const, art. IX, sec. 15. More specifically, the Governor argues that if the state is required to provide free counsel to indigent misdemeanor defendants, then he must allocate the funds to pay for counsel. The Governor\u2019s argument, however, is unconvincing. The question propounded is simply whether the state has an obligation to provide legal representation to indigent misdemeanor defendants. The question therefore does not bear upon the Governor\u2019s duty to present a balanced budget to the General Assembly, rather it bears upon the constitutional duty to appoint counsel for indigent misdemeanor defendants.\nAs an executive branch of the government, the Governor plays no role in the appointment of counsel for indigent misdemeanor defendants. The General Assembly, through its legislative powers pursuant to article VI, section 2, of the Rhode Island Constitution, created the Office of the Public Defender and stated that \u201c[i]t shall be the duty of the public defender to represent and act as attorney for indigent defendants in those criminal cases referred to him * * * by the supreme court * * * by the district courts, and as are set forth in \u00a7 14-1-51 * * * .\u201d G.L.1956 (1994 Reenactment) \u00a7 12-15-3. Given this legislative enactment, the Governor clearly has no constitutional duty regarding the right of indigent misdemeanor defendants to appointed counsel.\nBecause the question propounded does not bear directly upon any constitutional duty of the Governor and does not concern the constitutionality of an existing statute, it cannot serve as a proper basis for an advisory opinion. We have stated that \u201cgiving such [advisory] opinions in matters unconnected to the official function of the requesting coordinate branch would amount to inexcusable gratuitousness.\u201d Opinion to the Governor, 109 R.I. at 292, 284 A.2d at 296. Although I am cognizant of the fact that the Governor is required to present a balanced budget to the General Assembly, it is inappropriate for this court to perform a function that necessarily belongs to the executive branch. Nevertheless, if there is any consensus to be had in regard to the budgetary limitations for the payment of legal services for indigent misdemeanor defendants, it belongs to the legislative and not the executive branch of the government; where the Legislature has the the power to appoint counsel for indigent misdemeanor defendants, it is within the purview of the Legislature\u2019s powers to dictate the funds necessary for the payment of such services. See Roe v. Affleck, 120 R.I. 679, 390 A.2d 361 (1978) (even though this court has recognized the validity of considering budgetary limitations in determining the extent of state-funded benefits for indigents, the budgetary limitations were enacted and imposed by the legislative and not the executive branch of the government).\nEven if I were to overlook the procedural deficiencies inherent within the Governor\u2019s request, I find that the State of Rhode Island is required to provide free counsel to indigent misdemeanor defendants notwithstanding a trial justice\u2019s determination that no incarceration will be imposed. At the outset, it should be noted that we have never wavered from giving greater protection to the citizens of this State under the Rhode Island Constitution than that afforded by the United States Constitution. In State v. Bertram, 591 A.2d 14 (R.I.1991), we stated that \u201cthere is no question that states may, in applying provisions of their constitutions or state charters, afford their citizens greater protection and security than is provided under the United States Constitution.\u201d Id. at 21. See also Pimental v. Department of Transportation, 561 A.2d 1348, 1350 (R.I.1989) (this greater protection may be given to the citizens of a state under the state constitution even if the federal and state constitutional language is similar). In Ex parte Lee, 123 F.Supp. 439 (D.R.I.1954), the Federal District Court stated that \u201c[t]he right to assistance of counsel and \u2018due process of law1 guaranteed by the Fifth and Sixth Amendments to the United States Constitution are not limitations upon the power of the states, but operate upon the national government only, applying only to trials in the federal courts.\u201d Id. at 443.\nThis state has a proud history of affording its citizens the right to counsel and has specifically declined to follow the United States Supreme Court in limiting the provision of counsel to indigents. In 1941, long before Gideon v. Wainwright, 372 U.S. 336, 83 S.Ct. 792, 9 L.Ed.2d 799 (1963), Rhode Island established a public counsel system for accused felons. Thirty years later, before the United States Supreme Court decided Argersinger v. Hamlin, 407 U.S. 25, 92 S.Ct. 2006, 32 L.Ed.2d 530 (1972), this court, in State v. Holliday, 109 R.I. 93, 280 A.2d 333 (1971), extended the right to counsel for indigent defendants charged with serious misdemeanors which could subject them to an imposition of penalty in excess of six months\u2019 imprisonment. In 1987, after the Supreme Court decided Scott v. Illinois, 440 U.S. 367, 99 S.Ct. 1158, 59 L.Ed.2d 383 (1979), we stated in State v. Moretti, 521 A.2d 1003 (R.I.1987), and in State v. Medeiros, 535 A.2d 766 (R.I.1987), that the Rhode Island Constitution provides a broader right to counsel than that provided under the Federal Constitution. Medeiros, 535 A.2d at 768; Moretti 521 A.2d at 1010.\nSpecifically, we found in Moretti that \u201c[t]he confluence of the federal and the state guarantees is if an indigent Rhode Island criminal defendant faces a potential sentence of more than six months, Rhode Island constitutional law guarantees to a defendant appointed counsel, even if the trial justice predetermines that no prison sentence will be imposed. If the potential sentence is less than six months, federal constitutional law guarantees the defendant appointed counsel unless the trial justice predetermines that no prison sentence will be imposed.\u201d Moretti 521 A.2d at 1010. Similarly, in Medeiros, we specifically stated that \u201cthe Rhode Island Constitution [requires] the appointment of counsel for an indigent defendant if the potential sentence exceeds six months\u2019 imprisonment even in the event that the trial justice predetermines that no prison sentence will be imposed.\u201d (Emphasis added.) Medeiros, 535 A.2d at 768. These cases make clear that even after Scott, this court held that the Rhode Island Constitution afforded indigent defendants a higher degree of protection; that is, we have recognized the right of indigent persons to appointed counsel notwithstanding that the trial justice determines that no incarceration will be imposed.\nAs a final matter, it should be stressed that we should not attempt to peer into the minds of trial justices. By answering His Excellency\u2019s request in the negative, the majority\u2019s decision effectively reduces the range of discretion previously afforded to trial justices in misdemeanor cases. The majority would have each trial justice determine whether incarceration may be imposed at the initial stages of an action, regardless of any later developments that may require the trial justice to impose a sanction of imprisonment. It is noteworthy that the District Court judges have represented that such a result would profoundly affect the quality of justice which is administered in the trial courts. Undeniably, by structure, they are positioned at the threshold to the access of justice.\nFor the reasons stated herein, I would conclude that the question advanced cannot serve as a proper basis for an advisory opinion. Even if I were to address the question presented to this court, I would answer in the affirmative.",
+        "type": "dissent",
+        "author": "MURRAY, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Joseph S. Larisa, Harris Weiner, Governor, Thomas Dickinson, Aaron Weisman, Attorney General, for the Governor.",
+      "R. Kelly Sheridan, Linda Buffardi, Bar Association, John Dineen, ACLU, Barbara Hurst, Paula Rosin, Catherine Gibran, Public Defender, Mary J. Ciresi, Andrew Horwitz, Assoc, of Criminal Defense, for Amicus Curiae."
+    ],
+    "corrections": "",
+    "head_matter": "In re ADVISORY OPINION to the GOVERNOR (Appointed Counsel).\nNo. 95-265-M.P.\nSupreme Court of Rhode Island.\nNov. 10, 1995.\nJoseph S. Larisa, Harris Weiner, Governor, Thomas Dickinson, Aaron Weisman, Attorney General, for the Governor.\nR. Kelly Sheridan, Linda Buffardi, Bar Association, John Dineen, ACLU, Barbara Hurst, Paula Rosin, Catherine Gibran, Public Defender, Mary J. Ciresi, Andrew Horwitz, Assoc, of Criminal Defense, for Amicus Curiae."
+  },
+  "file_name": "0813-01",
+  "first_page_order": 871,
+  "last_page_order": 878
+}

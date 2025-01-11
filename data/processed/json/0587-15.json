@@ -1,0 +1,58 @@
+{
+  "id": 12485825,
+  "name": "Com. v. W. Beatty, Jr.",
+  "name_abbreviation": "Com. v. Beatty",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 1256 MDA 2015",
+  "first_page": "587",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 115,
+    "sha256": "0b37fdd5861b37e77337151d6e1680eb4474cb4dbd836baead09733825ffdcfc",
+    "simhash": "1:b055450908fa14c0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Beatty, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Beatty, Jr.\nNO. 1256 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0587-15",
+  "first_page_order": 587,
+  "last_page_order": 587
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485988,
+  "name": "Com. v. S. Martin",
+  "name_abbreviation": "Com. v. Martin",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 181 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "04468e517c4aa39210ec913c0cd68a38219a4f76c51736291b28a66eb3dbab3e",
+    "simhash": "1:3f093d938ab1adf4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Martin"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Martin\nNO. 181 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0597-03",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

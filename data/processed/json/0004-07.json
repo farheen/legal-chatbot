@@ -1,0 +1,58 @@
+{
+  "id": 12484998,
+  "name": "Commonwealth v. Kevin Willock",
+  "name_abbreviation": "Commonwealth v. Willock",
+  "decision_date": "2016-05-09",
+  "docket_number": "NO. 37 EAL 2016",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 228,
+    "sha256": "b2db660fd2af1534fa7433ae6b56d5dd035175952eb65072fa9e710c3707df45",
+    "simhash": "1:9d7ee2dcbaaf389c",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nKevin Willock"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nKevin Willock\nNO. 37 EAL 2016\nSupreme Court of Pennsylvania\nMay 09, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0004-07",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486421,
+  "name": "J. Robins v. L. Freeman",
+  "name_abbreviation": "Robins v. Freeman",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 2111 EDA 2015",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "sha256": "fcf42b228b43089044e4e62b0b923e6e4472379e54e41bc1ad40c3d59f952b79",
+    "simhash": "1:97d825f1cdc01fc8",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Robins\nv.\nL. Freeman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J. Robins\nv.\nL. Freeman\nNO. 2111 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed."
+  },
+  "file_name": "0188-10",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

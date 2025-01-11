@@ -1,0 +1,59 @@
+{
+  "id": 8921394,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. John McCLINTIC, Petitioner",
+  "name_abbreviation": "Commonwealth v. McClintic",
+  "decision_date": "2005-08-17",
+  "docket_number": "",
+  "first_page": "1000",
+  "last_page": "1000",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "882 A.2d 1000"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 480,
+    "ocr_confidence": 0.676,
+    "sha256": "1eae60de6f668d48e54085d1b49505e7e76502d7c898e23b0fc893d4c5b09110",
+    "simhash": "1:e9fe96b615cb67f4",
+    "word_count": 74
+  },
+  "last_updated": "2023-07-14T21:39:25.930074+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. John McCLINTIC, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of August, 2005, the Petition for Allowance of Appeal is hereby granted, limited to the following issue:\nWas it not improper under Section 9714 to impose two separate 25 to 50 year enhanced sentences for a single criminal occurrence, where Section 9714 only authorizes a single sentence enhancement per criminal episode.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. John McCLINTIC, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 17, 2005."
+  },
+  "file_name": "1000-02",
+  "first_page_order": 1018,
+  "last_page_order": 1018
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12491382,
+  "name": "James M. PROCACCINI, Administrator (Estate of Jill A. Procaccini) v. LAWRENCE AND MEMORIAL HOSPITAL, INC., et al.",
+  "name_abbreviation": "Procaccini v. Lawrence & Mem'l Hosp., Inc.",
+  "decision_date": "2017-11-15",
+  "docket_number": "",
+  "first_page": "801",
+  "last_page": "801",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "172 A.3d 801"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 960"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "175 Conn.App. 692",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490772
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/168-2/0538-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 579,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25786561301450395
+    },
+    "sha256": "0dd6b4ddfb895fb789a5a98362456ebb1a7ee8ae3ba26e664d2cc176afdb63e0",
+    "simhash": "1:10bbb564d2c0f7c5",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T18:35:00.082849+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James M. PROCACCINI, Administrator (Estate of Jill A. Procaccini)\nv.\nLAWRENCE AND MEMORIAL HOSPITAL, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition by the defendant Emergency Medicine Physicians of New London County, LLC, for certification to appeal from the Appellate Court, 175 Conn.App. 692, 168 A.3d 538 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "James M. PROCACCINI, Administrator (Estate of Jill A. Procaccini)\nv.\nLAWRENCE AND MEMORIAL HOSPITAL, INC., et al.\nSupreme Court of Connecticut.\nDecided November 15, 2017\nDaniel J. Krisch, Frederick J. Trotta, Sr., and Jennifer S. Mullen, in support of the petition.\nMatthew E. Auger, in opposition.\nThe petition by the defendant Emergency Medicine Physicians of New London County, LLC, for certification to appeal from the Appellate Court, 175 Conn.App. 692, 168 A.3d 538 (2017), is denied.\nMULLINS, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0801-02",
+  "first_page_order": 801,
+  "last_page_order": 801
+}

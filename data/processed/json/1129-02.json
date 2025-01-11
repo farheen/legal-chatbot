@@ -1,0 +1,84 @@
+{
+  "id": 7367110,
+  "name": "STATE v. Carlos ROCHA",
+  "name_abbreviation": "State v. Rocha",
+  "decision_date": "1993-02-12",
+  "docket_number": "No. 92-358-C.A.",
+  "first_page": "1129",
+  "last_page": "1129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "619 A.2d 1129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "414 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11287509
+      ],
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/414/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 117,
+    "char_count": 1130,
+    "ocr_confidence": 0.799,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18952707281389763
+    },
+    "sha256": "e22e68e8e3c64a55681916653de167524547638010df252b8e5c0415623f48b9",
+    "simhash": "1:0850909a1f3b8da4",
+    "word_count": 184
+  },
+  "last_updated": "2024-02-27T19:08:09.969113+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Carlos ROCHA."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the Supreme Court pursuant to an order issued to both the state and defendant to appear and show cause why the issues raised in this appeal should not be summarily decided. In this case defendant appeals from a Superior Court conviction of simple assault and battery after a jury trial.\nAfter reviewing the memoranda submitted by the parties and after hearing their counsel in oral argument, it is the conclusion of the court that cause has not been shown.\nThe defendant has failed to show any prejudice resulting from the joinder for trial of two separate cases involving similar activity. See State v. Young, 414 A.2d 185, 186 (R.I.1980).\nWe have carefully considered the other issues raised by defendant on appeal and conclude they are without merit. The defendant\u2019s appeal is, therefore, denied and dismissed, the judgment of conviction appealed from is affirmed and the papers of the case are remanded to the Superior Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Michael Egan, Jeffrey Greer, Providence.",
+      "Janice Weisfeld, Barbara Hurst, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Carlos ROCHA.\nNo. 92-358-C.A.\nSupreme Court of Rhode Island.\nFeb. 12, 1993.\nMichael Egan, Jeffrey Greer, Providence.\nJanice Weisfeld, Barbara Hurst, Providence."
+  },
+  "file_name": "1129-02",
+  "first_page_order": 1191,
+  "last_page_order": 1191
+}

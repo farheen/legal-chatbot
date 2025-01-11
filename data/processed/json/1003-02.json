@@ -1,0 +1,101 @@
+{
+  "id": 7282431,
+  "name": "In re Joseph P. SINDACO, Respondent",
+  "name_abbreviation": "In re Sindaco",
+  "decision_date": "2011-06-23",
+  "docket_number": "No. 11-BG-291",
+  "first_page": "1003",
+  "last_page": "1004",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 A.3d 1003"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    },
+    {
+      "cite": "44 So.3d 582",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1537,
+    "ocr_confidence": 0.719,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18824572397850223
+    },
+    "sha256": "458a4a0474bc0abd98aac18a03d8411a9f99c019c31dbc393d3372979979099f",
+    "simhash": "1:059620e8ef8a4677",
+    "word_count": 244
+  },
+  "last_updated": "2024-02-27T19:59:19.850177+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BLACKBURNE-RIGSBY, Associate Judge, NEBEKER and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re Joseph P. SINDACO, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the of the certified order from the Supreme Court of Florida disbarring respondent by consent and imposing conditions for reinstatement, see The Florida Bar v. Sindaco, 44 So.3d 582 (Fla.2010), this court\u2019s April 1, 2011, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal disciplines should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file either a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that Joseph P. Sindaco, Esquire, is hereby disbarred from the practice of law in the District of Columbia and any petition for reinstatement is conditioned upon compliance with the conditions imposed by the state of Florida. See In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate, including those involving disbarment). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as she files an affidavit that fully complies with the requirements of D.C.Bar. R. XI, \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Joseph P. SINDACO, Respondent.\nNo. 11-BG-291.\nDistrict of Columbia Court of Appeals.\nFiled June 23, 2011.\nBefore BLACKBURNE-RIGSBY, Associate Judge, NEBEKER and KING, Senior Judges."
+  },
+  "file_name": "1003-02",
+  "first_page_order": 1037,
+  "last_page_order": 1038
+}

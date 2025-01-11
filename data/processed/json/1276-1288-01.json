@@ -1,0 +1,92 @@
+{
+  "id": 11452476,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Woodrow Lynn WATKINS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Watkins",
+  "decision_date": "2002-08-22",
+  "docket_number": "",
+  "first_page": "1276-1288",
+  "last_page": "1289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "803 A.2d 1288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798719
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0214-01"
+      ]
+    },
+    {
+      "cite": "373 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 901,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24049587446990153
+    },
+    "sha256": "5d88091715082ec85539b0fc4a242baee5e3e6127ec64239e6512638eeb1ca22",
+    "simhash": "1:64a5b2e6e7db5d98",
+    "word_count": 143
+  },
+  "last_updated": "2024-02-27T16:12:26.817021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Woodrow Lynn WATKINS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of August 2002, the petition for allowance of appeal is GRANTED, limited to the issue of whether the Commonwealth violated federal or state due process obligations by failing to disclose to the defense and the fact-finder the full criminal history and record information of its key witness and alleged victim, thereby concealing the true extent of her potential prosecutorial bias or motive. The petition is DENIED in all other respects. The order of the Superior Court is REVERSED and REMANDED to the Common Pleas Court for an evidentiary hearing on the aforementioned issue. See Brady v. Maryland, 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963); Commonwealth v. Evans, 511 Pa. 214, 512 A.2d 626 (1986).\nJurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Woodrow Lynn WATKINS, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 22, 2002."
+  },
+  "file_name": "1276-1288-01",
+  "first_page_order": 1330,
+  "last_page_order": 1331
+}

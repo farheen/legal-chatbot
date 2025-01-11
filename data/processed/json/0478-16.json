@@ -1,0 +1,58 @@
+{
+  "id": 12485610,
+  "name": "Commonwealth v. Shawn D. Hansley",
+  "name_abbreviation": "Commonwealth v. Hansley",
+  "decision_date": "2016-06-23",
+  "docket_number": "NO. 117 MAL 2016",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 148,
+    "sha256": "8fcb53d4670b79a701b1ffe00ae308ba57b6f086820804b793a2acb3e373ff0d",
+    "simhash": "1:948e467cc1239178",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nShawn D. Hansley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nShawn D. Hansley\nNO. 117 MAL 2016\nSupreme Court of Pennsylvania\nJune 23, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0478-16",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

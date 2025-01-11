@@ -1,0 +1,64 @@
+{
+  "id": 12489438,
+  "name": "GRIFFIN, Allen v. STATE of Maryland",
+  "name_abbreviation": "Griffin v. State",
+  "decision_date": "2017-04-21",
+  "docket_number": "Pet. Docket No. 634, Sept. Term, 2016",
+  "first_page": "814",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 814"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 163,
+    "sha256": "49e9ec3aba27af32418912b5efc9db5f5f86ef2d7ca6af14db817cfdf8a06a34",
+    "simhash": "1:0eebda58e4cd0313",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GRIFFIN, Allen\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "GRIFFIN, Allen\nv.\nSTATE of Maryland\nPet. Docket No. 634, Sept. Term, 2016\nCourt of Appeals of Maryland.\nApril 21, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0814-03",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

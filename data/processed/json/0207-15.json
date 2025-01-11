@@ -1,0 +1,58 @@
+{
+  "id": 12486716,
+  "name": "Com. v. B. Williams, Jr.",
+  "name_abbreviation": "Com. v. Williams",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1036 MDA 2015",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 101,
+    "sha256": "e36c1520c7aba8155df3453248c3691b1a160baac95b964302c354198778cb7a",
+    "simhash": "1:145d4f09aa8a94d0",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Williams, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Williams, Jr.\nNO. 1036 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0207-15",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

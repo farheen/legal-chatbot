@@ -1,0 +1,59 @@
+{
+  "id": 6083144,
+  "name": "In re William W. Slaght",
+  "name_abbreviation": "In re Slaght",
+  "decision_date": "1963-05-02",
+  "docket_number": "No. 6998",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 95,
+    "ocr_confidence": 0.463,
+    "sha256": "d0a395127474c8b2dc78efb8068c1f67f7d43f06bb7be4044a44cd43115051ca",
+    "simhash": "1:98113bca00b00814",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William W. Slaght"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in intermediate\npropeller shaft bearing means.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re William W. Slaght\n(No. 6998)."
+  },
+  "file_name": "1588-11",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

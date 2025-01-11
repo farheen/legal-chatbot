@@ -1,0 +1,58 @@
+{
+  "id": 12490192,
+  "name": "KENT, R. v. PBPP",
+  "name_abbreviation": "Kent v. PBPP",
+  "decision_date": "2017-02-13",
+  "docket_number": "362 CD 2016",
+  "first_page": "1061",
+  "last_page": "1061",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1061"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 129,
+    "sha256": "c1cf47a68e65131eaa5881e456495d7f28fda9141407a8e0b30fda3c8fd2cfde",
+    "simhash": "1:bde9a8b508dcd41b",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KENT, R.\nv.\nPBPP"
+    ],
+    "opinions": [
+      {
+        "text": "Dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "KENT, R.\nv.\nPBPP\n362 CD 2016\nCommonwealth Court of Pennsylvania.\nFebruary 13, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1061-04",
+  "first_page_order": 1061,
+  "last_page_order": 1061
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488661,
+  "name": "Com. v. Sines, B.",
+  "name_abbreviation": "Com v. Sines",
+  "decision_date": "2016-05-26",
+  "docket_number": "1168 WDA 2015",
+  "first_page": "1161",
+  "last_page": "1161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "4e48c9dcb8d1daae40fcffd29e408fd730ce9c3cab884e420bf0326dae6a451c",
+    "simhash": "1:5c3922da52b18196",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSines, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSines, B.\n1168 WDA 2015\nSuperior Court of Pennsylvania.\nMay 26, 2016\nAffirmed"
+  },
+  "file_name": "1161-17",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

@@ -1,0 +1,82 @@
+{
+  "id": 7954975,
+  "name": "STATE v. James MURPHY and Ronald Barton",
+  "name_abbreviation": "State v. Murphy",
+  "decision_date": "1980-09-25",
+  "docket_number": "No. 79-429-C.A.",
+  "first_page": "1186",
+  "last_page": "1186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "423 A.2d 1186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "417 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944379
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/417/0310-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 832,
+    "ocr_confidence": 0.791,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20064818450805433
+    },
+    "sha256": "67ea85e026d8a6251f1fa5f52fc6175e579b43bb020ed86f8732fddab20c4059",
+    "simhash": "1:15846620a66074a0",
+    "word_count": 135
+  },
+  "last_updated": "2024-02-27T19:35:00.049706+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., and DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. James MURPHY and Ronald Barton."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motions of defendant James Murphy as supplemented wherein he seeks a hearing on the issue of bail are denied as moot. Defendant Murphy\u2019s motion for amended appeal and his motion to proceed pro se are denied. The motions of both defendants for dismissal of their indictments on the basis of this court\u2019s ruling in State v. O\u2019Coin, R.I., 417 A.2d 310 (1980), are assigned to the calendar for October 6, 1980, for argument with the merits of defendants\u2019 appeals.\nBEVILACQUA, C. J., and DORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.",
+      "Peter DiBiase, Providence, Vincent Sa-varese III, Boston, Mass., for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. James MURPHY and Ronald Barton.\nNo. 79-429-C.A.\nSupreme Court of Rhode Island.\nSept. 25, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.\nPeter DiBiase, Providence, Vincent Sa-varese III, Boston, Mass., for defendants."
+  },
+  "file_name": "1186-02",
+  "first_page_order": 1244,
+  "last_page_order": 1244
+}

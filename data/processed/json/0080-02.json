@@ -1,0 +1,64 @@
+{
+  "id": 12492186,
+  "name": "WINTER v. GONZALEZ",
+  "name_abbreviation": "Winter v. Gonzalez",
+  "decision_date": "2018-01-19",
+  "docket_number": "Pet. Docket No. 356, Sept. Term, 2017",
+  "first_page": "80",
+  "last_page": "80",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 A.3d 80"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 Md. 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "f6bfedec7703a7112a53cf390c50d75ba27a2b901e7ad0632be61677bafa73c3",
+    "simhash": "1:24ca4235121d4215",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:29.164649+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WINTER\nv.\nGONZALEZ"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "WINTER\nv.\nGONZALEZ\nPet. Docket No. 356, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJanuary 19, 2018\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0080-02",
+  "first_page_order": 80,
+  "last_page_order": 80
+}

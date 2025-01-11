@@ -1,0 +1,188 @@
+{
+  "id": 7364513,
+  "name": "Charles I. SHEETZ, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee",
+  "name_abbreviation": "Sheetz v. District of Columbia",
+  "decision_date": "1993-08-02",
+  "docket_number": "No. 92-CV-517",
+  "first_page": "515",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "629 A.2d 515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "584 A.2d 1230",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7393825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/584/1230-01"
+      ]
+    },
+    {
+      "cite": "585 A.2d 1320",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7394648
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1321-22"
+        },
+        {
+          "page": "note 1"
+        },
+        {
+          "page": "1321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/585/1320-01"
+      ]
+    },
+    {
+      "cite": "601 A.2d 37",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11935192
+      ],
+      "pin_cites": [
+        {
+          "page": "39-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/601/0037-01"
+      ]
+    },
+    {
+      "cite": "614 A.2d 40",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7927075
+      ],
+      "pin_cites": [
+        {
+          "page": "42-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/614/0040-01"
+      ]
+    },
+    {
+      "cite": "618 A.2d 114",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7350494
+      ],
+      "pin_cites": [
+        {
+          "page": "115"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/618/0114-01"
+      ]
+    },
+    {
+      "cite": "525 A.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7885177
+      ],
+      "pin_cites": [
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/525/0616-01"
+      ]
+    },
+    {
+      "cite": "1 U.S.C. \u00a7 204",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 687,
+    "char_count": 16658,
+    "ocr_confidence": 0.79,
+    "pagerank": {
+      "raw": 3.3211037983788745e-07,
+      "percentile": 0.8730288908735606
+    },
+    "sha256": "e55454da6541f7efcce388e648c7051bc8ae61fa937245c7652cc8d0ccd84ba9",
+    "simhash": "1:dd226da8460c4143",
+    "word_count": 2763
+  },
+  "last_updated": "2024-02-27T21:37:07.311454+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ROGERS, Chief Judge, and FERREN and SCHWELB, Associate Judges."
+    ],
+    "parties": [
+      "Charles I. SHEETZ, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "SCHWELB, Associate Judge:\nAppellants, Charles I. Sheetz and Mar-gareta Anne Miller, co-representatives of the estate of Margaret Parker Sheetz, filed suit in our Superior Court to set aside a tax sale of real property formerly owned by Mrs. Sheetz. They contended that the sale had not been conducted in strict compliance with the requirements of the tax sale statute and regulations. The trial judge granted motions of the District and of the purchasers at the tax sale for summary judgment, concluding that the regulation on which the appellants relied was inconsistent with the applicable statute. We affirm on the ground that the regulation was incorrectly printed in the compilation known as the District of Columbia Municipal Regulations (DCMR), and that the requirement with which the District allegedly failed to comply was never lawfully in effect.\nI.\nTHE FACTS\nThis case involves an attempt by appellants to set aside the 1987 and 1988 tax sales of property located at 1420 Potomac Avenue, S.E., Washington, D.C. The only challenge to the sales by the former owners, whose interests were terminated by the sales, concerns the sufficiency of published notice of the sales. The notices were published once in each of two newspapers of general circulation. The former owners argue that regulations then in effect required two publications of notice in each of the newspapers. In granting summary judgment, the trial judge held that \u201cas a matter of law, ... the published notice [of sale] was legally sufficient.\u201d [Mem. op. at 4.]\nMargaret Parker Sheetz, who owned the property at 1420 Potomac Avenue, S.E. at the time, did not pay District of Columbia real estate taxes for tax years 1986 and 1987. The District advertised the 1987 sale (for 1986 taxes) and the 1988 tax sale (for 1987 taxes) by publishing notice of each sale once in two newspapers of general circulation. The District met all other legal requirements for both sales, including mailed notice to the owner regarding each of the sales, and regarding the impending termination of each redemption period.\nThe former owners contend that the District was required to publish notice of each sale more than once in each of two newspapers of general circulation. They base their argument on 9 DCMR \u00a7 316.2 (July 1986), which arguably required more than a single publication of notices of sale. The version of \u00a7 316.2 published in the DCMR is substantially different from the version enacted by the Council of the District of Columbia in D.C. Law 5-8, 30 D.C.Reg. 1789 (May 20, 1983). The District\u2019s position is that the language enacted by the Council prevails, and that the version of the regulation erroneously published in July 1986 was never legally in effect. We agree with the District.\nII.\nTHE RELEVANT STATUTES AND REGULATIONS\nPrior to 1981, there were two daily newspapers in general circulation in the District of Columbia, the Washington Post and the Washington Star. At that time the applicable District of Columbia statute required that publication of notice of a tax sale be effected once in each of two daily newspapers published in the District. D.C.Code \u00a7 47-1001 (1973). The pre-Home Rule Council of the District of Columbia had also promulgated a regulation which required in pertinent part, consistently with \u00a7 47-1001, that \u201ca notice of sale of such [delinquent tax] property shall be advertised once in two major daily newspapers published in the District of Columbia at least three weeks prior to the day fixed for such sale.\u201d D.C. Regulation No. 74-35, 21 D.C.Reg. 1643, 1653 (Dec. 12, 1974).\nBy 1981, the Washington Star had ceased publication. The Council found it necessary to amend \u00a7 47-1001 because, following the demise of the Star, only one major District of Columbia newspaper \u2014 the Post \u2014 was being published on a daily basis. This amendment was accomplished through the enactment of the Newspaper Publication Act of 1981, D.C. Law 4-81. See generally, Report of the Committee on the Judiciary on Bill j-323, the Newspaper Publication Act of 1981, 29 D.C.Reg. 156 (Oct. 14, 1981). Section 5 of D.C. Law 4-81, now codified at D.C.Code \u00a7 1-1621 (1992), provides that\n[notwithstanding any other provisions of law, any other requirement that the District of Columbia publish notices in 2 daily newspapers shall be satisfied by publication in at least 2 general circulation newspapers, published in the District of Columbia, once every 2 weeks or more frequently.\n(Emphasis added). Moreover, since its amendment by Section 5 of D.C.Law 4-81, former D.C.Code \u00a7 47-1001, now codified at D.C.Code \u00a7 47-1301 (1990), has likewise provided, in pertinent part, as follows:\nThe notice of sale and the delinquent tax list shall be advertised according to regulations prescribed by the Council of the District of Columbia in no less than 2 general circulation newspapers published in the District, once every 2 weeks or more frequently.[ ]\nThe Council\u2019s evident purpose in enacting D.C.Law 4-81 was thus to authorize publication of notices in any newspapers of general circulation, and to eliminate the now impracticable requirement that these notices appear in newspapers published every day.\nThe administrative error which precipitated the dispute before us on this appeal came when the District\u2019s Office of Documents issued revised regulations after the 1981 changes in statutory law. In publishing the 1982 edition of Title 9 of the DCMR, the Office apparently attempted to modify the pre-Home Rule Council\u2019s regulation, see page 3, supra, to conform to D.C.Code \u00a7 1-1621 and to other provisions of D.C.Law 4-81. In the 1982 edition, 9 DCMR \u00a7 316.2 provided as follows:\nA notice of the sale of property on the list prepared under \u00a7 315 shall be advertised once every two (2) weeks or more frequently in two (2) general circulation newspapers published in the District at least three (3) weeks prior to the day fixed for the sale of the property.\nThe regulation, in this form, would obviously have required two publications in each newspaper, although only one publication in each was required by the statute.\nUnsurprisingly, the Council found that this provision of the DCMR was contrary to its intent in enacting D.C.Law 4-81. Through emergency legislation, effective December 28, 1982, and by later permanent legislation, the Council therefore amended 9 DCMR \u00a7 316.2 to read as follows:\nThe notice of sale of property set forth on the delinquent tax list prepared under section 315 of this Chapter shall be advertised once in two (2) general circulation newspapers published in the District once every two (2) weeks or more frequently. The notice must be published at least three (3) weeks prior to the day fixed for such sale.\n(Emphasis added). D.C.Act No. 4-298, 30 D.C.Reg. 275 (Dec. 28, 1982); D.C.Law No. 5-8, 30 D.C.Reg. 1789 (May 20, 1983).\nThe problem finally appeared to have been resolved, but it had not been. To be sure, the March 1984 edition of Title 9 of the DCMR contains the text of \u00a7 316.2 exactly as set out by the Council in D.C.Law 5-8, supra. For some inexplicable reason, however, the July 1986 edition of Title 9 contained a version of \u00a7 316.2 identical to the one in the 1982 edition \u2014 the very provision which the Council had expressly rejected by enacting D.C.Law 5-8 and the earlier emergency law. 9 DCMR \u00a7 316.2 (July 1986) provided:\nA notice of the sale of property on the list prepared under \u00a7 315 shall be advertised once every two (2) weeks or more frequently in two (2) general circulation newspapers published in the District at least three (3) weeks prior to the day fixed for the sale of the property.\n(Emphasis added).\nThe Office of Documents is required to correct errors in the District of Columbia Municipal Regulations by \u201cpublication of an errata list or by publication of the entire document or the affected part of the document in its corrected form.\u201d D.C.Code \u00a7 1-1539 (1992). The September 16, 1988 issue of the D.C. Register contains an Erratum Notice from the Office of Documents, which states that:\nThe Real Property Tax Sale Regulations Amendment Act of 1983, D.C.Law 5-8 effective May 20, 1983, was published at 30 DCR 1789 on April 22, 1983. Section 2 of that act as codified as 9 DCMR \u00a7 316.2 (March 1984). The subsequent codification of this provision as \u00a7 316.2 of 9 DCMR (July 1986) contains an inadvertent error. It should read as shown below.\n316 SALE OF PROPERTY FOR DELINQUENT TAXES\n316.2 A notice of sale of property on the list prepared under \u00a7 315 shall be advertised once in two (2) general circulation newspapers published in the District at least once every two (2) weeks or more frequently. The notice shall be published at least three (3) weeks prior to the day fixed for the sale of the property.\n35 D.C.Reg. 6958 (Sept. 16, 1988).\nIII.\nLEGAL DISCUSSION\nAs we have shown above, the Office of Documents made a mistake when it published the July 1986 edition of Title 9 of the District of Columbia Municipal Regulations. It should have included \u00a7 316.2 of Title 9 exactly as enacted by the Council by D.C.Law 5-8. Instead, the Office republished the 1982 version of the regulation, a version which had been expressly rejected by the Council when it enacted D.C.Law 5-8. The error was subsequently corrected in the manner contemplated by law.\nThe Office of Documents does not have (or claim) the authority to repeal laws enacted by the Council of the District of Columbia. Any errors which it may make in compiling the Council\u2019s regulations do not create such authority. The Council\u2019s enactment of D.C.Law 5-8, as well as that provision\u2019s legislative history, demonstrate that \u00a7 316.2 was amended because the earlier 1986 version was not in conformity with the law or with the Council\u2019s express intent.\nThe District\u2019s Municipal Regulations are prima facie evidence, but not conclusive evidence, of the law. D.C.Code \u00a7 l-1541(a) (1987) provides, in pertinent part, that \u201c[t]he publication of any document in ... the District of Columbia Municipal Regulations ... creates a rebuttable presumption that it was duly ... enacted.\u201d Section 1-1541(1) is in accord with federal legislation providing that the District of Columbia Code is prima facie evidence, but no more than that, of the laws in force in the District. 1 U.S.C. \u00a7 204(b). In Burt v. District of Columbia, 525 A.2d 616, 619 (D.C.1987), this court held, applying 1 U.S.C. \u00a7 204(b), that when there is an inconsistency between the District of Columbia Statutes-at-Large and the published District of Columbia Code, the Statutes-at-Large must prevail.\nThe District argues, and we agree, that because the statutory presumption that a provision of the Municipal Regulations was \u201cduly enacted\u201d is a rebuttable one, courts must look behind the text of the regulation as it appears in the DCMR when the accuracy of that text is challenged. In those rare instances where a mistake has been made, the law as it appears in municipal regulations as published by the Office of Documents cannot control; we must apply the law as passed by the Council. Here, the purported regulation published at 9 DCMR \u00a7 316.2 (July 1986) was plainly inconsistent with D.C.Law 5-8. The law as enacted must prevail over the regulation as incorrectly and improvidently published.\nWe emphasize that this is not a case in which the failure to comply with the incorrect version of the regulation prejudiced the former owners in any way. They do not deny that they received actual notice of the sales in question. If the District had complied with the regulation as published, the appellants would not have received any information which they did not already have as a result of the steps which the District did take.\nA tax sale of a home is not a trivial event. We have recently applied to the citizens of the District William Pitt\u2019s famous declaration that \u201cevery [English-jman\u2019s house [is] his castle.\u201d Griffin v. United States, 618 A.2d 114, 115 (D.C.1992) (citations omitted). Important values are implicated in cases such as this. We have therefore required strict compliance with applicable statutes and regulations before requiring a citizen to give up his or her home to the tax collector.\nWe have, however, declined to carry the requirement of strict compliance to unreasonable extremes. See, e.g., Gore v. Newsome, 614 A.2d 40, 42-45 (D.C.1992). If we were to hold, in the absence of any showing of prejudice, that the District\u2019s failure to comply with a regulation which was on the books purely as a result of an administrative error required us to set aside a sale, we would not be protecting any legitimate right or expectation of the former homeowner. Rather, we would be eschewing the equitable resolution of the dispute and deciding it upon the basis of an inconsequential technical fortuity. This we are not prepared to do.\nIV.\nCONCLUSION\nFor the foregoing reasons, the judgment of the trial court is hereby\nAffirmed.\n. For descriptions of these requirements, see, e.g., District of Columbia v. Mayhew, 601 A.2d 37, 39-40 (D.C.1991); Jones v. District of Columbia, 585 A.2d 1320, 1321-22 (D.C.1990).\n. The words \"once every 2 weeks or more frequently\" refer to the required frequency of publication of the newspapers, not of the notice. Jones, supra note 1, 585 A.2d at 1321.\n. The Report of the Committee on Finance and Revenue on Bill 5-58, Real Property Tax Sale Regulation Amendment Act of 1983, p. 1-2 (Feb. 10, 1983) states:\nBill 5-58 changes the regulation [9 DCMR \u00a7 316.2] in regard to publication of the real property tax sale notice to conform to the statutory changes enacted in the Newspaper Publication Act of 1981, D.C.Law 4-81. Those regulations are required by Law to be adopted by the Council.\nIn publishing Title 9 of the District of Columbia Municipal Regulations, this regulation was changed without Council action. In addition to lacking the necessary Council approv-' al, the new regulation does not conform to the changes made by the Newspaper Publication Act of 1981.\nRegulation 74-35, enacted December 12, 1974, required publication of the tax sale once in two major daily newspapers. Following the demise of The Star newspaper, the Council enacted D.C.Law 4-81, Newspaper Publication Act of 1981, to provide that the tax sale must be published once in two general circulation newspapers, and defined a general circulation newspaper as one \"published in the District, once every two weeks or more frequently.\" When Title 9 of the D.C. Municipal Regulations was published in July 1982, the regulation in regard to tax sales stated that the tax sale must be published once every two weeks in two general circulation newspapers. This regulation does not conform to D.C.Law 4-81 nor was it enacted by the Council as required by law.\nAt the Council\u2019s legislative session on December 14, 1982, the Council adopted Act 4-298, Real Property Tax Sale Regulations Amendment Emergency Act of 1982. The Emergency Act brought the tax sale regulations into conformity with D.C. Law 4-81. Act 4-298 will expire on March 29, 1983. Bill 5-58 is the permanent legislation for Act 4-298. The Executive Branch supports the passage of Bill 5-58.\n. Comparison of this language with D.C.Code \u00a7 47-1301 indicates that the 1982 and 1986 versions probably have a typographical error and that the emphasized language should have been placed after the word \u201cDistrict,\u201d as it was in the statute and in the 1984 version of 9 DCMR \u00a7 316.2.\n. The trial court ruled against the former owners on other grounds. Contrary to appellants' position, however, the judgment of the trial court may be affirmed on a ground not raised or considered below. See e.g., In re O.L., 584 A.2d 1230, 1232 & n. 6 (D.C.1990). In the present case, the District has not relied on appeal on any evidence not presented to the trial court. Rather, the District has brought to our attention legal material \u2014 statutes, regulations, and case law \u2014 which are available to counsel for all parties, and of which we can properly take judicial notice. Appellants have had an appropriate opportunity to respond to the District's arguments, and have suffered no procedural unfairness.",
+        "type": "majority",
+        "author": "SCHWELB, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "A. Slater Clarke, Chevy Chase, MD, for appellants.",
+      "Edward E. Schwab, Asst. Corp. Counsel, with whom John Payton, Corp. Counsel, Charles L. Reischel, Deputy Corp. Counsel, and Lutz Alexander Prager, Asst. Deputy Corp. Counsel, Washington, DC, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Charles I. SHEETZ, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee.\nNo. 92-CV-517.\nDistrict of Columbia Court of Appeals.\nArgued March 10, 1993.\nDecided Aug. 2, 1993.\nA. Slater Clarke, Chevy Chase, MD, for appellants.\nEdward E. Schwab, Asst. Corp. Counsel, with whom John Payton, Corp. Counsel, Charles L. Reischel, Deputy Corp. Counsel, and Lutz Alexander Prager, Asst. Deputy Corp. Counsel, Washington, DC, were on the brief, for appellee.\nBefore ROGERS, Chief Judge, and FERREN and SCHWELB, Associate Judges."
+  },
+  "file_name": "0515-01",
+  "first_page_order": 565,
+  "last_page_order": 570
+}

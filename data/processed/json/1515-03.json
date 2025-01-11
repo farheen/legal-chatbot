@@ -1,0 +1,59 @@
+{
+  "id": 6093176,
+  "name": "In re Norman Kudisch et al.",
+  "name_abbreviation": "In re Kudisch",
+  "decision_date": "1968-07-18",
+  "docket_number": "No. 8364",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 82,
+    "ocr_confidence": 0.477,
+    "sha256": "eb5d6f6e9ecf26c75ac13266ee0d6b3c7e6fc8788681e518caf4a69cfcdab2f2",
+    "simhash": "1:505425059ab084f4",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Norman Kudisch et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Polymerization of epoxides.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 18, 1968\nNo. 8364.\nIn re Norman Kudisch et al."
+  },
+  "file_name": "1515-03",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

@@ -1,0 +1,59 @@
+{
+  "id": 11110758,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Albert BUTLER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Butler",
+  "decision_date": "2001-03-27",
+  "docket_number": "",
+  "first_page": "442",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "769 A.2d 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 507,
+    "ocr_confidence": 0.637,
+    "sha256": "33dd0f1c4337de7cc2c0d7a5883ed7e7a30340eb292d796f5ed8a1623e5871cc",
+    "simhash": "1:04d7900f06cb6c91",
+    "word_count": 80
+  },
+  "last_updated": "2023-07-14T21:03:57.525102+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Albert BUTLER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 27th day of March, 2001, the Petition for Alowance of Appeal is hereby GRANTED, limited to the following issue:\nDid the Superior Court err in affirming the denial of Petitioner\u2019s PCRA petition when it deemed all of Petitioner\u2019s issues waived due to counsel\u2019s failure to file a Statement of Matters Complained of on Appeal pursuant to Pa.R.Crim.P. 1925(b)?",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Albert BUTLER, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 27, 2001."
+  },
+  "file_name": "0442-03",
+  "first_page_order": 494,
+  "last_page_order": 495
+}

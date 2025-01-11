@@ -1,0 +1,59 @@
+{
+  "id": 7356967,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Brian BRAZIL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Brazil",
+  "decision_date": "1996-12-11",
+  "docket_number": "",
+  "first_page": "999",
+  "last_page": "1000",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "685 A.2d 999"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 469,
+    "ocr_confidence": 0.705,
+    "sha256": "64b7850d47566d1e429a630e6af6cc11914473177c471c9a75577c8a0802dd21",
+    "simhash": "1:54ac472be7eb8cc6",
+    "word_count": 73
+  },
+  "last_updated": "2023-07-14T14:32:05.472585+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Brian BRAZIL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of December, 1996, the Petition for Allowance of Appeal is hereby GRANTED but LIMITED to the following issue:\nDid the Superior Court err in holding that the totality of the circumstances regarding petitioner\u2019s representation at trial obviated the waiver of counsel requirement of Pa. Rule of Crim. Pro. 818(d)?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Brian BRAZIL, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 11, 1996."
+  },
+  "file_name": "0999-03",
+  "first_page_order": 1071,
+  "last_page_order": 1072
+}

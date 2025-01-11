@@ -1,0 +1,59 @@
+{
+  "id": 6081204,
+  "name": "In re Vladmir Dvorkovitz and Thomas G. Hawley, Jr.",
+  "name_abbreviation": "In re Dvorkovitz",
+  "decision_date": "1959-05-06",
+  "docket_number": "No. 6444",
+  "first_page": "988",
+  "last_page": "988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 988"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 171,
+    "ocr_confidence": 0.495,
+    "sha256": "3fb4345f7aba1ae3a4b9fdeec38774d88b986556a3d318f8be53e70b662265e7",
+    "simhash": "1:0640cb72b0d55699",
+    "word_count": 26
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Vladmir Dvorkovitz and Thomas G. Hawley, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in washing composition containing glucoheptonic acid or alkali metal salts thereof.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 6, 1959\nIn re Vladmir Dvorkovitz and Thomas G. Hawley, Jr.\n(No. 6444)."
+  },
+  "file_name": "0988-04",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

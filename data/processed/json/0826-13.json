@@ -1,0 +1,58 @@
+{
+  "id": 12487621,
+  "name": "Yellow 2000 of Philadelphia v. Philadelphia Parking Authority",
+  "name_abbreviation": "Yellow 2000 of Phila. v. Phila. Parking Auth.",
+  "decision_date": "2016-07-11",
+  "docket_number": "NO. 2036 CD 15",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 826"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 171,
+    "sha256": "b23312a2fefad20a9b66dacb1b3c51487bd60960dbf2a72ca2608eb54e7a6537",
+    "simhash": "1:25d5f2000db2b064",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yellow 2000 of Philadelphia\nv.\nPhiladelphia Parking Authority"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Yellow 2000 of Philadelphia\nv.\nPhiladelphia Parking Authority\nNO. 2036 CD 15\nCommonwealth Court of Pennsylvania\nJuly 11, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0826-13",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

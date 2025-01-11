@@ -1,0 +1,71 @@
+{
+  "id": 11251761,
+  "name": "OPINION OF THE JUSTICES of the Supreme Court in Response to a Question Propounded by the Governor of Delaware",
+  "name_abbreviation": "Opinion of the Justices",
+  "decision_date": "1973-04-13",
+  "docket_number": "",
+  "first_page": "607",
+  "last_page": "608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "305 A.2d 607"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "189 A.2d 777",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 187,
+    "char_count": 2625,
+    "ocr_confidence": 0.799,
+    "pagerank": {
+      "raw": 1.0471189698489554e-07,
+      "percentile": 0.5524248711025237
+    },
+    "sha256": "bf3081498514c6e4c579ab518b3b7e6baae9b1223dc0068ac1b0c803b2861476",
+    "simhash": "1:02b18d89c2606c5c",
+    "word_count": 433
+  },
+  "last_updated": "2024-02-27T19:41:34.247497+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OPINION OF THE JUSTICES of the Supreme Court in Response to a Question Propounded by the Governor of Delaware."
+    ],
+    "opinions": [
+      {
+        "text": "To His Excellency Sherman W. Tribbitt Governor of Delaware\nReference is made to your letter, dated April 6, 1973, requesting the opinions of the Justices, under 10 Del.C. \u00a7 141, upon the following question:\n\u201cIf, upon the expiration of twelve years from the date from the beginning of the term of the Judge of the Court of Common Pleas for Sussex County, no successor has been appointed, may the incumbent hold over under the provisions of Article XV, Section 5, of the Constitution of Delaware [Del.C.Ann.] while the Senate is in session ? \u201d\nThe Judge of the Court of Common Pleas for Sussex County is a statutory judge appointed under the authority of 10 Del.C. \u00a7 1602(a). That Statute provides:\n\u201c(a) The Governor shall appoint and commission a Judge for a term of 12 years who shall hold and preside over the Court of Common Pleas for Sussex County.\u201d\nThis judgeship is governed by Article XV, Section 5 of the Delaware Constitution which provides:\n\u201cSection 5. All public officers shall hold their respective offices until their successors shall be duly qualified, except in cases herein otherwise provided.\u201d\nWe find no provision of the Constitution creating an exception to Art. XV, Sec. 5 for statutory judges; it is nowhere in the Constitution \u201cotherwise provided\u201d. Accordingly, it is our opinion that Art. XV, Sec. 5 controls the question presented.\nIn Opinion of the Justices, Del.Supr., 189 A.2d 777 (1963), it was advised that constitutional judgeships are not governed by Art. XV, Sec. 5 because it was \u201cotherwise provided\u201d by Art. IV, Sec. 3 of the Constitution. That Opinion was not addressed to statutory judgeships. Any statement therein contained which may seem inconsistent with this Opinion is hereby superseded.\nFor the foregoing reasons, it is the unanimous opinion of the undersigned that the answer to the question presented is affirmative.\nRespectfully submitted,\nDaniel F. Wolcott, Chief Justice\nJames B. Carey, D. L. Herrmann, Associate Justices.\n10 Del.C. \u00a7 141 provides:\n\u201c\u00a7 141. Opinions of the Justices upon request of the. Governor\n\u201cThe Justices of the Supreme Court, whenever the Governor of this State shall require it for public information, or to enable him to discharge the duties of his office with fidelity, shall give him their opinions in writing touching the proper construction of any provision in the Constitution of this State or of the United States, or the constitutionality of any law enacted by the Legislature of this State.\u201d",
+        "type": "majority",
+        "author": "Daniel F. Wolcott, Chief Justice James B. Carey, D. L. Herrmann, Associate Justices."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "OPINION OF THE JUSTICES of the Supreme Court in Response to a Question Propounded by the Governor of Delaware.\nSupreme Court of Delaware.\nApril 13, 1973."
+  },
+  "file_name": "0607-01",
+  "first_page_order": 643,
+  "last_page_order": 644
+}

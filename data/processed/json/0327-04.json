@@ -1,0 +1,79 @@
+{
+  "id": 7981166,
+  "name": "GEOFFREY DISTRIBUTING CO., INC. v. The HUMAN RIGHTS COMMISSION et al.",
+  "name_abbreviation": "Geoffrey Distributing Co. v. Human Rights Commission",
+  "decision_date": "1981-09-10",
+  "docket_number": "No. 81-288-M.P.",
+  "first_page": "327",
+  "last_page": "328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "435 A.2d 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "433 A.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7999844,
+        8000009,
+        7999932
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/433/0682-01",
+        "/a2d/433/0682-03",
+        "/a2d/433/0682-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 378,
+    "ocr_confidence": 0.762,
+    "sha256": "5064823a47c1e6aa5298d73a93810c439aa99c16e157bdb25171fb030b1b5b64",
+    "simhash": "1:2f8d205d9fa004e6",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T20:40:31.405877+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GEOFFREY DISTRIBUTING CO., INC. v. The HUMAN RIGHTS COMMISSION et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for reconsideration, 433 A.2d 682, is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Schreiber Law Associates, Ira L. Schreiber, Adeen J. Postar, Providence, for petitioner.",
+      "Dennis J. Roberts II, Atty. Gen., Eileen G. Cooney, Sp. Asst. Atty. Gen., for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "GEOFFREY DISTRIBUTING CO., INC. v. The HUMAN RIGHTS COMMISSION et al.\nNo. 81-288-M.P.\nSupreme Court of Rhode Island.\nSept. 10, 1981.\nSchreiber Law Associates, Ira L. Schreiber, Adeen J. Postar, Providence, for petitioner.\nDennis J. Roberts II, Atty. Gen., Eileen G. Cooney, Sp. Asst. Atty. Gen., for respondents."
+  },
+  "file_name": "0327-04",
+  "first_page_order": 387,
+  "last_page_order": 388
+}

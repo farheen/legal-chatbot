@@ -1,0 +1,58 @@
+{
+  "id": 12488446,
+  "name": "In re: C.K.F. Appeal of: A.S.",
+  "name_abbreviation": "In re",
+  "decision_date": "2016-05-13",
+  "docket_number": "1533 MDA 2015",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 99,
+    "sha256": "e6cf65f3e7065a0e1d638a812b63931684eea9d89cefe5d3a0805996eebd5b1f",
+    "simhash": "1:810044285ebb0120",
+    "word_count": 17
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: C.K.F."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re: C.K.F.\nAppeal of: A.S.\n1533 MDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nAffirmed"
+  },
+  "file_name": "1147-15",
+  "first_page_order": 1147,
+  "last_page_order": 1147
+}

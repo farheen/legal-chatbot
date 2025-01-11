@@ -1,0 +1,59 @@
+{
+  "id": 6087926,
+  "name": "In re Richard J. DeGray, et al.",
+  "name_abbreviation": "In re DeGray",
+  "decision_date": "1967-08-02",
+  "docket_number": "No. 7738",
+  "first_page": "1639",
+  "last_page": "1639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 98,
+    "ocr_confidence": 0.526,
+    "sha256": "7016a66cefd3d15237ffcba6738d5e55323e506167e7938d289b2fadcfd20d05",
+    "simhash": "1:69cc282f4c9ea037",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Richard J. DeGray, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Preservation of kerosine during storage.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "August 2, 1967\nNo. 7738.\nIn re Richard J. DeGray, et al."
+  },
+  "file_name": "1639-04",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

@@ -1,0 +1,88 @@
+{
+  "id": 7298853,
+  "name": "COMMONWEALTH OF PENNSYLVANIA/DEPARTMENT OF PUBLIC WELFARE v. WORKERS' COMPENSATION APPEAL BOARD (HARVEY) Petition of Larry Harvey",
+  "name_abbreviation": "Commonwealth Department of Public Welfare v. Workers' Compensation Appeal Board",
+  "decision_date": "2009-05-13",
+  "docket_number": "",
+  "first_page": "1122",
+  "last_page": "1123",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "971 A.2d 1122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "911 A.2d 241",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8401723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0241-01"
+      ]
+    },
+    {
+      "cite": "911 A.2d 225",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8401659
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0225-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 132,
+    "char_count": 1402,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18840635110386744
+    },
+    "sha256": "b0b5857ea816dc4a527bdab737fafdd1ec6e0da944c97ba91f06d74915c4113d",
+    "simhash": "1:761f6222cb61ea7b",
+    "word_count": 219
+  },
+  "last_updated": "2024-02-27T22:54:45.080504+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH OF PENNSYLVANIA/DEPARTMENT OF PUBLIC WELFARE v. WORKERS\u2019 COMPENSATION APPEAL BOARD (HARVEY) Petition of Larry Harvey."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day May 2009, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue, as phrased by petitioner, is:\nWhen the evidence establishes that an employer has contributed very little, if anything, to a claimant\u2019s pension during [the] years in which the claimant was employed and participated in [a defined benefit] plan, did the Commonwealth Court err by:\n(1) affirming its decisions in Pennsylvania State University/PMA Insurance Group v. WCAB (Hensal), 911 A.2d 225 (Pa.Cmwlth.2006) and Department of Public Welfare/Western Center v. WCAB (Cato), 911 A.2d 241 (Pa.Cmwlth.2006), and holding that an employer meets its burden of proof by only presenting evidence of an actuarially assumed rate of annual return on an employer\u2019s contribution rather than evidence confirming the actual rate of return on the pension; and\n(2) disregarding the plain language of Section 204(a) of the Workers\u2019 Compensation Act, 77 P.S. \u00a7 71(a), which grants an employer a credit against an employee\u2019s pension only \u201cto the extent [the pension is] funded by the employer directly liable for the payment of workers\u2019 compensation\u201d?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH OF PENNSYLVANIA/DEPARTMENT OF PUBLIC WELFARE v. WORKERS\u2019 COMPENSATION APPEAL BOARD (HARVEY) Petition of Larry Harvey.\nSupreme Court of Pennsylvania.\nMay 13, 2009."
+  },
+  "file_name": "1122-03",
+  "first_page_order": 1150,
+  "last_page_order": 1151
+}

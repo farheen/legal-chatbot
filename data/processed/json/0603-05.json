@@ -1,0 +1,58 @@
+{
+  "id": 12486087,
+  "name": "Com. v. A. Lovejoy",
+  "name_abbreviation": "Com. v. Lovejoy",
+  "decision_date": "2016-02-25",
+  "docket_number": "NO. 998 MDA 2015",
+  "first_page": "603",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 157,
+    "sha256": "4d18f33fe9a517a1cd8043622a72ba5097553898f09d8fd0efc55c12b811a93b",
+    "simhash": "1:651416a810df1d97",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Lovejoy"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Lovejoy\nNO. 998 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 25, 2016\nDisposition: Affirmed.\nPetition for reargument denied April 28, 2016."
+  },
+  "file_name": "0603-05",
+  "first_page_order": 603,
+  "last_page_order": 603
+}

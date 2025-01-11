@@ -1,0 +1,117 @@
+{
+  "id": 7881307,
+  "name": "STATE of Maine v. Edward L. BENNER",
+  "name_abbreviation": "State v. Benner",
+  "decision_date": "1989-01-30",
+  "docket_number": "",
+  "first_page": "219",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "553 A.2d 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "5 L.Ed. 37",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1442088
+      ],
+      "year": 1820,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/18/0076-01"
+      ]
+    },
+    {
+      "cite": "278 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8078017
+      ],
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/278/0693-01"
+      ]
+    },
+    {
+      "cite": "330 A.2d 124",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12023258
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/330/0124-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 207,
+    "char_count": 2110,
+    "ocr_confidence": 0.747,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2004933492261518
+    },
+    "sha256": "06791133a0a0ce41f2aa68690817310a0319b58617600b2b6c768a6212c0270f",
+    "simhash": "1:f8d84fa943b9c71b",
+    "word_count": 330
+  },
+  "last_updated": "2024-02-27T19:40:38.695700+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and ROBERTS, WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Edward L. BENNER."
+    ],
+    "opinions": [
+      {
+        "text": "WATHEN, Justice.\nDefendant Edward L. Benner appeals from his conviction of unlawful trafficking in scheduled drugs following his entry of a conditional guilty plea after the Superior Court (Knox County, Silsby, J.) denied his motion to dismiss the indictment. He argues on appeal that the legislative definition of \u201cunlawful trafficking\u201d, which includes \u201cto grow or to cultivate\u201d, (17-A M.R.S.A. \u00a7 1101(17)(B) (1983 & Supp. 1988-1989)), conflicts with common understanding of the term \u201ctrafficking\u201d and thus unfairly stigmatizes him in violation of the due process guarantees of both the Maine and United States Constitutions.\nWe have previously recognized the authority of the Legislature to define crimes. In State v. King, 330 A.2d 124, 127 (Me. 1974) we stated:\nThe traffic in illicit drugs is a social phenomenon causing widespread concern. The legislature is the voice of the sovereign people, who are entitled to expect that legislative enactments rationally related to valid public policy will be given full effect.\nIt seems to us that the interest of the legislature is paramount in the field of penology and the public safety. The legislature defines the contours of the crime itself, sets the limits for punishment, and provides for implementing and administering the system of correction,\n(emphasis added). See also Opinion of the Justices, 278 A.2d 693, 696 (Me.1971) \u201cthe power of punishment is vested in the legislative, not in the judicial department. It is the legislature, not the court, which is to define a crime and ordain its punishment.\u201d (quoting United States v. Wiltberger, 18 U.S. (5 Wheat) 76, 95, 5 L.Ed. 37 (1820)). Accordingly, we conclude that defendant\u2019s argument is without merit.\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "WATHEN, Justice."
+      }
+    ],
+    "attorneys": [
+      "William R. Anderson, Dist. Atty., Leanne M. Zainea, Asst. Dist. Atty., Rockland, for plaintiff.",
+      "Joseph Steinberger, Rockland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Edward L. BENNER.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Jan. 11, 1989.\nDecided Jan. 30, 1989.\nWilliam R. Anderson, Dist. Atty., Leanne M. Zainea, Asst. Dist. Atty., Rockland, for plaintiff.\nJoseph Steinberger, Rockland, for defendant.\nBefore McKUSICK, C.J., and ROBERTS, WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+  },
+  "file_name": "0219-02",
+  "first_page_order": 271,
+  "last_page_order": 272
+}

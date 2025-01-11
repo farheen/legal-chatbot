@@ -1,0 +1,59 @@
+{
+  "id": 6080920,
+  "name": "In re Shortell",
+  "name_abbreviation": "In re Shortell",
+  "decision_date": "1958-03-04",
+  "docket_number": "No. 6344",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1053"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 84,
+    "ocr_confidence": 0.409,
+    "sha256": "23dae26440549cec23ebac003cfe84c622b0f4476faef5490244c6ad3d80f2de",
+    "simhash": "1:5129585b0eeba054",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Shortell"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in design for hole saw blades.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 4, 1958\nIn re Shortell\n(No. 6344)."
+  },
+  "file_name": "1053-06",
+  "first_page_order": 383,
+  "last_page_order": 383
+}

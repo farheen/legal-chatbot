@@ -1,0 +1,59 @@
+{
+  "id": 6093075,
+  "name": "In re Francesco Turini",
+  "name_abbreviation": "In re Turini",
+  "decision_date": "1968-05-15",
+  "docket_number": "No. 8384",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 214,
+    "ocr_confidence": 0.49,
+    "sha256": "9f4e99ea61973329dc78412167534c827857472405605da99e589528dfa8d5d1",
+    "simhash": "1:205579fb1d38fe4a",
+    "word_count": 33
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Francesco Turini"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Process and arrangement for forming of a heel or toe pocket and/or other pockets in knitted fabrics obtained through continuously rotating circular hosiery machines.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 15, 1968\nNo. 8384.\nIn re Francesco Turini"
+  },
+  "file_name": "1514-13",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

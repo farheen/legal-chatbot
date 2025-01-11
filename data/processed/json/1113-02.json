@@ -1,0 +1,61 @@
+{
+  "id": 11634094,
+  "name": "John WITHERSPOON, Petitioner, v. CITY OF PHILADELPHIA, Respondent",
+  "name_abbreviation": "Witherspoon v. City of Philadelphia",
+  "decision_date": "1999-04-28",
+  "docket_number": "",
+  "first_page": "1113",
+  "last_page": "1113",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "727 A.2d 1113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 518,
+    "ocr_confidence": 0.704,
+    "sha256": "71902856747bbee278f39e1552beff69ff95d57344e75188117ef7413f202334",
+    "simhash": "1:380f63a6702278af",
+    "word_count": 79
+  },
+  "last_updated": "2023-07-14T16:27:16.725072+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John WITHERSPOON, Petitioner, v. CITY OF PHILADELPHIA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 28th day of April, 1999, we GRANT the Petition for Allowance of Appeal LIMITED to the following issue:\nIn determining whether the statute of limitations has been tolled, must the court inquire into whether the plaintiff has made good faith efforts to serve process after the initial thirty-day service period has expired?",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Richard G. Freeman, Philadelphia, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "John WITHERSPOON, Petitioner, v. CITY OF PHILADELPHIA, Respondent.\nSupreme Court of Pennsylvania.\nApril 28, 1999.\nRichard G. Freeman, Philadelphia, for petitioner."
+  },
+  "file_name": "1113-02",
+  "first_page_order": 1167,
+  "last_page_order": 1167
+}

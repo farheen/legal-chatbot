@@ -1,0 +1,59 @@
+{
+  "id": 6082148,
+  "name": "In re Daniel M. Moyer",
+  "name_abbreviation": "In re Moyer",
+  "decision_date": "1960-10-10",
+  "docket_number": "No. 6689",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 67,
+    "ocr_confidence": 0.473,
+    "sha256": "5fe257f7ee7dd7bfdadf9efb0ea304f11c7f3bbcd2d8a46f5e222bba7fd2a682",
+    "simhash": "1:2be2da5f97476da2",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Daniel M. Moyer"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in wearing apparel.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Daniel M. Moyer\n(No. 6689)."
+  },
+  "file_name": "1155-05",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

@@ -1,0 +1,64 @@
+{
+  "id": 7944151,
+  "name": "In the Matter of ANGELO C., Leslie C., and Glen K.",
+  "name_abbreviation": "In re Angelo C.",
+  "decision_date": "1980-06-12",
+  "docket_number": "No. 80-278-M.P",
+  "first_page": "91",
+  "last_page": "91",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "420 A.2d 91"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 629,
+    "ocr_confidence": 0.805,
+    "sha256": "81c4e61d0b4dfe9cf35e01e4cd9ccc2ad972dc07415c939cb3d32a79bb28997d",
+    "simhash": "1:79f32d03df71e80b",
+    "word_count": 105
+  },
+  "last_updated": "2023-07-14T14:49:01.032278+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, J., did not participate."
+    ],
+    "parties": [
+      "In the Matter of ANGELO C., Leslie C., and Glen K."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondent is directed to file its answer to the petition for writ of habeas corpus and therein to show cause, if any it has, why the petition should not be granted, said answer to be made in compliance with the provisions of Rule 14. The petitioner\u2019s motion for stay of the Family Court decree is denied.\nWEISBERGER, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "James Murray, Pawtucket, for petitioner.",
+      "Mary Nagle, Asst. Public Defender, Chester Lupton, Department of Children and Their Families, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of ANGELO C., Leslie C., and Glen K.\nNo. 80-278-M.P.\nSupreme Court of Rhode Island.\nJune 12, 1980.\nJames Murray, Pawtucket, for petitioner.\nMary Nagle, Asst. Public Defender, Chester Lupton, Department of Children and Their Families, Providence, for respondent."
+  },
+  "file_name": "0091-03",
+  "first_page_order": 147,
+  "last_page_order": 147
+}

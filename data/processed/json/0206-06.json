@@ -1,0 +1,58 @@
+{
+  "id": 12486707,
+  "name": "Com. v. R. Brown",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 3378 EDA 2014",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "39ca1a90811ec68c5238091fa843f16489dea087505cf9bfe224f807317cc87d",
+    "simhash": "1:9543fbc7849ecec1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Brown"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Brown\nNO. 3378 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed, Vacated and Remanded."
+  },
+  "file_name": "0206-06",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12489330,
+  "name": "Adelson Luiz DECASTRO, Administrator (Estate of Jose Luiz Decastro), et al. v. ODETAH CAMPING RESORT, INC.",
+  "name_abbreviation": "Decastro v. Odetah Camping Resort, Inc.",
+  "decision_date": "2017-03-29",
+  "docket_number": "",
+  "first_page": "537",
+  "last_page": "537",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 A.3d 537"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 906"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 581",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489148
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/155-2/0305-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 376,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25778607169761636
+    },
+    "sha256": "1d63052bd75ba69912dd7f2064f61f686d47f2103df43c43963d6e5c8c553e5b",
+    "simhash": "1:74035fa1406364a6",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T18:42:22.827056+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adelson Luiz DECASTRO, Administrator (Estate of Jose Luiz Decastro), et al.\nv.\nODETAH CAMPING RESORT, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The named plaintiff's petition for certification for appeal from the Appellate Court, 170 Conn. App. 581, 155 A.3d 305 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adelson Luiz DECASTRO, Administrator (Estate of Jose Luiz Decastro), et al.\nv.\nODETAH CAMPING RESORT, INC.\nSupreme Court of Connecticut.\nDecided March 29, 2017\nAndrew J. Pianka, in support of the petition.\nMark R. Cramer, in opposition.\nThe named plaintiff's petition for certification for appeal from the Appellate Court, 170 Conn. App. 581, 155 A.3d 305 (2017), is denied."
+  },
+  "file_name": "0537-02",
+  "first_page_order": 537,
+  "last_page_order": 537
+}

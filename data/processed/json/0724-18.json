@@ -1,0 +1,58 @@
+{
+  "id": 12487091,
+  "name": "Commonwealth v. Ronald McDade",
+  "name_abbreviation": "Commonwealth v. McDade",
+  "decision_date": "2016-08-17",
+  "docket_number": "NO. 25 MAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 136,
+    "sha256": "a29a05d540d7d54d590b3109614b39b24ceff1a78b948cfac14488d3f34aa2c6",
+    "simhash": "1:f08f0d3b904cafa0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRonald McDade"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRonald McDade\nNO. 25 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 17, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-18",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

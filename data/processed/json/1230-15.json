@@ -1,0 +1,58 @@
+{
+  "id": 12488944,
+  "name": "IN RE RHEAUME",
+  "name_abbreviation": "In re Rheaume",
+  "decision_date": "2016-11-04",
+  "docket_number": "16\u2013220",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "103b79d91e0a29aba23b9a384db8cb7dab0b62703a8fe325e7d205eca668d2f7",
+    "simhash": "1:da51da101b46f225",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE RHEAUME"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE RHEAUME\n16-220\nSupreme Court of Vermont.\nNovember 4, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1230-15",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

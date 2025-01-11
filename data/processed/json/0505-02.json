@@ -1,0 +1,107 @@
+{
+  "id": 7869399,
+  "name": "Regina KELLY et al. v. Thomas W. KIRKPATRICK et al.",
+  "name_abbreviation": "Kelly v. Kirkpatrick",
+  "decision_date": "1994-09-29",
+  "docket_number": "No. 93-375-Appeal",
+  "first_page": "505",
+  "last_page": "506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "649 A.2d 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "196 A.2d 836",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 R.I. 191",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3091235
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/97/0191-01"
+      ]
+    },
+    {
+      "cite": "603 A.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939980
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/603/1119-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 249,
+    "char_count": 3345,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20035125599986717
+    },
+    "sha256": "688c762fdab271c6381afd0b2e827757eeb521b15d06a2deea4838c6b42b32c2",
+    "simhash": "1:c0c36996a695c52c",
+    "word_count": 548
+  },
+  "last_updated": "2024-02-27T20:41:00.686443+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, Acting C.J., did not participate."
+    ],
+    "parties": [
+      "Regina KELLY et al. v. Thomas W. KIRKPATRICK et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the Supreme Court for oral argument on September 20, 1994, pursuant to an order that directed the plaintiff, Michael Kelly, executor of the estate of Regina Kelly, and the defendants, Thomas W. Kirkpatrick and Anne M. Kirkpatrick, to show cause why the issues raised in the plaintiffs appeal should not be summarily decided. The plaintiff has appealed the denial of his motion for a new trial on one count of fraud following the entry of judgment for the defendants on that count.\nAfter reviewing the memoranda submitted by the parties and after hearing the arguments of counsel for the parties, we are of the opinion that cause has not been shown, and the appeal shall be summarily decided.\nThe underlying transaction that gave rise to this case was the sale of shares in Academic Enterprises, Inc., which operated as the Sawyer School, to Regina Kelly in 1985. Michael Kelly, Regina\u2019s husband, actually operated the proprietary school. At the jury trial in the Superior Court, three claims were addressed: (1) the plaintiff\u2019s promissory note claim for $29,000 was granted against defendants; (2) the defendants\u2019 counterclaim seeking a dividend payment from the business was denied; and (3) the plaintiff\u2019s claim that he was defrauded by defendants was denied. Final judgments entered on the promissory note count and the dividend claim. The plaintiff moved for a new trial on the fraud claim only. The motion was denied, and plaintiff filed a timely appeal only from that portion of the judgment that denied a new trial on the fraud claim.\nThe plaintiff contends that the jury compromised the fraud count by \u201ctrading off\u201d this count for the defendants\u2019 counterclaim. The trial justice noted that both \u201csides presented the jury with an abundance of facts and figures, either of which looked at alone was supportive\u201d of the respective parties\u2019 claims.\nIn ruling on a motion for a new trial, a trial justice must evaluate the evidence in light of the jury instructions and must exercise independent judgment regarding the weight of the evidence and the credibility of the witnesses. International Depository, Inc. v. State, 603 A.2d 1119, 1123 (R.I.1992). The trial justice, sitting as a super-juror, can set aside the verdict only if the verdict is clearly wrong because it fails to administer substantial justice and is against the fair weight of the evidence. Id. If the evidence is evenly balanced or is such that reasonable minds could differ regarding the verdict, then the verdict must stand. Id.\nWe are of the opinion that the record reveals that the trial justice performed the required analysis and rendered a decision, thereby placing on the plaintiff the burden of establishing that the trial justice was clearly wrong or that she misconceived relevant and material evidence. Barbato v. Epstein, 97 R.I. 191, 196 A.2d 836 (1964). We are of the opinion that the plaintiff has failed to meet his burden.\nTherefore, we deny and dismiss the plaintiff\u2019s appeal, affirm the judgment of the Superior Court, and remand the papers in the case to the Superior Court.\nWEISBERGER, Acting C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Lauren Jones, Richard VanTienhoven, Providence.",
+      "Carol Nicholson Glick, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Regina KELLY et al. v. Thomas W. KIRKPATRICK et al.\nNo. 93-375-Appeal.\nSupreme Court of Rhode Island.\nSept. 29, 1994.\nLauren Jones, Richard VanTienhoven, Providence.\nCarol Nicholson Glick, Providence."
+  },
+  "file_name": "0505-02",
+  "first_page_order": 585,
+  "last_page_order": 586
+}

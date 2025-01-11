@@ -1,0 +1,58 @@
+{
+  "id": 12487438,
+  "name": "Com. v. K. Anderson",
+  "name_abbreviation": "Com. v. Anderson",
+  "decision_date": "2016-04-19",
+  "docket_number": "NO. 2051 EDA 2015",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 786"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "f2718f769badb1fc657734392d0bb0d29a2191fd7de84fbf66721cfa4efd5b05",
+    "simhash": "1:382966b1100ab182",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Anderson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Anderson\nNO. 2051 EDA 2015\nSuperior Court of Pennsylvania.\nApril 19, 2016\nAffirmed."
+  },
+  "file_name": "0786-04",
+  "first_page_order": 786,
+  "last_page_order": 786
+}

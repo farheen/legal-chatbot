@@ -1,0 +1,58 @@
+{
+  "id": 12486005,
+  "name": "Com. v. T. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 3115 EDA 2014",
+  "first_page": "598",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 123,
+    "sha256": "ffa7e1143e06efa1ec4bdeae29e878952547a524b1864663e003ac0e19443f4a",
+    "simhash": "1:e5d7b29305eaef02",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Johnson\nNO. 3115 EDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0598-03",
+  "first_page_order": 598,
+  "last_page_order": 598
+}

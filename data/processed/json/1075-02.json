@@ -1,0 +1,94 @@
+{
+  "id": 9456433,
+  "name": "WOODLAND MANOR III ASSOCIATES v. Andrew McCLEOD, in his Capacity as Director of the Department of Environmental Management",
+  "name_abbreviation": "Woodland Manor III Associates v. McCleod",
+  "decision_date": "2001-11-02",
+  "docket_number": "No. 00-117-A",
+  "first_page": "1075",
+  "last_page": "1076",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "786 A.2d 1075"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "713 A.2d 806",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11821481
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/713/0806-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 606",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313494
+      ],
+      "weight": 4,
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0606-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1299,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2179063335352756
+    },
+    "sha256": "15e3a5e8890057129440beb3e39dbff30710afcb5d2a616c706d7685bd82f86d",
+    "simhash": "1:840342bd120a2aba",
+    "word_count": 201
+  },
+  "last_updated": "2024-02-27T16:41:47.863258+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WOODLAND MANOR III ASSOCIATES v. Andrew McCLEOD, in his Capacity as Director of the Department of Environmental Management."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPlaintiff Woodland Manor III Associates, (Woodland) moves to vacate the decision and judgment of the Superior Court in this case determining that Woodland lacked standing to pursue a temporary-inverse-condemnation claim, and moves to remand the papers to the Superior Court for reconsideration of this decision in light of the United States Supreme Court\u2019s Opinion in Palazzolo v. Rhode Island, 533 U.S. 606, 121 S.Ct. 2448, 150 L.Ed.2d 592 (2001). Upon consideration of the motion and the memoranda filed by counsel for the parties, we conclude that a remand is appropriate here.\nAccordingly, the motion is granted, and the case is remanded to the Superior Court for reconsideration in light of Palaz- zolo, supra. If on remand the Superior Court determines that Woodland possesses standing to pursue the temporary-inverse-condemnation claim, the Superior Court shall proceed to decide the claim on the merits, as previously directed by this Court in Woodland Manor III Associates v. Keeney, 713 A.2d 806 (1998).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Edward L. Maggiacomo, David A. Wol-lin, Providence.",
+      "Michael L. Rubin, James R. Lee, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "WOODLAND MANOR III ASSOCIATES v. Andrew McCLEOD, in his Capacity as Director of the Department of Environmental Management.\nNo. 00-117-A.\nSupreme Court of Rhode Island.\nNov. 2, 2001.\nEdward L. Maggiacomo, David A. Wol-lin, Providence.\nMichael L. Rubin, James R. Lee, Providence."
+  },
+  "file_name": "1075-02",
+  "first_page_order": 1091,
+  "last_page_order": 1092
+}

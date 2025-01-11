@@ -1,0 +1,58 @@
+{
+  "id": 12489561,
+  "name": "IN RE G.M.",
+  "name_abbreviation": "In re G.M.",
+  "decision_date": "2017-04-24",
+  "docket_number": "16\u2013431",
+  "first_page": "1098",
+  "last_page": "1098",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1098"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 138,
+    "sha256": "e76dc3fecd9b938b32297f7f4186ef49e1677ead1557a42125e74abbb7d31d9f",
+    "simhash": "1:fe155f10bb42f064",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE G.M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE G.M.\n16-431\nSupreme Court of Vermont.\nApril 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1098-13",
+  "first_page_order": 1098,
+  "last_page_order": 1098
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486512,
+  "name": "Com. v. S. McClendon",
+  "name_abbreviation": "Com. v. McClendon",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 386 WDA 2015",
+  "first_page": "193",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "f8e19589902cec07d0d89da25b8db627c2fe1aafab6aa2aa62b8a5c4cdb6ef55",
+    "simhash": "1:3f192d574ca985d4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. McClendon"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. McClendon\nNO. 386 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0193-09",
+  "first_page_order": 193,
+  "last_page_order": 193
+}

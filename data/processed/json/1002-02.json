@@ -1,0 +1,74 @@
+{
+  "id": 8921515,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Andre Lamont CROMWELL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Cromwell",
+  "decision_date": "2005-08-26",
+  "docket_number": "",
+  "first_page": "1002",
+  "last_page": "1003",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "882 A.2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "870 A.2d 795",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9019354,
+        650294
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0795-01",
+        "/pa/582/0164-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 581,
+    "ocr_confidence": 0.676,
+    "sha256": "95a1d7b4ed44e775cff6d1fd0535ad8d176b15fbbf92234dab96ba6292cbb577",
+    "simhash": "1:56bdd78c81e30f24",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T22:53:59.853125+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Andre Lamont CROMWELL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of August 2005, the Petition for Allowance of Appeal is GRANTED. The decision of the Superior Court is REVERSED pursuant to Commonwealth v. Halley, 870 A.2d 795 (Pa.2005), due to prior counsels\u2019 failure to file a Pa.R.A.P. 1925(b) statement, which resulted in a waiver of all of petitioner\u2019s direct appeal claims. This matter is REMANDED to the PCRA court for reinstatement of petitioner\u2019s direct appellate rights.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Andre Lamont CROMWELL, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 26, 2005."
+  },
+  "file_name": "1002-02",
+  "first_page_order": 1020,
+  "last_page_order": 1021
+}

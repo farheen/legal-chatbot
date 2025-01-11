@@ -1,0 +1,59 @@
+{
+  "id": 6083014,
+  "name": "In re Francis J. Borowsky",
+  "name_abbreviation": "In re Borowsky",
+  "decision_date": "1963-01-08",
+  "docket_number": "No. 7069",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 68,
+    "ocr_confidence": 0.612,
+    "sha256": "94029aaf243087b9a080d8b368da0cb6066f6c1689a64e9ed63c0415e7787915",
+    "simhash": "1:260d081e9a4b605d",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Francis J. Borowsky"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in lock washers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Francis J. Borowsky\n(No. 7069)."
+  },
+  "file_name": "1588-03",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

@@ -1,0 +1,101 @@
+{
+  "id": 12490922,
+  "name": "Istrate IONESCU v. TOWN OF STRATFORD",
+  "name_abbreviation": "Ionescu v. Town of Stratford",
+  "decision_date": "2017-09-20",
+  "docket_number": "",
+  "first_page": "796",
+  "last_page": "796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 796"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "164 A.3d 905",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12490092,
+        12490093,
+        12490094,
+        12490095
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/164-2/0905-01",
+        "/a3d/164-2/0905-02",
+        "/a3d/164-2/0905-03",
+        "/a3d/164-2/0905-04"
+      ]
+    },
+    {
+      "cite": "173 Conn.App. 906",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490092,
+        12490094,
+        12490095
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/164-2/0905-01",
+        "/a3d/164-2/0905-03",
+        "/a3d/164-2/0905-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 317,
+    "sha256": "5de14556753afd8c39f5a08519edafb2efc3acae746c492185e84d668348cbae",
+    "simhash": "1:b6e9281b8a758da4",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Istrate IONESCU\nv.\nTOWN OF STRATFORD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiffs petition for certification to appeal from the Appellate Court, 173 Conn.App. 906, 164 A.3d 905 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Istrate IONESCU\nv.\nTOWN OF STRATFORD\nSupreme Court of Connecticut.\nDecided September 20, 2017\nIstrate Ionescu, self-represented, in support of the petition.\nSean R. Plumb, in opposition.\nThe plaintiffs petition for certification to appeal from the Appellate Court, 173 Conn.App. 906, 164 A.3d 905 (2017), is denied."
+  },
+  "file_name": "0796-02",
+  "first_page_order": 796,
+  "last_page_order": 796
+}

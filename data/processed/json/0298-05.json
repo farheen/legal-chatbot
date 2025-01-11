@@ -1,0 +1,62 @@
+{
+  "id": 12485591,
+  "name": "State v. Jamar S. Walker",
+  "name_abbreviation": "State v. Walker",
+  "decision_date": "2016-06-24",
+  "docket_number": "NOS. C-960 SEPT. TERM 2015, 077185",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 124,
+    "sha256": "079addda8ed64a882dee000014a6b793e033d53b865277efd99ccae894b082d1",
+    "simhash": "1:915556b51c2d28ba",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nJamar S. Walker"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nJamar S. Walker\nNOS. C-960 SEPT. TERM 2015, 077185\nSupreme Court of New Jersey\nJune 24, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-05",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

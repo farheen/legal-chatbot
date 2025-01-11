@@ -1,0 +1,93 @@
+{
+  "id": 12487930,
+  "name": "In re Daniel N.",
+  "name_abbreviation": "In re Daniel N.",
+  "decision_date": "2016-07-20",
+  "docket_number": "",
+  "first_page": "495",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "149 A.3d 495"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 928"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "120 A.3d 1188",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2015,
+      "opinion_index": -1
+    },
+    {
+      "cite": "317 Conn. 773",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "year": 2015,
+      "opinion_index": -1
+    },
+    {
+      "cite": "135 A.3d 1260",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2016,
+      "opinion_index": -1
+    },
+    {
+      "cite": "163 Conn. App. 322",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "year": 2016,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 615,
+    "sha256": "2d78a5c5b0d60d8595e67c5c2b613c45047601aab3cf21fbe7a4decd1b0eb60a",
+    "simhash": "1:266f672f7b272556",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T18:41:59.917362+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Daniel N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition by the Department of Children and Families for certification for appeal from the Appellate Court, 163 Conn. App. 322, 135 A.3d 1260 (2016), is granted, limited to the following issue:"
+    ],
+    "corrections": "",
+    "head_matter": "In re Daniel N.\nSupreme Court of Connecticut.\nDecided July 20, 2016\nBenjamin Zivyon, assistant attorney general, in support of the petition.\nMichael D. Day, in opposition.\nThe petition by the Department of Children and Families for certification for appeal from the Appellate Court, 163 Conn. App. 322, 135 A.3d 1260 (2016), is granted, limited to the following issue:\n\"Did the Appellate Court correctly reverse the trial court's judgment ordering termination of parental rights by concluding that this court's decision in In re Yasiel R., 317 Conn. 773, 120 A.3d 1188 (2015), controlled the result of this case?\""
+  },
+  "file_name": "0495-03",
+  "first_page_order": 495,
+  "last_page_order": 495
+}

@@ -1,0 +1,194 @@
+{
+  "id": 6082278,
+  "name": "Oksenholt v. Boyd",
+  "name_abbreviation": "Oksenholt v. Boyd",
+  "decision_date": "1939-06-15",
+  "docket_number": "No. 4144",
+  "first_page": "1296",
+  "last_page": "1301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 C.C.P.A. 1296"
+    },
+    {
+      "type": "parallel",
+      "cite": "104 F.2d 378"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "76 F. (2d) 137",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080978,
+        958036
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1040-01",
+        "/f2d/76/0137-01"
+      ]
+    },
+    {
+      "cite": "67 F. (2d) 974",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        284616,
+        6078270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/67/0974-01",
+        "/ccpa/21-2/0758-01"
+      ]
+    },
+    {
+      "cite": "36 F. (2d) 515",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1769657
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/36/0515-01"
+      ]
+    },
+    {
+      "cite": "49 F. (2d) 840",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1828161,
+        6560170
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/49/0840-01",
+        "/ccpa/18-2/1437-01"
+      ]
+    },
+    {
+      "cite": "54 F. (2d) 821",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1810832,
+        6079735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/54/0821-01",
+        "/ccpa/19-2/0867-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 58",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1220479
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0058-01"
+      ]
+    },
+    {
+      "cite": "51 App. D. C. 256",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        4065987
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "26 F. (2d) 1006",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1723152
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/26/1006-01"
+      ]
+    },
+    {
+      "cite": "58 App. D. C. 228",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "303 U. S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/303/0545-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 633,
+    "char_count": 12202,
+    "ocr_confidence": 0.459,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17335740423476426
+    },
+    "sha256": "3a432f4f6055c2c19fbf034e937ad3e485e54f513c74882ccccc84d1fdc42cb5",
+    "simhash": "1:120bf0eb3c159a2f",
+    "word_count": 2080
+  },
+  "last_updated": "2024-02-27T22:14:37.962341+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Gabbett, Presiding- Judge, and Bland, Hatmeild', Lenhoot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "Oksenholt v. Boyd"
+    ],
+    "opinions": [
+      {
+        "text": "Bland, Judge,\ndelivered the opinion of the court:\nAppellant has here appealed from a decision of the Board of Appeals of the United States Patent Office awarding priority of invention in the subject matter defined in counts 2, 3, and 4 of interference No. 71,740 to William E. Boyd, the senior party. The decision appealed from affirms the decision of the Examiner of Interferences.\nConcerning the invention we quote the following from appellant\u2019s brief:\nTlie invention defined by the counts of tlie interference relates to well drilling apparatus embodying core barrels wbicb are employed during the drilling of oil wells by the rotary drilling method to obtain samples of the earth so that the geological character thereof may be determined. A core barrel, as the term is employed in the rotary drilling art, is a tube provided at its lower end with cutting teeth to form a hollow coring drill which is mounted in the central passage or axial bore of the stem of the rotary drill or bit by which the drilling of the well is accomplished. When a core is to be taken, the drill stem is raised a short distance so that its lower end will be spaced slightly above the bottom of the well hole. The core barrel is then dropped or lowered through the drill stem until its lower end projects below the drill bit whereupon the core barrel, upon being rotated by the drill stem to which it is detachably latched, will cut a section or core from the geological formation being penetrated by the drill. The core thus cut is retained in the core barrel and may be inspected by raising the core barrel to the surface of the earth while the drill stem still remains in the well hole. The core barrel, as is the common practice, may be withdrawn upwardly through the drill stem by any suitable form of \u201cfishing tool\u201d or retrieving tool attached to the lower end of a cable * * *.\nTo prevent the cutting head of the core barrel, which normally projects downwardly beyond the cutting bit of the drill stem, from becoming battered and deformed by hard earth formations to such an extent that withdrawal of the core barrel upwardly through the drill stem may be prevented or rendered difficult, it is desirable to provide yieldable means enabling the core barrel to recede upwardly within the drill stem upon encountering a hard formation. * * *\nCount 2 is illustrative of the three counts on appeal and follows:\n2. A rotary drill including a drill stem, a core barrel rotatable with the drill stem and normally projecting below the latter, and means for detachably securing the core barrel within the stem, said means comprising a sleeve carried by the drill stem and reciprocable therein, a spring in the drill stem, and a latch movably mounted on the core barrel for engaging said sleeve to prevent upward movement of the core barrel with respect to the sleeve, said spring serving to exert a downward pressure upon the sleeve and to yield upwardly when hard formations are encountered by the core barrel to permit the core barrel to withdraw into the drill stem.\nThe main feature of novelty as to each of the appealed, counts relates to the dog or latch ior holding the core barrel down, and the releasing means, specifically the tubelike member sliding upwardly, to retract the latch from under the abutment.\nThe interference involves the application of Oksenholt filed July 2, 1934, which is stated to be a continuation in part of an application filed June 15, 1932, and the application of Boyd filed June 20, 1933. The instant interference is one of a series of four closely related interferences, one of which was numbered JO,418, and was between the same parties, all of the interferences having a common record. In three of the interferences, John F. Bozeman was, at one time, a junior party but took no testimony and was dropped therefrom. The instant interference originally contained four counts. The Examiner of Interferences awarded priority of invention as to all counts to Boyd. Oksenholt took no appeal as to count 1 since the subject matter of that count was not disclosed in Oksenholt\u2019s instant application, but did appeal as to the other three counts which are here involved.\nAppellant here urges but one issue for our decision, which is presented in the first six of the seven reasons of appeal, the first of which reasons of appeal reads as follows:\n1. The Board of Appeals erred in not following- the established rule of law that where the real invention in separate interferences between two parties is the same and the subjects-matter of the two interferences only differ as to features which are old in the art and do not affect the essential novelty of the real invention, the award of priority in both interferences must be made to the same party.\nAppellant in effect argues that Boyd\u2019s improvement relates to only one part of an old combination and that Boyd has no right to claim the old combination involving the new improvement. He urges that the counts are void to Boyd inasmuch as he was not the inventor of the combination but that if he invented anything he invented an improvement of one feature of the combination. Fie urges that he, Oksenholt, being the inventor of the combination should have been awarded the counts in interference even though Boyd\u2019s specific structure of the new part of the old combination is not shown in the Oksenholt original application, nor is it by the record shown to have been conceived or reduced to practice until long after Boyd had reduced the same to practice. In other words it is not contended by Oksenholt that the involved counts read upon his first patent disclosure nor is it urged that it is shown by the record that he is entitled to any date for conception and reduction to practice of certain features of the involved counts prior to the undisputed dates, awarded to Boyd.\nOksenholt relies chiefly for supporting authority upon the decision of the Supreme Court of the United States in Lincoln Engineering Co. v. Stewart-Warner Corp., 303 U. S. 545, in which the following language is found:\n* * * the improvement of one part of an old combination gives no right to claim that improvement in combination with other old parts which perform no new function in the combination. * * *\nOther authorities relied upon are Browne v. Harrison, 58 App. D. C. 228, 26 F. (2d) 1006; Dosenbach v. Webster, 51 App. D. C. 256, 278 Fed. 397; and Du Bois v. Kirk, 158 U. S. 58.\nThe cases which are relied upon and which are suits in equity are not in point for obvious reasons not necessary to discuss here. The cases of Browne v. Harrison, and Dosenbach v. Webster, supra, involve facts which seem to be substantially on all fours with those at bar, and it is sufficient to say that those decisions are not in harmony with the holding of this court in a number of decisions. For instance, in Browne v. Harrison, supra, the Court of Appeals of the District of Columbia passed squarely upon patentability in announcing and applying the doctrine .of equivalency. It has become settled law in this court that in interference proceedings definite limitations cannot be ignored (Atherton v. Payne, 19 C. C. P. A. (Patents) 867, 54 F. (2d) 821; Field v. Stow, 18 C. C. P. A. (Patents) 1437, 49 F. (2d) 840), that questions involving patentability of the issue presented in the counts will not be considered (Stern v. Schroeder, 17 C. C. P. A. (Patents) 670, 36 F. (2d) 515), and that although the counts are presumed to be patentable to each of the parties, depending upon priority (Trumbull v. Kirschbraun, 21 C. C. P. A. (Patents) 758, 67 F. (2d) 974), patentability is a question for the Patent Office to determine in the ex parte consideration of the involved applications (Hendrickson v. Ronning, 22 C. C. P. A. (Patents) 1040, 76 F. (2d) 137.)\nOksenholt in arguing that the counts do not define a new combination and that the claimed novel features of the counts are not patentable over the prior art, we think is raising the question of patentability of the counts which question, under the circumstances, we are not privileged to consider.\nIf appellant\u2019s contentions are meritorious, they should have been raised during the motion period. The instant record does not disclose that appellant during the motion period contended that the counts were not patentable. Appealed counts 2 and 3, according to the un-contradicted statement in appellee\u2019s brief, were presented by Oksen-holt during the motion period in interference 70,418 and their patentability over the other counts and the prior art was urged by him. There is nothing to indicate where appealed count 4 originated. If the involved counts are in fact nonpatentable, this is a matter for ex parte consideration by the Patent Office.\nIn order to sustain his contention that the counts are not patentable over the issue of the prior interference, 70,418, and the prior art, appellant calls attention to the broader counts involved in said interference, which he won, and the disclosures of three patents which he has incorporated into the instant record, namely, Barrett et al., 1,847,424, of March 1, 1932, Dodds, 1,295,184 of February 25, 1919, reissued as No. 18,975, October 24, 1933, which patents, appellant states, were considered by the examiner in the ex parte prosecution of both the involved applications. No consideration was given to these patents by either of the tribunals below in this interference and we cannot see how their consideration here would be proper. Clearly their consideration under the circumstances would involve a question of patentability upon which we may not pass.\nOksenholt\u2019s disclosure in his application filed June 2, 1934, which is said to be a continuation in part of his application filed June 15, 1932, is almost two years subsequent to the disclosure of Boyd in an application filed August 22, 1932 (the appealed counts being held by the Examiner of Interferences to read upon that application). Both parties took testimony and the tribunals below concurred in the conclusion that Oksenholt, the junior party, had not overcome the burden of proof under which he stood.\nAgreeable to the finding of the tribunals below, we think it is clear from the record that Boyd is entitled to a date of reduction to practice of the invention of all the counts at least as early as the filing date of his application of August 22, 1932. Oksenholt alleged in his preliminary statement no date prior to that date except as to count 4, the subject matter of which he alleges he conceived on March 15,1932, and reduced to practice on April 1, 1932. The Patent Office tribunals concurred in rejecting Oksenholt\u2019s proof of any date prior to the date allowed Boyd and appellant in this court does not question the correctness of such holding.\nAppellant contends that since he was awarded broader claims relating to the same general invention in interference 70,418, it is erroneous to now allow to the losing party (Boyd) counts somewhat more specific but involving what he regards as the same old combination. If the claimed new features involved in the counts when placed in the combination shown therein are patentable over the issue of the former interference and are also patentable over the prior art, Boycl should be entitled to them under the unquestioned priority holdings of the tribunals below, the invention defined in the count? awarded to appellant in interference 70,418 has not been affected, and Oksenholt has not been deprived of any of his rights. As is hereinbefore said this is an ex parte consideration.\nWithout expressing any view as to the patentability of the counts we must conclude that under the circumstances the board properly awarded priority to the senior party, Boyd, and its decision in so doing is affirmed.",
+        "type": "majority",
+        "author": "Bland, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Ritter, Mechlin, O\u2019Neill & Muir (Gilbert P. Ritter and Henry K. Muir of counsel) for appellant. a",
+      "Jesse R. Stove and Lester B. Claris: for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "104 F. (2d) 378\nOksenholt v. Boyd\n(No. 4144)\nUnited States Court of Customs and Patent Appeals,\nJune 15, 1939\nRitter, Mechlin, O\u2019Neill & Muir (Gilbert P. Ritter and Henry K. Muir of counsel) for appellant. a\nJesse R. Stove and Lester B. Claris: for appellee.\n[Oral argument May 2, 1939, by Mr. Ritter; submitted on brief by appellee]\nBefore Gabbett, Presiding- Judge, and Bland, Hatmeild', Lenhoot, and Jackson, Associate Judges"
+  },
+  "file_name": "1296-01",
+  "first_page_order": 614,
+  "last_page_order": 619
+}

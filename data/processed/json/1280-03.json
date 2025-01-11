@@ -1,0 +1,80 @@
+{
+  "id": 11550708,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. William TARR, Appellee",
+  "name_abbreviation": "Commonwealth v. Tarr",
+  "decision_date": "1999-09-08",
+  "docket_number": "",
+  "first_page": "1280",
+  "last_page": "1281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "734 A.2d 1280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "733 A.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11546868,
+        56718
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/733/0593-01",
+        "/pa/557/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 631,
+    "ocr_confidence": 0.659,
+    "sha256": "43a3b446166573d87c5ab1a2583abb0d5f7a7bd4544ae8dd5e6a44d77f1eaece",
+    "simhash": "1:ee8d23b6a25b01fc",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T16:30:54.000685+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. William TARR, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nBased upon our disposition in Commonwealth v. Williams, \u2014 Pa.-, 733 A.2d 593 (1999), we affirm the Order of the Venango County Court of Common Pleas dated November 23, 1998. Furthermore, we remand the matter to the common pleas court for disposition of any remaining issues.\nJurisdiction is relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Robert Grossi, Franklin, for Com.",
+      "Nanette Crews, Grove City, for William Tarr."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant, v. William TARR, Appellee.\nSupreme Court of Pennsylvania.\nSubmitted Aug. 9, 1999.\nDecided Sept. 8, 1999.\nRobert Grossi, Franklin, for Com.\nNanette Crews, Grove City, for William Tarr.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "1280-03",
+  "first_page_order": 1350,
+  "last_page_order": 1351
+}

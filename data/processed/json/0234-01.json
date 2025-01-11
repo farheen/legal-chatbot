@@ -1,0 +1,272 @@
+{
+  "id": 9176610,
+  "name": "Virginia BLAKE v. STATE of Maine",
+  "name_abbreviation": "Blake v. State",
+  "decision_date": "2005-02-23",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "868 A.2d 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "2005 ME 32"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "178 F.3d 8",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        577879
+      ],
+      "pin_cites": [
+        {
+          "page": "16-17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/178/0008-01"
+      ]
+    },
+    {
+      "cite": "606 A.2d 1051",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11317627
+      ],
+      "pin_cites": [
+        {
+          "page": "1054"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/606/1051-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868134
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "976"
+        },
+        {
+          "page": "976",
+          "parenthetical": "holding that supervisor's offering money in exchange for sexual acts was sufficiently severe to create a hostile work environment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/675/0973-01"
+      ]
+    },
+    {
+      "cite": "510 U.S. 17",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        232972
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "23",
+          "parenthetical": "internal quotations omitted"
+        },
+        {
+          "parenthetical": "internal quotations omitted"
+        },
+        {
+          "parenthetical": "internal quotations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0017-01"
+      ]
+    },
+    {
+      "cite": "233 F.Supp.2d 58",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11373802
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/233/0058-01"
+      ]
+    },
+    {
+      "cite": "923 F.Supp. 275",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7772825
+      ],
+      "pin_cites": [
+        {
+          "page": "283"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/923/0275-01"
+      ]
+    },
+    {
+      "cite": "1998 ME 227",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11677865
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "514"
+        },
+        {
+          "page": "515",
+          "parenthetical": "failure to recommend an employee for future employment was insufficient to constitute a WPA violation"
+        },
+        {
+          "page": "\u00b6 14"
+        },
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0509-01"
+      ]
+    },
+    {
+      "cite": "2003 ME 61",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9119608
+      ],
+      "weight": 11,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "52"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "\u00b6 23"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "57"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/824/0048-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 104",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11513369
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 4"
+        },
+        {
+          "page": "1193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/752/1189-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 591,
+    "char_count": 10408,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 1.2336507813905648e-07,
+      "percentile": 0.606249051585633
+    },
+    "sha256": "f744fef19fde749fe6f57f1140ceb01a0312d96a976fe8efca39c81a386729e9",
+    "simhash": "1:e2880a7a4671fb57",
+    "word_count": 1701
+  },
+  "last_updated": "2024-02-27T18:54:33.983777+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and CLIFFORD, RUDMAN, DANA, ALEXANDER, CALKINS, and LEVY, JJ."
+    ],
+    "parties": [
+      "Virginia BLAKE v. STATE of Maine."
+    ],
+    "opinions": [
+      {
+        "text": "CLIFFORD, J.\n[\u00b6 1] Virginia Blake appeals from a summary judgment entered in the Superior Court (Kennebec County, Marden, J.) in favor of the State of Maine. Blake contends that the court erred in declaring that she had not presented evidence to create a genuine issue of material fact as to whether she suffered an adverse employment action pursuant to the Maine Whistleblowers\u2019 Protection Act (WPA), 26 M.R.S.A. \u00a7\u00a7 831-840 (1988 & Supp.2004), in particular, whether her evidence was sufficient to show that she was working in a hostile environment. We find no error and we affirm the summary judgment.\n[\u00b6 2] The facts viewed in the light most favorable to Blake, the non-moving party, may be summarized as follows: Blake worked as a caseworker for the Department of Behavioral and Developmental Services in Washington County. Her work included providing support services and coordination of support services for adults with mental retardation or autism. Curtis L. Johnson, who had been Blake\u2019s co-worker, was promoted and became Blake\u2019s supervisor.\n[\u00b6 3] Blake\u2019s statement of material facts alleged that beginning in June of 2001, she had problems with Johnson in his role as supervisor, and she presented the followr ing evidence: (1) Blake questioned whether Johnson observed proper boundaries with two of her clients, who had formerly been clients of Johnson, and when she met with Johnson regarding this matter he glared at her; (2) after Blake reported that Johnson had commingled funds when ordering cigarettes for clients from a mail order company, Johnson met with Blake behind closed-doors and acted in a \u201cthreatening\u201d manner by folding his arms in front of him and glaring at her; (3) after Blake informed the office of the advocate that Johnson did not report the possible injury of a client, Johnson sent a memo criticizing Blake\u2019s use of a bulletin board to post union materials, and treated her in \u00e1 rude and disrespectful manner when discussing these activities; (4) after Blake reported that a physician may have treated one of Blake\u2019s clients without the required consent, Johnson confronted Blake in a copy room with the door closed and told her that he planned to meet with both his supervisor and Blake to discuss Blake\u2019s behavior toward the physician;. (5) Johnson and his supervisor met with Blake in a counseling session; and (6) after the session, Blake had some clients transferred from her caseload. Blake resigned on February 20, 2002, the same day that Johnson transferred some of her clients:\n[\u00b6 4] Blake contends that she presented sufficient facts to defeat the State\u2019s motion for a summary judgment. We review the entry of a summary judgment de novo, \u201cviewing the evidence in the light most favorable to the party against whom the judgment was entered.\u201d Cole v. Chandler, 2000 ME 104, \u00b6 4, 752 A.2d 1189, 1193 (internal quotation omitted). In order to prevail on a motion for a summary judgment, \u201cthe plaintiff must establish a prima facie case for each element of her cause of action.\u201d Doyle v. Dep\u2019t of Human Servs., 2003 ME 61, \u00b6 9, 824 A.2d 48, 52. If a plaintiff does not present sufficient evidence on the essential elements of her cause of action, the defendant is entitled to a summary judgment. Id.\n[\u00b6 5] The WPA provides in pertinent part:\nNo employer may discharge, threaten or otherwise discriminate against an employee regarding the employee\u2019s compensation,'terms, conditions, location or privileges of employment because:\nA. The employee, acting in good faith ... reports orally or in writing to the employer or a public body what the employee has reasonable cause to believe is a violation of a law or rule adopted under the laws of this State, a political subdivision of this State or the United States;\nB. The employee, acting in good faith ... reports to the employer or a public body, orally or in writing, what the employee has reasonable cause to believe is a condition or practice that would put at risk the health or safety of that employee or any other individual ....\n26 M.R.S.A. \u00a7 833 (1988 & Supp.2004). In order to prevail on a claim of unlawful retaliation \u201cpursuant to the WPA, an employee must show (1) that she engaged in activity protected by the WTPA, (2) that she experienced an adverse employment action, and (3) that a causal connection existed between the protected activity and the adverse employment action.\u201d DiCentes v. Michaud, 1998 ME 227, \u00b6 14, 719 A.2d 509, 514. Blake must establish all three elements of a 'WPA claim. See id.\n[\u00b6 6] As to the first prong of Blake\u2019s WPA claim, the trial court correctly concluded that an issue of material fact existed as to whether Blake\u2019s acts fall within the protection of the 'WPA, because Blake (1) reported Johnson\u2019s improper commingling of funds related to cigarette purchases for clients, (2) alleged that Johnson had improper interaction with her clients, (3) reported Johnson\u2019s failure to report suspected abuse, and (4) reported possible improper conduct by a service provider. The evidence was sufficient to generate an issue of material fact that Blake engaged in an activity protected by the WPA.\n[\u00b6 7] As to the second prong, the court found that the evidence of adverse employment action presented by Blake was insufficient to prevent the entry of a summary judgment against her, concluding that the incidents described by Blake were not the type of adverse actions contemplated by the WPA. See, e.g., id. \u00b6 18, 719 A.2d at 515 (failure to recommend an employee for future employment was insufficient to constitute a WPA violation); Nelson v. Univ. of Me., 923 F.Supp. 275, 283 (D.Me.1996) (criticism of a professor and a letter to her personnel file does not constitute a WPA violation); Paquin v. MBNA, 233 F.Supp.2d 58 (D.Me.2002) (failure to grant a reassignment is not an adverse employment action).\n[\u00b6 8] Blake also contends, however, that she experienced a hostile work environment, which she argues constitutes an adverse employment action under the second prong of the WPA claim. To demonstrate the presence of a hostile work environment, an employee must show \u201crepeated or intense harassment sufficiently severe or pervasive to create an abusive working environment.\u201d Doyle, 2003 ME 61, \u00b6 23, 824 A.2d at 56. When determining whether a hostile work environment claim exists, the court must \u201clook to \u2018all the circumstances,\u2019 including \u2018the frequency of the discriminatory conduct; its severity; whether it is physically threatening or humiliating, or a mere offensive utterance; and whether it unreasonably interferes with an employee\u2019s work performance.\u2019 \u201d Id. (quoting Harris v. Forklift Sys., Inc., 510 U.S. 17, 23, 114 S.Ct. 367, 126 L.Ed.2d 295 (1993) (internal quotations omitted)).\n[\u00b6 9] The type of harassment shown must be \u201csevere enough to cause the workplace to become hostile or abusive.\u201d Doyle, 2003 ME 61, \u00b6 23, 824 A.2d at 56. When analyzing a hostile work environment claim, the court must determine whether the environment was subjectively abusive to the employee, and, in addition, whether that environment was hostile or abusive pursuant to an objective standard. Nadeau v. Rainbow Rugs, Inc., 675 A.2d 973, 976 (Me.1996).\n[\u00b6 10] We have not yet addressed whether a hostile work environment claim can constitute an adverse employment action pursuant to the WPA, see Doyle, 2003 ME 61, \u00b6 24 n. 14, 824 A.2d at 57. Assuming, arguendo, that a hostile work environment can constitute an adverse employment action within the meaning of the WPA, see id., Blake\u2019s evidence in this case does not generate a genuine issue of material fact as to the presence of a hostile work environment. Blake claims that a hostile work environment was created by Johnson, who was her immediate supervisor, and who was acting in that capacity. The relationship between a supervisor and an employee by its very nature involves a certain amount of tension, and at times, may even generate some hostility. A supervisor must be able to exert authority when interacting with a subordinate. In order to demonstrate a hostile work environment in the case of a supervisor-subordinate, the subordinate must show that the hostility was severe or pervasive, and that it extended beyond the normal tension that exists in many supervisor-supervisee relationships. See e.g., Nadeau, 675 A.2d at 976 (holding that supervisor\u2019s offering money in exchange for sexual acts was sufficiently severe to create a hostile work environment); Bowen v. Dep\u2019t of Human Servs., 606 A.2d 1051, 1054 (Me.1992) (noting that in order to successfully create a genuine issue of material fact as to the creation of a hostile work environment the plaintiff must show an environment that is so severe and pervasive that \u201cit alters the conditions of employment and creates an abusive working environment\u201d); see also Danco, Inc. v. Wal-Mart Stores, Inc., 178 F.3d 8, 16-17 (1st Cir.1999) (indicating that three incidents of serious racial harassment constituted enough for a claim to go to the jury); see generally Harris, 510 U.S. 17, 114 S.Ct. 367, 126 L.Ed.2d 295 (1993).\n[\u00b6 11] In this case, Blake\u2019s evidence does not demonstrate a level of tension between her and her supervisor that was sufficiently severe to constitute a hostile work environment. There were no physical threats, and the incidents were not sufficiently repetitive or numerous to rise to the level of objectively interfering with her work performance. Blake\u2019s evidence depicts tension between herself and her supervisor, but the tension described is not sufficiently severe or pervasive to alter the conditions of - employment nor to create a working environment that was objectively abusive. Because her evidence as to the creation of a hostile work environment is insufficient, we need not decide whether Blake presented sufficient evidence to create a genuine issue of material fact that a causal connection existed between the protected activity and the alleged adverse employment action. See DiCentes, 1998 ME 227, \u00b6 14, 719 A.2d at 514.\nThe entry is:\nJudgment affirmed.",
+        "type": "majority",
+        "author": "CLIFFORD, J."
+      }
+    ],
+    "attorneys": [
+      "Brett D. Baber, Esq. (orally), Bangor, for plaintiff.",
+      "G. Steven Rowe, Attorney General, Susan P. Herman, Asst. Atty. Gen. (orally), Augusta, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "2005 ME 32\nVirginia BLAKE v. STATE of Maine.\nSupreme Judicial Court of Maine.\nArgued: Oct. 20, 2004.\nDecided: Feb. 23, 2005.\nBrett D. Baber, Esq. (orally), Bangor, for plaintiff.\nG. Steven Rowe, Attorney General, Susan P. Herman, Asst. Atty. Gen. (orally), Augusta, for defendant.\nPanel: SAUFLEY, C.J., and CLIFFORD, RUDMAN, DANA, ALEXANDER, CALKINS, and LEVY, JJ."
+  },
+  "file_name": "0234-01",
+  "first_page_order": 274,
+  "last_page_order": 279
+}

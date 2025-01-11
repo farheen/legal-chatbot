@@ -1,0 +1,137 @@
+{
+  "id": 8155755,
+  "name": "Associated Health Care Group, Inc. vs. Metropolitan Property & Casualty Insurance Company",
+  "name_abbreviation": "Associated Health Care Group, Inc. v. Metropolitan Property & Casualty Insurance",
+  "decision_date": "2009-12-03",
+  "docket_number": "",
+  "first_page": "283",
+  "last_page": "286",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2009 Mass. App. Div. 283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass. App. Div.",
+    "id": 15177,
+    "name": "Massachusetts Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "1998 Mass. App. Div. 201",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Div.",
+      "pin_cites": [
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Mass. App. Ct. 378",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        4016084
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/35/0378-01"
+      ]
+    },
+    {
+      "cite": "376 Mass. 929",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        332020,
+        332077
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "930"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/376/0929-01",
+        "/mass/376/0929-02"
+      ]
+    },
+    {
+      "cite": "317 Mass. 591",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        927234
+      ],
+      "weight": 2,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/317/0591-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 591,
+    "char_count": 11197,
+    "ocr_confidence": 0.836,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20092291094963452
+    },
+    "sha256": "61545812ec6078c10496f64795975df031302a5d6bbdbdbae71a4eaf2d3ddc7e",
+    "simhash": "1:e45a3bb2246a041f",
+    "word_count": 1806
+  },
+  "last_updated": "2024-02-27T16:26:19.287260+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Greco, P.J., Coven & Brant, JJ."
+    ],
+    "parties": [
+      "Associated Health Care Group, Inc. vs. Metropolitan Property & Casualty Insurance Company"
+    ],
+    "opinions": [
+      {
+        "text": "Greco, P.J.\nThe plaintiff, Associated Health Care Group, Inc. (\u201cAssociated\u201d), filed this action against Metropolitan Property & Casualty Insurance Company (\u201cMetropolitan\u201d) to collect personal injury protection (\u201cPIP\u201d) benefits allegedly owed it under G.L.c. 90, \u00a734M. After a jury trial, judgment entered against Metropolitan in the amount of $22,537.53. Metropolitan has appealed, arguing that the trial judge erred 1) by excluding the affidavit and testimony of an individual to whom employees of Associated had made allegedly damaging admissions, and 2) by denying its motion for a directed verdict on the grounds that Associated was not the proper party to bring this action.\nIn its PIP claim, Associated sought $2,085.56 for unpaid benefits along with costs and attorney\u2019s fees under G.L.c. 90, \u00a734M and G.L.c. 93A, \u00a711. The amount sought represented a portion of the bills submitted to Metropolitan, the remaining bills submitted having been paid. The bills related to eleven different individuals who were involved in various motor vehicle accidents and who were treated by practitioners at Associated. Metropolitan declined to pay the $2,085.56 on the grounds that the bills submitted by Associated for the initial evaluation of these patients were for a higher rate than justified by the circumstances. The issue concerning Associated\u2019s capacity to sue was not raised by Metropolitan in its answer, but arose during the course of the trial. The following evidence was presented to the jury at trial.\nVarious medical doctors, specialists, chiropractors, and physician assistants all worked under the umbrella of Associated. The Associated doctors who treated the eleven individuals involved in this case testified, and were cross-examined, concerning the course of their treatment. In particular, the testimony focused on the thoroughness of the initial evaluation undertaken for each person. According to the doctors, based on the patient\u2019s medical history, the seriousness of the accident, and the nature and complexity of the patient\u2019s complaint, a very comprehensive and more time-consuming evaluation would be done and would be billed to the insurer under the Code Number of 99205. The evaluation of a less complex case would be billed under Code Number 99214. In all of the eleven cases at issue here, the treating doctors testified that an evaluation under Code Number 99205 was warranted and Metropolitan was so billed. On the other hand, Metropolitan presented an expert witness who testified that there was \u201ca blanket indiscriminate use\u201d of billing under Code Number 99205 \u201cregardless of [the] complexity or lack of complexity\u201d of the situation presented, and that the doctors did not appear \u201cto individualize or demonstrate any active effort\u201d to bill under the appropriate code.\nIn an effort to bolster its case as to the billing codes, Metropolitan sought to introduce the testimony and affidavit of one Kathy Duncan (\u201cDuncan\u201d). There was testimony at trial indicating that Associated had used a separate corporation, Future Management Corporation (\u201cFuture Management\u201d), to take care of its billing, and that Duncan was hired by Future Management in June of 2004 to supervise the billing for Associated. In her affidavit, dated February 9, 2005, Duncan stated that Associated\u2019s\nbilling staff was instructed definitively by Ed Kennedy to bill all initial visits with CPT code 99205 and all subsequent visits with 99214. The doctors and PA\u2019s on site used these codes. After issue with Medicare of Mass., the policy changed and for Medicare only they were to bill all services with 99213 instead of 99214. When I questioned the PA\u2019s about their coding, they told me they were told to bill with the higher level of service or they would be fired. This is completely non-compliant with any insurance for coding. All coding must have appropriate documentation to support the level of service billed.\nDuncan was present in court at the beginning of the trial when the issue of her affidavit and testimony was raised before the trial judge, who ruled such evidence would be inadmissible hearsay. This issue was also raised by Metropolitan toward the end of the trial. Joseph Giampa (\u201cGiampa\u201d), a chiropractor who identified himself as one of the owners of Associated, testified that he also had an ownership interest in Future Management and that the Ed Kennedy (\u201cKennedy\u201d) referenced in Duncan\u2019s affidavit was an officer and shareholder of Future Management. When Giampa was called as a witness by Metropolitan, he denied that he ever had a discussion with Duncan about inappropriate coding that had to be corrected for the time period of 1999 to 2004. He also denied ever having a discussion with Kennedy about the billing by doctors for initial visits under Code Number 99205. Kennedy was never called as a witness by either party.\nSince the issue of Associated\u2019s capacity to bring this claim was not raised until Metropolitan moved for a directed verdict at the close of all the evidence, it is not surprising that the evidence on the issue during the course of the trial was sketchy at best. In addition to the testimony referenced above, there was testimony that Giampa owned all the \u201cshares\u201d in Associated, although an orthopedist had at one time owned some shares. Giampa testified that he did not know whether \u201cAssociated Health Care Group, Inc.\u201d still existed, that it had \u201cgone through some reorganization,\u201d and that he did not know \u201cif the corporate name ha[d] been changed.\u201d\n1. Evidentiary issue. There was no error in the exclusion of Duncan\u2019s affidavit. \u201cAffidavits are not competent evidence to prove the truth of the statements that they contain upon a trial on the merits in courts of law unless they come within some established exception to the hearsay rule or come within some statutory provision.\u201d Moran v. School Comm. of Littleton, 317 Mass. 591, 595 (1945). Here, the affidavit itself was hearsay, and it described what two unidentified physician assistants (\u201cPAs\u201d) stated that Kennedy had stated to them. In any event, Duncan was in court and available to testify, thus removing one layer of hearsay. A second layer could be removed since, arguably, what Kennedy said was not being admitted for its truth, but only to establish what instructions were given and, thus, was not hearsay. However, what the PAs said was being admitted for its truth, i.e., that Kennedy gave such a direction. This statement was not admissible under the exception to the hearsay rule as a \u201cstatement by a party\u2019s agent or servant admitted against the principal.\u201d See Mass. G. Evid. \u00a7801 (d)(2)(C) (2008-2009). Apart from the PAs being unidentified, there was no indication that they were \u201cauthorized to make the statement or [were] authorized to make, on the principal\u2019s behalf, true statements concerning the subject matter.\u201d Id. See also Simonoko v. Stop & Shop, Inc., 376 Mass. 929, 930 (1978). Finally, the trial judge was fully warranted in excluding the evidence as being irrelevant. Kennedy was an officer of Future Management, not Associated; there was no indication that he was unavailable to testify; Duncan\u2019s affidavit referred to Medicare billing; the latest bill in question was for services performed on April 4, 2002, a full twenty-six months before Duncan was hired by Future Management; and the appropriateness of Associated\u2019s billing was fully and more directly developed at trial by both sides.\n2. Capacity to sue. While some references were made early in the trial concerning the ownership and structure of Associated, Metropolitan formally raised the issue of whether Associated was a corporation legally able to maintain this lawsuit or, in any event, was the real party in interest when it moved for a directed verdict at the close of the evidence.\n\u201cWhen a party desires to raise an issue as to the legal existence of any party or [its] capacity... to sue ..., he shall do so by specific negative averment, which shall include such supporting particulars as are peculiarly within the pleader\u2019s knowledge.\u201d Mass. R. Civ. E, Rule 9(a). Associated alleged in its complaint that it was a \u201cMassachusetts corporation.\u201d In its answer, Metropolitan stated merely that it was \u201cwithout knowledge\u201d of the truth of that allegation and \u201ccall[ed] upon the Plaintiff to prove the same.\u201d Thus, Metropolitan\u2019s response fell well short of a \u201cspecific negative averment\u201d supported by particulars. While Associated was obviously in the best position to know its own status, such information is easily ascertainable by any citizen of the Commonwealth. See G.L.c. 156B, \u00a76.\nApart from this procedural misstep, the evidence at trial, although slim, was sufficient to overcome a motion for a directed verdict. Metropolitan, in its counterclaim, stated that \u201c[u]pon information and belief... Associated Health Care Group, Inc.... is a corporation incorporated under the laws of the Commonwealth of Massachusetts.\u201d \u201cIn any civil action pleadings shall not be evidence on the trial, but the allegations therein shall bind the party making them.\u201d G.L.c. 231, \u00a787. Even if the counterclaim were deemed to be a separate matter, Metropolitan\u2019s statement that Associated was a corporation would be admissible evidence in Associated\u2019s lawsuit even if not deemed conclusive. Hibernia Sav. Bank v. Bomba, 35 Mass. App. Ct. 378, 384 (1993). In addition, there was evidence that the ownership of Associated was through shares of stock. When Giampa was asked \u201cwhat shares were actually issued on behalf of the corporation to [him]\u201d (emphasis supplied), he answered that he did not know, but that he owned them all other than those owned by Dr. Wortman who was a \u201cstockholder\u201d and \u201cpart owner.\u201d Metropolitan places great emphasis on Giampa\u2019s testimony that he did not know whether Associated still existed, that it had reorganized, and \u201cif the corporate name ha[d] been changed.\u201d However, it could be inferred from this testimony that Associated was still a corporation, the name of which may have been changed, although there was no evidence of any change. Finally, in view of the evidence that Associated was a corporation, along with the evidence that the treating doctors worked for the corporation, the trial judge was warranted in finding that Associated had the capacity to sue and, in addition, that \u201cthere is sufficient reason to view\u201d Associated \u201cas a proper party,\u201d and thus, the real party in interest. See University of Lowell Research Found. v. Classic Elite Yarns, Inc., 1998 Mass. App. Div. 201, 202. There was no error in the denial of the motion for a directed verdict.\nAccordingly, the judgment of the trial court is affirmed.\nSo ordered.\nFive of the evaluations billed under Code Number 99205 for patients in this case were done in the year 2000, five in 2001, and the last one on March 6, 2002.",
+        "type": "majority",
+        "author": "Greco, P.J."
+      }
+    ],
+    "attorneys": [
+      "Francis A. Gaimari for the plaintiff.",
+      "Joseph R. Ciollo for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Associated Health Care Group, Inc. vs. Metropolitan Property & Casualty Insurance Company\nNorthern District\nDecember 3, 2009.\nPresent: Greco, P.J., Coven & Brant, JJ.\nFrancis A. Gaimari for the plaintiff.\nJoseph R. Ciollo for the defendant.\nThe Honorable Jonathan Brant participated in the hearing and decision of this appeal, but was on leave at the time this Opinion was issued."
+  },
+  "file_name": "0283-01",
+  "first_page_order": 289,
+  "last_page_order": 292
+}

@@ -1,0 +1,775 @@
+{
+  "id": 9299392,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Juan A. MALDONADO, Appellee",
+  "name_abbreviation": "Commonwealth v. Maldonado",
+  "decision_date": "2003-12-18",
+  "docket_number": "",
+  "first_page": "710",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "838 A.2d 710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "536 U.S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1254852
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "34",
+          "parenthetical": "\"When convicted sex offenders reenter society, they are much more likely than any other type of offender to be rearrested for a new rape or sexual assault.\""
+        },
+        {
+          "page": "2024",
+          "parenthetical": "\"When convicted sex offenders reenter society, they are much more likely than any other type of offender to be rearrested for a new rape or sexual assault.\""
+        },
+        {
+          "parenthetical": "\"When convicted sex offenders reenter society, they are much more likely than any other type of offender to be rearrested for a new rape or sexual assault.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/536/0024-01"
+      ]
+    },
+    {
+      "cite": "193 F.3d 466",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11562870
+      ],
+      "pin_cites": [
+        {
+          "page": "476"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/193/0466-01"
+      ]
+    },
+    {
+      "cite": "733 A.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11546868,
+        56718
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Williams I\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/733/0593-01",
+        "/pa/557/0285-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 285",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56718
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Williams I\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0285-01"
+      ]
+    },
+    {
+      "cite": "47 P.3d 973",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        9418095
+      ],
+      "pin_cites": [
+        {
+          "page": "976"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p3d/47/0973-01"
+      ]
+    },
+    {
+      "cite": "3 F.Supp.2d 456",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11688768
+      ],
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/3/0456-01"
+      ]
+    },
+    {
+      "cite": "521 U.S. 346",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        916116
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "363",
+          "parenthetical": "suggesting that a state's interest in protecting its citizens from \"mentally unstable individuals who present a danger to the public\" outweighs such individuals' right to be free from physical restraint"
+        },
+        {
+          "page": "2083",
+          "parenthetical": "suggesting that a state's interest in protecting its citizens from \"mentally unstable individuals who present a danger to the public\" outweighs such individuals' right to be free from physical restraint"
+        },
+        {
+          "parenthetical": "suggesting that a state's interest in protecting its citizens from \"mentally unstable individuals who present a danger to the public\" outweighs such individuals' right to be free from physical restraint"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0346-01"
+      ]
+    },
+    {
+      "cite": "320 U.S. 118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137190
+      ],
+      "weight": 3,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "123",
+          "parenthetical": "denaturalization proceedings"
+        },
+        {
+          "page": "1335",
+          "parenthetical": "denaturalization proceedings"
+        },
+        {
+          "parenthetical": "denaturalization proceedings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/320/0118-01"
+      ]
+    },
+    {
+      "cite": "385 U.S. 276",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336895
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "286",
+          "parenthetical": "deportation proceedings"
+        },
+        {
+          "page": "488",
+          "parenthetical": "deportation proceedings"
+        },
+        {
+          "parenthetical": "deportation proceedings"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0276-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 261",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215746
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "280",
+          "parenthetical": "removal of an incompetent person's life support"
+        },
+        {
+          "page": "2852",
+          "parenthetical": "removal of an incompetent person's life support"
+        },
+        {
+          "parenthetical": "removal of an incompetent person's life support"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0261-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 393",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827729
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "400"
+        },
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0393-01"
+      ]
+    },
+    {
+      "cite": "781 A.2d 1172",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706329,
+        9480671
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1179",
+          "parenthetical": "quoting Lessner v. Rubinson, 527 Pa. 393, 400, 592 A.2d 678, 681 (1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0464-01",
+        "/a2d/781/1172-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706329
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "476",
+          "parenthetical": "quoting Lessner v. Rubinson, 527 Pa. 393, 400, 592 A.2d 678, 681 (1991)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0464-01"
+      ]
+    },
+    {
+      "cite": "697 N.E.2d 512",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "518-20"
+        },
+        {
+          "page": "519"
+        },
+        {
+          "page": "520",
+          "parenthetical": "finding that the preponderance-of-the-evidence standard satisfies due process as long as it is combined with a requirement that the fact finder \"make detailed findings to demonstrate that close attention has been given to the evidence\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 Mass. 90",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        651222
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/428/0090-01"
+      ]
+    },
+    {
+      "cite": "119 F.3d 1077",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        199860
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1106-10"
+        },
+        {
+          "page": "1111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/119/1077-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780484
+      ],
+      "weight": 13,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "428-33"
+        },
+        {
+          "page": "1808-13"
+        },
+        {
+          "page": "423"
+        },
+        {
+          "page": "1808"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "1810",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "428"
+        },
+        {
+          "page": "1810"
+        },
+        {
+          "page": "429"
+        },
+        {
+          "page": "1811"
+        },
+        {
+          "page": "428-29"
+        },
+        {
+          "page": "1810-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0418-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11307633
+      ],
+      "weight": 9,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "754-70"
+        },
+        {
+          "page": "1395-1403"
+        },
+        {
+          "page": "768"
+        },
+        {
+          "page": "1402"
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "1403"
+        },
+        {
+          "page": "769"
+        },
+        {
+          "page": "1403",
+          "parenthetical": "termination of parental rights"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0745-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203837
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0079-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 25",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794020
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "36-42"
+        },
+        {
+          "page": "359-362"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0025-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed. 817",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1951,
+      "pin_cites": [
+        {
+          "parenthetical": "Frankfurter, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "341 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1148059
+      ],
+      "weight": 2,
+      "year": 1951,
+      "pin_cites": [
+        {
+          "page": "168",
+          "parenthetical": "Frankfurter, J., concurring"
+        },
+        {
+          "page": "646",
+          "parenthetical": "Frankfurter, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/341/0123-01"
+      ]
+    },
+    {
+      "cite": "16 P.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "568",
+          "parenthetical": "holding that. Megan's Law notification does not infringe any protected liberty interest"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Wash.2d 608",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1361328
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that. Megan's Law notification does not infringe any protected liberty interest"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/142/0608-01"
+      ]
+    },
+    {
+      "cite": "327 Or. 485",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        701908
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "995-96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/327/0485-01"
+      ]
+    },
+    {
+      "cite": "95 N.Y.2d 130",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        1189004
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/95/0130-01"
+      ]
+    },
+    {
+      "cite": "661 N.W.2d 167",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        9125861
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "174-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/661/0167-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "701"
+        },
+        {
+          "page": "1160-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366994,
+        11184535
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0324-01",
+        "/a2d/760/0384-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 324",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1366994
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0324-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026449
+      ],
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "335"
+        },
+        {
+          "page": "903"
+        },
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0319-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088607
+      ],
+      "weight": 10,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Williams II\""
+        },
+        {
+          "page": "967-68"
+        },
+        {
+          "page": "986"
+        },
+        {
+          "page": "973-75",
+          "parenthetical": "citations and quotation marks omitted"
+        },
+        {
+          "page": "982"
+        },
+        {
+          "page": "985"
+        },
+        {
+          "page": "981"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/0962-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1246,
+    "char_count": 25809,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21638597462631992
+    },
+    "sha256": "22af27eaa6ab6955b5294e15750cd0dd813df9c6f45f3fc90a8a631a7e60a3d0",
+    "simhash": "1:012e86ca7b1a9c28",
+    "word_count": 4064
+  },
+  "last_updated": "2024-02-27T18:14:13.392480+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and LAMB, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Juan A. MALDONADO, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice SAYLOR.\nIn Commonwealth v. Williams, - Pa. -, 832 A.2d 962 (2003) (\u201cWilliams II\u201d), this Court held that Megan\u2019s Law\u2019s registration, notification, and counseling provisions, as applied to individuals deemed sexually violent predators, do not constitute criminal punishment. The issue raised in the present appeal is whether the determination of sexually violent predator status must, nonetheless, be proven beyond a reasonable doubt.\nOn July 2, 2001, Appellee Juan Maldonado entered pleas of nolo contendere to multiple counts of misdemeanor-one indecent assault, see 18 Pa.C.S. \u00a7 3126. This is a predicate offense triggering an assessment of sexually violent predator status under Pennsylvania\u2019s Registration of Sexual Offenders Act (hereinafter, \u201cMegan\u2019s Law\u201d or the \u201cAct\u201d). See 42 Pa.C.S. \u00a7\u00a7 9795.4(a), 9795.1. Accordingly, the trial court was required to order the State Sexual Offenders Assessment Board (the \u201cBoard\u201d) to evaluate whether Maldonado was a sexually violent predator pursuant to Section 9795.4(a) of the Act.\nThe procedure prescribed by Megan\u2019s Law for determining whether an individual is a sexually violent predator is described in Williams II, \u2014 Pa. at - & n. 6, 832 A.2d at 966 & n. 6. Briefly, after a defendant is convicted of a predicate offense, but before he is sentenced, the trial court directs the Board to make an initial assessment as to whether he should be classified as a sexually violent predator, that is, whether he suffers from a mental abnormality or personality disorder making him likely to engage in future \u201cpredatory sexually violent offenses.\u201d 42 Pa.C.S. \u00a7 9792. The Board makes this assessment based upon various statutorily-prescribed, risk-related criteria and guidelines, as well as any other generally-applicable standards established by the Board. See 42 Pa.C.S. \u00a7 9795.4(b). After the Board issues its recommendation, the district attorney may request a hearing before the trial court to determine whether the individual should be adjudicated as a sexually violent predator. The individual and the district attorney are \u201cgiven notice of the hearing and an opportunity to be heard,\u201d 42 Pa.C.S. \u00a7 9795.4(e)(2); each may offer and cross-examine witnesses, including expert witnesses, and the defendant additionally retains the right to be represented by counsel, appointed if necessary. At the conclusion of the hearing, the court determines whether the Commonwealth has proven by clear and convincing evidence that the individual is a sexually violent predator. See 42 Pa.C.S. \u00a7 9795.4(e)(3). If the court so concludes, the individual is subject to lifetime registration, notification, and counseling; otherwise, he is deemed an \u201coffender,\u201d and is subject to registration only, for a period of either ten years or the remainder of his life, depending upon the predicate offense and/or the number of convictions. See 42 Pa.C.S. \u00a7 9795.1; Williams II, \u2014 Pa. at -, 832 A.2d at 967-68.\nPresently, after entry of Maldonado\u2019s nolo contendere pleas, the trial court declined to order an assessment by the Board, instead finding that the statutory procedure delineated above was unconstitutional. Specifically, the court determined that this procedure was inconsistent with the Fourteenth Amendment\u2019s Due Process Clause, because sexually violent predator status is determined upon proof by clear and convincing evidence, rather than proof beyond a reasonable doubt. See Trial Court op. at 7. Unlike in Williams II, however, the trial court\u2019s conclusion in this respect was not grounded upon the position that Megan\u2019s Law registration, notification, and counseling are punitive in nature, but upon a more general procedural due process analysis. See id. at 3-7. Therefore, Williams II is not directly controlling here.\nIn its opinion, the trial court utilized a three-factor balancing test which considers: (1) the private interest affected by the adjudication; (2) the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional procedural safeguards; and (3) the government\u2019s interest, including the function involved and the fiscal and administrative burdens that the additional procedural safeguards would entail. See Mathews v. Eldridge, 424 U.S. 319, 335, 96 S.Ct. 893, 903, 47 L.Ed.2d 18 (1976); Williams I, 557 Pa. at 307, 733 A.2d at 605. In applying this test, the court stated initially that the Commonwealth and the defendant each has a compelling interest in ensuring that an accurate determination is made regarding whether the defendant is a sexually violent predator: the Commonwealth has a compelling interest in protecting its citizens through prompt notification, and the registrant has a compelling interest in avoiding notification and counseling if he is not a sexually violent predator. As to the second element, the court concluded that there is a substantial risk of error due to the procedures used, because determining whether the individual is a sexually violent predator constitutes a \u201csubjective factual determination which is subject to substantial uncertainty.\u201d Trial Court op. at 7. Finally, the court noted that utilization of a reasonable-doubt standard would be more burdensome to the Commonwealth, but stated that this extra burden was outweighed by its effect of lowering the risk of error to the individual. Accordingly, the trial court held that nothing less than proof beyond a reasonable doubt would satisfy the demands of the Due Process Clause. See id.\nPresently, the Commonwealth contends that trial courts regularly weigh psychological evidence and make factual findings based upon such proof \u201cwithout insurmountable difficulty\u201d in a wide range of contexts less likely to be guided by objective standards, such as in competency hearings, child custody matters, and insanity determinations. It argues that, if the trial court\u2019s concern is that judicial subjectivity may lead to erroneous decisions, this is equally true whether the burden is beyond a reasonable doubt or clear and convincing evidence. Finally, the Commonwealth notes that the only precedent cited by the trial court to support its conclusion consisted of this Court\u2019s decisions in Williams I and Commonwealth v. Butler, 563 Pa. 324, 760 A.2d 384 (2000). It avers that the statutes challenged in those cases were deemed defective because they shifted the burden to the defendant to prove that he was not a sexually violent predator (Williams I) or a \u201chigh risk dangerous offender\u201d (Butler)-, the Commonwealth argues that, in neither case was the standard of proof at issue, and hence, the trial court\u2019s reliance upon those decisions was misplaced.\nAt the outset, even apart from the invalidated penalty provisions, see supra note 6, there is little doubt that the protections of the Due Process Clause are implicated in the present case. While reputational interests alone are insufficient to invoke due process guarantees, see Paul v. Davis, 424 U.S. 693, 701, 96 S.Ct. 1155, 1160-61, 47 L.Ed.2d 405 (1976), Megan\u2019s Law community notification constitutes a significant imposition beyond the mere tarnishing of one\u2019s reputation, as it \u201cthreatens the impairment and foreclosure of the associational or employment opportunities of persons who may not truly pose the risk to the public that an errant risk assessment would indicate.\u201d Brummer v. Iowa Dep\u2019t of Corr., 661 N.W.2d 167, 174-75 (Iowa 2003); see also Williams I, 557 Pa. at 311, 733 A.2d at 607 (\u201cOne\u2019s livelihood, domestic tranquility and personal relationships are unquestionably put in jeopardy by the notification provisions.\u201d); People v. David W., 95 N.Y.2d 130, 711 N.Y.S.2d 134, 733 N.E.2d 206, 210 (2000); Noble v. Board of Parole and Post-Prison Supervision, 327 Or. 485, 964 P.2d 990, 995-96 (1998). But see In re Meyer, 142 Wash.2d 608, 16 P.3d 563, 568 (2001) (holding that. Megan\u2019s Law notification does not infringe any protected liberty interest). The Act additionally mandates that a sexually violent predator attend counseling sessions at least monthly, and that he pay the fees assessed from such sessions if he is able to do so. See 42 Pa.C.S. \u00a7 9799.4. This requirement, too, constitutes an infringement beyond mere stigma, thus triggering due process protections.\nThe \u201cfundamental requirement of due process is the opportunity to be heard \u2018at a meaningful time and in a meaningful manner.\u2019 \u201d Mathews, 424 U.S. at 333, 96 S.Ct. at 902 (quoting Joint Anti-Fascist Refugee Comm. v. McGrath, 341 U.S. 123, 168, 71 S.Ct. 624, 646, 95 L.Ed. 817 (1951) (Frankfurter, J., concurring)). Presently, there is no claim that a defendant convicted of a Megan\u2019s Law predicate offense lacks an opportunity to be heard \u201cat a meaningful time.\u201d Instead, the crux of the dispute is whether the procedures involved deprive him of an opportunity to be heard in a \u201creasonable manner,\u201d and in particular, whether a reasonable manner must subsume a requirement of proof beyond a reasonable doubt as to the issue of the individual\u2019s status as a sexually violent predator as defined by the statute.\nThe question of the necessary standard of proof which the government must satisfy has been thoroughly discussed in the case law, both by this Court and by courts in other jurisdictions. See, e.g., Williams I, 557 Pa. at 306-12, 733 A.2d at 604-07; Commonwealth v. Wright, 508 Pa. 25, 36-42, 494 A.2d 354, 359-362 (1985), aff'd sub nom McMillan v. Pennsylvania, 477 U.S. 79, 106 S.Ct. 2411, 91 L.Ed.2d 67 (1986); Santosky v. Kramer, 455 U.S. 745, 754-70, 102 S.Ct. 1388, 1395-1403, 71 L.Ed.2d 599 (1982); Addington v. Texas, 441 U.S. 418, 428-33, 99 S.Ct. 1804, 1808-13, 60 L.Ed.2d 323 (1979); E.B. v. Verniero, 119 F.3d 1077, 1106-10 (3d Cir.1997); Doe v. Sex Offender Registry Bd., 428 Mass. 90, 697 N.E.2d 512, 518-20 (1998). Briefly, the function of a standard of proof is to instruct the factfinder as to the level of confidence that society believes he should have in the correctness of his conclusion; furthermore, different standards of proof reflect differences in how society believes the risk of error should be distributed as between the litigants. Thus, the most stringent standard \u2014 beyond a reasonable doubt \u2014 is applicable in criminal trials due to the gravity of the private interests affected; these interests lead to a societal judgment that, given the severe loss that occurs when an individual is erroneously convicted of a ci\u2019ime, the public should bear virtually the entire risk of error. The preponderanee-of-the-evi-dence standard, by contrast, reflects a belief that the two sides should share the risk equally; for this reason, it is applicable in a civil dispute over money damages, where the parties may share an intense interest in the outcome, but the public\u2019s interest in the result is \u201cminimal.\u201d Addington, 441 U.S. at 423, 99 S.Ct. at 1808; Williams I, 557 Pa. at 306, 733 A.2d at 604. The \u201cclear and convincing\u201d standard falls between those two end-points of the spectrum; it is typically defined as follows:\nThe clear and convincing standard requires evidence that is \u201cso clear, direct, weighty, and convincing as to enable the [trier of fact] to come to a clear conviction, without hesitancy, of the truth of the precise facts [in] issue.\u201d\nRohm and Haas Co. v. Continental Cas. Co., 566 Pa. 464, 476, 781 A.2d 1172, 1179 (2001) (quoting Lessner v. Rubinson, 527 Pa. 393, 400, 592 A.2d 678, 681 (1991)).\nPresently, we believe that the restrictions imposed by Megan\u2019s Law, discussed above, are more substantial than the loss of money. Thus, we agree with the trial court that society has a significant interest in assuring that the classification scheme is not overinclusive, i.e., that it does not brand as sexually violent predators those individuals who do not pose the type of risk to the community that the General Assembly sought to guard against. On the other hand, \u201c[a]n erroneous underclassifi-cation could mean that the public would not be adequately informed about the presence of an offender in the community who poses a threat of committing a sexual offense. This would frustrate the purpose of the act because the public would have a reduced opportunity to protect those vulnerable to sexual offenders.\u201d Doe v. Sex Offender Registry Bd., 697 N.E.2d at 519. While the Williams I decision did not establish a constitutional minimum standard of proof for Megan\u2019s Law classification, it suggested that the clear and convincing evidence standard would be permissible in this context:\nThis Court has mandated an intermediate standard of proof \u2014 clear and convincing evidence \u2014 when the individual interests at stake in a state proceeding are both particularly important and more substantial than mere loss of money. Notwithstanding the state\u2019s civil labels and good intentions, the Court has deemed this level of certainty necessary to preserve fundamental fairness in a variety of government-initiated proceedings that threaten the individual involved with a significant deprivation of liberty or stigma.\nWilliams I, 557 Pa. at 307, 733 A.2d at 605 (internal quotation marks omitted). As the Legislature has elected to require the Commonwealth to prove its case under such a standard, we need not decide here whether that quantum of proof represents the constitutional minimum, only whether it is sufficient.\nWe believe that it is. In view of the Commonwealth\u2019s need to protect its citizens from sexual predation by individuals who have committed a predicate offense and who additionally suffer from a volitional impairment making them likely to recidivate, we think that requiring proof beyond a reasonable doubt would be too burdensome. In this regard, we are guided by the United States Supreme Court\u2019s decisions in Addington and Santosky. In Addington, the Court held that, in a civil proceeding brought under state law to commit an individual involuntarily for an indefinite period to a state mental hospital, an intermediate standard of proof satisfies procedural guarantees. Rejecting the argument that proof beyond a reasonable doubt was constitutionally mandated, the Court explained that\nthe \u201cbeyond a reasonable doubt\u201d standard historically has been reserved for criminal cases. This unique standard of proof, not prescribed or defined in the Constitution, is regarded as a critical part of the moral force of the criminal law, and we should hesitate to apply it too broadly or casually in noncriminal cases.\nThe heavy standard applied in criminal cases manifests our concern that the risk of error to the individual must be minimized even at the risk that some who are guilty might go free. The full force of that idea does not apply to a civil commitment.\nAddington, 441 U.S. at 428, 99 S.Ct. at 1810 (citations omitted). The Court observed, as well, that there are significant reasons why different standards of proof are warranted in civil commitment proceedings as opposed to criminal prosecutions. The non-punitive nature of civil commitment was identified as one such reason, see Addington, 441 U.S. at 428, 99 S.Ct. at 1810; also, the Court reasoned that requiring a reasonable-doubt standard would be inappropriate because the psychiatric evidence ordinarily adduced at commitment proceedings is rarely susceptible to proof beyond a reasonable doubt. See id. at 429, 99 S.Ct. at 1811.\nThe Santosky Court likewise refused to apply a reasonable-doubt requirement. In that matter, the Court analyzed a New York statute under which the state could terminate the rights of parents in the care and custody of their children upon a finding, by a \u201cfair preponderance of the evidence,\u201d that the child in question was \u201cpermanently neglected.\u201d The Court determined that the preponderance standard was constitutionally deficient because the consequences of an erroneous decision were far greater to the individual than to the state, and thus, the parties should not be asked to share equally the risk of error. See Santosky, 455 U.S. at 768, 102 S.Ct. at 1402. Then, drawing from the analysis in Addington, the Santosky Court also rejected the proposition that the state should be held to a reasonable-doubt standard in termination proceedings. In this regard, the Court reasoned that such proceedings, like commitment proceedings, also require the factfinder to evaluate medical and psychiatric testimony and to decide issues\u2014 such as lack of parental motive, absence of affection, and failure of parental foresight and progress \u2014 which are often difficult to prove to an extremely high level of certainty. Accordingly, the Court determined that the clear and convincing standard \u201cadequately conveys to the factfinder the level of subjective certainty about his factual conclusions necessary to satisfy due process.\u201d Id. at 769, 102 S.Ct. at 1403.\nHere, as in Addington, the restrictions suffered by an individual deemed a sexually violent predator, while arguably onerous, fall short of criminal punishment. See Williams II, \u2014 Pa. at -, 832 A.2d at 986. Nor do they involve the affirmative disability or restraint inherent to civil commitment. As this Court recently observed:\nPublic registration and notification, as mandated by the Act, do not significantly restrain registrants, who remain free to live where they choose, come and go as they please, and seek whatever employment they may desire.\nNor can Appellees\u2019 required attendance at monthly counseling sessions be compared to incarceration or deprivation of citizenship, or even to the liberty-restricting conditions of probation. Certainly, it is not evident ... that the counseling requirement is so onerous as to constitute an affirmative disability or restraint, particularly as it is designed, as the Attorney General notes, to \u201cassist ] the sexually violent predator, who is likely to be impulsive, irresponsible and burdened with poor behavioral controls, from relapsing into sexually predatory behavior.\u201d\nWilliams II, \u2014 Pa. at -, 832 A.2d at 973-75 (citations and quotation marks omitted). And as with both Addington and Santosky, the process prescribed by Megan\u2019s Law for adjudication of sexually violent predator status will often require the factfinder to evaluate evidence concerning possible mental illnesses or abnormalities, the very type of psychiatric evidence identified by the Supreme Court in those cases as being rarely susceptible to proof beyond a reasonable doubt.\nIt must be acknowledged, nonetheless, that one difference between the involuntary commitment under review in Adding-ton and the measures challenged here is that, in Addington, there was opportunity for subsequent review in order to correct an erroneous commitment, see Addington, 441 U.S. at 428-29, 99 S.Ct. at 1810-11, whereas here, once a registrant has been adjudicated a sexually violent predator, it is uncertain whether any mechanism exists to invoke later judicial review to alter that determination in light of changed circumstances. See Williams II, \u2014 Pa. at - n. 9, 832 A.2d at 967 n. 9. Indeed, this aspect of the Act was highlighted by the trial court in support of its holding, see Trial Court op. at 5, and identified by the Williams II court as \u201cone of the most troubling aspects of the statute.\u201d Williams II, -Pa. at -, 832 A.2d at 982. Although this factor indicates, in the context of the Mathews balancing test, that the harm associated with any overin-clusion may be great (thus militating in favor of holding the Commonwealth to a high level of proof), that alone is not dis-positive, as the Supreme Court has approved the use of the intermediate eviden-tiary standard in other contexts in which the consequences of the decision are severe and irreversible. See Cruzan v. Director, Missouri Dep\u2019t of Health, 497 U.S. 261, 280, 110 S.Ct. 2841, 2852, 111 L.Ed.2d 224 (1990) (removal of an incompetent person\u2019s life support); Santosky, 455 U.S. at 769, 102 S.Ct. at 1403 (termination of parental rights); Woodby v. INS, 385 U.S. 276, 286, 87 S.Ct. 483, 488, 17 L.Ed.2d 362 (1966) (deportation proceedings); Schneid- erman v. United States, 320 U.S. 118, 123, 63 S.Ct. 1333, 1335, 87 L.Ed. 1796 (1943) (denaturalization proceedings). Moreover, the harm to the public associated with any underinclusion that could result from imposition of the reasonable-doubt requirement cannot be overlooked. In this regard, the codified legislative findings, which are not disputed here, suggest that such harm may be grave. See 42 Pa.C.S. \u00a7 9791(a)(2) (finding that protecting the public from sex offenders who pose a high risk of recidivism is a \u201cparamount governmental interest\u201d); cf. Kansas v. Hendricks, 521 U.S. 346, 363, 117 S.Ct. 2072, 2083, 138 L.Ed.2d 501 (1997) (suggesting that a state\u2019s interest in protecting its citizens from \u201cmentally unstable individuals who present a danger to the public\u201d outweighs such individuals\u2019 right to be free from physical restraint).\nIn summary, then, although an individual adjudicated as a sexually violent predator may suffer a substantial imposition upon his liberty interests, the harm to the public of erroneous exclusion of a sexually violent predator, combined with the difficulty of satisfying the reasonable-doubt standard in the context of resolving the types of medical and psychiatric issues involved, satisfy us that the intermediate evidentiary standard chosen by the Legislature is consistent with due process guarantees. This conclusion, moreover, is in accord with the reported decisions of other jurisdictions. See, e.g., Verniero, 119 F.3d at 1111; Doe v. Pataki, 3 F.Supp.2d 456, 472 (S.D.N.Y.1998); In re Avery, 47 P.3d 973, 976 (Wyo.2002); cf. Doe v. Sex Offender Registry Bd., 697 N.E.2d at 520 (finding that the preponderance-of-the-evidence standard satisfies due process as long as it is combined with a requirement that the fact finder \u201cmake detailed findings to demonstrate that close attention has been given to the evidence\u201d).\nAccordingly, the order of the trial court is reversed, and the matter is remanded for further proceedings consistent with this Opinion.\n. Act of May 10, 2000, P.L. 74, No. 18 (as amended, 42 Pa.C.S. \u00a7\u00a7 9791-9799.7). The statute represents the General Assembly\u2019s second enactment of Megan\u2019s Law legislation, and is thus sometimes referred to as \"Megan\u2019s Law II.\u201d See Williams II, - Pa. at - n. 2, 832 A.2d at 965 n. 2. In Commonwealth v. Williams, 557 Pa. 285, 733 A.2d 593 (1999) (\"Williams I\"), this Court invalidated substantial portions of the prior version of Megan\u2019s Law as violative of the Fourteenth Amendment\u2019s Due Process Clause.\n.Section 9795.4(a) provides:\nAfter conviction but before sentencing, a court shall order an individual convicted of an offense specified in section 9795.1 (relating to registration) to be assessed by the board. The order for an assessment shall be sent to the administrative officer of the board within ten days of the date of conviction.\n42 Pa.C.S. \u00a7 9795.4(a).\n. The Commonwealth contends that, if the Board issues a negative assessment \u2014 that is, a finding that the individual is not a sexually violent predator \u2014 the Commonwealth will almost never request a judicial hearing on the matter, and sentencing will proceed in the normal course. See Brief at 12. However, there is no evidence in the record concerning the frequency or circumstances under which the Commonwealth would request a hearing on the matter after a negative recommendation from the Board.\n. In support of its finding of unconstitutionality the court incorporated by reference, and attached to its order, its prior opinion in Commonwealth v. Cain, Centre County Criminal Action Nos.2000-530, 531, 998 (April 17, 2001), appeal docketed at 61 MAP 2001. The Commonwealth ultimately discontinued its appeal in Cain. See Pa.R.A.P. 1973(a).\n. Citations to the trial court's opinion refer to the opinion in Cain, which, as noted, was incorporated by reference. See supra note 4.\n. The trial court also indicated that the individual has a compelling interest in avoiding the threat of lifetime probation or incarceration for any violation of the registration and address verification requirements. See Trial Court op. at 4 (citing 42 Pa.C.S. \u00a7\u00a7 9795.2(d)(2), 9796(3)(2)). This Court subsequently invalidated these penalty provisions and severed them from the Act. See Williams II, - Pa. at -, 832 A.2d at 985. A fair reading of the trial court\u2019s opinion suggests, however, that its analysis and outcome would not have been substantially altered by the absence of these measures. Accordingly, we believe it best to resolve the present appeal on the merits rather than remanding for reconsideration in light of Williams II.\n. Appellee Maldonado did not submit an appellate brief to this Court.\n. In Williams II, for example, this Court recognized \"that 'Congress, and the legislatures of the several states, have considered the egregiousness of sexual crimes, particularly where children are concerned, and studies have indicated that sexual offenders have high rates of recidivism.' \" Williams II, - Pa. at -, 832 A.2d at 981 (quoting Cutshall v. Sundquist, 193 F.3d 466, 476 (6th Cir.1999), and citing McKune v. Lile, 536 U.S. 24, 34, 122 S.Ct. 2017, 2024, 153 L.Ed.2d 47 (2002) (\"When convicted sex offenders reenter society, they are much more likely than any other type of offender to be rearrested for a new rape or sexual assault.\")).\n. The trial court did not cite any authority to support its contrary determination, and we are unaware of any.",
+        "type": "majority",
+        "author": "Justice SAYLOR."
+      }
+    ],
+    "attorneys": [
+      "Ray Frank Griear, J. Karen Arnold, Bel-lefonte, for the Com. of PA, Appellant.",
+      "Robert Bruce Manchester, for Juan A. Maldonado, Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Juan A. MALDONADO, Appellee.\nSupreme Court of Pennsylvania.\nSubmitted Dec. 23, 2002.\nDecided Dec. 18, 2003.\nRay Frank Griear, J. Karen Arnold, Bel-lefonte, for the Com. of PA, Appellant.\nRobert Bruce Manchester, for Juan A. Maldonado, Appellee.\nBefore: CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and LAMB, JJ."
+  },
+  "file_name": "0710-01",
+  "first_page_order": 740,
+  "last_page_order": 748
+}

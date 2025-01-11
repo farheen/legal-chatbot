@@ -1,0 +1,92 @@
+{
+  "id": 8354591,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Steven PEEPLES, Petitioner",
+  "name_abbreviation": "Commonwealth v. Peeples",
+  "decision_date": "2007-07-12",
+  "docket_number": "",
+  "first_page": "631",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 383,
+    "ocr_confidence": 0.644,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20287360382786795
+    },
+    "sha256": "2a81883579e3cd1c020c977d6b1b9fc9e384c65641132a72ea29d76d315b4d37",
+    "simhash": "1:7db136c6a1ab8dfa",
+    "word_count": 61
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Steven PEEPLES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of July, 2007, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Superior Court is VACATED, and the matter is REMANDED for re-sentencing. See Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95 (2007).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Steven PEEPLES, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 12, 2007."
+  },
+  "file_name": "0631-01",
+  "first_page_order": 679,
+  "last_page_order": 679
+}

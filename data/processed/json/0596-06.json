@@ -1,0 +1,58 @@
+{
+  "id": 12485975,
+  "name": "Com. v. T. Cannalley",
+  "name_abbreviation": "Com. v. Cannalley",
+  "decision_date": "2016-02-17",
+  "docket_number": "NO. 2030 EDA 2015",
+  "first_page": "596",
+  "last_page": "596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 113,
+    "sha256": "c9339f3248c77e2ba42d301cfe6f6c7df58eeb5e52299e755ebaabd3d8a83f73",
+    "simhash": "1:b1564699a5701965",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Cannalley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Cannalley\nNO. 2030 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 17, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0596-06",
+  "first_page_order": 596,
+  "last_page_order": 596
+}

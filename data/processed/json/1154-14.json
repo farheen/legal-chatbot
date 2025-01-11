@@ -1,0 +1,58 @@
+{
+  "id": 12488553,
+  "name": "Com. v. Brinsky, D.",
+  "name_abbreviation": "Com v. Brinsky",
+  "decision_date": "2016-05-19",
+  "docket_number": "1211 WDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "1d22f081266e060199395a7bc35a40e26fedbcd884866914df7cc5dfca5cdf84",
+    "simhash": "1:f4100f32db3f97a1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBrinsky, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBrinsky, D.\n1211 WDA 2015\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1154-14",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

@@ -1,0 +1,64 @@
+{
+  "id": 7944352,
+  "name": "STATE v. Alfred BISHOP",
+  "name_abbreviation": "State v. Bishop",
+  "decision_date": "1980-06-12",
+  "docket_number": "No. 77-453-C.A.",
+  "first_page": "93",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "420 A.2d 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 491,
+    "ocr_confidence": 0.84,
+    "sha256": "ffecf405b5db1032280c500722e419552aba3d36edee9cc2f111f47554eef774",
+    "simhash": "1:996e5641555eee49",
+    "word_count": 83
+  },
+  "last_updated": "2023-07-14T14:49:01.032278+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Alfred BISHOP."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe state\u2019s motion to dismiss this appeal is denied. The motion of defendant\u2019s counsel for a briefing extension and the pro se motion of defendant for a briefing extension in order that he may seek new counsel are granted. The defendant\u2019s brief shall be filed on or before August 15, 1980.\nWEISBERGER, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff.",
+      "Alfred Bishop, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Alfred BISHOP.\nNo. 77-453-C.A.\nSupreme Court of Rhode Island.\nJune 12, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff.\nAlfred Bishop, pro se."
+  },
+  "file_name": "0093-03",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

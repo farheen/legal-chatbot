@@ -1,0 +1,120 @@
+{
+  "id": 7258354,
+  "name": "CONSOL PENNSYLVANIA COAL COMPANY, Petitioner v. The FARMERS NATIONAL BANK OF CLAYSVILLE and Jon Holbert Carter and Patricia W. Carter, Respondents",
+  "name_abbreviation": "Consol Pennsylvania Coal Co. v. Farmers National Bank of Claysville",
+  "decision_date": "2009-05-15",
+  "docket_number": "",
+  "first_page": "565",
+  "last_page": "565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "969 A.2d 565"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "9 A. 70",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1887,
+      "pin_cites": [
+        {
+          "page": "73",
+          "parenthetical": "holding that a reservation of \"the entire privilege of all ore on said premises\" is construed as an exception and \"the fee in the reserved mineral remains in the vendor\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 Pa. 501",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        551706
+      ],
+      "year": 1887,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that a reservation of \"the entire privilege of all ore on said premises\" is construed as an exception and \"the fee in the reserved mineral remains in the vendor\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/115/0501-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827698
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that action between grantees to divide property allegedly deeded to them should be dismissed for failure to join a necessary party where purported grantor who did not record and later destroyed deed was not joined"
+        },
+        {
+          "page": "7",
+          "parenthetical": "holding that action between grantees to divide property allegedly deeded to them should be dismissed for failure to join a necessary party where purported grantor who did not record and later destroyed deed was not joined"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 131,
+    "char_count": 1115,
+    "ocr_confidence": 0.705,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18812370914288826
+    },
+    "sha256": "fdbd0b895c4430cee57dafa85c6864ecc96a06ace6db0091b0520c16b80578b4",
+    "simhash": "1:5805ae9bc3d2db7c",
+    "word_count": 184
+  },
+  "last_updated": "2024-02-27T18:12:34.471233+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice SAYLOR dissents."
+    ],
+    "parties": [
+      "CONSOL PENNSYLVANIA COAL COMPANY, Petitioner v. The FARMERS NATIONAL BANK OF CLAYSVILLE and Jon Holbert Carter and Patricia W. Carter, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 15th day of May, 2009, we GRANT the Petition for Allowance of Appeal, VACATE the Order of the Superi- or Court, and REMAND to the Washington County Court of Common Pleas with direction to dismiss Petitioner\u2019s quiet title action for failure to join indispensable parties. Van Buskirk v. Van Buskirk, 527 Pa. 218, 590 A.2d 4, 7 (1991) (holding that action between grantees to divide property allegedly deeded to them should be dismissed for failure to join a necessary party where purported grantor who did not record and later destroyed deed was not joined). The successors in interest to Joseph and Eliza Carroll are indispensable herein. Thompson v. Mattern, 115 Pa. 501, 9 A. 70, 73 (1887) (holding that a reservation of \u201cthe entire privilege of all ore on said premises\u201d is construed as an exception and \u201cthe fee in the reserved mineral remains in the vendor\u201d).\nJustice SAYLOR dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CONSOL PENNSYLVANIA COAL COMPANY, Petitioner v. The FARMERS NATIONAL BANK OF CLAYSVILLE and Jon Holbert Carter and Patricia W. Carter, Respondents.\nSupreme Court of Pennsylvania.\nMay 15, 2009."
+  },
+  "file_name": "0565-01",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

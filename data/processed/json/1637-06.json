@@ -1,0 +1,59 @@
+{
+  "id": 6087284,
+  "name": "In re Konrad Abel",
+  "name_abbreviation": "In re Abel",
+  "decision_date": "1966-10-19",
+  "docket_number": "No. 7936",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 105,
+    "ocr_confidence": 0.461,
+    "sha256": "c066059e044f85453b45e3ad4880452b04910fa61b69ef7ba4be09355caf937f",
+    "simhash": "1:39eca98387751c3b",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Konrad Abel"
+    ],
+    "opinions": [
+      {
+        "text": "Parametric 'amplifier with independent terminal impedances.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 19, 1966\nNo. 7936.\nIn re Konrad Abel"
+  },
+  "file_name": "1637-06",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

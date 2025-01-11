@@ -1,0 +1,58 @@
+{
+  "id": 12486472,
+  "name": "Com. v. J. Shipley",
+  "name_abbreviation": "Com. v. Shipley",
+  "decision_date": "2016-03-04",
+  "docket_number": "NO. 1390 WDA 2015",
+  "first_page": "191",
+  "last_page": "191",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "1616c68eaf1ea98b2c033187b56ad3a6286f6cd8e6f92986f1305addb191e0a8",
+    "simhash": "1:5c1900c000039cd0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Shipley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Shipley\nNO. 1390 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 04, 2016\nAffirmed."
+  },
+  "file_name": "0191-16",
+  "first_page_order": 191,
+  "last_page_order": 191
+}

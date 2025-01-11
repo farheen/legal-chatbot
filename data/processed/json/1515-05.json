@@ -1,0 +1,59 @@
+{
+  "id": 6093193,
+  "name": "In re Morey Weisman",
+  "name_abbreviation": "In re Weisman",
+  "decision_date": "1968-07-29",
+  "docket_number": "No. 8341",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 89,
+    "ocr_confidence": 0.546,
+    "sha256": "3877f7ec58b4daf32250d72ac9e1963d4439f97ddd88013e408cd7ff50b874ea",
+    "simhash": "1:345f2f4dadf9920f",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Morey Weisman"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Dielectrically-modified polyurethane foam.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 29, 1968\nNo. 8341.\nIn re Morey Weisman"
+  },
+  "file_name": "1515-05",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

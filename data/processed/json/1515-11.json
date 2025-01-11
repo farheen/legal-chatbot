@@ -1,0 +1,59 @@
+{
+  "id": 6093274,
+  "name": "In re William A. Larkin",
+  "name_abbreviation": "In re Larkin",
+  "decision_date": "1968-10-02",
+  "docket_number": "No. 8442",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 67,
+    "ocr_confidence": 0.641,
+    "sha256": "f90ed35801bb55353b4366bcb4ae11939983ec353638e07fc80276703ed108c6",
+    "simhash": "1:0b7e5b5458a6c582",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William A. Larkin"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Tile assembly.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 2, 1968\nNo. 8442.\nIn re William A. Larkin"
+  },
+  "file_name": "1515-11",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

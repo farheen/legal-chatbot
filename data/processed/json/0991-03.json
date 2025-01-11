@@ -1,0 +1,62 @@
+{
+  "id": 12502177,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Robert L. HAYES, Jr., Defendant-Petitioner.",
+  "name_abbreviation": "State v. Hayes",
+  "decision_date": "2018-10-18",
+  "docket_number": "C-193 September Term 2018; 080976",
+  "first_page": "991",
+  "last_page": "991",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 991"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 375,
+    "sha256": "c4f826260feae7d58a721b798bd31f8dc9d9c0920ef9fdf2ab60748220fe99f7",
+    "simhash": "1:14f66d21f039a921",
+    "word_count": 57
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRobert L. HAYES, Jr., Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-005586-13 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRobert L. HAYES, Jr., Defendant-Petitioner.\nC-193 September Term 2018\n080976\nSupreme Court of New Jersey.\nOctober 18, 2018\nORDER"
+  },
+  "file_name": "0991-03",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

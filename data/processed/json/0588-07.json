@@ -1,0 +1,58 @@
+{
+  "id": 12485850,
+  "name": "Com. v. M. Brooking",
+  "name_abbreviation": "Com. v. Brooking",
+  "decision_date": "2016-02-08",
+  "docket_number": "NO. 806 EDA 2015",
+  "first_page": "588",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 154,
+    "sha256": "713590067726f2ceefed31e908166e662d9f2f4ab92ae123659aa3b13260305c",
+    "simhash": "1:ef0f7c9d12f2afd5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Brooking"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Brooking\nNO. 806 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 08, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0588-07",
+  "first_page_order": 588,
+  "last_page_order": 588
+}

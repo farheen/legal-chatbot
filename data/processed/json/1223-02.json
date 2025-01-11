@@ -1,0 +1,107 @@
+{
+  "id": 11365790,
+  "name": "In re Alfred L. REHDER, Respondent. A Member of the Bar of the District of Columbia Court of Appeals",
+  "name_abbreviation": "In re Rehder",
+  "decision_date": "2002-09-26",
+  "docket_number": "No. 01-BG-692",
+  "first_page": "1223",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "806 A.2d 1223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "612 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939161
+      ],
+      "pin_cites": [
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0832-01"
+      ]
+    },
+    {
+      "cite": "654 A.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879377
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/654/1285-01"
+      ]
+    },
+    {
+      "cite": "782 A.2d 761",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9472656
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/782/0761-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 151,
+    "char_count": 1705,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24005897641136606
+    },
+    "sha256": "f2979e5dca421d94abfff3a1980be50ff0b2bf808c597e574abd6b7ed19d0cb0",
+    "simhash": "1:a7569f7e2382072f",
+    "word_count": 273
+  },
+  "last_updated": "2024-02-27T18:57:54.731760+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and REID, Associate Judges, and NEWMAN, Senior Judge."
+    ],
+    "parties": [
+      "In re Alfred L. REHDER, Respondent. A Member of the Bar of the District of Columbia Court of Appeals."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nThe Court of Appeals of Maryland disbarred respondent Alfred L. Rehder by consent on May 4, 2001. Respondent had been under investigation for misappropriating client funds, and acknowledged that he could not successfully defend himself against charges predicated on the matters being investigated.\nAfter learning of respondent\u2019s disbarment, this court temporarily suspended him pursuant to D.C. Bar R. XI, \u00a7 11(d), and referred the matter to the Board on Professional Responsibility (\u201cthe Board\u201d). The Board has recommended that respondent be disbarred as identical reciprocal discipline. Bar Counsel has informed the court that she takes no exception to the Board\u2019s recommendation. Respondent did not participate in the proceedings before the Board and has not filed any opposition to the Board\u2019s recommendation.\nGiven our limited scope of review and the presumption in favor of identical reciprocal discipline, we adopt the Board\u2019s recommendation. See In re Thomas, 782 A.2d 761 (D.C.2001); In re Goldsborough, 654 A.2d 1285 (D.C.1995); In re Zilberberg, 612 A.2d 832, 834 (D.C.1992); D.C. Bar R. XI, \u00a7 11(f). Accordingly, it is\nORDERED that Alfred L. Rehder is hereby disbarred from the practice of law in the District of Columbia. We again direct respondent\u2019s attention to the requirements of D.C. Bar R. XI, \u00a7 14(g) and their effect on his eligibility for reinstatement. See D.C. Bar R. XI, \u00a7 16(c).\nSo ordered.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Alfred L. REHDER, Respondent. A Member of the Bar of the District of Columbia Court of Appeals.\nNo. 01-BG-692.\nDistrict of Columbia Court of Appeals.\nSubmitted Sept. 16, 2002.\nDecided Sept. 26, 2002.\nBefore STEADMAN and REID, Associate Judges, and NEWMAN, Senior Judge."
+  },
+  "file_name": "1223-02",
+  "first_page_order": 1277,
+  "last_page_order": 1278
+}

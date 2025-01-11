@@ -1,0 +1,58 @@
+{
+  "id": 12487205,
+  "name": "Com. v. L. Showalter",
+  "name_abbreviation": "Com. v. Showalter",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 2089 WDA 2014",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 110,
+    "sha256": "5c278f946b4013e717e2cc74468f4bdecd236db587e7431f4c4db90c6b8e611e",
+    "simhash": "1:2845de79c02b47c0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Showalter"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Showalter\nNO. 2089 WDA 2014\nSuperior Court of Pennsylvania.\nApril 01, 2016\nReversed and Remanded."
+  },
+  "file_name": "0770-14",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

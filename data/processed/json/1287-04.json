@@ -1,0 +1,83 @@
+{
+  "id": 12488694,
+  "name": "Milton CAMPBELL v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Campbell v. Comm'r of Corr.",
+  "decision_date": "2016-12-06",
+  "docket_number": "",
+  "first_page": "1287",
+  "last_page": "1287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1287"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 951"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn.App. 901",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12487912,
+        12487913,
+        12487914
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/149-2/1019-01",
+        "/a3d/149-2/1019-02",
+        "/a3d/149-2/1019-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 446,
+    "sha256": "5f41e451a1ff0ef4daf90df985be771c359c1b756d0cd130f84e9002501dc27b",
+    "simhash": "1:643d368ebb276ea2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T18:34:50.591602+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Milton CAMPBELL\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Milton Campbell's petition for certification for appeal from the Appellate Court, 169 Conn.App. 901, 149 A.3d 1019 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Milton CAMPBELL\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided December 6, 2016\nCraig A. Sullivan, in support of the petition.\nKathryn W. Bare, assistant state's attorney, in opposition.\nThe petitioner Milton Campbell's petition for certification for appeal from the Appellate Court, 169 Conn.App. 901, 149 A.3d 1019 (2016), is denied.\nESPINOSA, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "1287-04",
+  "first_page_order": 1287,
+  "last_page_order": 1287
+}

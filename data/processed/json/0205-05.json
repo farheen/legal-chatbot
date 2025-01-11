@@ -1,0 +1,58 @@
+{
+  "id": 12486689,
+  "name": "Com. v. T. David",
+  "name_abbreviation": "Com. v. David",
+  "decision_date": "2016-03-22",
+  "docket_number": "NO. 1893 EDA 2015",
+  "first_page": "205",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "d9f77c5a1d5d00531315ee27d1653b2b345b5c5a9941f58b86aea7ab00d85921",
+    "simhash": "1:b31be2c18bf43a8c",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. David"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. David\nNO. 1893 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 22, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0205-05",
+  "first_page_order": 205,
+  "last_page_order": 205
+}

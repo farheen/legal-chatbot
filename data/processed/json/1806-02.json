@@ -1,0 +1,55 @@
+{
+  "id": 1279816,
+  "name": "John Nichols, Plaintiff in Error, v. The State of Florida, Defendant in Error",
+  "name_abbreviation": "Nichols v. State",
+  "decision_date": "1930-06",
+  "docket_number": "",
+  "first_page": "1806",
+  "last_page": "1806",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 128,
+    "ocr_confidence": 0.513,
+    "sha256": "67a98604828209633eb83e2c9cbbe77566a2c754c4bcf6320849b93af0c4bc17",
+    "simhash": "1:4f888b13e94bf29b",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T17:35:28.833773+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Nichols, Plaintiff in Error, v. The State of Florida, Defendant in Error."
+    ],
+    "opinions": [],
+    "attorneys": [
+      "Fred H. Davis, Attorney General, for the motion."
+    ],
+    "corrections": "",
+    "head_matter": "John Nichols, Plaintiff in Error, v. The State of Florida, Defendant in Error.\nFred H. Davis, Attorney General, for the motion."
+  },
+  "file_name": "1806-02",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

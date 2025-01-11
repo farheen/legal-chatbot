@@ -1,0 +1,64 @@
+{
+  "id": 12487816,
+  "name": "In re: Hector S.",
+  "name_abbreviation": "In re Hector S.",
+  "decision_date": "2016-10-31",
+  "docket_number": "Pet. Docket No. 321; Sept. Term, 2016",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "5da577337e3de569a1cac20264779fa3a5c972ef9fb4e20b0d33c04ff150781c",
+    "simhash": "1:28e35435d2e94089",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: Hector S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re: Hector S.\nPet. Docket No. 321\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 31, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0400-04",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

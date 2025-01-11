@@ -1,0 +1,183 @@
+{
+  "id": 6092613,
+  "name": "In re Arno Cahn, Mark D. Konort and Jerome Rudy",
+  "name_abbreviation": "In re Cahn",
+  "decision_date": "1968-07-03",
+  "docket_number": "No. 7985",
+  "first_page": "1422",
+  "last_page": "1428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1422"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 U.S.P.Q. 334"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "399 F.2d 236",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2140816
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/399/0236-01"
+      ]
+    },
+    {
+      "cite": "368 F.2d 269",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2056800,
+        6086007
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/368/0269-01",
+        "/ccpa/54-2/0934-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 934",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086007
+      ],
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/0934-01"
+      ]
+    },
+    {
+      "cite": "341 F.2d 121",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        878539,
+        12164812
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/341/0121-01",
+        "/ccpa/52-2/1135-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1135",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164812
+      ],
+      "weight": 2,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1135-01"
+      ]
+    },
+    {
+      "cite": "324 F.2d 998",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6091837,
+        104703
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0845-01",
+        "/f2d/324/0998-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 845",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091837
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0845-01"
+      ]
+    },
+    {
+      "cite": "169 Mar. 23",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "pin_cites": [
+        {
+          "page": "1948"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 853,
+    "char_count": 16721,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17352054115896332
+    },
+    "sha256": "b92fa3347cc1636fcccfd36f4617f2ef7ff9d97992551289706f49b1191d8e38",
+    "simhash": "1:b7e78fd98486ad1d",
+    "word_count": 2551
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Pefore Wobley, Chief Judge, and Judges Rich, Smith, Almond, Kibkpatbiok."
+    ],
+    "parties": [
+      "In re Arno Cahn, Mark D. Konort and Jerome Rudy"
+    ],
+    "opinions": [
+      {
+        "text": "Worley, Chief Judge,\ndelivered the opinion of the court:\nThe sole issue here is whether the Board of Appeals committed reversible error in sustaining the examiner\u2019s rejection of claims 1, \u25a04-7, 12, 17 and 18 as unpatentable in view of certain prior art under 35 USC 103.\nThe invention relates to soap compositions for use in hard water. Appellants\u2019 specification provides the following background:\nOne of the major disadvantages attending the use of soap as a detergent is \u25a0\u25a0the water-insoluble precipitates which the soap forms with hardness ions present in hard water. The water-insoluble soap \u201ccurd\u201d thus formed detracts from the detergent action of the soap and forms an unsightly scum on the surface of the washing solution. On rinsing, the scum forms a deposit upon the skin and upon the containers employed for the washing operation, such as bathtubs, .sinks, washing machines and the like. The presence of this material is objectionable and in effect results in incomplete cleaning.\nThe problem of preventing lime soap formation is a fairly complex one. When a water-soluble soap is added to hard water, the soap combines with \u2022calcium and magnesium ions and precipitates as a water-insoluble calcium and \u25a0magnesium soap. As long as the concentration of soap in the solution remains above the foaming level, or if non-soap detergents are present at a concentration sufficient to provide a foaming action, the water-insoluble lime soaps remain fairly well dispersed. However, when the solution is diluted as by rinsing to the extent that the foaming and dispersing power of the water-soluble soap .-and/or detergent disappears, the lime soaps precipitate to form a sticky and unsightly surface scum. In the usual washing process, the dilution is carried \u2022out with water containing additional hardness ions so that additional lime soaps may be formed. * * *\nIt is known that allcylbenstenesulfonates, the allcyl chain of which is of the-normal straight chain type, will disperse Ume soaps and improve the lathering of soap in hard water. Alkyl aryl sulfonate mixtures produced by sulfonating; various petroleum fractions have been suggested for tbis purpose. [Emphasis supplied.]\nAccording to appellants, those straight chain, normal alkylbenzene-sulfonates are effective dispersants only when employed at concentrations of 50-65%. At that high concentration, however, the mixtures are said to be \u201ctoo sticky or tacky to process economically\u201d in. the usual milling and plodding (extruding) machines used in the-manufacture of soap bars. While starch has been used to reduce the stickiness problem, \u201cthe difficulties have not been entirely overcome.\u201d'\nAs their solution to the problem, appellants combine a conventional water-soluble soap, viz. an alkali metal salt of certain higher fatty acids, with 10-30% based on the weight of soap of alkali metal' and alkaline earth metal salts of certain alkylbenzenesulfonic acids. The sulfonates are prepared by alkylating benzene with a mixture-of alpha-olefins of the formula CH3(CH2)nCH = CIi2, where n = 9-15. The alkylbenzenes are sulfonated to produce alkylbenzenesulfonic-acids which in turn are neutralized to produce the desired salt. In addition to producing alkylbenzenes of varying alkyl chain length,, the alkylation reaction yields a mixture of isomers in which the-benzene ring is attached to various internal carbon atoms of any given alkyl chain, as illustrated by the formula in claim 1 reproduced below. At the concentrations employed, the alkylbenzenesulfonates' utilized by appellants are said to avoid the processing problems and to impart lime-soap dispersing properties \u201cconsiderably superior\u201d to like properties imparted by straight chain, normal alkylben-zenesulfonates of the formula CH3-(CH2)n-C6H,rSOsM, where the-alkyl group is attached terminally, not internally, to the benzene ring. The compositions may also contain various conventional ad-juvants, such as free fatty acids, perfume and the like.\nClaim 1 is illustrative:\nA composition consisting essentially of a water-soluble soap and a salt of admixture of sulfonated aryl-substituted alkanes of the formula\nwherein n is a whole Dumber from 9 to 15, m is zero to\nwhere n is an odd unmber and m is zero to\nwhere n is an even number, the salt being selected from the gronp consisting of alkali metal, alkaline earth metal and ammonium salts and said mixture of sul-fonated aryl-substituted alkanes being present in an amount sufficient to effect \u2022a substantial dispersion of soap curd in aqueous solution.\nThe references are:\nFlett._______ 2,390,295 Dec. 4,1945\nHoyt..... 2, 438,169 Mar. 23, 1948\nBaumgartner_ 2, 723, 240 Nov. 8,1955\nHewitt___ 2,972,583 Feb. 21,1961\nFlett discloses compositions \u201cmaterially superior to an ordinary soap for cleansing in hard water\u201d which contain water-soluble soaps and mixtures of alkyl aromatic sulfonates, the latter having:\n* * \u215e the advantageous properties of preventing \u201clime soap\u201d curds and related insoluble fatty acids and salts from depositing from aqueous suspensions thereof, while being themselves effective detergents and washing agents in hard water, ,s'ea-water and acid aqueous solutions. * * *\nThe alkylbenzenenesulfonates of Flett, or what he terms a \u201ckeryl benzene sulfonate,\u201d are prepared by chlorinating certain kerosene fractions of petroleum distillates \u2014 straight and/or branched chain al-kanes containing 12 to 16 carbon atoms, \u201ca large portion of which \u2022are probably relatively long carbon chains rather than more condensed molecules\u201d \u2014 to form mixed alkyl chlorides; condensing the alkyl chloride mixture with benzene; and sulfonating. For water \u2022of somewhat limited hardness, Flett employs 5-10 parts of the alkyl-benzenesulfonate per 100 parts of soap, although \u201c(f) or general use, -compositions are preferred containing from 25 to 54 parts\u201d per 100 parts of soap. In an example, a soap composition in bar form was prepared \u201cwithout difficulty\u201d by \u201cmilling, plodding and pressing\u201d a mixture consisting essentially of 80 parts sulfonate and 160 parts soap stock. The resultant bars \u201clathered and washed excellently\u201d in water of \u201cextreme hardness.\u201d When the relative amounts of the components were varied so that more than 66 parts of sulfonate were \u2022employed per 100 parts soap stock, it was noted that the compositions were \u201cdifficult to handle in the usual soap-working equipment because of stickiness.\u201d\nHoyt discloses bar soap compositions containing a water-soluble soap, an alkylbenzenesulfonate detergent (which he terms \u201cpetryl sulfonate\u201d), and starch. In contrast to Fleet, Hoyt observes:\n* * * Preparation of a milled soap product by mixing a hard soap in a form usually employed for milling (e.g. in the form of ribbons, beads, particles, flakes, grains, or the like, containing 5% to- 15% of moisture) with a higher petryl sulfonate in a substantial amount (e.g. 15% of the weight of the soap) presents difficulties; the mixture becomes sticky and tough so that it opposes milling and plodding in the usual commercial soap-making equipment. * * *\nThe addition of starch, says Hoyt, overcomes \u201cthe stickiness and toughness of the composition\u201d and allows the mixtures to flow readily through the plodder or extruder.\nBaumgartner discloses that two specific alkyl aryl sulfonates, which are within the class employed by appellants, exhibit \u201cunusually high detergency at low concentrations in hard water.\u201d\nHewitt discloses that, notwithstanding the fact that synthetic detergents often wash and foam better than fatty acid soaps and are not precipitated by alkaline earth ions in the wash water, soaps still account for a great amount of the toilet bar detergent sold. One reason given is that soaps are easy to process into bars, whereas such synthetic detergents as alkylbenzenesulfonates, whose alkyl groups are highly branched polyalkylene, are \u201cnot desirable constituents of detergent bars,\u201d since they tend to be \u201ctough and rubbery\u201d and \u201cresist normal processing more than solid detergents characterized by a crystalline structure.\u201d The \u201ckeryl benzene sulfonates are not as resistant to milling and plodding as the polyalkylene derivatives mentioned but they too are difficult to process.\u201d Hewitt discovered that a detergent bar containing the compounds:\nwhere B/ is methyl and Ris a mixture of straight chain alkyl radicals 6 to 16 carbon atoms in length, \u201cpossesses the detergency attributable\u201d to the alkylbenzenesulfonates \u201cbut can be milled and plodded almost as easily as a soap bar.\u201d Such a bar \u201cfoams well, has excellent detersive properties and is hard but soap-like to the touch.\u201d Hewitt also adds a plasticizer- to his composition which possesses \u201cboth hydrophilic and lipophilic groups,\u201d such as saturated fatty acids. Such a plasticizer acts to cohere the synthetic detergent particles in the bar and to stabilize the detergent foam in use.\nThe board affirmed the examiner\u2019s rejection of all claims as unpat-entable over Flett and Hoyt in view of Baumgartner and Hewitt under 35 USC 103. Both felt that it would be obvious to one of ordinary skill to substitute the specifically disclosed detergents of Baumgartner and Hewitt for those of Flett and Hoyt, particularly in view of the known advantages disclosed by the secondary references for those particular alkylbenzenesulfonate detergents.\nAppellants\u2019 arguments are, in the main, two-fold. They first contend that neither Baumgartner nor Hewitt suggests that the particular alkylbenzenesulfonates employed by appellants and disclosed by those references would be an effective lime-soap dispersant. The mere fact that those sulfonates are said to be superior detergents,, appellants state, does not mean they necessarily would be considered suitable lime-soap dispersants. Nor, they say, does Flett teach that any and all detergents are useful lime-soap dispersants, but teaches only that the class of alkylbenzenesulfonates disclosed by him are so useful. Secondly, appellants contend that none of the references suggests that the \u201cstickiness\u201d problem encountered by the prior art with the use of certain alkylbenzenesulfonates in the manufacture of soap bars could be overcome, without the use of starch, by utilizing the instant class of alkylbenzenesulfonates.\nInsofar as appellants\u2019 first point is concerned, they have argued as if the class of sulfonates they employ is a class entirely distinct from those employed by Flett. They seem to equate Fletf\u2019s \u201ckeryl\u201d sul-fonates only with the straight chain normal alkylbenzenesulfonates described as known detergents and lime-soap dispersants in their specification. That does not appear to be entirely the case. It is apparent that Flett discloses among other things the use of straight chain \u201ckeryl\u201d benzene sulfonates which, following the definition of Hewitt, include relatively large amounts of compounds having a straight chain hydrocarbon containing 12-16 carbon atoms medially or more centrally attached to the benzene radical. Those materials do not appear to differ substantially from appellants\u2019 and are included within those disclosed by Flett to be lime-soap dispersants at concentration levels comparable to those employed by appellants. We cannot agree that one of ordinary skill in the art would be unaware that the rather large class of alkylbenzenesulfonates recited in appellants\u2019 claims would possess lime-soap dispersant properties. The fact that Hewitt discloses that the instant alkylbenzenesul-fonates possess good foaming properties would, following the criterion established in appellants\u2019 specification, provide some further suggestion of the lime-soap dispersing properties of those materials.\nWith regard to appellants\u2019 second point, there does appear to be some unresolved inconsistency between the earlier disclosure of Flett that \u201cstickiness\u201d is no problem at \u201ckeryl\u201d benzene sulfonate concentrations less than 66% of the weight of fatty acid soap in the bar and the later disclosure of Hoyt that \u201cstickiness\u201d becomes a problem at \u201ckeryl\u201d benzene sulfonate concentrations greater than 15% of the weight of soap, thus necessitating the use of starch.\nGranted the problem exists, it seems to have been quite universal, whether attempts were made to employ the highly branched or keryl benzene sulfonates of the prior art in compositions with water-soluble soaps (Hoyt), or in compositions without them (as reported by Hewitt). It appears to us, as it did to the examiner, that Hewitt\u2019s \u2022discovery that certain alkylbenzenesulfonates, corresponding in large measure to those appearing in appellants\u2019 claims, would solve certain \u201cmilling\u201d and \u201cplodding\u201d difficulties if employed in synthetic detergent bars would suggest to one of ordinary skill that a similar problem in Flett\u2019s or Hoyt\u2019s compositions might be solved if those compounds were employed in the course of manufacturing bars containing both fatty acid soaps and alkylbenzenesulfonates. Appellants provide no answer to the examiner\u2019s line of reasoning in arguing that the technology of making bars from synthetic detergent is somehow \u201cquite distinct\u201d from the technology of making bars based largely on soap. Nor does the examiner\u2019s reasoning appear to involve :any elements of \u201cobvious to try\u201d as asserted by appellants. Cf. In re Huellmantel, 51 CCPA 845, 324 F.2d 998, 139 USPQ 496 (1963); In re Pantzer, 52 CCPA 1135, 341 F.2d 121, 144 USPQ 415 (1965).\nBoth appellants and the solicitor rely on this court\u2019s decision in In re Wilson, 54 CCPA 934, 368 F.2d 269, 151 USPQ 573 (1966), as controlling of the respective positions espoused by them. It should not be necessary to reiterate that each case is decided on its own facts. Suffice to say that we find the evidence of record here sufficient to provide reason for doing what appellants have done and to support the conclusion below that the claimed compositions would have been obvious to one of ordinary skill in the art at the time the invention was made.\nThe decision is affirmed.\nSmith, J., concurs in the result.\nAppearing in application Serial No. 103,737, filed April 18, 1961, and entitled \u201cSoap 'Compositions.\u201d\nHewitt states:\nThe word \u201ckeryl\u201d identifies the type of mixture of alkyl groups obtained in an alkyl aryl sufonate made by chlorination of kerosene followed by reaction with benzene (usually in presence of aluminum chloride) and sulfonatlon. Keryl radicals contain relatively large amounts of straight chain hydrocarbon medially joined to the aryl radical. [Emphasis supplied.]\nNeither appellants nor the examiner has pointed out In any detail just how the mixture of alkylbenzenesulfonates appellants employ and define in their claims differs from the \u201ckeryl\u201d benzene sulfonate mixtures disclosed by Flett and further defined by Hewitt. One difference may be that appellants\u2019 mixture includes no compound In which the end or terminal carbon of the straight alkyl chain Is attached to the benezene ring while seemingly Flett\u2019s mixture (and the \u201ckeryl\u201d sulfonates described by Hewitt) would contain some amount of such material due to the random substitution of chlorine In the kerosene molecules during the initial chlorination reaction step. Another difference may be that appellants\u2019 mixture includes little, If any, \u2019branched alkyl substituents while the \u201ckeryl\u201d mixtures of the reference do because of the nature of the kerosene starting material, although that difference Is tempered by the disclosure In appellants\u2019 specification regarding their alpha-olefin starting materials:\nIt is also recognized that petroleum-derived alpha olefins may contain small amounts, i.e., 10-15% of impurities such as alpha olefins having some degree of branching and/or olefins having an Internal double bond and/or olefins having more than one double bond. [Emphasis supplied.]\nThere this court stated, in dealing with the same meet patent as is involved here:\nAlthough the board apparently believed the substitution of any known detergent for the alkyl aromatic sulfonate detergents in the mett soap compositions would be obvious, we do not agree with this broad proposition, absent any given reason for making the substitution of detergents. [Emphasis supplied.]",
+        "type": "majority",
+        "author": "Worley, Chief Judge,"
+      }
+    ],
+    "attorneys": [
+      "Brumbaugh, Bree, Graves & Donohue, John A. Finlcen (Fben M. Graves, John F. Neary, Jr., William F. Eberle, of counsel) for appellants.",
+      "Joseph Sehimmel (Jack E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "399 F.2d 236; 158 USPQ 334\nIn re Arno Cahn, Mark D. Konort and Jerome Rudy\n(No. 7985)\nUnited States Court of Customs and Patent Appeals,\nJuly 3, 1968\nBrumbaugh, Bree, Graves & Donohue, John A. Finlcen (Fben M. Graves, John F. Neary, Jr., William F. Eberle, of counsel) for appellants.\nJoseph Sehimmel (Jack E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument May 8, 1968 by Mr. Eberle and Mr. Armore)\nPefore Wobley, Chief Judge, and Judges Rich, Smith, Almond, Kibkpatbiok.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1422-01",
+  "first_page_order": 762,
+  "last_page_order": 768
+}

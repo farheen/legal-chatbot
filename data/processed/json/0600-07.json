@@ -1,0 +1,58 @@
+{
+  "id": 12486042,
+  "name": "Com. v. N. Brown",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 885 WDA 2014",
+  "first_page": "600",
+  "last_page": "600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 120,
+    "sha256": "4033bc368d43ee938e3f85e0ead617e8af7ea29bb8defdaaf1e3b116766a40b2",
+    "simhash": "1:2d9ff2db02efe963",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nN. Brown"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nN. Brown\nNO. 885 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0600-07",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

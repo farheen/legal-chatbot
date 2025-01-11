@@ -1,0 +1,58 @@
+{
+  "id": 12487353,
+  "name": "Com. v. M. Spring",
+  "name_abbreviation": "Com. v. Spring",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 725 WDA 2015",
+  "first_page": "780",
+  "last_page": "780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 780"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "dc1208df6e2106c0dcba47855634cedb740758d1b7c56d75cf15b94dbdd0a33a",
+    "simhash": "1:690f5d0870e40380",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Spring"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Spring\nNO. 725 WDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0780-12",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

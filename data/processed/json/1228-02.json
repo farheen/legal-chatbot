@@ -1,0 +1,59 @@
+{
+  "id": 6083082,
+  "name": "In re Stratford",
+  "name_abbreviation": "In re Stratford",
+  "decision_date": "1933-03-14",
+  "docket_number": "No. 3123",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 77,
+    "ocr_confidence": 0.505,
+    "sha256": "7f4d29edfb9cdb57f1b461f8fc3c0db1ca73cb94c5518ca1c50e03e10d482d0f",
+    "simhash": "1:3ca301dc210eacb1",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Stratford"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in surfacing disc.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 14, 1933\nIn re Stratford\n(No. 3123).- \u2014"
+  },
+  "file_name": "1228-02",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

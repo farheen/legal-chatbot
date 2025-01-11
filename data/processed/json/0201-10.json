@@ -1,0 +1,58 @@
+{
+  "id": 12486617,
+  "name": "Com. v. F. Maines",
+  "name_abbreviation": "Com. v. Maines",
+  "decision_date": "2016-03-16",
+  "docket_number": "NO. 584 MDA 2015",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 115,
+    "sha256": "6eb40233512959331844809331e94d5feee5a3538a733361347bb6c09033fad5",
+    "simhash": "1:191b6e09d06a8584",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nF. Maines"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nF. Maines\nNO. 584 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 16, 2016\nRemanded Jurisdiction Retained."
+  },
+  "file_name": "0201-10",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

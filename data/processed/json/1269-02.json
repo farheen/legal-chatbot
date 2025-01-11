@@ -1,0 +1,59 @@
+{
+  "id": 8175894,
+  "name": "John BECKWITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Beckwith v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2009-01-09",
+  "docket_number": "No. 164 EM 2008",
+  "first_page": "1269",
+  "last_page": "1269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "963 A.2d 1269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 320,
+    "ocr_confidence": 0.702,
+    "sha256": "825909540da84cab262929a90f808d3d70786a29401c141851ddefceef0ed098",
+    "simhash": "1:7401633482f1082d",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T21:41:23.748921+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BECKWITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of January, 2009, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DE NIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John BECKWITH, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 164 EM 2008.\nSupreme Court of Pennsylvania.\nJan. 9, 2009."
+  },
+  "file_name": "1269-02",
+  "first_page_order": 1317,
+  "last_page_order": 1317
+}

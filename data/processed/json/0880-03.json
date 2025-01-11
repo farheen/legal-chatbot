@@ -1,0 +1,61 @@
+{
+  "id": 8000688,
+  "name": "Robert BREEST v. John MORAN",
+  "name_abbreviation": "Breest v. Moran",
+  "decision_date": "1982-04-29",
+  "docket_number": "No. 82-166-M.P.",
+  "first_page": "880",
+  "last_page": "880",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "445 A.2d 880"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 375,
+    "ocr_confidence": 0.808,
+    "sha256": "11e13914d83ca20786ba0ebb5481b48130feb3a75aa2b4efe7523efc9e190509",
+    "simhash": "1:7c1621771a716ce4",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T18:48:11.459249+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert BREEST v. John MORAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondent is directed to file his answer to the petition for writ of habeas corpus and therein to show cause, if any he has, why the writ should not issue as prayed, said answer to be made in compliance with the provisions of Supreme Court Rule 14.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert Breest, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Robert BREEST v. John MORAN.\nNo. 82-166-M.P.\nSupreme Court of Rhode Island.\nApril 29, 1982.\nRobert Breest, pro se."
+  },
+  "file_name": "0880-03",
+  "first_page_order": 938,
+  "last_page_order": 938
+}

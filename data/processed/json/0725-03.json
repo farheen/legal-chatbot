@@ -1,0 +1,104 @@
+{
+  "id": 8991728,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. W.C.E., Appellant",
+  "name_abbreviation": "Commonwealth v. W.C.E.",
+  "decision_date": "2006-02-21",
+  "docket_number": "",
+  "first_page": "725",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "891 A.2d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "882 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "574 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588032
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0487-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 592",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8997491,
+        2472125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0592-01",
+        "/pa/585/0092-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 78,
+    "char_count": 649,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2131489133150234
+    },
+    "sha256": "a05fc510990208276020b436444d1dea851abab04a2232876cba7b6a3ec6a32f",
+    "simhash": "1:fb97a03aa7f73b46",
+    "word_count": 100
+  },
+  "last_updated": "2024-02-27T19:11:14.199164+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: CAPPY, C.J., CASTILLE, NEWMAN, SAYLOR, EAKIN and BAER, JJ.",
+      "Justice BALDWIN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. W.C.E., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of February, 2006, the Order of the Superior Court is hereby affirmed. See Commonwealth v. Killinger, 888 A.2d 592 (Pa.2005); Commonwealth v. Williams, 574 Pa. 487, 882 A.2d 962 (2003).\nJustice BALDWIN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Ines M. Massella, Deanna L. Heasley, Erie, for W.C.E., appellant.",
+      "Kathleen Ann Scibetta, Bradley Henry Foulk, James Kenneth Vogel, Erie, for Com. of PA, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. W.C.E., Appellant.\nSupreme Court of Pennsylvania.\nFeb. 21, 2006.\nInes M. Massella, Deanna L. Heasley, Erie, for W.C.E., appellant.\nKathleen Ann Scibetta, Bradley Henry Foulk, James Kenneth Vogel, Erie, for Com. of PA, appellee.\nBefore: CAPPY, C.J., CASTILLE, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0725-03",
+  "first_page_order": 757,
+  "last_page_order": 758
+}

@@ -1,0 +1,947 @@
+{
+  "id": 8001122,
+  "name": "STATE v. Ira HOLLAND",
+  "name_abbreviation": "State v. Holland",
+  "decision_date": "1981-06-17",
+  "docket_number": "No. 80-247-C.A.",
+  "first_page": "1263",
+  "last_page": "1273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "430 A.2d 1263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "423 A.2d 1191",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7957054,
+        7957150,
+        7956919
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "petition for reargument"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/423/1191-02",
+        "/a2d/423/1191-03",
+        "/a2d/423/1191-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 950",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765544,
+        1765042,
+        1765325,
+        1765125
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0950-04",
+        "/us/372/0950-02",
+        "/us/372/0950-03",
+        "/us/372/0950-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176665
+      ],
+      "weight": 4,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0522-01"
+      ]
+    },
+    {
+      "cite": "9 L.Ed.2d 975",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "83 S.Ct. 931",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "371 U.S. 341",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        451181
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0341-01"
+      ]
+    },
+    {
+      "cite": "411 U.S. 233",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9958
+      ],
+      "weight": 3,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0233-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 536",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179826
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0536-01"
+      ]
+    },
+    {
+      "cite": "422 A.2d 1255",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7965461
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1256",
+          "parenthetical": "quoting State v. O'Coin, R.I., 423 A.2d 1191 (1980) (petition for reargument)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/422/1255-01"
+      ]
+    },
+    {
+      "cite": "428 A.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8005180
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1065"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/428/1064-01"
+      ]
+    },
+    {
+      "cite": "417 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944379
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/417/0310-01"
+      ]
+    },
+    {
+      "cite": "405 A.2d 3",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5548492
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/122/0142-01"
+      ]
+    },
+    {
+      "cite": "401 A.2d 1261",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3189457
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0565-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 682",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173132
+      ],
+      "weight": 9,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "689"
+        },
+        {
+          "page": "1882"
+        },
+        {
+          "page": "417"
+        },
+        {
+          "page": "689-90"
+        },
+        {
+          "page": "1882-83"
+        },
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0682-01"
+      ]
+    },
+    {
+      "cite": "268 A.2d 723",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3025763,
+        3025941
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0615-01",
+        "/ri/107/0518-01"
+      ]
+    },
+    {
+      "cite": "107 R.I. 615",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3025763
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0615-01"
+      ]
+    },
+    {
+      "cite": "173 S.E.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Va. 664",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2037543
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/210/0664-01"
+      ]
+    },
+    {
+      "cite": "104 Ariz. 486",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        630114
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/104/0486-01"
+      ]
+    },
+    {
+      "cite": "254 N.E.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Mass. 591",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        300413
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/356/0591-01"
+      ]
+    },
+    {
+      "cite": "82 Cal.Rptr. 363",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 P.2d 643",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Cal.3d 335",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        1183287
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/1/0335-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173155
+      ],
+      "weight": 8,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "198"
+        },
+        {
+          "page": "381"
+        },
+        {
+          "page": "410"
+        },
+        {
+          "page": "198"
+        },
+        {
+          "page": "381-82"
+        },
+        {
+          "page": "410-11"
+        },
+        {
+          "page": "199-200"
+        },
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0188-01"
+      ]
+    },
+    {
+      "cite": "110 R.I. 747",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3144327
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "768"
+        },
+        {
+          "page": "137"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/110/0747-01"
+      ]
+    },
+    {
+      "cite": "113 R.I. 189",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3128340
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "192"
+        },
+        {
+          "page": "96"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/113/0189-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168184
+      ],
+      "weight": 9,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "272"
+        },
+        {
+          "page": "1956"
+        },
+        {
+          "page": "1186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0263-01"
+      ]
+    },
+    {
+      "cite": "390 U.S. 377",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170914
+      ],
+      "weight": 10,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "383"
+        },
+        {
+          "page": "970"
+        },
+        {
+          "page": "1252"
+        },
+        {
+          "page": "385-86"
+        },
+        {
+          "page": "972"
+        },
+        {
+          "page": "1254"
+        },
+        {
+          "page": "382-383"
+        },
+        {
+          "page": "970-971"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/390/0377-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168076
+      ],
+      "weight": 9,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "227"
+        },
+        {
+          "page": "1932"
+        },
+        {
+          "page": "1157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0218-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168284
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "301-02"
+        },
+        {
+          "page": "1972"
+        },
+        {
+          "page": "1206"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0293-01"
+      ]
+    },
+    {
+      "cite": "414 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11292683
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/414/0788-01"
+      ]
+    },
+    {
+      "cite": "424 A.2d 1057",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7964520
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1063"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/424/1057-01"
+      ]
+    },
+    {
+      "cite": "354 A.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8082845
+      ],
+      "pin_cites": [
+        {
+          "page": "776"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/354/0771-01"
+      ]
+    },
+    {
+      "cite": "60 A.2d 711",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "718"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 R.I. 437",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        4451231
+      ],
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "449-50"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/74/0437-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 4,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "227"
+        },
+        {
+          "page": "2047-48"
+        },
+        {
+          "page": "862-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "396 F.2d 671",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2148622
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/396/0671-01"
+      ]
+    },
+    {
+      "cite": "130 U.S.App.D.C. 22",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "27"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 A.2d 1064",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8543234,
+        8003726
+      ],
+      "pin_cites": [
+        {
+          "page": "1071"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/136/0004-01",
+        "/a2d/383/1064-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464"
+        },
+        {
+          "page": "1023"
+        },
+        {
+          "page": "1466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "424 A.2d 1039",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7964019
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/424/1039-01"
+      ]
+    },
+    {
+      "cite": "291 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1498121
+      ],
+      "weight": 3,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/291/0097-01"
+      ]
+    },
+    {
+      "cite": "163 A.2d 25",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "28"
+        },
+        {
+          "page": "28"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 R.I. 328",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5130020
+      ],
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "332"
+        },
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/91/0328-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 806",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9431
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0806-01"
+      ]
+    },
+    {
+      "cite": "399 A.2d 1222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3187055
+      ],
+      "weight": 6,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1225"
+        },
+        {
+          "page": "1225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0422-01"
+      ]
+    },
+    {
+      "cite": "453 F.2d 123",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        749739
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "126"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/453/0123-01"
+      ]
+    },
+    {
+      "cite": "404 A.2d 465",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3184311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0882-01"
+      ]
+    },
+    {
+      "cite": "405 A.2d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5543813
+      ],
+      "weight": 6,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "hereinafter referred to as Holland I"
+        },
+        {
+          "page": "1213"
+        },
+        {
+          "page": "1215"
+        },
+        {
+          "page": "1214"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/122/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1383,
+    "char_count": 35167,
+    "ocr_confidence": 0.816,
+    "pagerank": {
+      "raw": 2.2056758012608623e-07,
+      "percentile": 0.7756817096286308
+    },
+    "sha256": "e2338d4f9824e1a5d1503bad8e9a083f83f1a700181d986d338d80437c4b5d94",
+    "simhash": "1:2ccd07593d19a6ae",
+    "word_count": 5823
+  },
+  "last_updated": "2024-02-27T18:02:14.377146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "SHEA, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Ira HOLLAND."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nMURRAY, Justice.\nThe defendant, Ira Holland (Holland), was convicted by a Superior Court jury on a charge of rape, in violation of G.L. 1956 (1969 Reenactment) \u00a7 11-37-1. The facts giving rise to the indictment against the defendant and his subsequent conviction on the charge are set forth in our opinion in State v. Holland, R.I., 405 A.2d 1211 (1979) (hereinafter referred to as Holland I), and only those facts pertinent to this appeal need be repeated here.\nAt defendant\u2019s trial in the Superior Court, Annie Gonsalves (Gonsalves) testified that on December 31, 1975, at approximately 6:30 p. m. she was walking on Car-rington Avenue in Providence when a black male grabbed her from behind and dragged her up the stairs of the Martin Luther King School where he sexually assaulted her. Following the assault, Mrs. Gonsalves ran to Camp Street, hailed a passing motorist, and asked to be taken to the Miriam Hospital. While en route to the hospital, Mrs. Gonsalves gave the driver, Warren Dreher (Dreher), a description of her assailant by detailing the clothing he was wearing and by describing his physical characteristics. As they passed the corner of Camp and Cypress Streets, Dreher noticed an individual who fit the description Mrs. Gonsalves had given him. Dreher slowed his vehicle and Mrs. Gonsalves identified the individual as her assailant. Both Dreher and Gon-salves then watched the man walk toward them down Camp Street until he turned into the courtyard of an apartment building. See Holland I, 405 A.2d at 1213.\nTwo days after the incident, defendant was placed in a lineup at the Providence police station with other black individuals, all wearing clothing similar to that of defendant. Dreher viewed the lineup and identified defendant as the man he had seen on Camp Street and as the man Mrs. Gon-salves had identified as her assailant.\nDuring the course of the trial, defense counsel learned for the first time of the lineup at the Providence police station at which Dreher had identified defendant. Once defense counsel became aware of the preindictment lineup, he immediately made a motion to suppress the lineup identification and moved for a voir dire hearing to determine if the lineup was illegal and would thus taint Dreher\u2019s in-court identification of defendant. The trial justice denied both the requested voir dire hearing and defendant\u2019s motion to suppress the lineup identification.\nOn appeal to this court from the judgment of conviction entered against him, defendant raised two issues. He argued that the trial justice erred in his denial of the request to hold a suppression hearing, outside the presence of the jury, at which defendant could inquire whether there may have been any improprieties in the pretrial lineup-identification procedure. The defendant argued further that the trial justice committed reversible error when he improperly summarized the testimony of the complainant in giving his instructions to the jury.\nIn denying defendant\u2019s appeal as it related to the trial justice\u2019s comment on the complainant\u2019s testimony, we found that his comment, although erroneous, was cured by his instructions to the jury and that it did not require a reversal of defendant\u2019s conviction. In respect to defendant\u2019s other contention, however, we stated:\n\u201cIn State v. Porraro, 404 A.2d 465 (R.I.1979), we adopted the rule that a defendant is entitled to an evidentiary hearing outside the presence of the jurors if he has made an initial showing of possible taint in a pretrial lineup-identification procedure. As a result of our holding in Porraro, we conclude in the instant case that defendant was entitled to a voir dire hearing on the motion to suppress the lineup identification.\nU * * *\n\u201cIt is well settled that if a defendant can show that he was reasonably unaware that there was a tainted pretrial lineup identification, a motion to suppress the identification at trial should be entertained. United States v. Cranson, 453 F.2d 123, 126 (4th Cir. 1971). The trial justice erred therefore when he failed to give defendant the opportunity during the trial to attack the admission of the in-court identification through the production of complete evidence about the circumstances under which the pretrial lineup was conducted.\n\u201cBecause no hearing was held by the trial court and no findings were made regarding the fairness of the out-of-court identification, we have an unsatisfactory record upon which to review the totality of the circumstances surrounding the identifications made by Dreher.\u201d Holland I, 405 A.2d at 1215.\nFollowing the procedure we adopted in Porraro, we remanded the case to the Superior Court with instructions that the trial justice conduct an evidentiary hearing concerning the circumstances under which Dre-her\u2019s pretrial identification was made and with further instructions for the trial justice to make findings regarding the fairness of the pretrial lineup. Id.\nOn remand, the trial justice set the matter down for hearing for October 22, 1979. When the case was called for hearing at approximately 3 p. m. on that day, defendant was not presented in the courtroom. After hearing arguments of defense counsel concerning why the hearing should be continued until defendant was present, the trial justice, over the objections of defense counsel, ordered the hearing to commence.\nWarren Dreher and Detective Arnold Shone of the Providence police department testified for the state concerning the circumstances under which the lineup was conducted. When their testimony concluded the following day, the trial justice issued a warrant for defendant\u2019s arrest and continued the hearing until such time as defendant was apprehended in order to give him an opportunity to be present and to testify.\nOn November 29, 1979, defendant was arrested in Fall River, Massachusetts. The following day he was brought before the court. At that time, defendant told the court that he had not appeared on October 22 because he had not received notice of the hearing. When the evidentiary hearing resumed on December 17, 1979, defendant testified that on October 22 he came to the Providence County Courthouse at approximately 9:45 a. m. and went to a witness room on the fifth floor of the courthouse, where, he claimed, he was told by an unidentified person that the assistant public defender representing him was engaged in another trial and that defendant\u2019s hearing had been postponed. The defendant testified that he then left the courthouse and returned home. During his testimony, defendant also gave his account of the lineup conducted by the Providence police department.\nFollowing the close of testimony and arguments of counsel, the trial justice rendered a bench decision in which he found that the lineup conducted by the Providence police at which Dreher had identified defendant was fairly conducted and conformed to due-process fairness standards. The defendant is now before us on an appeal from that determination by the trial justice.\nIn this appeal, defendant has briefed and argued several issues for our consideration. The additional facts involved in this appeal will be discussed when necessary for the resolution of those issues raised by defendant.\nI\nThe defendant first contends that the trial justice erred in conducting part of the evidentiary hearing in his absence. The defendant argues that the hearing in this matter was scheduled for 2 p. m. on October 22, 1979, but was not actually reached for hearing until 2:55 p. m. The defendant points out that the trial justice, after hearing brief arguments of counsel, commenced the hearing at approximately 3 p. m. The essence of defendant\u2019s argument is that in view of the severity of the sentence imposed on him, this short waiting period was inadequate. He asserts also that when he failed to appear at the hearing, the trial justice should have granted his attorney\u2019s request for \u00e1 short continuance, which was especially warranted, he contends, in view of the fact that the crucial testimony of Warren Dreher, the state\u2019s chief witness, was taken in defendant\u2019s absence.\nIn State v. Brown, R.I., 399 A.2d 1222 (1979), we observed that a criminal defendant has the right, under both the Sixth Amendment and the Due Process Clause of the Fourteenth Amendment, Faretta v. California, 422 U.S. 806, 818-19 & n.15, 95 S.Ct. 2525, 2532-33 & n.15, 45 L.Ed.2d 562, 572-73 & n.15 (1975), and Art. I, sec. 10, of the Rhode Island Constitution, Trombley v. Langlois, 91 R.I. 328, 332, 163 A.2d 25, 28 (1960), to be present at all stages of his trial when his absence may affect the fairness of the proceedings against him. See Snyder v. Massachusetts, 291 U.S. 97, 54 S.Ct. 330, 78 L.Ed. 674 (1934); State v. LaChappelle, R.I., 424 A.2d 1039 (1981). We have also stated that respect for this right of defendant to be present, however, should not permit a defendant who absents himself to halt proceedings against him. Trombley v. Langlois, 91 R.I. at 332, 163 A.2d at 28.\nIt is clear that a defendant\u2019s voluntary absence from a trial serves to operate as a waiver of the constitutional right to be present. In State v. Brown, however, we noted that\n\u201c[bjecause of its constitutional dimensions, any waiver of the right to be present through a voluntary absence must amount to \u2018an intentional relinquishment or abandonment of a known right or privilege.\u2019 Johnson v. Zerbst, 304 U.S. 458, 464, 58 S.Ct. 1019, 1023, 82 L.Ed. 1461, 1466 (1938). See Singletary v. United States, 383 A.2d 1064, 1071 (D.C.App.1978). In Taylor the Supreme Court cited with approval the holding in Cureton v. United States, 130 U.S.App.D.C. 22, 27, 396 F.2d 671, 676 (1968) that a voluntary absence can be found when the defendant is aware both of the process taking place and of his right and obligation to be present, and has no sound reason for remaining away. [Taylor v. United States,] 414 U.S. [17] at 19-20 n.3, 94 S.Ct. [194] at 196 n.3, 38 L.Ed.2d [174] at 177 n.3 [(1973).] The voluntariness of any waiver may be determined by the \u2018totality of all the circumstances,\u2019 Schneckloth v. Bustamonte, 412 U.S. 218, 227, 93 S.Ct. 2041, 2047-48, 36 L.Ed.2d 854, 862-63 (1973), including defendant\u2019s conduct. Illinois v. Allen, 397 U.S. [337] at 349, 90 S.Ct. [1057] at 1063, 25 L.Ed.2d [353] at 362 (1970).\u201d Id. 399 A.2d at 1225.\nIndeed, in order to satisfy due-process requirements, a trial justice must make every effort to determine if a defendant has waived his right to be present. See State v. Greene, 74 R.I. 437, 449-50, 60 A.2d 711, 718 (1948). In Brown, we cited with approval State v. Staples, 354 A.2d 771, 776 (Me.1976), wherein the Supreme Judicial Court of Maine set forth guidelines to be followed by trial justices to determine whether a particular defendant who has absented himself from a trial has voluntarily waived his right to be present. In State v. Brown, R.I., 399 A.2d 1222 (1979), we stated that due process is satisfied when a trial justice\n\u201c \u2018(1) makes sufficient inquiry into the circumstances of a defendant\u2019s disappearance to justify a finding whether the absence was voluntary, (2) makes a preliminary finding of voluntariness (when justified), and (3) affords the defendant an adequate opportunity to explain his absence when he is returned to custody and before sentence is imposed.\u2019 \u201d Id., 399 A.2d at 1225.\nAfter the trial justice has made an initial finding that the defendant\u2019s absence from a proceeding was voluntary, it is incumbent upon the defendant to come forward with evidence to rebut that finding. Id.\nIn the instant case, the trial justice made sufficient inquiry into the absence of defendant from the hearing. Relying upon defense counsel\u2019s representations that defendant had been informed of the date and time of the scheduled hearing, the trial justice made a preliminary finding that defendant was voluntarily absent from the hearing. Following the state\u2019s presentation of its evidence, the trial justice issued an arrest warrant to secure defendant\u2019s presence at the hearing and postponed a determination on the matter until defendant had been given an opportunity to explain the reasons for his absence. At that subsequent hearing, defendant was given an adequate opportunity to explain his absence. However, his explanation directly contradicted an explanation he had earlier offered to the court following his arrest in Fall River. It is clear nevertheless that the trial justice chose not to believe either explanation. In his bench decision in this matter, the trial justice stated:\n\u201cAfter the case was remanded to this court, I got in touch with the prosecutor and with Mr. Paul Kelley, attorney for the defendant, and indicated that we would set the case down for a definite date which would be convenient to Mr. Kelley and to his client. It was agreed that Monday, October 22, 1979, would be a satisfactory date. Because it was a Monday, it was agreed that the judge and the lawyers would be occupied with other matters in the morning. Consequently, we set it down for 2:00 P.M. Now, Mr. Kelley made it clear throughout the hearing that he notified Mr. Holland to be present in this court at 2:00 P.M. on October 22, 1979. But based on the assurance from Mr. Kelley that he would be here and his client would be here, the State of Rhode Island went to great expense to bring the witness, Warren Dre-her, who in the meantime has moved to San Francisco, California. Mr. Dreher was here to testify on October 22. Everyone was here except Ira Holland. The hearing continued into October 23, and since Mr. Holland had not put in an appearance, a warrant was issued for his arrest. He was apprehended several weeks later in Fall River, and he was brought into this courtroom on November 30, 1979. With him at the time was Assistant Public Defender Marvin Clemons. We indicated to Mr. Holland at that time that he had been expected to be present for the hearing on October 22, and I believe the transcript will show that he spontaneously stated that he did not show up on October 22 because he did not know about the hearing. That is a statement that just is not true.\n\u201cNow, he says that he did come to the courthouse on October 22, and instead of going to the Public Defender\u2019s office, he went to some witness room and spoke to some nameless stranger who he never saw before and has never seen since. I have to come to the conclusion that the truth is not in Mr. Holland. I don\u2019t believe any of his statements. He has done everything possible to thwart the State\u2019s attempts to give him a hearing.\u201d\nThus, the defendant offered no credible evidence to the trial justice to rebut his finding that his absence from the hearing was voluntary and that, therefore, defendant had waived his constitutional right to be present. On appellate review, this finding by the trial justice is entitled to great weight and will not be disturbed unless it can be shown to us that the trial justice has misconceived or overlooked material evidence or was otherwise clearly wrong. State v. Amado, R.I., 424 A.2d 1057, 1063 (1981); State v. Duggan, R.I., 414 A.2d 788, 792 (1980). In light of the contradictory testimony offered by defendant as an explanation, we cannot say that the trial justice was clearly wrong in finding that defendant\u2019s absence from the hearing was voluntary.\nII\nThe second issue raised by Holland on appeal is that the trial justice erred in finding that the lineup at which Dreher identified him was fairly conducted. He contends that Dreher\u2019s in-court identification of him was tainted by a suggestive pretrial lineup conducted by the Providence police, thereby denying him due process of law.\nIn Holland I, R.I., 405 A.2d 1211 (1979), we discussed the pertinent considerations in determining whether a pretrial identification of an accused amounts to a denial of due process of law. There, we said that\n\u201c[a] pretrial identification confrontation may be \u2018so unnecessarily suggestive and conducive to irreparable mistaken identification\u2019 that it denies an accused due-process of law. Stovall v. Denno, 388 U.S. 293, 301-02, 87 S.Ct. 1967, 1972, 18 L.Ed.2d 1199, 1206 (1967). Pretrial confrontations must be scrutinized for their fairness. United States v. Wade, 388 U.S. 218, 227, 87 S.Ct. 1926, 1932, 18 L.Ed.2d 1149, 1157 (1967).\n\u201cPretrial identification procedures may so taint in-court identification testimony as to render such testimony inadmissible on due-process grounds. Simmons v. United States, 390 U.S. 377, 383, 88 S.Ct. 967, 970, 19 L.Ed.2d 1247, 1252 (1968); Gilbert v. California, 388 U.S. 263, 272, 87 S.Ct. 1951, 1956, 18 L.Ed.2d 1178, 1186 (1967). For such identification procedure to amount to a due-process denial depends upon the totality of the circumstances surrounding it. Simmons v. United States, 390 U.S. at 385-86, 88 S.Ct. at 972, 19 L.Ed.2d at 1254; State v. Thornley, 113 R.I. 189, 192, 319 A.2d 94, 96 (1974); State v. Ouimette, 110 R.I. 747, 768, 298 A.2d 124, 137 (1972).\u201d Id. 405 A.2d at 1214.\nThe gravamen of defendant\u2019s arguments with regard to the fairness of the lineup is that the clothing he wore in the lineup and the clothing worn by the individual Dreher saw walking on Camp Street on the night of the incident were similar. The defendant argues that a lineup in which an accused is dressed in clothes fitting the description of a suspect violates an accused\u2019s due-process rights.\nA witness\u2019 out-of-court identification of an accused is not admissible at trial if the identification procedure used was so unnecessarily suggestive and conducive to a substantial likelihood of misidentification that the accused was denied due process of law. Neil v. Biggers, 409 U.S. 188, 198, 93 S.Ct. 375, 381, 34 L.Ed.2d 401, 410 (1972). \u201cIt is the likelihood of misidentification which violates a defendant\u2019s right to due process * * *. Suggestive confrontations are disapproved because they increase the likelihood of misidentification, and unnecessarily suggestive ones are condemned for the further reason that the increased chance of misidentification is gratuitous.\u201d Id. at 198, 93 S.Ct. at 381-82, 34 L.Ed.2d at 410-11.\nIn Neil v. Biggers, the United States Supreme Court set forth several factors to be considered in deciding whether, under \u201cthe totality of the circumstances,\u201d a witness\u2019s out-of-court identification of an accused was reliable even though the confrontation procedure used was suggestive. There the Court stated that\n\u201cthe factors to be considered in evaluating the likelihood of misidentification include the opportunity of the witness to view the criminal at the time of the crime, the witness\u2019 degree of attention, the accuracy of the witness\u2019 prior description of the criminal, the level of certainty demonstrated by the witness at the confrontation, and the length of time between the crime and the confrontation.\u201d Id. at 199-200, 93 S.Ct. at 382, 34 L.Ed.2d at 411.\nApplying these factors to the facts of the instant case, we find that the record indicates that Dreher had more than an adequate opportunity to view the individual whom Mrs. Gonsalves had identified as her assailant. Dreher testified at the evidentia-ry hearing that when Mrs. Gonsalves identified the individual, Dreher pulled his car some distance down the street and sat with his car window rolled down, watching the individual walk slowly toward the car. He testified that the street was well lighted, which enabled him to see the suspect\u2019s face \u201creally well.\u201d He testified also that he watched the individual walking toward the car for \u201cat least a minute, maybe two.\u201d The witness stated also that he studied the suspect\u2019s face so that he could later describe him to police.\nThe record further reveals that following the incident, Dreher gave a general physical description of the individual he had viewed on Camp Street and a description of the clothes the individual wore. In addition, Dreher, who was employed by the Warwick school department as an art teacher, was able to draw a sketch of the suspect for the police.\nThe lineup in controversy here was conducted at police headquarters less than two days after Dreher had had the opportunity to view the suspect on Camp Street. At the evidentiary hearing, Dreher testified as follows:\n\u201cQ And drawing your attention to that photograph, Defendant\u2019s Exhibit A, can you tell us, counting the subjects by number going from left to right, one to four, who you selected?\n\u201cA I selected number one.\n\u201cQ You selected him. Was that person that you selected the same person that you had seen on Camp Street on the night in question, that Mrs. Gonsalves had pointed out or no?\n\u201cA Yes, that\u2019s why I selected him.\n\u201cQ And how certain were you of that fact when you made the selection?\n\u201cA I had a good, long look at him on the street. There was no mistake. That was the guy.\nU * * *\n\u201cQ And can you tell us what caused you to select subject number one in the lineup?\n\u201cA His face.\n\u201cQ And the identification at trial, was that based on what you saw in the lineup or what you saw on December 31, 1975?\n\u201cA It was based on what I saw on December 31st.\u201d\nEven assuming that the similarities between the clothing worn by defendant in the lineup and the suspect\u2019s clothing described by Dreher made the lineup somewhat suggestive, under \u201cthe totality of the circumstances\u201d of the lineup we find that the witness\u2019s identification of defendant at the lineup was reliable and did not violate his due-process rights. The trial justice, therefore, did not err in denying defendant\u2019s motion to suppress the witness\u2019s testimony of his lineup identification of defendant. Because the lineup identification of defendant did not violate due process, the witness\u2019s in-court identification of defendant was not in any way tainted by the prior identification.\nIll\nThe third issue raised by defendant in this appeal is that evidence of Dreher\u2019s identification of defendant in the lineup should have been suppressed at trial because defendant was not represented by counsel at the time the lineup was conducted, nor was he advised of his right to have counsel present. The resolution of this issue necessitates a brief discussion of the development of the law in this jurisdiction regarding a defendant\u2019s constitutional right to the presence of counsel at a police lineup.\nThe Supreme Court in United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149 (1967), and in Gilbert v. California, 388 U.S. 263, 87 S.Ct. 1951, 18 L.Ed.2d 1178 (1967), first delineated the principle that a postindictment pretrial lineup at which a defendant is exhibited to identifying witnesses is a critical stage of a criminal prosecution, requiring the presence of counsel. The Court in these cases held that a postindictment lineup conducted in the absence of defendant\u2019s counsel denies defendant his right guaranteed by the Sixth Amendment and renders an identification made at that time inadmissible.\nFollowing the Wade and Gilbert decisions, there was a division among courts whether the right to counsel extended also to preindictment lineups. Compare People v. Fowler, 1 Cal.3d 335, 461 P.2d 643, 82 Cal.Rptr. 363 (1969), and Commonwealth v. Guillory, 356 Mass. 591, 254 N.E.2d 427 (1970), with State v. Fields, 104 Ariz. 486, 455 P.2d 964 (1969), and Buchanan v. Commonwealth, 210 Va. 664, 173 S.E.2d 792 (1970).\nSeveral years after Wade and Gilbert, this court in In re Holley, 107 R.I. 615, 268 A.2d 723 (1970), was presented with the question of whether the constitutional right to the presence of counsel at a lineup embraced a pre- as well as a postindictment lineup. There we held that the right to counsel was applicable to all lineups, whether they were conducted before or after the institution of criminal proceedings against a defendant. Our holding in Holley was based upon our belief that although Wade and Gilbert concerned the right to counsel at a postindictment lineup, the Supreme Court had intended the rule enunciated in those cases to apply to all pretrial lineups. We noted that the language \u201cpost-indictment lineup\u201d used by the Supreme Court in Wade and Gilbert was merely descriptive of the particular factual situations presented in those cases and not meant as a limitation of the rules announced therein.\nOur speculation in Holley that the Supreme Court intended the right to the presence of counsel to be applicable to all lineups was ultimately proven wrong two years later in Kirby v. Illinois, 406 U.S. 682, 92 S.Ct. 1877, 32 L.Ed.2d 411 (1972), wherein the Supreme Court held that an accused\u2019s Sixth and Fourteenth Amendment right to counsel attaches \u201cat or after the initiation of adversary judicial criminal proceedings\u2014 whether by way of formal charge, preliminary hearing, indictment, information, or arraignment.\u201d Id. at 689, 92 S.Ct. at 1882, 32 L.Ed.2d at 417.\nIn a plurality decision Mr. Justice Stewart explained the rationale for such a ruling:\n\u201cThe initiation of judicial criminal proceedings is far from a mere formalism. It is the starting point of our whole system of adversary criminal justice. For it is only then that the government has committed itself to prosecute, and only then that the adverse positions of government and defendant have solidified. It is then that a defendant finds himself faced with the prosecutorial forces of organized society, and immersed in the intricacies of substantive and procedural criminal law. It is this point, therefore, that marks the commencement of the \u2018criminal prosecutions\u2019 to which alone the explicit guarantees of the Sixth Amendment are applicable.\n\u201cIn this case we are asked to import into a routine police investigation an absolute constitutional guarantee historically and rationally applicable only after the onset of formal prosecutorial proceedings. We decline to do so. Less than a year after Wade and Gilbert were decided, the Court explained the rule of those decisions as follows: \u2018The rationale of those cases was that an accused is entitled to counsel at any \u201ccritical stage of the prosecution,\u201d and that a post-indictment lineup is such a \u201ccritical stage.\u201d \u2019 (Emphasis supplied.) Simmons v. United States, 390 U.S. 377, 382-383, 88 S.Ct. 967, 970-971, 19 L.Ed.2d 1247. We decline to depart from that rationale today by imposing a per se exclusionary rule upon testimony concerning an identification that took place long before the commencement of any prosecution whatever.\u201d (Footnote omitted.) [Citations omitted.] Id., 406 U.S. at 689-90, 92 S.Ct. at 1882-83, 32 L.Ed.2d at 418.\nRecently, in State v. Delahunt, R.I., 401 A.2d 1261 (1979), we held that in light of the Supreme Court\u2019s ruling in Kirby that a defendant has no right under the Federal Constitution to the presence of counsel at a preindictment lineup, we would adhere to that decision and not interpret Art. I, sec. 10 of our state constitution to require assistance of counsel at any stage earlier than its federal counterpart.\nThe essence of defendant\u2019s contention is that the lineup here was conducted on January 2, 1976 \u2014 less than two days after the alleged rape and long before he was indicted on that charge. He argues that the law in this jurisdiction at that time concerning the right to counsel at preindictment lineups was controlled by In re Holley. He asserts that since Holley extended an accused\u2019s right to counsel to preindictment lineups, the lineup conducted here, in the absence of counsel or without informing defendant of his right to counsel, denied defendant this constitutional right and that Dreher\u2019s testimony at trial concerning his identification of defendant in that lineup, therefore, should have been suppressed at trial.\nThe simple response to defendant\u2019s contention is that Kirby rather than Holley, was the controlling law in this jurisdiction at the time the lineup in controversy was conducted. Our opinion in Holley was based upon the right to counsel guaranteed under the United States Constitution. In holding, in Holley, that the principles enunciated in Wade and Gilbert were also applicable to preindictment lineups, we were, in effect, attempting to forecast how the Supreme Court would decide the question. The Supreme Court in Kirby, however, decided otherwise. There can be no question that this court is bound by Kirby\u2019s interpretation of the Federal Constitution.\nSince under Kirby defendant had no right to counsel at a preindictment lineup, the lineup conducted here in the absence of counsel denied defendant no constitutional guarantees; therefore, Dreher\u2019s testimony relating to his identification of defendant at that lineup need not be suppressed.\nIV\nFinally, defendant seeks dismissal of the indictment against him based upon the fact that the indictment was returned by an illegally constituted grand jury. His challenge of the composition of the grand jury is based upon our holding in State v. Jenison, R.I., 405 A.2d 3 (1979), in which we held that the total and arbitrary exclusion of the college and university academic community from the grand-jury selection process impermissibly deprived a defendant of his due-process right to be indicted by an impartial grand jury drawn from a fair cross-section of the community. Later, in State v. O\u2019Coin, R.I., 417 A.2d 310 (1980), we gave a limited retrospective application of our holding in Jenison. We have subsequently stated that a defendant who wishes to challenge the composition of a grand or petit jury impaneled within the time frames established in O\u2019Coin for the application of our Jenison ruling must do so by filing a motion prior to trial pursuant to Superior Court Rules of Criminal Procedure 12(b)(2) and (3). That rule mandates that such a motion be made within twenty-one days after a defendant\u2019s plea is entered. If the motion is made prior to trial but more than twenty-one days after a plea is entered, it is within the sound discretion of the trial justice to consider the motion if it is filed within a reasonable time after entrance of a plea. State v. Rohelia, 428 A.2d 1064, 1065 (R.I., 1981); State v. Morin, R.I., 422 A.2d 1255, 1256 (1980) (quoting State v. O\u2019Coin, R.I., 423 A.2d 1191 (1980) (petition for reargument)).\nThe defendant here was indicted by a Providence County grand jury impaneled well within the time frames established in O\u2019Coin. Holland concedes, however, that he did not challenge the composition of that grand jury prior to trial by filing a Rule 12(b) motion to dismiss the indictment against him. As we have stated on many previous occasions, a defendant\u2019s failure to raise this challenge properly before trial and before the judgment of conviction is entered against him constitutes a waiver of this issue, absent a showing of actual prejudice as well as good cause to be relieved of the time requirements of Rule 12. State v. Morin, 422 A.2d at 1256 (citing Francis v. Henderson, 425 U.S. 536, 96 S.Ct. 1708, 48 L.Ed.2d 149 (1976); Davis v. United States, 411 U.S. 233, 93 S.Ct. 1577, 36 L.Ed.2d 216 (1973); Shotwell Mfg. Co. v. United States, 371 U.S. 341, 83 S.Ct. 448, 9 L.Ed.2d 357, reh. denied, 372 U.S. 950, 83 S.Ct. 931, 9 L.Ed.2d 975 (1963)). Neither actual prejudice nor good cause has been shown to us in the instant case. Thus we are precluded from considering the defendant\u2019s challenge to the composition of the grand jury in this appeal.\nFor the reasons stated, the defendant\u2019s appeal is denied and dismissed, the judgment of conviction entered against the defendant is affirmed, and the papers in this case may be remitted to the Superior Court.\nSHEA, J., did not participate.\n. At that time, G.L. 1956 (1969 Reenactment) \u00a7 11-37-1 was the statutory codification of the common-law crime of rape. The Legislature by P.L. 1979, ch. 302, \u00a7 2, subsequently repealed this section and substituted therefor a new statutory scheme setting forth various degrees of sexual assault and the penalties therefor.\n. In remanding the case, we noted that if the trial justice found that the pretrial identification did not violate due-process fairness standards, or that the in-court identification had an independent source, the judgment of conviction would be affirmed in conformity with the resolution of defendant\u2019s other issue on appeal. If the trial justice found otherwise, defendant would be given a new trial.\n. We note that to place upon a person or to have a person in a lineup wear something similar to that worn by the perpetrators of a crime is not necessarily, in and of itself, unduly suggestive nor is it necessarily a denial of due process. For example, in United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149 (1967) the persons in the lineup in which the defendant appeared were required to wear strips of tape on their face such as allegedly worn by the robber and each person was required to repeat words uttered by the robber at the time of the crime. Also, in Gilbert v. California, 388 U.S. 263, 87 S.Ct. 1951, 18 L.Ed.2d 1178 (1967), the defendant was placed in a lineup in which each person was required to put on or take off certain articles of clothing. Each person in the lineup was also required to repeat certain phrases that the witnesses had heard the robbers use. In neither case did the Supreme Court consider the lineup or anything the accused was required to do in the lineup to be unnecessarily suggestive or as being a denial of due process. The fact that the accused were required to repeat words spoken by the perpetrators of the crimes was held not to be viola-tive of their Fifth Amendment privileges against self-incrimination.\n. The Sixth Amendment to the United States Constitution provides in pertinent part:\n\u201cIn all criminal prosecutions, the accused shall enjoy the right * * * to have the assistance of counsel for his defense.\u201d\n. In State v. O\u2019Coin, R.I., 417 A.2d 310 (1980), we said that our holding in State v. Jenison, R.I., 405 A.2d 3 (1979), would apply to cases of all defendants who were indicted by grand juries impaneled after January 21, 1975, the date of the Supreme Court\u2019s opinion in Taylor v. Louisiana, 419 U.S. 522, 95 S.Ct. 692, 42 L.Ed.2d 690 (1975), upon which our holding in Jenison, was premised, and those whose convictions had not yet become final by July 11, 1980 \u2014 the date on which our opinion in O\u2019Coin was filed. Id. 417 A.2d at 312.\n. Rule 12(b) of the Superior Court Rules of Criminal Procedure in pertinent part provides:\n\u201c(2) [Djefenses and objections based on defects in the institution of the prosecution or in the indictment, information, or complaint * * * may be raised only by motion before trial. * * * Failure to present any such defense or objection * * * constitutes a waiver thereof, but the court for cause shown may grant relief from the waiver.\n\u201c(3) The motion shall be made no later than twenty-one (21) days after the plea is entered, * * * but in any event the court may permit the motion to be made within a reasonable time after the plea is entered.",
+        "type": "majority",
+        "author": "MURRAY, Justice."
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts, II, Atty. Gen., Alan R. Tate, Sp. Asst. Atty. Gen., for plaintiff.",
+      "William F. Reilly, Public Defender, Paul E. Kelley, Asst. Public Defender, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Ira HOLLAND.\nNo. 80-247-C.A.\nSupreme Court of Rhode Island.\nJune 17, 1981.\nDennis J. Roberts, II, Atty. Gen., Alan R. Tate, Sp. Asst. Atty. Gen., for plaintiff.\nWilliam F. Reilly, Public Defender, Paul E. Kelley, Asst. Public Defender, for defendant."
+  },
+  "file_name": "1263-01",
+  "first_page_order": 1311,
+  "last_page_order": 1321
+}

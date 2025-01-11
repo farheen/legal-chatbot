@@ -1,0 +1,58 @@
+{
+  "id": 12486973,
+  "name": "Commonwealth v. Derrick White",
+  "name_abbreviation": "Commonwealth v. White",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 78 EAL (2016)",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "sha256": "a911b6d9b96836e740f75b9b15ef51bfa203efb0c40f8bf1db3c86148e72c9e7",
+    "simhash": "1:dc9e52ac83c408ab",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDerrick White"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDerrick White\nNO. 78 EAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0165-13",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488313,
+  "name": "Com. v. Dyer, L.",
+  "name_abbreviation": "Com v. Dyer",
+  "decision_date": "2016-05-06",
+  "docket_number": "1544 EDA 2015",
+  "first_page": "1138",
+  "last_page": "1138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "6f1acdc35c590fc91229cce0b97dadb60973f94d7b24f522ab3f7695503786b1",
+    "simhash": "1:bc4946a945a39df0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nDyer, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nDyer, L.\n1544 EDA 2015\nSuperior Court of Pennsylvania.\nMay 6, 2016\nAffirmed"
+  },
+  "file_name": "1138-09",
+  "first_page_order": 1138,
+  "last_page_order": 1138
+}

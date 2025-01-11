@@ -1,0 +1,58 @@
+{
+  "id": 12486483,
+  "name": "Com. v. M. Scusselle",
+  "name_abbreviation": "Com. v. Scusselle",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 396 MDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "69307ab00acafaa4b82738164fe99ccee9ac019f9a3f52ba13e8df0afbe4bbc6",
+    "simhash": "1:2141675696be15f4",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Scusselle"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Scusselle\nNO. 396 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed."
+  },
+  "file_name": "0192-10",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

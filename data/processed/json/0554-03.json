@@ -1,0 +1,62 @@
+{
+  "id": 7944362,
+  "name": "STATE v. Thomas INNIS",
+  "name_abbreviation": "State v. Innis",
+  "decision_date": "1980-08-28",
+  "docket_number": "No. 75-333-C.A.",
+  "first_page": "554",
+  "last_page": "554",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 A.2d 554"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 325,
+    "ocr_confidence": 0.812,
+    "sha256": "5fcb29a64eed231067e10f815ee5612093d02e6534f319b95dce67676477dfea",
+    "simhash": "1:b1ca3821af6c2401",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T22:42:48.767403+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Thomas INNIS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion for limited remand as prayed is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., for plaintiff.",
+      "John A. MacFadyen III, Chief Appellate Defender, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Thomas INNIS.\nNo. 75-333-C.A.\nSupreme Court of Rhode Island.\nAug. 28, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., for plaintiff.\nJohn A. MacFadyen III, Chief Appellate Defender, Providence, for defendant."
+  },
+  "file_name": "0554-03",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6092683,
+  "name": "In re Peter J. Bily",
+  "name_abbreviation": "In re Bily",
+  "decision_date": "1967-10-03",
+  "docket_number": "No. 7700",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 78,
+    "ocr_confidence": 0.478,
+    "sha256": "86c298fc61e141e905db1acc67dd0a8bfe6af6af27cab4463044ae4d89cd4121",
+    "simhash": "1:411bb47ecdb8fefa",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Peter J. Bily"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Fluid transferring apparatus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 3, 1967\nNo. 7700.\nIn re Peter J. Bily"
+  },
+  "file_name": "1513-01",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

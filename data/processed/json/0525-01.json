@@ -1,0 +1,249 @@
+{
+  "id": 12025887,
+  "name": "Othello WASHINGTON and Ellen P. Washington, Appellants, v. METROPOLITAN LIFE INSURANCE COMPANY, Appellee",
+  "name_abbreviation": "Washington v. Metropolitan Life Insurance",
+  "decision_date": "1974-12-27",
+  "docket_number": "No. 8420",
+  "first_page": "525",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 A.2d 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "72 F.2d 78",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        259407
+      ],
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/72/0078-01"
+      ]
+    },
+    {
+      "cite": "63 App.D.C. 285",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "287"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "186 A.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8109347
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "228-229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/186/0227-01"
+      ]
+    },
+    {
+      "cite": "200 A.2d 196",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8087562
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/200/0196-01"
+      ]
+    },
+    {
+      "cite": "72 S.E. 701",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "weight": 2,
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Va. 816",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        9156
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/112/0816-01"
+      ]
+    },
+    {
+      "cite": "29 L.Ed.2d 145",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1641",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 978",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11771459
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0978-01"
+      ]
+    },
+    {
+      "cite": "402 F.2d 3",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2132067
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "4"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/402/0003-01"
+      ]
+    },
+    {
+      "cite": "251 F.Supp. 359",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        1557359
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "360"
+        },
+        {
+          "page": "360"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/251/0359-01"
+      ]
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 7403",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 529,
+    "char_count": 9856,
+    "ocr_confidence": 0.787,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.2964379390458671
+    },
+    "sha256": "aa88ed9b540bd9c01ec5458134e8d58248d7b31b48e4a6264e298163e8273d71",
+    "simhash": "1:e819fed4a3632cc6",
+    "word_count": 1633
+  },
+  "last_updated": "2024-02-27T22:08:57.964193+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KELLY and NEBEKER, Associate Judges, and PAIR, Associate Judge, Retired."
+    ],
+    "parties": [
+      "Othello WASHINGTON and Ellen P. Washington, Appellants, v. METROPOLITAN LIFE INSURANCE COMPANY, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PAIR, Associate Judge,\nRetired:\nThe sole issue on this appeal is whether appellants were liable for legal expenses incurred by the appellee in an action by the federal government to enforce a tax lien on appellants\u2019 real property.\nThe operative facts are not in dispute. Othello and Ellen P. Washington (appellants) were the owners of certain land in Loudoun County, Virginia, known as \u201cOld Thrift Farm\u201d. Sometime in January 1956, appellants borrowed from the Metropolitan Life Insurance Company (appellee) $24,000. The debt was evidenced by appellants\u2019 promissory note payable to appellee in installments with interest and was secured by a deed of trust on the \u201cOld Thrift Farm\u201d. Dudley Cocke was one of the two trustees named in the deed of trust and at all times here pertinent was also attorney for the appellee.\nOn March 30, 1964, the federal government, seeking to enforce a tax lien on the Old Thrift Farm, complained against appellants in a civil action commenced in the United States District Court for the Eastern District of Virginia. Pursuant to 26 U.S.C. \u00a7 7403 (1970), the appellee, because of its interest as beneficiary under the deed of trust, was joined as a party defendant. At the commencement of the trial which was concluded on March 1, 1966,\nIt was stipulated by the parties that . the land in question known as the Old Thrift Farm ... is . subject to the prior lien of the Metropolitan Life Insurance Company and to the dower interest of Ellen P. Washington, the wife of the said Othello Washington, and that the wife\u2019s dower right and the Metropolitan lien are both superior to the Government\u2019s tax lien. [United States v. Washington, 251 F.Supp. 359, 360 (E.D.Va.1966), aff\u2019d in part and rev\u2019d in part, 402 F.2d 3, 4 (4th Cir. 1968), cert. denied, 402 U.S. 978 [91 S.Ct. 1641, 29 L.Ed.2d 145] (1971).]\nIn May 1967, appellee demanded and the appellants paid $211.54 for expenses incurred by appellee in the tax lien enforcement proceedings.\nSome four years thereafter appellants arranged to discharge the balance of their indebtedness to appellee, and in the settlement proceedings, handled by the Columbia Real Estate Title Insurance Company, ap-pellee, in September 1971, submitted a payoff statement which reads in part:\nWe have this day received Mr. Dudley Cocke\u2019s bill . . . and we are, therefore, giving below the amount necessary to pay this loan in full provided payment is received on or before January 1, 1972:\nBalance of the principal $11,600.00\n* * * * * *\nAttorney\u2019s fee as per attached statement 2,396.64\nThe statement of Mr. Dudley Cocke submitted September 8, 1971, was to the effect that the attorney\u2019s fee was \u201cfor all services in connection with representation of interest of Metropolitan in the matter of United States of America v. Othello Washington, et als, pending in the United States District Court for the Eastern District of Virginia . . . from 1964 to date . . ..\u201d\nAppellants on September 17, 1971, discharged the balance of their indebtedness to appellee on the promissory note and upon the payment of $2,396.64 representing the amount demanded of them as attorney\u2019s fees for appellee\u2019s lawyer, appellants were released from their obligation under the deed of trust. Thereafter, appellants, seeking to recover the amount paid in order to obtain the release, commenced an action in the Superior Court of the District of Columbia demanding judgment against the appellee in the amount of $2,396.64, plus interest and costs.\nThere being no material issue of fact, the parties filed cross-motions for summary judgment which were resolved in favor of the appellee, and after trial without a jury on the issue of the reasonableness of the attorney\u2019s fee, the court ruled that aside from a minor duplication the fee was reasonable. This appeal followed.\nUrging reversal, appellants contend in substance that because Dudley Cocke was employed by and functioned at all times during the tax lien litigation as attorney for appellee, rather than as trustee under the deed of trust, the attorney\u2019s fee in question was not legally chargeable to the appellants. We agree and reverse.\nDudley Cocke, in his capacity as trustee under the deed of trust, was neither named nor joined as a party in the tax litigation, nor, under the circumstances, was he a necessary party. Furthermore, it is clear from the record that Mr. Cocke was retained by appellee to protect its interest as beneficiary and that he discharged no duty imposed upon him as trustee under the deed of trust. Thus, the provisions of the deed of trust and the pertinent provisions of Virginia law which permit the trustee under a deed of trust to charge certain expenses to the grantors are without application. The only other theory upon which liability could have been imposed upon appellants for legal expenses incurred by appellee in the tax lien litigation is that appellee was engaged in the enforcement of the deed of trust note.\nThe appellants, as makers of the note, agreed to pay \u201call cost of collection . , court costs and reasonable attorney\u2019s fees which may be incurred in the collection or enforcement of [the] note or any part [thereof].\u201d Appellees would distinguish \u201cenforcement\u201d from \u201ccollection\u201d (\u201ccollection\u201d was clearly not involved -in this case) and would define \u201cenforcement\u201d to include \u201ckeep[ing] the deed of trust in force as a first lien in the face of the Government\u2019s attempt to enforce a gambling tax lien on the security . . . .\u201d However, such a definition of enforcement runs counter to customary usage. Black\u2019s Law Dictionary defines \u201cenforce\u201d as \u201cto put into execution; to cause to take effect; to make effective; as, to enforce a writ, a judgment, or the collection of a debt or fine; to compel obedience to.\u201d \u201cEnforcement\u201d, then, clearly refers to the several courses of action \u2014 such as acceleration and foreclosure \u2014 open to the payee of the note to compel the maker to fulfill his obligations under the note. The course of action pursued by appellee in the tax lien suit was at best a defense of the priority of its lien, not an enforcement of the lien itself. Thus, the legal fees incurred by appellee in the tax lien suit do not represent costs of enforcement of the note but rather represent the cost of maintaining the status quo.\nWhen the federal government filed its suit to enforce the tax lien against the appellants\u2019 property, appellee had several options open to it under the note and deed of trust. It could have, for example, demanded that appellants discharge the tax lien, and upon their failure to do so, appellee could have, itself, discharged the lien and added the amount to the balance of appellants\u2019 debt. Alternatively, appellee could have, perhaps, declared appellants to be in default in the performance of a covenant or undertaking under the deed of trust and demanded payment of the balance of the principal sum preparatory to calling upon the trustees to foreclose. Either of these actions would have amounted to enforcement of the note entitling appellee or the trustees to collect from appellants reasonable attorney\u2019s fees. Appellee, however, chose to rely on the priority of its lien, which, of course, the parties by their stipulation recognized at the outset. The conclusion is therefore compelled that the attorney\u2019s fee incurred by appellee in the tax lien litigation were not chargeable to the appellants under the terms of either the note or the deed of trust which secured it.\nReversed and remanded with directions to enter judgment consistent with this opinion.\n. There is no record showing of a default in the payment of any of the prescribed installments or in the performance of a covenant in the deed of trust.\n. After tlie stipulation in 1966, it was understood by the parties that the tax lien was subordinate to appellee\u2019s lien, United States v. Washington, supra, 251 F.Supp. at 360, and on appeal the only question of substance was whether the property should be sold free of appellant Ellen Washington\u2019s dower interest, 402 F.2d 3 (4th Cir. 1968), cert. denied, 402 U.S. 978, 91 S.Ct. 1641, 29 L.Ed.2d 145 (1971).\n. The grantors and beneficiary under the deed of trust were the real parties in interest and as such were named defendants in the tax lien suit. See 26 U.S.C. \u00a7 7403 (b) (1970). A trustee under a deed of trust is, of course, the agent of both grantor and beneficiary, of debtor and creditor, and as such \u201cis bound to stand neutral and impartial between them.\u201d Stull v. Harvey, 112 Va. 816, 824, 72 S.E. 701, 704 (1911). Thus as a mere holder of legal title, the trustee was not required to be present so long as both grantor and beneficiary were sui juris and were before the court. Gf. id.\n. Va.Oode Ann. \u00a7 55-59 (1950). The note and deed of trust were executed in Virginia, the \u201cOld Thrift Farm\u201d is located in Virginia and the litigation out of which the claim for attorney\u2019s fees arose was conducted in Virginia. Thus the rights of the parties respecting the matter in controversy must be controlled by Virginia law. See Gagnon v. Wright, D.C.App., 200 A.2d 196, 198 (1964); Kirschner v. Klavik, D.C.Mun.App., 186 A.2d 227, 228-229 (1962); Richmond Fairfield Ry. Co. v. United States Housing Corp., 63 App.D.C. 285, 287, 72 F.2d 78, 80 (1934).\n. Consequently, we need not decide whether the attorney\u2019s fee here involved would be chargeable to appellants had such fee been incurred by Dudley Cocke while functioning in his capacity as trustee.\n. Appellee\u2019s Brief at 6.",
+        "type": "majority",
+        "author": "PAIR, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "Werner Strupp, Washington, D. C, for appellants.",
+      "Benjamin W. Dulany, Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Othello WASHINGTON and Ellen P. Washington, Appellants, v. METROPOLITAN LIFE INSURANCE COMPANY, Appellee.\nNo. 8420.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 29, 1974.\nDecided Dec. 27, 1974.\nWerner Strupp, Washington, D. C, for appellants.\nBenjamin W. Dulany, Washington, D. C., for appellee.\nBefore KELLY and NEBEKER, Associate Judges, and PAIR, Associate Judge, Retired."
+  },
+  "file_name": "0525-01",
+  "first_page_order": 563,
+  "last_page_order": 567
+}

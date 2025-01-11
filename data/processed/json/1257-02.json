@@ -1,0 +1,79 @@
+{
+  "id": 8003695,
+  "name": "STATE of Rhode Island DEPT. OF CORRECTIONS v. William J. MORRO et al.; William J. MORRO v. STATE of Rhode Island DEPT. OF CORRECTIONS",
+  "name_abbreviation": "State Dept. of Corrections v. Morro",
+  "decision_date": "1984-04-19",
+  "docket_number": "No. 83-488-M.P.",
+  "first_page": "1257",
+  "last_page": "1257",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "474 A.2d 1257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "472 A.2d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7990721
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/472/1211-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 878,
+    "ocr_confidence": 0.79,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2007105433560026
+    },
+    "sha256": "32c02e7949c9e0573f971ee607c2f454cfebe95598e4730c5aca8f1a0d8459e3",
+    "simhash": "1:543af5853942a47e",
+    "word_count": 139
+  },
+  "last_updated": "2024-02-27T20:56:40.260103+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Rhode Island DEPT. OF CORRECTIONS v. William J. MORRO et al. William J. MORRO v. STATE of Rhode Island DEPT. OF CORRECTIONS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the court on the petitioners\u2019 motion suggesting that the issues raised herein are governed by this court\u2019s recent opinion in In re Rhode Island Commission for Human Rights, 472 A.2d 1211 (R.I.1984.) We have examined the record, and we agree.\nAccordingly, the petition for writ of cer-tiorari is granted, the September 22, 1983 judgment of the Superior Court entered in these consolidated cases is quashed, and the papers are returned to the Superior Court for further proceedings.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Lynette J. Labinger, Cynthia M. Hiatt (RI Commission for Human Rights), Providence, for petitioner.",
+      "George M. Cappello (Dept, of Corrections), Cranston, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Rhode Island DEPT. OF CORRECTIONS v. William J. MORRO et al. William J. MORRO v. STATE of Rhode Island DEPT. OF CORRECTIONS.\nNo. 83-488-M.P.\nSupreme Court of Rhode Island.\nApril 19, 1984.\nLynette J. Labinger, Cynthia M. Hiatt (RI Commission for Human Rights), Providence, for petitioner.\nGeorge M. Cappello (Dept, of Corrections), Cranston, for respondents."
+  },
+  "file_name": "1257-02",
+  "first_page_order": 1319,
+  "last_page_order": 1319
+}

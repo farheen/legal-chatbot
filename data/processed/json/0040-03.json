@@ -1,0 +1,61 @@
+{
+  "id": 9199795,
+  "name": "In the Matter of Philip A. VALENTINO, Jr.",
+  "name_abbreviation": "In re Valentino",
+  "decision_date": "2004-07-29",
+  "docket_number": "No. 306 Disciplinary Docket No. 3",
+  "first_page": "40",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "856 A.2d 40"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 561,
+    "ocr_confidence": 0.655,
+    "sha256": "b917f7c1268469932230bce335659818a7d5803284256ad6e613e2d5e74554c0",
+    "simhash": "1:d80e86cac585ce70",
+    "word_count": 90
+  },
+  "last_updated": "2023-07-14T16:18:47.338969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Justice SAYLOR dissents."
+    ],
+    "parties": [
+      "In the Matter of Philip A. VALENTINO, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of July, 2004, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated April 27, 2004, the Petition for Reinstatement is GRANTED.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.\nMr. Justice SAYLOR dissents.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Philip A. VALENTINO, Jr.\nNo. 306 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJuly 29, 2004."
+  },
+  "file_name": "0040-03",
+  "first_page_order": 74,
+  "last_page_order": 75
+}

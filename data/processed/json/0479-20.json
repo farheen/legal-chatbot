@@ -1,0 +1,58 @@
+{
+  "id": 12485636,
+  "name": "Commonwealth v. Eugene James McCarthy, Jr.",
+  "name_abbreviation": "Commonwealth v. McCarthy",
+  "decision_date": "2016-06-13",
+  "docket_number": "NO. 67 WAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 157,
+    "sha256": "2752847da08d1c8dcf752bcfa6fdce8509afd9867ce43aaa7500017bd15ba113",
+    "simhash": "1:dc9e42f6983415f1",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nEugene James McCarthy, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nEugene James McCarthy, Jr.\nNO. 67 WAL 2016\nSupreme Court of Pennsylvania\nJune 13, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-20",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

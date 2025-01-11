@@ -1,0 +1,58 @@
+{
+  "id": 12486416,
+  "name": "Com. v. L. Oaks",
+  "name_abbreviation": "Com. v. Oaks",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 2198 EDA 2014",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 147,
+    "sha256": "23195ebdf89aeb678765d33ed46b6d9e9d509f48c6521ac1f2924fc7b47b9a98",
+    "simhash": "1:4d48162784fa6c01",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Oaks"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Oaks\nNO. 2198 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed.\n5 Petition for reargument denied May 5, 2016.\n--------"
+  },
+  "file_name": "0187-05",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

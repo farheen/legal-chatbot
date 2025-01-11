@@ -1,0 +1,134 @@
+{
+  "id": 6092606,
+  "name": "In re Fritz L. Mergner",
+  "name_abbreviation": "In re Mergner",
+  "decision_date": "1968-07-03",
+  "docket_number": "No. 7971",
+  "first_page": "1415",
+  "last_page": "1421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1415"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 U.S.P.Q. 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "399 F.2d 231",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2140850
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/399/0231-01"
+      ]
+    },
+    {
+      "cite": "370 F. 2d 927",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2050010,
+        6086091
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/370/0927-01",
+        "/ccpa/54-2/0957-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 957",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086091
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/0957-01"
+      ]
+    },
+    {
+      "cite": "148 USPQ 459",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166987
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 606,
+    "char_count": 14363,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 4.947487136851577e-08,
+      "percentile": 0.31003409851307934
+    },
+    "sha256": "4808accd3fbe116c33afae5671f04b2266d7b9577b8b924879e585ac1dcfaf48",
+    "simhash": "1:2ff8f1b315879213",
+    "word_count": 2383
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick."
+    ],
+    "parties": [
+      "In re Fritz L. Mergner"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nWhen tested according to the statutory requirements of 35 USC 103, appellant\u2019s claimed subject matter here appealed would not, in our opinion, have been obvious at the time the invention was made. Thus, the decision of the Patent Office Board of Appeals is reversed.\nThe invention relates to recording systems for recording and reproducing electrical signals. An object of the invention is to reduce materially the number of amplifying circuits, filter and network components used in a magnetic recording and reproducing system.\nIn accordance with the invention, a magnetic tape recording system is provided with an internal switching and control circuit which permits amplifiers, networks, filters and control circuits, located ahead of the recording head to be used also in the playback mode by switching into the circuit a feedback circuit located between the playback head and a signal source selector for the recorder. Fig. 1 is reproduced below:\nThat figure depicts a recorder system 1 having its internal switches set for the recording mode with the source selector switch 10 in the \u201ctuner\u201d position. In a recorder a tap 19 moves between recording-head 3 and tape playback head 4. Each head has its own amplifier, shown at 16 and 17. The selected source signal 5 from a tuner is amplified by audio amplifier 6 and passed to recorder 2 either along pathA-4 when filters 7 and 8 are bypassed, or, alternatively, along path B-B via high-pass filter 7 and low-pass filter 8. With the setting shown in Fig. 1, switches 9 and 9' are set to bypass the filters. The signal from a tuner 5 by switch 10 may thus be recorded on the tape 19.\nThe recorder signals may be nearly immediately monitored by the tape playback head 4 and amplifier 17, through monitor jack 22 and tape monitor switch 15 to be reproduced from loudspeaker 20, characterized in the claims as a transducer. A tone control circuit 11, volume control circuit 12 and power amplifier 13 are disposed intermediate the loudspeaker 20 and tap monitor 15.\nWhen in the playback mode, switch 10 is connected to the \u201ctape play\u201d terminal inserting the feedback loop 21 and filter 28 into the circuit. The tape monitor scwitch 15 is switched to its \u201coff\u201d position so that the signals intercepted on tape 9 by the tape playback head are passed via amplifier IT, monitor jack 22, feedback loop 21, filter 23, either circuit A-A or circuit B-B, as desired, including audio amplifier 6 and the output circuit, i.e., tone control circuit 11, volume control circuit 12, power amplifier 13, for reproduction by loudspeaker 20. Thus, during recording, amplifiers 6 and 16 are used; during monitoring, amplifiers IT and 13 are used; and for playback, amplifiers IT, 6 and 13 are used.\nClaims 12 and 18 are representative of the appealed claims:\n12. The combination with a tape recorder including a recording head, a playback head, means for moving a tape past the heads, each of the heads having its own amplifier, means for supplying a signal to the recording head, and a transducer; of a secondary circuit including filter and amplifying means, means associated with the secondary circuit for determining the effectiveness of the filter means, a feedback circuit, means operative when the tape recorder is set for recording to connect the signal supplying means to feed its signal through the secondary circuit and the recording head amplifier to the recording head while making the feedback circuit ineffective, means for passing a signal derived by means of the playback head from the moving tape through the playback head amplifier to the transducer, and means operative when the tape recorder is set for playback to feed the derived signal through the playback amplifier, the feedback circuit and the secondary circuit to the transducer. (Emphasis added.)\n18. The combination with a tape recorder including a recording head, a playback head, means for moving a tape past the heads, means for supplying a signal for the recording head, and a transducer; of a secondary circuit including amplitude and frequency control means and amplifying means, means associated with the secondary circuit for determining the effectiveness of the secondary circuit, a feedback circuit, means operative when the tape recorder is set for recording to connect the signal supplying means to feed its signal through the secondary circuit and the recording head while making the feedback circuit ineffective, and means operative when the tape recorder is set for playback for feeding the signal obtained from a tape moving past the playback head through the feedback circuit and the secondary circuit to the transducer. (Emphasis added.)\nClaim 11 is comparable in scope to claim 12, while claim 19 most nearly resembles claim 18 in scope.\nThe appealed claims were rejected under 35 TJSC 103 as \u201cunpat-entable over\u201d a reference patent to Bobb. The Bobb patent also relates to magnetic recording and reproducing circuits. Fig. 1 of the reference depicts a block diagram of that invention:\nThe examiner\u2019s description of the Bobb reference is generally adequate for our purposes; thus we quote it at some length:\nFigure 1 of Bobb shows a block diagram of the magnetic recording and reproducing apparatus. A selector switch A is provided to alternatively connect one of the three external signal sources (in the recording mode) or the magnetic head (in the playback mode) to the preamplifier and frequency compensation section of circuit B.\n*******\nIn the recording mode, the signal is passed from circuit B to network E, which may have the characteristics of passing the audio frequencies and blocking other frequencies. The signal is then passed through a phase inverter E, amplifier tubes VI, V2, network L (which has a rising transmission characteristic with frequency), a bleeder network M, switch M (sic), switch N, and then to magnetic head O which records the signal on a magnetic tape (not shown).\n*******\n* \u215c * To change to the playback mode, switch A is switched to connect \u25a0conductor P to preamplifier B and switch N is changed so that the magnetic head O is connected to conductor P and acts as a playback head.\nIn the playback mode, the recorded signal is sensed by the magnetic head O. The signal is fed to preamplifier B via switch N, conductor P, and switch A. From preamplifier B the signal is fed to network E, phase inverter F, amplifier tubes VI, V2, loudspeaker coupling H, network I, speaker control K, and speaker J.\nIt was the examiner\u2019s position that it would be obvious to one of ordinary skill in the art to feed the transducer, i.e., the speaker J, during recording through the recording head, tape, and playback head as appellant does instead of directly, as taught by Bobb. He also argued that the use of separate heads for recording and playback, with attendant amplifiers for each, is old in the art. The board agreed, \u201capplying the Bobb reference\u201d to claim 12 as follows:\n\u215c * \u215c Bobb shows a tape recorder with bead O serving for recording and playback. Amplifiers 3 [sic B?], VI, Y2 serve the single head. We agree with the Examiner that provision of separate heads with attendant amplifiers therefor is within the skill of the art. Further, the reference shows means A, C, D for supplying a signal, transducer J, secondary circuit with filter and amplifying means B and E \u215c * * means \u215c * * for determining the effectiveness of the filter means, feedback circuit P, means A, Ni, N2, Ns to feed signals during recording through the secondary circuit to the recording head while making the feedback circuit ineffective, means N3, P, A, passing the signal from the tape to the transducer J, and means Na, P, A operative when the tape recorder is set for playback to feed the derived signal through the feedback circuit P and secondary circuit B, E, F, Vi, Va, to the transducer J. In view of the circuitry shown in Bobb, we will sustain the rejection of claims 11, 12, 17, 18 and 19.\nMindful of the admonition of the Supreme Court to avoid an evaluation of the obviousness or nonobviousness of an invention by using hindsight, Graham v. John Deere Co., 383 U.S. 1, 148 USPQ 459, (1966), we turn to the differences between appellant\u2019s claimed subject matter and the Bobb patent.\nWe observe that each of the appealed claims recites a combination of a tape recorder having at least two heads, i.e., a recording head and a playback head with means for moving the tape past the heads. Each of claims 12 and 13 further requires that each of the heads have its own amplifier. Clearly, the Bobb reference is deficient in disclosing that claimed combination.\nThe solicitor recognizes that Bobb did not consider the possible use of separate recording and playback heads, but relies upon a statement of the appellant during prosecution to the effect that tape recorders having separate recording and playback heads are conventional in the art. He argues that appellant has compromised here two concepts, retaining separate playback and recording heads, while using the same \u201cfilter-amplifier\u201d circuit in the playback mode. He rhetorically questions whether that possibility would have been obvious to one of ordinary skill in the art, arguing, of course, in the affirmative.\nHowever, merely to state that such tape recorders are known to the art does not make that claimed combination obvious to one of ordinary skill in the art under the requirements of 35 USC 103. Under that statutory test, we must evaluate the claimed invention as a whole. Doing so, we find the differences between the claimed subject matter and the prior art of record as evidenced by the Bobb patent and appellant\u2019s statements, are such that that claimed subject matter cannot be said to be obvious.\nIn addition to the specific requirements of the claims relating to the tape recorder, each of the appealed claims sets forth means clauses in the claims to denote the activity of the combination during either the playback or recording mode. Claim 11, for example, requires \u201cmeans operative when the tape recorder is set for recording to connect the signal supplying means to feed its signal through the filter-amplifying circuit and the recording head amplifier to the recording head while making the feedback circuit ineffective.\u201d That claim also requires \u201cmeans for passing a signal derived by means of the 'playback head from the moving tape through the playback head amplifier to the transducer,\u201d and \u201cmeans operative when the tape recorder is set for playback to feed the derived signal through the playback amplifier, the feedback circuit and the filter-amplifying circuit to the transducer.\u201d In the absence- of a teaching of how the Bobb circuit, to the extent it resembles, or \u201creads on\u201d the claimed circuit, may be modified to meet the express terms of the claimed combination, or a legitimate reason from the record, other than appellant\u2019s teachings, to do so, the rejection may not be sustained.\nSimilar limitations are found in the remaining claims, claims 12' and 18 being reproduced above with the corresponding limitations emphasized. For the same reasons, the rejection may not stand on this art of record, even when taken with appellant\u2019s statements.\nA word of explanation is in order relative to the use of certain of appellant\u2019s statements during prosecution. The board referred to the fact that appellant had agreed that tape recorders having separate recording and playback heads with respective preamplifiers are \u201cold\u201d or \u201cwell known\u201d in the art. Appellant\u2019s brief before the Board of Appeals, where similar statements appear, was not part of the printed record before the-court. Upon inquiry from the court during oral argument, the solicitor moved to correct diminution of the record by the addition of that paper. A subsequent paper filed by the solicitor limited the request to certain portions of the brief-Appellant opposeed. We think the requested portions of that paper bear upon the state of the prior art, at least to the extent of what appellant admits is \u201cconventional.\u201d\nWe thus grant the motion of the solicitor and make it clear that the specified portions of appellant\u2019s brief have been considered in reaching our decision.\nFor the foregoing reasons, the decision of the board is reversed.\nClaims 11, 12, 18 and 19 in appellant\u2019s application Serial No. 170,341, filed February 1, 1962 for \u201cRecording Systems\u201d form tbe basis of this appeal. Appellant has withdrawn tbe appeal as to claim 17. Tbe board reversed tbe examiner\u2019s rejection of claims 13-16 and 20.\nTbe board consisted of Messrs. Freedman, Examiner-in-Cbief, and Andrews and Burns, Acting Examiners-in-Cbief. For my views of tbe legality under 35 USC 7 of a board so constituted, see my dissenting opinion in In re Wiechert, 54 CCPA 957, 370 F. 2d 927, 152 USPQ 247 (1967).\nAppellant\u2019s specification explains that magnetic recorder 2 comprises a recording head S, and a tape playback head 4, with a magnetic tape 19 moving therebetween and audio amplifiers 16 and 17. The specification lists various models of magnetic recorders which \u201care suitable in this connection,\u201d and states that the \u201carrangement in accordance with the invention may be utilized with any tape recorder which has a high level audio output.\u201d The specification restricts that broader statement with the caveat that the invention is applicable to \u201crecorders wih two or three magnetic heads and the like.\u201d\nU. S. Patent No. 2,641,655, issued June 9, 1953 ior \u201cMagnetic Recording and Reproducing Circuits.\u201d\nThe brief for the solicitor contains reference to a portion of the Encyclopedia Americana and contains an as appendix, a portion of a book relating to magnetic tape recording. However pertinent these additional materials may be, they were not considered below by either party. They are not a part of the record to which we are confined, 35-USC 144. We shall not consider them here.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Henry L. BurMtt for appellant.",
+      "Joseph Behimmel (Jere W. Bears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "399 F.2d 231; 158 USPQ 324\nIn re Fritz L. Mergner\n(No. 7971)\nUnited States Court of Customs and Patent Appeals,\nJuly 3, 1968\nHenry L. BurMtt for appellant.\nJoseph Behimmel (Jere W. Bears, of counsel) for the Commissioner of Patents.\n[Oral argument May 6, 1968 by Mr. BurMtt and Mr. Sears]\nBefore Worley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1415-01",
+  "first_page_order": 755,
+  "last_page_order": 761
+}

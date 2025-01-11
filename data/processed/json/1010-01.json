@@ -1,0 +1,122 @@
+{
+  "id": 8461131,
+  "name": "Brenda BISSON v. HANNAFORD BROTHERS COMPANY, INC.",
+  "name_abbreviation": "Bisson v. Hannaford Bros.",
+  "decision_date": "2006-11-16",
+  "docket_number": "",
+  "first_page": "1010",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "909 A.2d 1010"
+    },
+    {
+      "type": "parallel",
+      "cite": "2006 ME 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "2004 ME 20",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9277260
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "46-47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/843/0043-01"
+      ]
+    },
+    {
+      "cite": "902 A.2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "882"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2006 ME 94",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8416189
+      ],
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0830-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 215,
+    "char_count": 2324,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 5.061447019797991e-08,
+      "percentile": 0.31919177527338466
+    },
+    "sha256": "44ea67791807da04fdc87cde3a11e70f03137cf1d7a9ea7ade509fd980e5e5ab",
+    "simhash": "1:2b851f1b288b06c9",
+    "word_count": 373
+  },
+  "last_updated": "2024-02-27T21:29:40.359248+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, and SILVER, JJ."
+    ],
+    "parties": [
+      "Brenda BISSON v. HANNAFORD BROTHERS COMPANY, INC."
+    ],
+    "opinions": [
+      {
+        "text": "CLIFFORD, J.\n[\u00b6 1] Brenda Bisson appeals from a judgment entered in the Superior Court (Sagadahoc County, Mills, J.) dismissing, pursuant to M.R. Civ. P. 12(b)(6), her complaint for negligence against Hannaford Brothers Company, Inc. for supplying her with the wrong medication. Bisson contends that the court erred in dismissing the complaint for failure to comply with applicable provisions, including the statute of limitations, of the Maine Health Security Act (MHSA), 24 M.R.S. \u00a7\u00a7 2501-2987 (2005). She argues that pharmacists do not qualify as \u201chealth care practitioners]\u201d pursuant to 24 M.R.S. \u00a7 2502(1-A), and therefore the procedural provisions of the MHSA and its three-year statute of limitations, see 24 M.R.S. \u00a7 2902, are not applicable in her case.\n[\u00b62] In reviewing a judgment dismissing a complaint pursuant to M.R. Civ. P. 12(b)(6), the facts alleged in the complaint are considered as if admitted by the defendant. Saunders v. Tisher, 2006 ME 94, \u00b6 8, 902 A.2d 880, 882. The complaint is examined \u201cin the light most favorable to the plaintiff to determine whether it sets forth elements of a cause of action or alleges facts that would entitle the plaintiff to relief pursuant to some legal theory.\u201d Moody v. State Liquor & Lottery Comm\u2019n, 2004 ME 20, \u00b6 7, 843 A.2d 43, 46-47 (quotation marks omitted). Dismissal is warranted only \u201cwhen it appears beyond doubt that [the] plaintiff is entitled to no relief under any set of facts that [she] might prove in support of [her] claim.\u201d Id (quotation marks omitted). Based on the limited record before us \u2014 namely, a record that consists merely of the complaint alleging that Hannaford negligently supplied Bisson with the wrong medication \u2014 we cannot say \u201cbeyond doubt\u201d that Bisson cannot recover based on some legal theory.\nThe entry is:\nJudgment vacated. Remanded to the Superior Court for proceedings consistent with this opinion.",
+        "type": "majority",
+        "author": "CLIFFORD, J."
+      }
+    ],
+    "attorneys": [
+      "David J. Van Baars, Esq. (orally), Shankman & Assoc., Brunswick, for plaintiff.",
+      "Wendell G. Large, Esq., Carol I. Eisen-berg, Esq. (orally), Richardson, Whitman, Large & Badger, P.C., Portland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "2006 ME 131\nBrenda BISSON v. HANNAFORD BROTHERS COMPANY, INC.\nSupreme Judicial Court of Maine.\nArgued: May 10, 2006.\nDecided: Nov. 16, 2006.\nDavid J. Van Baars, Esq. (orally), Shankman & Assoc., Brunswick, for plaintiff.\nWendell G. Large, Esq., Carol I. Eisen-berg, Esq. (orally), Richardson, Whitman, Large & Badger, P.C., Portland, for defendant.\nPanel: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, and SILVER, JJ."
+  },
+  "file_name": "1010-01",
+  "first_page_order": 1066,
+  "last_page_order": 1067
+}

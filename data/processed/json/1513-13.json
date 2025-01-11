@@ -1,0 +1,59 @@
+{
+  "id": 6092815,
+  "name": "In re Donald S. Shriver et al.",
+  "name_abbreviation": "In re Shriver",
+  "decision_date": "1967-10-30",
+  "docket_number": "No. 8078",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 123,
+    "ocr_confidence": 0.514,
+    "sha256": "3a794121c7833152b9b59a28c17f63f9f8c489e43491218d65977154b7a4d4c4",
+    "simhash": "1:77671b3e8f1a3a02",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Donald S. Shriver et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Process for producing melamine-urea-formaldehyde concentrates.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 30, 1967\nNo. 8078.\nIn re Donald S. Shriver et al."
+  },
+  "file_name": "1513-13",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

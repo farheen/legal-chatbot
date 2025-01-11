@@ -1,0 +1,58 @@
+{
+  "id": 12489787,
+  "name": "IN RE NICHOLS",
+  "name_abbreviation": "In re Nichols",
+  "decision_date": "2017-05-30",
+  "docket_number": "16\u2013320",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 A.3d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "4324595a28110e85ee519aed0e9a24e1b386379d63ff36ab00555b0afb37a160",
+    "simhash": "1:58372e00910cf050",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017834+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE NICHOLS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE NICHOLS\n16-320\nSupreme Court of Vermont.\nMay 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0535-02",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

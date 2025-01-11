@@ -1,0 +1,59 @@
+{
+  "id": 6081310,
+  "name": "In re Nancy Ann Dressed Dolls, etc.",
+  "name_abbreviation": "In re Nancy Ann Dressed Dolls",
+  "decision_date": "1951-11-06",
+  "docket_number": "No. 5811",
+  "first_page": "1069",
+  "last_page": "1069",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 C.C.P.A. 1069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 87,
+    "ocr_confidence": 0.531,
+    "sha256": "0cb980d9b50fb54a17e897970a9a791991d0eba29375ac16b0203abccc70d95c",
+    "simhash": "1:c6172084c0040009",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T17:22:55.380782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Nancy Ann Dressed Dolls, etc."
+    ],
+    "opinions": [
+      {
+        "text": "Trade-mark for dolls and doll clothes.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Nancy Ann Dressed Dolls, etc.\n(No. 5811)."
+  },
+  "file_name": "1069-05",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

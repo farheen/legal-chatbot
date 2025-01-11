@@ -1,0 +1,58 @@
+{
+  "id": 12485991,
+  "name": "Com. v. J. Nicholson",
+  "name_abbreviation": "Com. v. Nicholson",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 855 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 112,
+    "sha256": "a6a1cb91ada0da9ad5e3d2646e9a0f7ff8196b9bc77e40fb3bb3571e23047bc8",
+    "simhash": "1:b54ce293a9b11df5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Nicholson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Nicholson\nNO. 855 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0597-06",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

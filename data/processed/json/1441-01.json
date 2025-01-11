@@ -1,0 +1,921 @@
+{
+  "id": 6092640,
+  "name": "In re Zoltan Tarczy-Hornoch",
+  "name_abbreviation": "In re Tarczy-Hornoch",
+  "decision_date": "1968-06-27",
+  "docket_number": "No. 7910",
+  "first_page": "1441",
+  "last_page": "1459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1441"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 U.S.P.Q. 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "397 F.2d 856",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2146011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/397/0856-01"
+      ]
+    },
+    {
+      "cite": "5 Stat. 117",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Stat. 201",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "309 U. S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137841
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/309/0106-01"
+      ]
+    },
+    {
+      "cite": "61 USPQ 100",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 USPQ 222",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 USPQ 107",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 USPQ 191",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1929,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 USPQ 105",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1931,
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 USPQ 565",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 USPQ 255",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 F. Supp. 310",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        313627
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/108/0310-01"
+      ]
+    },
+    {
+      "cite": "12 F. 2d 517",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1644689
+      ],
+      "year": 1926,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/12/0517-01"
+      ]
+    },
+    {
+      "cite": "113 USPQ 174",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "151 F. Supp. 167",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4279958
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/151/0167-01"
+      ]
+    },
+    {
+      "cite": "65 F. 2d 735",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        899627
+      ],
+      "year": 1933,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/65/0735-01"
+      ]
+    },
+    {
+      "cite": "83 F. 2d 116",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        931706
+      ],
+      "year": 1936,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/83/0116-01"
+      ]
+    },
+    {
+      "cite": "140 USPQ 27",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "270 F. 2d 810",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1967828,
+        6080735
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/270/0810-01",
+        "/ccpa/46-2/0976-01"
+      ]
+    },
+    {
+      "cite": "46 CCPA 976",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080735
+      ],
+      "weight": 2,
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0976-01"
+      ]
+    },
+    {
+      "cite": "241 F. 2d 755",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        417539,
+        6078662
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/241/0755-01",
+        "/ccpa/44-2/0820-01"
+      ]
+    },
+    {
+      "cite": "44 CCPA 820",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078662
+      ],
+      "weight": 2,
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/44-2/0820-01"
+      ]
+    },
+    {
+      "cite": "125 USPQ 419",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 USPQ 74",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 USPQ 112",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "concurring opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 USPQ, 193",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "concurring opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 USPQ 337",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 USPQ 196",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 USPQ 403",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 F. 2d 502",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080157,
+        53343
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/1022-01",
+        "/f2d/223/0502-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 1022",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080157
+      ],
+      "weight": 2,
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/1022-01"
+      ]
+    },
+    {
+      "cite": "211 F. 2d 604",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        550427,
+        6078807
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/211/0604-01",
+        "/ccpa/41-2/0844-01"
+      ]
+    },
+    {
+      "cite": "41 CCPA 844",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078807
+      ],
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/41-2/0844-01"
+      ]
+    },
+    {
+      "cite": "173 F. 2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1178896,
+        6079264
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/173/0273-01",
+        "/ccpa/36-2/0902-01"
+      ]
+    },
+    {
+      "cite": "36 CCPA 902",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079264
+      ],
+      "weight": 2,
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/36-2/0902-01"
+      ]
+    },
+    {
+      "cite": "171 F. 2d 300",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1186016,
+        6077800
+      ],
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/171/0300-01",
+        "/ccpa/36-2/0759-01"
+      ]
+    },
+    {
+      "cite": "36 CCPA 759",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077800
+      ],
+      "weight": 2,
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/36-2/0759-01"
+      ]
+    },
+    {
+      "cite": "155 F. 2d 404",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1139272,
+        6080955
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/155/0404-01",
+        "/ccpa/33-2/1054-01"
+      ]
+    },
+    {
+      "cite": "33 CCPA 1054",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080955
+      ],
+      "weight": 2,
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/33-2/1054-01"
+      ]
+    },
+    {
+      "cite": "53 USPQ 380",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 F. 2d 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080216,
+        1077557
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/1001-01",
+        "/f2d/127/0302-01"
+      ]
+    },
+    {
+      "cite": "29 CCPA 1001",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080216
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/1001-01"
+      ]
+    },
+    {
+      "cite": "36 USPQ 542",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 F. 2d 993",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1006533,
+        6080175
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/94/0993-01",
+        "/ccpa/25-2/0936-01"
+      ]
+    },
+    {
+      "cite": "25 CCPA 936",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080175
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/25-2/0936-01"
+      ]
+    },
+    {
+      "cite": "25 USPQ 136",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1935,
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 F. 2d 400",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081828,
+        958031
+      ],
+      "year": 1935,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1140-01",
+        "/f2d/76/0400-01"
+      ]
+    },
+    {
+      "cite": "22 CCPA 1140",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081828
+      ],
+      "year": 1935,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1140-01"
+      ]
+    },
+    {
+      "cite": "22 USPQ 28",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 F. 2d 169",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082719,
+        263647
+      ],
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/21-2/1235-01",
+        "/f2d/71/0169-01"
+      ]
+    },
+    {
+      "cite": "21 CCPA 1235",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082719
+      ],
+      "weight": 2,
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/21-2/1235-01"
+      ]
+    },
+    {
+      "cite": "24 USPQ 34",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "294 U. S. 20",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3924800
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/294/0020-01"
+      ]
+    },
+    {
+      "cite": "214 U. S. 366",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3650415
+      ],
+      "weight": 2,
+      "year": 1908,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/214/0366-01"
+      ]
+    },
+    {
+      "cite": "184 U. S. 598",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3625915
+      ],
+      "year": 1902,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/184/0598-01"
+      ]
+    },
+    {
+      "cite": "17 App. D. C. 431",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "weight": 2,
+      "year": 1901,
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Harv. L. Rev. 30",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1905,
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 U.S. 413",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3521697
+      ],
+      "year": 1887,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/122/0413-01"
+      ]
+    },
+    {
+      "cite": "126 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3529883
+      ],
+      "year": 1887,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/126/0001-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 780",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645478
+      ],
+      "weight": 3,
+      "year": 1876,
+      "pin_cites": [
+        {
+          "page": "787-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0780-01"
+      ]
+    },
+    {
+      "cite": "102 U. S. 707",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5629004
+      ],
+      "weight": 2,
+      "year": 1880,
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/102/0707-01"
+      ]
+    },
+    {
+      "cite": "158 U.S. 68",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1220447
+      ],
+      "weight": 3,
+      "year": 1894,
+      "pin_cites": [
+        {
+          "page": "75"
+        },
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0068-01"
+      ]
+    },
+    {
+      "cite": "1 Story 218",
+      "category": "reporters:federal",
+      "reporter": "Story",
+      "case_ids": [
+        6120920
+      ],
+      "weight": 2,
+      "year": 1840,
+      "pin_cites": [
+        {
+          "page": "285-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/2/0486-01"
+      ]
+    },
+    {
+      "cite": "27 USPQ 340",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1935,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 F. 2d 908",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077558,
+        945326
+      ],
+      "year": 1935,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/23-2/0721-01",
+        "/f2d/79/0908-01"
+      ]
+    },
+    {
+      "cite": "23 CCPA 721",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077558
+      ],
+      "year": 1935,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/23-2/0721-01"
+      ]
+    },
+    {
+      "cite": "144 USPQ 299",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "51 CCPA 1230",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092307
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/51-2/1230-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166987
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/383/0001-01"
+      ]
+    },
+    {
+      "cite": "211 F. 2d 604",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        550427,
+        6078807
+      ],
+      "year": 1954,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/211/0604-01",
+        "/ccpa/41-2/0844-01"
+      ]
+    },
+    {
+      "cite": "41 CCPA 844",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078807
+      ],
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/41-2/0844-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1969,
+    "char_count": 55773,
+    "ocr_confidence": 0.434,
+    "pagerank": {
+      "raw": 4.799658062044916e-07,
+      "percentile": 0.9312703173042135
+    },
+    "sha256": "a8ef28e7c3fb2af8cf377109369dff15969b4fd43e0c76b814daa1b65bac5c29",
+    "simhash": "1:bce75597bf97f750",
+    "word_count": 9406
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Woeley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick."
+    ],
+    "parties": [
+      "In re Zoltan Tarczy-Hornoch"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Judge,\ndelivered the opinion of the court:\nThis appeal is from a decision of the Patent Office Board of Appeals affirming the examiner\u2019s rejection of claims 31-35 and 40 in appellant\u2019s application serial No. 23,739, filed April 21, 1960, entitled \u201cPulse Sorting Apparatus and Method.\u201d Claims 16-28, 29, 30, and 36-39 have been allowed.\nThe invention of the claims on appeal is a method for sorting or counting electrical pulses, effective in counting of such pulses of varying amplitudes even at extremely high repetition rates, i.e., at rates greater than 50,000,000 (50 megacycles) per second. Appellant\u2019s method envisions the use of a multistage apparatus. The first stage counts every pulse within its capacity. Cancelling orders in the form of \u201cinhibit\u201d pulses are then sent to each of the succeeding stages to prevent another counting of those same pulses. Should the initial stage be unable to handle a pulse, no cancellation order is given the second stage. Then pulse, then, is counted by the second stage. Thereupon, cancellation orders are sent to succeeding stages.\nClaim 31 is illustrative:\n31. In a method for sorting a plurality of input pulses by utilizing a plurality of serially connected stages adapted to accept pulses, causing each input pulse to be applied to each stage sequentially in time, generating an inhibit pulse in each stage which accepts an input pulse and applying the inhibit pulse to each succeeding stage in substantial coincidence with the input pulse so that the input pulse is canceled to thereby prevent registration of the same input pulse in a succeeding stage.\nThe examiner allowed appellant\u2019s apparatus claims. However, he rejected all the method claims on the ground that they merely defined the function of appellant\u2019s apparatus. In appeal to the board, appellant argued mainly against the propriety of the \u201cfunction of the apparatus\u201d rejection. However, this point, in the board\u2019s opinion, was foreclosed: \u201c[T]he previous decisions by the Court of Customs and Patent Appeals are binding on us until overruled.\u201d The board did reverse the rejection of two of the method claims on a showing that the defined methods were capable of performance by apparatus other than that disclosed. The rejection of the other claims was affirmed.\nThe issue, therefore, is whether a process claim, otherwise patentable, should be rejected because the application, of which it is a part, discloses apparatus which will inherently carry out the recited steps. There is no contention that the claims on appeal can be saved by the \u201cexceptions\u201d to the doctrine, exempting claims for those processes capable of performance either manually or by another, dissimilar apparatus. See In re Parker, 23 CCPA 721, 79 F. 2d 908, 27 USPQ 340 (1935).\nWe have determined that our decisions requiring the rejection of such claims are justified neither by history nor policy. Today we overrule those decisions.\nThe expression \u201cfunction of an apparatus\u201d is our legacy of 19th century controversy over the patentability of processes. Early cases proscribed a kind of overweening claim in which the desirable result first effected by an invention was itself appropriated by the inventor. Two notorious examples will suffice.\nWyeth had obtained a patent for a machine for cutting ice into blocks of uniform size. His specification read: \u201cIt is claimed as new, to cut ice of a uniform size, by means of an apparatus worked by any other power than human. The invention of this art, as well as the particular method of the application of the principle, are claimed by * * * [Wyeth].\u201d In an infringement suit, in 1840, Justice Story, sitting on circuit, held the claimed matter \u201cunmaintainable\u201d in point of law and a patent, granted for such, void as for an abstract principle and broader than the invention. \u201cA claim broader than the actual invention of the patentee is, for that veiy reason, upon the principles of the common law, utterly void, and the patent is a nullity.\u201d Wyeth v. Stone, 1 Story 218, 285-86 (C.C. Mass. 1840).\nThe first comprehensive review of process patents by the Supreme Court was occasioned some thirteen years later by Morse\u2019s attempt to enforce his telegraph patent. Chief Justice Taney wrote the opinion for the Court, which held several apparatus claims valid and infringed. O'Reilly v. Morse, 56 U.S. (15 How.) 62 (1853). The only process claim in the Morse patent was the subject of separate discussion. The claim read:\nEighth. I do not propose to limit myself to the specific machinery or parts of machinery described in the foregoing specification and claims; the essence of my invention being the use of the motive power of the electric or galvanic current, which I call electro-magnetism, however developed for marking or printing intelligible characters, signs, or letters, at any distances, being a new application of that power of which I claim to be the first inventor or discoverer.\nThe Chief Justice commented:\nIf this claim can be maintained, it matters not by what process or machinery the result is accomplished. Eor aught that we now know some future inventor, in the onward march of science, may discover a mode of writing or printing at a distance by means of the electric or galvanic current, without using any part of the process or combination set forth in the plaintiff's specification. His invention may be less complicated \u2014 less liable to get out of order\u2014 less expensive in construction, and in its operation. But yet if it is covered by this patent the inventor could not use it, nor the public have the benefit of it without the permission of this patentee.\n* ******\nNo one we suppose will maintain that Button could have taken out a patent for his invention of propelling vessels by steam, describing the process and .machinery he used, and claimed under it the exclusive right to use the .motive power of steam, however developed, for the purpose of propelling vessels. []\nTlie claim was, of course, held invalid because it did not correspond, in scope to Morse\u2019s invention. \u201c[Professor Morse] \u215c \u2022* \u25a0* lias not discovered that the electro-magnetic current, used as motive power, .in, any other method, and with any other combination, will do as well.\u201d The Chief Justice also summarized the law; in this area:\n-Whoever discovers that a certain useful' result will be produced, in any art, machine, manufacture, or composition of matter, by the use of certain means, is entitled to a patent for it; provided he specifies the means he uses in a manner so full and exact, that any one skilled in the science to.which it appertains, can, by using the means he specifies, without any addition to, \u2019or subtraction from- them, produce precisely the result he \u2022 describes. And if this cannot be done by the' means he describes, the patent is void. And if it can be done, then the patent confers on him the exclusive right to use the means he. specifies to produce the result or effect he describes, and nothing more. And it makes no difference, in this'respect, whether the effect is produced by chemical agency or combination; or by the application' of discoveries or principles in natural philosophy known or unknown before his invention;- or by machinery acting altogether upon mechanical principles. In either case he must describe the manner and process as above mentioned, and the end it accomplishes. And any one may lawfully accomplish the same end without infringing the patent, if he uses means substantially different from those described.\nTlie latter exposition apparently cast some donbt on tlie validity of claims for processes generally, whether mechanical or not. See Risdon Locomotive Works v. Medart, 158 U.S. 68, 75 (1894); Tilghman v. Proctor, 102 U. S. 707, 726 (1880); O'Reilly v. Morse, 56 U. S. (15 How.) 62 (1853) (Grier, J., dissenting). It shortly became clear, however, that the patentability of chemical processes at least had been unaffected. In Corning v. Burden, 56 U. S. (15 How.) 252 (1853), a case decided after Morse but during the same term, the issue was whether Burden\u2019s ambiguous claim was properly interpreted as for a process. The patent was ostensibly directed toward a machine for rolling puddle balls in the manufacture of iron. But the lower court had instructed the jury that the patent was for a new method of converting puddle balls to blooms \u201cby continuous pressure and rotation * * * between converging surfaces.\u201d The Supreme Court held the claim limited to the machine, since, in the Court\u2019s mind, a contrary decision would call into question the validity of the claim. In an influential aside on the way to this conclusion, Justice Grier, for a unanimous Court, discussed the patentability of processes:\nA process eo nomine, is not made tlie subject of a patent in our act of Con.gress. It is included under tbe general term \u201cuseful art.\u201d Any art rday require one or more, processes or machines in order to produce a certain result' or manufacture. Tbe term machine includes every mechanical device or combination of mechanical powers and devices to perform some function and produce a certain effect or result. But where the result or effect is produced by chemical action, by the operation or application of some element of power of nature, or' of one substane to another, such modes, methods, or operations, are called processes. A new process is usually the result of a discovery; a machine,'of invention. The arts of tanning, dyeing, making water-proof cloth, vulcanizing, India- rubber, smelting ores, and numerous others are usually carried on- by processes, as distinguished from machines. One may discover a new and useful improvement in the process of tanning, dyeing, &c., irrespective of any particular form of machinery or mechanical device. And another may invent a labor-saving machine by which this operation or process may be performed, and. each may be entitled to his patent. As, for instance, A has discovered that by exposing India rubber to a certain degree of heat, in mixture or connection with certain metallic salts, he can produce a valuable product or manufacture; he. is en\u2019titled to a patent for his discovery, as a process or improvement in the art, irrespective of any machine or mechanical device. B, on the contrary, may invent a new furnace or stove, or steam apparatus, by which this process may be carried on with much saving of labor, and expense of fuel; and he will be - entitled to a patent for his machine, as an improvement in the art. Yet A could not have a patent for a machine, or B for a process; but each would have a patent for the means or method of producing a certain result, or effect, and not for the result or effect produced. It is for the discovery or invention of some practicable method or means of producing a beneficial result or effect, that a patent is granted, and not for the result or effect itself. It is when the term process is used to represent the means or method of producing a result that it is patentable, and it will include all methods or means which are not effected by mechanism or mechanical combinations.\nBut the term process is often used in a more vague sense, in which it cannot be the subject of a patent. Thus we say that a board is undergoing the process of being planed, grain of being ground, iron of being hammered, or rolled. Here the term is used subjectively or passively as applied to the material operated on, and not to the method or mode of producing that operation, which is by mechanical means, or the use of a machine, as distinguished from a process.\nIn this use of the term it represents the function of a machine, or the effect produced by it on the material subjected to the action of the machine. But it is well settled that a man cannot have a patent for the function or abstract effect of a machine, but only for the machine which produces it.\nThe dictum is interesting for its reflection of the context in which the \u201cfunction of a machine\u201d objection to patentability was initially applied. It is clear that some processes were thought patentable and others not. It is also clear that \u201cfunction of a machine\u201d was symbolic of the latter. It is yet unclear, at this point in the development of the law, whether the dividing line marks a difference between means and result or chemistry and mechanics. In any event, the simple notion of undue breadth has been abandoned or, at least, considerably refined.\nSeveral subsequent cases upheld process patents. Cochrane v. Deener, 94 U. S. 780 (1876); Tilghman v. Proctor, 102 U. S. 707 (1880). In the first of these a patent for a process for sifting flour was held valid and infringed. Justice Bradley wrote for the Court:\nThat a process may be patentable, irrespective of the particular form of the instrumentalities used, cannot be disputed. If one of the steps of a process be that a certain substance is to be reduced to a powder, it may not be at all material wbat instrument or machinery is used to effect that object, whether a hammer, a pestle and mortar, or a mill. Either may be pointed out; but if the patent is not confined to that particular tool or machine, the use of the others would be an infringement, the general process being the same. A process is a mode of treatment of certain materials to produce a given result. It is an act, or a series of acts, performed upon the subject-matter to be transformed and reduced to a different state or thing. If new and useful, it is just as patentable as is a piece of machinery. In the language of the patent law, it is an art. The machinery pointed out as suitable to perform the process may or may not be new or patentable; whilst the process itself may be altogether new, and produce an entirely new result. The process requires that certain things should be done with certain substances, and in a certain order; but the tools to be used in doing this may be of secondary consequence. []\nThis discussion as well as the validation itself of the flour-sifting process seemed to show that the connotation of the \u201cfunction of a machine\u201d rejection was not an objection to mechanical processes but rather to mere effects masquerading as processes.\nJustice Bradley\u2019s language in Tilghman v. Proctor tended to reinforce this idea. In that case although the process in question was a chemical one, he again took up the patentability of processes in general and discussed, among other cases, O'Reilly v. Morse, supra, to show that Ohief Justice Taney \u201cfully acquiesced in the legality and validity of a patent for a process.\u201d The \u201ctrue ground\u201d of that decision, the opinion points out, was that Morse\u2019s eighth claim was directed to a principle, not a process, a claim to a power of nature itself by one who had only first employed that power.\nIn the Telephone Cases, 126 U. S. 1 (1887), the Court reiterated this theme in upholding the validity of Bell\u2019s fifth claim which read:\n5. The method of, and apparatus for, transmitting vocal or other sounds telegraphically, as herein described, by causing electrical undulations, similar in form to the vibrations of the air accompanying the said vocal or other sounds, substantially as set forth.\nIt was urged that the decision in O'Reilly v. Morse required that this claim be held invalid. Chief Justice Waite, who wrote for the Court, replied that that case, on the contrary, required validation of the claim. Bell\u2019s claim, he observed, was for a method of using electricity, not for electricity \u201cin its natural state.\u201d\nThe Court made it clear that as long as the claim delineated a means and not a result, the inventor would not be penalized for having invented the only means for effecting the result.\nIt may be that electricity cannot be used at all for tbe transmission of speech except in the way Bell has discovered, and that therefore, practically, his patent gives him its exclusive use for that purpose, but that does not make his claim one for the use of electricity distinct from the particular process with which it is connected in his patent. It will, if true, show more clearly the great importance of his discovery, but it will not invalidate his patent.\nOnly a few years later, however, the Court seemed to turn away from the means-result dichotomy. In Risdon Locomotive Works v. Medart, 158 U. S. 68 (1894), the validity of a patent for a process of manufacturing belt pulleys was in issue. The process involved the following steps: centering the pulley center or spider; grinding the ends of the arms of the spider concentrically with the axis of the pulley; boring the center; securing the rim to the spider; grinding the face of the rim concentrically with the axis of the pulley; and grinding or squaring the edges of the rim. The Court rightly observed that the process was \u201cpurely a mechanical one\u201d and proceeded to declare it unpatentable. The Court\u2019s reasoning began with an\nanalysis of the \u201cgreat case\u201d of O'Reilly v. Morse, supra, and asked whether Chief Justice Taney\u2019s comments on \u201cprocesses involving-chemical effects\u201d were not too broad to be supported by subsequent cases. After a review of several of those cases, the Court concluded that the validity of process patents had, in fact, been upheld when the process was chemical or involved the use of one of the agencies of nature for a practical purpose. 158 U.S. at 77. See, e.g., Telephone Cases, supra; New Process Fermentation Co. v. Maus, 122 U.S. 413 (1887).\nThe Court then cited Corning v. Burden, supra; Wyeth v. Stone, supra, and several fairly contemporaneous circuit court decisions for the proposition that it was \u201cequally clear\u201d that no valid patent could be obtained \u201cfor a process which involves nothing more than the operation of a piece of mechanism, or, in other words, for the func-\u2022lion of a ;machme.\u201d The patent in issue wa.s, of course, invalid since \u25a0 \u201cit clearly falls within this category.\u201d The Court explained:\n* \u215c * it is upon its face \u201cfor an improved process of manufacture,\u201d and mechanism is shown and described simply for the purpose, of - exhibiting its operation, which is described in detail. The result is a pulley more perfectly balanced, more faultless in shape, stronger and more durable, perhaps,\u2019 than, any before produced ; but this was not. because the patentee had discovered anything new in the result produced, but because the mechanism was better adapted to produce that result than anything that had before been known. \u00c1s pulleys of .that description had been produced before, doubtless, with greater care in the manufacture of them, a pulley as perfect as his might have-been, made. So\u2019-, that all he invented in fact was a machine for the more perfect -manufacture of such pulleys. The operation of function of such machine,-however, ;is not patentable as a process.\nThis decision was understandably taken as\u2019 .proscribing, patents for mechanical processes. Whitney, Patentable Processes, 19 Harv. L. Rev. 30, 33 (1905). And this impression could only have been, reinforced by Westinghouse v. Boyden Power Brake Co., 170. U. S. 537 (1897), in which the Court held certain claims, for a-.brake mechanism not infringed. The Court observed that if, the. claims were interpreted as process claims, as the patentee urged, they would be open to the \u201cmere function of. a machine\u201d objection. The Court noted that Bisdon was conclusive against such process claims, unless, perhaps, those capable of manual operation were exempted from its strictures as several lower court cases had held. On the latter possibility the Court felt that the facts before it did not warrant an expression of opinion.\nIt was at this unfortunate time that our predecessor in jurisdiction of appeals from the Patent Office, the Court of Appeals of the District of Columbia, attempted a synthesis of the cases on \u201cfunction of an apparatus.\u201d In re Weston, 17 App. D. C. 431 (1901). The Commissioner of Patents had rejected certain claims for a process of manufacturing devices used in electrical measuring instruments. The question before the court on appeal from the Commissioner was \u201cthe greatly-vexed one, how far a method or a process is patentable, and when it is a subject of patentability.\u201d\nThe court reviewed the case law, with great emphasis on the Supreme Court\u2019s, most recent pronouncements on the subject,- viz., Risdon and Westi\u00f1ghouse, and came to the'following conclusion:\nIt seems to us from all these authorities the deductions to be drawn are these \u00a1 ' First, that processes involving a chemical or other elemental' action, if new and useful, are patentable; second,' that a process, which amounts to no more than the mere function of a machine, .is not patentable; .third, that a process :or method of a mechanical nature, not. absolutely dependent upon a machine, although perhaps hest illustrated by mechanism, may, if'n\u00e9w and useful, be' the proper subject of a patent, even though it involves no chemical or other elemental action. \u2019\nIn this-last class of cases, possibly'a yery-large class, and thus far certainly a very indefinite class, the criterion of patentability, s.o far as it seems possible yet to state any definite criterion, would seem to be that the process may be performed by. hand or by other mechanism' than that exhibited, although perhaps not with equal efficiency. That we must at all events recognize the 'existence of such a 'class would seem to'be beyond doubt.-\nIt is probably more than a quibble' to inquire whether the\u2019 Telephone Oases are at all reconcilable with'the ban on'processes'hot' chemical or, in fact, whether Risdon will support\u2019 the exemption for those capable of manual operation. Under the circumstances,'\u2019however, it could hardly be unexpected that a wrap-up of the law would leave a corner or two protruding. This was underscored by the next Supreme Court decision on the patentability of processes. In Busch v. Jones, 184 U. S. 598 (1902), the Court upheld four apparatus claims for a new paper press but found invalid the following process claim:\n5. The process herein described for treating folded printed sheets of paper in dry pressing, the same consisting of subjecting a collection of such sheets\nto pressure without the use of fuller-boards, and while under such pressure tying them into a compact bundle with end boards, then removing them immediately from the press, and allowing them to remain tied sufficiently long to fix and complete dry pressing.\nTlie inquiry, the Court insisted, was \u201centirely independent of questions as to what constitutes a patentable process discussed * * * in Risdon Locomotive Works v. Medart * * * and in Westinghouse v. Baden [sic, Boyden] Power Brake Co. * * *.\u201d Nonetheless the process was held to be no more than the operation and effect of a machine and apparently held invalid for that reason.\nThe Supreme Court, however, was not finished with patents for mechanical processes. In a leading case, Expanded Metal Co. v. Bradford, 214 U. S. 366 (1908), upon which the Patent Office here principally relies, the Court sustained a patent for a process for making \u201cexpanded metal,\u201d over the express contention of the infringers that Risdon and Coming restricted patents to processes involving chemical action. The Court commented that it was not disposed to question the decision in those cases. However, it did not feel that the unpatentability of mechanical processes had been established by them. Cases subsequent to Risdon, the Court pointed out, showed that its language should not be taken as an absolute proscription of patents for mechanical processes. The Court quoted the passage from Westinghouse v. Boyden Power Brake Co. which admitted the possibility, at least, of patents for mechanical processes susceptible of performance \u201cby simple manipulation.\u201d\nThe Court also appealed to text writers and its own previous decisions:\nWbat then is the statutory right to a patent for a \u201cprocess\u201d when the term is properly considered? Curtis, in his work on the Law of Patents, says:\n\u201cA process may be altogether new, whether the machinery by which it is carried on be new or old. A new process may be invented or discovered, which may require the use of a newly-invented machine. In such case, if both the process and the machine were invented by the same person, he could take separate patents for them. A new process may be carried on by the use of an old machine, in a mode in which it was never used before \u215c * \u215e. In such a case, the patentability of the process in no degree depends upon the characteristic principle of the machine, although machinery is essential to the process, and although a particular machine may be required.\u201d Curtis, 4th ed. \u00a7 14.\nIn Robinson on Patents, vol. 1, \u00a7 167, it is said:\n\u201cWhile an art cannot be practiced except by means of physical agents, through which the force is brought in contact with or directed toward its object, the existence of the art is not dependent on any of the special means employed. It is a legal, practical invention in itself. Its essence remains unchanged, whatever variation takes place in its instruments as long as the acts of which it is composed are properly performed.\u201d\nAnd Walker on Patents, 4th ed. \u00a73, states that valid process patents may be granted for \u201coperations which consist entirely of mechanical transactions, but which may be performed by hand or by any of several different mechanisms or machines.\u201d\nIt is undoubtedly true, and all the cases agree, that the mere function or effect of the operation of a machine cannot be the subject-matter of a lawful patent. But it does not follow that a method of doing a thing, so clearly indicated that those skilled in the art can avail themselves of mechanism to carry it into operation, is not the subject-matter of a valid patent. The contrary has been declared in decisions of this court. A leading ease is' Goehr me v. Deener, 94 U.S. 780, in which this court sustained a process patent involving mechanical operations * * *.\nThe Court\u2019s conclusion was \u201cthat an invention or discovery of a process or method involving mechanical operations, and producing a new and useful result, may be within the protection of the Federal statute, and entitle the inventor to a patent for his discovery.\u201d This conclusion, combined with the Court\u2019s earlier approving comments on the \u201cfunction * * * of a machine\u201d objection to patentability emptied that phrase of its purported equivalence to \u201cmechanical processes.\u201d The Court\u2019s specific equation of \u201cfunction of a machine\u201d with \u201ceffect of the operation of a machine\u201d was less effective than it might have been to restore the means-result distinction, discernible in almost all the cases before Bisdon, since it occurred in the shadow, as it were, of the quoted passages from the Westinghouse opinion and the Walker text. It is, in fact, on these incidental, almost neutral, references that the solicitor now relies to show the Court\u2019s imprimatur upon the Weston view of \u201cfunction of a machine.\u201d That the Court meant to adhere to the means-result dichotomy seems fairly clear when the Expanded Metal opinion is read against the background of seventy years\u2019 opinions on patentability of processes and when it is recalled that Bisdon and (perhaps) Westinghouse represent the only substantial deviations from the means-result test in the Supreme Court\u2019s history.\nThe Court seems to have confirmed this interpretation the last time this issue was before it. In Waxham v. Smith, 294 U. S. 20, 24 USPQ 34 (1934), the Court held valid and infringed a claim to a process for incubating eggs. It was argued that the claim was an attempt to patent a function. The Court replied:\nBut the function which a machine performs, here the hatching of eggs, is to be distinguished from the means by which that performance is secured * * \u215c. A method, which may be patented irrespective of the particular form of the mechanism which may be availed of for carrying it into operation, is not to be rejected as \u201cfunctional\u201d, merely because the specifications show a machine capable of using it.\nThe Expanded Metal and Waxham processes could have been performed in some manual fashion or by apparatus different from that disclosed' by the patents. The cases are not, on their facts, therefore, at variance with the Weston recapitulation of the law. Thus Weston has survived.\nIn the Court of Customs and Patent Appeals, the Weston views have more than survived, they have flourished. In In re Ernst, 21 CCPA 1235, 71 F. 2d 169, 22 USPQ 28 (1934), the Weston doctrine was embraced by this court. Appellant\u2019s reliance on Expanded Metal was unavailing \u2014 the court relied on the possibility of manual operation and distinguished that case. The \u201cmere function of an apparatus\u201d rejection was regularly upheld thereafter. See, e.g., In re McCurdy, 22 CCPA 1140, 76 F. 2d 400, 25 USPQ 136 (1935); In re Wadman, 25 CCPA 936, 94 F. 2d 993, 36 USPQ 542 (1938); In re Mead, 29 CCPA 1001, 127 F. 2d 302, 53 USPQ 380 (1942); In re Solakian, 33 CCPA 1054, 155 F. 2d 404, 69 USPQ 514 (1946); In re Nichols, 36 CCPA 759, 171 F. 2d 300, 80 USPQ 143 (1948); In re Ashbaugh, 36 CCPA 902, 173 F. 2d 273, 81 USPQ 129 (1949); In re Horvath, 41 CCPA 844, 211 F. 2d 604, 101 USPQ 191 (1954); In re Gartner, 42 CCPA 1022, 223 F. 2d 502, 106 USPQ 273 (1955).\nThe Patent Office Board of Appeals has generally followed the direction of this court on the \u201cfunction of the apparatus\u201d rejection. See Ex parte Goldsmith, 94 USPQ 403 (Pat. Off. Bd. App. 1952); Ex parte Wright, 72 USPQ 196 (Pat. Off. Bd. App. 1946); Ex parte Hunter, 34 USPQ 337 (Pat. Off. Bd. App. 1937). In 1952, however, Examiner-in-Chief Bailey wrote a dissenting opinion in Ex parte Goldsmith, supra, in which he listed Supreme Court decisions bearing upon the \u201cfunction of the apparatus\u201d rejection. He concluded:\nThe above Supreme Court decisions when all are considered and con-elated hold:\n(1) That useful methods are statutory subject matter, whether they involve chemical or other elemental action, or are purely mechanical, and when a claim in fact defines a method its patentability is determined by comparison with the prior art.\n(2) That the mere function or effect of a machine is not a method, and thus not statutory subject matter, so, when a claim that purports to define a method, is found to in fact define only the desired function or effect (and not the acts or steps which result in the desired function or effect), it is properly refused or held invalid on such grounds.\nMr. Bailey did not argue that the board majority\u2019s adherence to the Weston rule was at variance with the decisions of this court. Bather, he urged that those decisions should not be followed in view of their inconsistency with decisions of the Supreme Court. See also Ex parte Hart, 117 USPQ, 193 (Pat. Off. Bd. App. 1957) (concurring opinion); Ex parte Roth, 118 USPQ 112 (Pat. Off. Bd. App. 1957) (concurring opinion).\nTen years later Mr. Bailey wrote the majority opinion in In re Symons, 134 USPQ 74 (Pat. Off. Bd. App. 1962), in which the rejection of certain process claims as a function of the apparatus was reversed, primarily because the processes were capable of operation by different apparatus and, additionally, because the rejection was thought inconsistent with the Patent Act of 1952. The latter conclusion was predicated upon the provisions in the act for the patentability of processes eo nomine and of new uses of old machines as processes. 35 USC 100, 101 (1964); cf. Ex parte Zangas, 125 USPQ 419 (Pat. Off. Bd. App. 1960). It was also based on the mandatory language of the statute: \u201cA person shall be entitled to a patent unless\u2014 * * 35 USC 102 (1964); see In re Stempel, 44 CCPA 820, 241 F. 2d 755, 113 USPQ 77 (1957); In re Ratti, 46 CCPA 976, 270 F. 2d 810, 123 USPQ 349 (1959).\nEx parte Symons was overruled the following year by a specially convened panel of seven members of the board. Ex parte Packard, 140 USPQ 27 (Pat. Off. Bd. App. 1963). In Packard, a majority reversed a rejection of three method claims for defining merely the function of the apparatus when it was shown that the apparatus was capable of other uses. The majority then went on \u201cto re-evaluate and restate the position of the Board of Appeals\u201d on the function of the apparatus rejection. That position, in essence, was that no statutory basis was required to sustain these rejections and that, if one were required, 35 USC 112 might well suffice. The opinion concluded :\nWhile there is some doubt in our minds as to the equity of rejecting otherwise proper method claim\u00ae as being drawn to the function of the apparatus, nevertheless, we are of the opinion-that the several decisions of the Court of Customs and Patent Appeals before and after the 1952 Patent Act affirming this ground of rejection are binding on us unless and until this ground of rejection is ewpressly overruled by the Court of Customs and Patent Appeals, Insofar as the decision of Ex parte Symons is inconsistent with our present holding, it is overruled. [Emphasis ours.]\nTwo members of the board, one of whom was Mr. Bailey, dissented. Mr. Bailey noted that all members of the special panel agreed on the proposition that such refections are inequitable.\nThe issue in this case, therefore, is whether this court will continue to insist upon the connotation its decisions and those of its predecessor in jurisdiction have breathed into the \u201cfunction of an apparatus\u201d symbol or will restore to that phrase its former meaning.\nAppellant argues that the \u201cfunction of the apparatus\u201d doctrine as it is presently conceived is historically unsound, devoid of statutory basis, and at variance with the new Congressional policy evidenced by the Patent Act of 1952.\nThe solicitor, on the other hand, argues that the present doctrine is required by Expanded Metal v. Bradford, supra. He urges, in rebuttal, that no specific prohibition is required to reject a claim as embracing non-statutory subject matter, and that there has been no shift in Congressional policy.\nOur present review of the major precedents has persuaded us that the decisions of the Supreme Court have not required the rejection of process claims merely because the process apparently could be carried out only with the disclosed apparatus. These rejections have been the product of decisions in the lower courts and especially in this court. We decide today that we will no longer follow those decisions.\nIn taking this step we are moved, to some extent, by the fact that the doctrine has been shown not to proceed from its purported wellsprings. Even so, we would leave it undisturbed were it not the product of an essentially illogical distinction unwarranted by, and at odds with, the basic purposes of the patent system and productive of a range of undesirable results from the harshly inequitable to the silly.\nThe illogic of the \u201cfunction of the apparatus\u201d objection to patent-ability was clearly seen by Bobinson even before it was fastened on our jurisprudence. He observed:\nWhere a process consists entirely in the operation of a machine or other instrument, it approaches so nearly to the function of the instrument employed that several decisions have been rendered identifying it therewith, and hence denying its patentability. But the process and the function are, after all, two entirely separate entities, both in intellectual and physical contemplation; the former being capable of conception apart from any object acted on, the latter, not so. The difficulty is another form of the old confusion between the end and the means, and is to he avoided by defining sharply the end to be accomplished, and determining whether the machine or the operation performed by it is the actual means. For if the operation performed, hy the machine is new in reference to the object upon which it is employed, a new process has been invented; and this is no less true if the machine or instrument employed is new than if it were old, or if the process can be performed in no other lenown way than by this particular machine. While, on the other hand, if the operation is known in reference to the object, the invention of a new machine for performing it does not make a new process, but only a new instrument for applying it. [] [Emphasis ours.]\nWe agree with this analysis. We feel that the basic rationale of the patent system demands the upholding of properly drawn claims for new, useful, and unobvious processes, regardless of whether the inventor has invented one, two, or more machines to carry them out. Cf. Waxham v. Smith, supra.\nExceptional treatment for this narrow class of processes is, pro tanto, inconsistent with the broad goal of the patent system, the promotion of the useful arts, in that it necessarily denies to certain inventors the exclusive rights to their discoveries and thus defeats the intent which must be presumed of Congress in enacting the Patent Statutes.\nWe think there is no merit in the suggestion that \u00a7112 of the Patent Act of 1952 sanctions such a practice. See Ex parte Packard, supra. Section 112 does require that the specification conclude with claims which particularly point and distinctly claim the subject matter which is regarded as the invention. But the \u201cmere function of the machine\u201d cases do not involve imprecisely defined subject matter. The notion of undue breadth in the claims may be consistent with the proscription of claims directed merely to effects or results. See O'Reilly v. Morse, supra. The \u201cmere function of the machine\u201d cases, however, have clearly regarded the question as whether the processes at bar were within the statutory classes of invention. The emphasis has never been on the claims but always on the processes. The inquiry has been into whether these are \u201cproper subjects\u201d for a patent after a reference, more often than not, to the celebrated observation in Corning v. Burden, supra, that although it is included under the general term useful art, \u201ca process eo nomine is not made the subject of a patent\u201d by our laws. See, e.g., In re Weston, supra. Furthermore, during the entire gestation period of the \u201cfunction of the apparatus\u201d objection, tbe patent statutes contained tbe following or a similar provision:\n[The inventor] shall particularly point out and distinctly claim the part, improvement, or combination which he claims as his invention or discovery.\nTbe provision, indistinguishable for our purposes from the present statute, was never referred to at all, as far as we know, in tbe elaboration of tbe \u201cfunction of tbe apparatus\u201d rejection. And we see no indication in tbe legislative history of \u00a7112 or in the commentary on the section that there was contemplated any change in the significance of its provision for claims. See Federico, Commentary on the New Patent Act, 35 U.S.C.A. 1 (1954).\nFurthermore, perpetuation of this doctrine only invites inequitable consequences. The essential difficulty is in the fact that, although at the time of the application only one apparatus may be known which is capable of carrying out the process, others may become available later. In which case, of course, the inventor may be cheated of his invention. It is peculiarly our responsibility to see that the decisional law does not require this kind of inequity.\nIn the Telephone Cases, supra, it was pointed out that Bell\u2019s invention, primarily a method, would have been lost to him had his process claim been held invalid since he had failed to claim the apparatus which later became commercially important. But the Court upheld the method claim: \u201cSurely a patent for such a discovery is not to be confined to the mere means he improvised to prove the reality of his conception.\u201d We think it clear that justice militates against so confining any process patent.\nThis case illustrates one of the peculiarities of the doctrine. Several method claims, generic to those rejected, have been allowed, simply because they admit of operation by two sets of apparatus. This would suggest that any two process claims, each unpatentable under the \u201cfunction of the apparatus\u201d theory, could be merged into a patentable claim. We see no interest of the Patent System well served by such a practice.\nAccordingly, the decision of the board is reversed.\nConsisting of McCann and Friedman, Examiners-in-Cbief, and Andrews, Acting Examiner-in-Chief, opinion by McCann.\nAlternatively, especially In early cases, \u201cfunction of a machine.\u2019\n56 U. S. (15 How.) at 113.\n56 U. S. (15 How.) at 117.\nThe Court reasoned that the law\u2019s requirement for a description of the invention may have been ignored if the patent were interpreted as for a process. 56 U. S. (15 How.) at 269.\n94 U. S. at 787-88.\nThe claim read: \u201cI claim * * * manufacturing of fat acids and glycerine from fatty bodies by the action of water at a high temperature and pressure.\u201d\nIt was also argued that the patent should be restricted to the apparatus claimed, \u201cthe magneto instrument.\u201d A \u201cvariable resistance apparatus\u201d had been disclosed but not claimed. The Court said:\nThe patent is both for the magneto and variable resistance methods, and for the particular magneto apparatus which is described, or its equivalent. There is no patent for any variable resistance apparatus. It is undoubtedly true that when Bell got his patent he thought the magneto method was the best. Indeed, he said, in express terms, he preferred it, but that does not exclude the use of the other if it turns out to be the most desirable way of using the process under any circumstances.\nBy \u201cmeans-result dichotomy\u201d we refer to the division of patentable and uppatentable claims along the line separating claims which define means and those which merely describe results.\nThe claimed matter was as follows :\n1. The described method of manufacturing a symmetrical movable coil for an electrical measuring instrument, consisting in first forming a supporting frame or spool by subjecting a short tube of metal to pressure until the desired conformation and shape is obtained, then winding the coil thereon and finally securing the pivot-pins thereto in the axial line of the coil.\n2. The described method of manufacturing a movable coil for an electrical instrument, consisting in first forming a supporting frame or spool of a single piece of metal by subjecting the same to pressure until the desired conformation and shape is obtained, winding the coil thereon and then securing the pivot-pins thereto in the axial line of the coil and simultaneously adjusting the peedle-supporting pivot in such manner that the point of the needle is located in the central plane of coil, or in a plane at a definite angle thereto.\n3. The described method of manufacturing a supporting frame or spool without joint or seam for an electrical coil, consisting in giving to a short section of tubing the desired configuration, then subjecting it to pressure until the desired curvature is obtained, and finally turning down the lateral edges thereof in such manner as to constitute the flanges of the frame or spool.\n4. The described method of manufacturing a supporting frame or spool without joint or seam for an electrical coil, consisting in giving a short section of tubing the desired configuration, then giving to the lateral faces thereof the desired curvature to adapt it to the curvilinear field in which it is designed to be used, and finally turning down the lateral edges thereof so as to constitute the flanges of the frame or spool.\nThe decision of the Commissioner with respect to claims 3 and 4 was affirmed: \u201c[T]hey involve merely well-Imown mechanical operations.\u201d The decision with respect to claims 1 and 2, however, was reversed, applying the test for patentable processes set forth:\nIt does not appear to us that the mechanism which he uses for the purposes of such adjustment is a necessary part of his process. He might possibly effect the purpose by mere manipulation. It is not impossible that he might effect it by mechanism of a radically different character from that which he exhibits. Ordinarily a process can be carried into practical effect by mechanism only; and it is the function of such mechanism to effect the process. But the process and the function of the mechanism are not for that reason one and the same thing in law or in our conception of the discovery.\nWritten by Justice Brown who also wrote for the Court in Risdon.\nThe Weston testa for the patentability of processes have become the conventional wisdom. See, e.g., Black-Clawson Co. v. Centrifugal Eng'r. Corp., 83 F. 2d 116 (6th Cir. 1936); In re Ernst, 21 CCPA 1235, 71 F. 2d 169, 22 USPQ 28 (1934); Chisholm-Byder Co. v. Buck, 65 F. 2d 735 (4th Cir. 1933); Ferro Engineering Co. v. Watson, 151 F. Supp. 167, 113 USPQ 174 (D.D.C. 1957). Lapses from orthodoxy have been few. But see C. F. Mueller Co. v. A. Zeregas Sons, 12 F. 2d 517 (2d Cir. 1926); Societe Anonyme Des Manufactures v. Marzall, 108 F. Supp. 310, 94 USPQ 255 (D.D.C. 1952); and several opinions of the Patent Office Board of Appeals discussed infra.\nSome deviation from the doctrine has been tolerated under the guise of permitting latitude in claim drafting. See, e.g., Ex parte Stephanoff, 81 USPQ 565 (Pat. Off. Bd. App. 1948); Ex parte Lorenz, 11 USPQ 105 (Pat. Off. Bd. App. 1931); Ex parte Fahrenwald, 3 USPQ 191 (Pat. Off. Bd. App. 1929). And, in other cases, the board has em phasized a requirement that the disclosed apparatus be incapable of utilization in other processes, i.e., that the process be the inherent (necessary) function of the apparatus. See Ex parte Scherer, 103 USPQ 107 (Pat. Off. Bd. App. 1954); Ex parte Cohurn, 87 USPQ 222 (Pat. Off. Bd. App. 1950); Ex parte Harnett, 61 USPQ 100 (Pat. Off. Bd. App. 1944).\nSee note 14, supra.\nOur decision makes unnecessary any consideration of appellant\u2019s arguments directed to the need for statutory bases for rejections or for alignment of this court\u2019s approach with current Congressional policy. Nor need we consider the solicitor\u2019s rebuttal.\n\u201cSurely we are not bound by reason or by the considerations that underline stare decisis to persevere in distinctions taken in the application of a statue which, on further examination, appear consonant neither with the purposes of the statute nor with this Court\u2019s own conception of it .\u201d Belvering v. Hallock, 309 U. S. 106, 122 (1940).\n1 Robinson, Patents 256 n. 2 (1890) ; see also WMtney, op. cit. supra at 48.\nAct of July 8, 1870, cli. 230, \u00a726, 16 Stat. 201. Tile earlier statute provided :\n[The inventor] shall particularly specify and point out the part, improvement, or combination, which he claims as his own invention or discovery.\nAct of July 4, 1S36, ch. 357, \u00a76, 5 Stat. 117.\nThe present statute reads :\nThe specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.\n35 USC 112 (1964).",
+        "type": "majority",
+        "author": "Rich, Judge,"
+      },
+      {
+        "text": "Kirkpateick, Judge,\ndissenting, with, whom WoRley, Chief Judge, joins.\nIn order to reverse the decision of the Patent Office Board of Appeals, the majority overrules a line of decisions of this court affirming and applying a rule which is about as solidly established as any rule of the patent law. Beginning with a decision in 1901 of the Court of Appeals for the District' of Columbia, the predecessor of this court in jurisdiction of appeals from the Patent Office, the rule that a process which amounts to no more than the mere function of a machine is not patentable has been consistently followed over a period of nearly seventy years. So far as I know, the rule has been generally acquiesced in and accepted, and has been applied in a score or more of cases in this court without challenge.\nThe question presented by this appeal is therefore whether this court is now justified in disregarding the rule of stare decisis which all agree is vital to the preservation of the uniformity and predictability of the law. In such a situation, the principles by which the court should be guided are clear and well settled.\nIn a system of jurisprudence founded upon stare decisis, as our system is, an established rule or principle will not be departed from except in case of grave necessity when cogent reasons require such departure. If a rule of law, well established by decisions, is erroneous, it is still not to be lightly set aside by the courts but any abandonment or alteration of it should be by the legislature, the body charged with the responsibility of making the law and not by us whose only duty is to define and construe it.\nAccepting then, the proposition that a heavy burden rests upon those who go about upsetting thoroughly settled precedent, it appears to me that the reasons advanced in the majority opinion for doing so in this case are wholly insufficient to justify its decision. I have no fault to find with the scholarly and scrupulously fair review and analysis of the development of the rule, which appeats in the majority opinion. It may well be that \u201cthe decisions of the Supreme Court have not required the rejection of process claims merely because the process apparently could be carried out only with the disclosed apparatus.\u201d But note also that no decision of the Supreme Court has disapproved of the rejection of process claims for that reason. I do not dispute that \u201cthe doctrine has been shown not to proceed from its purported well-springs,\u201d and it may have been the product of an essentially illogical distinction. However, I cannot agree that it is at odds with the basic purposes of the patent system or that \u201cit is productive of a range of undesirable results from the highly inequitable to the silly\u201d or that the rule denies to certain inventors the exclusive rights to their discoveries or that, in some cases, \u201cthe inventor may be cheated of his invention.\u201d\nI cannot overlook the fact that there has been no showing that the practical working of the rule has been other than entirely satisfactory. The patent bar which exists for the purpose of obtaining patent rights for those who invent any new or useful process, machine, manufacture or composition of matter and has been always vigilant to protect those rights has not, to my knowledge, made any effort at any time to change the rule and one wonders why not if it is a rule so destructive of the rights of inventors and so subversive of the basic purpose of the patent system as the majority fears.\nNor has Congress seen fit to make any change in this supposedly unjust and confiscatory rule which may operate to \u201ccheat\u201d inventors of their inventions. Since In re Weston, the case which adopted the \u201cmere function of an apparatus\u201d rejection upon review of Patent Office action, some thirty-two Congresses have met and adjourned without taking any action to modify the law in that respect. On the contrary, in the Patent Act of 1952 Congress dealt specifically with the patentability of processes but did not disturb the existing decisional law upon the point here involved. Since Graham v. John Deere Co., 383 U.S. 1, it has been generally accepted that the Act of 1952 was in effect a codification of statutory law and judicial precedents and not intended to change the \u201cgeneral level of patentable inventions.\u201d Thus, the principle that a process which is merely the function of an apparatus is unpatentable, which by that time had become settled law, was, by implication, adopted by Congress.\nAs a matter of fact, it is highly questionable whether the rule curtails the rights of inventors to any substantial extent. Certainly it cannot be said that it perpetuates error from which grievous wrong results, or that there is any grave necessity for its repeal. And it may be pointed out that while the present rule limits the patentee\u2019s rights in one respect, the law as adopted by the majority puts him in a position to exclude from any commercial exploitation every new and unobvious apparatus which may use the patented process to obtain an improved result in a more efficient manner \u2014 a consequence which, it would seem, could tend to discourage, rather than promote, the progress of science and useful arts. As the Government points out:\nIt is alleged that the rejection is inequitable. However, equity is satisfied if appellant can obtain claims which adequately protect his invention. Appellant has been allowed such claims on his apparatus. The apparatus claims provide concrete protection for appellant\u2019s invention. In the present state of the art the specific method which appellant claims can only be performed by the apparatus claimed by appellant. The only purpose served by granting appellant the specific method claims would be to discourage others from inventing a different apparatus to perform the specific method. Such discouragement is not in accord with the policy of the Patent system. In re Flint, 51 CCPA 1230, 144 USPQ 299, states:\n[I]t is advantageous to the public in the promotion of progress of the useful arts, the constitutional objective of the patent law, to provide inducement for the invention of devices which are the functional equivalents of devices already known. It is not the object of the policy behind the patent system to encourage satisfaction with or commercialization only of the first device for performing a given function that happens to come along. And for those who may be interested in promoting competition in the interest of the consuming public, the greater the number of functionally equivalent devices which are encouraged onto the market by patent protection, the better off the consumer will be.\nWe have, of course, no way of assessing with certainty the accuracy of the Government\u2019s theory any more than we can assess the accuracy of the majority\u2019s supposition that denying appellant his process claim will deprive him of the fruits of his invention. It serves to point up, however, that the \u201cequities\u201d are not weighted so heavily on one side as the majority assumes. If the Government\u2019s theory is correct, the majority\u2019s newly-charted course is contrary to the basic constitutional objective of promoting the progress of the useful arts; if that espoused by the majority is correct, the many prior decisions of this court have seemingly been causing progress in the useful arts to languish, which does not appear to have been the fact to any noticeable extent.\nI think that it takes much more than the discovery of a possible flaw in the reasoning of a court of years ago, which may or may not have misunderstood the purport of earlier decisions, to overturn a well established and accepted rule of nearly seventy years\u2019 standing. It does not seem to me that the facts here justify the wholesale reversal of the settled law of this court on the abstract proposition of \u201cequity.\u201d Rather, it should be asked \u201cequity\u201d for whom? The inventor here? Other inventors in this and related fields? The public?\nIn view of the foregoing, I feel bound to record my disagreement with the majority opinion.\nIn In re Horvath, 41 CCPA 844, 211 F.2d 604, 101 USPQ 191, decided March 23, 1954, this court affirmed the rejection of seven claims of an application, saying \u201c. . . we recognize the well settled law that process or method claims merely claiming the function of the apparatus are not allowable, as has been held in a long line of decisions from this court ...\u201d",
+        "type": "dissent",
+        "author": "Kirkpateick, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Flehr, Hohbaeh, Test, Albritton & Herbert (John P. Button, of counsel) for appellant.",
+      "Joseph Sphimmel (Fred, W. Bherling, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "397 F.2d 856; 158 USPQ 141\nIn re Zoltan Tarczy-Hornoch\n(No. 7910)\nUnited States Court of Customs and Patent Appeals,\nJune 27, 1968\nFlehr, Hohbaeh, Test, Albritton & Herbert (John P. Button, of counsel) for appellant.\nJoseph Sphimmel (Fred, W. Bherling, of counsel) for the Commissioner of Patents.\n[Oral argument January 5, 1968 by Mr. Sutton and Mr. Sherling]\nBefore Woeley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1441-01",
+  "first_page_order": 781,
+  "last_page_order": 799
+}

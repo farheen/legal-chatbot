@@ -1,0 +1,58 @@
+{
+  "id": 12485642,
+  "name": "Commonwealth v. Lagenza Junious",
+  "name_abbreviation": "Commonwealth v. Junious",
+  "decision_date": "2016-07-07",
+  "docket_number": "NO. 198 MAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "195f874d7b2a672e7af431e535e0abccaebdf6391899f556af2ebc6c5fc9c4f9",
+    "simhash": "1:148e466c80a110c0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nLagenza Junious"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nLagenza Junious\nNO. 198 MAL 2016\nSupreme Court of Pennsylvania\nJuly 07, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-06",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

@@ -1,0 +1,706 @@
+{
+  "id": 7294431,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Neal Lamont PATTON, Appellant",
+  "name_abbreviation": "Commonwealth v. Patton",
+  "decision_date": "2009-12-30",
+  "docket_number": "",
+  "first_page": "1283",
+  "last_page": "1290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "985 A.2d 1283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "796 A.2d 967",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9445094,
+        9445070,
+        163576,
+        9445170,
+        163542,
+        163736
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "971",
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/796/0967-02",
+        "/a2d/796/0967-01",
+        "/pa/568/0328-01",
+        "/a2d/796/0967-03",
+        "/pa/568/0329-01",
+        "/pa/568/0328-02"
+      ]
+    },
+    {
+      "cite": "568 Pa. 329",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        163542
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/568/0329-01"
+      ]
+    },
+    {
+      "cite": "848 A.2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        91672,
+        9246209
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "109",
+          "parenthetical": "refusing to adopt per se rule requiring recusal of judge for violations of Judicial Code of Conduct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0581-01",
+        "/a2d/848/0104-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 581",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91672
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "refusing to adopt per se rule requiring recusal of judge for violations of Judicial Code of Conduct"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0581-01"
+      ]
+    },
+    {
+      "cite": "951 A.2d 346",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3923622,
+        8212846
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "359",
+          "parenthetical": "declining to adopt per se rule governing situation when trial court learns numerical division of deliberating jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0373-01",
+        "/a2d/951/0346-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 373",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3923622
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "declining to adopt per se rule governing situation when trial court learns numerical division of deliberating jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0373-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829794
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0558-01"
+      ]
+    },
+    {
+      "cite": "938 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8314466,
+        3844094
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "325",
+          "parenthetical": "per se rule against religious references in prosecutor's arguments limited to those made in favor of death sentence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/0310-01",
+        "/pa/595/0188-01"
+      ]
+    },
+    {
+      "cite": "595 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3844094
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "per se rule against religious references in prosecutor's arguments limited to those made in favor of death sentence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/595/0188-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 121",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863060,
+        475558
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "129"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/649/0121-01",
+        "/pa/538/0455-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475558
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0455-01"
+      ]
+    },
+    {
+      "cite": "949 A.2d 873",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3924891,
+        8240638
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "884-85",
+          "parenthetical": "finding prosecutor's statement, during penalty phase closing argument, that defendant committed crime in front of victim's children was harmless"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0028-01",
+        "/a2d/949/0873-01"
+      ]
+    },
+    {
+      "cite": "597 Pa. 28",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3924891
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "finding prosecutor's statement, during penalty phase closing argument, that defendant committed crime in front of victim's children was harmless"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/597/0028-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11891800,
+        18162
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/701/0190-01",
+        "/pa/549/0269-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18162
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0269-01"
+      ]
+    },
+    {
+      "cite": "666 A.2d 221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12043856,
+        458423
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0221-01",
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "542 Pa. 160",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        458423
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/542/0160-01"
+      ]
+    },
+    {
+      "cite": "911 A.2d 1258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8405920,
+        3851970
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1261",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/1258-01",
+        "/pa/590/0035-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3851970
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0035-01"
+      ]
+    },
+    {
+      "cite": "952 A.2d 1166",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8186595,
+        3989572,
+        3992197,
+        3988519,
+        3990569,
+        8186474,
+        8186514,
+        8186555
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1166",
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/952/1166-04",
+        "/pa/598/0007-02",
+        "/pa/598/0008-02",
+        "/pa/598/0007-01",
+        "/pa/598/0008-01",
+        "/a2d/952/1166-01",
+        "/a2d/952/1166-02",
+        "/a2d/952/1166-03"
+      ]
+    },
+    {
+      "cite": "598 Pa. 8",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3990569,
+        3992197
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0008-01",
+        "/pa/598/0008-02"
+      ]
+    },
+    {
+      "cite": "860 A.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1100728,
+        9145847
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0303-01",
+        "/a2d/860/0102-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100728
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0303-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 1170",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8365236
+      ],
+      "pin_cites": [
+        {
+          "page": "1178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/1170-01"
+      ]
+    },
+    {
+      "cite": "715 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        559548,
+        11705437
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "409",
+          "parenthetical": "when evidence of guilt is such that there is no indication outcome of case would have been different absent error, no new trial is warranted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01",
+        "/a2d/715/0404-01"
+      ]
+    },
+    {
+      "cite": "552 Pa. 331",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        559548
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "when evidence of guilt is such that there is no indication outcome of case would have been different absent error, no new trial is warranted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/552/0331-01"
+      ]
+    },
+    {
+      "cite": "756 A.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225921,
+        11244885
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1148",
+          "parenthetical": "where evidence of first degree murder was overwhelming, court refused to grant new trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0498-01",
+        "/a2d/756/1139-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 498",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225921
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "where evidence of first degree murder was overwhelming, court refused to grant new trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0498-01"
+      ]
+    },
+    {
+      "cite": "514 Pa. 539",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1804600
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/514/0539-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11891800,
+        18162
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/701/0190-01",
+        "/pa/549/0269-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 269",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18162
+      ],
+      "year": 1997,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/549/0269-01"
+      ]
+    },
+    {
+      "cite": "860 A.2d 102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1100728,
+        9145847
+      ],
+      "weight": 6,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "117"
+        },
+        {
+          "page": "118"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/580/0303-01",
+        "/a2d/860/0102-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 303",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100728
+      ],
+      "year": 2004,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/580/0303-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 986,
+    "char_count": 20732,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18835731349588336
+    },
+    "sha256": "43831fdc51da3603d7b7429dbc4c953da577d242188090996c75c2d5360418fc",
+    "simhash": "1:89a8dd94771a9eca",
+    "word_count": 3336
+  },
+  "last_updated": "2024-02-27T18:04:23.956278+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Neal Lamont PATTON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice EAKIN.\nAppellant shot and killed his brother, Anthony, at a local bus stop. After fleeing to Cleveland, Ohio, he was arrested and returned to Pennsylvania. Loenell Howze, who was with Anthony at the bus stop, initially refused to assist the Commonwealth\u2019s investigation; he later explained his initial unwillingness to cooperate was a result of his upbringing. An investigating officer noted \u201cthere is a perception that talking to the police is bad\u201d in Howze\u2019s neighborhood. N.T. Trial, 2/23/05, at 37.\nSeveral days after the shooting, Howze decided to cooperate with police. Howze noted his cousin killed two of his relatives after killing another person, and he believed if someone had cooperated in the investigation of the first killing, his cousin would not have been able to kill the other relatives. Howze explained at trial this family tragedy inspired him to cooperate with police.\nThe Commonwealth charged appellant with criminal homicide, but did not seek the death penalty. Appellant admitted he picked up the gun prior to going to the bus stop, which he knew Anthony frequented. A forensic pathologist testified the gun shot wound to Anthony\u2019s head was consistent with a victim lying on the ground, as Howze described. A criminalist examined the gun and testified it required at least six pounds of force to pull the trigger, making it unlikely the gun was accidentally discharged twice. Therefore, sufficient evidence supported the jury\u2019s first degree murder verdict. See Commonwealth v. Spotz, 562 Pa. 498, 756 A.2d 1139, 1148 (2000) (where evidence of first degree murder was overwhelming, court refused to grant new trial); Commonwealth v. Dennis, 552 Pa. 331, 715 A.2d 404, 409 (1998) (when evidence of guilt is such that there is no indication outcome of case would have been different absent error, no new trial is warranted).\nAt appellant\u2019s jury trial, the prosecutor, in her closing argument, stated:\nLadies and gentlemen, I\u2019m asking you to find a verdict of guilty of murder in the first degree and send a message back that [Howze] did the right thing. The system works and it\u2019s right to come forward and tell what happened and the second message I want to send to [appellant] is to tell him he can\u2019t get away with murder.\nN.T. Trial, 2/25/05, at 107-08. Appellant objected, and the trial court agreed to give a curative instruction but failed to do so. The jury convicted appellant of first degree murder, and the trial court imposed the mandatory life sentence.\nThe Superior Court affirmed the judgment of sentence. Commonwealth v. Patton, 936 A.2d 1170, 1178 (Pa.Super.2007). Before the Superior Court, appellant argued the prosecutor\u2019s \u201csend a message\u201d arguments were per se prejudicial under Commonwealth v. DeJesus, 580 Pa. 303, 860 A.2d 102 (2004), which held \u201cpenalty phase arguments requesting that the jury send a message with its verdict are prejudicial per se.\u201d Id., at 119. Noting DeJe-sus was a capital case, the Superior Court concluded DeJesus prohibited \u201csend a message\u201d arguments in support of the imposition of the death penalty, but concluded the DeJesus per se rule was inapplicable when the remark was not made in an effort to procure a death sentence. The court found the prosecutor\u2019s remark inappropriate, but in context found it was not egregious enough to deny appellant a fair trial. The court construed the remark as merely encouraging the jury to commend Howze for his cooperation with police, and not as an attempt to diminish the jury\u2019s objectivity. The court further held \u201cthe prosecutor\u2019s comment that the jury should send a message that \u2018[[ajppellant] can\u2019t get away with murder\u2019 was not reversible error.\u201d Patton, at 1175.\nWe granted allowance of appeal to determine \u201c[wjhether the per se rule of DeJesus applies in non-capital cases; if not, was the within request improper and prejudicial?\u201d Commonwealth v. Patton, 598 Pa. 8, 952 A.2d 1166, 1166 (2008) (table). This is a purely legal question; thus, our standard of review is de novo, and our scope of review is plenary. In re Milton Hershey School, 590 Pa. 35, 911 A.2d 1258, 1261 (2006) (citations omitted).\nAppellant argues the DeJesus presumption of prejudice should be applied to all criminal proceedings. Appellant contends a per se rule is necessary to force prosecutors to abide by this Court\u2019s prohibition; appellant argues prosecutors make imr proper \u201csend a message\u201d arguments to secure a conviction, then hope the appellate court will conclude the improper argument was harmless error. Appellant admits there are differences between capital cases and non-capital cases, but asserts juries in non-capital cases are equally vulnerable to these emotional arguments. Appellant notes this case, where he shot his own brother, was especially emotional and contends \u201csend a message\u201d arguments destroy the ability of juries to objectively deliberate and weigh the evidence.\nAppellant further argues the prosecutor\u2019s remarks, even if not prejudicial per se, were prejudicial enough in this case to warrant a new trial. Appellant admits there is sufficient evidence to convict him of third degree murder; however, he contends the evidence supporting his first degree murder conviction is not overwhelming. Appellant, characterizing the remark as sending a message to a community of reluctant witnesses, submits the prosecutor\u2019s remark meant any verdict besides first degree murder would devalue cooperation with the police.\nThe Commonwealth argues DeJesus should be limited to the penalty phase of capital cases. It contends the DeJesus per se rule is inextricably linked to a jury\u2019s balancing of aggravating and mitigating circumstances under Pennsylvania\u2019s death penalty statute, 42 Pa.C.S. \u00a7 9711(c)-(e). The Commonwealth suggests prosecutors have not abused \u201csend a message\u201d remarks, which in non-capital cases are properly examined on a case-by-case basis, with the focus on whether the remarks deprived the defendant of a fair trial and impartial jury. The Commonwealth contends the remark asked \u201cthe jury to demonstrate to Loenell Howze that \u2018he did the right thing.\u2019\u201d Commonwealth\u2019s Brief, at 29 (emphasis in original) (quoting N.T. Trial, 2/25/05, at 107-08). Thus, the Commonwealth submits Howze was the only recipient of the message, and the remark did not have an unavoidable effect of preventing the jury from objectively weighing the evidence and rendering a true verdict.\nIt is well settled a prosecutor may employ oratorical flair in arguing to the jury. Such arguments do not constitute prosecutorial misconduct when the remarks are based upon the evidence or proper inferences deduced therefrom. An improper statement during the prosecutor\u2019s closing argument will warrant a new trial only when the unavoidable effect of the statement is to prejudice the jury against the defendant, or prevent it from weighing the evidence objectively and rendering a true verdict.\nHowever, this Court has stridently condemned prosecutorial statements urging a criminal jury to \u201csend a message\u201d to the community or the criminal justice system. A jury is sworn to render a verdict based solely on the evidence presented; arguing extraneous reasons for a verdict misdirects the jury from that purpose. Such arguments inject irrelevant matters into the deliberation; they invite the jury to focus on matters beyond its ken.\nPortraying the community as being under an attack, a prosecutor may not ask the jury to respond to the attack with its verdict. Commonwealth v. LaCava, 542 Pa. 160, 666 A.2d 221, 237 (1995). Even when we have found such remarks to be harmless, we admonished \u201call parties in criminal matters before any court in the Commonwealth to refrain from such exhortation in the future.\u201d Commonwealth v. Hall, 549 Pa. 269, 701 A.2d 190, 203 (1997). In Hall, this Court found the prosecutor\u2019s remark to be harmless because the prosecutor was summarizing the crime and \u201cneither caused the jury to form a fixed bias or hostility towards appellant nor did they ask the jury to send a message to the judicial system or ...\u201d the community. Id. Such a remark, when directed exclusively to events underlying the case, will be evaluated on a case-by-case basis. See Commonwealth v. Diggs, 597 Pa. 28, 949 A.2d 873, 884-85 (2008) (finding prosecutor\u2019s statement, during penalty phase closing argument, that defendant committed crime in front of victim\u2019s children was harmless).\nIn DeJesus, the prosecutor, during the penalty phase, argued to the jury:\nWhen you think of the death penalty, there are messages to be sent. There\u2019s a message on the street saying, look at that, he got death, you see that, honey, that\u2019s why you live by the rules, so you don\u2019t end up like that. Because they\u2019re in these bad neighborhoods.... You also send a message in prisons. When you peep in that bus and talk and whisper, you can say, death penalty. Maybe you\u2019ve got just one inmate sitting there going, well, he got death, this is serious, I don\u2019t want to end up like that. Maybe your penalty you\u2019ll save one guy, to scare him straight.\nDeJesus, at 113 (emphasis in original). The jury imposed the death penalty, and on appeal this Court observed such \u201csend a message\u201d statements had been \u201cnarrowly tolerated,\u201d and we had reminded prosecutors to avoid using such arguments. Id., at 115-16. DeJesus concluded a per se prohibition was necessary to prevent future use of these prejudicial statements. We have recently observed DeJesus \u201cheld that \u2018penalty phase arguments requesting that the jury send a message [to society] with its verdict are prejudicial per se.\u2019 \u201d Diggs, at 884 (quoting DeJesus, at 119).\nThe DeJesus per se rule is rooted in the unique role the jury plays in capital cases. See DeJesus, at 119. The per se rule is intertwined with death penalty sentencing because it is essential to prevent emotional appeals from upsetting a death penalty jury\u2019s unique task of weighing specific aggravating and mitigating circumstances and the unique consequences of a verdict based on improper considerations. In non-capital cases, as juries do not weigh aggravating and mitigating circumstances, a per se rule is not necessary. In these less emotional cases, evaluation of the allegedly offending statement may be done on a case-by-case basis. The Superior Court correctly determined the DeJesus per se rule does not apply to non-capital cases, and we decline appellant\u2019s invitation to extend DeJesus.\nIt is not the words \u201csend a message\u201d that automatically constitutes impropriety, but that phrase is unwise and inevitably suspect \u2014 it is inherently a dangerous phrase in a criminal argument, inviting scrutiny whenever spoken. It offends because the jury\u2019s role is to render a verdict based on the evidence, not based on the effect of that verdict. Indeed, the prosecutor lessened any potential prejudice of her remarks by cautioning the jury: \u2018You took an oath to listen to the facts, to apply the law to the facts and render a verdict. It is time to honor your oath. You need to the [sic] look at the law and look at the facts and that\u2019s what I\u2019m asking you to do.\u201d N.T. Trial, 2/25/05, at 97. In this, the prosecutor was exactly right \u2014 juries are there to find facts and apply the law to them \u2014 they are not empanelled to send telegrams.\nHere, however, urging the jury \u201cto tell [appellant] he can\u2019t get away with murder,\u201d id., at 108, is not an improper \u201csend a message\u201d statement. Prosecutorial remarks encouraging a jury to \u201csend a message\u201d to the defendant, rather than the community or criminal justice system, do not invite consideration of extraneous matters and are not misconduct. Commonwealth v. Peterkin, 538 Pa. 455, 649 A.2d 121, 129 (1994). In Peterkin we found no impropriety when the prosecutor merely asked the jury to impose a death sentence as a means of sending a message to the defendant. Every verdict sends a message of some sort to the parties, and clearly the message \u201cguilty\u201d is sought by prosecutors as a matter of course. DeJesus did not alter Peterkin. See DeJesus, at 116 (\u201cThe Peterkin issue is not presented in the case sub judice: the prosecutor here did not exhort the jury to send a message to [DeJesus].\u201d).\nThe portion of the prosecutor\u2019s remark asking the jury to send a message to Howze is less clear but does not warrant a new trial. Notwithstanding appellant\u2019s assertions, the prosecutor\u2019s remark asked the jury to send a message to a witness, not to any wider segment of the community. It was established Howze was reluctant to cooperate with police, and he testified a family tragedy motivated him to cooperate. The prosecutor, addressing the issue of Howze\u2019s motivation, did not incite prejudice against appellant or deny him a fair trial.\nWe note, however, that the request here was still unwise at best, and prosecutors would do well to put \u201csend a message\u201d on the taboo list, lest this Court be compelled in the future to send its own message in the form of a rule with more restraints.\nWe find the prosecutor\u2019s remark regarding Howze did not deny appellant a fair trial or destroy the objectivity of the jury, preventing it from reaching a true verdict. Furthermore, the prosecutor\u2019s remark regarding appellant was not improper. Therefore, appellant is not entitled to a new trial.\nThe order of the Superior Court is affirmed.\nJurisdiction relinquished.\nJustices BAER, McCAFFERY and GREENSPAN join the opinion.\nChief Justice CASTILLE files a dissenting opinion in which Justices SAYLOR and TODD join.\n. There are procedural differences between capital and non-capital cases. See, e.g., Pa. R.Crim.P. 801 (qualifications for defense counsel in capital cases); Commonwealth v. Natividad, 595 Pa. 188, 938 A.2d 310, 325 (2007) (per se rule against religious references in prosecutor\u2019s arguments limited to those made in favor of death sentence). And as this Court recognized in DeJesus, a jury's guilt determination depends upon relatively objective determinations, whereas the imposing of a death sentence includes subjective considerations in weighing aggravating and mitigating circumstances. DeJesus, at 116.\n. Notably, DeJesus discussed another per se rule, established in Commonwealth v. Chambers, 528 Pa. 558, 599 A.2d 630, 644 (1991), prohibiting referring to religious precepts in the penalty phase of capital cases. DeJesus, at 114-15. DeJesus juxtaposed prior \"send a message\u201d cases with cases preceding Chambers, noting in both situations this Court \"narrowly tolerated\u201d such prejudicial arguments to the jury, only to have prosecutors disregard such warnings. Id., at 115. The Chambers per se rule is limited to arguments in favor of a death sentence. Natividad, at 325.\n. We do not favor per se rules in error review. See, e.g., Commonwealth v. Greer, 597 Pa. 373, 951 A.2d 346, 359 (2008) (declining to adopt per se rule governing situation when trial court learns numerical division of deliberating jury); Commonwealth v. Druce, 577 Pa. 581, 848 A.2d 104, 109 (2004) (refusing to adopt per se rule requiring recusal of judge for violations of Judicial Code of Conduct); Commonwealth v. Mack, 568 Pa. 329, 796 A.2d 967, 971 (2002) (plurality) (rejecting argument consent to search is per se involuntary when police inform suspect they \u201cwould have to get a search warrant\u201d if suspect declines).",
+        "type": "majority",
+        "author": "Justice EAKIN."
+      },
+      {
+        "text": "Chief Justice CASTILLE,\ndissenting.\nI respectfully dissent, as I disagree that \u201csend a message\u201d arguments by counsel are per se prejudicial only in the capital penalty phase context.\nThe Majority notes that \u201cthis Court has stridently condemned prosecutorial statements urging a criminal jury to \u2018send a message\u2019 to the community or the criminal justice system,\u201d explaining that such comments are at best extraneous and irrelevant to the jury\u2019s task at hand and at worst create the potential for severe prejudice. Majority Op. at 1287. The Majority notes a distinction between \u201csend a message\u201d statements by prosecutors that address the facts of the case at hand or the defendant directly, which are to be evaluated on a case-by-case basis, and statements that exhort the jury to \u201csend a message\u201d to the judicial system or the community at large, which exceed prosecu-torial license. Id. at 1286-88. In doing so, the Majority quotes from Commonwealth v. DeJesus, 580 Pa. 303, 860 A.2d 102 (2004), which held that \u201csend a message\u201d statements by the Commonwealth are per se prejudicial in the context of the capital penalty phase. Majority Op. at 1288. But the Majority declines to extend Dejesus\u2019s per se rule to the non-capital penalty context. In the Majority\u2019s view, a per se rule fits in the capital penalty context because the particular concerns and consequences of the death penalty inquiry must be shielded from \u201cemotional appeals\u201d that can \u201c[upset] a death penalty jury\u2019s unique task of weighing specific aggravating and mitigating circumstances.\u201d Id. By contrast, the Majority asserts, in \u201cless emotional\u201d non-capital cases, \u201cevaluation of the allegedly offending statement may be done on a case-by-case basis.\u201d Id.\nI recognize that the distinctions articulated by the Majority \u2014 capital penalty cases versus non-capital cases and the intended target of the message \u2014 are legitimate, and the Majority\u2019s rationale is well-expressed. Nevertheless, given this Court\u2019s supervisory authority over the conduct of attorneys, in my view application of these distinctions forces courts to patrol too fine a line. For over two decades, this Court has warned against \u201csend a message\u201d statements by either side in a criminal case. See DeJesus, 860 A.2d at 115-17 (citing, inter alia, Commonwealth v. Crawley, 514 Pa. 539, 526 A.2d 334, 344 (1987)). DeJesus was, of course, a capital case and the Majority is correct in reiterating the particular concerns that \u201csend a message\u201d statements engender in the penalty phase of capital cases. But DeJesus also expressed a more generalized growing impatience respecting all \u201csend a message\u201d statements in the criminal arena. DeJesus quoted, with emphasis, the following language from Commonwealth v. Hall, 549 Pa. 269, 701 A.2d 190, 203 (1997), which could not be more clear: \u201c[W]e advise all parties in criminal matters before any court in the Commonwealth to refrain from such exhortation in the future.\u201d 860 A.2d at 117.\nThe persistence of such references, notwithstanding our repeated disapproval of exhortations invoking such \u201cexternal irrelevancy,\u201d (as characterized in DeJesus) suggests a need for a bright-line rule. The Court discussed at length the supervisory concerns implicated by such arguments in DeJesus:\nThis Court well appreciates the pressures and challenges of trying criminal cases, and particularly cases where the ultimate penalty is involved. We also recognize that there are many things that occur in the course of a trial which are beyond the control or anticipation of counsel and the trial judge \u2014 such as witnesses, jurors or spectators acting inappropriately. But one aspect of a trial which is far more subject to rational control is the behavior of attorneys\u2014 officers of this Court whose professionalism is absolutely indispensable to the fair administration of justice in this Commonwealth. Lawyers have an obligation to be aware of, and to abide by, the law governing the conduct of the matters in which they are involved. This Court\u2019s unambiguous directive in Hall was not aimed at the conduct of witnesses, or police officers, or jurors, or court staff, or judges: it was aimed directly at counsel. Moreover, it concerned a matter and stage of trial over which counsel have unique, indeed premeditated control: i e., what it is they intend to say to the jury. When this Court issues a directive concerning what is permissible at that stage, we expect officers of the Court to abide by that directive.\n860 A.2d at 118.\nDespite the foregoing, it appears that prosecutors still return to the \u201csend a message\u201d argument. The fact that resort continues to be made to such extraneous concerns suggests that lawyers employing the argument believe it is harmful or powerful enough to be worth the risk. Again, I believe that it is time that this Court send a message of its own to the criminal bench and bar that this rhetoric can no longer be tolerated.\nJustices SAYLOR and TODD join this dissenting opinion.",
+        "type": "dissent",
+        "author": "Chief Justice CASTILLE,"
+      }
+    ],
+    "attorneys": [
+      "Michael Joseph Machen, Kirk James Henderson, Allegheny County Public Defender\u2019s Office, Pittsburgh, for Neil Lamont Patton.",
+      "Sandra Preuhs, Allegheny County District Attorney\u2019s Office, Michael Wayne Streily, Pittsburgh, for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Neal Lamont PATTON, Appellant.\nSupreme Court of Pennsylvania.\nArgued March 2, 2009.\nDecided Dec. 30, 2009.\nMichael Joseph Machen, Kirk James Henderson, Allegheny County Public Defender\u2019s Office, Pittsburgh, for Neil Lamont Patton.\nSandra Preuhs, Allegheny County District Attorney\u2019s Office, Michael Wayne Streily, Pittsburgh, for Commonwealth of Pennsylvania.\nBEFORE: CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, GREENSPAN, JJ."
+  },
+  "file_name": "1283-02",
+  "first_page_order": 1309,
+  "last_page_order": 1316
+}

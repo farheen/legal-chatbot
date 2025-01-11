@@ -1,0 +1,58 @@
+{
+  "id": 12485756,
+  "name": "Com. v. W. Jones",
+  "name_abbreviation": "Com. v. Jones",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 607 WDA 2014",
+  "first_page": "583",
+  "last_page": "583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "ae7569e6189feccb66d5f25976a910322cb539c1301e766396edf5ce094e090b",
+    "simhash": "1:a944caadc4cb20e1",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Jones"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Jones\nNO. 607 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0583-10",
+  "first_page_order": 583,
+  "last_page_order": 583
+}

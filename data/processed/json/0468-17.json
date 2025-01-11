@@ -1,0 +1,58 @@
+{
+  "id": 12488827,
+  "name": "HOBSON v. HOBSON",
+  "name_abbreviation": "Hobson v. Hobson",
+  "decision_date": "2016-09-02",
+  "docket_number": "16\u2013038",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 161,
+    "sha256": "405f2c7a95d91c573b88acbfc16eee5863f335b5f89386c73cc594a3238021c2",
+    "simhash": "1:7c577f20de327ad7",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HOBSON\nv.\nHOBSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "HOBSON\nv.\nHOBSON\n16-038\nSupreme Court of Vermont.\nSeptember 2, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReconsideration denied."
+  },
+  "file_name": "0468-17",
+  "first_page_order": 468,
+  "last_page_order": 468
+}

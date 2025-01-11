@@ -1,0 +1,58 @@
+{
+  "id": 12485619,
+  "name": "Commonwealth v. Ryan Harding",
+  "name_abbreviation": "Commonwealth v. Harding",
+  "decision_date": "2016-07-06",
+  "docket_number": "NO. 150 MAL 2016",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "dc3a66a3365d71b40cba935f99c147e4b079dce5de69852fa34d7a8b7b344f9c",
+    "simhash": "1:45de5664d0a11110",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRyan Harding"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRyan Harding\nNO. 150 MAL 2016\nSupreme Court of Pennsylvania\nJuly 06, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0478-04",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

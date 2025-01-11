@@ -1,0 +1,58 @@
+{
+  "id": 12488720,
+  "name": "OCS/George v. Adams",
+  "name_abbreviation": "Ocs/George v. Adams",
+  "decision_date": "2016-08-18",
+  "docket_number": "16-263",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 149,
+    "sha256": "4a08fb374427a8e82c3cbf1477eb16676467ee67782d5313fb6454a1627f2725",
+    "simhash": "1:d0f90d03d6f0a786",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OCS/George\nv.\nAdams"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "OCS/George\nv.\nAdams\n16-263\nSupreme Court of Vermont.\nAugust 18, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0343-05",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

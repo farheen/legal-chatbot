@@ -1,0 +1,62 @@
+{
+  "id": 12502130,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Jessica L. CORTEZ, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Cortez",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-186 September Term 2018; 081328",
+  "first_page": "977",
+  "last_page": "977",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 977"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 371,
+    "sha256": "0745021234619f68edcc0b2de45d0b5a515a8990901b889f3a834b3343092335",
+    "simhash": "1:68776b61e03adf2a",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nJessica L. CORTEZ, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-002639-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nJessica L. CORTEZ, Defendant-Petitioner.\nC-186 September Term 2018\n081328\nSupreme Court of New Jersey.\nOctober 5, 2018\nORDER"
+  },
+  "file_name": "0977-04",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

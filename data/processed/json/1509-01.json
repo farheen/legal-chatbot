@@ -1,0 +1,64 @@
+{
+  "id": 1279835,
+  "name": "Ivy Reynolds, Plaintiff in Error, v. State of Florida, Defendant in Error",
+  "name_abbreviation": "Reynolds v. State",
+  "decision_date": "1930-12-17",
+  "docket_number": "",
+  "first_page": "1509",
+  "last_page": "1510",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 121,
+    "char_count": 1446,
+    "ocr_confidence": 0.536,
+    "sha256": "43e95dc929b054f404dc71bf3adefc226a43f2258fb52b6b9e9458871f3ca729",
+    "simhash": "1:77acec1dbf1673ef",
+    "word_count": 237
+  },
+  "last_updated": "2023-07-14T17:35:28.833773+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Terrell, C. J., and Whitfield, Ellis, Strum, Brown and Buford, J. J., concur."
+    ],
+    "parties": [
+      "Ivy Reynolds, Plaintiff in Error, v. State of Florida, Defendant in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nPlaintiff in Error was convicted in the Criminal Court of Record of Polk County on the second count of an information charging that he did unlawfully receive and aid in the concealment of stolen property. He seeks reversal of the judgment below because the trial court refused to quash the search warrant and the information, and because of the alleged insufficiency of the evidence to sustain the verdict and because of certain instructions given to the jury, and the legal insufficiency of the' judgment, and because the plaintiff in error was not permitted to offer in evidence the search warrant and affidavit on which the same was based.\nPlaintiff in error was tried on an information, the allegations of which were amply supported by the evidence. The affidavit and search warrant being merely for evidential purposes and other evidence. being ample to support the charge, they became immaterial and refusal to have them placed in evidence could not have harmed the plaintiff in error. Other assignments have been examined and we fail to find any support for them in the record.\nAffirmed.\nTerrell, C. J., and Whitfield, Ellis, Strum, Brown and Buford, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Martin & Martin, for Plaintiff in Error;",
+      "Fred H. Davis, Attorney General, and Boy Campbell, Assistant Attorney General, for Defendant in Error."
+    ],
+    "corrections": "",
+    "head_matter": "Ivy Reynolds, Plaintiff in Error, v. State of Florida, Defendant in Error.\nEn Banc.\nOpinion filed December 17, 1930.\nMartin & Martin, for Plaintiff in Error;\nFred H. Davis, Attorney General, and Boy Campbell, Assistant Attorney General, for Defendant in Error."
+  },
+  "file_name": "1509-01",
+  "first_page_order": 505,
+  "last_page_order": 506
+}

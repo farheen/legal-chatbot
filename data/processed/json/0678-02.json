@@ -1,0 +1,89 @@
+{
+  "id": 7954210,
+  "name": "STATE v. Luigi MANOCCHIO",
+  "name_abbreviation": "State v. Manocchio",
+  "decision_date": "1983-06-23",
+  "docket_number": "No. 83-324-C.A.",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "461 A.2d 678"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "113 R.I. 430",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3126946
+      ],
+      "weight": 4,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "432"
+        },
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/113/0430-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 203,
+    "char_count": 2237,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20064683307791303
+    },
+    "sha256": "9e120be9eb7dc7cb480191205d5dbc1450375ff311fb1f0880d41a847ff5a3f5",
+    "simhash": "1:e53a25582fbf4e20",
+    "word_count": 378
+  },
+  "last_updated": "2024-02-27T18:13:59.154543+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Luigi MANOCCHIO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant in the above-entitled case, through counsel, has filed a document entitled \u201cPetition For Admission To Bail Pending Appeal.\u201d The petition indicates that on June 13, 1983, a Superior Court jury found the defendant guilty of two counts of being an accessory before the fact and one count of being part of a conspiracy to commit murder. The counts are found in indictments all of which relate to the April 20, 1968 incident involving Rudolph Marfeo and Anthony Melei, who were shot to death in Providence while shopping in a neighborhood market. After the return of the guilty verdicts, the trial justice rejected the defendant\u2019s request that he be released and continued on his pretrial bail and granted the state\u2019s request that the pretrial bail be revoked.\nAt oral argument it became obvious that defendant\u2019s petition and his claim of appeal are premature. The trial justice, in rejecting bail, made it clear that he would consider any motion for a new trial on June 27, 1983. Thus, defendant may file his motion, and it is conceivable that the trial justice will grant the motion and eradicate the jury\u2019s guilty verdict.\nIf the trial justice denies the motion, the defendant may then invoke the provisions of Rule 46 of the Superior Court Rules of Criminal Procedure and ask that he be \u201cadmitted to bail after conviction pending appeal.\u201d The trial justice shall then hold a hearing at which evidence should be adduced relative to the factors to be considered when a postconvietion bail proceeding is pending. In State v. Abbott, 113 R.I. 430, 322 A.2d 33 (1974), we referred to some of the factors that should be evaluated in such a proceeding. They are (1) the sub-stantiality of the grounds of appeal, (2) the potentiality of release posing a threat to the community, (3) the petitioner\u2019s ties to the community, and (4) other circumstances, such as the severity of the sentence, which might indicate that there is a risk that the petitioner may flee the jurisdiction. Id. at 432, 322 A.2d at 35.\nThe petition is denied pro forma.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts, II, Atty. Gen., for plaintiff.",
+      "Thomas A. DiLuglio, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Luigi MANOCCHIO.\nNo. 83-324-C.A.\nSupreme Court of Rhode Island.\nJune 23, 1983.\nDennis J. Roberts, II, Atty. Gen., for plaintiff.\nThomas A. DiLuglio, Providence, for defendant."
+  },
+  "file_name": "0678-02",
+  "first_page_order": 708,
+  "last_page_order": 708
+}

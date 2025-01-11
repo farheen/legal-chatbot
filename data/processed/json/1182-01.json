@@ -1,0 +1,89 @@
+{
+  "id": 7263785,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Rahiem MURPHY, Respondent",
+  "name_abbreviation": "Commonwealth v. Murphy",
+  "decision_date": "2009-04-23",
+  "docket_number": "",
+  "first_page": "1182",
+  "last_page": "1182",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "969 A.2d 1182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "461 Pa. 482",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        483688
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the Superior Court cannot consider, sua sponte, issues not raised and litigated in the court below"
+        },
+        {
+          "page": "258",
+          "parenthetical": "holding that the Superior Court cannot consider, sua sponte, issues not raised and litigated in the court below"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/461/0482-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 734,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18814398059500767
+    },
+    "sha256": "cc377d298f2dd3a02ab796d703580c8894daa0aaa5a609e5fda0fe78d56c6a07",
+    "simhash": "1:0d1f931c919b1934",
+    "word_count": 116
+  },
+  "last_updated": "2024-02-27T18:12:34.471233+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice GREENSPAN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Rahiem MURPHY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of April 2009, the Petition for Alowance of Appeal is GRANTED and the Superior Court\u2019s decision, addressing an issue neither raised nor briefed by the parties, is VACATED. Further, the matter is REMANDED to the Superior Court to consider only those issues raised by Respondent and properly preserved for appeal. See Wiegand v. Wiegand, 461 Pa. 482, 337 A.2d 256, 258 (1975)(holding that the Superior Court cannot consider, sua sponte, issues not raised and litigated in the court below).\nJustice GREENSPAN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Rahiem MURPHY, Respondent.\nSupreme Court of Pennsylvania.\nApril 23, 2009."
+  },
+  "file_name": "1182-01",
+  "first_page_order": 1210,
+  "last_page_order": 1210
+}

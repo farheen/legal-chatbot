@@ -1,0 +1,58 @@
+{
+  "id": 12485858,
+  "name": "In the Int. of: J.L., a Minor",
+  "name_abbreviation": "In re Int. of J.L.",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 1660 MDA 2015",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "6ea9d5822ea2bbd0c46b3e5383e32f07192fec11dbe44e6f53650608ae2f44f2",
+    "simhash": "1:3811050832a31772",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Int. of: J.L., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Int. of: J.L., a Minor\nNO. 1660 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Appeal dismissed."
+  },
+  "file_name": "0589-15",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

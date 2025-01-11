@@ -1,0 +1,81 @@
+{
+  "id": 6094959,
+  "name": "In re Henry W. Crowell",
+  "name_abbreviation": "In re Crowell",
+  "decision_date": "1930-04-14",
+  "docket_number": "No. 2287",
+  "first_page": "1009",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "279 Fed. 713",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3591735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/279/0713-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 508,
+    "char_count": 9587,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 7.355841161790998e-08,
+      "percentile": 0.44144446259222064
+    },
+    "sha256": "0e26a4170918af382d21147b141d05867fa5c7960323baed4bd6b53afc9dbf3e",
+    "simhash": "1:f83625fb3a35b1ce",
+    "word_count": 1616
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "In re Henry W. Crowell"
+    ],
+    "opinions": [
+      {
+        "text": "Graham, Presiding Judge,\ndelivered the opinion of the court:\nThe appellant made application July 2, 1926, for a patent on improvements on gauges. The record is imperfect, but there seem to have been 15 claims submitted, the last of which was submitted under rule 68 of the Patent Office and was added for the consideration of the Board of Appeals. All .claims were rejected and claims 13, 14, and 15 were taken to the Board of Appeals by appellant for review. Claim 14 was withdrawn, and the appeal was dismissed as to said claim. Claims 13 and 15 were finally rejected. They are as follows:\n13. A gauge for indicating- air content in a mixture of water vapor and air wherein the temperature and the pressure have a normal definite relation when no air is present in the mixture and vary from said normal relation upon variations in the amount of air content, said gauge comprising a movable indicator over a common path, and means for moving said indicator in ature of said mixture, a second indicator movable relatively to the first indicator over a common path, and means for moving said indicator in response to variations in the pressure of said mixture, said second indicator coinciding in position and being movable with said first indicator when no air is present in the mixture, whereby relative movement and a spaced relation of said indicators indicate variations in the amount of air in said mixture.\n15. A gauge for indicating the presence and approximate amount of air in a vacuum heating system, comprising two indicators independently movable over a common path, means movably responsive to variations in temperature, means movably responsive to pressures below atmospheric, means operatively-connecting each of said responsive means and one of said indicators so that said, indicators are moved in accordance with variations in temperature and variations in pressure respectively, one of said connecting means including mechanism, to compensate for the non-unii'ormly changeable relation between variations in temperatur'e and variations in-pressure and said connecting means being- adjusted relative to each other to cause said indicators to coincide and move together when no air is present in the system, and a scale in said common path containing temperature graduations and pressure graduations arranged in relations corresponding to those of the actual respective temperatures and pressures of water vapor devoid of air below atmospheric pressure.\nThe rejection was made on reference to Haseltine (British), 2687, of October 17, 1866.\nThe advice upon which a patent is sought is a gauge to be used on steam boilers used in connection with so-called vapor or vacuum systems. As described in the drawings and specifications it consists, briefly, of a circular dial, upon which is placed a chart bearing-plotted curves and seals which, by means of two hands or pointers which move over the same, indicates the degrees of heat and pressure in the boiler. The applicant states that the efficiency of a vapor or vacuum heating system is reduced by the presence of air in the boiler, piping and radiators; that water vapor at a certain temperature has a certain corresponding pressure, and that if air be mixed with said vapor, it has another corresponding pressure, according to the quantity of air included in the mixture. These-ratios being knoAvn and worked out upon the dial charts, it is possible, by means of the position of the pointers at any time, to not only ascertain the temperature of the vapor, but also the percentage of air contained in the system. It will be observed from the claims quoted, nothing is claimed on the charts or scales; the-only claim of invention is upon the mechanism. Claims for these scales have been allowed by the office. The applicant has so arranged his pointers and scales as to indicate temperatures between 165\u00b0 and 225\u00b0 F. When no air is present in the system, the movement of the two pointers coincides; when air is present, the pressure corresponding increases, and the pressure indicator advances beyond the temperature indicator.\nThe appellant shows his pressure hand or indicator to be motivated by a Bourdon tube, having one fixed end and the other end movable, connected with the indicator by means of a link, a quadrant lever and a pinion and rotating spindle. As the pressure increases or decreases, the hand will move accordingly, and by comparison with the temperature indicator and the scale, the amount of air in the system can be ascertained. The temperature indicator is actuated by a thermostatic trip with one end fixed in a well or recess and with the movable end connected with the hand or indicator-by means of intervening mechanism which causes the indicator to move back and forth across the scale as the temperature varies.\nThe appellant contends that the patent to Haseltine, referred to, does not disclose either the same mechanism or accomplish the same result, as does his. Haseltine discloses a gauge of the same circular shape as that of appellant and with scales and two hands or indicators which show, respectively, the temperature and pressure of the steam contained in the boiler to which the gauge is attached. When the. steam is in its natural or saturated condition, whatever the pressure may be, the temperature varies equally with the pressure and the movement of the hands coincides. When, however, the steam is superheated, the movement of the hands does not coincide, and the operator, by the divergence of the hands and by reading the scale, can ascertain the degree of superheating.\nHaseline discloses two methods of indicating pressure on the gauge. One is by means of a diaphragm which is depressed, moving an arm, which, in turn,\u2019sets in motion other means which rotate the hand or indicator. The second method, how'ever, is the one of interest here. This device employs a Bourdon tube filled with mercury, which, by means of a link connected with its loose end, moves a segment of a cogged wheel and rotates the hand. He also states an alternative method of indicating temperature, as follows:\nI propose in some instances to employ a stout bar, made one side o\u00ed iron and the other side of brass as shown by T1 mounted by the side of a flat mercury tube U\u2018, see Figure 14. It may be mounted in a similar manner, and the superior expansion and contraction of the brass side as the temperature rises and sinks will induce a straightening or the reverse in the bent bar, so as to operate the index.\nAs we view the matter, this is a complete anticipation of the appellant\u2019s device. It is argued that Haseltine\u2019s device will not indicate the amount of air in a vacuum or vapor system. No reason is apparent why it will not do so, if fitted with a proper scale. In other words, as the Board of Appeals puts it, it seems to be \u201c a mere matter of calibration. \u201d Exactly the same methods are employed in both cases to ascertain the temperature and pressure of water vapor. As the appellant has already received a patent upon his scale, and claims nothing for it here, if the devices otherwise operate in the same manner, obtaining the same results, there is no invention.\nIt is insisted by appellant that the Haseltine device does not disclose that it will indicate pressures and temperatures at points below the normal atmospheric pressure. An inspection of the chart or scale shown on Haseltine\u2019s Figure 12 discloses that appellant is in error in this respect. This scale shows the ordinary atmospheric pressure of 15 pounds and at the same place the corresponding boiling point of water, 212\u00b0 F., and continues the scale below that point to an atmospheric pressure of 10 pounds and a corresponding boiling point of 195\u00b0 F. Irrespective of this fact, the devices being, practically identical both in construction and operation, the Hasel-tine device will, necessarily, perform every function performed by appellant\u2019s.\nIt is argued that the Haseltine patent, being foreign, can not be measured as anticipatory by what might be made of it, but must clearly disclose the invention defined in appellant\u2019s claims. That is the law as we have announced it in In re Gillam, 17, C. C. P. A. 887, decided March 3, 1930. As we have said, however, we have-concluded that the Haseltine reference clearly discloses the invention.\nIf the descriptions and drawings of a foreign patent contain or exhibit a substantial representation of the patented invention in full, clear, and exact terms, so as to enable a person skilled in the art or science to which it appertains, without the necessity of making' experiments, to practice the invention, then it will be a complete-anticipation. Permutit Co. v. Harvey Laundry Co., 279 Fed. 713.\nThe Board of Appeals called the attention of the examiner under-rule 139 of the office, to the fact that allowed claim 2 seemed to be subject to the same objections which have been made to claims 13- and 15. The appellant waived the right to return to the examiner for reconsideration of this claim and now insists here that the board, was in error in so holding. We agree with the board in its conclusions. Obviously this claim suggests no features not present in claims 13 and 15.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "Graham, Presiding Judge,"
+      }
+    ],
+    "attorneys": [
+      ".Harry B. Rook for appellant.",
+      ".T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Henry W. Crowell\n(No. 2287)\nUnited States Court of Customs and Patent Appeals,\nApril 14, 1930\n.Harry B. Rook for appellant.\n.T. A. Hostetler for the Commissioner of Patents.\n[Oral argument March 12, 1930, by Mr. Rook and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+  },
+  "file_name": "1009-01",
+  "first_page_order": 459,
+  "last_page_order": 462
+}

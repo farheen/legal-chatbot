@@ -1,0 +1,95 @@
+{
+  "id": 7982166,
+  "name": "William C. NORTHUP et al. v. Horace CORRENTE et al.",
+  "name_abbreviation": "Northup v. Corrente",
+  "decision_date": "1980-04-24",
+  "docket_number": "No. 78-330-A",
+  "first_page": "1314",
+  "last_page": "1315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 1314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "108 R.I. 142",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3153715
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/108/0142-01"
+      ]
+    },
+    {
+      "cite": "116 R.I. 116",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        12169790
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/116/0116-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 701,
+    "ocr_confidence": 0.817,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2006858314905618
+    },
+    "sha256": "8f28baca17483abdac545fc4c5730b4c15be97c5f504e7cf2c0da734e50d5767",
+    "simhash": "1:a411617371533632",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T23:11:01.583831+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William C. NORTHUP et al. v. Horace CORRENTE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case is assigned to the May, 1980 show cause calendar. The plaintiffs are directed to appear and show cause why their appeal should not be dismissed in light of the fact that the appropriate remedy for review of the Town Council decision in this case was by petition to this court for common law certiorari. See Pitassi v. Personnel Hearing Board of the City of East Prov idence, 116 R.I. 116, 352 A.2d 658 (1976); Patenaude v. Personnel Board, 108 R.I. 142, 272 A.2d 926 (1971).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Joseph F. Penza, Jr., Providence, for plaintiffs.",
+      "William H. Corrente, Johnston, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "William C. NORTHUP et al. v. Horace CORRENTE et al.\nNo. 78-330-A.\nSupreme Court of Rhode Island.\nApril 24, 1980.\nJoseph F. Penza, Jr., Providence, for plaintiffs.\nWilliam H. Corrente, Johnston, for defendants."
+  },
+  "file_name": "1314-03",
+  "first_page_order": 1368,
+  "last_page_order": 1369
+}

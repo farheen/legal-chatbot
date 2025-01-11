@@ -1,0 +1,82 @@
+{
+  "id": 12501404,
+  "name": "Elton FERRUA v. NAPOLI FOODS, INC., et al.",
+  "name_abbreviation": "Ferrua v. Napoli Foods, Inc.",
+  "decision_date": "2018-10-09",
+  "docket_number": "AC 40709",
+  "first_page": "370",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 370"
+    },
+    {
+      "type": "parallel",
+      "cite": "185 Conn. App. 904"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "133 A.3d 463",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "year": 2016,
+      "opinion_index": 0
+    },
+    {
+      "cite": "162 Conn.App. 451",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 339,
+    "sha256": "5c537f199e607e4c968c3ee9cb8aba15e88fe83473573b04c94d97d969422ea4",
+    "simhash": "1:ba006c5c81246925",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:35:17.365550+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elton FERRUA\nv.\nNAPOLI FOODS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe decision is affirmed. The plaintiff's claims on appeal are inadequately briefed and thus we decline to review them. Pryor v. Pryor, 162 Conn.App. 451, 458, 133 A.3d 463 (2016).",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Elton FERRUA\nv.\nNAPOLI FOODS, INC., et al.\nAC 40709\nAppellate Court of Connecticut.\nArgued September 24, 2018\nOfficially released October 9, 2018"
+  },
+  "file_name": "0370-02",
+  "first_page_order": 370,
+  "last_page_order": 370
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6080949,
+  "name": "In re Gustav A. Weitnauer",
+  "name_abbreviation": "In re Weitnauer",
+  "decision_date": "1959-01-12",
+  "docket_number": "No. 6413",
+  "first_page": "987",
+  "last_page": "987",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 166,
+    "ocr_confidence": 0.559,
+    "sha256": "a87fb5fd504a86511cd91c19dc69716e731bbf5d4d54b4b056a891d24d83dfae",
+    "simhash": "1:37171011bab4b1e0",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gustav A. Weitnauer"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in method of transforming 4-(1-hydroxy-benzol) oxazol-5-one compounds into, n-acylated aminodiols.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 12, 1959\nIn re Gustav A. Weitnauer\n(No. 6413)."
+  },
+  "file_name": "0987-05",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

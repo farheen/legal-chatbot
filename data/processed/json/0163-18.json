@@ -1,0 +1,58 @@
+{
+  "id": 12486944,
+  "name": "Commonwealth v. Rahman Henderson",
+  "name_abbreviation": "Commonwealth v. Henderson",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 827 MAL (2015)",
+  "first_page": "163",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 219,
+    "sha256": "9ace1ba85c0f0d93d814278b64f70ac01be0a091f0564bc8390527646af8b7aa",
+    "simhash": "1:9f2f3abdbb89fac0",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRahman Henderson"
+    ],
+    "opinions": [
+      {
+        "text": "23 Justice EAKIN did not participate in the decision of this matter.\n--------",
+        "type": "majority",
+        "author": "23 Justice EAKIN did not participate in the decision of this matter."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRahman Henderson\nNO. 827 MAL (2015)\nSupreme Court of Pennsylvania\nFebruary 01, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0163-18",
+  "first_page_order": 163,
+  "last_page_order": 163
+}

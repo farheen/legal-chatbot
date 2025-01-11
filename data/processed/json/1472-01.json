@@ -1,0 +1,249 @@
+{
+  "id": 6085124,
+  "name": "Best Lock Corporation v. Schlage Lock Company",
+  "name_abbreviation": "Best Lock Corp. v. Schlage Lock Co.",
+  "decision_date": "1969-08-14",
+  "docket_number": "No. 8154",
+  "first_page": "1472",
+  "last_page": "1478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 C.C.P.A. 1472"
+    },
+    {
+      "type": "parallel",
+      "cite": "162 U.S.P.Q. 552"
+    },
+    {
+      "type": "parallel",
+      "cite": "413 F.2d 1195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "62 Cust. Ct. 373",
+      "category": "reporters:federal",
+      "reporter": "Cust. Ct.",
+      "case_ids": [
+        6575471
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cust-ct/62/0373-01"
+      ]
+    },
+    {
+      "cite": "113 USPQ 311",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 F. Supp. 861",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4280412
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/150/0861-01"
+      ]
+    },
+    {
+      "cite": "305 U. S. 111",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138814
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "119-120"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/305/0111-01"
+      ]
+    },
+    {
+      "cite": "372 F. 2d 539",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2043537,
+        6086270
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/372/0539-01",
+        "/ccpa/54-2/1086-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 1086",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086270
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/1086-01"
+      ]
+    },
+    {
+      "cite": "328 F. 2d 925",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        439052,
+        6092326
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/328/0925-01",
+        "/ccpa/51-2/1260-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1260",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092326
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1260-01"
+      ]
+    },
+    {
+      "cite": "362 F. 2d 287",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6086786,
+        819364
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1268-01",
+        "/f2d/362/0287-01"
+      ]
+    },
+    {
+      "cite": "53 CCPA 1268",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086786
+      ],
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1268-01"
+      ]
+    },
+    {
+      "cite": "289 F. 2d 496",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080689,
+        1989051
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0952-01",
+        "/f2d/289/0496-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 952",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080689
+      ],
+      "weight": 2,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0952-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 682,
+    "char_count": 14109,
+    "ocr_confidence": 0.449,
+    "pagerank": {
+      "raw": 2.2877595904805135e-07,
+      "percentile": 0.7858888684243753
+    },
+    "sha256": "b5deb1cf90b7ce3ab5cd007c7e74a8eaf0f4fd2ad17d4567cd09df35dd599b46",
+    "simhash": "1:d6738c2f4b1fb8dd",
+    "word_count": 2310
+  },
+  "last_updated": "2024-02-27T17:53:42.421708+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Ohief Judge, Collins and Neese, Judges, sitting by designation, Almond and Baldwin, Associate Judges."
+    ],
+    "parties": [
+      "Best Lock Corporation v. Schlage Lock Company"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Acting Ohief Judge,\ndelivered the opinion of the court:\nThis appeal is from a decision of the Trademark Trial and Appeal Board granting opposer\u2019s motion for summary judgment in an opposition involving appellant\u2019s application serial No. 195,501, filed June 12, 1964, for registration on the Principal Register of a design mark thus described in the application:\nThe mark consists of the numeral 8 formed by the line of division between the lock core and housing visible on the face of applicant\u2019s lock.\nThe amended application drawing is as follows :\nAppellant\u2019s locks include a housing (such as, for example, a door knob or padlock body) and a lock core mounted within an opening in the housing and having one of its ends flush with a face of the housing. The opening in the housing comprises two intersecting, parallel, cylindrical bores so that the line of division between the lock core and the housing, visible on the face of the lock, provides the design shown above which, for convenience, may be referred to as a figure 8. That design appellant seeks to register.\nThe record includes a copy of U. S. patent No. 1,575,092, to F. E. Best, issued to appellant\u2019s predecessor in interest on March 2, 1926, disclosing a lock illustrated in the following figure from the patent drawing:\nThe patent describes both the hole 6 and counterbore 7 in housing 5 and the lock core 11 as being of figure 8 shape. It describes the lock face as \u201ca flat plate of figure 8 shape arranged to fit snugly within the counterbored portion 7 * * This is shown at' 13, 14. As to advantages of the shape, the patent states:\nThe face being of figure 8 shape is reduced to the minimum size and requires only the minimum amount of' metal in its construction.\nProceedings Before the Patent Office\nA summary of the events preceding the board decision on appeal is as follows. In the ex parte prosecution, the examiner, after initially refusing registration on the ground that the mark proposed was \u201cmerely a decorative contour\u201d which did not function as a distinctive mark of origin, later decided that \u201cThe mark * * * appears to be entitled to registration.\u201d The mark was duly published and, within the period for opposition, appellee, Schlage Lock Company, filed a Notice of Opposition accompanied, inter alia, by a copy of the aforementioned Best patent.\nSubsequent to appellant\u2019s Answer to tbe Notice of Opposition, appellee filed a motion for summary judgment on the ground that \u201cthe subject matter of the opposed application is not a trademark subject to registration,\u201d relying on our decision in In re Deister, 48 CCPA 952, 289 F. 2d 496, 129 USPQ 314 (1961). The board denied the motion for the reason that:\nIt seems clear from the foregoing that genuine issues of fact exist, first as to whether or not the configuration or design sought to be registered is \u201cmerely functional\u201d or \u201cin essence utilitarian\u201d, and if not, whether or not it has been used on applicant\u2019s goods in such manner and to such extent as to have acquired a secondary significance. * * *\nSince the summary judgment procedure is applicable only where there is no genuine issue as to a material fact, opposer\u2019s motion is denied.\nAppellee\u2019s petition for reconsideration was denied by the board.\nShortly afterwards our decision in In re Shenango, 53 CCPA 1268, 362 F. 2d 287, 150 USPQ 115 (1966), was handed down and appellee thereupon filed a renewed motion for summary judgment, pointing out that appellant\u2019s figure 8 configuration is disclosed as a functional feature in the expired Best utility patent. Appellee argued that the case was therefore controlled by Shenango in which the alleged trademark was a functional, circular strengthening rib on the underside of a plate, and likewise the subject of an expired utility patent, which we held not to be registrable as a trademark. The board again denied the motion, taking the position for the first time, apparently on its own initiative, that appellee Schlage lacked standing to oppose as it had not shown that it would be damaged by the registration. On request for reconsideration, appellee satisfactorily traversed the board\u2019s objections as to appellee\u2019s standing. The board -then finally granted summary judgment, stating:\nThe Court of Customs and Patent Appeals held, however, in the Shen-ango case that a feature which is the subject of a utility patent and has gone into the public domain after the expiration of the patent cannot function as a trademark to distinguish the goods of an applicant from those of it[s] competitors. That is to say, the functional or utilitarian shape is inherently incapable of acquiring a legally recognizable secondary significance for the reason that, in the absence of patent protection, the public has the unrestricted right to use the subject matter of the patent. In this regard, the court emphasized that since the Mogen David case [] involved the design or non-functional configuration of a container, the decision in the case cannot stand as a precedent in respect to the question of the registrability of a configuration which is the subject matter of an expired utility patent.\nIn view of the foregoing and since it is concluded that what applicant is seeking to register consists essentially of a functional feature of the subject matter of an expired utility patent which has gone into the public domain, opposer\u2019s motion for summary judgment is granted.\nThe board adhered to the decision on further reconsideration. The question here is whether, at long last, the board reached the right conclusion.\nOpinion\nOur problem is to decide whether summary judgment is appropriate here in view of what is disclosed in the Best patent as to the functionality of the mark \u2014 is there any possibility that there remains \u00e1 genuine issue' of material fact or is this evidence conclusive ? A subsidiary question is whether the functionality is such as to conclude the question of registrability. , .\nIt is settled law that a configuration of an article cannot be registered as a trademark if the purpose of the configuration is to contribute functional advantages to the article in which it is embodied or if the configuration results from functional considerations. As\u201e we said in Shenango:\nWe think that the 1946 Act is premised on the idea that only non-functional configurations may be registrable thereunder.\nThis statement is not inconsistent with what we characterized in. Shenango as \u201ctruism (4)\u201d from our opinion in Deister which states:\n1 A feature dictated solely by \u201cfunctional\u201d (utilitarian) considerations may not be protected as a trademark; but mere possession of a function (utility) is not sufficient reason to deny protection.\nThat truism in Deister, in its exception, merely reflects the obvious fact that some articles, made in a purely arbitrary configuration (e.g., the wine-bottle considered in Mogen David) may perform a function, holding wine, which could equally well be served by containers of many other shapes, and in such circumstances the incidental function should not by itself preclude trademark registrability if the other conditions precedent are present. That is a quite different situation from a configuration whose purpose is to provide a functional advantage. Where such a functional purpose exists, the rule is that of Shenango,' namely, that the configuration is not registrable as a trademark. The reason is clear. If a configuration is functional in that sense, then. everyone has the right to use the configuration for its functional purpose, subject only to such exclusive right for a limited time as may exist under the patent laws.\nThat being the law, it follows that if appellant\u2019s figure 8 lock configuration.is functional then it is not registrable as a trademark. It is not a trademark.\nThough in some situations a full trial proceeding, according to inter partes Patent Office trademark practice, would be necessary to provide the evidence essential to a decision as to whether the configuration is or is not functional, the Best patent, issued to appellant\u2019s predecessor-in-interest, disclosing the primary functional significance of appellant\u2019s figure 8 lock configuration here suffices. Summary judgment is a procedure designed to avoid useless trials where there is no genuine issue as to any material fact. Following the rationale of our decision in Shenango, it is clear to us that the Best patent incontro-vertably establishes primary functionality. Summary judgment was therefore correctly granted. In Shenango we indicated that a utility patent is only \u201csome evidence\u201d as to functionality, recognizing that a patent may not be evidence of functionality in regard to things of a \u201cpurely arbitrary\u201d or \u201cmere design\u201d nature which happen to be disclosed in the patent but which are not attributed any functional significance therein. However, as to the Shenango under-rim configuration specifically disclosed in the patent as serving a functional purpose, we stated :\nIt is our view that the expired utility patent Is adequate evidence that the under-rim configuration here sought to be registered is indeed functional.\nand later in the opinion, we concluded that the patent was:\n\u215c \u215c * evidence, here conclusive, that the involved under-rim configuration is indeed functional. [Emphasis added.]\nFollowing that reasoning, we hold that the Best patent, explicitly disclosing the functional advantages to be derived from the figure 8 lock configuration, establishes the proposed mark as being primarily functional as conclusively as did the corresponding statements of functional purpose in the patent involved in Shenango. There is not, therefore, a genuine issue of material fact here, and the Trademark Trial and Appeal Board acted correctly in granting appellee\u2019s motion for summary judgment. The fact that Shenango was not a summary judgment case is beside the point.\nThe decision of the board is affirmed.\nNot reported In the USPQ.\nThe original application drawing, which was objected to, was as follows:\nThis clearly shows the environment in which the mark appears.\nAppellant, in his Answer to the Notice of Opposition, conceded:\n* * * that the trademark for which it seeks registration is not a true numeral 8 in that there is no central junction of the arcuate portion * * *.\nIn re Mogen David, 51 CCPA 1260, 328 F. 2d 925, 140 USPQ 575 (1964). See also In re Mogen David, 54 CCPA 1086, 372 F. 2d 539, 152 USPQ 593 (1967).\nKellogg Co. v. National Biscuit Co., 305 U. S. 111, 119-120 (1938); Alan Wood Steel Co. v. Watson, 150 F. Supp. 861, 113 USPQ 311 [1] (D. D. C. 1957).\nAn interesting and comprehensive review of the history and use of summary judgment as a procedure for improving the administration of justice in the English, Federal and State courts is found in a recent Customs Court decision, Weather-Bite Sportswear Co. v. United States, 62 Cust. Ct. 373, C.D. 3774 (1969).",
+        "type": "majority",
+        "author": "Rich, Acting Ohief Judge,"
+      },
+      {
+        "text": "Baldwin, Judge,\ndissenting.\nA motion for summary judgment may be granted if and only if there is no genuine issue as to any material fact, that is, if the moving party is entitled to prevail strictly as a matter of substantive law. On a motion for summary judgment, the tribunal cannot try issues of fact; it cannot pre-judge the facts by maldng conclusions based on fart of the evidence; it can only determine whether there are any substantial issues of material fact to be tried.\nThe burden is on the moving party to establish that there is no genuine issue as to any material fact and that he is entitled to judgment solely as a matter of substantive law. And the moving party is not entitled to the benefit of favorable factual inferences which may be drawn from his pleadings or moving papers; instead, the matters presented must be construed most favorably to the party opposing the motion. That it may he surmised that the non-moving party is w\u00fcih\u00e9ly to prevail after a full trial is not sufficient to authorize summary judgment against him.\nThus, I feel that summary judgment was erroneously granted since 1 agree with appellant that a genuine issue of material fact exists as to the functionality of the figure 8 configuration, at least to the extent that the functionality is of such nature as to preclude registration, and that appellant is entitled to introduce its evidence relevant to the issue of functionality. The mere magnitude of appellant's burden, which may indeed he quite formidable, to prevail on the merits of this case should not as a matter of law deny appellant his day in court.\nI have no quarrel with the majority\u2019s characterization of the substantive law as to trademark registration of \u201cfunctional\u201d configurations. What troubles me is the majority\u2019s acceptance of a single piece of evidence, the Best patent, as conclusively establishing functionality of such nature as to preclude registration. This, I feel, is error. Perhaps if the only evidence as to functionality were the utility patent after appellant had submitted all of its evidence, as was the case in Shenango, supra, then the utility patent might be \u201csome,\u201d \u201cadequate,\u201d and \u201cconclusive\u201d evidence of functionality of such nature as to preclude registration. However, Shenango is no precedent for holding that the evidentiary value of a patent is so great as to foreclose a party\u2019s efforts to introduce evidence contradictory to the specification of the patent. Since the Best patent is merely one piece of evidence of functionality insofar as this case is concerned, appellant should be given the opportunity to rebut that evidence.\nI would reverse.",
+        "type": "dissent",
+        "author": "Baldwin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Watson Leavenworth Kelton & Taggart, attorneys of record, for appellant. Leslie D. Taggart and Albert Robin, of counsel.",
+      "Leo A. Rossetta, Marcus Lothrop, Lothrop & West for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "413 F. 2d 1195; 162 USPQ 552\nBest Lock Corporation v. Schlage Lock Company\n(No. 8154)\nUnited States Court of Customs and Patent Appeals,\nAugust 14, 1969\nWatson Leavenworth Kelton & Taggart, attorneys of record, for appellant. Leslie D. Taggart and Albert Robin, of counsel.\nLeo A. Rossetta, Marcus Lothrop, Lothrop & West for appellee.\n[Oral argument April 10, 1969 by Mr. Robin and Mr. Rosetta]\nBefore Rich, Acting Ohief Judge, Collins and Neese, Judges, sitting by designation, Almond and Baldwin, Associate Judges.\nPetition for rehearing denied October 23, 1969."
+  },
+  "file_name": "1472-01",
+  "first_page_order": 836,
+  "last_page_order": 842
+}

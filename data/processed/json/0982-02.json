@@ -1,0 +1,89 @@
+{
+  "id": 7866664,
+  "name": "Rita DONNELLY v. MARQUETTE CREDIT UNION",
+  "name_abbreviation": "Donnelly v. Marquette Credit Union",
+  "decision_date": "1994-03-10",
+  "docket_number": "No. 93-349-Appeal",
+  "first_page": "982",
+  "last_page": "983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "639 A.2d 982"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "111 R.I. 453",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3135701
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "458"
+        },
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/111/0453-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 122,
+    "char_count": 1255,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20028329836990497
+    },
+    "sha256": "8e9345bd0750b8cda671c219c33c115befebb5baa79339789a45dce4b6e3f599",
+    "simhash": "1:f7eb6cc21b0725c5",
+    "word_count": 203
+  },
+  "last_updated": "2024-02-27T23:51:19.259815+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rita DONNELLY v. MARQUETTE CREDIT UNION."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before the Supreme Court for oral argument on February 28, 1994, pursuant to an order directing Rita Donnelly, the plaintiff, to show cause why her appeal should not be denied and dismissed. The plaintiff appeals a Superior Court judgment entered on a directed verdict for the defendant.\nThe plaintiff was injured in a fall on a step while exiting Marquette Credit Union (defendant) in Woonsocket and alleged, in her complaint, that defendant\u2019s negligent maintenance of the step caused her injury.\nAfter reviewing the memoranda submitted by the parties and hearing the arguments of counsel, we are of the opinion that cause has not been shown. The trial justice considered the evidence and concluded that the plaintiff failed to meet her burden of proof. Furthermore, plaintiff presented no evidence of the defendant\u2019s negligence nor of the proximate cause of her fall. In such a case, a directed verdict is appropriate. Garris v. Gloss, 111 R.I. 453, 458, 303 A.2d 765, 768 (1973).\nConsequently, we deny and dismiss the plaintiffs appeal and affirm the judgment of the Superior Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Bruce Hodge.",
+      "Kevin Holly, Bennett Gallo."
+    ],
+    "corrections": "",
+    "head_matter": "Rita DONNELLY v. MARQUETTE CREDIT UNION.\nNo. 93-349-Appeal.\nSupreme Court of Rhode Island.\nMarch 10, 1994.\nBruce Hodge.\nKevin Holly, Bennett Gallo."
+  },
+  "file_name": "0982-02",
+  "first_page_order": 1048,
+  "last_page_order": 1049
+}

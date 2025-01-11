@@ -1,0 +1,83 @@
+{
+  "id": 12491015,
+  "name": "STATE of Connecticut v. Jose Ronald JOSEPH",
+  "name_abbreviation": "State v. Joseph",
+  "decision_date": "2017-10-04",
+  "docket_number": "",
+  "first_page": "680",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 680"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 912"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "174 Conn.App. 260",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490259
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/165-2/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 353,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25784746523832086
+    },
+    "sha256": "d0bd8ed508c026e4bddb4a79e077e3c5b2d2e577a21568a9c8e4bbf05db04025",
+    "simhash": "1:3c4ba02a93b357d4",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:34:53.168293+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nJose Ronald JOSEPH"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 174 Conn.App. 260, 165 A.3d 241 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nJose Ronald JOSEPH\nSupreme Court of Connecticut.\nDecided October 4, 2017\nAllison M. Near, assigned counsel, in support of the petition.\nMatthew A. Weiner, assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 174 Conn.App. 260, 165 A.3d 241 (2017), is denied."
+  },
+  "file_name": "0680-03",
+  "first_page_order": 680,
+  "last_page_order": 681
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7943887,
+  "name": "In the Matter of R. J. P.",
+  "name_abbreviation": "In re R. J. P.",
+  "decision_date": "1981-01-05",
+  "docket_number": "No. 80-525-M.P.",
+  "first_page": "86",
+  "last_page": "87",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "425 A.2d 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 557,
+    "ocr_confidence": 0.8,
+    "sha256": "29e96b19038177dff8490f75b90546a58c9e2743b7b9f72958ab2ffe7d7948fe",
+    "simhash": "1:7511795c07c0490c",
+    "word_count": 83
+  },
+  "last_updated": "2023-07-14T22:42:45.131159+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of R. J. P."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nTreating the petition for writ of prohibition as a petition for certiorari, said petition is hereby granted. Petitioner\u2019s application for stay of proceedings in the Family Court is granted until further order of this court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Michael D. Coleman, Child Advocate, Warwick, Patricia Beede, Rhode Island Legal Services, Inc., for plaintiff-respondent.",
+      "John Edward Farley, Chief Legal Counsel, Dept, for Children and Their Families, Providence, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of R. J. P.\nNo. 80-525-M.P.\nSupreme Court of Rhode Island.\nJan. 5, 1981.\nMichael D. Coleman, Child Advocate, Warwick, Patricia Beede, Rhode Island Legal Services, Inc., for plaintiff-respondent.\nJohn Edward Farley, Chief Legal Counsel, Dept, for Children and Their Families, Providence, for defendant-petitioner."
+  },
+  "file_name": "0086-04",
+  "first_page_order": 148,
+  "last_page_order": 149
+}

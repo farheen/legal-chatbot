@@ -1,0 +1,58 @@
+{
+  "id": 12486590,
+  "name": "Com. v. S. Evans",
+  "name_abbreviation": "Com. v. Evans",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 1179 MDA 2015",
+  "first_page": "199",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "a9d31fd54cc4b3576e143e89f9cab6f2f1728bfc7e0f88ac3c7619e8097e0d67",
+    "simhash": "1:1d9b050588a005a4",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Evans"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Evans\nNO. 1179 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nAffirmed."
+  },
+  "file_name": "0199-14",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

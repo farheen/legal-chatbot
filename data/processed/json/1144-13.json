@@ -1,0 +1,58 @@
+{
+  "id": 12488395,
+  "name": "Com. v. Hines, R.",
+  "name_abbreviation": "Com v. Hines",
+  "decision_date": "2016-05-11",
+  "docket_number": "2353 EDA 2015",
+  "first_page": "1144",
+  "last_page": "1144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "37f7bb2ff28f0f5bb81b7c9644f4888518dbe77bc50056a22b142dd924433535",
+    "simhash": "1:15c17553d3a40bf9",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHines, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHines, R.\n2353 EDA 2015\nSuperior Court of Pennsylvania.\nMay 11, 2016\nAffirmed"
+  },
+  "file_name": "1144-13",
+  "first_page_order": 1144,
+  "last_page_order": 1144
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12501945,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Terry Cornelious JONES, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Jones",
+  "decision_date": "2018-09-24",
+  "docket_number": "C-84 September Term 2018; 080835",
+  "first_page": "81",
+  "last_page": "81",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 81"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 378,
+    "sha256": "12bc78558daaf76f8d2aada14080ea69f1a9e0a25c278cbcf19205db10ecf505",
+    "simhash": "1:40e76921d23bffa8",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nTerry Cornelious JONES, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-000296-16 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nTerry Cornelious JONES, Defendant-Petitioner.\nC-84 September Term 2018\n080835\nSupreme Court of New Jersey.\nSeptember 24, 2018\nORDER"
+  },
+  "file_name": "0081-02",
+  "first_page_order": 81,
+  "last_page_order": 81
+}

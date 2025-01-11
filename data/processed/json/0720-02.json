@@ -1,0 +1,58 @@
+{
+  "id": 12501895,
+  "name": "In the INTEREST OF: J.D., a Minor",
+  "name_abbreviation": "In re Interest of J.D.",
+  "decision_date": "2018-07-31",
+  "docket_number": "1026 EDA 2017",
+  "first_page": "720",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 720"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 104,
+    "sha256": "72075be24ad589b7de290cf0ca93bea0b19d04bf55597979155418f7640287f1",
+    "simhash": "1:a19c9686c4d09e40",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the INTEREST OF: J.D., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the INTEREST OF: J.D., a Minor\n1026 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 31, 2018\nAffirmed"
+  },
+  "file_name": "0720-02",
+  "first_page_order": 720,
+  "last_page_order": 720
+}

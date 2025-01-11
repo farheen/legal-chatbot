@@ -1,0 +1,58 @@
+{
+  "id": 12487086,
+  "name": "Commonwealth v. Michael S. Gelsinger",
+  "name_abbreviation": "Commonwealth v. Gelsinger",
+  "decision_date": "2016-08-22",
+  "docket_number": "NO. 290 MAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "83a9a8afb4c1aec00b836decffc94a12507ebec4a2170746ba571695e688eef1",
+    "simhash": "1:fc8e5830908c0bf2",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMichael S. Gelsinger"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMichael S. Gelsinger\nNO. 290 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 22, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-13",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

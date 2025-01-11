@@ -1,0 +1,59 @@
+{
+  "id": 6083267,
+  "name": "In re David Langah",
+  "name_abbreviation": "In re Langah",
+  "decision_date": "1931-11-09",
+  "docket_number": "No. 2799",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 77,
+    "ocr_confidence": 0.531,
+    "sha256": "4d7fbe37632f2e90c42bea5c9d194de7f98a76de74489cef698680fd8a9ad817",
+    "simhash": "1:d08193116b1de893",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David Langah"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in font of type.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "NOVEMBER 9, 1931\nIn re David Langah\n(No. 2799)."
+  },
+  "file_name": "1297-11",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

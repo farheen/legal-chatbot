@@ -1,0 +1,58 @@
+{
+  "id": 12485648,
+  "name": "Commonwealth v. Michael Rudd",
+  "name_abbreviation": "Commonwealth v. Rudd",
+  "decision_date": "2016-06-29",
+  "docket_number": "NO. 69 EAL 2016",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "bff2bfde9318fb8bf755cf3bdeace3f0966369bf7e67d5a4ebea84b2492debab",
+    "simhash": "1:140a527650a01078",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMichael Rudd"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMichael Rudd\nNO. 69 EAL 2016\nSupreme Court of Pennsylvania\nJune 29, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0480-10",
+  "first_page_order": 480,
+  "last_page_order": 480
+}

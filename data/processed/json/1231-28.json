@@ -1,0 +1,58 @@
+{
+  "id": 12488980,
+  "name": "IN RE T.H.",
+  "name_abbreviation": "In re T.H.",
+  "decision_date": "2016-12-16",
+  "docket_number": "16\u2013006",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "3d0c6e718c9313eca95be8cdf422a8a5fe9c08205d51a3e2054ff54cbe49e784",
+    "simhash": "1:48112f50be64f26b",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE T.H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE T.H.\n16-006\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-28",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7965288,
+  "name": "In re MIKLOS",
+  "name_abbreviation": "In re Miklos",
+  "decision_date": "1981-11-25",
+  "docket_number": "No. 81-242-A",
+  "first_page": "1308",
+  "last_page": "1308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 1308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 377,
+    "ocr_confidence": 0.772,
+    "sha256": "1926d8e72582ca8e32c3cb2b13b79bf40d2fcc97f6ae33b431a71ea449ae6993",
+    "simhash": "1:18e3722ddd671052",
+    "word_count": 62
+  },
+  "last_updated": "2023-07-14T16:40:17.451326+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re MIKLOS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nIn light of the circumstances set forth by the respondent, this appeal is hereby reinstated and the respondent is directed to file his brief herein on or before January 11, 1981.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts, II, Atty. Gen., for petitioner.",
+      "Coia & Lepore, Ltd., Albert J. Lepore, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In re MIKLOS.\nNo. 81-242-A.\nSupreme Court of Rhode Island.\nNov. 25, 1981.\nDennis J. Roberts, II, Atty. Gen., for petitioner.\nCoia & Lepore, Ltd., Albert J. Lepore, Providence, for respondent."
+  },
+  "file_name": "1308-02",
+  "first_page_order": 1356,
+  "last_page_order": 1356
+}

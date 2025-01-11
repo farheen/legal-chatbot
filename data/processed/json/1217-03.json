@@ -1,0 +1,98 @@
+{
+  "id": 9004990,
+  "name": "Janice & Robert SAHUTSKY, Petitioner v. MYCHAK, GECKLE & WELKER, P.C., Joseph T. Thiroway and Patrick Geckle, Respondents",
+  "name_abbreviation": "Sahutsky v. Mychak, Geckle & Welker, P.C.",
+  "decision_date": "2005-11-28",
+  "docket_number": "",
+  "first_page": "1217",
+  "last_page": "1218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "887 A.2d 1217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "782 A.2d 996",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706218,
+        9473227,
+        706327,
+        706237,
+        9473214,
+        9473247
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0593-01",
+        "/a2d/782/0996-02",
+        "/pa/566/0593-02",
+        "/pa/566/0592-01",
+        "/a2d/782/0996-01",
+        "/a2d/782/0996-03"
+      ]
+    },
+    {
+      "cite": "566 Pa. 593",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706218,
+        706327
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0593-01",
+        "/pa/566/0593-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 520,
+    "ocr_confidence": 0.645,
+    "sha256": "835addae38b037f1a5ab934d699bdb8552b3fc0d72a033ae02928fcf6389defd",
+    "simhash": "1:f51f43605393e62f",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T18:20:18.888950+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Janice & Robert SAHUTSKY, Petitioner v. MYCHAK, GECKLE & WELKER, P.C., Joseph T. Thiroway and Patrick Geckle, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of November, 2005, the Petition for Allowance of Appeal is GRANTED. The order of the Superior Court is VACATED, and this case is REMANDED to the Superior Court for review; see Sahutsky v. H.H. Knoebel Sons, 566 Pa. 593, 782 A.2d 996 (2001), and the clear mandates of Pa.R.C.P. 3051. Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Janice & Robert SAHUTSKY, Petitioner v. MYCHAK, GECKLE & WELKER, P.C., Joseph T. Thiroway and Patrick Geckle, Respondents.\nSupreme Court of Pennsylvania.\nNov. 28, 2005."
+  },
+  "file_name": "1217-03",
+  "first_page_order": 1251,
+  "last_page_order": 1252
+}

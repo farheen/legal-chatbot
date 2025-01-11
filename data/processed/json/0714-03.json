@@ -1,0 +1,64 @@
+{
+  "id": 12486886,
+  "name": "State of Maryland v. Crenshaw, Mullie D.",
+  "name_abbreviation": "State v. Crenshaw",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 579; Sept. Term, 2015",
+  "first_page": "714",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 714"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 428"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 165,
+    "sha256": "3a4dfcbe7526af2d95b523c6332378cadf330241e32d3d78e21fb877aea715d2",
+    "simhash": "1:056a1a28d858c250",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of Maryland\nv.\nCrenshaw, Mullie D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "State of Maryland\nv.\nCrenshaw, Mullie D.\nPet. Docket No. 579\nSept. Term, 2015\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0714-03",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

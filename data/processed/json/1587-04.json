@@ -1,0 +1,59 @@
+{
+  "id": 6082879,
+  "name": "In re Kurt Schimmelschmidt and Walter Denk",
+  "name_abbreviation": "In re Schimmelschmidt",
+  "decision_date": "1962-10-24",
+  "docket_number": "No. 6926",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 161,
+    "ocr_confidence": 0.446,
+    "sha256": "8cdb8de015819869cef6eac901fc3ce1b64cb6f7411fe7f48a27b92e2e6904b8",
+    "simhash": "1:bec106c6b03ada45",
+    "word_count": 25
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kurt Schimmelschmidt and Walter Denk"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in vinyl phosphonic acid, its derivatives and a process for preparing them.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 24, 1962\nIn re Kurt Schimmelschmidt and Walter Denk\n(No. 6926)."
+  },
+  "file_name": "1587-04",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

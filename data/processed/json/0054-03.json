@@ -1,0 +1,92 @@
+{
+  "id": 8189424,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Earl WILSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wilson",
+  "decision_date": "2008-11-19",
+  "docket_number": "",
+  "first_page": "54",
+  "last_page": "54",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "961 A.2d 54"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "926 A.2d 957",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3556713,
+        8375627
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0557-01",
+        "/a2d/926/0957-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 557",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3556713
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/592/0557-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 482,
+    "ocr_confidence": 0.66,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20129590566863165
+    },
+    "sha256": "a102e611a0bd5a2c15293a90fd9b2be80cdabae54709b1813f5db1edaed9df34",
+    "simhash": "1:9eb7030df54bbfb7",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T23:38:50.006321+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Earl WILSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of November 2008, the Petition for Allowance of Appeal is GRANTED. The issue, rephrased for clarity, is:\nWhether the Superior Court erred and misapply the appellate standard of review set forth in Commonwealth v. Walls, 592 Pa. 557, 926 A.2d 957 (2007) when it vacated the judgment of sentence and remanded for re-sentencing?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Earl WILSON, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 19, 2008."
+  },
+  "file_name": "0054-03",
+  "first_page_order": 100,
+  "last_page_order": 100
+}

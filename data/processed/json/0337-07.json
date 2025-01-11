@@ -1,0 +1,58 @@
+{
+  "id": 12490704,
+  "name": "ROBERTS v. ROBERTS",
+  "name_abbreviation": "Roberts v. Roberts",
+  "decision_date": "2017-06-26",
+  "docket_number": "17\u2013061",
+  "first_page": "337",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 145,
+    "sha256": "70ae321a2fb766dc5c724bf945b4102a96c7f502e71d1ba5ad6c62c9ac483996",
+    "simhash": "1:7c530308ae62da50",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROBERTS\nv.\nROBERTS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ROBERTS\nv.\nROBERTS\n17-061\nSupreme Court of Vermont.\nJune 26, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0337-07",
+  "first_page_order": 337,
+  "last_page_order": 337
+}

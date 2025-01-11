@@ -1,0 +1,156 @@
+{
+  "id": 6092438,
+  "name": "Tristram Allan Taylor, John James MacFarlane, Norman Stephenson and Power Jets (Research and Development) Limited v. Henry A. Ambrose",
+  "name_abbreviation": "Taylor v. Ambrose",
+  "decision_date": "1964-06-11",
+  "docket_number": "No. 7119",
+  "first_page": "1454",
+  "last_page": "1459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 C.C.P.A. 1454"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 U.S.P.Q. 807"
+    },
+    {
+      "type": "parallel",
+      "cite": "332 F.2d 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cust. Ct.",
+    "id": 9324,
+    "name": "United States Customs Court"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "264 F. 2d 907",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6078829,
+        1983359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0805-01",
+        "/f2d/264/0907-01"
+      ]
+    },
+    {
+      "cite": "46 CCPA 805",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078829
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0805-01"
+      ]
+    },
+    {
+      "cite": "118 USPQ 340",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6080727
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/1037-01"
+      ]
+    },
+    {
+      "cite": "256 F. 2d 590",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080727,
+        457135
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/1037-01",
+        "/f2d/256/0590-01"
+      ]
+    },
+    {
+      "cite": "94 USPQ 175",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6080831
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/39-2/1045-01"
+      ]
+    },
+    {
+      "cite": "197 F. 2d 550",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        496746
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/197/0550-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 650,
+    "char_count": 13427,
+    "ocr_confidence": 0.409,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41178115017516465
+    },
+    "sha256": "bf2ae85594e21d65f4d140780b62f1ceac86e6c89d7f27ff838fd1e86b9538e6",
+    "simhash": "1:d7c07c03aed16b27",
+    "word_count": 2133
+  },
+  "last_updated": "2024-02-27T21:50:20.076457+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Woblev, Chief Judge, and Rich, Mast\u00edn, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "Tristram Allan Taylor, John James MacFarlane, Norman Stephenson and Power Jets (Research and Development) Limited v. Henry A. Ambrose"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nThis is an interference involving appellants\u2019 Patent No. 2,781,005 of February 12,1957, issued upon application Serial No. 233,796, filed June 27,1951, and appellee\u2019s application Serial No. 227,108, filed May 18, 1951. Appellants\u2019 application grew out of their British provisional specification No. 16,213 which was filed in Great Britain on June 28, 1950. Appellee copied ten claims from appellants\u2019 patent and those claims constitute the ten counts of this interference.\nAppellee was the senior party upon declaration of the interference, on the basis of his May 1951 filing date. The Primary Examiner, however, granted appellants\u2019 motion to shift the burden of proof, holding that the counts were supported in appellants\u2019 earlier filed British provisional specification, and thus made appellants senior party. No testimony was taken and the interference went to a final hearing on the sole issue of whether appellants were entitled to an award of priority on the basis of their British specification. The Board of Patent Interferences, in its decision following the final hearing, held that appellants\u2019 British specification did not adequately support the counts and, accordingly, awarded priority to appellee.\nThus, the only question presented on the record in this case is whether appellants\u2019 British specification properly supports the counts in interference. We think that it does.\nThe invention of the counts relates to the problem of corrosion which occurs in gas turbine engines when low-grade residual fuel oils are burned. Such fuel oils often contain vanadium compounds which, upon combustion of the oil, decompose to form vanadium pent-oxide. Vanadium pentoxide. has an extremely corrosive effect upon the turbine blades; indeed, such fuels cannot be safely' used unless that effect is inhibited.\nThe parties claim to have solved the problem by employing an additive compound which will preferentially react with the vanadium imr purities and form a stable, noncorrosive compound which will pass through the turbine blades without causing damage- thereto.. The additive may either be introduced directly into the combustion chamber along with the fuel, or mixed with the fuel prior to use in the turbine. The additives, as defined by the counts, may be selected from the group consisting of zinc and magnesium oxides, .and' zinc magnesium compounds which will yield such oxides at temperatures in excess of 650\u00b0C. (which is the lower limit for the temperature of the hot combustion gases as specified in the counts).\n' Since all questions presented by this appeal apply equally to all of the counts, we need consider only a single representative count. Count 4 reads as follows:\n4. In a gas turbine plant in which fuel oil containing vanadium and sulphur is burnt and which includes heat resisting metal parts exposed to the resultant stream of hot combustion gases at a temperature in excess of 650\u00b0 C. and normally liable to be corroded by the vanadium pentoxide content of the ash resulting from combustion of said oil, the method of reducing said corrosion comprising the step of introducing into the plant upstream of said parts a compound yielding at temperatures in excess of 650\u00b0 C. the oxide of a metal selected from the group consisting of magnesium and zinc, the quantity of said compound introduced being such that the molecular ratio of the minimum oxide content thereof to the vanadium pentoxide content of the ash is 3 to 1.\nIt should be noted that all of the counts specify that some sulfur be present in the fuel oil. This limitation arose during the course of prosecution of appellants\u2019 United States application. Appellants\u2019 British specification, filed in June 1950, substantially described the problem and the solution thereto which forms the subject matter of this interference. However, in addition to the zinc and magnesium compounds specified in the present counts, the British specification also disclosed calciwn compounds for the same purpose. Appellants\u2019 United States application, filed within one year after the British specification, disclosed the same additive compounds as the British specification, including calcium; however, because of tests made during the interim period, the United States application included a specific reservation with respect to calcium compounds, thus:\nAlthough from tbe above series of tests, it would appear that a calcium compound would be the most suitable additive from an economic point of view, it is found in practice that certain difficulties arise in the use of this element. Most residual fuel oils also contain a certain amount of sulphur and there is a tendency for the calcium to react with the sulphur to form calcium sulphate in preference to forming a vanadium compound. Hence calcium will only be suitable for use with sulphur free oils, or in eases where some means of removing the sulphur is used. It is found however that zinc and magnesium are not subject to this disadvantage, probably because their sulphates are unstable at the temperatures concerned.\nIn commenting on this reservation concerning the relative effectiveness of calcium compounds when used with sulfur-containing fuel oils, appellants\u2019 brief states:\nAppellants, in their United States application, initially presented claims covering the three types of compounds, namely, calcium, zinc and magnesium. During the course of prosecution, the Examiner cited a reference, namely \u201c \u2018Symposium on Corrosion of Materials at Elevated Temperatures,\u2019 Special Tech. Pub. No. 108 Pub. by American Society for Testing Materials \u2014 Presented June 26, 1950\u201d (R-135 and R-201 to R-289), which disclosed calcium oxide as effective for the purpose of appellants\u2019 invention as claimed, and rejected those claims which included calcium in the Markush grouping under the doctrine of In re Borcherdt et al., 39 C.C.P.A. (Patents) 1045, 197 F. 2d 550, 94 USPQ 175, which at that time, had not been overruled by this Honorable Court as was done in its decision in the case of In re Ruff et al., 45 C.C.P.A. (Patents) 1037, 256 F. 2d 590, 118 USPQ 340. Appellants then modified their claiming of the invention by defining the residual fuel oils as sulfur-containing and by eliminating calcium compounds from the Marlsush group, pointing to that portion of the specification referred to above wherein the zinc and magnesium compounds were shown to be distinct from the calcium compounds. .Thereupon, and substantially immediately, the claim as they appear in appellants\u2019 patent were allowed.\nThus, in appellants\u2019 United States application, a point of distinction was made as between zinc and magnesium compounds on the one hand and calcium compounds on the other, and this point of distinction was not made in appellants\u2019 British specification. Accordingly, the board took the view, and it is also appellee\u2019s position, that the British specification does not contain adequate disclosure to support the counts in issue, since it contains no information with respect to the sulfur limitation of the counts.\nAppellants urge that under our decision in In re Ruff, 45 CCPA 1037, 256 F. 2d 590, 118 USPQ 340, it was unnecessary for them to include the sulfur limitation in the counts and that it would have been sufficient had they merely eliminated the calcium compounds from the group of possible additives as was done. Thus, appellants argue, the sulfur limitation is not \u201ccritical\u201d and the British specification need not contain such a disclosure. We need not, however, consider this argument, for we are of the opinion that the counts are fully and adequately supported by appellants\u2019 British specification, regardless of the \u201ccriticality\u201d of the sulfur limitation.\nThe only limitations of the counts which have been urged by ap-pellee as being absent from appellants\u2019 British specification are those concerning sulfur content and combustion gas temperature (greater than 650\u00b0C.). But, as the Primary Examiner found, in his decision on the motions and again in his decision on reconsideration, these two limitations are inherently present in the British specification. It is noted in this connection that the Board of Patent Interferences did not expressly overrule the examiner\u2019s findings on these points.\nIn appellants\u2019 arguments before the Primary Examiner and before the board, evidence was introduced which, we think, established the inherency of the said limitations in the British specification. This evidence showed that all low-grade residual fuel oils contain sulfur as an inherent impurity as they occur in nature. Commenting on this evidence in his decision on appellants\u2019 motion to shift the burden of proof, the Primary Examiner stated:\n* * * the British Provisional clearly recites that natural and low grade residual fuel oils \u201care the fuels which the party Taylor et al desires to utilize.\u201d \u201cNatural residual fuels\u201d can only be construed to mean those residual products which remain as bottoms from the refining of petroleum crude oils. All such crude oils are known to contain at least a trace of sulphur. Tests such as Saehonen\u2019s The Chemical Constituents of Petroleum, page 865 (Reinhold Publishing.Corporation, New York 1945) substantiate this view. Thus, it is inherent that residual fuel oils will contain sulphur, because such impurities will remain in the residual fuel oil after the refining of the petroleum crude oil. The statement by party Taylor et al that \u201cpractically all, if not, in fact all, petroleum oils contain sulfur\u201d is not considered to be concession as to the lack of sulphur in residual fuel oils, inasmuch as this statement is not necessarily directed to \u201cnatural residual fuels oils\u201d as set forth in the British Provisional or to petroleum crude oils. Certainly, certain petroleum oils which have been highly refined may not contain sulphur, but these oils would not be considered as \u201cnatural residual fuel oils\u201d. Such residual fuel oil will necessarily contain at least traces of sulfur and the Examiner has found no authority to the contrary. Therefore, the limitation as to the sulphur content of residual oil is inherent in the fuel oil disclosed in the British Provisional Specification.\nAccordingly, the limitation, of the counts to sulfur-containing oils was held by the Primary Examiner to be satisfied by appellants\u2019 British provisional specification. We think the examiner was correct in so holding.\nThe evidence also showed that gas turbines operating on low-grade residual fuel oils customarily and normally operate at temperatures of 650\u00b0 C. and above, and that the corrosion problem occurring in the use of such oils becomes a matter of concern at temperatures above 650\u00b0 C. In this regard the examiner commented:\nAlthough the question of operating temperatures was not presented in the party Ambrose brief, it was discussed at the hearing and party Ambrose contended that the temperature of 650\u00b0 C was not disclosed in the Provisional Specification. It is true that the British Provisional does not mention specific operating temperatures, but the environment of the combustion process is recited as being within a gas turbine plant. The normal operating temperature of such plants is above 650\u00b0 C, hence such temperatures are clearly disclosed or inherent in the operation recited by the British Px-ovisional.\nWe are not inclined to disturb the examiners findings as these facts.\nThe board in its decision referred to the vanadium and sulfur limitations as giving \u201clife\u201d to the counts and stated:\n* * * To construe the counts as broadly as Taylor et al. now contend \u2014 that they are supported by the British provisional \u2014 would be a departure from the construction of the counts that was given when they were allowed over the prior art. Manifestly, this construction of the counts by the Examiner, and even by Taylor et al., for that matter, is wholly absent in the British provisional. To attempt to read these counts on the British provisional would render totally meaningless those limitations which give life to the counts.\nWe do not agree that the reference to sulphur-in the counts is what gives them \u201clife.\u201d Bather, it seems to us that the counts must stand or fall on the reference to vanadium and the method and materials for controlling corrosion caused thereby. This concept is what gives \u201clife\u201d to the counts, and we find it fully and adequately set forth in appellants\u2019 British provisional specification. As appellants correctly point out, patentability of a count to an applicant is not a matter which is ancillary to the issue of priority; e.g., Loukomsky v. Gerlich, 46 CCPA 805, 264 F. 2d 907, 121 USPQ 213, and we therefore may not, in this case, consider questions relating to patent-ability, regardless of any' contrary indications which may be implicit in the reasoning of the board. '\nFor the foregoing reasons, the decision of the Board of Patent Interferences is reversed.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "RofirerL. NcwiseZ for-appellants.",
+      "Meyer NeisMoss (Horace B. Coohe, of counsel) for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "332 F. 2d 567; 141 USPQ 807\nTristram Allan Taylor, John James MacFarlane, Norman Stephenson and Power Jets (Research and Development) Limited v. Henry A. Ambrose\n(No. 7119)\nUnited States Court of Customs and Patent Appeals,\nJune 11, 1964\nRofirerL. NcwiseZ for-appellants.\nMeyer NeisMoss (Horace B. Coohe, of counsel) for appellee.\n[Oral argument January 10, 1964, by Mr. Hansel and Mr. Neishloss]\nBefore Woblev, Chief Judge, and Rich, Mast\u00edn, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1454-01",
+  "first_page_order": 774,
+  "last_page_order": 779
+}

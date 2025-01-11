@@ -1,0 +1,95 @@
+{
+  "id": 8001907,
+  "name": "Ronald BELL et al. v. ZONING BOARD OF REVIEW OF the CITY OF EAST PROVIDENCE et al.",
+  "name_abbreviation": "Bell v. Zoning Board of Review",
+  "decision_date": "1979-11-29",
+  "docket_number": "No. 79-142-Appeal",
+  "first_page": "1234",
+  "last_page": "1235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 A.2d 1234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "271 A.2d 210",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3029049,
+        3024654
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0702-01",
+        "/ri/107/0694-01"
+      ]
+    },
+    {
+      "cite": "107 R.I. 702",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3029049
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0702-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 684,
+    "ocr_confidence": 0.813,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20070803355716876
+    },
+    "sha256": "bba4ca740fec8894731ae0b3b9ca611b6c87d17d0d24ed72368e7509fe70b6df",
+    "simhash": "1:5d73e4996140ec36",
+    "word_count": 115
+  },
+  "last_updated": "2024-02-27T22:22:30.140689+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald BELL et al. v. ZONING BOARD OF REVIEW OF the CITY OF EAST PROVIDENCE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case is assigned to the February, 1980 show cause calendar. The plaintiffs are directed to appear and show cause why this appeal should not be dismissed since review of a Superior Court judgment in a zoning case can only be obtained by petition for prerogative writ of certiorari. Bassi v. Zoning Board of Review, 107 R.I. 702, 271 A.2d 210 (1970).\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Anthony E. Grilli, Providence, for plaintiffs.",
+      "Robert R. Nocera, Asst. Sol., East Providence, Joseph B. Carty, Jr., Providence, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald BELL et al. v. ZONING BOARD OF REVIEW OF the CITY OF EAST PROVIDENCE et al.\nNo. 79-142-Appeal.\nSupreme Court of Rhode Island.\nNov. 29, 1979.\nAnthony E. Grilli, Providence, for plaintiffs.\nRobert R. Nocera, Asst. Sol., East Providence, Joseph B. Carty, Jr., Providence, for defendants."
+  },
+  "file_name": "1234-03",
+  "first_page_order": 1288,
+  "last_page_order": 1289
+}

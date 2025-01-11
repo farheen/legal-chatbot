@@ -1,0 +1,83 @@
+{
+  "id": 7945381,
+  "name": "ALLSTATE INSURANCE CO. v. Andrew VACCARO et al.",
+  "name_abbreviation": "Allstate Insurance v. Vaccaro",
+  "decision_date": "1983-05-20",
+  "docket_number": "No. 82-477-Appeal",
+  "first_page": "22",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "460 A.2d 22"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "102 R.I. 8",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3066896
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/102/0008-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1087,
+    "ocr_confidence": 0.764,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20063621469823145
+    },
+    "sha256": "35051581d3db8d45a2bf819fd0b7ef067849f623647c7ef6af70f9ba146b0b27",
+    "simhash": "1:641d74d982d7a46f",
+    "word_count": 174
+  },
+  "last_updated": "2024-02-28T00:06:11.032918+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "REVILACQUA, C.J., and MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "ALLSTATE INSURANCE CO. v. Andrew VACCARO et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court on May 17, 1983 pursuant to an order directed to both parties to show cause why this appeal should not be summarily decided. After hearing the arguments of counsel and examining the memoranda filed, we are of the opinion that the judgment dismissing the plaintiffs complaint pursuant to Super.R.Civ.P. 12(b)(6) was erroneous. The allegations of the complaint clearly raised a question of fact concerning actual notice. Therefore, the necessary predicate for granting of a motion to dismiss was not established. Bragg v. Warwick Shoppers World, Inc., 102 R.I. 8, 227 A.2d 582 (1967). Consequently, the plaintiff\u2019s appeal is sustained, the judgment of the Superior Court is vacated, and the papers in the case may be remanded to the Superior Court for further proceedings.\nREVILACQUA, C.J., and MURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Charles H. Anderson, Providence, for plaintiff.",
+      "Eugene F. Toro, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "ALLSTATE INSURANCE CO. v. Andrew VACCARO et al.\nNo. 82-477-Appeal.\nSupreme Court of Rhode Island.\nMay 20, 1983.\nCharles H. Anderson, Providence, for plaintiff.\nEugene F. Toro, Providence, for defendant."
+  },
+  "file_name": "0022-03",
+  "first_page_order": 82,
+  "last_page_order": 83
+}

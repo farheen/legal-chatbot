@@ -1,0 +1,59 @@
+{
+  "id": 11502666,
+  "name": "In the Matter of Laura Vanderbilt HEISTERKAMP. Petition for Reinstatement",
+  "name_abbreviation": "In re Heisterkamp",
+  "decision_date": "1999-12-28",
+  "docket_number": "No. 917 Disciplinary Docket No. 2",
+  "first_page": "1081",
+  "last_page": "1082",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "742 A.2d 1081"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 571,
+    "ocr_confidence": 0.687,
+    "sha256": "f62d4825fab67110818279bcab68748eee97bbe362267aee1e0bfafc095573c9",
+    "simhash": "1:d83ae5c2b8a16ff4",
+    "word_count": 88
+  },
+  "last_updated": "2023-07-14T16:41:19.502086+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Laura Vanderbilt HEISTERKAMP. Petition for Reinstatement."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 28th day of December, 1999, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated November 3, 1999, the Petition for Reinstatement is granted.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Laura Vanderbilt HEISTERKAMP. Petition for Reinstatement.\nNo. 917 Disciplinary Docket No. 2.\nSupreme Court of Pennsylvania.\nDec. 28, 1999."
+  },
+  "file_name": "1081-03",
+  "first_page_order": 1127,
+  "last_page_order": 1128
+}

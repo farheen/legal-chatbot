@@ -1,0 +1,59 @@
+{
+  "id": 6082456,
+  "name": "In re Tsugio Hamada",
+  "name_abbreviation": "In re Hamada",
+  "decision_date": "1961-06-02",
+  "docket_number": "No. 6807",
+  "first_page": "1156",
+  "last_page": "1156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1156"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 85,
+    "ocr_confidence": 0.47,
+    "sha256": "35359c18ffc79e3cf3ec8a3753eb92c60d775ceadc9299ce54fcf4881d7e4060",
+    "simhash": "1:300086e5c8404063",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Tsugio Hamada"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in sustained action tablet.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 2, 1961\nIn re Tsugio Hamada\n(No. 6807)."
+  },
+  "file_name": "1156-07",
+  "first_page_order": 474,
+  "last_page_order": 474
+}

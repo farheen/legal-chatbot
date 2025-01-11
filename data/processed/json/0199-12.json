@@ -1,0 +1,58 @@
+{
+  "id": 12486588,
+  "name": "Com. v. J. Gore",
+  "name_abbreviation": "Com. v. Gore",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 1103 MDA 2015",
+  "first_page": "199",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 114,
+    "sha256": "5c10609180b6a4719fef50d3a1de9af05c3ae64be6f300e039dd0665994a6af0",
+    "simhash": "1:9d530e4142a09db4",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Gore"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Gore\nNO. 1103 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nRemanded Jurisdiction Retained."
+  },
+  "file_name": "0199-12",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

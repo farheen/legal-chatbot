@@ -1,0 +1,59 @@
+{
+  "id": 8160231,
+  "name": "In re ESTATE OF Robert W. RYERSS, Deceased. Petition of Fox Chase Cancer Center",
+  "name_abbreviation": "In re Estate of Ryerss",
+  "decision_date": "2009-02-26",
+  "docket_number": "No. 7 EM 2009",
+  "first_page": "551",
+  "last_page": "551",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 290,
+    "ocr_confidence": 0.695,
+    "sha256": "70fbbfbafbf13c7ef9473573579fd388cb60b80efd4a8168b736bc5f0dc2d8fe",
+    "simhash": "1:52ad003921c16bf1",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T18:01:30.821331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ESTATE OF Robert W. RYERSS, Deceased. Petition of Fox Chase Cancer Center."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of February, 2009, the \u201cApplication for Extraordinary Relief under King[\u2019]s Bench Jurisdiction\u201d is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF Robert W. RYERSS, Deceased. Petition of Fox Chase Cancer Center.\nNo. 7 EM 2009.\nSupreme Court of Pennsylvania.\nFeb. 26, 2009."
+  },
+  "file_name": "0551-02",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

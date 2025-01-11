@@ -1,0 +1,64 @@
+{
+  "id": 7941932,
+  "name": "STATE v. William TAYLOR",
+  "name_abbreviation": "State v. Taylor",
+  "decision_date": "1980-09-04",
+  "docket_number": "No. 80-286-C.A.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "422 A.2d 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 305,
+    "ocr_confidence": 0.787,
+    "sha256": "2c378390ffb3085355e319153b9cd5080596d6107d64e2b2461982ef8f22f910",
+    "simhash": "1:d1febf519a6805a7",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T20:32:25.157677+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. William TAYLOR."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to supplement the record as prayed is granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff.",
+      "John A. MacFadyen III, Asst. Public Defender, for defendant,"
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. William TAYLOR.\nNo. 80-286-C.A.\nSupreme Court of Rhode Island.\nSept. 4, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff.\nJohn A. MacFadyen III, Asst. Public Defender, for defendant,"
+  },
+  "file_name": "0245-02",
+  "first_page_order": 293,
+  "last_page_order": 293
+}

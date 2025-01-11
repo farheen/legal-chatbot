@@ -1,0 +1,59 @@
+{
+  "id": 12167464,
+  "name": "In re Victor E. DeLucia",
+  "name_abbreviation": "In re DeLucia",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7441",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 50,
+    "ocr_confidence": 0.783,
+    "sha256": "4856dc4dd183e3de5032304277911d04978be05aaf55d1cf4178263abb49c966",
+    "simhash": "1:eb3648b9e91dfc18",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Victor E. DeLucia"
+    ],
+    "opinions": [
+      {
+        "text": "Vacuum relay.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Victor E. DeLucia\n(No. 7441)."
+  },
+  "file_name": "1836-13",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

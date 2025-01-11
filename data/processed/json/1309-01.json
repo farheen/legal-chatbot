@@ -1,0 +1,129 @@
+{
+  "id": 7923635,
+  "name": "Herman EVANS and Julia Evans, Appellants, v. FAMILY SAVINGS AND LOAN ASSOCIATION OF VIRGINIA, Appellee",
+  "name_abbreviation": "Evans v. Family Savings & Loan Ass'n",
+  "decision_date": "1984-09-25",
+  "docket_number": "No. 83-1210",
+  "first_page": "1309",
+  "last_page": "1310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "481 A.2d 1309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "665 F.2d 1072",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        472489,
+        3687019
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1077"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/665/1072-01",
+        "/us-app-dc/214/0254-01"
+      ]
+    },
+    {
+      "cite": "214 U.S.App. D.C. 254",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3687019
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/214/0254-01"
+      ]
+    },
+    {
+      "cite": "328 U.S. 246",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        377064
+      ],
+      "weight": 3,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "251"
+        },
+        {
+          "page": "1099"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/328/0246-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 174,
+    "char_count": 1686,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 7.499004516067405e-08,
+      "percentile": 0.44617002767342806
+    },
+    "sha256": "bdefa4a466d5209ff85442f75367bc849309e7208e0f6143042ee82b51cf11ae",
+    "simhash": "1:a2742377d606153b",
+    "word_count": 283
+  },
+  "last_updated": "2024-02-27T19:44:37.891291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NEBEKER, BELSON, and TERRY, Associate Judges."
+    ],
+    "parties": [
+      "Herman EVANS and Julia Evans, Appellants, v. FAMILY SAVINGS AND LOAN ASSOCIATION OF VIRGINIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nThis is an appeal from the denial of a motion for a preliminary injunction. Appellants sought to enjoin the foreclosure of a second trust on their house, pending the outcome of a suit to rescind the transaction which led to the threatened foreclosure. After the trial court denied the injunction, the foreclosure took place, and the house was sold to a third party who is not before the court. Appellee argues that the sale makes this appeal moot. We agree.\n\u201cIt has long been established that where a defendant with notice in an injunction proceeding completes the acts sought to be enjoined, the court may by mandatory injunction restore the status quo.\u201d Porter v. Lee, 328 U.S. 246, 251, 66 S.Ct. 1096, 1099, 90 L.Ed. 1199 (1946). In this case, however, the status quo cannot be restored. Even if we were to reverse the order denying the injunction, neither this court nor the trial court could set aside the foreclosure sale because the purchaser is not a party to these proceedings. Consequently, the appeal is moot, because there is no way in which we can grant effective relief. See FTC v. Weyerhaeuser Co., 214 U.S.App. D.C. 254, 259, 665 F.2d 1072, 1077 (1981).\nIt is therefore ORDERED that this appeal is dismissed as moot.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Bryan S. Ross, Washington, D.C., for appellants.",
+      "Lisa J. Dessel, Washington, D.C., with whom Kenneth J. Loewinger and Michael E. Brand, Washington, D.C., were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Herman EVANS and Julia Evans, Appellants, v. FAMILY SAVINGS AND LOAN ASSOCIATION OF VIRGINIA, Appellee.\nNo. 83-1210.\nDistrict of Columbia Court of Appeals.\nArgued June 6, 1984.\nDecided Sept. 25, 1984.\nBryan S. Ross, Washington, D.C., for appellants.\nLisa J. Dessel, Washington, D.C., with whom Kenneth J. Loewinger and Michael E. Brand, Washington, D.C., were on the brief, for appellee.\nBefore NEBEKER, BELSON, and TERRY, Associate Judges."
+  },
+  "file_name": "1309-01",
+  "first_page_order": 1369,
+  "last_page_order": 1370
+}

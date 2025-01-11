@@ -1,0 +1,59 @@
+{
+  "id": 6093160,
+  "name": "David Cornell et al. v. Hans-Martin Weitz et al.",
+  "name_abbreviation": "Cornell v. Weitz",
+  "decision_date": "1968-07-11",
+  "docket_number": "No. 8302",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 106,
+    "ocr_confidence": 0.564,
+    "sha256": "45cbc6ff95955fa7836a302483a840cdefedc6117c73e9d8aefdcd75698fa3fa",
+    "simhash": "1:48ff278086729627",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Cornell et al. v. Hans-Martin Weitz et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Extractive separation process.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 11, 1968\nNo. 8302.\nDavid Cornell et al. v. Hans-Martin Weitz et al."
+  },
+  "file_name": "1515-01",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

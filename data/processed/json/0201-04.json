@@ -1,0 +1,58 @@
+{
+  "id": 12486628,
+  "name": "Com. v. L. Velez-Diaz",
+  "name_abbreviation": "Com. v. Velez-Diaz",
+  "decision_date": "2016-03-17",
+  "docket_number": "NO. 725 MDA 2015",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "2451a5774842924a65fb7a55e36dae54dc85a461a60a473c6524f58320afe858",
+    "simhash": "1:678976fc7cef1df1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Velez-Diaz"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Velez-Diaz\nNO. 725 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 17, 2016\nAffirmed."
+  },
+  "file_name": "0201-04",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

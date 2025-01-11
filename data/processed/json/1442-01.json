@@ -1,0 +1,269 @@
+{
+  "id": 12165856,
+  "name": "In re Oldrich K. Sebek and George B. Spero",
+  "name_abbreviation": "In re Sebek",
+  "decision_date": "1965-06-24",
+  "docket_number": "No. 7340",
+  "first_page": "1442",
+  "last_page": "1447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1442"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 632"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "222 F. 2d 267",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        49656,
+        6078794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/222/0267-01",
+        "/ccpa/42-2/0864-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 864",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078794
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0864-01"
+      ]
+    },
+    {
+      "cite": "332 F. 2d 816",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        137338,
+        6092442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/332/0816-01",
+        "/ccpa/51-2/1465-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1465",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1465-01"
+      ]
+    },
+    {
+      "cite": "331 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6092332,
+        132702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01",
+        "/f2d/331/0610-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1271",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092332
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01"
+      ]
+    },
+    {
+      "cite": "188 F. 2d 479",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218440,
+        6084220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/188/0479-01",
+        "/ccpa/38-2/1011-01"
+      ]
+    },
+    {
+      "cite": "38 CCPA 1011",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6084220
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/38-2/1011-01"
+      ]
+    },
+    {
+      "cite": "229 F. 2d 466",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6078178,
+        67187
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0784-01",
+        "/f2d/229/0466-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 784",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078178
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0784-01"
+      ]
+    },
+    {
+      "cite": "166 F. 2d 178",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1201920
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/166/0178-01"
+      ]
+    },
+    {
+      "cite": "35 CCPA 920",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079939
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/35-2/0920-01"
+      ]
+    },
+    {
+      "cite": "9 USPQ 205",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 F. 2d 665",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1832313,
+        6557995
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/48/0665-01",
+        "/ccpa/18-2/1208-01"
+      ]
+    },
+    {
+      "cite": "18 CCPA 1208",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6557995
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/1208-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 583,
+    "char_count": 10808,
+    "ocr_confidence": 0.531,
+    "pagerank": {
+      "raw": 2.621718952502844e-07,
+      "percentile": 0.8214052247833754
+    },
+    "sha256": "004aa795bed78f95297561cdce187ee4adf1806945e8ff51cdb994d1876ea527",
+    "simhash": "1:5dac66cb2719654b",
+    "word_count": 1690
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Oldrich K. Sebek and George B. Spero"
+    ],
+    "opinions": [
+      {
+        "text": "Worley, Chief Judge,\ndelivered the opinion of the court:\nThis appeal is from the decision of the Board of Appeals affirming the rejection of claims 3, 5, 6 and 8-16 of appellants\u2019 patent application, entitled \u201cCompositions.\u201d\nThe application relates to pharmaceutical preparations containing l-dehydro-6a-methylhydrocortisone compounds as active ingredients, and a method of administering those preparations for the treatment of inflammatory conditions. The preparations include certain amounts of the active compound in association with a pharmaceuti-cally acceptable enteral, parenteral or topical carrier. Appellants\u2019 specification states:\nIn harmony with the mode of administration * * *, the composition is prepared by compounding, by conventional methods, the principal active ingredients, with any desired complementary active ingredients and supplementary ingredients.\n*******\nThe said supplementary ingredients are those used in the art of compounding and are dependent upon the type of composition. * * *\nVarious supplementary ingredients, such as diluents, binders, water, alcohol, surfactants, and suspending agents, are said to be suitable as carriers. Claims 3 and 14 are illustrative of the therapeutic use appellants make of their hydrocortisone derivatives:\n3. An enteral pharmaceutical preparation in dosage unit form comprising from about 0.5 to about 20 mg. per dosage unit of a member selected from the group consisting of 1-dehydro-6a-methylhydrocortisone, the 21-acylates thereof wherein the acyl group is that of an organic carboxylic acid containing from one to twelve carbon atoms, inclusive, and the water soluble salts of the acylates and a pharmaceutically-aceeptable enteral carrier.\n14. A method for the treatment of human and veterinary inflammatory conditions comprising the step of administering a pharmaceutical preparation comprising from about 0.5 to about 100 mg. of a member selected from the group consisting of 1-dehydro-6a-methylhydrocortisone, and 21-acylates thereof wherein the acyl group is that of an organic carboxylic acid containing from one to twelve carbon atoms, inclusive, and the water soluble salts of the acylates and a pharmaceutically-acceptable carrier.\nAppellants\u2019 application is a continuation-in-part of their U.S. patent 2,897,218 directed to l-dehydro-6a-methylhydrocortisone (methyl-prednisolone) and esters thereof. Claim I of that patent is of particular pertinence to the issue before us:\n1. A compound of the formula :\nwherein R is selected from the group consisting of 11/3-hydroxy and 11-keto, and wherein R' is selected from the group consisting of hydrogen and acyl, in which the acyl group is of a hydrocarbon carboxylic acid containing from one to twelve carbon atoms, inclusive.\nThe examiner rejected the present claims as unpatentable over the claims of appellants\u2019 patent. He noted that the disclosure of the Sebek patent sets forth as a supporting utility for the compounds claimed therein their use as active ingredients in oral, topical and parenteral compositions for treatment of inflammatory conditions, as well as their use as intermediates in preparation of other steroids. It was his contention that claims directed to one of the uses disclosed in the Sebek patent did not \u201cinvolve invention separate from the invention claimed\u201d in that patent. He relied on In re Byck, 18 CCPA 1208, 48 F. 2d 665, 9 USPQ 205, and In re Freeman, 35 CCPA 920, 166 F. 2d 178, 76 USPQ 585, in support of his position that appellants had but one inventive concept and are not entitled to a second patent.\nThe board approached the problem in a somewhat different manner, saying:\n* * * Each Case must necessarily be decided on the basis of its own particular facts and circumstances. It cannot be said that claims in a second application directed to the use (composition or method) of patented compounds are invariably patentable, nor are such claims necessarily unpatentable. The obviousness or unobviousness of the claimed use (composition or method) must always be considered.\nIn analyzing the instant factual situation, the board said:\n* * * we have no doubt that the compounds of the Sebek et al. patent would bo instantly recognizable by a person of ordinary skill in this art as useful in therapeutic compositions and for therapeutic treatment. The patented compounds are related to hydrocortisone, differing therefrom in the double bond between the 1- and 2-carbons and in the presence of a methyl substituent on the 6-carbon, and are also related to prednisolone, differing therefrom in the presence of a methyl substituent on the 6-carbon. Accordingly, the person of ordinary skill in this art would expect that the patented compounds would be useful in the therapeutic field, like hydrocortisone and prednisolone. The patented compounds are steroids; steroids are commonly used for their therapeutic activity. * * *\nAs seems clear from the views of the examiner and board, \u201cdouble patenting\u201d has been an expression subject to varied interpretations and tests by different people. The examiner seemingly thought that\nbut one and the same invention is present in the Sebek patent and the instant application. The board was of the view the present application claims an invention differing from the already patented invention in obvious, unpatentable particulars. There may well be significant practical differences between the situation where there is one invention twice claimed and a situation where there are two inventions, one unpatentable over the other, but we need not discuss the examiner\u2019s position since the board\u2019s reasoning supports the conclusion that, on this record, appellants are not entitled to a patent containing the appealed claims.\nIn effect, the board has stated that given the particular compounds of the Sebek patent claims, once they have passed into- the hands of the worker in the art, the processes or compositions in which they can be used may or may not be obvious, depending on the nature of the compounds and the knowledge of the prior art. If they are obvious, a patent claiming the compounds secures to the inventor all the protection which legally is his due. Any prolongation of the period of that monopoly by embracing in a second, later-expiring patent obvious processes or compositions utilizing the compound is contrary to wel 1 established principles of law.\nIn asking us to reverse the board\u2019s decision, appellants concede in their brief that \u201can obvious second invention is not patentably distinct and would not merit the grant of a second patent.\u201d It is their position, however, that the claimed therapeutic use of the patented compounds is such an \u201cextraordinary and unpredictable property\u201d of those compounds that it cannot be regarded as obvious from the compound invention. They refer to several journal articles in the record and to other publications presented at oral argument and in their brief as indicative of the unobviousness of the claimed subject matter.\nWe think that one of ordinary skill in the art, upon contemplating the nature of the subject matter of the Sebek patent claims in view of his knowledge that closely related steroid compounds have been combined with pharmaceutically acceptable carriers in a manner similar to that here and administered to treat inflammatory conditions, would find adequate suggestion of the subject matter as a whole which is claimed. Obviousness does not demand absolute certainty on the part of the one of ordinary skill that the new material will be more or less successful in use than the materials known in the prior art.\nWe agree with the board that the cited publications, which extol the virtues of methylprednisolone compositions compared with such cortisone derivatives as hydrocortisone and prednisolone also used to combat inflammatory conditions, are not entirely pertinent to the present issue. Here the double patenting rejection is based on claims to the methylprednisolone compounds themselves. We do not find that literature to establish a patentable distinction between the compounds per se and the compounds in combination with a pharmaceutically acceptable carrier, such as water, the purpose of the carrier being to enable administration of the compounds. Rather, it appears the efficacy of appellants\u2019 compositions containing methylprednisolone and a carrier in therapy is due solely to properties of the active ingredients, properties which we do not find would be unexpected from a consideration of closely analogous steroids. We think it would be obvious to one skilled in the aid to formulate the present compositions from the patented compounds and adapt them to the method of administration claimed.\nThe decision is affirmed.\nSjuith, J., concurs in the result.\nSerial No. 801,692, filed March 25, 1959.\n1-dehydro-6a-methylhydrocortisone is hereafter referred to by its generic name, methyl-prednisolone.\nIssued July 28, 1959, on application Serial No. 623,776, filed November 23, 1956.\nWe agree with that statement, as is apparent from the following decisions of this court:\n\u201c(1) In re Byck, supra, where claims directed to a coil coated with a certain phenolic condensation product were held to be directed to an obvious, unpatentable use of Byck\u2019s previously patented phenolic condensation product, in view of a reference showing coils coated with similar phenolic condensation products.\n\u201c(2) In re Keim et al., 43 CCPA 784, 229 F. 2d 466, 108 USPQ 330, where claims directed to a process of using certain emulsions (containing ketene dimers) to size paper were found to be unobvious over a commonly assigned patent claiming the emulsions per se. We noted in that decision that whether the appealed claims were directed to the only use disclosed in the patent for the composition, or to one of several used (In re Maxwell, 38 CCPA 1011, 188 F. 2d 479, 89 USPQ 387), was immaterial, the test being obviousness of the claimed use.\u201d\nThe Merck Index, 6th Edition (1952) gives the following structural formula for hydrocortisone and indicates its medical use as treatment of inflammatory conditions:\nFor the effect of terminal disclaimers under 35 USC 253 upon the two situations, compare In re Robeson, 51 CCPA 1271, 331 F. 2d 610, 141 USPQ 485, and In re Kaye, 51 CCPA 1465, 332 F. 2d 816, 141 USPQ 829, with In re Siu, 42 CCPA 864, 222 F. 2d 267, 105 USPQ 428.",
+        "type": "majority",
+        "author": "Worley, Chief Judge,"
+      }
+    ],
+    "attorneys": [
+      "Joseph K. Andonian (Eugene O. Retter, of counsel) for appellants.",
+      "Clarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 632; 146 USPQ 44\nIn re Oldrich K. Sebek and George B. Spero\n(No. 7340)\nUnited States Court of Customs and Patent Appeals,\nJune 24, 1965\nJoseph K. Andonian (Eugene O. Retter, of counsel) for appellants.\nClarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents.\n[Oral argument February 2, 1965, by Mr. Andonian and Mr. Martin]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1442-01",
+  "first_page_order": 766,
+  "last_page_order": 771
+}

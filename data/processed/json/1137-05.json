@@ -1,0 +1,58 @@
+{
+  "id": 12488293,
+  "name": "Com. v. Clay, D.",
+  "name_abbreviation": "Com v. Clay",
+  "decision_date": "2016-05-06",
+  "docket_number": "2966 EDA 2014",
+  "first_page": "1137",
+  "last_page": "1137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "63520d475c71a6168b33cc57655c9d6a15d4acf05e523d100dc186820d20eade",
+    "simhash": "1:3c2c76f9548b0bb0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nClay, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nClay, D.\n2966 EDA 2014\nSuperior Court of Pennsylvania.\nMay 6, 2016\nAffirmed"
+  },
+  "file_name": "1137-05",
+  "first_page_order": 1137,
+  "last_page_order": 1137
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12485458,
+  "name": "Michael T. Scott v. State of Maryland",
+  "name_abbreviation": "Scott v. State",
+  "decision_date": "2016-07-12",
+  "docket_number": "No. 165 Sept. Term 2016",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 136"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 Md. 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 127,
+    "sha256": "25e21be3489c8430f96c3c5d3f0468a2a9e7fb8d4ebcfe1a9ecb54d758159e4c",
+    "simhash": "1:021354e0e1c2c0c0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael T. Scott\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael T. Scott\nv.\nState of Maryland\nNo. 165 Sept. Term 2016\nCourt of Appeals of Maryland\nJuly 12, 2016\nDisposition: Denied."
+  },
+  "file_name": "0136-24",
+  "first_page_order": 136,
+  "last_page_order": 136
+}

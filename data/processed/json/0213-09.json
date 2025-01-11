@@ -1,0 +1,58 @@
+{
+  "id": 12486811,
+  "name": "E.R.S. Appeal of: E.R.S.",
+  "name_abbreviation": "C.A.S. v. E.R.S.",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1072 WDA 2015",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 101,
+    "sha256": "1fd9fcce5c59fbfceb11f62663916fc331187d3c37c2c0e9c7e56f3ab1d1f01d",
+    "simhash": "1:9d1d260014018589",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.R.S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.R.S.\nAppeal of: E.R.S.\nNO. 1072 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed."
+  },
+  "file_name": "0213-09",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

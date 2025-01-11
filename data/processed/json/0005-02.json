@@ -1,0 +1,59 @@
+{
+  "id": 7288680,
+  "name": "In re M.T. Petition of E.B.",
+  "name_abbreviation": "In re M.T.",
+  "decision_date": "2010-01-20",
+  "docket_number": "No. 178 EM 2009",
+  "first_page": "5",
+  "last_page": "5",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "989 A.2d 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 188,
+    "ocr_confidence": 0.675,
+    "sha256": "2da56d66ba03ced54b9b7d0d69a6061b087fbef6d55dce92a15a3f3005b66780",
+    "simhash": "1:0c0f7fb2e7450ba3",
+    "word_count": 34
+  },
+  "last_updated": "2023-07-14T16:30:09.590898+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re M.T. Petition of E.B."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of January, 2010, the Application for Relief is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re M.T. Petition of E.B.\nNo. 178 EM 2009.\nSupreme Court of Pennsylvania.\nJan. 20, 2010."
+  },
+  "file_name": "0005-02",
+  "first_page_order": 41,
+  "last_page_order": 41
+}

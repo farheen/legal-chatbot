@@ -1,0 +1,62 @@
+{
+  "id": 7951654,
+  "name": "In the Matter of A. L.",
+  "name_abbreviation": "In re A. L.",
+  "decision_date": "1980-05-30",
+  "docket_number": "No. 80-218-M.P.",
+  "first_page": "309",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 A.2d 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 650,
+    "ocr_confidence": 0.798,
+    "sha256": "4cd56d96182f8b34b006d386cc31aebfb72b8482e8ffd36ea76720038794da8e",
+    "simhash": "1:58994055550f618d",
+    "word_count": 107
+  },
+  "last_updated": "2023-07-14T20:43:12.101807+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of A. L."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is granted and the petitioner is hereby ordered to be released, provided, however, that, prior to his release, petitioner shall be presented to a justice of the Family Court in order that said court may place such reasonable restrictions on petitioner\u2019s liberty pending appeal as it deems appropriate. Such hearing shall take place within 10 days of the date of this order.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Stephen C. Bridge, Asst. Public Defender, for petitioner.",
+      "Paul T. Jones, Jr., Special Counsel, The City of Providence, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of A. L.\nNo. 80-218-M.P.\nSupreme Court of Rhode Island.\nMay 30, 1980.\nStephen C. Bridge, Asst. Public Defender, for petitioner.\nPaul T. Jones, Jr., Special Counsel, The City of Providence, Providence, for respondent."
+  },
+  "file_name": "0309-02",
+  "first_page_order": 357,
+  "last_page_order": 357
+}

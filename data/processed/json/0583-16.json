@@ -1,0 +1,58 @@
+{
+  "id": 12485762,
+  "name": "M.A. v. M.G.",
+  "name_abbreviation": "M.A. v. M.G.",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 965 WDA 2015",
+  "first_page": "583",
+  "last_page": "583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 151,
+    "sha256": "27d3058480a5110ee56fa0c5bf8cb7aa1200059f2b48d6dab022ad80d4f60537",
+    "simhash": "1:bd1cca209accacaa",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.A.\nv.\nM.G."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M.A.\nv.\nM.G.\nNO. 965 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed.\nPetition for reargument denied March 14, 2016."
+  },
+  "file_name": "0583-16",
+  "first_page_order": 583,
+  "last_page_order": 583
+}

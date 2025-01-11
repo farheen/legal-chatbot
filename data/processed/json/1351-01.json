@@ -1,0 +1,312 @@
+{
+  "id": 12166280,
+  "name": "In re Esso Standard Oil Company",
+  "name_abbreviation": "In re Esso Standard Oil Co.",
+  "decision_date": "1962-08-02",
+  "docket_number": "No. 6771",
+  "first_page": "1351",
+  "last_page": "1358",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 C.C.P.A. 1351"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 U.S.P.Q. 402"
+    },
+    {
+      "type": "parallel",
+      "cite": "305 F.2d 495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "280 F. 2d 169",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2017266,
+        6082051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/280/0169-01",
+        "/ccpa/47-2/1156-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 1156",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082051
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/1156-01"
+      ]
+    },
+    {
+      "cite": "204 F. 2d 287",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1268129,
+        6080098
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/204/0287-01",
+        "/ccpa/40-2/0990-01"
+      ]
+    },
+    {
+      "cite": "40 CCPA 990",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080098
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/40-2/0990-01"
+      ]
+    },
+    {
+      "cite": "118 USPQ 7",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "258 F. 2d 151",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        451962
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/258/0151-01"
+      ]
+    },
+    {
+      "cite": "103 App. D.C. 299",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "256 F. 2d 325",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080432,
+        457353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0998-01",
+        "/f2d/256/0325-01"
+      ]
+    },
+    {
+      "cite": "45 CCPA 998",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080432
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0998-01"
+      ]
+    },
+    {
+      "cite": "150 U.S. 460",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3571403
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/150/0460-01"
+      ]
+    },
+    {
+      "cite": "223 F. 2d 950",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080357,
+        53487
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/1048-01",
+        "/f2d/223/0950-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 1048",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080357
+      ],
+      "weight": 2,
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/1048-01"
+      ]
+    },
+    {
+      "cite": "124 USPQ 77",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 F. Supp. 812",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        703315
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/101/0812-01"
+      ]
+    },
+    {
+      "cite": "46 USPQ 39",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 2
+    },
+    {
+      "cite": "112 F. 2d 820",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1026659,
+        6082735
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/112/0820-01",
+        "/ccpa/27-2/1297-01"
+      ]
+    },
+    {
+      "cite": "27 CCPA 1297",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082735
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ccpa/27-2/1297-01"
+      ]
+    },
+    {
+      "cite": "223 F. 2d 950",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080357,
+        53487
+      ],
+      "year": 1955,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ccpa/42-2/1048-01",
+        "/f2d/223/0950-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 1048",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080357
+      ],
+      "weight": 2,
+      "year": 1955,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ccpa/42-2/1048-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 820,
+    "char_count": 18718,
+    "ocr_confidence": 0.513,
+    "pagerank": {
+      "raw": 6.884805146940625e-08,
+      "percentile": 0.4187537574584464
+    },
+    "sha256": "e91e8ce32b41d80e69ff19a65058ba224c3ffd19239b26793a8845b4550c6d58",
+    "simhash": "1:0bcbea2b78421b37",
+    "word_count": 3218
+  },
+  "last_updated": "2024-02-27T21:20:34.387980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, and Smith, Associate Judges, and Judge William H. Kirkpatrick."
+    ],
+    "parties": [
+      "In re Esso Standard Oil Company"
+    ],
+    "opinions": [
+      {
+        "text": "Kick, Judge,\ndelivered the opinion of the court:\nEsso Standard Oil Company appeals from the affirmance by the Trademark Trial and Appeal Board of the denial of registration on the Principal Register of the design features of the label used on its \u201cEsso\u201d motor cleaner (124 USPQ 77), application Ser. No. 19,010, filed November 9, 1956, alleging first use in \u201ccommerce\u201d in January 1950.\nThe Mark\nThe following is a reproduction of the application drawing, which is lined for color according to Patent Office rules:\nWhat it depicts is a development, on a flat surface, of a label background which, in use, is on a cylindrical surface such as that of a 1-quart can of the type in which motor oil is commonly sold in gas stations. Motor cleaner is named in the application but the can used is of the same type as is used for motor oil.\nThus developed and illustrated, the label has four horizontal colored bands, two oval frames, and four little dots. The top band is bright red. The band below it is white. The next band is a narrow red stripe and the bottom band is dark blue. The two oval frames are dark blue, are positioned about 80% in the top red band and 20% in the white band, and are so spaced that they will appear, in use, on opposite sides of the can. Above each oval frame is a small white dot and below each frame, in the white band, is a small red dot.\nIn actual use there is printing on the label. \u201cEsso\u201d appears in each oval frame. Under each frame and above the red dot the name of the product, \u201cMOTOR CLEANER,\u201d appears in large letters. Instructions for use and the like appear on the sides in small print.\nIt is evident that what appellant seeks to register is the appearance of the sidewall of the container for the goods, the design of its total label, apart from the printing which appears thereon which includes its trademark \u201cESSO.\u201d Otherwise stated, the mark sought to be registered may be accurately characterized as background display.\nProceedings Beloio\nThe examiner\u2019s final rejection raised the question whether the subject matter sought to be registered \u201cis a trademark identifying applicant\u2019s goods and distinguishing them from those of others\u201d and stated his negative conclusions that: (1) the mark is \u201cmerely the color scheme\u201d used as a carrying device to display the wording and would be so regarded by purchasers, rather than as a trademark; (2) \u201ccolor alone, unless displayed in a distinct or arbitrary design, does not function as a trademark and when it constitutes merely a background, even though displayed in three colors, it is not recognized as such\u201d; and (3) the mark is not \u201ca means whereby the applicant\u2019s goods \u2018may be\u2019 distinguished from the goods of others.\u201d He held the mark \u201cperforms no trademark function.\u201d\nFollowing this final rejection, appellant caused a limited survey to be made by some college students employed by an attorney to get answers to prepared questions from people they accosted for that purpose in certain communities in northeastern New Jersey. It submitted the evidence thus obtained to the examiner, asking reconsideration. He reaffirmed his position that the mark does not function as a trademark.\nThe board stated the issue to be \u201cwhether the matter presented is a trademark which identifies and distinguished applicant\u2019s goods.\u201d First it concluded that \u201cWithout the poll, applicant clearly cannot prevail.\u201d Having done this, it next considered whether the poll established that the \u201capplicant\u2019s label design has acquired a secondary meaning,\u201d devoting most of its opinion to the latter question and reaching the conclusion that the poll \u201cis not persuasive that the purchasing public in general associates the label design sought to be registered with applicant as an identifying and distinguishing symbol.\u201d\nOpinion\nIn view of our disagreement with the board on the first conclusion it reached, we find it unnecessary to pass on the sufficiency of the evidence to establish \u201csecondary meaning.\u201d Appellant has presented his case on the basis, first, that the mark is registrable as an identifying and distinguishing symbol which purchasers would regard as an indication of source or origin; and, second, that if the court does not agree that such is the case from an examination of the mark, then the survey shows that purchasers in fact do so regard it and distinctiveness has been established as a fact, entitling appellant to registration as contemplated by section2(f), (15U.S.C. 1052(f)).\nWhile we have often said in trademark cases that prior decisions are not very helpful in deciding such matters as likelihood of confusion, descriptiveness, and the like, where we have to render subjective judgments on the basis of comparison of marks or marks and words in common use, we have a different kind of issue here which is whether a certain kind of label design on its face is or is not capable of functioning as a trademark within the contemplation of the Lanham Act. When we have passed on that very issue with respect to a label of the same type which is involved here, we think that such a decision is not only helpful but is controlling.\nIn our judgment we have a controlling precedent in In re Swift & Co., 42 CCPA 1048, 223 F. 2d 950, 106 USPQ, 286 (1955). The mark there, as illustrated in our opinion, was the design portion or background display of a composite mark on a cylindrical can of household cleanser. The mark sought to be registered consisted of the background of a covering label having horizontal bands of color, consisting of, from top to bottom, a narrow red band, a wide white band, a not quite so wide bottom red band. The two red bands were covered with small white dots to produce a polka dot pattern. This court held the mark to be distinctive as a combination of elements making up an arbitrary and distinctive design capable of functioning as a trademark within the so-called definition of trademarks in the Lanham Act, section 45 (15 U.S.C. 1127), and according to the concept of a trademark as stated in Columbia Mill Company v. Alcorn, 150 U.S. 460. We are unable to see how any distinction can be made, in principle, between the Swift case and the instant case. We consider the red, white and blue \u201cESSO\u201d label with its distinctive proportions and arrangement of elements to be inherently distinctive. We therefore disagree with the board\u2019s initial judgment that without the poll applicant clearly cannot prevail. We hold that on its face appellant\u2019s mark is a trademark and is registrable subject matter.\nThe only cases other than its own decisions relied on by the board are In re E. J. Brach & Sons, 45 CCPA 998, 256 F. 2d 325,118 USPQ 308, and Marcalus Manufacturing Co., Inc. v. Watson, 103 App. D.C. 299, 258 F. 2d 151, 118 USPQ 7. In the Brack case, which involved a mark in the form of a four-sided line frame with a sort of flourish at the upper left corner, within which frame the word mark \u201cBrach\u2019s\u201d was displayed in use, we discussed the Swift case, which has not been mentioned by the Patent Office in the instant case, and said:\n* * * it must be made clear that it is not every case in which the background display of a mark is sought to be registered apart from the word mark with which it is associated that secondary meaning must be shown. It is only in those cases where what is sought to be registered is \u201cmere background material\u201d that this holds true. This distinction is important, for this court has approved the registration of background material apart from the word marks with which it is associated, without any proof of secondary meaning of the former. In re Swift & Co. * * * the essential question is whether or not the background material is or is not inherently distinctive. * * * If the background portion is inherently distinctive, no proof of secondary meaning need be introduced; if not, such proof is essential.\nIn the Brack case it was the opinion of the court that the mark sought to be registered \u201cis not itself distinctive.\u201d In the Marcalus case the mark held unregistrable appears to have been merely a maroon oval used as a background for word marks on packages of paper products, the oval being described by the Court of Appeals as \u201ca common basic shape.\u201d This court held a simple oval outline to be not inherently distinctive in In re Hillerich & Bradsby Co., 40 CCPA 990, 204 F. 2d 287, 97 USPQ 451.\nThere has been much discussion in this case of our recent decision in In re Schenectady Varnish Co., Inc., 47 CCPA 1156, 280 F. 2d 169, 126 USPQ 395, wherein we reversed the board after it had rendered its decision herein. We held a background design consisting of a cloud and superposed lightning bolt panel to be registrable. In that case, however, our approach was the reverse of what it is in the present case. We said that since there was sufficient evidence to convince us that the design had become distinctive of appellant\u2019s goods in commerce, it was unnecessary for us to pass on whether the design was intrinsically distinctive. It is not a precedent, therefore, on the latter question. And since we are not here considering the contention of appellant that he proved \u201csecondary meaning\u201d, that is to say acquired, as distinguished from inherent, distinctiveness, the case in irrelevant. In re Swift & Co., supra.\nThe decision of the board is reversed.\nWorley, C.J., concurs in result only.\nIn actual use the bands were red but the application drawing did not indicate any color. The design was held distinctive regardless of particular color.\nWe also held ineffective the attempt to prove that the oval had come to have trademark significance to the \u201cbat conscious public\u201d as indicating the origin of baseball bats. In construing that decision, however, it should not be overlooked that the evidence showed that appellant made bats for other companies and \u201cpermitted\u201d them to use ovals surrounding their word marks so that the mere use of an oval in that manner could not in fact indicate origin.",
+        "type": "majority",
+        "author": "Kick, Judge,"
+      },
+      {
+        "text": "Martin, Judge,\nconcurring:\nAlthough I believe the design at bar is capable of being a trademark, I do not think it is inherently distinctive. However, I feel that sufficient evidence has been introduced to establish that the design has become distinctive of applicant\u2019s goods in commerce.",
+        "type": "concurrence",
+        "author": "Martin, Judge,"
+      },
+      {
+        "text": "Kirkpatrick, Judge,\ndissenting.\nI think that the \u201clabel\u201d which is the subject of this appeal is not a trademark and, therefore, I am compelled to dissent from the majority view which would entitle it to registration. What the applicant seeks to register is the entire appearance of its package (with the exception of the top and bottom of the can which are rarely seen when the cans are stacked for display purposes and which may be disregarded)\u2014in effect, the dress of the goods.\nA clear distinction must be borne in mind between that which enables a customer to recognize goods and that which a customer regards as the identifying mark placed upon goods to indicate their source. The former is not a trademark, the latter is. A trademark is the device or symbol to which the customer looks to authenticate the source of the goods. The customer may be familiar enough with the appearance of the package to be satisfied that it contains the kind of product that he wants to buy, and he may even associate it with the source of the product, but the trademark is what he will look for if he wants to make sure that the product comes from the source which he has in mind and in which he has confidence. In the present case I do not believe that a purchaser will ordinarily accept the red, white and blue bands and ovals as equivalent to the signature of the Standard Oil Company in the ovals, which is what constitutes the trademark.\nI see no reason to disagree with the statement of the majority that the \u201cmark\u201d sought to be registered may be characterized as background display. However, it makes little difference whether the marking on the label be called background display or dress of the goods, or, as the examiner described it, a mere \u201ccolor scheme used by applicant as a carrying device to display the wording.\u201d Whichever it is, it is not a trademark. For a design or, for that matter, for any device or mark to be a trademark, it must not only have been adopted with the intention of making it an indication of origin, but it must be recognized by the purchasing public as such.\nIn In re Burgess Battery Co., 27 CCPA 1297, 112 F. 2d 820, 46 USPQ 39, this court held that a design for a label consisting merely of black and white alternating stripes was mere dress and not registrable, although it gave the package \u201ca distinctive external appearance to appellant\u2019s goods; that it is such distinctive appearance which is recognized by \u2018some\u2019 of the purchasing public as indicating appellant\u2019s goods.\u201d This statement is directly applicable to the situation presented by the present case, it being noted that in each case evidence (consisting in the one case of affidavits and in the other of an ex parte survey) was offered to show that the applicant\u2019s design had acquired a secondary meaning.\nI think that the Burgess Battery case, supra, is still law for this court and that it was not overruled by In re Swift & Co., 42 CCPA 1048, 223 F.2d 950, 106 USPQ 286, (a case which, it is sometimes argued, overruled it). In the Swift case, the court went to some pains to distinguish the case before it from the earlier case, saying, \u201cThe Burgess Battery case, supra, stands for the proposition that that which is only the attractive dress of an article, although it be distinctive in its appearance and sometimes recognized by purchasers as an indication of origin, does not have, as its primary function, an origin-authenticating purpose, and is hence not a trade-mark entitled to federal registration under the statute.\u201d I see no distinction between the Burgess Battery case and the present one, but I can see a possible distinction between those cases and the Swift case in that the label in tbe last named, with its polka dot pattern, is a decidedly more distinctive design than either of the others.\nI do not think that the enactment of the Lanham Act after the Burgess Battery case, but before the Swift case, had anything to do with the latter decision. Although the Lanham Act does not spell out in its definition of the term \u201ctrademark\u201d, found in Section 45, a requirement that the symbol or device must be such as will be recognized by the purchasing public as a trademark, it is obviously not the intention of the Lanham Act to eliminate such fundamental requirement for trademark significance. The statutory definition, in requiring that the mark be adopted and used by a manufacturer or merchant to identify and to distinguish his goods from others, most certainly was referring to their identification and distinction in the marketplace by the purchaser, and this could occur only if the purchasing public accepted the mark as an authentication. Certainly the manufacturer does not adopt a mark for the purpose of enabling himself only to identify and distinguish his own goods.\nThe Lanham Act never intended such a drastic and sweeping change in the law of trademarks as would be caused by the view that acceptance as a trademark by the public is unnecessary. The case of Burgess Battery Co. v. Marzall, 101 F. Supp. 812, was decided after the adoption of the Lanham Act, a fact which the court pointed out, saying, \u201cBecause the 1946 Act did not give a new meaning to a trade-mark, the design cannot be considered a trade-mark now * *\nThe trademark now before the court consists merely of bands of color running around the can with two empty ovals superimposed upon them, the latter being obviously intended as frames for the real trademark, the autograph of the applicant, which in practice always appears upon them, but for which registration is not being asked. I think that the applicant\u2019s color scheme \u201cdoes not have, as its primary function, an origin-authenticating purpose\u201d (Swift), that its \u201coffice * * * is not to point out distinctly the origin or ownership of the articles to which the label is affixed\u201d (Burgess), and that the purchasing public would not accept it as such. Hence, it is not a trademark.\nI would affirm the board\u2019s decision.\nAlthough called a \u201clabel\u201d throughout the entire record, the design, in practice, is not attached to the cans but is painted on them and, hence, not, in the dictionary sense, a label.\nIt is plain that the distinction between recognition and authentication was in the minds of the legislators when they passed the Lanham Act, since in Section 23 it provided for the registration on the supplemental register of labels, packages and configurations of goods. Registration of such material does not appear in any provision relating to the principal register.\nTrademark significance will be assumed provided the mark is not only inherently distinctive but also of such a character that purchasers would take it to be intended as the trademark of the goods and not as mere dress. This rule is modified by the rule of secondary meaning where, though a word or design might not in itself have trademark significance, it is shown by evidence to have been accepted as a trademark by the public.\nThe board held that the poll was \u201cnot persuasive that the purchasing public In general associates the label design sought to be registered with applicant as an identifying and distinguishing symbol,\u201d a conclusion with which I fully agree. I think it should be recognized that a survey or poll conducted ex parte by an interested party, with no possibility of checking by means of cross examination or otherwise, is the weakest sort of evidence.\nWhether, in view of the fact that the court recognized the Burgess design as being distinctive, the cases are really distinguishable on this basis, is not easy to say, but, at any rate, it is plain from reading the Swift opinion that the court did not intend to overrule the Burgess Battery case and did not think that it was doing so.",
+        "type": "dissent",
+        "author": "Kirkpatrick, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Francis C. Browne, Mead, Browne, Schuyler & Beverdige (William E. Schuyler, Jr., and Andrew B. Beveridge, of counsel) for appellant.",
+      "Clarence W. Moore (George C. Roeming, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "305 F. 2d 495; 134 USPQ 402\nIn re Esso Standard Oil Company\n(No. 6771)\nUnited States Court of Customs and Patent Appeals,\nAugust 2, 1962\nFrancis C. Browne, Mead, Browne, Schuyler & Beverdige (William E. Schuyler, Jr., and Andrew B. Beveridge, of counsel) for appellant.\nClarence W. Moore (George C. Roeming, of counsel) for the Commissioner of Patents.\n[Oral argument January 11, 1962, by Mr. Browne and Mr. Roeming]\nBefore Worley, Chief Judge, and Rich, Martin, and Smith, Associate Judges, and Judge William H. Kirkpatrick.\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Judge O'Connell, pursuant to provisions of Section 294(d), Title 28, United States Code."
+  },
+  "file_name": "1351-01",
+  "first_page_order": 677,
+  "last_page_order": 684
+}

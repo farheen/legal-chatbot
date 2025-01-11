@@ -1,0 +1,102 @@
+{
+  "id": 11898235,
+  "name": "Maury A. RYAN v. Wayne A. SALO, et als.",
+  "name_abbreviation": "Ryan v. Salo",
+  "decision_date": "1997-10-24",
+  "docket_number": "No. 97-44-A",
+  "first_page": "1175",
+  "last_page": "1176",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "702 A.2d 1175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "111 R.I. 6",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3137432
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant's acceptance of late car payments entitled plaintiff to demand for payment prior to repossession"
+        },
+        {
+          "parenthetical": "defendant's acceptance of late car payments entitled plaintiff to demand for payment prior to repossession"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/111/0006-01"
+      ]
+    },
+    {
+      "cite": "13 R.I. 562",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        729682
+      ],
+      "year": 1882,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/13/0562-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3818,
+    "ocr_confidence": 0.734,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24399356873701902
+    },
+    "sha256": "46b071fd2903fcca6be027528c37938077809b2568ed8fc93a42bb9026e6e033",
+    "simhash": "1:2eaee5d5f30a24eb",
+    "word_count": 625
+  },
+  "last_updated": "2024-02-27T16:34:52.547203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maury A. RYAN v. Wayne A. SALO, et als."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter is here on the plaintiff\u2019s pro se appeal from a Superior Court order denying his motion to attach and granting the defendants\u2019 motion to recall an execution. After consideration of the prebriefing materials, this case was assigned to the full court for a session in conference in accordance with Rule 12A(3)(b) of the Supreme Court Rules of Appellate Procedure.\nIn this case the plaintiff, an attorney, filed a complaint seeking $21,448.38 with interest on book account for legal services performed. The defendants failed to timely answer the complaint and a default entered. Prior to the entry of a default judgment, the parties entered into an agreement to settle the matter for $12,500. Thereafter, a judgment stipulation entered which provided for the defendants to make payments in four installments to plaintiff. The stipulation also provided that should defendants not adhere to the payment schedule, a judgment in the amount of $22,628.02 would enter and an execution would issue against the defendants.\nThe plaintiff contends on appeal that the first three payments were late. On October 9, 1996 the plaintiff sought to have an execution issue against the defendants for $11,-128.02, which the plaintiff contended was the full amount owed under the judgment. An execution was issued on October 23, 1996. In the interim, the plaintiff received and accepted the final installment. On November 14, 1996 the defendants filed a motion to recall the execution claiming that the four payments were accepted by plaintiff towards the satisfaction of the judgment stipulation. The plaintiff thereafter filed a motion to attach.\nThe hearing justice of the Superior Court denied the plaintiffs motion to attach and granted the defendants\u2019 motion to recall the execution. The plaintiff has asserted that the trial justice erred in denying his motion to attach. He contends that the acceptance of the late payments did not constitute a waiver of his rights because the stipulation provided that payments needed to be timely made. The plaintiff asserts that our holding in Hicks v. Aylsworth, 13 R.I. 562 (1882), supports his position that the phrase \u201ctime is of the essence\u201d should be strictly construed.\nWe disagree with the plaintiffs contentions. In Hicks, the parties entered into an agreement to redeem property which had been conveyed by plaintiff as security for monies lent to a third party. The agreement provided that the estate of plaintiff could either redeem the property or settle for a sum certain within fifteen days. The fifteen days passed and the defendants agreed to renew for a second fifteen days. The property was eventually sold after the estate failed to either redeem or settle pursuant to the agreement. The court held that the extension of time by the defendants was simply a gratuitous oral concession and did not serve to alter the terms of the contract. However, the court noted that the estate had neither tendered nor was able to tender the money required. Unlike the situation in Hicks, the defendant did in fact tender the money owed, albeit late. Moreover, the money was accepted by the plaintiff. By accepting the payments, the plaintiff waived any right to receipt of the full amount of the judgment. Cf. Fontaine v. Industrial Nat. Bank, 111 R.I. 6, 298 A.2d 521 (1973) (defendant\u2019s acceptance of late car payments entitled plaintiff to demand for payment prior to repossession).\nWe have carefully considered the record in this case and the arguments of the appellant, and, for the reasons stated above, we find that the trial justice did not err. Consequently, the plaintiffs appeal is denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Maury A. Ryan, Providence.",
+      "Stephen C. Mackie, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Maury A. RYAN v. Wayne A. SALO, et als.\nNo. 97-44-A.\nSupreme Court of Rhode Island.\nOct. 24, 1997.\nMaury A. Ryan, Providence.\nStephen C. Mackie, Providence."
+  },
+  "file_name": "1175-02",
+  "first_page_order": 1229,
+  "last_page_order": 1230
+}

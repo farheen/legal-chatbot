@@ -1,0 +1,58 @@
+{
+  "id": 12488530,
+  "name": "Com. v. Shearer, M.",
+  "name_abbreviation": "Com v. Shearer",
+  "decision_date": "2016-05-18",
+  "docket_number": "1261 WDA 2015",
+  "first_page": "1152",
+  "last_page": "1152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "f2d58a674967386c6acb0146d1d260c57501b4e3f208ae8e11f76409a29bd02d",
+    "simhash": "1:bc8b44a9e02087e5",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nShearer, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nShearer, M.\n1261 WDA 2015\nSuperior Court of Pennsylvania.\nMay 18, 2016\nQuashed"
+  },
+  "file_name": "1152-07",
+  "first_page_order": 1152,
+  "last_page_order": 1152
+}

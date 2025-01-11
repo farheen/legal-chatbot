@@ -1,0 +1,59 @@
+{
+  "id": 6083026,
+  "name": "In re Bruckner",
+  "name_abbreviation": "In re Bruckner",
+  "decision_date": "1933-01-09",
+  "docket_number": "No. 3076",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 124,
+    "ocr_confidence": 0.538,
+    "sha256": "365793121dfa62a3b73efad7049d37515bba205f304904e1a6843022c3eb1415",
+    "simhash": "1:bf980650d686178e",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Bruckner"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in recuperator combustion engine and method of operating the same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 9, 1933\nIn re Bruckner\n(No. 3076). \u2014"
+  },
+  "file_name": "1227-11",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

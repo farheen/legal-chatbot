@@ -1,0 +1,58 @@
+{
+  "id": 12501519,
+  "name": "ESTATE OF Anna SWARTZ, Deceased",
+  "name_abbreviation": "In re Estate of Swartz",
+  "decision_date": "2018-07-03",
+  "docket_number": "2912 EDA 2017",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 645"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "sha256": "c5b473a1a4ec69cc2ec9dd2de3eaed3db890a82e5c354c53df665f8e2273c7e7",
+    "simhash": "1:275632220549cda8",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ESTATE OF Anna SWARTZ, Deceased"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ESTATE OF Anna SWARTZ, Deceased\n2912 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 3, 2018\nReargument Denied August 1, 2018\nAffirmed"
+  },
+  "file_name": "0645-04",
+  "first_page_order": 645,
+  "last_page_order": 645
+}

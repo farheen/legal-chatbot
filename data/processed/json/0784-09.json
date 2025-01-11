@@ -1,0 +1,58 @@
+{
+  "id": 12487418,
+  "name": "Com. v. M. Shirk",
+  "name_abbreviation": "Com. v. Shirk",
+  "decision_date": "2016-04-18",
+  "docket_number": "NO. 1942 MDA 2014",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 784"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "53ba9c2746ea089ce5275b659eada82a7da6b99190156be7ecf694327bcf724e",
+    "simhash": "1:791f6e6bd6260bc1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Shirk"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Shirk\nNO. 1942 MDA 2014\nSuperior Court of Pennsylvania.\nApril 18, 2016\nAffirmed, Vacated and Remanded."
+  },
+  "file_name": "0784-09",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

@@ -1,0 +1,98 @@
+{
+  "id": 7892735,
+  "name": "STATE of Maine v. Terrence GARRITY",
+  "name_abbreviation": "State v. Garrity",
+  "decision_date": "1988-10-21",
+  "docket_number": "",
+  "first_page": "1389",
+  "last_page": "1390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "548 A.2d 1389"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "526 A.2d 1392",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7928116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/526/1392-01"
+      ]
+    },
+    {
+      "cite": "459 A.2d 1086",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7988593
+      ],
+      "pin_cites": [
+        {
+          "page": "1089"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/459/1086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 117,
+    "char_count": 997,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.200538332543712
+    },
+    "sha256": "659ee608c956dbd3daee5d0784d3b805bfae636ff5bd637852f298f9647c71a0",
+    "simhash": "1:46f8128984f95611",
+    "word_count": 154
+  },
+  "last_updated": "2024-02-27T17:03:38.923649+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J. and WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Terrence GARRITY."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nTerrence Garrity entered a conditional plea of guilty under M.R.Crim.P. 11(a)(2) in the Superior Court (York County; Bro-drick, J.) and now appeals the District Court\u2019s denial (Biddeford; Janelle, J.) of his motion to suppress. We affirm. The police officer who stopped Garrity on suspicion of operating under the influence had, from his own observations and a toll booth exit report, specific and articulable facts sufficient to conclude that a temporary stop was warranted to investigate further. State v. Griffin, 459 A.2d 1086, 1089 (Me.1983); State v. Peaslee, 526 A.2d 1392 (Me.1987).\nThe entry is:\nJUDGMENT AFFIRMED.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Mary C. Tousignant, Dist. Atty., Anne Jordan, Asst. Dist. Atty., Alfred, for plaintiff.",
+      "James G. Boulos, Jr., Biddeford, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Terrence GARRITY.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Sept. 13, 1988.\nDecided Oct. 21, 1988.\nMary C. Tousignant, Dist. Atty., Anne Jordan, Asst. Dist. Atty., Alfred, for plaintiff.\nJames G. Boulos, Jr., Biddeford, for defendant.\nBefore McKUSICK, C.J. and WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+  },
+  "file_name": "1389-02",
+  "first_page_order": 1391,
+  "last_page_order": 1392
+}

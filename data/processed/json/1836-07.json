@@ -1,0 +1,59 @@
+{
+  "id": 12167299,
+  "name": "In re Pierre Mottier",
+  "name_abbreviation": "In re Mottier",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7317",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 7,
+    "char_count": 49,
+    "ocr_confidence": 0.592,
+    "sha256": "16d36ea332c46ef280cf94df4b2af818b50ce41b3cd4381535f7333bc8477e48",
+    "simhash": "1:d5c711eb9e6eae1f",
+    "word_count": 7
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Pierre Mottier"
+    ],
+    "opinions": [
+      {
+        "text": "Acetoacetamide.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Pierre Mottier\n(No. 7317)."
+  },
+  "file_name": "1836-07",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

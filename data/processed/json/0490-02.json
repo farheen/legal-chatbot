@@ -1,0 +1,88 @@
+{
+  "id": 9492375,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Anthony WEST, Respondent",
+  "name_abbreviation": "Commonwealth v. West",
+  "decision_date": "2001-08-17",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "771 A.2d 1232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11105256,
+        124716,
+        124765,
+        124721,
+        11105298,
+        11105213
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "decided May 22, 2001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/771/1232-02",
+        "/pa/565/0092-02",
+        "/pa/565/0092-01",
+        "/pa/565/0091-01",
+        "/a2d/771/1232-03",
+        "/a2d/771/1232-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 471,
+    "ocr_confidence": 0.645,
+    "sha256": "b87cd78d0dcd266c16b16ab8d049c343867657539c1ba50d3c80104e69b6b820",
+    "simhash": "1:eb9dd6af257135a6",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Anthony WEST, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 17th day of August 2001, the petition for allowance of appeal is GRANTED and the order of the superior court is VACATED to the extent that it permits respondent to apply to the trial court for permission to file an appeal nunc pro tunc. See Commonwealth v. Hall, 771 A.2d 1232 (Nos. 1 & 2 MAP 2000)(decided May 22, 2001).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Anthony WEST, Respondent.\nSupreme Court of Pennsylvania.\nAug. 17, 2001."
+  },
+  "file_name": "0490-02",
+  "first_page_order": 532,
+  "last_page_order": 532
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12489873,
+  "name": "COLEMAN v. DEVAN",
+  "name_abbreviation": "Coleman v. Devan",
+  "decision_date": "2017-06-21",
+  "docket_number": "Pet. Docket No. 72, Sept. Term, 2017",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "162 A.3d 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 139,
+    "sha256": "8c0b30caf5f8b553d237d7584cd428ecc24557393cd408db7db980bd3cb49634",
+    "simhash": "1:75e64271961c4711",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.018929+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COLEMAN\nv.\nDEVAN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "COLEMAN\nv.\nDEVAN\nPet. Docket No. 72, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJune 21, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0840-03",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

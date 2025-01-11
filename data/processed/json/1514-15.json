@@ -1,0 +1,59 @@
+{
+  "id": 6093115,
+  "name": "In re Walter J. Bublitz, Jr.",
+  "name_abbreviation": "In re Bublitz",
+  "decision_date": "1968-06-10",
+  "docket_number": "No. 7868",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 72,
+    "ocr_confidence": 0.484,
+    "sha256": "0b2cb17d9d437c5bd3fd4f69296e567aa878d3363924d09c752b8e9b73dfb4d9",
+    "simhash": "1:e40d25cd424750a0",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Walter J. Bublitz, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Record material.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 10, 1968\nNo. 7868.\nIn re Walter J. Bublitz, Jr."
+  },
+  "file_name": "1514-15",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

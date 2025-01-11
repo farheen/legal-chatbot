@@ -1,0 +1,64 @@
+{
+  "id": 12489718,
+  "name": "DYSON, Antoine M. v. STATE of Maryland",
+  "name_abbreviation": "Dyson v. State",
+  "decision_date": "2017-05-22",
+  "docket_number": "Pet. Docket No. 632, Sept. Term, 2016",
+  "first_page": "549",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 A.3d 549"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 164,
+    "sha256": "fab197f37cc029937a9a4d11c068cc8e6bb2007703941f22c036d174383ab3c2",
+    "simhash": "1:036bd640c1c912d5",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.016011+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DYSON, Antoine M.\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "DYSON, Antoine M.\nv.\nSTATE of Maryland\nPet. Docket No. 632, Sept. Term, 2016\nCourt of Appeals of Maryland.\nMay 22, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0549-04",
+  "first_page_order": 549,
+  "last_page_order": 549
+}

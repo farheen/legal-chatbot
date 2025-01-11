@@ -1,0 +1,58 @@
+{
+  "id": 12501576,
+  "name": "COM. v. JIMENEZ, A.",
+  "name_abbreviation": "Com. v. Jimenez",
+  "decision_date": "2018-07-10",
+  "docket_number": "3535 EDA 2017",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 657"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "f0e1ab1bcfa7f91b5720a3840049c8f071bedfe77eb56262e426bfaf8fca71a5",
+    "simhash": "1:97c41ab384699d8c",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nJIMENEZ, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nJIMENEZ, A.\n3535 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 10, 2018\nAffirmed"
+  },
+  "file_name": "0657-04",
+  "first_page_order": 657,
+  "last_page_order": 657
+}

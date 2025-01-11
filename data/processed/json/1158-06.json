@@ -1,0 +1,58 @@
+{
+  "id": 12488619,
+  "name": "Com. v. Bacon, T.",
+  "name_abbreviation": "Com v. Bacon",
+  "decision_date": "2016-05-24",
+  "docket_number": "1541 MDA 2015",
+  "first_page": "1158",
+  "last_page": "1158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "35ef6e814dd9dd91b148bb0f82063bbbc8b69b1f776344aae7609085967afd53",
+    "simhash": "1:0d1737f9cfb205b5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBacon, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBacon, T.\n1541 MDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1158-06",
+  "first_page_order": 1158,
+  "last_page_order": 1158
+}

@@ -1,0 +1,92 @@
+{
+  "id": 9240027,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Jose HERNANDEZ, Respondent",
+  "name_abbreviation": "Commonwealth v. Hernandez",
+  "decision_date": "2004-05-13",
+  "docket_number": "",
+  "first_page": "833",
+  "last_page": "834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "851 A.2d 833"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "837 A.2d 1157",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630434,
+        9303762
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0500-01",
+        "/a2d/837/1157-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 500",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630434
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 383,
+    "ocr_confidence": 0.802,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21579134536415057
+    },
+    "sha256": "24895a9982a04f2e2f254c874190cacfe20967fc0dd5867d832ea4d1239a978c",
+    "simhash": "1:6d8b430a78cb98f0",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T17:22:24.795530+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Jose HERNANDEZ, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of May, 2004, the Petition for Allowance of Appeal is hereby GRANTED. The Superior Court's judgment is VACATED and Respondent's PCRA petition is hereby DISMISSED. Commonwealth v. Robinson, 575 Pa. 500, 837 A.2d 1157 (2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Jose HERNANDEZ, Respondent.\nSupreme Court of Pennsylvania.\nMay 13, 2004."
+  },
+  "file_name": "0833-03",
+  "first_page_order": 875,
+  "last_page_order": 876
+}

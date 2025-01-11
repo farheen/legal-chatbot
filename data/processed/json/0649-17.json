@@ -1,0 +1,58 @@
+{
+  "id": 12489635,
+  "name": "STATE v. CONVARD",
+  "name_abbreviation": "State v. Convard",
+  "decision_date": "2017-01-10",
+  "docket_number": "16\u2013418",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "0ab70c2c1b406d977b63917dea5fad66095fd8897ab2e5fa56c642f18cb3cbb4",
+    "simhash": "1:f0351f00cdac4241",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nCONVARD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nCONVARD\n16-418\nSupreme Court of Vermont.\nJanuary 10, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0649-17",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

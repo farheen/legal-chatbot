@@ -1,0 +1,58 @@
+{
+  "id": 12485872,
+  "name": "Com. v. D. Alderman",
+  "name_abbreviation": "Com. v. Alderman",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 830 WDA 2015",
+  "first_page": "590",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "48efe13983007b6f8ce81261ff0554d441ec4751944b6373cb3181df0715a04f",
+    "simhash": "1:b159592a70688cc5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Alderman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Alderman\nNO. 830 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0590-13",
+  "first_page_order": 590,
+  "last_page_order": 590
+}

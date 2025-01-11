@@ -1,0 +1,58 @@
+{
+  "id": 12490531,
+  "name": "LOWER PAXTON TOWNSHIP v. UCBR",
+  "name_abbreviation": "Lower Paxton Twp. v. Ucbr",
+  "decision_date": "2017-04-03",
+  "docket_number": "857 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "25c3a1160fcba2ff9876b8fb31fcc42cb71043569939ec2db657391fb17fa8e3",
+    "simhash": "1:3c29f7b1c7ed564a",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LOWER PAXTON TOWNSHIP\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LOWER PAXTON TOWNSHIP\nv.\nUCBR\n857 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 3, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-07",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

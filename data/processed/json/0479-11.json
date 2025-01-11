@@ -1,0 +1,58 @@
+{
+  "id": 12485626,
+  "name": "Commonwealth v. Jerone Leggett",
+  "name_abbreviation": "Commonwealth v. Leggett",
+  "decision_date": "2016-06-28",
+  "docket_number": "NO. 81 EAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "98e46de1954b40c38e7b75f63a62e0ddb181d0bf93d6e5caafc35be993835ca2",
+    "simhash": "1:1487462c08021068",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJerone Leggett"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJerone Leggett\nNO. 81 EAL 2016\nSupreme Court of Pennsylvania\nJune 28, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-11",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

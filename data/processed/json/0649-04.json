@@ -1,0 +1,58 @@
+{
+  "id": 12489643,
+  "name": "IN RE CAVETT",
+  "name_abbreviation": "In re Cavett",
+  "decision_date": "2017-01-30",
+  "docket_number": "16\u2013055",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "b8d45908ab6e249f37bc086d8524b0c3a2136ac67d4602933e8ab5df70331b9c",
+    "simhash": "1:8c356e00e1c012c0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE CAVETT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE CAVETT\n16-055\nSupreme Court of Vermont.\nJanuary 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0649-04",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

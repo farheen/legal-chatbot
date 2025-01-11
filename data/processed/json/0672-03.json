@@ -1,0 +1,59 @@
+{
+  "id": 9262515,
+  "name": "In the Matter of John R. AXTELL",
+  "name_abbreviation": "In re Axtell",
+  "decision_date": "2004-04-20",
+  "docket_number": "",
+  "first_page": "672",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "847 A.2d 672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 758,
+    "ocr_confidence": 0.677,
+    "sha256": "5db0a0aa18e2f1553d70da8ccf55e561159b0456d263efff238c1b0603a0b65d",
+    "simhash": "1:50b925ec9483de7d",
+    "word_count": 127
+  },
+  "last_updated": "2023-07-14T18:04:24.353945+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of John R. AXTELL."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 20th day of April, 2004, The Report and Recommendations of The Disciplinary Board of the Supreme Court of Pennsylvania dated March 15, 2004, are approved and IT IS ORDERED that JOHN R. AXTELL, who has been on inactive status, has never been suspended or disbarred, and has demonstrated that he has the moral qualifications, competency and learning in law required for admission to practice in the Commonwealth, shall be and is, hereby reinstated to active status as a member of the Bar of this Commonwealth. The expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement shall be paid by the Petitioner.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of John R. AXTELL.\nSupreme Court of Pennsylvania.\nApril 20, 2004."
+  },
+  "file_name": "0672-03",
+  "first_page_order": 720,
+  "last_page_order": 721
+}

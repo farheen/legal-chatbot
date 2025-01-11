@@ -1,0 +1,64 @@
+{
+  "id": 7943876,
+  "name": "STATE v. Vincent GIORDANO",
+  "name_abbreviation": "State v. Giordano",
+  "decision_date": "1979-12-28",
+  "docket_number": "No. 79-296-C.A.",
+  "first_page": "254",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 254"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 319,
+    "ocr_confidence": 0.726,
+    "sha256": "362fd45ec1138a51ec6825f0277f64081273a310c5629f56e8d26caa7b53956e",
+    "simhash": "1:11ee03933ccf5c55",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Vincent GIORDANO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Faith A. LaSalle, Special Asst. Atty. Gen., for plaintiff-respondent.",
+      "Vincent Giordano, petitioner, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Vincent GIORDANO.\nNo. 79-296-C.A.\nSupreme Court of Rhode Island.\nDec. 28, 1979.\nDennis J. Roberts II, Atty. Gen., Faith A. LaSalle, Special Asst. Atty. Gen., for plaintiff-respondent.\nVincent Giordano, petitioner, pro se."
+  },
+  "file_name": "0254-03",
+  "first_page_order": 310,
+  "last_page_order": 310
+}

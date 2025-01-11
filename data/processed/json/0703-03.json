@@ -1,0 +1,59 @@
+{
+  "id": 11884683,
+  "name": "In the Matter of James H. MONTGOMERY, Jr.",
+  "name_abbreviation": "In re Montgomery",
+  "decision_date": "1997-11-21",
+  "docket_number": "No. 764 Disciplinary Docket No. 2",
+  "first_page": "703",
+  "last_page": "703",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "703 A.2d 703"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 540,
+    "ocr_confidence": 0.719,
+    "sha256": "d34524fb4645a9cd4228b40d08e77caea30357853f5af5e164291f2476b51a53",
+    "simhash": "1:d86ac4efd183ff74",
+    "word_count": 86
+  },
+  "last_updated": "2023-07-14T16:06:23.639127+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of James H. MONTGOMERY, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 21st day of November, 1997, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated September 25, 1997, the Petition for Reinstatement is granted.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of James H. MONTGOMERY, Jr.\nNo. 764 Disciplinary Docket No. 2.\nSupreme Court of Pennsylvania.\nNov. 21, 1997."
+  },
+  "file_name": "0703-03",
+  "first_page_order": 757,
+  "last_page_order": 757
+}

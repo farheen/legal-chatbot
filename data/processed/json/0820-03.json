@@ -1,0 +1,64 @@
+{
+  "id": 12488160,
+  "name": "BROWN, Antonio L. v. STATE of Maryland, et al.",
+  "name_abbreviation": "Brown v. State",
+  "decision_date": "2016-12-15",
+  "docket_number": "Pet. Docket No. 443, Sept. Term, 2016",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 174,
+    "sha256": "a9a5c6cf37022371a6a348b54939454b3dc4253b6d074090ad3b939745481eca",
+    "simhash": "1:28de1e70b1cc0e50",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BROWN, Antonio L.\nv.\nSTATE of Maryland, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BROWN, Antonio L.\nv.\nSTATE of Maryland, et al.\nPet. Docket No. 443, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 15, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0820-03",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

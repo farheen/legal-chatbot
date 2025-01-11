@@ -1,0 +1,59 @@
+{
+  "id": 6082192,
+  "name": "In re Vernal A. Anderson",
+  "name_abbreviation": "In re Anderson",
+  "decision_date": "1960-11-02",
+  "docket_number": "No. 6595",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 93,
+    "ocr_confidence": 0.433,
+    "sha256": "f0aeb358666f6afc3c3eeb9b2d583bdd4559d1157ed53250c2c4e7138b57d570",
+    "simhash": "1:cbb5081d91f38efa",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Vernal A. Anderson"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in valve device for fluid pressure system.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Vernal A. Anderson\n(No. 6595)."
+  },
+  "file_name": "1155-07",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

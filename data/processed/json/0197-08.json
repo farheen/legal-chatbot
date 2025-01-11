@@ -1,0 +1,58 @@
+{
+  "id": 12486567,
+  "name": "Com. v. M. Vega-Alvarado",
+  "name_abbreviation": "Com. v. Vega-Alvarado",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 1615 MDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "08e39445f5a34f8f8da1ab2a4a386f321a2c2699b68b1ecdabf1db7ab77b343d",
+    "simhash": "1:a59d7cde5ba205a4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Vega-Alvarado"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Vega-Alvarado\nNO. 1615 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0197-08",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

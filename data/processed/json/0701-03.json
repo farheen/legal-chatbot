@@ -1,0 +1,58 @@
+{
+  "id": 12501793,
+  "name": "COM. v. KERICK, T.",
+  "name_abbreviation": "Com. v. Kerick",
+  "decision_date": "2018-07-23",
+  "docket_number": "3738 EDA 2017",
+  "first_page": "701",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "842522d4760c489472d31fefb223267221bf6273cef9ba31a0749a4a48ef5e0f",
+    "simhash": "1:3cd606b9a5d09b46",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nKERICK, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nKERICK, T.\n3738 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 23, 2018\nAffirmed"
+  },
+  "file_name": "0701-03",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

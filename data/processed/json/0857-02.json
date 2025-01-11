@@ -1,0 +1,74 @@
+{
+  "id": 8473194,
+  "name": "J & J LUXURY TRANSPORTATION, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent",
+  "name_abbreviation": "J & J Luxury Transportation v. Unemployment Compensation Board of Review",
+  "decision_date": "2006-07-26",
+  "docket_number": "No. 883 MAL 2004",
+  "first_page": "857",
+  "last_page": "857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "904 A.2d 857"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "892 A.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5653587,
+        8988703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0196-01",
+        "/a2d/892/0781-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 479,
+    "ocr_confidence": 0.677,
+    "sha256": "621efdc4234a72199c01fc3ddc7d05c8899f9b9f98a1fb1abe2386c44c52f4f2",
+    "simhash": "1:75bbeb6506a0beb4",
+    "word_count": 77
+  },
+  "last_updated": "2024-02-27T18:52:39.880868+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J & J LUXURY TRANSPORTATION, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of July, 2006, the Petition for Allowance of Appeal is hereby GRANTED, the Order of the Commonwealth Court is VACATED, and the matter is remanded to that court for reconsideration in light of Danielle Viktor, Ltd. v. Department of Labor and Industry, 892 A.2d 781 (Pa.2005).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J & J LUXURY TRANSPORTATION, Petitioner, v. UNEMPLOYMENT COMPENSATION BOARD OF REVIEW, Respondent.\nNo. 883 MAL 2004.\nSupreme Court of Pennsylvania.\nJuly 26, 2006."
+  },
+  "file_name": "0857-02",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

@@ -1,0 +1,92 @@
+{
+  "id": 8354499,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Georgianna HAWKINS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hawkins",
+  "decision_date": "2007-06-21",
+  "docket_number": "",
+  "first_page": "629",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 611,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20287186627482914
+    },
+    "sha256": "ea850c6f302c182652f78e78f85458695a2cc2eb3a6db63f3d3d2c49a7bfe48a",
+    "simhash": "1:551c8fa2abd72d58",
+    "word_count": 100
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Georgianna HAWKINS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of June, 2007, the Petition for Allowance of Appeal is hereby GRANTED, and the Order of the Superior Court is REVERSED. See Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95 (2007). The issue, as stated by Petitioner, is:\nDid the Superior Court err as a matter of law when it reversed the learned trial judge, the Honorable Lillian H. Ransom[,] who for good and valid legal reasons refused to apply a minimum mandatory sentence upon [Petitioner]?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Georgianna HAWKINS, Petitioner.\nSupreme Court of Pennsylvania.\nJune 21, 2007."
+  },
+  "file_name": "0629-02",
+  "first_page_order": 677,
+  "last_page_order": 677
+}

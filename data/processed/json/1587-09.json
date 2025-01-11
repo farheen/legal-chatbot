@@ -1,0 +1,59 @@
+{
+  "id": 6082957,
+  "name": "In re Erik Lom and Selfrid Ohlund",
+  "name_abbreviation": "In re Lom",
+  "decision_date": "1962-12-03",
+  "docket_number": "No. 6866",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 178,
+    "ocr_confidence": 0.438,
+    "sha256": "80cf3fb8371c5a46b853edc5e2a28c0f903f163777fed89a8fb3d8ba27f210c7",
+    "simhash": "1:d6348a22458880d0",
+    "word_count": 28
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Erik Lom and Selfrid Ohlund"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in\nincandescent lamps with heat sensitive element for shunting a portion of the incandescent filament.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 3, 1962\nIn re Erik Lom and Selfrid Ohlund\n(No. 6866)."
+  },
+  "file_name": "1587-09",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

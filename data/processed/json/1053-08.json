@@ -1,0 +1,59 @@
+{
+  "id": 6081025,
+  "name": "In re Franklin",
+  "name_abbreviation": "In re Franklin",
+  "decision_date": "1958-03-06",
+  "docket_number": "No. 6353",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1053"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 84,
+    "ocr_confidence": 0.422,
+    "sha256": "f4ce32fcf4d2098206736ef3a2a9cc71b40e760f0567dce384068e23493c47c4",
+    "simhash": "1:0920300d500b359e",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Franklin"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in dressmaker\u2019s pattern gauge.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 6, 1958\nIn re Franklin\n(No. 6353)."
+  },
+  "file_name": "1053-08",
+  "first_page_order": 383,
+  "last_page_order": 383
+}

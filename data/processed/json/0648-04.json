@@ -1,0 +1,58 @@
+{
+  "id": 12501533,
+  "name": "COM. v. LEE, R., IV",
+  "name_abbreviation": "Com. v. Lee",
+  "decision_date": "2018-07-05",
+  "docket_number": "1870 MDA 2017",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 89,
+    "sha256": "3fe5b68aeb1cf936dd75eeb009c8a114b18d1eadada64c661c47619f4397881e",
+    "simhash": "1:0d947432adbb8fb5",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nLEE, R., IV"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nLEE, R., IV\n1870 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 5, 2018\nAffirmed"
+  },
+  "file_name": "0648-04",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

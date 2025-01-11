@@ -1,0 +1,83 @@
+{
+  "id": 12490862,
+  "name": "Margaret ROBINSON v. Donald J. ROBINSON",
+  "name_abbreviation": "Robinson v. Robinson",
+  "decision_date": "2017-09-13",
+  "docket_number": "",
+  "first_page": "233",
+  "last_page": "233",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 233"
+    },
+    {
+      "type": "parallel",
+      "cite": "326 Conn. 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "172 Conn.App. 393",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489694
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/160-2/0376-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 294,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25784032196471685
+    },
+    "sha256": "2750fa4084c80c80f26cd2970df444476000606bd604720532d409f6e749cafb",
+    "simhash": "1:a493ed3e8132657d",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Margaret ROBINSON\nv.\nDonald J. ROBINSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 172 Conn.App. 393, 160 A.3d 376 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Margaret ROBINSON\nv.\nDonald J. ROBINSON\nSupreme Court of Connecticut.\nDecided September 13, 2017\nDonald J. Robinson, self-represented, in support of the petition.\nThe defendant's petition for certification to appeal from the Appellate Court, 172 Conn.App. 393, 160 A.3d 376 (2017), is denied."
+  },
+  "file_name": "0233-02",
+  "first_page_order": 233,
+  "last_page_order": 233
+}

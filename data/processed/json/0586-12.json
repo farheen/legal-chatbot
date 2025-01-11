@@ -1,0 +1,58 @@
+{
+  "id": 12485808,
+  "name": "Com. v. T. Baxter",
+  "name_abbreviation": "Com. v. Baxter",
+  "decision_date": "2016-02-03",
+  "docket_number": "NO. 465 WDA 2014",
+  "first_page": "586",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "9235229be25c4205a5c86624c20ce2a723b492275571eca5ac72d950cf01559e",
+    "simhash": "1:f844de82ca9b3ac4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Baxter"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Baxter\nNO. 465 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 03, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0586-12",
+  "first_page_order": 586,
+  "last_page_order": 586
+}

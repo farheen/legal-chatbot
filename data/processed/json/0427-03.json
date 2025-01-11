@@ -1,0 +1,89 @@
+{
+  "id": 7965620,
+  "name": "CHARIHO REGIONAL DISTRICT SCHOOL COMMITTEE v. CHARIHO TEACHERS ASSOCIATION (two cases)",
+  "name_abbreviation": "Chariho Regional District School Committee v. Chariho Teachers Ass'n",
+  "decision_date": "1981-04-30",
+  "docket_number": "Nos. 81-131-M.P., 81-132-M.P.",
+  "first_page": "427",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "431 A.2d 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "115 R.I. 332",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3118516
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "350"
+        },
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/115/0332-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 105,
+    "char_count": 928,
+    "ocr_confidence": 0.801,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20066131268656975
+    },
+    "sha256": "0c17385b142b61428c397f1e667cf008f7beec0aa3f06426073e7e887f9c8830",
+    "simhash": "1:57d1e6ec0d06bd22",
+    "word_count": 136
+  },
+  "last_updated": "2024-02-27T16:40:55.943561+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CHARIHO REGIONAL DISTRICT SCHOOL COMMITTEE v. CHARIHO TEACHERS ASSOCIATION (two cases)."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThese are two consolidated petitions for certiorari in which the petitioner seeks review of two individual awards by an arbitrator.\nAfter considering the arguments and memoranda, we are of the opinion that the petitioner has failed to demonstrate what adverse consequences will result from implementation of the awards pending a hearing on any motion to vacate in the Superior Court. Cf. Belanger v. Matteson, 115 R.I. 332, 350, 346 A.2d 124, 135 (1975).\nAccordingly, both petitions for certiorari are denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Breslin & Sweeney, David F. Sweeney, John G. Earle, Warwick, for petitioner.",
+      "Urso, Liguori & Urso, Thomas J. Liguori, Jr., Westerly, Boyer, Reynolds & DeMarco, Anthony F. DeMarco, Providence, for Catherine Hargreaves, Amicus Curiae."
+    ],
+    "corrections": "",
+    "head_matter": "CHARIHO REGIONAL DISTRICT SCHOOL COMMITTEE v. CHARIHO TEACHERS ASSOCIATION (two cases).\nNos. 81-131-M.P., 81-132-M.P.\nSupreme Court of Rhode Island.\nApril 30, 1981.\nBreslin & Sweeney, David F. Sweeney, John G. Earle, Warwick, for petitioner.\nUrso, Liguori & Urso, Thomas J. Liguori, Jr., Westerly, Boyer, Reynolds & DeMarco, Anthony F. DeMarco, Providence, for Catherine Hargreaves, Amicus Curiae."
+  },
+  "file_name": "0427-03",
+  "first_page_order": 470,
+  "last_page_order": 471
+}

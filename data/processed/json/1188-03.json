@@ -1,0 +1,75 @@
+{
+  "id": 7282970,
+  "name": "Francisco MOJICA, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee",
+  "name_abbreviation": "Mojica v. Pennsylvania Department of Probation & Parole",
+  "decision_date": "2011-05-24",
+  "docket_number": "No. 70 EAP 2010",
+  "first_page": "1188",
+  "last_page": "1189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 A.3d 1188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 A.3d 1178",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4202969,
+        7282738
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0394-01",
+        "/a3d/20/1178-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 344,
+    "ocr_confidence": 0.668,
+    "sha256": "890e4a4b6d3ac172c98afe1325ff4b14644265653bae95df7e30231f8774c093",
+    "simhash": "1:558a5af767a195fb",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T20:04:28.646963+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francisco MOJICA, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of May, 2011, the order of the Commonwealth Court is AFFIRMED. See Poulson v. Pennsylva nia Bd. of Probation and Parole, \u2014 Pa. -, 20 A.3d 1178 (2011).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Francisco MOJICA, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee.\nNo. 70 EAP 2010.\nSupreme Court of Pennsylvania.\nMay 24, 2011."
+  },
+  "file_name": "1188-03",
+  "first_page_order": 1226,
+  "last_page_order": 1227
+}

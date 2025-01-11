@@ -1,0 +1,64 @@
+{
+  "id": 12489447,
+  "name": "JONES, Cleveland v. STATE of Maryland",
+  "name_abbreviation": "Jones v. State",
+  "decision_date": "2017-04-21",
+  "docket_number": "Pet. Docket No. 623, Sept. Term, 2016",
+  "first_page": "816",
+  "last_page": "816",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 816"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 537"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 162,
+    "sha256": "0ff38f74a6a1a225705861099c8d173e7058e1c944d14f115c2ced3ebd6094d6",
+    "simhash": "1:88e24474c2cd1193",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONES, Cleveland\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "JONES, Cleveland\nv.\nSTATE of Maryland\nPet. Docket No. 623, Sept. Term, 2016\nCourt of Appeals of Maryland.\nApril 21, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0816-04",
+  "first_page_order": 816,
+  "last_page_order": 816
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12485587,
+  "name": "State v. Troy Cooper",
+  "name_abbreviation": "State v. Cooper",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-953 SEPT. TERM 2015, 077225",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 120,
+    "sha256": "f8d7f74b1556e71ee4a2047f5ff885931c9f87e6c318c89e504a4adb2e557ff5",
+    "simhash": "1:726c6442bc014dbd",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nTroy Cooper"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nTroy Cooper\nNOS. C-953 SEPT. TERM 2015, 077225\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-30",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

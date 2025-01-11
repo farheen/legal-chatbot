@@ -1,0 +1,59 @@
+{
+  "id": 12168073,
+  "name": "In re Voltron Products, Inc.",
+  "name_abbreviation": "In re Voltron Products, Inc.",
+  "decision_date": "1965-05-14",
+  "docket_number": "No. 7276",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "ocr_confidence": 0.586,
+    "sha256": "ac28d7482e18f90ef8bbb1785fc978662dae78db67d4009a248e1ab716a5a91c",
+    "simhash": "1:9cf15d2a6b176088",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Voltron Products, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Trademark for electrical apparatus, namely, meter relays, expanded scale meter relays, etc.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 14, 1965\nIn re Voltron Products, Inc.\n(No. 7276)."
+  },
+  "file_name": "1839-03",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

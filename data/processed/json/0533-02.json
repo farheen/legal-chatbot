@@ -1,0 +1,97 @@
+{
+  "id": 11348366,
+  "name": "In the Matter of John A. SCUNGIO",
+  "name_abbreviation": "In re Scungio",
+  "decision_date": "2002-09-18",
+  "docket_number": "No. 2000-414 M.P.",
+  "first_page": "533",
+  "last_page": "534",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "806 A.2d 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "255 F.3d 11",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11084743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/255/0011-01"
+      ]
+    },
+    {
+      "cite": "762 A.2d 1205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11162799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/762/1205-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 2085,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23994391178790733
+    },
+    "sha256": "d38ece1a2d5d72140611eb5e0c543620a72e266e73178d44bc610384d1f45eef",
+    "simhash": "1:6c23fa848ee78e23",
+    "word_count": 341
+  },
+  "last_updated": "2024-02-27T18:57:54.731760+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of John A. SCUNGIO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis disciplinary matter is before the Court pursuant to a motion of the Respondent, John A. Scungio, for Reconsideration and/or Rehearing. On December 12, 2000, the Respondent was disbarred from the practice of law after his felony conviction of one count of making materially false statements and representations to special agents of the Federal Bureau of Investigation (F.B.I.), in violation of 18 U.S.C. \u00a7 1001. In re Scungio, 762 A.2d 1205 (R.I.2000). At the time Respondent was before this Court he had been sentenced to a three-year term of probation, with the first six months of probation to be served in home confinement; fined $40,000; and ordered to pay a $100 special assessment. We noted that Respondent had a pending appeal regarding the terms of his sentence only, and that the results of that appeal would not affect the validity of his conviction. Id, at 1205, Footnote 1.\nOn July 6, 2001 the First Circuit Court of Appeals vacated the Respondent\u2019s sentence and remanded the case for the imposition of a new sentence. United States v. Scungio, 255 F.3d 11 (1st Cir.2001).\nOn October 25, 2001, pursuant to the remand order, an Amended Judgment in a Criminal Case was imposed by the United States District Court. The Respondent was again placed on probation for a term of three years, with home confinement restrictions for the first six months (which period has been served). He was ordered to pay a reduced fine of $5,000, and required to pay the $100 special assessment.\nIn his motion the Respondent asserts that the amended sentence constitutes a substantial change in circumstances as the re-sentencing was based on a different analysis of the nature of the Respondent\u2019s conduct. After review of the submissions of the Respondent and the reply memorandum submitted by Disciplinary Counsel, we deem that Respondent\u2019s motion lacks merit.\nAccordingly, the Motion for Reconsideration and/or Rehearing is hereby denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "David P. Curtin.",
+      "John Tramonti, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of John A. SCUNGIO.\nNo. 2000-414 M.P.\nSupreme Court of Rhode Island.\nSept. 18, 2002.\nDavid P. Curtin.\nJohn Tramonti, Providence."
+  },
+  "file_name": "0533-02",
+  "first_page_order": 587,
+  "last_page_order": 588
+}

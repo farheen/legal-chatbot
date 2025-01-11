@@ -1,0 +1,84 @@
+{
+  "id": 7366691,
+  "name": "Rita VAZ v. Ernest BASTIEN",
+  "name_abbreviation": "Vaz v. Bastien",
+  "decision_date": "1991-12-12",
+  "docket_number": "No. 91-223-Appeal",
+  "first_page": "1363",
+  "last_page": "1364",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "599 A.2d 1363"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "542 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868934
+      ],
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/542/0232-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 125,
+    "char_count": 1356,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1895241768921663
+    },
+    "sha256": "cc52449f5aac4b2dc781735708845b6eb9bcabf0a5147cbd2d4c332be3388681",
+    "simhash": "1:852740e99ac7c5c9",
+    "word_count": 224
+  },
+  "last_updated": "2024-02-27T19:43:55.847245+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rita VAZ v. Ernest BASTIEN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before court for oral argument on December 6, 1991. The plaintiff, Rita Vaz, was ordered to show cause why her appeal from a Superior Court order granting the motion of the defendant, Ernest Bastien, for directed verdict should not be summarily denied and dismissed.\nAfter considering the arguments and memoranda of counsel, we are of the opinion that cause has not been shown. In reviewing a lower court decision granting a motion for a directed verdict this court is bound by the same standards that govern the trial justice. The evidence must be reviewed in the light most favorable for the nonmoving party without consideration of the weight of the evidence or the credibility of the witnesses. If there is evidence that supports the nonmoving party or upon which reasonable minds could differ, the motion should be denied. Margodonna v. Otis Elevator Co., 542 A.2d 232, 234 (R.I.1988).\nA review of the record shows that there is no evidence that the defendant was under any obligation to repair the premises, and that there was no theory of law under which plaintiff could bring her claim. Accordingly the appeal of the plaintiff is denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Mark Buben, Providence, for plaintiff.",
+      "Michael DeLuca, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Rita VAZ v. Ernest BASTIEN.\nNo. 91-223-Appeal.\nSupreme Court of Rhode Island.\nDec. 12, 1991.\nMark Buben, Providence, for plaintiff.\nMichael DeLuca, Providence, for defendant."
+  },
+  "file_name": "1363-02",
+  "first_page_order": 1431,
+  "last_page_order": 1432
+}

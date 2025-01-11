@@ -1,0 +1,59 @@
+{
+  "id": 6087999,
+  "name": "In re Kurt Fischer, et al.",
+  "name_abbreviation": "In re Fischer",
+  "decision_date": "1967-09-01",
+  "docket_number": "No. 8178",
+  "first_page": "1639",
+  "last_page": "1639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 67,
+    "ocr_confidence": 0.493,
+    "sha256": "72e4a01180d66a28770a158513b2ab0f01c808a615bea5728b59c63657c6c0af",
+    "simhash": "1:2dc1dbd1b12cc278",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kurt Fischer, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Electronic Selection Circuit.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8178.\nIn re Kurt Fischer, et al."
+  },
+  "file_name": "1639-09",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

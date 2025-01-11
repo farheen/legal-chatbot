@@ -1,0 +1,58 @@
+{
+  "id": 12487340,
+  "name": "Com. v. R. Yeager",
+  "name_abbreviation": "Com. v. Yeager",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 1097 MDA 2015",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "bf41707a590a180c12cf52fa691e896efae454f846e96bdbdaa7e6b373309773",
+    "simhash": "1:a003654078b80101",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Yeager"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Yeager\nNO. 1097 MDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0779-14",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

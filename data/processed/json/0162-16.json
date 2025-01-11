@@ -1,0 +1,58 @@
+{
+  "id": 12486925,
+  "name": "Commonwealth v. Aaron Evans",
+  "name_abbreviation": "Commonwealth v. Evans",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 128 EAL (2016)",
+  "first_page": "162",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 133,
+    "sha256": "d1445164521568ea40e81f18b35c829c4187eae93a0112e63eb74ba2adfe506a",
+    "simhash": "1:9dae51bc82e3882c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAaron Evans"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAaron Evans\nNO. 128 EAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0162-16",
+  "first_page_order": 162,
+  "last_page_order": 162
+}

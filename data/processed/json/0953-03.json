@@ -1,0 +1,59 @@
+{
+  "id": 9099334,
+  "name": "In the Matter of Stephen E. SOKOLIC",
+  "name_abbreviation": "In re Sokolic",
+  "decision_date": "2003-07-30",
+  "docket_number": "No. 519 Disciplinary Docket No. 3",
+  "first_page": "953",
+  "last_page": "954",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "830 A.2d 953"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 525,
+    "ocr_confidence": 0.679,
+    "sha256": "dea911842406178a108eff3570ec87f7fbca8a493c26456d82b4ba6aa900d6bf",
+    "simhash": "1:d82bc6c2c181de70",
+    "word_count": 85
+  },
+  "last_updated": "2023-07-14T18:24:26.404666+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Stephen E. SOKOLIC."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 30th day of July, 2003, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated May 23, 2003, the Petition for Reinstatement is GRANTED.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Stephen E. SOKOLIC.\nNo. 519 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJuly 30, 2003."
+  },
+  "file_name": "0953-03",
+  "first_page_order": 1001,
+  "last_page_order": 1002
+}

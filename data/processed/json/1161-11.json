@@ -1,0 +1,58 @@
+{
+  "id": 12488655,
+  "name": "Com. v. Howell, A.",
+  "name_abbreviation": "Com v. Howell",
+  "decision_date": "2016-05-27",
+  "docket_number": "1454 MDA 20153",
+  "first_page": "1161",
+  "last_page": "1161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "514a10e62f903d176b5994e33f0003d7e19bedc110c405a4958203dd59c00e02",
+    "simhash": "1:af9b30fbd7a307a5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHowell, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHowell, A.\n1454 MDA 20153\nSuperior Court of Pennsylvania.\nMay 27, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1161-11",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

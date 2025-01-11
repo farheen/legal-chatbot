@@ -1,0 +1,64 @@
+{
+  "id": 7975425,
+  "name": "STATE of Rhode Island v. John INFANTALINO",
+  "name_abbreviation": "State v. Infantalino",
+  "decision_date": "1980-06-20",
+  "docket_number": "No. 80-258-M.P.",
+  "first_page": "856",
+  "last_page": "857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 A.2d 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 727,
+    "ocr_confidence": 0.786,
+    "sha256": "1ec0dae5d58cd9750b17a523b291842e049493a969e141959d8e1af0c9f13f85",
+    "simhash": "1:7fa607f1ecc5be6e",
+    "word_count": 118
+  },
+  "last_updated": "2023-07-14T20:43:12.101807+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., did not participate."
+    ],
+    "parties": [
+      "STATE of Rhode Island v. John INFANTALINO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came on to be heard before this court and upon the recommendation of the Attorney General and the fact that the defendant is presently on work release from the Adult Correctional Institution, bail is set in the amount of Thirty-five Thousand ($35,000) Dollars, with surety. Said bail shall run to the Superior Court. This matter is remanded to the Superior Court with direction to accept bail in the above amount.\nBEVILACQUA, C. J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin, III, Spec. Asst. Atty. Gen., for plaintiff.",
+      "Joseph A. Bevilacqua, Jr., Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Rhode Island v. John INFANTALINO.\nNo. 80-258-M.P.\nSupreme Court of Rhode Island.\nJune 20, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin, III, Spec. Asst. Atty. Gen., for plaintiff.\nJoseph A. Bevilacqua, Jr., Providence, for defendant."
+  },
+  "file_name": "0856-04",
+  "first_page_order": 904,
+  "last_page_order": 905
+}

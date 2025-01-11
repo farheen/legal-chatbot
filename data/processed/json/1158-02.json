@@ -1,0 +1,78 @@
+{
+  "id": 7297751,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Michael ALBERTA, Petitioner",
+  "name_abbreviation": "Commonwealth v. Alberta",
+  "decision_date": "2009-06-17",
+  "docket_number": "Nos. 178 & 179 MM 2008",
+  "first_page": "1158",
+  "last_page": "1159",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "974 A.2d 1158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "386 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182629
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0738-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 162,
+    "char_count": 2047,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883941882325958
+    },
+    "sha256": "cef44f51ed5096e1c78f897800323fa0a2be069ef60540148fbe97aabc01d4ee",
+    "simhash": "1:c59f52bd228415fb",
+    "word_count": 325
+  },
+  "last_updated": "2024-02-27T23:04:11.439902+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Michael ALBERTA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of June, 2009, the \u201cMotion for Appointment of Counsel,\u201d which is treated as an Application for Relief, is DENIED.\nPetitioner pled guilty but mentally ill in the Court of Common Pleas of Berks County to theft from a motor vehicle and other offenses, and was sentenced to an aggregate term of six to twenty-four months\u2019 imprisonment and a consecutive term of five years\u2019 probation. Petitioner appealed. Before the Superior Court, Petitioner\u2019s court-appointed counsel requested leave to withdraw per Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967) and filed an Anders brief. The Superior Court determined that the appeal was frivolous, granted counsel leave to withdraw, and affirmed the orders of the trial court. See 1494 and 1495 MDA 2007 (order dated 6/02/2008).\nPetitioner then filed a \u201cMotion for Appointment of Counsel,\u201d which is treated as an Application for Relief, asking this Court to appoint new counsel for purposes of preparing a Petition for Allowance of Appeal.\nAppointed counsel who has complied with Anders and is permitted to withdraw discharges the direct appeal obligations of counsel. Once counsel is granted leave to withdraw per Anders, a necessary consequence of that decision is that the right to appointed counsel is at an end. Appointing new counsel would be in conflict with the purpose of Anders which is to balance the constitutional rights to appeal and to counsel on appeal against the prohibition against frivolous appeals. Furthermore, Rule 122 of the Rules of Criminal Procedure does not provide that subsequent counsel should be appointed in the wake of the Superior Court granting counsel leave to withdraw per Anders. Accordingly, as Petitioner is not entitled to appointment of subsequent counsel following the Superior Court granting his counsel leave to withdraw, under Anders, we deny this Motion.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Michael ALBERTA, Petitioner.\nNos. 178 & 179 MM 2008.\nSupreme Court of Pennsylvania.\nJune 17, 2009."
+  },
+  "file_name": "1158-02",
+  "first_page_order": 1200,
+  "last_page_order": 1201
+}

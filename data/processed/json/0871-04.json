@@ -1,0 +1,92 @@
+{
+  "id": 7290197,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Howard W. CALLOWAY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Calloway",
+  "decision_date": "2010-04-26",
+  "docket_number": "",
+  "first_page": "871",
+  "last_page": "872",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "993 A.2d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "981 A.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196398,
+        7294054
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0046-01",
+        "/a2d/981/0902-01"
+      ]
+    },
+    {
+      "cite": "603 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4196398
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 551,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18830982037948932
+    },
+    "sha256": "1b8d8ffd91d69cccc9f32f7a0d7a2bcaacf342b3e640bff2280302206ea82f3d",
+    "simhash": "1:53ae229ffd6faf36",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T20:22:06.604896+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Howard W. CALLOWAY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of April, 2010, the Petition for Allowance of Appeal is GRANTED. The Superior Court\u2019s Order is REVERSED, and Petitioner\u2019s judgment of sentence is VACATED. The matter is REMANDED to the trial court for resen-tencing pursuant to this Court\u2019s decision in Commonwealth v. Haag, 603 Pa. 46, 981 A.2d 902 (2009).\nPetitioner\u2019s Motion to Consolidate Petitions for Allowance of Appeal is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Howard W. CALLOWAY, Petitioner.\nSupreme Court of Pennsylvania.\nApril 26, 2010."
+  },
+  "file_name": "0871-04",
+  "first_page_order": 899,
+  "last_page_order": 900
+}

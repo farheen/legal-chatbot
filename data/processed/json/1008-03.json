@@ -1,0 +1,83 @@
+{
+  "id": 12489073,
+  "name": "VILLAGE APARTMENTS, LLC v. Stanley P. WARD, Jr., et al.",
+  "name_abbreviation": "Vill. Apartments, LLC v. Ward",
+  "decision_date": "2017-02-01",
+  "docket_number": "",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 A.3d 1008"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 918"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn. App. 653",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488929
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/152-2/0076-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 321,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25777680474807607
+    },
+    "sha256": "69690b05bdd2f0593226287507f3418b6d5180b39340c7b899568685ee8e1b63",
+    "simhash": "1:b49d1da48fa027b1",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T16:27:35.256947+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VILLAGE APARTMENTS, LLC\nv.\nStanley P. WARD, Jr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiff's petition for certification for appeal from the Appellate Court, 169 Conn. App. 653, 152 A.3d 76 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "VILLAGE APARTMENTS, LLC\nv.\nStanley P. WARD, Jr., et al.\nSupreme Court of Connecticut.\nDecided February 1, 2017\nMatthew G. Berger, in support of the petition.\nGaron Camassar, in opposition.\nThe plaintiff's petition for certification for appeal from the Appellate Court, 169 Conn. App. 653, 152 A.3d 76 (2016), is denied."
+  },
+  "file_name": "1008-03",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12489539,
+  "name": "STATE v. DOW",
+  "name_abbreviation": "State v. Dow",
+  "decision_date": "2017-03-24",
+  "docket_number": "16\u2013232",
+  "first_page": "1097",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1097"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "17d3929b183a03576745ab126fc26b5994a5923bccc0df46693143cba5a0a8c1",
+    "simhash": "1:98502f502841d805",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nDOW"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nDOW\n16-232\nSupreme Court of Vermont.\nMarch 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1097-10",
+  "first_page_order": 1097,
+  "last_page_order": 1097
+}

@@ -1,0 +1,59 @@
+{
+  "id": 8159938,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. William PIERCE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Pierce",
+  "decision_date": "2009-02-18",
+  "docket_number": "",
+  "first_page": "549",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 549"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 285,
+    "ocr_confidence": 0.718,
+    "sha256": "1d99c02f1c09e52cc92da34219a2c26478b37caaaf443033031400c7a7b227c5",
+    "simhash": "1:dd2d053585b3add3",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T18:01:30.821331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. William PIERCE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of February, 2009, the Petition for Allowance of Appeal is hereby DENIED. Counsel\u2019s request for leave to withdraw is granted.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. William PIERCE, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 18, 2009."
+  },
+  "file_name": "0549-02",
+  "first_page_order": 583,
+  "last_page_order": 583
+}

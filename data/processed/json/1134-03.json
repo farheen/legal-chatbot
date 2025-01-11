@@ -1,0 +1,710 @@
+{
+  "id": 7922755,
+  "name": "John D. O'CONNELL, Appellant, v. MARYLAND STEEL ERECTORS, INC., et al., Appellees",
+  "name_abbreviation": "O'Connell v. Maryland Steel Erectors, Inc.",
+  "decision_date": "1985-07-05",
+  "docket_number": "No. 82-1486",
+  "first_page": "1134",
+  "last_page": "1145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "495 A.2d 1134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 24310,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "D.C. Code \u00a7 49-301",
+      "category": "laws:leg_statute",
+      "reporter": "D.C. Code",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "p. 23"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 L.Ed.2d 487",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 1261",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "460 U.S. 1016",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225569,
+        6225828,
+        6226639,
+        6226351,
+        6226959,
+        6227230,
+        6226079
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/460/1016-01",
+        "/us/460/1016-02",
+        "/us/460/1016-05",
+        "/us/460/1016-04",
+        "/us/460/1016-06",
+        "/us/460/1016-07",
+        "/us/460/1016-03"
+      ]
+    },
+    {
+      "cite": "445 A.2d 960",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8002870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/445/0960-01"
+      ]
+    },
+    {
+      "cite": "442 A.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944408
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/442/0110-01"
+      ]
+    },
+    {
+      "cite": "126 F.2d 521",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1081505,
+        3557935
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/126/0521-01"
+      ]
+    },
+    {
+      "cite": "75 U.S.App.D.C. 230",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3557935
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "45 Stat. 600",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 2827",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6210644
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0925-01"
+      ]
+    },
+    {
+      "cite": "717 F.2d 574",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11957156
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/717/0574-01"
+      ]
+    },
+    {
+      "cite": "230 U.S.App.D.C. 297",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3788251
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "309"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/230/0297-01"
+      ]
+    },
+    {
+      "cite": "389 A.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8024977
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/389/0781-01"
+      ]
+    },
+    {
+      "cite": "374 A.2d 573",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8002796
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/374/0573-01"
+      ]
+    },
+    {
+      "cite": "618 F.2d 1037",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1380758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/618/1037-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 933",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 U.S.C. \u00a7 109",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 A.2d 462",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7953870
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/466/0462-01"
+      ]
+    },
+    {
+      "cite": "D.C. Code \u00a7\u00a7 36-301",
+      "category": "laws:leg_statute",
+      "reporter": "D.C. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "D.C. Code \u00a7\u00a7 36-501",
+      "category": "laws:leg_statute",
+      "reporter": "D.C. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 U.S. 340",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925976
+      ],
+      "weight": 3,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "346"
+        },
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/260/0340-01"
+      ]
+    },
+    {
+      "cite": "98 Stat. 1639",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 U.S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12052851
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "295"
+        },
+        {
+          "page": "1038"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0286-01"
+      ]
+    },
+    {
+      "cite": "525 F.Supp. 671",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5625763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/525/0671-01"
+      ]
+    },
+    {
+      "cite": "526 F.Supp. 459",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5628743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/526/0459-01"
+      ]
+    },
+    {
+      "cite": "457 A.2d 1102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7998892
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/457/1102-01"
+      ]
+    },
+    {
+      "cite": "348 F.2d 298",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        857589
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/348/0298-01"
+      ]
+    },
+    {
+      "cite": "617 F.2d 955",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1386916
+      ],
+      "pin_cites": [
+        {
+          "page": "961"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/617/0955-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 905",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 L.Ed. 133",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "350 U.S. 124",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12031726
+      ],
+      "weight": 2,
+      "year": 1956,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/350/0124-01"
+      ]
+    },
+    {
+      "cite": "468 A.2d 1335",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8027807
+      ],
+      "pin_cites": [
+        {
+          "page": "1337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/468/1335-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 537",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6191611
+      ],
+      "weight": 10,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "549"
+        },
+        {
+          "page": "2586",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "note 9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0537-01"
+      ]
+    },
+    {
+      "cite": "43 U.S.C. \u00a7 1331",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "395 U.S. 352",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771599
+      ],
+      "weight": 3,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0352-01"
+      ]
+    },
+    {
+      "cite": "14 L.Ed.2d 608",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "381 U.S. 618",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172443
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "629"
+        },
+        {
+          "page": "1737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/381/0632-01"
+      ]
+    },
+    {
+      "cite": "92 S.Ct. 355",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "404 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6171158
+      ],
+      "weight": 7,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "106"
+        },
+        {
+          "page": "355",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "106-07"
+        },
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0097-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064389
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "312"
+        },
+        {
+          "page": "312"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0310-01"
+      ]
+    },
+    {
+      "cite": "100 L.Ed. 1387",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 U.S. 525",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1104983
+      ],
+      "weight": 2,
+      "year": 1956,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/351/0525-01"
+      ]
+    },
+    {
+      "cite": "343 F.2d 295",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        872123,
+        3650182
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/343/0295-01"
+      ]
+    },
+    {
+      "cite": "120 U.S.App.D.C. 13",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3650182
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "485 A.2d 593",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7912061
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/485/0593-01"
+      ]
+    },
+    {
+      "cite": "461 A.2d 1020",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7976169
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/461/1020-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 596",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189793
+      ],
+      "weight": 3,
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0596-01"
+      ]
+    },
+    {
+      "cite": "33 U.S.C. \u00a7 901",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1626,
+    "char_count": 38333,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.200592196687915
+    },
+    "sha256": "0c04c82a2d58ad2cae6a2b1fa2d4bec5f35853c60d52610ce866db151267f2e2",
+    "simhash": "1:3dfabfe838e88247",
+    "word_count": 6128
+  },
+  "last_updated": "2024-02-27T19:19:43.203278+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NEBEKER and FERREN, Associate Judges, and REILLY, Chief Judge, Retired."
+    ],
+    "parties": [
+      "John D. O\u2019CONNELL, Appellant, v. MARYLAND STEEL ERECTORS, INC., et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "REILLY, Chief Judge, Retired:\nThis is an appeal from the dismissal of an action for negligence brought by a construction worker against the corporate owner of a rotating crane on a building project where he had suffered chest and shoulder injuries. Eight months prior to commencing such action, he had been formally awarded workmen\u2019s compensation pursuant to a disability claim filed against his own employer, the contractor who had hired him to work on the site. At the time of the injury, the District of Columbia workers\u2019 compensation statute incorporated by reference the provisions of the Longshoremen\u2019s and Harbor Workers\u2019 Compensation Act of 1927, as amended, 33 U.S.C. \u00a7 901 et seq., one of which, Section 33(b), allowed a disability claimant, even after accepting workmens\u2019 compensation, to sue a person other than his employer within six months after the award. If he failed to do so, his right of action under this subsection was assigned to his employer.\nIn the instant case, as appellant had let the six-month deadline elapse before beginning his action, the trial court granted a motion to dismiss, observing that in Rodriguez v. Compass Shipping Co., 451 U.S. 596, 101 S.Ct. 1945, 68 L.Ed.2d 472 (1981), it was established that the running of the six-month period barred any suits not initiated by the employer or his subrogee. Citing Rodriguez, we reached the same conclusion in two similar cases, Dodson v. Washington Automotive Co., 461 A.2d 1020 (D.C.1983) and Milligan v. Brian Construction Development Co., 485 A.2d 593 (D.C.1984). We are now urged to vacate the order of the trial court and remand the case for trial on the grounds that (1) Rodriguez is not controlling with respect to litigation commenced before the release of that opinion, and (2) in any event, a Congressional amendment to the Longshore statute (which became law during the pend-ency of this appeal) has breathed new life into the dismissed action. Deeming neither of the grounds urged for reversal as persuasive, we affirm.\nI\nIn developing his first ground, appellant asserts that the motions court in this case should have deferred to Potomac Electric Power Co. v. Wynn, 120 U.S.App.D.C. 13, 343 F.2d 295 (1964). He points out that this decision of the United States Court of Appeals for this circuit was not specifically disapproved by the Supreme Court until it handed down its Rodriguez opinion in 1981, more than a year after appellant had begun his action in the Superior Court. In the Wynn case, the plaintiff waited for sixteen months after being awarded compensation benefits before filing an amended complaint against PEPCO. The appellate court affirmed the denial of a motion to dismiss. It recognized that after the six-month period had run, the right to recover the compensation award was assigned to the employer who had paid it, but nevertheless that if such assignee then failed to exercise such right \u2014 for any reason \u2014 the injured employee was not precluded from suing.\nIn arriving at this conclusion \u2014 seemingly at odds with the actual wording of the statutory language interpreted \u2014 the court cited Czaplicki v. The Hoegh Silvercloud, 351 U.S. 525, 76 S.Ct. 946, 100 L.Ed. 1387 (1956), a case which antedated the 1959 amendments to Section 33. In Czaplicki, the petitioner\u2019s rights of action against third parties were assigned by the act to his employer after he accepted compensation under an award. The employer\u2019s insurer, Travelers Insurance Company, was in turn subrogated to those rights. Travelers, however, was also the insurer of one of the third parties subject to suit. Thus, facing additional liability if such right of action was successfully asserted, it had no reason to bring suit. The Supreme Court held that where the assignee\u2019s interests are in conflict with those of the employee, the latter had a cause of action against a negligent third party, despite the prior assignment.\nBut by holding that an employee can bring suit against a third party whenever the employer-assignee fails to do so, the Wynn decision went considerably beyond Czaplicki. Professor Larson described Wynn as the \u201cmost extreme extension\u201d of Czaplicki. It also seems that the Wynn opinion missed the point of the 1959 amendment to Section 33, which was to protect employees in Czaplicki situations by affording them a right to sue independently for a six-month period.\nAppellant\u2019s position, however, is that irrespective of whether or not Wynn was properly decided, it was still the law of this jurisdiction when he commenced his action, for under the policy of this court enunciated in M.A.P. v. Ryan, 285 A.2d 310, 312 (D.C.1971), decisions of the United States Court of Appeals for this circuit rendered prior to February 1, 1971, \u201clike the decisions of this court, constitute the case law of the District of Columbia.\u201d From this premise, he argues that the dismissal of his action on the authority of Rodriguez gave retroactive impact to that decision in circumstances which the Supreme Court itself had deemed unjust. He distinguishes our holding in Dodson and Milligan, supra, which also treated Rodriguez as controlling, on the ground that the issue of re-troactivity was not specifically addressed in those opinions \u2014 as it had not been raised by the unsuccessful plaintiffs.\nThe problem of drawing a line between the kind of appellate decisions which should be deemed purely prospective, rather than retroactive in their effect, has been considered in several cases by the Supreme Court in recent years. The one upon which appellant primarily relies is Chevron Oil Co. v. Huson, 404 U.S. 97, 92 S.Ct. 349, 30 L.Ed.2d 296 (1971). There the court remarked that a threshold requirement for depriving a decision of retroactive effect is that such decision \u201cmust establish a new principle of law, either by overruling clear past precedent on which litigants may have relied ... or by deciding an issue of first impression whose resolution was not clearly foreshadowed.\u201d Id. at 106, 92 S.Ct. at 355 (citations omitted). That factor alone is not conclusive for the court also stressed that inquiry should be made into the history and the purpose of the new rule of decision and \u201c \u2018whether retrospective operation will further or retard its operation,\u2019 \u201d id. at 106-07, 92 S.Ct. 355 (quoting Linkletter v. Walker, 381 U.S. 618, 629, 85 S.Ct. 1731, 1737, 14 L.Ed.2d 608 (1965)), and whether inequity would result from re-troactivity.\nThe plaintiff in Chevron was injured while working on an offshore drilling rig close to the Louisiana coast, but did not file suit against Chevron until two years after the accident. During pretrial discovery, the Supreme Court published Rodrigue v. Aetna Casualty & Surety Co., 395 U.S. 352, 89 S.Ct. 1835, 23 L.Ed.2d 360 (1969), in which overruling a long line of federal decisions, it held that under the Outer Continental Shelf Lands Act, 43 U.S.C. \u00a7 1331 et seq. (1982), state law, rather than admiralty law, is applicable to actions based on personal injuries occurring on offshore structures. On the authority of that holding, the federal district court where the action was pending then held that Louisiana\u2019s one-year statute of limitations barred respondent\u2019s suit, but was reversed by the Court of Appeals for the Fifth Circuit.\nIn agreeing that Rodrigue should not have been applied retroactively, the Supreme Court emphasized that in addition to being a case of first impression in that court, Rodrigue overruled decisions clearly establishing \u201cthat admiralty law, including the doctrine of laches, applies through the Lands Act.\u201d Chevron, supra, 404 U.S. at 107, 92 S.Ct. at 355 (citations omitted). Hence, it could not \u201cbe assumed that ... [plaintiff] did or could foresee that this consistent interpretation of the Lands Act would be overturned.\u201d His reliance on the old law, therefore, was well-founded and consequently the dismissal of his action for untimeliness \u201con the basis of superseding legal doctrine ... quite unforeseeable\u201d was reversible error. Id. at 108, 92 S.Ct. at 356.\nIn a subsequent opinion, United States v. Johnson, 457 U.S. 537, 102 S.Ct. 2579, 73 L.Ed.2d 202 (1982), the Supreme Court undertook an extended review and analysis of the factors justifying the non-retroactive application of judicial opinions. It concluded that when the court has declared a rule of criminal procedure to be \u201ca clear break with the past,\u201d it has almost invariably found \u201csuch a \u2018newly minted principle\u2019 non-retroactive.\u201d Id. at 549, 102 S.Ct. at 2586 (citation omitted). In a footnote which cited Chevron, supra, as an example, the court observed that in the context of a civil case, the \u201cclear break principle\u201d has usually been stated as the threshold test. Johnson, supra, 457 U.S. at 550 n. 12, 102 S.Ct. at 2587 n. 12. We drew heavily upon these observations in Brodis v. United States, 468 A.2d 1335, 1337 (D.C.1983), in refusing to set aside a conviction in a case tried prior to a novel holding of this court overruling a long standing procedural practice.\nAccordingly, the issue before us turns on the question of whether the construction of Section 33(b) by the Supreme Court in the Rodriguez case represented a \u201cclear break with the past.\u201d In our opinion, it did not, for the rule of decision in Wynn at the time appellant\u2019s action was filed here had been undermined by intervening legislation in Congress. In the Wynn opinion, the court pointed out not merely the potential of conflicting interests in cases like Czaplicki, where there was a common insurer, but to another decision discouraging employers from suing third-party tortfeasors, viz., Ryan Stevedoring Co. v. Pan-Atlantic Steamship Corp., 350 U.S. 124, 76 S.Ct. 232, 100 L.Ed. 133 (1956). There it was held that a shipowner liable for injuries to a longshoreman could recover over against the employer-stevedore for breach of the latter\u2019s implied duties safely. Plainly this prospect of double liability would deter any assignee from suing to recover the compensation paid to the disabled employee.\nCongress remedied this defect in the Act in 1972 by adopting an amendment to Section 5(b), 33 U.S.C. \u00a7 905(b), which eliminated a third party\u2019s right of indemnification from the primary employer thereby repudiating the Ryan doctrine. The United States Court of Appeals for the Second Circuit noted these later changes in the Act in specifically declining to follow the Wynn holding. Rodriguez v. Compass Shipping Co., 617 F.2d 955, 961. Moreover, even before the 1972 amendments, the only other circuit court called upon to interpret Section 33(b) expressed the view that an evidentiary showing of a conflict of interest between employee and employer-assignee was necessary to enable workers to maintain actions filed after the six-month deadline. McClendon v. Charente Steamship Co., 348 F.2d 298 (5th Cir.1965).\nSince the 1972 amendments, the bar of this jurisdiction has manifested no reliance upon the Wynn holding. In supporting plaintiffs who began actions against third persons more than six months after accepting compensation, their counsel have successfully argued that the six-month period does not start to run until a formal award is made \u2014 a point quite unnecessary to make if Wynn was still controlling law. See Carey v. Crane Service Co., 457 A.2d 1102 (D.C.1983); Collier v. John Mendis, Inc., 526 F.Supp. 459 (D.D.C.1981); Fearson v. Johns-Manville Sales Corp., 525 F.Supp. 671 (D.D.C.1981). It is also significant that in the case before us, it is not contended that the individual claimant (appellant here) placed any reliance upon the Wynn decision \u2014 or indeed was even aware of it \u2014 when he permitted more than six months to go by before bringing suit against appellee.\nIt is our opinion that Rodriguez was typical of numerous holdings of the Supreme Court, resolving conflicts of decision among different circuit courts of appeals on the interpretation of a specified statute. The impact of such resolutions by the highest court does not affect the rights of parties who have entered into settlements or accepted as final unappealed judgments of lower courts based on the authority of the rule of decision ultimately disapproved, but they become controlling authority for the disposition of pending cases. As the Supreme Court observed in a context obviously applicable to appellant\u2019s thesis that the court below should have treated Wynn as controlling precedent, \u201c[djeviant rulings by circuit courts of appeals ... cannot generally provide the \u2018justified reliance\u2019 necessary to warrant withholding retroactive application of a decision construing a statute as Congress intended it.\u201d United States v. Estate of Donnelly, 397 U.S. 286, 295, 90 S.Ct. 1033, 1038, 25 L.Ed.2d 312 (1970).\nII\nAfter this appeal was first argued, appellant moved for reargument, calling our attention to a new statute enacted by Congress while this case was sub judice, viz., the Longshore and Harbor Workers\u2019 Compensation Act Amendments of 1984, Pub.L. No. 98-426, 98 Stat. 1639, approved September 28, 1984 (referred to herein as \u201c1984 Act\u201d). He contended that one of the amendments in that statute overruled the Supreme Court\u2019s decision in Rodriguez v. Compass Shipping Co., supra, and thus deprived our own decisions in Dodson and in Milligan, supra, of precedential significance. This particular amendment, revising Section 33(b) of the Longshore Act, provides that if the employer to whom the worker\u2019s right to sue a third-party tort-feasor has been assigned (after the running of the six-month period) fails to exercise such right within ninety days after assignment, such right reverts to the worker. Such amendment \u2014 as appellant correctly pointed out \u2014 was one of those provisions in the new act which [Section 28(a)] \u201capply both with respect to claims filed after such [enactment] date and to claims pending on such date.\u201d Accordingly, appellant argues that although he might have lost his right to sue a third party under the old act, such right has now reverted to him, because his employer (or subrogee) allowed ninety days to elapse without commencing any action.\nIn order to examine the possible impact of the 1984 Act upon this case and other pending litigation in the District, we granted appellant\u2019s motion for reargument in an order also allowing a motion by the Washington Metropolitan Area Transit Authority (WMATA) to file an amicus brief and to participate in the argument.\nIf appellant\u2019s construction of the new statute is correct, it would mean that a large number of employers whose assigned rights against third parties had already vested 90 days or more before the effective date of the new act, but who had not yet exercised them, would be deprived retroactively of ever being able to do so. If this was indeed the purpose of the statute, there would be serious questions about its constitutional validity.\nAppellees, noting that the 1984 amendments to Section 33 also do away with priority of the employer\u2019s lien on the proceeds of a judgment against third parties, argue that the recent enactment conflicts with the Constitution, unless the words \u201cclaims pending\u201d can be construed as limited to unadjudicated agency claims in contradistinction to actions at law pending in the courts. But appellant contends that the provision he relies upon is more analogous to amendments affecting statutes of limitations, in which the doctrine of \u201crelation back\u201d has been successfully invoked, citing several authorities including New York Central & Hudson R.R. v. Kinney, 260 U.S. 340, 346, 43 S.Ct. 122, 123, 67 L.Ed. 294 (1922).\nWe need not deal with such constitutional issues, however, for the crucial question here is whether the 1984 amendments to the Longshore Act have any relevance to this case. Appellant\u2019s injury did not occur in maritime employment. His right to compensation and to subsequent actions for damages consequently derives entirely from the District of Columbia Workers\u2019 Compensation Act of 1928, D.C. Code \u00a7\u00a7 36-501, -502 (1973 ed.). This Congressional statute in turn did make the provisions of what was then called the Longshoremen\u2019s and Harbor Workers\u2019 Compensation Act of 1927, including future amendments thereto, applicable to the injury or death of employees of persons carrying on private employment in the District. But the 1928 act \u2014 one of purely local application \u2014 was expressly repealed by an act passed by the District Council in 1980, effective July 24, 1982. Hence, appellees contend that amendments by Congress to the Longshore Act passed after the effective date of the repealer, have no bearing whatsoever on the rights of litigants, like appellant, who were awarded workers\u2019 compensation because of injuries incurred in land based occupations in the District of Columbia. We agree.\nSuch repealer was merely one provision included in a comprehensive statute which replaced the District of Columbia Workers\u2019 Compensation Law of 1928 with a new method for compensating workers disabled in private employment in the District. D.C. Code \u00a7\u00a7 36-301 to -344 (1981); D.C.Law 3-77, July 1,1980, 27 DCR 2503. In adopting the new act the Council divorced the local workers\u2019 compensation system entirely from the Longshore Act of 1927. It provided that claims should be filed with and adjudicated by the municipal government instead of by a Federal agency and set a scale of compensation for different kinds of disabilities substantially below the corresponding levels in the Longshore Act \u2014 conforming more closely to the schedules established by state compensation laws in such neighboring jurisdictions as Maryland and Virginia.\nShortly after its passage, the enforcement of the new statute was enjoined by an order of the Superior Court in a suit brought by labor organizations. It was not until 1982 that such order was reversed by a decision of this court holding that the Council had not exceeded its legislative authority under the District of Columbia Self-Government Act of 1973, D.C.Code \u00a7\u00a7 1-201 to -295 (1981).\nBecause of the injunction, claims filed during the pendency of this litigation continued to be processed by the United States Department of Labor and governed by the old act. When the validity of the new statute was upheld, the Council by legislative resolution postponed its effective date to July 24, 1982. We subsequently held that a worker injured before this date had no rights under the new act, as such an injury was then still covered by the 1928 Act, and compensability depended on its provisions. Garrett v. Washington Air Compressor Co., 466 A.2d 462 (D.C.1983).\nAppellant, pointing out that his injury also occurred before the effective date of the new act and was therefore covered by the 1928 act, incorporating the Longshore Act \u201cincluding all amendments that may hereafter be made thereto,\u201d argues that he is therefore entitled to invoke the Long-shore Amendments of 1984 with respect to the time limitations in law suits authorized by Section 33(b), notwithstanding the repeal of the 1928 act. In our opinion this argument flies in the face of a savings statute enacted by Congress to deal with the legal effect to be accorded a repealed statute. It provides in pertinent part:\nThe repeal of any statute shall not have the effect to release or extinguish any penalty, forfeiture, or liability incurred under such statute ... and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such penalty, forfeiture or liability.\n1 U.S.C. \u00a7 109 (1982) (emphasis added).\nAccordingly, so far as appellant was concerned, despite the repeal of the 1928 act, his rights of action against third party tort-feasors were still preserved by the provisions of that statute. But this certainly does not mean that the limitations such statute had imposed on such rights were removed by subsequent Congressional amendments to another act.\nAs a result of the Council action repealing the District of Columbia 1928 Act, that act had ceased to exist by 1984, when Congress amended the Longshore Act. Had it not been for the repealer, the 1928 act would indeed have incorporated those amendments, including the revisions of Section 33 which would have benefited appellant\u2019s cause. But as the 1928 act was no longer on the books, what Congress subsequently did to the Longshore statute did not affect any rights created by such prior law.\nOur conclusion on this issue is identical to that reached by three different federal trial judges in this jurisdiction, presiding over cases in which persons suing under the District of Columbia Act of 1928 contended that their rights had been enlarged because of the 1984 Congressional amendments to the Longshore Act. In each instance, these judges held that such amendments had no impact upon the workers\u2019 compensation laws governing the District.\nThe leading case, entitled In re Metro Subway Accident Referral, Misc. No. 82-306 (D.D.C. Dec. 18, 1984), was an opinion and order of Judge Pratt dismissing approximately more than 90 law suits filed against the Transit Authority, decisions which had been stayed because of the pendency of appeals ultimately resolved by WMATA v. Johnson, supra note 9, 104 S.Ct. at 2836. Plaintiffs in these suits \u2014 for the most part tunnel workers employed by construction subcontractors \u2014 having incurred occupational disability filed claims for compensation against their immediate employers under the District of Columbia 1928 Act. The resulting compensation awards were paid by an insurance carrier from whom WMA-TA itself \u2014 the general contractor \u2014 had purchased a \u201cwrap-up\u201d policy covering all the numerous subcontractors on the subway project against potential liability for injuries to the workers they hired. This precautionary step relieved such subcontractors of the necessity of taking out insurance on their own account.\nClaimants filed tort actions against WMATA alleging that the Authority was negligent in permitting them to work under conditions likely to cause respiratory injuries.\nUnder Section 4(a) of the Longshore Act (then incorporated in the 1928 District of Columbia Act), which requires every employer to secure payment to his employees for payment compensable under the act, a contractor is under an obligation to secure payments to employees of his subcontractors unless the subcontractor has secured such payments. Section 5(a) of the act grants immunity to employers who have complied with the preceding section against additional liability.\nThe theory of the plaintiffs was that since their own employers \u2014 the subcontractors \u2014 had not been in default of their obligation to secure payments (ie., to carry liability insurance), WMATA was suable as a third party tortfeasor and could not claim immunity as an \u201cemployer.\u201d In the Johnson case, supra, the Supreme Court rejected this view in an opinion handed down June 26, 1984 \u2014 just before its summer recess. Soon thereafter, the United States District Court issued a rule to show cause as to why these actions and other pending actions against WMATA by plaintiffs in similar situations should not be dismissed.\nIn the interim, because of differences between the bills passed by the Senate and House on the Longshore Act Amendments, the measure had been referred to a joint conference committee. Although there was nothing in the versions of the legislation approved by either body dealing with the issue considered in the Johnson case, the conferees inserted a new provision in the conference substitute which amended Section 5(a) of the Longshore Act, so as to make it clear that a general contractor who took out worker\u2019s compensation insurance for his subcontractor\u2019s employees did not gain immunity as an \u201cemployer,\u201d unless such action was triggered by an actual failure of a subcontractor to comply with his statutory duty to \u201csecure\u201d compensation. This meant that general contractors who had followed the course of action taken by WMATA were no longer immune from liability in suits brought by employees of subcontractors, for the conference report, in explaining such amendment, expressly disapproved of the Supreme Court holding in the Johnson case, supra, and noted that in law suits still pending or on appeal, such holding should not be accorded \u201cprecedential effect\u201d \u2014 an apparent reference to Section 28(a) of the 1984 Act mentioned earlier in this opinion.\nThe conference substitute was passed by both branches of Congress without floor debate \u2014 the motion to adopt in the Senate following brief explanations by three of the Senate conferees, none of whom alluded to the Section 5(a) amendment or indeed to any possible bearing of the bill upon District of Columbia law. The President approved the enrolled bill on September 27, 1984, releasing a short explanatory statement.\nThus, later in the same year in passing upon the opposition of the plaintiffs to dismissal in Metro Subway, supra, Judge Pratt was squarely confronted, as we have been in the appeal now before us, with the question of whether or not the 1984 amendments to the Longshore Act affected pending actions filed under the local act of 1928. In a well-reasoned opinion, he decided that as a result of the repealer to which we have adverted, the recent Congressional legislation did not affect such.actions, being directed solely at the various kinds of maritime employment covered by the federal act of 1927 as amended. Accordingly, deeming WMATA v. Johnson, supra, 104 S.Ct. at 2827, still controlling with respect to the cases in the District Court, he dismissed them, although he did remark that the joint statement of the conferees is \u201csomewhat ambiguous as to whether Congress was thinking of the Johnson litigation or the principle embodied in the Johnson decision.\u201d In re Metro Subway Accident Referral, supra, slip op. at 7 n. 11\nIn our view, Judge Pratt, in the absence of any wording in the new act referring to workers\u2019 compensation in the District, was fully justified in concluding that it was only the \u201cprinciple\u201d or rule of decision in Johnson, that had been overruled. There are numerous operations covered by the Long-shore Act, e.g., dry-dock overhaul of vessels, off-shore oil rigs, shipbuilding, etc., which require the services of literally scores of subcontractors. Obviously the unions representing workers on such projects \u2014 and credited in the reports of the House and Senate Committees as helping to shape the new legislation \u2014 would scarcely regard favorably any legal doctrine having ominous overtones with respect to successful litigation against general contractors in maritime industries.\nAppellant has assailed the conclusion reached in Metro Subway on several grounds, none of which is persuasive. He argues that because the 1984 act specifically makes certain provisions inapplicable or limited with regard to the Black Lung Act and the Outer Continental Shelf Act \u2014 statutes also incorporating by reference portions of the Longshore Act \u2014 the absence of any similar reference to the 1928 District of Columbia Act indicates that Congress intended that its amendments were also applicable to the latter. The short answer to this contention is that there was no occasion for Congress to exclude expressly from the application of provisions of the new law any statute already repealed. Congress was certainly aware of the repeal of the 1928 act, for the Council legislation accomplishing such action had been submitted to Congressional review for the statutory period of 30 legislative days, and became law without the disapproval of either branch.\nNor are we impressed by the argument that the Department of Labor, the federal agency entrusted with the administration of the Longshore Act, has indicated that the 1984 amendments are applicable to employees injured in the District of Columbia before the new local act became effective. Appellant suggests that we should defer to this administrative construction. Such rule of deference with respect to administrative \u201cexpertise\u201d is sometimes mentioned by the courts in sustaining an agency rule or adjudication, but is never employed with respect to statutory provisions limiting the time or scope of judicial review or the institution of law suits, as provisions dealing with the jurisdiction of the courts are not within the province of an agency to interpret.\nAn examination of the 1984 act and its legislative history persuades us that Congress, in revising the Longshore statute, focused attention entirely upon difficulties encountered by maritime employers and employees under its then existing provisions. One of its major concerns was the broad scope of coverage which had resulted in overlapping claims under federal and state law. It solved this problem by excluding several categories of workers previously within the act, e.g., employees of yachting marinas, shoreside museums and restaurants, builders of small boats, etc., leaving such persons to the coverage of state workmen\u2019s compensation laws.\nIf a central purpose of the 1984 legislation was to remove from coverage substantial numbers of employees whose connection with maritime industries was too peripheral, it would be passing strange to infer that Congress meant the new act to cover persons injured in purely land based occupations. Plainly the President of the United States understood that the 1984 act affected only the maritime industry, for in giving it his approval, he stated in' part:\nI have today signed S. 38, the \u201cLong-shore and Harbor Workers\u2019 Compensation Act Amendments of 1984.\u201d The last amendments to this Act in 1972 expanded worker coverage and provided relatively high benefits which resulted in excessive costs. Today\u2019s legislation addresses these issues and makes important reforms in workers\u2019 compensation for injured workers, who contributed so much to our Nation\u2019s vital maritime industry, and their families....\nI want to congratulate all the parties to this concensus legislation. Their efforts strike a balance between continuing to provide fair and necessary benefits for injured workers and their families and, at the same time, giving employers, insurers, and the Labor Department the means to control program costs more effectively. The bill will accomplish this by clarifying the Act\u2019s coverage to exempt certain categories of workers whose work activities are on land, putting reasonable limits on benefits, and increasing the penalties for fraud and abuse. (Emphasis supplied).\nAffirmed.\n. 33 U.S.C. \u00a7 933(b) (1982). This particular subsection was one of the amendments passed by Congress in 1959 to the Longshore Act. Pri- or to its enactment, a disabled worker was confronted with a choice of remedies. He could file a claim against his own employer for statutory compensation, irrespective of negligence, or sue a third party whose conduct caused the injury \u2014 but he could not do both. If the worker elected and received compensation, the employer or his insurance carrier under subrogation principles then could sue a third person deemed responsible for the accident for reimbursement.\n. In Rodriguez, the Supreme Court had granted certiorari to resolve a conflict between the Courts of Appeal of the Second and Fourth Circuits on the interpretation of Section 33(b) of the Act. Just eight days after the Second Circuit had decided that when injured longshoremen failed to bring suit within six months, the employer to whom their claims had been assigned thereafter had the exclusive right to pursue third-party claims, the Fourth Circuit issued an opinion to the contrary in Caldwell v. Ogden Sea Transport, Inc., 618 F.2d 1037 (4th Cir.1980). Its holding was that if the assignee chose not to sue, the disabled workers by appropriate pleadings could gain reassignment of their cause of action.\n.Section 33(b), 33 U.S.C. \u00a7 933(b) (1982), reads as follows:\nAcceptance of such compensation under an award in a compensation order filed by the deputy commissioner shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award.\n. 2A A. Lawson\u2019s, Workmen\u2019s Compensation Law \u00a7 75.47 at 14-555 (1982).\n. The Ryan opinion, however, reserved the right of this court, sitting en banc, to refuse to follow such decisions. Ryan, supra, 285 A.2d at 312. Another well recognized exception to this principle of deference applies to pre-1971 decisions discredited by later holdings of the Supreme Court, e.g., Capital Holding Corp. v. District of Columbia, 374 A.2d 573 (D.C.1977).\n. The Chevron case did not involve the Long-shore Act, for the injured worker apparently elected to sue his employer directly instead of claiming workmen's compensation.\n. In Mendes v. Johnson, 389 A.2d 781 (D.C.1978) (en banc), we stated that a relevant factor with respect to the application of a new rule of decision was the extent of the reliance of the parties on the old rule.\n. The same court which had handed down the Wynn opinion, concluded after Rodriguez that the 1959 and 1972 amendments had undercut even the basis for the Czaplicki exception to Section 33(b). Accordingly, it dismissed a pending action, saying that the statute \"no longer permits an employee to institute a third party action after the six month statutory window,\" citing with approval our memorandum opinion in Westbrook v. Hutchinson Crane Excavating Co., No. 82-1151 (D.C. June 30, 1983). See Johnson v. Bechtel Associates, 230 U.S.App.D.C. 297, 309, 717 F.2d 574 (1983), reversed on other grounds, sub nom., Johnson v. WMATA, infra, n. 9.\n.The actual wording of the statute seems to sustain such a limited construction, for other sections which regulate the prosecution of \"claims\u201d plainly refer to agency proceedings. But the correctness of such statutory interpretation is clouded by language in the report of the joint conference managers with respect to other amendments, set forth in Section 4 of the 1984 Act which revised two provisions of the Long-shore statute for the purpose of depriving WMATA v. Johnson, \u2014 U.S. - 104 S.Ct. 2827, 81 L.Ed.2d 768 (1984) of \"precedential effect.\u201d Jt. Rep. of Conference Managers, Daily Cong. Record H.R. 9593; Sept. 14, 1984. In explaining these amendments, the conference report also stated \u2014 presumably with regard to the intent of Section 28(a):\nThe Conference substitute also provides a special effective date so that these amendments apply to pending suits. This will avoid the dismissal under WMATA of third party suits which were pending or on appeal on the date of the enactment.\n. Act of May 17, 1928; 45 Stat. 600, ch. 612 \u00a7 1, D.C.Code \u00a7 36-501 (1973 ed.).\n. Despite this incorporation by reference, it was recognized that the two statutes were separate and distinct, the authority of Congress to enact each piece of legislation resting upon powers granted by different clauses in the Constitution. Gudmundson v. Cardillo, 75 U.S.App.D.C. 230, 126 F.2d 521 (1942). The court noted that Congressional power to legislate with respect to longshoremen and other harbor workers rested on concepts of admirality jurisdiction over navigable waters (the 1927 act); and upon the clause granting Congress legislative authority over the territorial \"seat of government\u201d to deal with injuries in every type of work in the District of Columbia (the 1928 act).\n. 27 D.C.Reg. 2503, 2541. Section 46 provides:\nAn act to provide compensation for disability or death resulting from injury to employees in certain employments in the District of Columbia and for other purposes, approved May 18, 1928 (45 Stat. 600; D.C.Code sec. 36-501\u2014 503) is hereby repealed.\n.At legislative hearings, the local business community made a showing that convinced the Council that construction companies, mercantile enterprises, and service industries doing business in the District were unfairly burdened by ever increasing insurance premiums charged by carriers to cover employers subject to disproportionately greater liability under the Long-shore Act than under comparable state laws.\n. District of Columbia v. Greater Washington Central Labor Council AFL-CIO, 442 A.2d 110 (D.C.), rehearing denied, 445 A.2d 960 (D.C.1982), cert. denied, 460 U.S. 1016, 103 S.Ct. 1261, 75 L.Ed.2d 487 (1983).\n. Act of May 17, 1928; n. 10, supra.\n. 1 U.S.C. \u00a7 109 is a general act of Congress applicable to the District of Columbia. D.C. Code \u00a7 49-301 (1981).\n. Cited with approval and followed in Stokes v. Hyman Construction Co., C.A. No. 84-1418, slip op. (D.D.C. Jan. 18, 1985) (Parker, J.); and in Lewhew v. AFGO Engineering Corp., C.A. No. 81-1593, slip op. (D.D.C. Feb. 27, 1985) (Gasch, J.).\n. Joint Explanatory Statement of the Committee of Conference, Cong.Rec.H. 9598; September 14, 1984.\n. See Cong.Rec. S 11621 to 11627, September 20, 1984.\n.See H.R.Rep. No. 98-579, 98th Cong., p. 2; S.Rep. No. 98-81, id. p. 23.\n. See D.C.Code \u00a7 36-345 (Supp.1984).\n. Appellant relies upon published rules for adjudication promulgated by what was apparently a lower level of the Department. With commendable candor, counsel for appellant informed us after oral argument that he had been mistaken in stating that the Solicitor of Labor had issued an opinion agreeing with his position.\n. Jt.Conf.Rep., supra, Cong.Rec.H 9592-93, Sept. 14, 1984.\n. See Statement by the President, released by White House, September 28, 1984.",
+        "type": "majority",
+        "author": "REILLY, Chief Judge, Retired:"
+      }
+    ],
+    "attorneys": [
+      "Peter J. Vangsnes, Washington, D.C., for appellant. William C. Burgy and Karl N. Marshall, Washington, D.C., were on the briefs, for appellant.",
+      "Walter J. Murphy, Jr., Wheaton, Md., with whom Hubert W. Farrell, Wheaton, entered an appearance, for appellee Maryland Steel Erectors, Inc.",
+      "Gary W. Brown, Washington, D.C., entered an appearance for appellee Steele & Moroney, Inc.",
+      "Walter A. Smith, Jr., Washington, D.C., with whom Vincent H. Cohen and Robert B. Cave, Washington, D.C., were on the briefs for amicus, Washington Metropolitan Area Transit Authority."
+    ],
+    "corrections": "",
+    "head_matter": "John D. O\u2019CONNELL, Appellant, v. MARYLAND STEEL ERECTORS, INC., et al., Appellees.\nNo. 82-1486.\nDistrict of Columbia Court of Appeals.\nReargued April 1, 1985.\nDecided July 5, 1985.\nAs Amended Aug. 6, 1985.\nPeter J. Vangsnes, Washington, D.C., for appellant. William C. Burgy and Karl N. Marshall, Washington, D.C., were on the briefs, for appellant.\nWalter J. Murphy, Jr., Wheaton, Md., with whom Hubert W. Farrell, Wheaton, entered an appearance, for appellee Maryland Steel Erectors, Inc.\nGary W. Brown, Washington, D.C., entered an appearance for appellee Steele & Moroney, Inc.\nWalter A. Smith, Jr., Washington, D.C., with whom Vincent H. Cohen and Robert B. Cave, Washington, D.C., were on the briefs for amicus, Washington Metropolitan Area Transit Authority.\nBefore NEBEKER and FERREN, Associate Judges, and REILLY, Chief Judge, Retired."
+  },
+  "file_name": "1134-03",
+  "first_page_order": 1192,
+  "last_page_order": 1203
+}

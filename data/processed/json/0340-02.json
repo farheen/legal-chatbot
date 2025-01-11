@@ -1,0 +1,59 @@
+{
+  "id": 7290584,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Robert HALL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hall",
+  "decision_date": "2010-02-17",
+  "docket_number": "No. 156 EM 2009",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "989 A.2d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 363,
+    "ocr_confidence": 0.666,
+    "sha256": "dc8ebb21d68a077bd50ff0620322e3f51009b85258a6d32bc795fe6fd888f6d6",
+    "simhash": "1:58bd1033f2e10bf2",
+    "word_count": 60
+  },
+  "last_updated": "2023-07-14T16:30:09.590898+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Robert HALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of February, 2010, the \u201cPetition to Extend Time to File Petition for Allowance of Appeal,\u201d treated as a Petition for Leave to File Petition for Allowance of Appeal Nunc Pro Tunc, is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Robert HALL, Petitioner.\nNo. 156 EM 2009.\nSupreme Court of Pennsylvania.\nFeb. 17, 2010."
+  },
+  "file_name": "0340-02",
+  "first_page_order": 376,
+  "last_page_order": 376
+}

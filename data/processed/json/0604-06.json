@@ -1,0 +1,58 @@
+{
+  "id": 12486103,
+  "name": "Com. v. R. Hernandez",
+  "name_abbreviation": "Com. v. Hernandez",
+  "decision_date": "2016-02-26",
+  "docket_number": "NO. 1552 EDA 2015",
+  "first_page": "604",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "b11341a74ec80ee9dbbe6f2593d77fc487867594675c19e452345bf39d26a999",
+    "simhash": "1:b7097d912bfa8fd0",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Hernandez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Hernandez\nNO. 1552 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 26, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0604-06",
+  "first_page_order": 604,
+  "last_page_order": 604
+}

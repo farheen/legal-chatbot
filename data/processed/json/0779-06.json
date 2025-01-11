@@ -1,0 +1,58 @@
+{
+  "id": 12487347,
+  "name": "C. Sankey v. L. Sankey",
+  "name_abbreviation": "Sankey v. Sankey",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 2267 EDA 2015",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 99,
+    "sha256": "d275879952cd9f56ca2555f4af9422b44f13ca4dee5a9e983160ce9b4504f49b",
+    "simhash": "1:a9830ff2f9ca17a5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Sankey\nv.\nL. Sankey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. Sankey\nv.\nL. Sankey\nNO. 2267 EDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0779-06",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487481,
+  "name": "G. Folmar v. L. Folmar",
+  "name_abbreviation": "Folmar v. Folmar",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 1039 WDA 2015",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 99,
+    "sha256": "7b477c96cd565341b49e6cce29e7b9c4114041f43786fc65ff663ebecb9d3c8c",
+    "simhash": "1:1c194c4b122f97c4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. Folmar\nv.\nL. Folmar"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "G. Folmar\nv.\nL. Folmar\nNO. 1039 WDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed."
+  },
+  "file_name": "0789-16",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

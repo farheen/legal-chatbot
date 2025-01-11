@@ -1,0 +1,59 @@
+{
+  "id": 6092756,
+  "name": "In re Robert K. Stanley",
+  "name_abbreviation": "In re Stanley",
+  "decision_date": "1967-10-05",
+  "docket_number": "No. 8241",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 54,
+    "ocr_confidence": 0.516,
+    "sha256": "9708b0277a970b3b48bdfc45a960665d8a4ab3f2b3ac7cb8efd6518e6deaddc5",
+    "simhash": "1:77619baa68dea542",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert K. Stanley"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Strand treatment.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8241.\nIn re Robert K. Stanley"
+  },
+  "file_name": "1513-09",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

@@ -1,0 +1,537 @@
+{
+  "id": 11497089,
+  "name": "Robert SKALING et al. v. AETNA INSURANCE CO. et al.",
+  "name_abbreviation": "Skaling v. Aetna Insurance",
+  "decision_date": "1999-12-16",
+  "docket_number": "Nos. 98-282-Appeal, 98-335-Appeal",
+  "first_page": "282",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "742 A.2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "559 A.2d 1028",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7901441
+      ],
+      "pin_cites": [
+        {
+          "page": "1031"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/559/1028-01"
+      ]
+    },
+    {
+      "cite": "687 A.2d 440",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7350268
+      ],
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/687/0440-01"
+      ]
+    },
+    {
+      "cite": "605 A.2d 1318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939674
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1319"
+        },
+        {
+          "page": "1321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/605/1318-01"
+      ]
+    },
+    {
+      "cite": "106 R.I. 632",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3030942
+      ],
+      "weight": 9,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "633"
+        },
+        {
+          "page": "371"
+        },
+        {
+          "page": "635"
+        },
+        {
+          "page": "372"
+        },
+        {
+          "page": "637"
+        },
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/106/0632-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 676",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11629471
+      ],
+      "pin_cites": [
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/0676-01"
+      ]
+    },
+    {
+      "cite": "576 A.2d 1195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7389893
+      ],
+      "pin_cites": [
+        {
+          "page": "1196"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/576/1195-01"
+      ]
+    },
+    {
+      "cite": "713 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11808897
+      ],
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/713/0207-01"
+      ]
+    },
+    {
+      "cite": "705 A.2d 980",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11874865
+      ],
+      "pin_cites": [
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/705/0980-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 687",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7938885
+      ],
+      "pin_cites": [
+        {
+          "page": "689"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0687-01"
+      ]
+    },
+    {
+      "cite": "729 A.2d 677",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11622280
+      ],
+      "pin_cites": [
+        {
+          "page": "692"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/729/0677-01"
+      ]
+    },
+    {
+      "cite": "505 A.2d 418",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7908157
+      ],
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/505/0418-01"
+      ]
+    },
+    {
+      "cite": "121 R.I. 428",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3187366
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "432"
+        },
+        {
+          "page": "1228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0428-01"
+      ]
+    },
+    {
+      "cite": "117 R.I. 349",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3120773
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "353"
+        },
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/117/0349-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 92",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7858930
+      ],
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/682/0092-01"
+      ]
+    },
+    {
+      "cite": "696 A.2d 290",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12022210
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/696/0290-01"
+      ]
+    },
+    {
+      "cite": "585 A.2d 65",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7366970
+      ],
+      "pin_cites": [
+        {
+          "page": "67"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/585/0065-01"
+      ]
+    },
+    {
+      "cite": "420 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7987065
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/420/0843-01"
+      ]
+    },
+    {
+      "cite": "697 A.2d 1101",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12022200
+      ],
+      "pin_cites": [
+        {
+          "page": "1103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/1101-01"
+      ]
+    },
+    {
+      "cite": "118 R.I. 389",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5500633
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "396"
+        },
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/118/0389-01"
+      ]
+    },
+    {
+      "cite": "610 A.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7921937
+      ],
+      "pin_cites": [
+        {
+          "page": "95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/610/0087-01"
+      ]
+    },
+    {
+      "cite": "104 R.I. 116",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3053183
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "121"
+        },
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/104/0116-01"
+      ]
+    },
+    {
+      "cite": "712 A.2d 375",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11812282
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "377"
+        },
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/712/0375-01"
+      ]
+    },
+    {
+      "cite": "111 R.I. 515",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3145105
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "522"
+        },
+        {
+          "page": "671"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/111/0515-01"
+      ]
+    },
+    {
+      "cite": "330 U.S. 212",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        354136
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "218"
+        },
+        {
+          "page": "756"
+        },
+        {
+          "page": "853-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/330/0212-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1206,
+    "char_count": 29681,
+    "ocr_confidence": 0.645,
+    "pagerank": {
+      "raw": 4.857735945377883e-07,
+      "percentile": 0.9327231047061045
+    },
+    "sha256": "3d195b4be964acaea00d4be6b84823662032f2d27bb1f87d715b9bc2e90d2b53",
+    "simhash": "1:b23d51507b9e002e",
+    "word_count": 4891
+  },
+  "last_updated": "2024-02-27T18:02:01.051786+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present WEISBERGER, C.J., and LEDERBERG, BOURCIER, FLANDERS, and GOLDBERG, JJ."
+    ],
+    "parties": [
+      "Robert SKALING et al. v. AETNA INSURANCE CO. et al."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nLEDERBERG, Justice.\nThis case came before the Supreme Court on consolidated appeals from a judgment entered in Superior Court in the amount of $300,000 in favor of Robert Skaling (Skaling). The amount represented the policy limit of Skaling\u2019s uninsured motorist policy with Aetna Insurance Company (Aetna). Skaling appealed the judgment, arguing that interest should have been added in accordance with G.L.1956 \u00a7 9-21-10 and G.L.1956 \u00a7 27-7-2.2, and that such interest should be calculated on the entire $1,174,500 awarded by the jury. Aetna also appealed on three grounds; namely, there was insufficient evidence that the use of a vehicle led to Skaling\u2019s injuries, the trial justice committed reversible error when he permitted Skaling to present evidence at trial of two commendations that he had received from community groups, and the trial justice erroneously gave a sudden emergency instruction to the jury. For the reasons we shall discuss below, Aetna\u2019s appeal is denied, and Skal-ing\u2019s appeal is denied in part and sustained in part.\nFacts and Procedural History\nAt approximately 8:30 on the dark, rainy, and windy night of October 20, 1995, Shaun Menard (Menard) and Marty Web-ber (Webber) went for a ride in Menard\u2019s Jeep. They drove to a hiking trail in western Coventry, Rhode Island, near the Connecticut border to go \u201cfour wheeling\u201d on the trail, although state regulations prohibit motorized vehicles on hiking trails.\nAfter driving on the trail a short distance, Menard and Webber came to an abandoned wooden railroad trestle bridge that crossed sixty to seventy feet above the Moosup River. A six-foot-high chain link fence ran along each side of the bridge. Although large boulders had been placed at both ends of the bridge to prevent vehicles from gaining access, Menard drove his Jeep through the woods, around the boulders, and onto the trestle. When he arrived at the other end of the bridge, the vehicle became stuck.\nThere was conflicting evidence on whether the vehicle\u2019s front driver\u2019s side fender or front passenger\u2019s side fender was \u201cjammed\u201d especially close to the edge of the bridge. Certain facts about the Jeep are undisputed, however. The Jeep was approximately seventy inches wide, the bridge was eighty-six inches wide, and the Jeep was stopped at an angle, with its lights turned off. The chain link fence near the front driver\u2019s side of the Jeep was on the ground underneath the Jeep; the Jeep could move neither forward nor backward.\nWhen the Jeep became stuck, Menard and Webber exited the vehicle, climbed down the bank of the river, and spent some time drinking beer and \u201cpartying\u201d on the shores of the Moosup. After each had drunk about six beers, the pair climbed back up the bank and walked onto the bridge. Webber tried to walk past the driver\u2019s side of the Jeep but fell off the bridge when he came to the place where a section of fence had been torn down. After Menard realized that Webber had fallen, he left to find help.\nRobert and Deborah Skaling lived on Lewis Farm Road, at the intersection with the trail and only several hundred feet from the trestle. Skaling was at home with his wife and children, and estimated that between 9:15 and 11:30 that night he had four or five beers, as well as a nightcap. At approximately 11:45, Menard arrived at Skaling\u2019s door, told Mrs. Skaling that his friend had fallen off the bridge, asked her to call 911, and immediately ran back to Webber. Skaling put on his boots and a sweatshirt, grabbed a blanket, and drove his truck to the edge of the bridge. He left his truck lights on and began walking across the bridge, calling out in an effort to find Webber or Menard. As he attempted to pass the Jeep, he found himself \u201cedging along * * * with [his] belly up to the vehicle as close as you can possibly get to something.\u201d As he reached the driver\u2019s door in the area where the fence was down, he fell off the bridge. As Skal-ing fell, he struck the granite stones that provided support for the bridge and then continued to fall to the ground below. Skaling was severely injured in the fall and was hospitalized for two months.\nIn- January 1996, Skaling made a claim against Menard, alleging that Menard\u2019s negligence caused his injuries. Menard\u2019s automobile liability insurer paid Skaling its policy limit of $25,000 in settlement of that claim. Skaling also sought compensation from Aetna, pursuant to the uninsured/un-derinsured motorist (UM) provisions of his own automobile insurance policy. Aetna asserted that Skaling\u2019s injuries were not a covered claim because they did not arise from Menard\u2019s ownership, maintenance, or use of his Jeep, and Aetna refused Skal-ing\u2019s offer to arbitrate the issue.\nSkaling then filed a complaint in Superi- or Court seeking a declaration that he was entitled to compensation from Aetna under the UM provision of his insurance policy, and also seeking damages for Aetna\u2019s alleged breach of his insurance contract. At the close of evidence, Aetna filed a motion for judgment as a matter of law, pursuant to Rule 50(a) of the Superior Court Rules of Civil Procedure, on the ground that there was insufficient evidence that the position of the Jeep was the proximate cause of Skaling\u2019s injuries. A jury returned a verdict, finding that Skaling\u2019s injuries were proximately caused by Me-nard\u2019s negligence, and awarded Skaling, his wife, and two children $1,174,500 in damages. The jury reduced its original damage award of $1,305,000 by 10 percent, based on its determination that Skaling\u2019s own negligence was a contributing proximate cause of his injuries. After the jury returned its verdict, the trial justice denied Aetna\u2019s Rule 50(a) motion.\nAfter the verdict was returned, Skaling\u2019s motion for the addition of prejudgment interest pursuant to \u00a7 9-21-10 and \u00a7 27-7-2.2 was denied, and on March 30, 1998, judgment was entered for Skaling in the amount of $300,000, the liability limit on Aetna\u2019s UM policy. After the entry of judgment, Aetna filed a motion for a new trial, pursuant to Rule 59(a) of the Superi- or Court Rules of Civil Procedure, on the grounds that the trial justice committed prejudicial error in permitting the admission into evidence of two commendations for heroism that Skaling received and in charging the jury with a \u201csudden emergency\u201d instruction. This motion was also denied. Each party appealed, claiming error in the denial of their respective motions.\nAdditional facts will be added as required in the legal analysis of the issues raised.\nProximate Cause\nBefore evaluating the trial justice\u2019s denial of Aetna\u2019s motion for judgment as a matter of law, we must consider Skaling\u2019s assertion that this issue has not been properly preserved for appellate review. Skaling has argued that under Rule 50(b), a motion for judgment as a matter of law made at the close of evidence must be renewed within ten days of the entry of judgment in order for the issue to be preserved for appeal. Rule 50(b) provides that when a motion for judgment as a matter of law is made at the close of all evidence and is denied, \u201c[s]uch a motion may be renewed by service and filing not later than 10 days after entry of judgment.\u201d The corresponding federal rule has long been interpreted to require renewal of the motion after judgment is entered in order to preserve an issue for appeal. Cone v. West Virginia Pulp & Paper Co., 330 U.S. 212, 218, 67 S.Ct. 752, 756, 91 L.Ed. 849, 853-54 (1947). After careful consideration, we have concluded that we shall not apply this interpretation to the Rhode Island rule. Instead, we hold that if a motion for judgment as a matter of law was made at the close of all evidence, the motion is sufficiently preserved for review by this Court. This holding in no way modifies our established rule that if one party makes a motion for judgment as a matter of law at the close of the opponent\u2019s case and then presents evidence on his or her own behalf, the motion must be renewed at the close of all evidence. If the motion was not so renewed, the earlier motion is deemed waived and may not be reviewed. Hamrick v. Yellow Cab Co., 111 R.I. 515, 522, 304 A.2d 666, 671 (1973).\nThe standard for granting a motion for judgment as a matter of law is well settled. Mellor v. O\u2019Connor, 712 A.2d 375, 377 (R.I.1998); Dawson v. Rhode Island Auditorium, Inc., 104 R.I. 116, 121, 242 A.2d 407, 411 (1968). When considering such a motion, the trial justice must consider the evidence in the light most favorable to the nonmoving party, without weighing the evidence or evaluating the credibility of the witnesses, and draw from the record all reasonable inferences that support the position of the nonmoving party. Mellor, 712 A.2d at 377. If, after such a review, there remain factual issues upon which reasonable persons might draw different conclusions, the motion for judgment as a matter of law must be denied. Id. When this Court reviews a trial justice\u2019s decision on such a motion, we apply the same analysis. Id.\nAlthough Aetna did not dispute the jury\u2019s finding that Menard was negligent in his use of his automobile, it contended that there was insufficient evidence that such negligence was the proximate cause of Skaling\u2019s injuries. Because Skaling was not able to describe exactly how he fell from the bridge, Aetna argued that the jury could not conclude that the fall was caused by the Jeep. Aetna further asserted that the evidence indicated that Skaling could have fallen even if the Jeep were not on the bridge. We disagree with Aetna\u2019s analysis of proximate cause in this case.\nIn most cases, proximate cause is established by showing that but for the negligence of the tortfeasor, injury to the plaintiff would not have occurred. Fondedile, S.A. v. C.E. Maguire, Inc., 610 A.2d 87, 95 (R.I.1992); Evans v. Liguori, 118 R.I. 389, 396, 374 A.2d 774, 777 (1977). We have consistently held that the causal connection between negligence and a plaintiffs injury must be established by competent evidence and may not be based on conjecture or speculation. Hernandez v. Fernandez, 697 A.2d 1101, 1103 (R.I.1997). It is also clear, however, that a plaintiff is not required to demonstrate with absolute certainty each precise step in the causal chain between the tortfeasor\u2019s breach of duty and the injury. Rather, \u201c[c]ausation is proved by inference.\u201d Cartier v. State, 420 A.2d 843, 848 (R.I.1980). Moreover, \u201c[p]roof by inference need not exclude every other possible cause, but it must be based on reasonable inferences drawn from the facts in evidence.\u201d Id.\nIn the case at bar, there was ample evidence to support the jury\u2019s conclusion that Menard\u2019s negligence in driving his Jeep onto the bridge caused Skaling\u2019s injuries. Regardless of its exact position, the vehicle occupied almost the entire width of the bridge, and anyone who attempted to cross was forced to walk at the very edge of the bridge. Skaling\u2019s injuries did not occur in a vacuum. Webber fell off the bridge while trying to maneuver past the vehicle on the driver\u2019s side. In fact, one of the firefighters who responded to Mrs. Skaling\u2019s 911 call lost his footing at the same spot and avoided falling only because he had reached into the Jeep to hold on to its steering wheel. Another firefighter testified that she had to exercise care in passing the Jeep because \u201cit was narrow, it was tight, it was slippery.\u201d This evidence in our view was sufficient to support the jury\u2019s determination that but for the negligent driving of the vehicle on the bridge, Skaling would not have been forced to walk at the edge of the bridge and would have avoided being injured. See Verity v. Danti, 585 A.2d 65, 67 (R.I.1991) (liability could be imposed where defendant\u2019s negligent act permitted tree to block sidewalk, forcing plaintiff to walk into street where she was struck by automobile). Therefore, the trial justice did not err in denying Aetna\u2019s Rule 50(a) motion.\nAdmission of Commendations\nAetna maintained that it was entitled to a new trial because the trial justice committed reversible error by allowing into evidence two commendations given to Skaling by community groups after he was injured, one by a local Cub Scout pack for an \u201cUnselfish Act of Heroism,\u201d and one by the Rhode Island Chapter of the American Red Cross. According to Aetna, these commendations were not relevant, and their admission amounted to impermissible bolstering of Skaling\u2019s testimony of his attempt to rescue Webber. We disagree.\nDecisions concerning the admission or exclusion of evidence on the grounds of relevance are left to the sound discretion of the trial justice. State v. Gabriau, 696 A.2d 290, 294 (R.I.1997). We shall disturb the trial justice\u2019s decision only upon an abuse of that discretion. Id. There is no abuse when that \u201cdiscretion has been soundly and judicially exercised * * * in the light of reason applied to all the facts with a view to the rights of all the parties to the action.\u201d Citrone v. SNJ Associates, 682 A.2d 92, 95 (R.I.1996) (quoting DeBartolo v. DiBattista, 117 R.I. 349, 353, 367 A.2d 701, 703 (1976)).\nIn this case, the trial justice could reasonably have determined that the commendations were relevant. To advance Aet-na\u2019s argument that Skaling was negligent and that his negligence contributed to his own injuries, Aetna\u2019s attorney asked Skal-ing a number of questions designed to show that he was unprepared, possibly inebriated, and reckless in his attempt to rescue Webber. Therefore, the subsequent admission of the commendations could be seen as relevant to the question of whether Skaling\u2019s behavior was reckless under the circumstances in which he found himself. Thus, the trial justice did not abuse his discretion by permitting the admission of the commendations, and their admission did not constitute reversible error.\nSudden Emergency Instruction\nAetna\u2019s final argument to support its appeal of the denial of its motion for a new trial contended that the trial justice erred by charging the jury with a \u201csudden emergency\u201d instruction. Aetna argued that this instruction was not supported by the facts of the case and was prejudicial because it could be seen as reducing the standard of care to which Skaling should be held by the jury in evaluating his contributory negligence. We agree that the instruction should not have been given, but we do not believe that Aetna was prejudiced by the error.\nThis Court has previously held that the sudden emergency doctrine recognizes that \u201cindividuals confronted with sudden and unexpected events demanding immediate action cannot be held to the same standard of care required of one in no such predicament.\u201d Roth v. Hoxsie\u2019s Arco Service, Inc., 121 R.I. 428, 432, 399 A.2d 1226, 1228 (1979). Although a standard of reasonableness is applied, the exigent situation is but one factor that a jury may consider when evaluating the conduct at issue. Id. Any charge given to a jury must apply to the facts in evidence in the specific case. Brodeur v. Desrosiers, 505 A.2d 418, 422 (R.I.1986). We agree with Aetna that the evidence here does not support a sudden emergency instruction. Skaling was not confronted with a situation in which he had to make a split-second or instinctive decision. He had time to consider what course of action to take, as evidenced by his testimony that he decided to bring a blanket on his rescue attempt because he knew that a blanket could be useful in treating shock. This situation, therefore, could not be categorized as a sudden emergency.\nThe mere fact that a trial justice incorrectly charged the jury, however, does not result in reversible error. An erroneous charge warrants reversal only when the jury could have been misled to the resultant prejudice of the complaining party. DiPetrillo v. Dow Chemical Co., 729 A.2d 677, 692 (R.I.1999). Two observations support our conclusion that the sudden emergency instruction did not prejudice Aetna. First, based on all the evidence in the case, we are led to conclude that in the absence of the instruction, the jury would not have awarded Skaling less than $300,000 in damages. The purpose of the sudden emergency instruction in this case was to guide the jury in its evaluation of Skaling\u2019s contributory negligence. The jury did attribute 10 percent of Skaling\u2019s damages to his own negligence and, consistent with that finding, reduced its award of $1,305,000 to $1,174,-500. This reduction had no effect on Aetna\u2019s liability because the damage award was still far in excess of the $300,000 limit of the insurer\u2019s liability. It would have been necessary for the jury to determine that Skaling\u2019s own negligence proximately caused 77 percent of his damages before the award would have been reduced below the liability cap of the UM policy. In fight of the evidence, therefore, it is our conclusion that the absence of the erroneous instruction would not have resulted in the jury\u2019s finding that Menard\u2019s undisputed negligence caused no more than 23 percent of Skafing\u2019s damages.\nSecond, our determination that the sudden emergency instruction was not prejudicial also rests on the fact that the trial justice should have given an instruction on the rescue doctrine. Under this rale of law, one who attempts to rescue a person in imminent danger caused by the negligence of another cannot be charged with contributory negligence, as long as the rescue attempt is not reckless. Ouellette v. Carde, 612 A.2d 687, 689 (R.I.1992). Here, there was sufficient evidence for the jury to determine that Menard\u2019s negligence in driving the Jeep onto the bridge was the proximate cause of Webber\u2019s injury and that Skaling was engaged in a non-reckless attempt to rescue Webber. If the trial justice had charged the jury accordingly, he would not have instructed jurors on contributory negligence \u2014 save if they found Skaling\u2019s conduct was reckless \u2014 and the damages awarded by the jury would not have been reduced. Skaling neither appealed the trial justice\u2019s instruction to the jury on contributory negligence nor did he challenge the absence of an instruction on the rescue doctrine. Therefore, the damages as determined by the jury remain undisturbed.\nBecause Aetna was not prejudiced by the inclusion of the sudden emergency instruction, the erroneous charge to the jury was not reversible error.\nPrejudgment Interest\nIn turning to Skaling\u2019s appeal, we address his claim that the trial justice erred in denying his motion to add prejudgment interest to the $300,000 judgment. According to Skaling, two different statutory provisions mandated the inclusion of prejudgment interest: either \u00a7 27-7-2.2, which, he argued, would provide interest on the entire amount awarded by the jury, given that Skaling had made a demand to settle his claim for the policy limit, or, alternatively, \u00a7 9-21-10, which would have provided interest on the $300,000 judgment. We shall examine each of these statutes in turn.\nIn ruling on Skaling\u2019s motion for interest, the trial justice reviewed the statutes at issue and determined that they did not apply to this case. Statutory interpretations by a trial justice present questions of law that this Court reviews de novo. Levine v. Bess Eaton Donut Flour Co., 705 A.2d 980, 982 (R.I.1998). When construing statutes, this Court ascertains and effectuates the intent of the Legislature. State ex rel. Town of Middletown v. Anthony, 713 A.2d 207, 210 (R.I.1998). If the language of a statute is clear on its face, then its plain meaning must generally be given effect. Gilbane Co. v. Poulas, 576 A.2d 1195, 1196 (R.I.1990). But if a straight-forward mechanical application of the statutory language results in absurdity or defeats the legislative intent, we apply the statute to effectuate the purpose of the act. Commercial Union Insurance Co. v. Pelchat, 727 A.2d 676, 681 (R.I.1999).\nWe begin by considering the statutory provision that would give Skaling the greatest relief if his interpretation were adopted. The rejected settlement offer statute, \u00a7 27-7-2.2, provides in pertinent part that:\n\u201cIn any civil action in which the defendant is covered by liability insurance and in which the plaintiff makes a written offer to the defendant\u2019s insurer to settle the action in an amount equal to or less than the coverage limits on the liability policy in force at the time the action accrues, and the offer is rejected by the defendant\u2019s insurer, then the defendant\u2019s insurer shall be liable for all interest due on the judgment entered by the court even if the payment of the judgment and interest totals a sum in excess of the policy coverage limitation.\u201d\nSkaling argued that because he made a written demand to Aetna to settle for the limit of his UM policy and that demand was rejected, interest should be added to the judgment based on the entire $1,174,-500 awarded by the jury. We disagree.\nSkaling recognized that Aetna is not a defendant \u201ccovered by liability insurance,\u201d but nevertheless argued that \u00a7 27-7-2.2 should apply because Aetna is itself a liability insurer. We are not persuaded, however, to interpret the statute beyond its clear meaning. The language of \u00a7 27-7-2.2 is neither complex nor ambiguous, and construing its language strictly does not produce a result that is absurd or unreasonable. On its face, the statute reflects the Legislature\u2019s intent to encourage insurance companies to settle when insureds are hable to other parties for torts committed by the insureds. The statute postdated decisions of this Court, discussed post, which held that under the prejudgment interest statute, \u00a7 9-21-10, victims of insured tortfeasors could not collect prejudgment interest from the insurer that would result in payments that exceeded policy limits. In contrast, Skal-ing\u2019s claim here is that Aetna is liable to him for its own breach of contract. It is our considered opinion that the Legislature\u2019s intent, reflected in the plain language of the statute, precludes the addition of prejudgment interest under \u00a7 27-7-2.2 when the defendant is a liability insurer, rather than a party covered by a liability insurer.\nFinally, we consider Skaling\u2019s argument that interest should be added to the $300,000 judgment consistent with \u00a7 9-21-10, which provides that prejudgment interest in the amount of 12 percent per annum shall be added \u201c[i]n any civil action in which a verdict is rendered or a decision made for pecuniary damages.\u201d Skaling asserted that prejudgment interest must be added under the plain language of this statute because the $300,000 judgment resulted from a verdict rendered in a civil action for breach of contract. Aetna responded that under this Court\u2019s decisions in Factory Mutual Liability Insurance Co. of America v. Cooper, 106 R.I. 632, 262 A.2d 370 (1970), and Allstate Insurance Co. v. Pogorilich, 605 A.2d 1318 (R.I.1992), an insurer\u2019s liability cannot exceed the insurance policy limit.\nAfter careful review of the statutes and our prior holdings, we conclude that Factory Mutual and Pogorilich are readily distinguishable from the case before us. Factory Mutual was a case that involved third-party insurance. Factory Mutual, 106 R.I. at 633, 262 A.2d at 371. In that case, Factory Mutual was the plaintiff insurer and the defendants were judgment creditors who had been injured by Factory Mutual\u2019s insured, who was the tortfeasor. Id. This Court held that Factory Mutual was liable to the injured parties only because of the insurer\u2019s contract to indemnify its insured tortfeasor and that the insurer owed no duty to the injured parties. Id. at 635, 262 A.2d at 372. In such a situation, the insurance contract specifies the amount for which the insurer has agreed to indemnify the insured. To require the insurer to pay more than was contracted for would defeat the intention of the contracting parties. Although the insured tortfeasor remained liable to the injured party for all damages and for all prejudgment interest, this Court held that there was no reasonable justification for requiring the insurer to pay more than the liability limits included in the contract. Id. at 637, 262 A.2d at 373.\nUnlike Factory Mutual, Pogorilich was an UM insurance case. The insurer was liable directly to Pogorilich, its insured injured party, under the terms of the insurance contract that required the insurer to pay the insured a sum of money in the event an underinsured driver injured the insured. Pogorilich, 605 A.2d at 1319. Although the insurer in Pogorilich owed a duty to its insured injured party, it never breached that duty. The insurer admitted liability, and when a dispute arose concerning the exact amount of damages, the insurer agreed to submit that dispute to arbitration. Id. We have held that arbitration is a contractually agreed upon method of resolving disputes, Prudential Property and Casualty Insurance Co. v. Flynn, 687 A.2d 440, 441 (R.I.1996), and a party that agrees to submit a contract dispute to arbitration has not breached the contract. Because the parties in Pogori-lich agreed to arbitrate, the contract still controlled the resolution of their dispute, and there was no justification to expand the liability of the insurer beyond the limits specified in the policy. Pogorilich, 605 A.2d at 1321.\nIn the present case, Aetna owed a duty to Skaling, its insured, and it breached that duty. As in Pogorilich, Aetna\u2019s duty to its insured was determined by the UM insurance contract. In its contract, Aetna made a conditional promise that if Skaling was injured by an underinsured motorist, the company would pay for his damages up to a certain amount. The condition occurred when Menard\u2019s negligence caused Skaling\u2019s injury, and Aetna breached its contract by refusing to cover the damages within the contractual limits. Aetna\u2019s liability also could have been limited to the contract limits and it could have avoided breach if it had agreed to Skaling\u2019s demand to arbitrate the dispute, even though the insurance contract did not require arbitration of disputes over UM coverage. An agreement to arbitrate could be interpreted as a mutual modification of the contract and would be as binding on the parties as the original contract.\nAetna\u2019s breach forced Skaling to resort to litigation to enforce his rights under the contract, and consequently, the damage award as embodied in the judgment is squarely within the plain language of \u00a7 9-21-10. Therefore, prejudgment interest must be added to the judgment entered by the court. This outcome in no way affegts the rule of Pogorilich that still controls disputes concerning UM insurance that are submitted to arbitration under the insurance contract or by agreement of the parties.\nOur resolution of this question is dictated not only by the plain language of \u00a7 9-21-10, but also is supported by the clear policy behind the statute. We have recognized that the purpose of statutes that award prejudgment interest is the encouragement of early settlement of claims. Martin v. Lumbermen\u2019s Mutual Casualty Co., 559 A.2d 1028, 1031 (R.I.1989). Such an outcome is clearly the legislative intent of both \u00a7 27-7-2.2 and \u00a7 9-21-10. For the reasons discussed ante, we have concluded that \u00a7 27-7-2.2 does not apply when an action is brought against a UM insurer by its own insured. Were we also to decide that \u00a7 9-21-10 did not apply to this situation, we would remove all incentive for an insurer to settle claims in a reasonably timely manner, even when the contract clearly requires coverage. It would be in an insurer\u2019s interest to dispute even the most meritorious claims because the maximum cost to the insurer in any protracted proceedings would be the policy limit, and during that time the insurer would enjoy full use of any funds owed the insured. This outcome would clearly violate the legislative intent embodied in the statutory enactments requiring prejudgment interest.\nConclusion\nIn summary, with respect to Aetna\u2019s appeal, we hold that there was sufficient evidence that Menard\u2019s negligence was the proximate cause of Skaling\u2019s injuries. Further, the trial justice did not commit reversible error in admitting the commendations for heroism or in giving a sudden emergency instruction. Therefore, Aet-na\u2019s appeal is denied. With respect to Skaling\u2019s appeal, the trial justice was correct in declining to award prejudgment interest pursuant to \u00a7 27-7-2.2, but he erred in not awarding prejudgment interest pursuant to \u00a7 9-21-10. Therefore, Skaling\u2019s appeal is denied in part and sustained in part. The papers in the case are remanded to the Superior Court for the addition of interest to the $300,000 judgment in accordance with \u00a7 9-21-10.\n. The complaint originally sought compensation up to $600,000, under the mistaken belief that there was a separate $300,000 UM liability cap on each of Skaling\u2019s two insured automobiles. It is no longer disputed that the UM liability cap on Skaling\u2019s policy with Aetna is $300,000.\n. The complaint also sought damages for Aet-na\u2019s bad-faith refusal to settle Skaling\u2019s claim. The bad-faith claim was severed at the beginning of trial and is still pending.\n. The Rhode Island Trial Lawyers Association filed an amicus brief in support of Skaling's appeal. The American Insurance Association filed an amicus brief arguing that Skaling's motion for prejudgment interest had been properly denied by the trial justice.",
+        "type": "majority",
+        "author": "LEDERBERG, Justice."
+      }
+    ],
+    "attorneys": [
+      "Kelly M. Fracassa, Westerly, Nicholas Gorham, North Scituate, for Plaintiffs.",
+      "Thomas R. Bender, William M. Dolan, David P. Whitman, Providence, for Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Robert SKALING et al. v. AETNA INSURANCE CO. et al.\nNos. 98-282-Appeal, 98-335-Appeal.\nSupreme Court of Rhode Island.\nDec. 16, 1999.\nKelly M. Fracassa, Westerly, Nicholas Gorham, North Scituate, for Plaintiffs.\nThomas R. Bender, William M. Dolan, David P. Whitman, Providence, for Defendants.\nPresent WEISBERGER, C.J., and LEDERBERG, BOURCIER, FLANDERS, and GOLDBERG, JJ."
+  },
+  "file_name": "0282-01",
+  "first_page_order": 328,
+  "last_page_order": 338
+}

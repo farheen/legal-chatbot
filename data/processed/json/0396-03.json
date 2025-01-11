@@ -1,0 +1,64 @@
+{
+  "id": 12487799,
+  "name": "Bahich v. Paisley",
+  "name_abbreviation": "Bahich v. Paisley",
+  "decision_date": "2016-10-31",
+  "docket_number": "Pet. Docket No. 225; Sept. Term, 2016",
+  "first_page": "396",
+  "last_page": "396",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 396"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 143,
+    "sha256": "1dd7212d1629a2249708b498f82b46404d2a4d5fa24ddd4ad2ff05b100ee40e8",
+    "simhash": "1:3aca503090630099",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bahich\nv.\nPaisley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bahich\nv.\nPaisley\nPet. Docket No. 225\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 31, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0396-03",
+  "first_page_order": 396,
+  "last_page_order": 396
+}

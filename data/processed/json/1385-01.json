@@ -1,0 +1,197 @@
+{
+  "id": 11316491,
+  "name": "ARBERN-WILMINGTON, INC., Appellee Below, Appellant/Cross-Appellee, v. DIRECTOR OF REVENUE, Appellant Below, Appellee/Cross-Appellant",
+  "name_abbreviation": "Arbern-Wilmington, Inc. v. Director of Revenue",
+  "decision_date": "1991-09-18",
+  "docket_number": "",
+  "first_page": "1385",
+  "last_page": "1391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "596 A.2d 1385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "465 Pa. 53",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712680
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/465/0053-01"
+      ]
+    },
+    {
+      "cite": "281 U.S. 66",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3913574
+      ],
+      "weight": 3,
+      "year": 1930,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/281/0066-01"
+      ]
+    },
+    {
+      "cite": "556 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7882089
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "195"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/556/0190-01"
+      ]
+    },
+    {
+      "cite": "269 A.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8068026
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/269/0413-01"
+      ]
+    },
+    {
+      "cite": "441 A.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944861
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/441/0226-01"
+      ]
+    },
+    {
+      "cite": "451 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7974202
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/451/0832-01"
+      ]
+    },
+    {
+      "cite": "492 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7926451
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/492/1242-01"
+      ]
+    },
+    {
+      "cite": "685 P.2d 1331",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        722471
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/141/0179-01"
+      ]
+    },
+    {
+      "cite": "39 A.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 A.2d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1943,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 927,
+    "char_count": 21508,
+    "ocr_confidence": 0.791,
+    "pagerank": {
+      "raw": 1.5388194168805164e-07,
+      "percentile": 0.6725110228434168
+    },
+    "sha256": "2f8c3e6cf0c45b609499bd9439c6da79c0152f152f9bd196b11f7547c2687695",
+    "simhash": "1:e7f0c0f9589e4f52",
+    "word_count": 3484
+  },
+  "last_updated": "2024-02-27T18:13:48.068462+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CHRISTIE, C.J., HORSEY and WALSH, JJ."
+    ],
+    "parties": [
+      "ARBERN-WILMINGTON, INC., Appellee Below, Appellant/Cross-Appellee, v. DIRECTOR OF REVENUE, Appellant Below, Appellee/Cross-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "WALSH, Justice:\nThese cross appeals from the Superior Court require a determination of whether one engaged in the conversion of apartments into condominium units is subject to the tax imposed on a contractor\u2019s gross receipts under 30 Del.C. \u00a7 2501 or an occupation tax under 30 Del.C \u00a7 2301(b), or neither. The Tax Appeal Board (\u201cBoard\u201d) ruled that the appellant, Arbern-Wilming-ton, Inc. (\u201cArbern\u201d), was not subject to the contractor tax nor was it required to secure an occupational license. On appeal by the Director of the State Division of Revenue (the \u201cDirector\u201d), the Superior Court affirmed the Board's ruling that Arbern could not be deemed a contractor but ruled that Arbern was subject to the occupational tax. We affirm the Superior Court\u2019s determination as to the contractor license but reverse its ruling that Arbern is subject to payment of a tax on its gross receipts under an occupational license.\nI\nThe facts underlying this matter are essentially undisputed. On March 19, 1985, the Director issued a notice of assessment to Arbern imposing a tax deficiency in the amount of $57,407 for failure to secure a contractor\u2019s license. This tax was computed upon the retail sale prices of condominium units sold by Arbern during the years 1981, 1982 and 1983. The notice also assessed penalties in the amount of $50,664 and interest of $21,298.\nThe Director also issued an alternative notice of assessment which proposed to impose an occupational license tax in the amount of $37,500 attributable to Arbern\u2019s sales of condominiums during the same period. This alternative assessment proposed to impose penalties of $32,429 and interest of $13,603.\nArbern filed a written protest with the Division of Revenue contesting the proposed tax assessment and penalties. On March 12, 1986, the Division issued a letter rejecting Arbern\u2019s protest and upholding the notice of assessment. Arbern then filed a timely appeal of the assessment with the Board. Prior to the hearing before the Board, Arbern and the Director entered into a stipulation of the following facts:\n1. Petitioner [Arbern] was incorporated on July 8, 1980.\n2. Petitioner purchased the apartment building located at 1401 Pennsylvania Avenue (the \u201cBuilding\u201d) on January 30, 1981 for a purchase price of $4,820,000.\n3. Petitioner determined to convert the Building from rental units to condominium units at the time of purchase of the Building. As soon as the various legal requirements to effectuate such a conversion were accomplished, petitioner commenced selling units in the Building pursuant to the Unit Property Act to tenants, investors or other persons. One hundred eighty four units were sold by the close of 1983. The total consideration received by petitioner for all the units in the Building sold during 1981, 1982 and 1983 was $8,836,407, of which $6,003,-572 was received in 1981, $1,818,011 was received in 1982, and $1,014,824 was received in 1983. The 1983 receipts included $120,000 received from the sale of 1021 Park Place, which was received as a trade-in on a unit purchased in the Building.\n4. Prior to the conversion of the Building to condominiums, petitioner hired Kerand Management Company to manage the Building.\n5. The total cost of renovations of all units in the Building sold during 1981, 1982 and 1983 as reported by petitioner on its federal and Delaware income tax returns, copies of which are attached hereto, was $924,444 of which $526,826 was incurred in 1981, $222,667 was incurred in 1982, and $174,951 was incurred in 1983 (including $98,000 paid for the 1021 Park Place trade-in property).\n6. The total cost of renovations referred to in paragraph 5. above consists of the following categories of costs:\na. Repairs and improvements. Petitioner made repairs and improvements to the Building in order to facilitate sales of condominium units. Most of the repairs and improvements were made by persons unrelated to petitioner or any of its shareholders, which persons furnished labor or both labor and materials to the job. Such persons are defined as a \u201ccontractor\u201d under 30 Del.C. \u00a7 2501(1). The principal items furnished by contractors included the following:\n(i) carpeting lobby and halls\n(ii) concrete masonry\n(iii) weatherproofing\n(iv) landscaping\n(v) window glazing\n(vi) electrical\n(vii) plumbing\n(viii) carpentry\n(ix) roofing\n(x) boiler work\n(xi) painting\n(xii) flooring\n(xiii) elevator work\n(xiv) drywall\nb. Professional fees and taxes. Petitioner also paid fees to architects and engineers, and paid City of Wilmington condominium conversion taxes.\nc. Tangible personal property items. Petitioner purchased ranges, refrigerators and air conditioners for units as required, as well as lobby furniture, pictures and other tangible personal property items.\n7. The total cost of renovations for the years 1981 through 1983 is allocated among the various categories of expense as follows:\nTotal cost of renovations reported on income tax returns $924,444\nLess cost of trade in unit-1021 Park Place Balance 98,000 $826,444\na. Repairs and improvements by subcontractors 588,968\nb. Professional fees and taxes 27,948\nc. Tangible personal property 209,528\nTotal $826,444\n8. During the year 1981 and a portion of 1982, petitioner employed personnel as maids, parking attendants, doormen and maintenance personnel. The number of maintenance personnel serving at any one time were between one and two. During 1982 and 1401 Condominium Association assumed responsibility for maintenance of the Building, and such personnel were thereupon removed from petitioner\u2019s payroll.\nIn a written decision dated July 3, 1990, the Board determined that Arbern was not a contractor subject to taxation of gross receipts pursuant to 30 Del.C. \u00a7 2501(1), nor was Arbern subject to the general services provision of the occupational license tax imposed by 30 Del.C. \u00a7 2301(b).\nOn appeal, the Superior Court agreed with the Board that Arbern was not a contractor within the meaning of 30 Del. C. \u00a7 2501(b) because it was an owner/developer, not hired by another to furnish labor and/or materials for a project. With respect to the occupational tax, however, the Superior Court, in reversing the Board, ruled that Arbern was in the \u201cbusiness\u201d of making improvements to real property and thus fell within the catch-all language of 30 Del.C. \u00a7 2301(b). Arbern has appealed the Superior Court ruling that it is subject to the occupational tax while the Director has cross-appealed from the determination that Arbern is not required to secure a contractor\u2019s license and pay the gross receipts tax attributable to that status.\nII\nAlthough the initial appeal in this matter was at the behest of Arbern, contesting the Superior Court\u2019s ruling on the occupational tax, we will approach the questions posed, as did the Board and the Superior Court, by focusing first on the Director\u2019s claim that Arbern\u2019s activities justified the imposition of a contractor\u2019s tax under 30 Del.C. \u00a7 2501(1).\nThe Director contends that Arbern is a contractor because it furnished labor and materials in connection with the alteration and development of real property, therefore the funds received by Arbern in exchange for the condominium units should be taxed as gross receipts. Delaware law provides that all contractors are subject to a tax based on the aggregate gross receipts paid to the contractor. 30 Del.C. \u00a7 2502(c)(1). Section 2501 of Title 30 defines \u201cContractor\u201d and \u201cGross receipts\u201d as follows:\n(1) \u2018Contractor\u2019 includes every person engaged in the business of furnishing labor or both labor and materials in connection with all or any part of the construction, alteration, repairing, dismantling or demolition of buildings, roads, bridges, viaducts, sewers, water and gas mains and every other type of structure as an improvement, alteration or development of real property; a person is a contractor regardless of whether he is a general contractor or a subcontractor, or whether he is a resident or a nonresident.\n(2) \u2018Gross receipts\u2019 includes all sums received by a contractor for any work done or material supplied in connection with any real property located in this State, but does not include sums paid to subcontractors by the contractor; provided said subcontractor is subject to the provisions of this chapter with respect to these sums; and provided that a written agreement exists between the contractor and subcontractor stating the exact sums payable to said subcontractor.\nWhen interpreting statutes, courts must apply well established rules of construction. The Delaware Code itself directs that \u201c[wjords and phrases shall be read with their context and shall be construed according to the common and approved usage_\u201d 1 Del.C. \u00a7 303. If there is doubt regarding the breadth of a taxing statute, the court must construe the statute against the taxing authority and in favor of the taxpayer. Consolidated Fisheries Co. v. Marshall, Del.Super., 32 A.2d 426 (1943), aff'd, Del.Supr., 39 A.2d 413 (1944). \u201cThe general principle is well settled that revenue laws are not to be so construed as to extend their provisions beyond the clear import of the language used, or to enlarge their operation so as to embrace matters not specifically pointed out, although standing in close analogy.\u201d Id.\nIn usual parlance, a contractor is a person who is in the business of furnishing labor or labor and materials to another under contract, in conjunction with the alteration or development of real estate. The Superior Court ruled that Arbern was \u201cnot a contractor because it was not hired by anyone to furnish labor or labor and materials to the project.\u201d In addition, \u201c[tjhere was no transfer of money from the \u2018owner\u2019 to the \u2018contractor\u2019; thus, there was no taxable event.\u201d We agree with the Superior Court\u2019s analysis of 30 Del.C. \u00a7 2501(1). A contractor must be in the business of furnishing labor or materials or both. Here it is not disputed that parties other than Arbern furnished the labor and/or materials necessary to effect the apartment conversions. Arbern was the entity with whom those parties contracted for that result.\nMoreover, the funds received by Ar-bern in exchange for the condominium units cannot be considered gross receipts. Gross receipts are funds received by a contractor in return for work done or materials supplied. The funds received by Ar-bern were for completed condominium units the value of which represented only in part \u201cwtrk done or materials supplied.\u201d\nIn support of its ruling, the Superior Court relied on the holding in City of Phoenix v. Santa Anita Development, Ariz. App. 685 P.2d 1331 (1984). In City of Phoenix, the court examined a tax statute similar to Delaware\u2019s in the context of a dispute over whether a developer was a contractor within the meaning of the Phoenix City Code and thus not subject to the tax on a contractor\u2019s gross receipts.\nThe taxing statute in City of Phoenix is cast in language somewhat different from the Delaware statute. Specifically, it defined \u201ccontractor\u201d to include \u201cdeveloper.\u201d The Court of Appeals held that since the taxpayer was not engaged in contracting activity, but rather was employed merely in the activity of a developer who was hiring others to do the contracting, the gross receipts tax did not apply. The Superior Court reasoned that if the court in the City of Phoenix determined that the taxpayer did not fall within the purview of the Phoenix City Code, then clearly the taxpayer in the present case was not a contractor under the more restrictive language of the Delaware statute. We agree with this analogy.\nArbern was not \u201cengaged in the business of furnishing labor or both labor and materials. ...\u201d Arbern purchased the building, transformed the units into condominiums and sold them to the public. This activity is clearly outside of the scope of 30 Del.C. \u00a7 2501(1). Accordingly, we find the Superi- or Court correctly determined that Arbern was not a contractor and hence was not subject to the contractor\u2019s license tax.\nIll\nWe next consider the Superior Court\u2019s ruling that Arbern was subject to an Occupational License Tax under 30 Del.C. \u00a7 2301. This is a closer question requiring the interpretation of statutory language which is somewhat ambiguous.\nThe Occupational License Tax applies to a number of specifically defined callings set forth in \u00a7 2301(a), as well as to any occupation falling under a catch-all provision in \u00a7 2301(b). That subsection provides:\nUpon every person engaging or continuing to engage in any service industry, business, calling or profession not otherwise specifically licensed and taxed under subsection (a) of this section, there is hereby levied and there shall be collected an annual general service license fee of $50.\nThe trial court construed the phrase \u201cUpon every person engaging or continuing to engage in any service industry, business, calling or profession ...\u201d to encompass any person holding himself or herself out to the public as being engaged in some business, i.e. any business. Arbern contends that the trial court erred in this construction. It argues that the adjective \u201cservice\u201d modifies all four of the nouns following it and that the statute therefore applies only to persons holding themselves out to the public as being engaged in some service-oriented business. The Director counters that such a reading would be unnatural because, while the term \u201cindustry\u201d is commonly used with a descriptive modifier such as \u201cservice\u201d, the words \u201cbusiness\u201d and \u201ccalling\u201d are not. Thus, the argument goes, the statute applies to any person holding himself or herself out to the public as being engaged in any business, calling, profession, or service industry.\nWe recognize that both interpretations of the statute are reasonable and neither is grammatically incorrect. The statute is therefore ambiguous. However, application of settled canons of statutory construction dictate that we resolve this ambiguity in favor of Arbern. We, therefore, hold that the catch-all provision of BO Del.C. \u00a7 2301(b) applies only to persons holding themselves out as being engaged in a business which results, at least in part, in providing services to the public.\nIt is a well-settled principle of construction that the legislature enacts statutes as a whole and that each part must be read in conjunction with the other parts. Coastal Barge Cory. v. Coastal Zone Indus., DeLSupr., 492 A.2d 1242 (1985). We, therefore, begin by analyzing the several subsections of Section 2301 itself. It is clear from the outset that subsections (a) and (b) are closely related provisions. Subsection (b) is a catch-all provision designed to expand the scope of the statute beyond what is specified in subsection (a). The issue, then, is how far subsection (b) expands that scope. We believe that construing the statute so that it applies to all those holding themselves out as being in any business expands subsection (b) to a point where it eclipses subsection (a), rendering most of subsection (a) unnecessary. Of the 91 occupations contained in subsection (a), 78 are levied a fee of $50. Yet, under the Superior Court\u2019s interpretation, if these occupations were not included in (a), they would still be subject to the same $50 fee under (b). Such a reading makes those 78 paragraphs of subsection (a) superfluous. A statute will not be construed in such a way that part of it becomes surplusage if there is another reasonable construction available. Nationwide Ins. Co. v. Graham, Del.Supr., 451 A.2d 832 (1982).\nA broad reading of subsection (b) would also produce a strained reading of subsection (c)(1), which provides:\nAny person licensed under subsection (a) or (b) of this section whose business activity or operation is not limited to the rendition of services for other persons but also involves the sale or exchange of goods or personal property shall also be subject to [Chapter 29]. (emphasis added).\nIf subsection (b) applies to any type of business, there is no reason to define the scope of subsection (c) negatively. If the legislative intent was to single out businesses that provide both services and goods, it could have done so in much simpler language. Moreover, in normal usage, the emphasized portion of subsection (c)(1) implies that subsections (a) and (b) apply only to businesses that provide services. We are required to give the words of a statute their normal meaning. 1 Del.C. \u00a7 303. Kofron v. Amoco Chemicals Cory., Del.Supr., 441 A.2d 226 (1982).\nFinally, we note that subsection (b) itself purports to apply a \u201cgeneral service license fee\u201d, not just a general license fee. We must assume the legislature intended every word in the statute to carry some meaning. In re Estate of Webb, Del.Ch., 269 A.2d 413 (1970). The designation given to this fee plainly implies that it was intended to cover service occupations only.\nThe contextual setting of a particular provision in a taxation statute may be of significance in gauging its meaning. Gow v. Director of Revenue, Del.Supr., 556 A.2d 190, 195 (1989). It is clear that section 2301(b), when construed in conjunction with other provisions of section 2301, was intended to apply only to service-oriented occupations. Subsection (a) contains a list consisting almost entirely of service-oriented occupations. Subsection (b) applies the general service license fee and subsection (c) implies that subsections (a) and (b) apply only to service occupations.\nIf we had any doubt as to the scope of section 2301(b), it is dispelled by considering the tax scheme of Title 30 as a whole and as applied to appellant. Arbern is in the business of selling condominiums. Condominiums are for all purposes considered real property. 25 Del. C. \u00a7 2204. On each occasion when Arbern sold a condominium, it was subject to all taxes applied to the transfer of realty, including the Realty Transfer Tax of 30 Del.C. \u00a7 5402. The Realty Transfer Tax is levied against any consideration received by the seller of real property. Id. The Occupational License Tax is levied against the aggregate gross receipts received by the taxpayer. 30 Del. C. \u00a7 2301(d)(1). \u201cGross receipts\u201d is defined as the \u201ctotal consideration received by a licensee for goods sold, services rendered or other income producing transaction within the State.\u201d (sic) 30 Del.C. \u00a7 2301(e).\nUnder the Superior Court\u2019s interpretation of the statute, appellant\u2019s business would be subject to the Occupational License Tax and the Realty Transfer Tax for the same transactions. Such a harsh result in the absence of any evidence that the legislature intended both taxes to apply suggests that the General Assembly never contemplated the scope of the Occupational License Tax to be so broad. Accordingly, we conclude that the legislature never intended the occupational tax to apply to Arbern\u2019s activities in the conversion and sale of the condominium units.\nIn sum, we conclude that the Superior Court correctly determined that Arbern was not a contractor within the meaning of 30 Del. C. \u00a7 2501 and we affirm that ruling. However, we reverse its ruling that Arbern was required to secure an occupational license and pay a gross receipts tax on the proceeds of its condominium sales.\nAFFIRMED IN PART AND REVERSED IN PART.\n. Subsection (b) imposes an occupational licensing requirement \"Upon every person engaging or continuing to engage in any service industry, business, calling or profession not otherwise specifically licensed and taxed under subsection (a) of this section, there is hereby levied and there shall be collected an annual general service license fee of $50.\u201d\n. The tax is actually found in \u00a7 2301(d). By its terms, however, that subsection applies to any occupation subject to the license fee provisions of subsections (a) or (b). Because Arbern\u2019s activities are not found in the \"laundry list\u201d of occupations set out in subsection (a), application of the tax to Arbern turns on whether its activities fall under the catch-all provision of subsection (b).\n. The fee of $50 was applicable to appellant\u2019s activities at the time of the transactions sought to be assessed. The subsection (b) fee, as well as many of the subsection (a) fees, have since been changed to $75. See 67 Del.Laws c. 261 \u00a7\u00a7 1 and 6 (1989). This change in no way affects our analysis.\n. We note that, although there seems to be no constitutional or statutory prohibition against double taxation, see, e.g., Carley & Hamilton, Inc. v. Snook, 281 U.S. 66, 50 S.Ct. 204, 74 L.Ed. 704 (1930), many courts have recognized a presumption against such taxation which can only be defeated by an expressed legislative intent. See 84 C.J.S. Taxation \u00a7 40 (1954 & Supp 1991). The presumption seems to be a corollary of the rule that tax statutes must be strictly construed with all reasonable doubt resolved in favor of the taxpayer, Estate of Rose, 465 Pa. 53, 348 A.2d 113 (1975), a rule this Court has followed for some time. Consolidated Fisheries Co. v. Marshall, Del.Super., 32 A.2d 426 (1943), aff\u2019d, Del.Supr., 39 A.2d 413 (1944).",
+        "type": "majority",
+        "author": "WALSH, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Johannes R. Krahmer and John S. McDaniel, Morris, Nichols, Arsht & Tun-nell, Wilmington, for appellant.",
+      "Joseph Patrick Hurley, Jr., Deputy Atty. Gen., Dept, of Justice, Div. of Revenue, Wilmington, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "ARBERN-WILMINGTON, INC., Appellee Below, Appellant/Cross-Appellee, v. DIRECTOR OF REVENUE, Appellant Below, Appellee/Cross-Appellant.\nSupreme Court of Delaware.\nSubmitted: June 18, 1991.\nDecided: Sept. 18, 1991.\nJohannes R. Krahmer and John S. McDaniel, Morris, Nichols, Arsht & Tun-nell, Wilmington, for appellant.\nJoseph Patrick Hurley, Jr., Deputy Atty. Gen., Dept, of Justice, Div. of Revenue, Wilmington, for appellee.\nBefore CHRISTIE, C.J., HORSEY and WALSH, JJ."
+  },
+  "file_name": "1385-01",
+  "first_page_order": 1451,
+  "last_page_order": 1457
+}

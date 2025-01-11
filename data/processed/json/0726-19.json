@@ -1,0 +1,58 @@
+{
+  "id": 12487134,
+  "name": "Commonwealth v. Michael W. Trollinger",
+  "name_abbreviation": "Commonwealth v. Trollinger",
+  "decision_date": "2016-08-10",
+  "docket_number": "NO. 892 MAL (2015)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 145,
+    "sha256": "f4c4f58573c836e7fee19bcff04cf7dbafdf8dc457673f80bab1a4eced75dec3",
+    "simhash": "1:f4ad563798480291",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMichael W. Trollinger"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMichael W. Trollinger\nNO. 892 MAL (2015)\nSupreme Court of Pennsylvania\nAugust 10, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-19",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

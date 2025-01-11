@@ -1,0 +1,58 @@
+{
+  "id": 12486552,
+  "name": "Com. v. A. Bassett",
+  "name_abbreviation": "Com. v. Bassett",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 810 EDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 107,
+    "sha256": "113e1938c265f45ad816213385e08792f08708378d7b7e2bf4556e6a5beb8105",
+    "simhash": "1:948802f40b8980c1",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Bassett"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Bassett\nNO. 810 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nReversed and Remanded."
+  },
+  "file_name": "0196-07",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

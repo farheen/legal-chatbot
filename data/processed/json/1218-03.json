@@ -1,0 +1,78 @@
+{
+  "id": 7296997,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Ernest CANNON, Respondent",
+  "name_abbreviation": "Commonwealth v. Cannon",
+  "decision_date": "2009-10-20",
+  "docket_number": "",
+  "first_page": "1218",
+  "last_page": "1219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "982 A.2d 1218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "391 U.S. 123",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767670
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 753,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883818322998754
+    },
+    "sha256": "063d0aadf47782411211e54266d13f2a0ac8d12a30043ef524b150bc99119309",
+    "simhash": "1:9c2f922a43093bb1",
+    "word_count": 116
+  },
+  "last_updated": "2024-02-27T22:54:53.859611+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Ernest CANNON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of October, 2009, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\nDid the Superior Court override controlling authority establishing that in a joint trial, where the Commonwealth properly redacted a co-defendant\u2019s statement and did not use it to directly establish defendant\u2019s guilt, and where the trial court properly instructed the jury regarding that statement, the narrow exception to the presumption that a jury will follow its instructions established in Bruton v. United States, 391 U.S. 123, 88 S.Ct. 1620, 20 L.Ed.2d 476 (1968), does not apply?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Ernest CANNON, Respondent.\nSupreme Court of Pennsylvania.\nOct. 20, 2009."
+  },
+  "file_name": "1218-03",
+  "first_page_order": 1254,
+  "last_page_order": 1255
+}

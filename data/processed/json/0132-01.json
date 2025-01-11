@@ -1,0 +1,112 @@
+{
+  "id": 11313105,
+  "name": "STATE v. Ramon GUZMAN",
+  "name_abbreviation": "State v. Guzman",
+  "decision_date": "1994-11-25",
+  "docket_number": "No. 93-669-C.A.",
+  "first_page": "132",
+  "last_page": "133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "650 A.2d 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "386 U.S. 300",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174244
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0300-01"
+      ]
+    },
+    {
+      "cite": "576 A.2d 1202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7389983
+      ],
+      "pin_cites": [
+        {
+          "page": "1204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/576/1202-01"
+      ]
+    },
+    {
+      "cite": "353 U.S. 53",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159521
+      ],
+      "weight": 6,
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/353/0053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 271,
+    "char_count": 3540,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23969331802742166
+    },
+    "sha256": "bb4359dda2712433dc728940f123bc7f0abf37612343e2147a405fde2684d449",
+    "simhash": "1:305a31d12eb38bf1",
+    "word_count": 576
+  },
+  "last_updated": "2024-02-27T19:00:02.522567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Ramon GUZMAN."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM.\nThis case came before the court for oral argument November 2, 1994, pursuant to an order that had directed both parties to appear in order to show cause why the issues raised in this appeal should not be summarily decided.\nAfter hearing the arguments of counsel and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown and that the issues raised by the appeal should be summarily decided.\nThe state has appealed from an order entered by a justice of the Superior Court requiring the state to disclose the identity of a confidential informant. In this case the confidential informant gave information to a member of the Providence police department that enabled the police to obtain warrants to search two apartments located at 48 Wesleyan Avenue in the city of Providence. The confidential informant had told the police that a sale of cocaine had taken place in apartment 1 and that drugs were stored in apartment 6. On the basis of affidavits executed by a law enforcement officer and containing this information, search warrants were issued.\nAt the time of the execution of the search warrants, defendant, Ramon Guzman, was present in the apartment where a quantity of drugs was stored. The defendant was arrested and charged with possession of a controlled substance and possession with intent to deliver drug paraphernalia and a controlled substance.\nThe defendant sought disclosure of the identity of the confidential informant pursuant to Roviaro v. United States, 353 U.S. 53, 77 S.Ct. 623, 1 L.Ed.2d 639 (1957).\nIn the case at bar, however, it appears that the confidential informant did not participate in any crime of which defendant stands accused. The informant merely provided evidence of probable cause on the basis of which search warrants were issued. The defendant did not satisfy the burden of showing that testimony to be elicited from the informant would aid in the defense. State v. Clark, 576 A.2d 1202, 1204 (R.I.1990).\nThe government-informant privilege is essential to the effective operation of law enforcement. McCray v. Illinois, 386 U.S. 300, 87 S.Ct. 1056, 18 L.Ed.2d 62 (1967). See also 8 Wigmore on Evidence, \u00a7 2374 (McNaughton rev. 1961). It should not lightly be set aside in the absence of persuasive evidence that the informant\u2019s testimony would be likely to absolve a defendant of the charge placed against him. Here, the charge is based upon the defendant\u2019s presence in the apartment where drugs were found. Without commenting on the defendant\u2019s guilt or innocence or his possession of the controlled substances, either actual or constructive, it does not appear likely that the informant\u2019s previous contact with other individuals at the apartments in question would affect the guilt or innocence of this defendant arising out of his presence at the time of the execution of the search warrants. Roviaro v. United States, 353 U.S. 53, 77 S.Ct. 623, 1 L.Ed.2d 639 (1957), a nonconstitutional evidentiary ruling, does not require or suggest a different result.\nConsequently the state\u2019s appeal is sustained. The order entered in the Superior Court is reversed. The papers in the case may be remanded to the Superior Court for further proceedings.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Jeffrey Pine, Atty. Gen., Robert J. Durant, Jr., Aaron Weisman, Asst. Attys. Gen., for plaintiff.",
+      "Richard Casparian, Public Defender, Paula Lynch Hardiman, Paula Rosin, Asst. Public Defenders, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Ramon GUZMAN.\nNo. 93-669-C.A.\nSupreme Court of Rhode Island.\nNov. 25, 1994.\nJeffrey Pine, Atty. Gen., Robert J. Durant, Jr., Aaron Weisman, Asst. Attys. Gen., for plaintiff.\nRichard Casparian, Public Defender, Paula Lynch Hardiman, Paula Rosin, Asst. Public Defenders, for defendant."
+  },
+  "file_name": "0132-01",
+  "first_page_order": 190,
+  "last_page_order": 191
+}

@@ -1,0 +1,105 @@
+{
+  "id": 12166671,
+  "name": "In re J. P. Kilsheimer and H. L. Haynes",
+  "name_abbreviation": "In re Kilsheimer",
+  "decision_date": "1965-07-22",
+  "docket_number": "No. 7361",
+  "first_page": "1702",
+  "last_page": "1710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1702"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "317 F. 2d 388",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        165264,
+        6081856
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/317/0388-01",
+        "/ccpa/50-2/1274-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1274",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081856
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1279"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1274-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 833,
+    "char_count": 17836,
+    "ocr_confidence": 0.556,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43813693385212804
+    },
+    "sha256": "c1c23566bc97049705f8d2719e998bde7203bdf25acd73d4685d146226d4bb77",
+    "simhash": "1:4653080764a629d7",
+    "word_count": 2681
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re J. P. Kilsheimer and H. L. Haynes"
+    ],
+    "opinions": [
+      {
+        "text": "MaetiN, Judge\ndelivered the opinion of the court:\nJohn B. Kilsheimer and Harry L. Haynes appeal the decision of the board, adhered to on reconsideration, affirming the examiner\u2019s rejection of claims 1 and 5, the only claims remaining in their application serial No. 676,368, filed August 5, 1957 for \u201c3-Isopropylphenyl N-Methylcarbamate and Insecticidal Compositions containing the Same.\u201d\nThe invention, a chemical compound which appellants have discovered is an effective insecticide, is claimed as follows:\n1. 3-Isopropylphenyl N-methylcarbamate.\n5. The method of killing insects which comprises applying 3-isopropylphenyl N-methyl-carbamate to said insects.\nThe compound of the claims, 3-isopropylphenyl N-methylcarbamate, has the following structure:\nThe 3-position on the phenyl ring is also known as the meta position, that is, a substituent on the 3-position is meta, or m-, to the N-methyl-carbamate group. Accordingly, appellants\u2019 compound could be called meta- (or m-)isopropylphenyl N-methylcarbamate. Similarly a sub-stituent on the 2-position may be termed an ortho, or o-, substituent, and one on the 4-position may be termed a para, or p-, substituent. We will be concerned with the several positions of a substituent, primarily the isopropyl group, on the ring.\nTwo major classes of insecticides, phosphorus- and chlorine-containing insecticides, suffer from a number of disadvantages, primarily cost, mammalian toxicity, and the growing resistance of insects to those classes of insecticides. Because of such disadvantages, research has been conducted to discover and develop other classes of insecticides. The carbamates, of which the present invention is a member, have proven of value.\nThe dosage of an insecticide which is required to kill 50 per cent of insects, such as houseflies, is known as the LD50. An increase in the LD30 dosage required against succeeding generations of flies bred from the survivors of a treatment shows a tolerance for, or an accommodation or resistance to the insecticide. As well as finding that the 3-isopropylphenyl N-methylcarbamate is lethal to \u201ca wide variety of insects, arachnids and other agricultural and household pests, including aphids, mits, army worm larvae, beetles, flys [sic], roaches and mosquitos [sic],\u201d the compound \u201cis a particularly valuable insecticide, since insect strains controlled by it have not developed immunity to it.\u201d Appellants disclose that:\n* * * It was found in a series of tests that the LDso (dosage to kill 50 percent of the flies tested) for the twentieth generation was approximately the same as the LD50 for the starting generation.\nAppellants disclose a series of tests which indicate that the claimed 3-isopropylphenyl N-methylcarbamate, abbreviated IPMC, is superior to several typical commercial insecticides, compounds X [1,1,1-tri-chloro-2,2-bis-(p-chlorophenyl) ethane], Y [a chlorinated cam-phene], and Z [3-tertiary-butylphenyl N-methylcarbamate (which it will be seen below is one of the reference compounds) ]. The application states:\nTABLE I\nCone, of chemical in mg./100 ml. of water required to kill 95 per cent (LD95)\nIt can be seen that in Table I IPMC is, with one exception, superior in every-way to commercial compounds X and Y.\nIPMC has also been compared with a closely related carbamate, 3-tertiary-butylphenyl N-methylcarbamate (compound Z) by the above tests, as well as by the Roach Immersion Test, the Mosquito Larvae Test and the House Fly Topical Application Test. The results of these tests are reported in Table II. A cholinesterase determination was also made on these tw'O materials and the results reported in Table III. * * *\n*******\nTABLE II\n***Note: with an acceptable formulation, it is possible to get 30 mg./100 ml. of HjO in solution. This provides 30 per cent kill. Above 30 mg. and including a 120 mg. dosage, a suspension is obtained. These suspensions do not increase kill above 30 per cent.\nTABLE III\nCompound_ Cholinesterase Inhibition, I5o\nIPMC_ 1.5 xlO-7\nCompound Z_ 2.2 x 10-7\nIt can be seen from Tables II and III that 3-isopropylphenyl N-methylcarba-mate is an outstanding insecticide, which is superior in every respect to compound Z.\nThe single reference on which the compound and method of use claims are rejected is:\nKolbezen, et al. INSECTICIDE STRUCTURE AND ACTIVITY. Insecticidal Activity of Carbamate Cholinesterase Inhibitors. Agricultural and Food Chemistry, Vol. 2, No. 17, August 18, 1954, pp. 864-70.\nKolbezen et al. disclose the preparation and toxic evaluation of some 30 N-methylcarbamate esters of substituted phenols. The Kolbezen et al. paper opens with a short discussion of the reasoning which led them to their compounds. It stands as an example of the predictive approach of which modern chemistry is capable (footnotes omitted) :\nMost of the organic insecticides in common use today were discovered during the routine screening of many miscellaneous chemicals or by the planned synthesis of derivatives of compounds already known to be effective. Few if any have been developed from the biochemical viewpoint of devising an antimetabo-lite or enzyme antagonist that would possess the proper prerequisites for contact toxicity, although the present status of knowledge in this field seems adequate for such an undertaking.\nWith this general concept in mind, the authors selected the cholinesterase (ChE) enzyme system of insects as a starting point because of its vital function in the neural behavior of the organism and the considerable information available concerning its properties and functions. * * *\nThe carbamic acid esters have long been known to be highly effective inhibitors of cholinesterases, and as such they have pharmacological applications. These compounds have structural configurations that closely resemble the choline esters, and their inhibitory activity occurs from the resulting strong attraction to the active center of the enzyme and their much greater stability to hydrolysis. * * * Therefore, this group of compounds was chosen as the starting point of an investigation of the requirements for converting potent enzyme inhibitors into contact insecticides.\nKolbezen et al. continue the background discussion, indicating that their investigation of carbamate esters of phenols was based on the knowledge that:\nInsect nerves are known to be surrounded by lipoid sheaths, and it is probable that ready penetration of cholinesterase inhibitors into the nervous system is facilitated by nonpolar lipoid-soluble molecules rather than by the highly polar quaternary ammonium compounds. Therefore, attention was turned toward the synthesis of a representative series of N-substituted carbamates of substituted phenols. * * *\nThe Kolbezen et al. prediction was correct:\nSince this investigation was begun, the validity of the assumption that non-polar lipoid-soluble carbamate derivatives should be contact toxicants has been amply confirmed by extensive investigations of a large series of N-alkyl Carba-mates of psuedoaromatic [sic] and cyclic alcohols. Certain of these materials, particularly l-phenyl-3-methylpyrazolyl-(5)-dimethylcarbamate (pyrolan) and l-isopropyl-3-methylpyrazolyl-(5)-dimethycarbamate (isolan), showed outstanding toxicity to aphids, thrips, flies, and other insects, both by contact and per os. * * *\nKolbezen et al. then disclose their N-methylcarbamates to be prepared from the reaction of methyl isocyanate with the desired substituted phenol. Both cholinesterase inhibition and toxicity tests were run, and the following results are taken from their Table 1:\nTable 1. Properties and Biological Activity of N-Methylcarbamates of Various Phenols\nb Molar concentration for 50% inhibition of fly-brain cholinesterase.\nc Median lethal concentration, %.\nKolbezen et al. state the following concerning the tests:\nDiscussion of Results\nRelation of Structure to Toxicity\nThe results presented in Tables I and II indicate the identity of the carba-mates synthesized, their toxicity as contact insecticides to the female housefly, Musca domestica L., and to the greenhouse thrips, Heliothrips haemorrhoidalis (Bouche), and the molar concentration required in vitro for 50% inhibition of fly-brain cholinesterase. The more toxic compounds were also evaluated as contact toxicants to the green citrus aphid, Aphis spiraecola Patch, and to the citrus red mite, Paratetranychus citri (McG.). They exhibited approximately the same degree of toxicity to the aphid as to the thrips, but the most effective compound (IX) produced only 73% mortality of the citrus red mite adult at 0.1% concentration. * * *\nThe compound considered by Kolbezen et al. to be the most active compound of those insecticides tested, compound IX, meto-tert-butylphenyl N-methylcarbamate, is the next higher homolog of appellants\u2019 claimed compound. The tert-butyl substituent is also disclosed at the ortho and para positions.\nIt is also evident that the Kolbezen et al. compounds VI and VII are respectively the ortho and para position isomers of appellants\u2019 compounds, thus:\nKolbezen et al. further discuss the relation of structure to toxicity as follows, noting first the relationship between the type of phenyl ring substituent and the cholinesterase inhibition (I50 Kolbezen et al. Table I above) :\nThe nature and extent of substitution of the phenyl rings of the N-methylcar-bainates exert a remarkable influence on toxicity. The order of effectiveness of single ring substituents upon cholinesterase inhibition was NO2<CI<CH3< CJtJsK\u00edso-CsStK (CH3)2N<\u00ede)i\u00ed-Cyj\u00bb< (CH3)3N+I, * * * [Emphasis ours.]\nInsofar as we are concerned here, that disclosure of Kolbezen et al. indicates the isopropyl group to be a less effective cholinesterase inhibitor than the tert-'butyl group as a substituent on the phenyl ring. With regard to contact toxicity, Kolbezen et al. indicate the order of effectiveness of the various substituents quoted just above to be only \u201croughly in the same order * * *,\" with an exception which does not concern us here.\nIn discussing the placement of the substituents on the phenyl ring as related to cholinesterase inhibition and toxicity, Kolbezen et al. teach that the meta position is the most effective and para is least:\n* * * The order of effectiveness of ring position was p<o<m, both for cholin-esterase inhibition and for toxicity. This, too, is in agreement with previous work involving (CH3)3N+-substituted phenylcarbamates, and seems to be a definite indication of maximum fit or orientation at the enzyme surface, as reflected in similarity of configuration to the normal substrate, probably acetylcholine. * * * [Emphasis ours.]\nThe examiner\u2019s position, sustained by the board, was:\nIn view of this clear teaching that the meta isomer is more effective, both for cholinesterase inhibition and for toxicity in instances where the isomers differ only in relationship to their position on the phenyl ring, it is the Examiner\u2019s position that the clamed derieative would be glaringly obvious and particularly so when the prior art specifically discloses other meta derivatives to be old. * * * [Emphasis ours.]\nWe agree, since it is our view that the meta or 3-isopropylphenyl N-methylcarbamate and the method of killing insects therewith are rendered entirely obvious to one of ordinary skill in the art by the Kolbezen et al. reference. 35 U.S.C. 103.\nThe Kolbezen et al. reference discloses a generic class of N-methyl-carbamates of substituted phenols, the number and kind of substituents being perhaps even an infinite number. We rely neither on that nor on the broad disclosure of \u201csubstituted phenols,\u201d in holding appellants\u2019 compound to be rendered obvious by Kolbezen et al. Rather, it is the total circumstances, including the specific compounds tested, the limited class of substituents, the showing of position isomers of the specific substituent claimed, the teaching that the specific position (the meta position) is the most toxic, the showing of the adjacent higher homolog in all three possible positions of which the meta is the most active, which lead us to conclude that one of skill in this art would, on reading Kolbezen et al. at once envisage the isopropyl position isomer now claimed by appellants. Although Kolbezen et al. disclose the data only for a \u201crepresentative series of N-substituted carbamates of substituted phenols,\u201d the totality of the disclosure is such as to render the 3-isopropylphenyl N-methylcarbamate of claim 1 entirely obvious. The same is true for \u201cthe method of killing insects which comprises applying * * * [the compound] to said insects,\u201d in claim 5, since Kolbezen et al. disclose topical \u201capplication of 1-micro-liter drops * * *\u201d of their insecticides to houseflies.\nIt is important to note the Kolbezen et al. compound XXI, 2-methyl-5-isopropylphenyl N-methylcarbamate. The structure of that compound is as follows:\nThe 5-isopropyl group in compound XXI is meta to the N-methylcar-bamate substituent. Kolbezen et al. discuss such multiple substituent carbamates as follows:\nWhere multiple substituents in the ring are concerned, reinforcement of the toxicity of meta- alkylates results from additional alkylation in the ortho- or meta- positions, as in * * * 2-methyl-5-isopropylphenyl [N-methyl-carbamate] (XXI), * * * [Emphasis ours.]\nWhile the dialkylated compound XXI is not appelants\u2019 claimed compound, it causes one of ordinary skill in the art to envisage the concept of the isopropyl group specifically in the meta position. Further, since, as quoted just above, Kolbezen et al. disclose the \u201cadditional\u201d alkylation in, for example, the 2-(ortho) position, of already meta alkylated compounds, and then names the tested compound XXI (ortho-methyl-meiu-isopropylphenyl N-methylcarbamate), we think it unquestionable that the carbamate having the isopropyl group on the meta position alone is entirely obvious.\nThe claimed compound here has the same kind of properties as those disclosed for the Ivolbezen et al. position isomers and next higher homolog, albeit the claimed compound is somewhat more effective.\nAppellants, in arguing non-obviousness, have submitted five affidavits, a literature reference, and have referred to their specification as showing the superiority of the meta-isopropyl compound over the higher homolog, meta-tert-butylphenyl N-methylcarbamate, the ortho and para isopropyl position isomers, and the lower homolog, meta-methylphenyl N-methyl-carbamate. Since appellants\u2019 affidavits show the claimed meta compound has the same kind of property, toxicity, as the isomers and homologs of Kolbezen et ah, they cannot be said to show an unexpected property. Rather, what appellants rely on is that the degree of effectiveness of the claimed compound is unexpected. In view of the Kolbezen et al. teaching that the meta position is most effective, we cannot agree that unexpectedness in the degree of effectiveness has been shown. In re Lohr, 50 CCPA 1274, 1279, 317 F. 2d 388, 137 USPQ 548.\nAppellants further point to their specification, the second affidavit and the literature reference, all as showing that the meta-isopropyl compound is superior to the meta-tert-butyl higher homolog. Appellants urge that Kolbezen et al. teach precisely the opposite by stating:\n* * * order 0f effectiveness of single ring substitutes upon cholinesterase inhibition was NO\u00ed<Cl<CHa<G.H5<iso-C3H7< (CH3)2N<\u00eder\u00ed-C,4ff,< (CH\u00bb),N+ 1, and the contact toxicity was roughly in the same order * * * [Emphasis ours.]\nThat order of effectiveness indicates the isopropyl is less effective than the tert-butyl with respect to cholinesterase inhibition. On the other hand, the affidavit is directed to a topical application toxicity test on houseflies. Concerning such tests Kolbezen et. al state only that \u201ccontact toxicity was roughly in the same order.\u201d [Emphasis ours.] We do not think appellants\u2019 showing establish a direct contradiction of the teachings of the order of substituent effectiveness in contact toxicity, or negative all the other teachings of Kolbezen et al., particularly that concerning the position isomers (which the other affidavits in fact confirm), such that it can be said that the claimed compound and method of using it are not obvious.\nWhile the specification shows that even for cholinsterase inhibition the meta-isopropyl was slightly better than the meta-tert-butyl compound, in a ratio of about 2 to 3, the order of magnitude, of concentrations are the same, and thus do not detract from the totality of the evidence showing the obviousness of both appellants\u2019 compound and the method of killing insects by application. In re Lohr, supra.\nThe decision of the board is affirmed.\nTable II related to corresponding tests using N-ethyl, N-benzyl, and N-phenylcar-bamates of various phenols, and does not concern us here.\nAppellants summarize tlie showings as follows in their brief (omitting references to the record) :\nThe comparative showings in the record demonstrating the superiority in activity of the present compound over old compound disclosed in the reference can be summarized as follows :\n1. Moorefield affidavit filed March 31, 1959.\n2. Applicants4 specification, page 15.\n3. Moorefield affidavit filed March 30, 1962.\n4. .Tour. Econ. Ent. article by S. Mulla.\n5. Moorefield miticide affidavit filed May 10, 1962.\n6. Moorefield plum curculio field test affidavit filed May 10, 1962.\n7. Haubein affidavit filed May 10, 1962.",
+        "type": "majority",
+        "author": "MaetiN, Judge"
+      }
+    ],
+    "attorneys": [
+      "Louis C. Smith, Paul A. Rose for appellants.",
+      "Clarence W. Moore (J. F. Nakamura, of counsel) for the Commissioner of"
+    ],
+    "corrections": "",
+    "head_matter": "F. 2d;\n146 USPQ 491\nIn re J. P. Kilsheimer and H. L. Haynes\n(No. 7361)\nUnited States Court of Customs and Patent Appeals,\nJuly 22, 1965\nLouis C. Smith, Paul A. Rose for appellants.\nClarence W. Moore (J. F. Nakamura, of counsel) for the Commissioner of\n[Oral argument March 2, 1965, by Mr. Smith and Mr. Nakamura]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1702-01",
+  "first_page_order": 1026,
+  "last_page_order": 1034
+}

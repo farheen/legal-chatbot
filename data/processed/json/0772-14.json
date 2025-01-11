@@ -1,0 +1,58 @@
+{
+  "id": 12487233,
+  "name": "Com. v. A. Hicks",
+  "name_abbreviation": "Com. v. Hicks",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1496 WDA 2015",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 772"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "4e24f815a50c169af988d7c829021f57b554dd264bfb060ce0e2423c1420bedf",
+    "simhash": "1:7b192ee153b28794",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Hicks"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Hicks\nNO. 1496 WDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0772-14",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

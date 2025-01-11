@@ -1,0 +1,62 @@
+{
+  "id": 12489378,
+  "name": "STATE of Connecticut v. Michael A. BRITT",
+  "name_abbreviation": "State v. Britt",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. 37519",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 1224"
+    },
+    {
+      "type": "parallel",
+      "cite": "172 Conn. App. 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 191,
+    "sha256": "ed791cd8c365fea18dd8913d1937c513b3aae6497d3b485fbb6edbc9264cdbdc",
+    "simhash": "1:a90198418112aa1c",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nMichael A. BRITT"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nMichael A. BRITT\nNo. 37519\nAppellate Court of Connecticut.\nSubmitted on briefs March 20, 2017\nOfficially released April 11, 2017"
+  },
+  "file_name": "1224-03",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

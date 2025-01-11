@@ -1,0 +1,99 @@
+{
+  "id": 12491086,
+  "name": "U.S. BANK NATIONAL ASSOCIATION as Trustee v. Claude M. BROUILLARD et al.",
+  "name_abbreviation": "U.S. Bank Nat'l Ass'n v. Brouillard",
+  "decision_date": "2017-11-02",
+  "docket_number": "",
+  "first_page": "1050",
+  "last_page": "1051",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 1050"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 954"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "163 A.3d 89",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12489981,
+        12489982,
+        12489983
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/163-2/0089-01",
+        "/a3d/163-2/0089-02",
+        "/a3d/163-2/0089-03"
+      ]
+    },
+    {
+      "cite": "173 Conn.App. 904",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489684,
+        12489981,
+        12489982
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/160-2/1133-01",
+        "/a3d/163-2/0089-01",
+        "/a3d/163-2/0089-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 390,
+    "sha256": "0f6e43d60272332d36844b6a30678a7143cac7ed45fa214a38ec94422f074419",
+    "simhash": "1:a852457f664d4bf5",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T18:34:56.921746+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "U.S. BANK NATIONAL ASSOCIATION as Trustee\nv.\nClaude M. BROUILLARD et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition by the defendants Claude Brouillard and Mei-wa Cheng for certification to appeal from the Appellate Court, 173 Conn.App. 904, 163 A.3d 89 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "U.S. BANK NATIONAL ASSOCIATION as Trustee\nv.\nClaude M. BROUILLARD et al.\nSupreme Court of Connecticut.\nDecided November 2, 2017\nMei-wa Cheng, self-represented, in support of the petition.\nDavid M. Bizar, in opposition.\nThe petition by the defendants Claude Brouillard and Mei-wa Cheng for certification to appeal from the Appellate Court, 173 Conn.App. 904, 163 A.3d 89 (2017), is denied."
+  },
+  "file_name": "1050-04",
+  "first_page_order": 1050,
+  "last_page_order": 1051
+}

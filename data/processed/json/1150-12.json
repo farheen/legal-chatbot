@@ -1,0 +1,58 @@
+{
+  "id": 12488489,
+  "name": "In re: E.C. Appeal of: N.C.",
+  "name_abbreviation": "In re Northcarolina",
+  "decision_date": "2016-05-17",
+  "docket_number": "2172 MDA 2015",
+  "first_page": "1150",
+  "last_page": "1150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "20f52a30d2f13a9c64026fd24af14fab18a4f207a0a83e17f3060bfa4bfa2800",
+    "simhash": "1:858176b79e2b1fe7",
+    "word_count": 17
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: E.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re: E.C.\nAppeal of: N.C.\n2172 MDA 2015\nSuperior Court of Pennsylvania.\nMay 17, 2016\nAffirmed"
+  },
+  "file_name": "1150-12",
+  "first_page_order": 1150,
+  "last_page_order": 1150
+}

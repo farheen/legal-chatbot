@@ -1,0 +1,59 @@
+{
+  "id": 6083079,
+  "name": "In re Rudolf Stroh, Josef Ebersberger, Hans Haberland and Willi Hahn",
+  "name_abbreviation": "In re Stroh",
+  "decision_date": "1963-04-18",
+  "docket_number": "No. 7077",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 194,
+    "ocr_confidence": 0.459,
+    "sha256": "03718d1a50c658d61350813a511cf467892acf981cd7e40e2ce86304ce132b92",
+    "simhash": "1:bf00dd01f8f712cb",
+    "word_count": 31
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rudolf Stroh, Josef Ebersberger, Hans Haberland and Willi Hahn"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in process for the production of aromatic amines which are alkylated at the nucleus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 18, 1963\nIn re Rudolf Stroh, Josef Ebersberger, Hans Haberland and Willi Hahn\n(No. 7077)."
+  },
+  "file_name": "1588-07",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

@@ -1,0 +1,59 @@
+{
+  "id": 12168208,
+  "name": "In re Mauro Maestrelli, Dino Dinelli and Giorgio Castelfranchi",
+  "name_abbreviation": "In re Maestrelli",
+  "decision_date": "1965-06-09",
+  "docket_number": "No. 7629",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 157,
+    "ocr_confidence": 0.509,
+    "sha256": "f67fe280d81ba17492fd5e36fa6b1b0da17c3ab9ca73fdd59c6fea136a40c6a3",
+    "simhash": "1:4bf34626ef9bffa5",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Mauro Maestrelli, Dino Dinelli and Giorgio Castelfranchi"
+    ],
+    "opinions": [
+      {
+        "text": "Additive for fuels for eliminating deposits in the combustion chamber of engines.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Mauro Maestrelli, Dino Dinelli and Giorgio Castelfranchi\n(No. 7629)."
+  },
+  "file_name": "1839-10",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

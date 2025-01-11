@@ -1,0 +1,59 @@
+{
+  "id": 6081624,
+  "name": "In re Felt et al.",
+  "name_abbreviation": "In re Felt",
+  "decision_date": "1952-05-06",
+  "docket_number": "No. 5887",
+  "first_page": "1069",
+  "last_page": "1069",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 C.C.P.A. 1069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 69,
+    "ocr_confidence": 0.45,
+    "sha256": "93b98ef34fc5ef9a17621673098dfa4928f14fd32ae0b324b1a832ed5b96af76",
+    "simhash": "1:26e00609ece51ed2",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T17:22:55.380782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Felt et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in case liner.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 6, 1952\nIn re Felt et al.\n(No. 5887)."
+  },
+  "file_name": "1069-11",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

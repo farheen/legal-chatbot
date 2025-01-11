@@ -1,0 +1,58 @@
+{
+  "id": 12501750,
+  "name": "COM. v. COOPER, K.",
+  "name_abbreviation": "Com. v. Cooper",
+  "decision_date": "2018-07-20",
+  "docket_number": "1885 EDA 2017",
+  "first_page": "692",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 692"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "2729b30f96406ba380ca090eb825c23aea39c9d5556df59a0686420bffc39181",
+    "simhash": "1:bdd65c13cd94bfe6",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nCOOPER, K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nCOOPER, K.\n1885 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nAffirmed"
+  },
+  "file_name": "0692-06",
+  "first_page_order": 692,
+  "last_page_order": 692
+}

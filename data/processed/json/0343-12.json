@@ -1,0 +1,58 @@
+{
+  "id": 12488705,
+  "name": "Fenter v. Brown",
+  "name_abbreviation": "Fenter v. Brown",
+  "decision_date": "2016-07-14",
+  "docket_number": "16-026",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 152,
+    "sha256": "55f36b4f188a06f59ea42f05cca41ad02f807fd1360a3c129d1ec47f9357c3ec",
+    "simhash": "1:74754f61dc585a48",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fenter\nv.\nBrown"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fenter\nv.\nBrown\n16-026\nSupreme Court of Vermont.\nJuly 14, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nStricken; Affirmed."
+  },
+  "file_name": "0343-12",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

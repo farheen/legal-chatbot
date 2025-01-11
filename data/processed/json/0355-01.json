@@ -1,0 +1,816 @@
+{
+  "id": 7899360,
+  "name": "The MAYOR AND COUNCIL OF NEW CASTLE, a municipal corporation of the State of Delaware, Plaintiff Below, Appellant, v. ROLLINS OUTDOOR ADVERTISING, INC., Defendant Below, Appellee",
+  "name_abbreviation": "Mayor & Council of New Castle v. Rollins Outdoor Advertising, Inc.",
+  "decision_date": "1984-04-02",
+  "docket_number": "",
+  "first_page": "355",
+  "last_page": "361",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "475 A.2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "47 S.Ct. 114",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1501273,
+        1501253
+      ],
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/272/0365-01",
+        "/us/272/0398-01"
+      ]
+    },
+    {
+      "cite": "272 U.S. 365",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1501273
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/272/0365-01"
+      ]
+    },
+    {
+      "cite": "347 A.2d 419",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8062395
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/347/0419-01"
+      ]
+    },
+    {
+      "cite": "22 A.L.R.3d 1134",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "224 A.2d 250",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8098802
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/224/0250-01"
+      ]
+    },
+    {
+      "cite": "189 A. 443",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "449"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "315 A.2d 616",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8036090
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/315/0616-01"
+      ]
+    },
+    {
+      "cite": "379 N.E.2d 266",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ohio App.2d 27",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        1482996
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-2d/55/0027-01"
+      ]
+    },
+    {
+      "cite": "93 A.2d 362",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 N.J. 144",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        4207128
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/11/0144-01"
+      ]
+    },
+    {
+      "cite": "389 S.W.2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10175054
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/389/0745-01"
+      ]
+    },
+    {
+      "cite": "522 S.W.2d 447",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10127544
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/522/0447-01"
+      ]
+    },
+    {
+      "cite": "348 A.2d 675",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "166 Conn. 305",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        530973
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/166/0305-01"
+      ]
+    },
+    {
+      "cite": "261 Ark. 148",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1678848
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "parenthetical": "distinguished and somewhat modified by a divided court in City of Fayetteville v. McIlroy Bank and Trust Co., supra "
+        },
+        {
+          "parenthetical": "distinguished and somewhat modified by a divided court in City of Fayetteville v. McIlroy Bank and Trust Co., supra "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/261/0148-01"
+      ]
+    },
+    {
+      "cite": "41 L.Ed.2d 236",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "94 S.Ct. 2644",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 U.S. 932",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519525,
+        1519367,
+        1519369,
+        1519436,
+        1519601,
+        1519986,
+        1519572,
+        1519893,
+        1519960,
+        1519678
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/417/0932-04",
+        "/us/417/0932-10",
+        "/us/417/0932-02",
+        "/us/417/0932-08",
+        "/us/417/0932-07",
+        "/us/417/0932-05",
+        "/us/417/0932-03",
+        "/us/417/0932-01",
+        "/us/417/0932-09",
+        "/us/417/0932-06"
+      ]
+    },
+    {
+      "cite": "488 F.2d 118",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        213700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/488/0118-01"
+      ]
+    },
+    {
+      "cite": "342 P.2d 602",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "54 Wash.2d 541",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1013499
+      ],
+      "year": 1959,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/54/0541-01"
+      ]
+    },
+    {
+      "cite": "373 N.E.2d 263",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 N.Y.S.2d 368",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 N.Y.2d 483",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2333001
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/43/0483-01"
+      ]
+    },
+    {
+      "cite": "98 N.M. 138",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1582539
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/98/0138-01"
+      ]
+    },
+    {
+      "cite": "225 A.2d 624",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 N.H. 485",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        4461353
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/107/0485-01"
+      ]
+    },
+    {
+      "cite": "281 Minn. 492",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        298815
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/281/0492-01"
+      ]
+    },
+    {
+      "cite": "217 A.2d 348",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 Md. 686",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1939222
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/241/0686-01"
+      ]
+    },
+    {
+      "cite": "371 A.2d 706",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Md.App. 572",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "case_ids": [
+        2289165
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md-app/35/0572-01"
+      ]
+    },
+    {
+      "cite": "437 N.E.2d 1375",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        11061066
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/437/1375-01"
+      ]
+    },
+    {
+      "cite": "215 N.E.2d 829",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Ill.App.2d 248",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 2d",
+      "case_ids": [
+        2592962
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-2d/69/0248-01"
+      ]
+    },
+    {
+      "cite": "610 P.2d 407",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "164 Cal.Rptr. 510",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Cal.3d 848",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2263749
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/26/0848-01"
+      ]
+    },
+    {
+      "cite": "278 Ark. 500",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1748400
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/278/0500-01"
+      ]
+    },
+    {
+      "cite": "339 N.E.2d 709",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "369 Mass. 206",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        309766
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/369/0206-01"
+      ]
+    },
+    {
+      "cite": "248 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3688852
+      ],
+      "weight": 3,
+      "year": 1919,
+      "pin_cites": [
+        {
+          "page": "425"
+        },
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/248/0420-01"
+      ]
+    },
+    {
+      "cite": "369 U.S. 590",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169920
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "592"
+        },
+        {
+          "page": "989"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0590-01"
+      ]
+    },
+    {
+      "cite": "157 A.2d 789",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 L.Ed. 647",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 S.Ct. 208",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 U.S. 892",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6946889,
+        6946859,
+        6946993,
+        6946964,
+        6946938,
+        6946910
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0892-02",
+        "/us/340/0892-01",
+        "/us/340/0892-06",
+        "/us/340/0892-05",
+        "/us/340/0892-04",
+        "/us/340/0892-03"
+      ]
+    },
+    {
+      "cite": "183 F.2d 410",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1238410
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/183/0410-01"
+      ]
+    },
+    {
+      "cite": "129 A.2d 363",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "212 Md. 301",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2215311
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/212/0301-01"
+      ]
+    },
+    {
+      "cite": "74 L.Ed. 612",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1929,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 S.Ct. 16",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1929,
+      "opinion_index": 0
+    },
+    {
+      "cite": "280 U.S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3913603,
+        3913000,
+        3909897,
+        3912592,
+        3913651,
+        3912700
+      ],
+      "year": 1929,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/280/0556-03",
+        "/us/280/0556-05",
+        "/us/280/0556-01",
+        "/us/280/0556-04",
+        "/us/280/0556-02",
+        "/us/280/0556-06"
+      ]
+    },
+    {
+      "cite": "168 La. 172",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        5400573
+      ],
+      "weight": 2,
+      "year": 1929,
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/168/0172-01"
+      ]
+    },
+    {
+      "cite": "115 A.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1955,
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 Conn. 510",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        1593500
+      ],
+      "year": 1955,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/142/0510-01"
+      ]
+    },
+    {
+      "cite": "274 P.2d 34",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 Cal.App.2d 442",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2224532
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/127/0442-01"
+      ]
+    },
+    {
+      "cite": "272 P.2d 4",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Cal.2d 121",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4401714
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/43/0121-01"
+      ]
+    },
+    {
+      "cite": "35 Va.L.Rev. 348",
+      "category": "journals:journal",
+      "reporter": "Va. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 A.2d 76",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1113,
+    "char_count": 21196,
+    "ocr_confidence": 0.749,
+    "pagerank": {
+      "raw": 7.828998317960235e-08,
+      "percentile": 0.4581101060332089
+    },
+    "sha256": "33aed6d1bb3304c074a8a68eb1a058b2f82ce944d84b77e69079f92c32b01089",
+    "simhash": "1:4025c119a51c4e31",
+    "word_count": 3474
+  },
+  "last_updated": "2024-02-27T17:43:37.522735+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HERRMANN, C.J., and McNEILLY, HORSEY, MOORE and CHRISTIE, JJ., constituting the Court en banc."
+    ],
+    "parties": [
+      "The MAYOR AND COUNCIL OF NEW CASTLE, a municipal corporation of the State of Delaware, Plaintiff Below, Appellant, v. ROLLINS OUTDOOR ADVERTISING, INC., Defendant Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "CHRISTIE, Justice:\nThe Mayor and Council of New Castle (New Castle), appellant, appeals from a decision and order of the Court of Chancery which granted the motion of Rollins Outdoor Advertising, Inc. (Rollins) to dismiss New Castle\u2019s | claim against Rollins on the basis that the complaint failed to state a claim upon which relief could be granted. In its order, |the Court of Chancery held that 22 Del. C \u00a7 301 et seq. did not confer upon a municipality the power to adopt an ordinance which provided for the gradual elimination ofi nonconforming uses over a period of years (a zoning device generally known as \u201camortization\u201d). The order went on to state that even if the statute did grant authoritly to impose mandatory amortization of noiiconforming uses, the municipal ordinance under which New Castle sought to act |was unconstitutional since it provided for a| \u201ctaking\u201d in violation of Article I, Sections 7 and 8 of the Delaware Constitution and the 5th and 14th Amendments of the j United States Constitution.\nWe disagree with the Court of Chancery\u2019s analysis! and reverse and remand the case for the r\u00e9asons set forth below.\nOn April 10, 1968, the City of New Castle adopted an ordinance to amend, revise, and reenact the comprehensive zoning regulations of the (pity. The zoning ordinance provided for the gradual elimination of certain specifiedl nonconforming uses via amortization. The pertinent part of the ordinance provides as follows:\nGradual Elimination of Certain Uses\n\u2014Certain nOn-conformities shall be terminated in accordance with the following provisions:\na. Lawfully existing uses shall within three years from the date of adoption or amendment of this ordinance comply with the performance standards of Section 6, B of this ordinance.\nb. Within not more than three years from the date of adoption or amendment of this ordinance by which a use becomes non-conforming, the right to maintain the following non-conformities shall no longer be operated or maintained;\n(1) Any jujik yard\n(2) A non-conformity, which is not enclosed within! a structure\n(3) Off-sitej signs. (City of New Castle Zoning Ordinance, \u00a7 4, paragraph 6.)\nRollins Outdoor Advertising, Inc., the ap-pellee, and its predecessors in interest owned and/or maintained two off-site signs (billboards not related to an activity being conducted on the premises) in locations which were zoned residential under the zoning ordinance. Such signs are not a' permitted use in a residential district under the new zoning ordinance. Rollins conducted no other business or activity on the premises.\nApparently these off-site signs were in use by Rollins\u2019 predecessor in interest at the time the comprehensive zoning code was first adopted by the City of New Castle in 1968 and when zoning was first adopted for the municipality at an earlier date. Since the actual use predated the zoning classification, the continued existence of the off-site signs had been tolerated as a nonconforming use.\nA theory as to nonconforming uses is that eventually the proscribed use will be terminated or abandoned with the passage of time, and that the property will then be made to comply with its appropriate zoning classification. This did not occur in this case.\nOn October 28, 1970, Rollins and its predecessors in interest were informed by New Castle, that in accordance with the ordinance, these two signs were to be removed as nonconforming uses on or before April 10, 1971 (approximately three years after the ordinance became effective). Another demand that the signs be removed was sent on May 19, 1971.\nRollins purchased the assets of its predecessor in interest on October 1, 1976 \u2014 more than five years after notice that the signs must be removed, and approximately eight years after the zoning ordinance had been enacted.\nDespite additional requests and demands by New Castle, Rollins has refused to remove the signs. As a result, these nonconforming uses persist contrary to the specific provisions and announced purposes and requirements of the zoning ordinance.\nThe Court of Chancery held that the City of New Castle lacked the power to enact the zoning ordinance here in question. The court\u2019s rationale was that the enabling statute, 22 Del.C. \u00a7 301 did not confer upon the City of New Castle the power to enact this ordinance because in its opinion the power to \u201cregulate and restrict\u201d the use of land did not include the power to \u201cprohibit\u201d an existing use.\nThe statute by which all municipalities in this State derive their zoning authority is 22 Del.C. \u00a7 301 et seq. As the enabling statute indicates, it was enacted for the broad purpose of promoting the health, safety, morals, and general welfare of the community. While it is true that municipalities have no inherent power to zone property except as the General Assembly may delegate, Boozer v. Johnson, Del.Ch., 98 A.2d 76 (1953), the General Assembly can not be presumed to set out to accomplish the above stated goals without providing the municipalities reasonable means to achieve these goals.\nEvidence that the statute carried with it the authority to enact a zoning ordinance which would promote these goals through various means including the reasonable amortization of selected nonconforming uses can be found in the legislative history and judicial analysis of the act upon which 22 Del. C. \u00a7 301 is modeled.\nIt is clear that 22 Del.C. \u00a7 301 is fashioned after the Standard State Zoning Enabling Act. See, 4 Rathkopt, The Law of Zoning and Planning, p. 765 (1979); Note, Elimination of Nonconforming Uses, 35 Va.L.Rev. 348, 355 n. 45 (1949). Courts in several jurisdictions have held that acts of this type authorize municipalities to eliminate nonconforming uses such as offsite signs by way of amortization or by other similar methods. Livingston Rock & Gravel Co. v. County of Los Angeles, Cal.Supr., 43 Cal.2d 121, 272 P.2d 4 (1954); City of Los Angeles v. Gage, Cal.App., 127 Cal.App.2d 442, 274 P.2d 34 (1954); Franklin Furniture Co. v. City of Bridgeport, Conn.Supr., 142 Conn. 510, 115 A.2d 435 (1955); State ex rel. Dema Realty Co. v. McDonald, La.Supr., 168 La. 172, 121 So. 613 (1929), cert. denied, 280 U.S. 556, 50 S.Ct. 16, 74 L.Ed. 612 (1929); Grant v. Mayor and City of Baltimore, Md.App., 212 Md. 301, 129 A.2d 363 (1957); Standard Oil Co. v. City of Tallahassee, 183 F.2d 410 (5th Cir.1950), cert. denied, 340 U.S. 892, 71 S.Ct. 208, 95 L.Ed. 647 (1950).\nIn Grant, supra, sign companies and owners of property leased for off-site sign use sought to enjoin the City of Baltimore from enforcing a zoning ordinance which required the removal of existing off-site signs from residential areas after a five-year amortization period. Under the ordinance, these signs constituted a nonconforming use. The court denied the owner\u2019s request for an injunction stating:\nThe distinction between an ordinance that restricts future uses and one that requires existing uses to stop after a reasonable time, is not a difference in kind but one of degree and, in each case, constitutionality depends on overall reasonableness, on the importance of the public gain in relation to the private loss. Grant, supra at 369.\nThis Court has held that a municipality\u2019s zoning authority \u201cdepends entirely upon that expressly granted or fairly implied or indespensable to its declared objects and purposes.\u201d Mayor and Council of Wilmington v. Dukes, Del.Supr., 157 A.2d 789 at 794 (1960). It is clear from the express wording of 22 Del.C. \u00a7 301 that a municipality may \u201cregulate and restrict\u201d the use of land through zoning. The court below held th it \u201cregulate and restrict\u201d did not include the power to \u201cprohibit.\u201d We find that under some circumstances it does include such power.\nThe term \u201cregulate\u201d is defined in Black\u2019s Law Dictionary as:\nTo fix, establish, or control; to adjust by rule, methcjd, or established mode; to direct by rule or restriction; to subject to governing principles or laws. Black\u2019s Law Dictionary 1156 (5th ed. 1979).\nThe term \u201crestrict\u201d is defined as:\nTo restrain within bounds; to limit; to confine. Id. at 1182.\nThe Supremje Court of the United States has recognized that the term \u201cregulate\u201d necessarily entails a possible prohibition of some kind. That Court has stated: \u201cIt is an oft-repeated truism that every regulation necessarily speaks as a prohibition.\u201d Goldblatt v. Hempstead (1962), 369 U.S. 590, at 592, 82 S.Ct. 987, 989, 8 L.Ed.2d 130.\nThe Supreme Court of Massachusetts in reviewing a statute containing language similar to than found in 22 Del.C. \u00a7 301 (which empowered municipalities to \u201cregulate and restrict\u201d outdoor advertising on public ways, in public places, and on private property within public view) held that the statute in question authorized a town to provide, through amortization, for the elimination of nonconforming off-site signs five years from the time the ordinance was enacted. The chusetts enabl; court held that the Massa-ng act:\n[C]onf erred on the Legislature plenary power to regulate and restrict outdoor advertising .... Although the word \u201cprohibit\u201d was omitted from [the enabling act], it was recognized that the unlimited and unqualified power to regulate and restrict can be, for practical purposes, the power to prohibit \u201cbecause under such j lower the thing may be so far restricted that there is nothing left of of it.\u201d (Citations omitted.)\nThe court continued its discussions of the two terms by seating:\nThe distinction between regulation and outright prohibition is often considered to be a narrow one: \u201c[t]hat regulation may take the character of prohibition, in proper cases, is well established by the decisions of this court\u201d ... quoting from United States v. Hill, 248 U.S. 420 at 425 [39 S.Ct. 143 at 145, 63 L.Ed. 337] (1919). John Donnelly and Sons, Inc. v. Outdoor Advertising Board, Mass. Supr., 369 Mass. 206, 339 N.E.2d 709 (1975).\nWe hold that, through Article II, Section 25 of the Delaware Constitution and 22 Del. C. \u00a7 301, the General Assembly has authorized New Castle to terminate nonconforming off-site signs upon reasonable notice, that is, by what has come to be known as amortization. We hold that the power to \u201cregulate and restrict\u201d as such term applies to zoning matters includes the power, upon reasonable notice, to prohibit some of those uses already in existence.\nII\nAs to the constitutionality of an ordinance which provides for amortization under authority of Delaware\u2019s enabling statute, 22 Del. C. \u00a7 301, it should be noted that the Delaware statute is similar to the Maryland statute under scrutiny in Grant, supra. New Castle argues that this Court should construe the statute as the Maryland Court of Appeals did, and it cites many cases for the proposition that various forms of amortization are reasonable and constitutional. Some of the most persuasive of these cases are: City of Fayetteville v. McIlroy Bank and Trust Co., Ark.Supr., 278 Ark. 500, 647 S.W.2d 439 (1983); Metromedia, Inc. v. City of San Diego, Cal.Supr., 26 Cal.3d 848, 164 Cal.Rptr. 510, 610 P.2d 407 (1980); Village of Gurnee v. Miller, Ill.App., 69 Ill.App.2d 248, 215 N.E.2d 829 (1966); Ailes v. Decatur County Area Planning Commission, Ind.App., 437 N.E.2d 1375 (1982); Harris v. Mayor and City Council of Baltimore, Md.Spec.App., 35 Md.App. 572, 371 A.2d 706 (1977); Eutaw Enterprises, Inc. v. City of Baltimore, Md.App., 241 Md. 686, 217 A.2d 348 (1966); Grant v. Mayor and City Council of Baltimore, supra; John Donnelly & Sons, Inc. v. Outdoor Advertising Board, Mass.Supr., 369 Mass. 206, 339 N.E.2d 709 (1975); Naegele Outdoor Adv. Co. v. Village of Minnetonka, Minn. Supr., 281 Minn. 492, 162 N.W.2d 206 (1968); Lachapelle v. Town of Goffstown, N.H.Supr., 107 N.H. 485, 225 A.2d 624 (1967); Temple Baptist Church v. City of Albuquerque, N.M.Supr., 98 N.M. 138, 646 P.2d 565 (1982); Suffolk Outdoor Advertising Co. v. Hulse, N.Y.App., 43 N.Y.2d 483, 402 N.Y.S.2d 368, 373 N.E.2d 263 (1977); City of Seattle v. Martin, Wash. Supr., 54 Wash.2d 541, 342 P.2d 602 (1959); Art Neon Co. v. City and County of Denver, 488 F.2d 118 (10th Cir.1973), cert. denied, 417 U.S. 932, 94 S.Ct. 2644, 41 L.Ed.2d 236 (1974); Standard Oil Co. v. City of Tallahassee, supra. The cited cases stand for the proposition that the forced termination of a nonconforming use over a specified period of time is a reasonable exercise of the police power and does not constitute a taking of property in violation of due process rights.\nRollins in turn cites authority for the proposition that such an amortization ordinance amounts to an improper taking of private property without just compensation. City of Fayetteville v. S. & H., Inc., Ark.Supr., 261 Ark. 148, 547 S.W.2d 94 (1977) (distinguished and somewhat modified by a divided court in City of Fayetteville v. McIlroy Bank and Trust Co., supra ); The James J. Loughlin Agency, Inc. v. Town of West Hartford, Conn.Supr., 166 Conn. 305, 348 A.2d 675 (1974); City of Paducah v. Johnson, Ky.App., 522 S.W.2d 447 (1975); Hoffmann v. Kinealy, Mo. Supr., 389 S.W.2d 745 (1965); United Advertising Corp. v. Borough of Raritan, N.J.Supr., 11 N.J. 144, 93 A.2d 362 (1952); Sun Oil Co. of Pennsylvania v. City of Upper Arlington, Ohio App., 55 Ohio App.2d 27, 379 N.E.2d 266 (1977). These authorities hold that the value of property lies in the right to use it. They tend to take the position that a lawful use of property which predates a zoning ordinance constitutes a \u201cvested property right\u201d which is guaranteed to the landowner as a nonconforming use until such time as it is voluntarily terminated or abandoned.\nThese two positions appear to bring into direct conflict two constitutional principles: the proposition that a person shall not be deprived of property rights without due process of law and the now well established principle that under the police power of the State, the use of private property may be reasonably regulated and restricted through such devices as zoning so long as the regulation and restriction bears a substantial relation to the health, safety, and general welfare of the community. We are of the opinion that reasonable, required amortization of such nonconforming uses as sign boards may be accomplished with due process of law, and that such form of regulation does not necessarily constitute a compensable taking.\nThe court below relied on New Castle County v. Harvey, Del.Ch., 315 A.2d 616 (1974) in support of its holding that a use of property is a vested right. In that case, the court was confronted with the issue of whether a pre-existing nonconforming use had ceased, thereby opening the way for the county to prohibit a new or modified nonconforming use, or whether there had been a continuous nonconforming use. The issue of whether a nonconforming use amounted to a vested right was not specifically considered by the court. The language from that opinion which the court below relied upon was merely dicta since the Court disallowed a modification of the original nonconforming use (the parking and maintaining of school buses instead of trucks).\nThe court in Harvey went on to state that:\n[T]he spirit and intent of the zoning laws is to eventually eliminate the nonconforming use as speedily as possible so as to bring the property within the overall zoning plan, then it would seem that the owner should not be permitted, after zoning, to continue an undesirable use by means of terminating his original, protected business endeavor and entering into a completely new and different enterprise in which he had no interest, stake or investment at the time the zoning took effect. Id. at 619.\nThe facts of Harvey are clearly distinguishable from the case at bar.\nThe court below also relied heavily on In re Ceresini, Del.Super., 189 A. 443 (1936) to support its conclusion that a nonconforming use of property amounts to a vested right of indefinite duration. In that case, the City pf Wilmington\u2019s zoning ordinance, providing that consent of adjoining property ownejrs was required before the City could permit a porch to be enclosed, was challenge^ as being an unreasonable application of the City\u2019s police power. The court below stated that the court in Ceresi-ni had held that the use of a property is integrally related to that property and its value. However, we read Ceresini to stand only for the overall proposition that \u201c... under the guise of the police powers of the State, the use and enjoyment of private property cannot be subjected to arbitrary and unreasonable restrictions which are clearly not essential to the public good or general welfare of the community,\u201d (emphasis added). Id. at 449. We find that the implication arising from this language is that if an ordinance reasonably restricts or limits a specific use of property and the ordinance is reasonably related to the general welfare of the community, it would not be susceptible to constitutional challenge.\nThis Court\u2019s decision in Shellburne, Inc. v. Roberts, Del.Supr., 224 A.2d 250 (1966), which was cite* \u00a1a by the Trial Court in support of its position that a use of property is a vested right!, is distinguishable on its facts. In that ( a proposed change in the zoning law where-ase, the plaintiff challenged by his property residential use would become restricted to >nly. Prior to the effective date of the proposed change, the plaintiff had acquired a permit to construct a building which would have been prohibited in the residential zone. There we held that a property owner has no vested right in a zoning classification, and that a building permit does not, per se, confer any right against a later zoning change. But we ruled that under certain circumstances, such as where an owner had made a substantial change of position or a substantial expenditure, a vested right arises from good faith reliance upon a building permit. It is manifest that Shellburne is inapposite in the instant case.\nWe hold in this ease that the ordinances which required that off-site signs be removed within three years created what amounted to new and reasonable divestment. As to the validity of provisions for amortization of nonconforming uses generally see cases collected at 22 A.L.R.3d 1134.\nIn Inhabitants, Town of Boothbay v. National Advertising Co., Me.Super., 347 A.2d 419 (1975), the Court held that the expectancy of maintaining a billboard does not rise to the level of an immutable or vested right. See also Eutaw Enterprises, Inc. v. City of Baltimore, supra. We find this approach to be persuasive.\nWe hold that the test for determining the constitutionality of such an ordinance is whether \u201cits terms are \u2018clearly arbitrary and unreasonable, having no substantial relation to the public health, safety, morals, or general welfare.\u2019 \u201d John Donnelly and Sons v. Outdoor Advertising Board, supra 339 N.E.2d at 716 quoting from Euclid v. Ambler Realty Co. (1926), 272 U.S. 365 at 395, 47 S.Ct. 114 at 121, 71 L.Ed. 303. We confine our study of the constitutionality of the ordinance in question to the reasonableness of this ordinance as applied to nonconforming off-site signs only.\nWe conclude that there is nothing inherently arbitrary or unreasonable in requiring the removal of existing off-site signs within three years. However, the suit brought by New Castle against Rollins was dismissed by the Court of Chancery without the presentation of evidence, and at this stage we have an inadequate factual record before us upon which to test the reasonableness of the ordinance or of the amortization period as it will be applied to Rollins. The case will be remanded to the Court of Chancery for a determination of whether the application of the ordinance which has here been held to meet overall constitutional standards would be so unfair or unreasonable to owners of signs such as those owned by Rollins as to render its application in such situations unconstitutional.\nREVERSED and REMANDED for further proceedings consistent herewith.\n. 22 Del.C. \u00a7 301 states:\nFor the purpose of promoting health, safety, morals or the general welfare of the community, the legislative body of cities and incorporated towns may regulate and restrict the height, number of stories and size of buildings and other structures, percentage of lot that may be occupied, the size of yards, courts and other open spaces, the density of population, and the location and use of buildings, structures and land for trade, industry, residence or other purposes. (Emphasis added.)",
+        "type": "majority",
+        "author": "CHRISTIE, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Daniel F. Wolcott, Jr. (argued) and W. Laird Stabler, III, of Potter, Anderson & Corroon, Wilmington, for appellant.",
+      "Harvey B. Rubenstein (argued), Wilmington, and Michael A. Poppiti, Wilmington, for appellee.",
+      "Robert D. Goldberg, City Sol., Julianne E. Hammond, Asst. City Sol., for the City of Wilmington, and Thomas G. Hughes, City Sol., for the City of Newark, amici curiae."
+    ],
+    "corrections": "",
+    "head_matter": "The MAYOR AND COUNCIL OF NEW CASTLE, a municipal corporation of the State of Delaware, Plaintiff Below, Appellant, v. ROLLINS OUTDOOR ADVERTISING, INC., Defendant Below, Appellee.\nSupreme Court of Delaware.\nSubmitted: Nov. 21, 1983.\nDecided: April 2, 1984.\nDaniel F. Wolcott, Jr. (argued) and W. Laird Stabler, III, of Potter, Anderson & Corroon, Wilmington, for appellant.\nHarvey B. Rubenstein (argued), Wilmington, and Michael A. Poppiti, Wilmington, for appellee.\nRobert D. Goldberg, City Sol., Julianne E. Hammond, Asst. City Sol., for the City of Wilmington, and Thomas G. Hughes, City Sol., for the City of Newark, amici curiae.\nBefore HERRMANN, C.J., and McNEILLY, HORSEY, MOORE and CHRISTIE, JJ., constituting the Court en banc."
+  },
+  "file_name": "0355-01",
+  "first_page_order": 415,
+  "last_page_order": 421
+}

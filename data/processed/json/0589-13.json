@@ -1,0 +1,58 @@
+{
+  "id": 12485856,
+  "name": "Com. v. J. Luczak",
+  "name_abbreviation": "Com. v. Luczak",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 1217 MDA 2015",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 123,
+    "sha256": "7ea33b9cb59215abd2a7f878370540629ee32acebe516634a91c7788a0f462e4",
+    "simhash": "1:399bd7247aaa0fe0",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Luczak"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Luczak\nNO. 1217 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Reversed and Remanded."
+  },
+  "file_name": "0589-13",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1279866,
+  "name": "A. E. Jones, Plaintiff, v. S. E. Stone, as Sheriff of Volusia County, Florida, Defendant",
+  "name_abbreviation": "Jones v. Stone",
+  "decision_date": "1931-01-05",
+  "docket_number": "",
+  "first_page": "1602",
+  "last_page": "1603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1602"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 836,
+    "ocr_confidence": 0.492,
+    "sha256": "b22db48d69b0329a69c5f948d39c4f19ba286656ff9c5b3819aacb410bbd7f47",
+    "simhash": "1:df8c2cf75749e539",
+    "word_count": 143
+  },
+  "last_updated": "2023-07-14T17:35:28.833773+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Whitfield, P. J., and Strum and Buford, J. J., concur."
+    ],
+    "parties": [
+      "A. E. Jones, Plaintiff, v. S. E. Stone, as Sheriff of Volusia County, Florida, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis cause having heretofore been submitted to the Court upon the transcript of the record of the judgment herein, and briefs and argument of counsel for the respective parties, and the record having been seen and inspected, and the Court being now advised of its judgment to be given in the premises, it seems to the Court that there is no error in the said judgment; it is, therefore, considered, ordered and adjudged by the Court that the judgment of the circuit court be, and the same is hereby, affirmed.\nWhitfield, P. J., and Strum and Buford, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Clarke Harper, for Plaintiff in Error;",
+      "Fred H. Davis, Attorney General, and Boy Campbell, Assistant, for Defendant in Error."
+    ],
+    "corrections": "",
+    "head_matter": "A. E. Jones, Plaintiff, v. S. E. Stone, as Sheriff of Volusia County, Florida, Defendant.\nDivision B.\nDecision filed January 5, 1931.\nClarke Harper, for Plaintiff in Error;\nFred H. Davis, Attorney General, and Boy Campbell, Assistant, for Defendant in Error."
+  },
+  "file_name": "1602-01",
+  "first_page_order": 598,
+  "last_page_order": 599
+}

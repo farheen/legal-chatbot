@@ -1,0 +1,58 @@
+{
+  "id": 12486059,
+  "name": "Com. v. R. Stough",
+  "name_abbreviation": "Com. v. Stough",
+  "decision_date": "2016-02-22",
+  "docket_number": "NO. 1198 MDA 2015",
+  "first_page": "601",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "5fa1781714000358fc154ec9e3165066789e7a3adfae3e76fa105d9819d2064b",
+    "simhash": "1:75037fb716f205a0",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Stough"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Stough\nNO. 1198 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 22, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0601-08",
+  "first_page_order": 601,
+  "last_page_order": 601
+}

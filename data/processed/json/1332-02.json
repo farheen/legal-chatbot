@@ -1,0 +1,81 @@
+{
+  "id": 7377622,
+  "name": "Darlene E. COBB v. Bruce COBB",
+  "name_abbreviation": "Cobb v. Cobb",
+  "decision_date": "1994-02-03",
+  "docket_number": "No. 93-15-Appeal",
+  "first_page": "1332",
+  "last_page": "1333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 A.2d 1332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "485 A.2d 558",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7911555
+      ],
+      "pin_cites": [
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/485/0558-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 148,
+    "char_count": 1734,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18957340756159916
+    },
+    "sha256": "57b6a4b2e0cef796f6931eb6086fe0988b252f2a5e2d0f1cb8e47a13bdbc79ec",
+    "simhash": "1:f5a69e0629b32924",
+    "word_count": 286
+  },
+  "last_updated": "2024-02-27T17:56:39.653482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darlene E. COBB v. Bruce COBB."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the Supreme Court on January 25, 1994, pursuant to an order directing the plaintiff, Darlene E. Cobb, to show cause why her appeal of a Family Court order should not be summarily decided. That order directed the defendant, Bruce Cobb, to pay the amount of $5,000 over a twelve-month period to counsel who represented the plaintiff in her motion that sought sole custody of the parties\u2019 two minor children, child support and counsel fees.\nAfter hearing the arguments of counsel and after reviewing their memoranda, we are of the opinion that cause has not been shown.\nIn the instant appeal on the sole issue of attorney fees, plaintiff argued that the award was insufficient, based on evidence that supported an award of $9,156 in fees.\nThe Family Court Master determined the award after reviewing defendant\u2019s salary, his ability to borrow money in light of his delinquency on his mortgage payments, and his inability to meet his financial obligations. The parties do not disagree that plaintiffs attorney was entitled to his fee of $9,156. However, before an award is warranted, there must be a finding that \u201cthe husband has sufficient ability to pay such fees and that the wife has insufficient assets available for that purpose.\u201d Tarro v. Tarro, 485 A.2d 558, 564 (R.I.1984). Although the Master did not specifically incorporate the elements enumerated in G.L.1956 (1988 Reenactment) \u00a7 15-5-16 in determining the amount of counsel fees, we are of the opinion that evidence sufficient to support the ruling was presented. Consequently, we deny and dismiss the appeal and affirm the order of the Family Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Darlene E. COBB v. Bruce COBB.\nNo. 93-15-Appeal.\nSupreme Court of Rhode Island.\nFeb. 3, 1994."
+  },
+  "file_name": "1332-02",
+  "first_page_order": 1406,
+  "last_page_order": 1407
+}

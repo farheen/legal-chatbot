@@ -1,0 +1,58 @@
+{
+  "id": 12486584,
+  "name": "Com. v. R. Rabelow",
+  "name_abbreviation": "Com. v. Rabelow",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 2985 EDA 2014",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "9253e42d87b28f9ce4289e4fb573b5f0a39d4905c429f1287812fcbf42eb4ed9",
+    "simhash": "1:b138fa5692a86c85",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Rabelow"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Rabelow\nNO. 2985 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed.\n13 Petition for reargument denied May 12, 2016.\n--------"
+  },
+  "file_name": "0198-08",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

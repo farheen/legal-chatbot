@@ -1,0 +1,58 @@
+{
+  "id": 12487221,
+  "name": "Com. v. D. Savage",
+  "name_abbreviation": "Com. v. Savage",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1551 EDA 2015",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "a6a7ff034a0e5632d0d656f3ad81eae3abb0b06887a73f248081a57b93769928",
+    "simhash": "1:b95d22cb15b5adc4",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Savage"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Savage\nNO. 1551 EDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nVacated and Remanded."
+  },
+  "file_name": "0771-02",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488344,
+  "name": "Com. v. Dillon, V.",
+  "name_abbreviation": "Com v. Dillon",
+  "decision_date": "2016-05-09",
+  "docket_number": "1985 MDA 2015",
+  "first_page": "1141",
+  "last_page": "1141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 104,
+    "sha256": "d206e3d40a895b3bca40b5f329b2ca436600053fff335876ff99a1cfc835fb66",
+    "simhash": "1:1cc3d789d76b1de8",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nDillon, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nDillon, V.\n1985 MDA 2015\nSuperior Court of Pennsylvania.\nMay 9, 2016\nReversed/Vacated/Remanded"
+  },
+  "file_name": "1141-10",
+  "first_page_order": 1141,
+  "last_page_order": 1141
+}

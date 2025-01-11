@@ -1,0 +1,59 @@
+{
+  "id": 6083063,
+  "name": "In re Spear et al.",
+  "name_abbreviation": "In re Spear",
+  "decision_date": "1933-02-09",
+  "docket_number": "No. 3292",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 79,
+    "ocr_confidence": 0.537,
+    "sha256": "b09973161acede9da4a1f73da3bdc44a34aace70adb4e985af5d7cc7d312a0c2",
+    "simhash": "1:3a005554ce551845",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Spear et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in carbon black.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 9, 1933\nIn re Spear et al.\n(No. 3292). \u2014"
+  },
+  "file_name": "1227-13",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486695,
+  "name": "Com. v. J. Edmonds",
+  "name_abbreviation": "Com. v. Edmonds",
+  "decision_date": "2016-03-22",
+  "docket_number": "NO. 1520 MDA 2015",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "f77d13217e068f559164ac848041b027b559a87dd2350c3f088b6f39a51244f4",
+    "simhash": "1:2c06c60443201684",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Edmonds"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Edmonds\nNO. 1520 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 22, 2016\nAffirmed."
+  },
+  "file_name": "0206-11",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

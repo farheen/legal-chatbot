@@ -1,0 +1,58 @@
+{
+  "id": 12488505,
+  "name": "Com. v. Dawkins, M.",
+  "name_abbreviation": "Com v. Dawkins",
+  "decision_date": "2016-05-18",
+  "docket_number": "1413 WDA 2014",
+  "first_page": "1151",
+  "last_page": "1151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "f09b452597614fe466f895792eb228a6e08564adb47be88a95d869518e97a31e",
+    "simhash": "1:fd8f6438821a3af1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nDawkins, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nDawkins, M.\n1413 WDA 2014\nSuperior Court of Pennsylvania.\nMay 18, 2016\nAffirmed"
+  },
+  "file_name": "1151-12",
+  "first_page_order": 1151,
+  "last_page_order": 1151
+}

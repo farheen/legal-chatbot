@@ -1,0 +1,58 @@
+{
+  "id": 12485832,
+  "name": "Com. v. P. Colton",
+  "name_abbreviation": "Com. v. Colton",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 53 MDA 2015",
+  "first_page": "587",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 120,
+    "sha256": "b36ec46dd910758cea7035b587b0fb93d3d991e7f8df1a707591730826467b0c",
+    "simhash": "1:b91746935af31d42",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nP. Colton"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nP. Colton\nNO. 53 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0587-06",
+  "first_page_order": 587,
+  "last_page_order": 587
+}

@@ -1,0 +1,118 @@
+{
+  "id": 8146107,
+  "name": "MONDAY v. UNITED STATES",
+  "name_abbreviation": "Monday v. United States",
+  "decision_date": "1950-10-17",
+  "docket_number": "No. 955",
+  "first_page": "68",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "76 A.2d 68"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "65 A.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156937
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/65/0589-01"
+      ]
+    },
+    {
+      "cite": "190 U.S. 287",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8296998
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/190/0287-01"
+      ]
+    },
+    {
+      "cite": "7 App.D.C. 16",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1326952
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/7/0016-01"
+      ]
+    },
+    {
+      "cite": "52 A.2d 492",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/52/0492-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 353,
+    "char_count": 4561,
+    "ocr_confidence": 0.663,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20085862148719869
+    },
+    "sha256": "8d48afeda6bceb2569421a74304c136864913ef37e4085b948807e27cd70196a",
+    "simhash": "1:b35652cf6f2b405b",
+    "word_count": 768
+  },
+  "last_updated": "2024-02-27T21:58:30.758817+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAYTON, Chief Judge, and PIOOD and CLAGETT, Associate Judges."
+    ],
+    "parties": [
+      "MONDAY v. UNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Chief Judge.\nAppellant brings here for review an adjudication of the Juvenile Court, based on a jury verdict, finding him to be the father of a bastard child and requiring him to support said child.\nThe first assigned error relates to the admission of testimony by the complaining witness that she was pregnant in the latter part of March 1949. Appellant argues that such testimony was \u201cunsupported by competent testimony\u201d \u2014 presumably meaning medical testimony. He cites no case to support his contention, nor are we aware of any rule of law to that effect. The actual testimony of the complaining witness as shown by the record was \u201cthat she learned of her pregnancy the latter part of March, 1949, at- Dr. Gill\u2019s office; that she had previously missed her menstrual period which was due March 14th,\u201d and it was not disputed that the child was \u2022 born less than nine months thereafter, on November 17, 1949. Thus, in testifying that she was pregnant in the latter part of March, the witness was not venturing a medical opinion but was repotting an actuality. As we have said in Fuller v. United States, D.C.Mun.App., 65 A.2d 589, courts may take judicial notice that the period of human gestation is about 280 days or 9 calendar months.\nAppellant also says that the complaining witness should not have been allowed to testify that in February she contracted gonorrhea from defendant. We think the same reasoning applies to this testimony, for the witness had said that she had no relations with any other man during the period involved. Moreover, the record does not show any objection to this testimony.\nA sister of the complaining witness was permitted to testify that said complaining witness \u201cnever mentioned going with any other men.\u201d Appellant attacks this testimony as hearsay. Such it probably was. But at its worst, from defendant\u2019s viewpoint, it was merely negative in nature. And in view of other stronger evidence in the case its probative value was so slight we think it could not have affected the verdict of the jury.\nAnother assignment of error relates to the exclusion of two documents: appellant\u2019s application for a New York marriage license in August 1949, excluded on ground of remoteness, and a report of the Board of Police Surgeons (appellant being a policeman) made in April 1949, which the trial judge ruled irrelevant. Appellant in his brief concedes that these rulings were in the field of discretion. We also note that no proffer of the contents of the two papers was made in the trial court, and from the record we cannot tell what the papers contained or what appellant\u2019s purpose was in offering them. In his brief in this court he says the documents would have corroborated his testimony that he was on sick leave from February 15th to March 1st, and that he was free of gonorrhea in February, or specifically -on February 28th when the complaining witness said he infected her. We rule that both documents were properly excluded. It would not have helped defendant\u2019s case if he were permitted to prove that he had no venereal infection in April when the Police Surgeons examined him or in August when he applied for a marriage license in New York. In view of the rapidity of modern methods of treatment it cannot be said that absence of infection at those later dates established that there was no infection on the earlier, February date.\nOther assignments of error are either not supported by the record or are without legal substance.\nAffirmed.\n2\n. Generally supporting this view are Texas & P. R. Co. v. Watson, 190 U.S. 287, 23 S.Ct. 681, 47 L.Ed. 1057, and Le Cointe v. United States, 7 App.D.C. 16.\n. See Boorstein v. Douglas, D.C.Mun.App., 52 A.2d 492.\n. The record does not reveal the provisions of the New York marriage license statute, or whether it requires a gonorrhea test in connection with a marriage application. And defendant did not say that he was subjected to such a test in New York.\n. See The Journal of Venereal Disease Information, Federal Security Agency, Public Health Service, Vol. 31, No. 4, April 1950.",
+        "type": "majority",
+        "author": "CAYTON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Wesley S. Williams, William A. Tinney, Jr., and William B. Bryant, Washington, D. C., for appellant.",
+      "Vernon E. West, Corporation Counsel, Chester H. Gray, Principal Assistant Corporation Counsel, and Edward A. Beard, Assistant Corporation Counsel, Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "MONDAY v. UNITED STATES.\nNo. 955.\nMunicipal Court of Appeals for the District of Columbia.\nSubmitted Oct. 2, 1950.\nDecided Oct. 17, 1950.\nWesley S. Williams, William A. Tinney, Jr., and William B. Bryant, Washington, D. C., for appellant.\nVernon E. West, Corporation Counsel, Chester H. Gray, Principal Assistant Corporation Counsel, and Edward A. Beard, Assistant Corporation Counsel, Washington, D. C., for appellee.\nBefore CAYTON, Chief Judge, and PIOOD and CLAGETT, Associate Judges."
+  },
+  "file_name": "0068-02",
+  "first_page_order": 100,
+  "last_page_order": 103
+}

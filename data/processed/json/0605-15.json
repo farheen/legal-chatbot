@@ -1,0 +1,58 @@
+{
+  "id": 12486112,
+  "name": "Com. v. E. Guiher",
+  "name_abbreviation": "Com. v. Guiher",
+  "decision_date": "2016-02-26",
+  "docket_number": "NO. 961 WDA 2015",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 121,
+    "sha256": "fc7ee93e8615a2bc0c26c164c0a1ba1c055b8a92068de6bd42a427e2f3c6336f",
+    "simhash": "1:319df0c373fd1c02",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Guiher"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Guiher\nNO. 961 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 26, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0605-15",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

@@ -1,0 +1,619 @@
+{
+  "id": 8356174,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. James OWENS, Appellant",
+  "name_abbreviation": "Commonwealth v. Owens",
+  "decision_date": "2007-07-17",
+  "docket_number": "",
+  "first_page": "1187",
+  "last_page": "1193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 1187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "928 A.2d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736904
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0391-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        765936,
+        11805595
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "687-688",
+          "parenthetical": "citing Commonwealth v. Story, 476 Pa. 391, 383 A.2d 155, 162 (Pa.1978)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0001-01",
+        "/a2d/720/0679-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765936
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "19",
+          "parenthetical": "citing Commonwealth v. Story, 476 Pa. 391, 383 A.2d 155, 162 (Pa.1978)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0001-01"
+      ]
+    },
+    {
+      "cite": "640 A.2d 1251",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7872109,
+        775574
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1260"
+        },
+        {
+          "page": "1260",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/640/1251-01",
+        "/pa/537/0001-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775574
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "20"
+        },
+        {
+          "page": "20"
+        },
+        {
+          "page": "20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0001-01"
+      ]
+    },
+    {
+      "cite": "762 A.2d 382",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11151987
+      ],
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/762/0382-01"
+      ]
+    },
+    {
+      "cite": "498 Pa. 486",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1776076
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "254"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/498/0486-01"
+      ]
+    },
+    {
+      "cite": "880 A.2d 608",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        988597,
+        8937838
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "614-615",
+          "parenthetical": "\"[A] trial court may exclude even relevant evidence if such evidence poses a danger of unfair prejudice that outweighs its probative value. Pa.R.E. 403; Commonwealth v. Boyle, 498 Pa. 486, 447 A.2d 250, 254 (Pa.1982).\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0029-01",
+        "/a2d/880/0608-01"
+      ]
+    },
+    {
+      "cite": "584 Pa. 29",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        988597
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[A] trial court may exclude even relevant evidence if such evidence poses a danger of unfair prejudice that outweighs its probative value. Pa.R.E. 403; Commonwealth v. Boyle, 498 Pa. 486, 447 A.2d 250, 254 (Pa.1982).\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/584/0029-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9168526
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "592",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "592"
+        },
+        {
+          "page": "592"
+        },
+        {
+          "page": "592"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0588-01"
+      ]
+    },
+    {
+      "cite": "903 A.2d 1139",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3787945,
+        8410935
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1156",
+          "parenthetical": "Explaining that evidence is relevant if it logically tends to establish a material fact in the case, tends to make a fact at issue more or less probable or supports a reasonable inference or presumption regarding a material fact"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0151-01",
+        "/a2d/903/1139-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3787945
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "181",
+          "parenthetical": "Explaining that evidence is relevant if it logically tends to establish a material fact in the case, tends to make a fact at issue more or less probable or supports a reasonable inference or presumption regarding a material fact"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0151-01"
+      ]
+    },
+    {
+      "cite": "721 A.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11789756,
+        765942
+      ],
+      "weight": 5,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "350",
+          "parenthetical": "\"The threshold inquiry with admission of evidence is whether the evidence is relevant.\""
+        },
+        {
+          "page": "350"
+        },
+        {
+          "page": "351",
+          "parenthetical": "\"The general rule is that where a weapon can not be specifically linked to a crime, such weapon is not admissible as evidence.\""
+        },
+        {
+          "page": "351"
+        },
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/721/0344-01",
+        "/pa/554/0293-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 293",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765942
+      ],
+      "weight": 5,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "304-305",
+          "parenthetical": "\"The threshold inquiry with admission of evidence is whether the evidence is relevant.\""
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "306"
+        },
+        {
+          "page": "306"
+        },
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0293-01"
+      ]
+    },
+    {
+      "cite": "911 A.2d 960",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8404240
+      ],
+      "pin_cites": [
+        {
+          "page": "972"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/911/0960-01"
+      ]
+    },
+    {
+      "cite": "902 A.2d 430",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8413579,
+        3788063
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "455"
+        },
+        {
+          "page": "455"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/902/0430-01",
+        "/pa/588/0019-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 19",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788063
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "60-61"
+        },
+        {
+          "page": "60-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0019-01"
+      ]
+    },
+    {
+      "cite": "471 F.3d 435",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5251726
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/471/0435-01"
+      ]
+    },
+    {
+      "cite": "720 A.2d 693",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11805857,
+        765946,
+        765988,
+        11805966
+      ],
+      "pin_cites": [
+        {
+          "page": "704"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0693-01",
+        "/pa/554/0030-01",
+        "/pa/554/0031-01",
+        "/a2d/720/0693-02"
+      ]
+    },
+    {
+      "cite": "554 Pa. 31",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765988
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/554/0031-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 976",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 Pa. 662",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "745 A.2d 639",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11479558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0639-01"
+      ]
+    },
+    {
+      "cite": "2000 PA Super 15",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "721 A.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11789756,
+        765942
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "350",
+          "parenthetical": "\"[Ojnce it is determined that the trial court erred in admitting the evidence, the inquiry becomes whether the appellate court is convinced beyond a reasonable doubt that such error was harmless.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/721/0344-01",
+        "/pa/554/0293-01"
+      ]
+    },
+    {
+      "cite": "554 Pa. 293",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        765942
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[Ojnce it is determined that the trial court erred in admitting the evidence, the inquiry becomes whether the appellate court is convinced beyond a reasonable doubt that such error was harmless.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/554/0293-01"
+      ]
+    },
+    {
+      "cite": "902 A.2d 430",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8413579,
+        3788063
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "452-53",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/902/0430-01",
+        "/pa/588/0019-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 19",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3788063
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/588/0019-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 811,
+    "char_count": 16147,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 2.4041929957289267e-07,
+      "percentile": 0.7992340480082043
+    },
+    "sha256": "75e3528a95ed4f799720cda4f5f4fbecbffaa6c0b7297e6f7ca3819669eb78e2",
+    "simhash": "1:e76df3b9760fa1c8",
+    "word_count": 2706
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: STEVENS, KLEIN, and COLVILLE , JJ.",
+      "\u00b6 17 COLVILLE, J. FILES A CONCURRING OPINION."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. James OWENS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSTEVENS, J.:\n\u00b6 1 Appellant James Owens appeals a judgment of sentence entered in the Court of Common Pleas of Philadelphia County on February 2, 2005.\n\u00b6 2 On September 20, 2003, Owens and James Vass rammed a car occupied by three men and a five and a half year old child, then showered the car with bullets, narrowly missing its occupants. Owens (the driver) and Vass (the shooter) were arrested, tried together, and convicted for their actions. For his convictions for aggravated assault, violation of the Uniform Firearms Act, possession of an instrument of crime, and conspiracy, Owens was sentenced to six to twelve years\u2019 imprisonment.\n\u00b6 3 During the trial, evidence was presented that earlier on the day of the attack which resulted in Owens\u2019 arrest and convictions, he had threatened the men with a shotgun when they attempted to pick up the child for a court-ordered visitation. N.T. 11/22/04 at 32, 34, 98. Faced with Owens\u2019 threats, the men left and called the police. Id. at 35. Vass arrived at the scene, and joined Owens on the porch while he was speaking to the police. Id. at 37. The police eventually brought the child out of the house, and he and the three men got in a car and drove away. Id. at 38. Vass and Owens soon caught up with them, however, in a Ford Explorer driven by Owens. Id. at 39, 101. Vass pointed two hand guns at the victims, as Owens swerved the Explorer toward their car. Id. at 39-40, 101-102. As the two vehicles sped down the road, Vass fired several rounds at the victims\u2019 car, shattering a window. Id. at 40-41, 102-103. The victims sped up, and after their attackers turned off, eventually stopped and called the police. Id. at 41.\n\u00b64 Vass and Owens were stopped by police four days later, and the Ford Explorer was impounded. Id. at 184-187. A subsequent search of the vehicle revealed .22 caliber bullets. Id. at 217. Additionally, a search of Owens\u2019 home produced two rifle scopes and a scope mount, shotgun shells, rifle ammunition, handgun ammunition, and a .22 caliber handgun barrel. Id. at 197-200. The handguns used during the incident in question were never recovered, but Vass was positively identified as the shooter by all three of the adult victims during a later lineup. Id. at 220.\n\u00b6 5 Prior to trial, Owens filed a motion in limine seeking to exclude (1) the ballistics evidence seized on the grounds that it was irrelevant and prejudicial and (2) the testimony of one of the victims. Motion filed 11/15/04; N.T. 11/18/04 at 105, 115. In denying the motion, the trial court found the evidence relevant and not unfairly burdensome. N.T. 11/18/04 at 122-123; Opinion filed 6/30/06 at 5.\n\u00b6 6 Owens first asserts on appeal that the lower court erred in failing to exclude the ballistics evidence recovered from his home and vehicle on the grounds that it was of little probative value and highly prejudicial. Appellant\u2019s brief at 4. This challenges the trial court\u2019s denial of Owens\u2019 motion in limine, and we address such a challenge under the following standard:\nWhen reviewing the denial of a motion in limine, we apply an evidentiary abuse of discretion standard of review. See Commonwealth v. Zugay, 2000 PA Super 15, 745 A.2d 639 (Pa.Super.), appeal denied, 568 Pa. 662, 795 A.2d 976 (Pa.2000) (explaining that because a motion in limine is a procedure for obtaining a ruling on the admissibility of evidence prior to trial, which is similar to a ruling on a motion to suppress evidence, our standard of review of a motion in limine is the same as that of a motion to suppress). The admission of evidence is committed to the sound discretion of the trial court and our review is for an abuse of discretion. See Commonwealth v. Albrecht, 554 Pa. 31, 720 A.2d 693, 704 (Pa.1999) [affirmed in part, vacated in part on other grounds and remanded, 471 F.3d 435 (3d Cir.Pa.2006) ].\nCommonwealth v. Mitchell, 588 Pa. 19, 60-61, 902 A.2d 430, 455 (2006). A trial court\u2019s ruling regarding the admissibility of evidence will not be disturbed \u201cunless that ruling reflects \u2018manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support as to be clearly erroneous.\u2019 \u201d Commonwealth v. Einhorn, 911 A.2d 960, 972 (Pa.Super.2006).\n\u00b6 7 It is black letter law that evidence that is not relevant is not admissible. Pa. R.E. 402; Commonwealth v. Robinson, 554 Pa. 293, 304-305, 721 A.2d 344, 350 (1998) (\u201cThe threshold inquiry with admission of evidence is whether the evidence is relevant.\u201d). Pennsylvania Rule of Evidence 401 defines \u201crelevant evidence\u201d as that which has \u201cany tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence.\u201d Pa.R.E. 401. See also Commonwealth v. Edwards, 588 Pa. 151, 181, 903 A.2d 1139, 1156 (2006) (Explaining that evidence is relevant if it logically tends to establish a material fact in the case, tends to make a fact at issue more or less probable or supports a reasonable inference or presumption regarding a material fact).\n\u00b6 8 Relevance does not mean evidence is automatically admissible, however. Such evidence is only admissible where the probative value of the evidence outweighs its prejudicial impact. Robinson, 554 Pa. at 305, 721 A.2d at 350. As a panel of this Court explained in Commonwealth v. Broaster, 863 A.2d 588 (Pa.Super.2004), \u201c[rjelevant evidence may nevertheless be excluded \u2018if its probative value is outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.\u2019 \u201d Broaster, 863 A.2d at 592 (citing Pa.R.E. 403). See also Commonwealth v. DeJesus, 584 Pa. 29, 880 A.2d 608, 614-615 (2005) (\u201c[A] trial court may exclude even relevant evidence if such evidence poses a danger of unfair prejudice that outweighs its probative value. Pa.R.E. 403; Commonwealth v. Boyle, 498 Pa. 486, 447 A.2d 250, 254 (Pa.1982).\u201d).\nBecause all relevant Commonwealth evidence is meant to prejudice a defendant, [however] exclusion is limited to evidence so prejudicial that it would inflame the jury to make a decision based upon something other than the legal propositions relevant to the case. As this Court has noted, a trial court is not required to sanitize the trial to eliminate all unpleasant facts from the jury\u2019s consideration where those facts form part of the history and natural development of the events and offenses with which [a] defendant is charged.\nBroaster, 863 A.2d at 592 (citations omitted) (emphasis added).\n\u00b6 9 With regard to the admission of weapons evidence, such evidence is clearly admissible where it can be shown that the evidence was used in the crime charged. Commonwealth v. Edwards, 762 A.2d 382, 386 (Pa.Super.2000). Challenges to the admissibility of weapons evidence often occur, however, where, as here, the evidence cannot be positively identified as related to the crime. Robinson, 554 Pa. at 306, 721 A.2d at 351 (\u201cThe general rule is that where a weapon can not be specifically linked to a crime, such weapon is not admissible as evidence.\u201d).\n\u00b6 10 The exception to this general rule is where \u201cthe accused had a weapon or implement suitable to the commission of the crime charged. [This weapon] is always a proper ingredient of the case for the prosecution.\u201d Robinson, 554 Pa. at 306, 721 A.2d at 351.\nA weapon shown to have been in a defendant\u2019s possession may properly be admitted into evidence, even though it cannot positively be identified as the weapon used in the commission of a particular crime, if it tends to prove that the defendant had a weapon similar to the one used in the perpetration of the crime.\nBroaster, 863 A.2d at 592 (citing Commonwealth v. Williams, 537 Pa. 1, 20, 640 A.2d 1251, 1260 (1994)). Uncertainty whether the weapons evidence was actually used in the crime goes to the weight of such evidence, not its admissibility. Williams, 537 Pa. at 20, 640 A.2d at 1260 (citation omitted).\n\u00b6 11 Scrutinizing the evidence before us under the above principles, we find that the evidence falls into several categories. The shotgun shells seized from Owens\u2019 home were relevant, since such evidence forms part of the history and natural development of the events and offenses for which Vass and Owens were charged. Broaster, 863 A.2d at 592. Further, we do not find that the potential prejudicial effect of such evidence would \u201cinflame the jury to make a decision based upon something other than the legal propositions relevant to the case.\u201d Id. As such, we find no error in the trial court\u2019s decision to deny the motion in limine seeking exclusion of such evidence, and will not reverse on this ground. Mitchell, 588 Pa. at 60-61, 902 A.2d at 455.\n\u00b6 12 With regard to the handgun parts and ammunition, we find that such evidence was relevant as tending to prove that the defendants had weapons similar to the ones used in the perpetration of the crime. Broaster, 863 A.2d at 592; Williams, 537 Pa. at 20, 640 A.2d at 1260. As with the shotgun shells, we do not find that the potential prejudicial effect of the handgun evidence would \u201cinflame the jury to make a decision based upon something other than the legal propositions relevant to the case.\u201d Broaster, 863 A.2d at 592. Owens has again failed to show error on the part of the trial court, and no reversal is required. Mitchell, swpra.\n\u00b6 13 Unlike the shotgun and handgun evidence, however, the rifle ammunition, scopes and scope mount do not specifically relate to any of the events in question. Because such evidence does not appear to be relevant to the crimes in questions, it was error to admit it. Pa. R.E. 401, 402. Having so concluded, we turn to the question of whether the admission was harmless error. Robinson, 554 Pa. at 305, 721 A.2d at 350.\nHarmless error is established where either the error did not prejudice the defendant; or the erroneously admitted evidence was merely cumulative of other untainted evidence; or where the properly admitted and uncontradicted evidence of guilt was so overwhelming and the prejudicial effect of the error was so insignificant by comparison that the error could not have contributed to the verdict.\nCommonwealth v. Williams, 554 Pa. 1, 19, 720 A.2d 679, 687-688 (1998) (citing Commonwealth v. Story, 476 Pa. 391, 383 A.2d 155, 162 (Pa.1978)). Here, the properly admitted evidence, uncontradicted by Owens, showed that he threatened the adult victims with a shotgun when the victims attempted to pick up the child for a court-ordered visitation. Owens then chased the victims with Yass, who showered their ear with bullets. Under the circumstances, we find the admission of the rifle ammunition, scope and scope mount to be harmless error which does not require reversal.\n\u00b6 14 Owens\u2019 second allegation is that the trial court erred in permitting the testimony of Nathaniel Manor, \u201caka\u201d Fred Wilson on the grounds that the Commonwealth failed to provide adequate notice under Pa.R.Crim.P. 573(B)(l)(a)-(b). Appellant\u2019s brief at 4, 18-19. We find, however, that Owens has failed to show that the trial court committed an abuse of discretion in admitting Manor\u2019s testimony. As the trial court explained, \u201c[t]he prosecutor discovered this, eyewitness only two days prior to trial, because he was incarcerated under an alias in another part of the state. As soon as he was made known to the Commonwealth the defense was notified.\u201d Opinion filed 6/30/06 at 6. As such, the Commonwealth\u2019s actions comport with Rule 573(D), and the trial court acted within the discretion granted it by Rule 573(E). Owens has presented nothing to convince us otherwise.\n\u00b6 15 For the foregoing reasons, we affirm the judgment of sentence.\n\u00b6 16 Affirmed.\n\u00b6 17 COLVILLE, J. FILES A CONCURRING OPINION.\n. Vass\u2019 conviction and sentence were affirmed by a panel of this Court on April 4, 2007. Commonwealth v. Vass, 873 EDA 2005, 928 A.2d 1130 (Pa.Super. filed 4/4/07).\n. The child, who is the son of one of the adult victims, lived with his mother in Owens\u2019 home. N.T. 11/22/04 at 37.\n. The portion of Rule 573(B) to which Owens cites pertains to \"Disclosure by the Commonwealth\" and states as follows:\n(1) Mandatory. In all court cases, on request by the defendant, and subject to any protective order which the Commonwealth might obtain under this rule, the Commonwealth shall disclose to the defendant\u2019s attorney all of the following requested items or information, provided they are material to the instant case. The Commonwealth shall, when applicable, permit the defendant\u2019s attorney to inspect and copy or photograph such items.\n(a) Any evidence favorable to the accused that is material either to guilt or to punishment, and is within the possession or control of the attorney for the Commonwealth;\n(b) any written confession or inculpatory statement, or the substance of any oral confession or inculpatory statement, and the identity of the person to whom the confession or inculpatory statement was made that is in the possession or control of the attorney for the Commonwealth.\nPa.R.Crim.P. 573(B)(l)(a)-(b). Owens does not indicate what Manor\u2019s testimony was, and does not cite to the portion of the trial transcript containing his testimony.\nAlthough Owens does not cite to it, Rule 573(D) and (E) state:\n(D) Continuing Duty to Disclose. If, prior to or during trial, either party discovers additional evidence or material previously requested or ordered to be disclosed by it, which is subject to discovery or inspection under this rule, or the identity of an additional witness or witnesses, such'party shall promptly notify the opposing party or the court of the additional evidence, material, or witness.\n(E) Remedy. If at any time during the course of the proceedings it is brought to the attention of the court that a party has failed to comply with this rule, the court may order such party to permit discovery or inspection, may grant a continuance, or may prohibit such party from introducing evidence not disclosed, other than testimony of the defendant, or it may enter such other order as it deems just under the circumstances.\nPa.R.Crim.P. 573(D), (E).",
+        "type": "majority",
+        "author": "STEVENS, J.:"
+      },
+      {
+        "text": "CONCURRING OPINION BY\nCOLVILLE, J.:\n\u00b611 join the Majority. I write separately to highlight an area of the law which, in my view, is unclear.\n\u00b6 2 In discussing the admissibility of evidence, our Supreme Court has stated:\n... [A]n erroneous ruling by a trial court on an evidentiary issue does not require us to grant relief where the error is harmless....\nThe Commonwealth bears the burden of demonstrating harmless error....\nCommonwealth v. Mitchell, 588 Pa. 19, 902 A.2d 430, 452-53 (2006) (emphasis added).\n\u00b6 3 Here, we hold that the trial court\u2019s error in admitting into evidence the rifle ammunition, scopes, and scope mount constituted harmless error. The potential problem with this holding is that the Commonwealth has made no argument on appeal that the trial court\u2019s error in this regard was harmless. Thus, it cannot be said that the Commonwealth has demonstrated that the erroneous admission of this evidence was harmless.\n\u00b6 4 Caselaw exists, however, in which appellate courts of this Commonwealth have failed to expressly require the Commonwealth to prove harmless error. See, e.g., Commonwealth v. Robinson, 554 Pa. 293, 721 A.2d 344, 350 (1998) (\u201c[Ojnce it is determined that the trial court erred in admitting the evidence, the inquiry becomes whether the appellate court is convinced beyond a reasonable doubt that such error was harmless.\u201d). Due to the existence of caselaw such as Robinson and because, in this matter, the trial court\u2019s error in admitting into evidence the rifle ammunition, scopes, and scope mount truly was harmless, I am able to join the Majority.",
+        "type": "concurrence",
+        "author": "COLVILLE, J.:"
+      }
+    ],
+    "attorneys": [
+      "Karl Baker, Public Defender, Philadelphia, for appellant.",
+      "Hugh J. Burns, Jr., Asst. Dist. Atty., Philadelphia, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. James OWENS, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Jan. 29, 2007.\nFiled July 17, 2007.\nKarl Baker, Public Defender, Philadelphia, for appellant.\nHugh J. Burns, Jr., Asst. Dist. Atty., Philadelphia, for Com., appellee.\nBEFORE: STEVENS, KLEIN, and COLVILLE , JJ.\nRetired Senior Judge assigned to the Superior Court."
+  },
+  "file_name": "1187-01",
+  "first_page_order": 1235,
+  "last_page_order": 1241
+}

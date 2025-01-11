@@ -1,0 +1,58 @@
+{
+  "id": 12486376,
+  "name": "Com. v. O. Gonzalez-Iriarte",
+  "name_abbreviation": "Com. v. Gonzalez-Iriarte",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 94 WDA 2015",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "75f169c3444cdc67da7fc814ba7bc77d4457bfa0680fb68d82850d8b0e6daecb",
+    "simhash": "1:c09f75515ca41e9c",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nO. Gonzalez-Iriarte"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nO. Gonzalez-Iriarte\nNO. 94 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0185-12",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

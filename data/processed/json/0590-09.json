@@ -1,0 +1,58 @@
+{
+  "id": 12485883,
+  "name": "Com. v. S. Karpinski",
+  "name_abbreviation": "Com. v. Karpinski",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 2014 WDA 2014",
+  "first_page": "590",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 113,
+    "sha256": "a38ce8acc5a15caf5654c7f83ae841fa9d87b6543e57ee12fdc4bb2f0a160eb0",
+    "simhash": "1:2893ef28e669e361",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Karpinski"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Karpinski\nNO. 2014 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0590-09",
+  "first_page_order": 590,
+  "last_page_order": 590
+}

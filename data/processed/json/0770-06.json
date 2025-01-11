@@ -1,0 +1,58 @@
+{
+  "id": 12487211,
+  "name": "Com. v. S. Belk",
+  "name_abbreviation": "Com. v. Belk",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 1216 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "cffffd9de6c27ca4eb561179993627719fb0c8ec7411ff61ef413f9c2b87f716",
+    "simhash": "1:6c03756005a38c80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Belk"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Belk\nNO. 1216 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAffirmed."
+  },
+  "file_name": "0770-06",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

@@ -1,0 +1,248 @@
+{
+  "id": 12166241,
+  "name": "In re Chester John Cavallito and Allan Poe Gray",
+  "name_abbreviation": "In re Cavallito",
+  "decision_date": "1962-07-25",
+  "docket_number": "No. 6822",
+  "first_page": "1335",
+  "last_page": "1343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "49 C.C.P.A. 1335"
+    },
+    {
+      "type": "parallel",
+      "cite": "134 U.S.P.Q. 370"
+    },
+    {
+      "type": "parallel",
+      "cite": "306 F.2d 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "48 CCPA 71",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 USPQ 84",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 F. 2d 428",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1282695
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/153/0428-01"
+      ]
+    },
+    {
+      "cite": "155 F. 2d 379",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081225,
+        1139068
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/33-2/1083-01",
+        "/f2d/155/0379-01"
+      ]
+    },
+    {
+      "cite": "33 CCPA 1083",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081225
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/33-2/1083-01"
+      ]
+    },
+    {
+      "cite": "54 USPQ 200",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "129 F. 2d 552",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1158820
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/129/0552-01"
+      ]
+    },
+    {
+      "cite": "29 CCPA 1106",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/1106-01"
+      ]
+    },
+    {
+      "cite": "306 F. 2d 494",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        256690,
+        12166163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/306/0494-01",
+        "/ccpa/49-2/1301-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1301",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166163
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1301-01"
+      ]
+    },
+    {
+      "cite": "282 F. 2d 363",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077403,
+        2012118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0720-01",
+        "/f2d/282/0363-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 720",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077403
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0720-01"
+      ]
+    },
+    {
+      "cite": "282 F. 2d 357",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077291,
+        2012102
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0711-01",
+        "/f2d/282/0357-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 711",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077291
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0711-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 888,
+    "char_count": 21526,
+    "ocr_confidence": 0.525,
+    "pagerank": {
+      "raw": 6.753578708474276e-07,
+      "percentile": 0.9633650456069061
+    },
+    "sha256": "e263e3c85d7497bcfa0c964a9460bfdc600f09aef22cecd23fc4bae4285fa3eb",
+    "simhash": "1:97fd90da759ccc58",
+    "word_count": 3464
+  },
+  "last_updated": "2024-02-27T21:20:34.387980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, and Smith, Associate Judges, and Judge William H. Kirkpatrick",
+      "MARTIN, Judge, did not sit or participate because of illness."
+    ],
+    "parties": [
+      "In re Chester John Cavallito and Allan Poe Gray"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nWe are here concerned with the rejection of claims 1, 12-15, inclusive, and 35 of appellants\u2019 application Serial No. 593,058, filed June 22, 1956, entitled \u201cOrganic Compounds\u201d. Claims 2, 3, 4, 7, 9 and 11 have been allowed.\nTypical of the claims on appeal are claim 1, directed to a composition of matter, and claim 12, directed to a process for preparing the composition of matter. These claims are as follows:\n1. Poly carbon lower alkanes substituted on different carbon atoms by: (a) one onium-N-attached quaternary ammonium moiety having a radical weight, excluding the anion, not in excess of about 117 in which the onium-N substituents are three lower-aliphatic groups of which two can be joined to form a ring which can contain a hetero linking atom, and, (b) a second onium-N-attached quaternary ammonium moiety having a radical weight, excluding the anion, of at least 150 in which the onium-N is a member of a substituted \u2014CsN ring whereof not more than one ring atom forms part of another ring system and wherein not more than one of the 2- and 6-positions of the CsN ring is substituted when the CsN ring is a substituted pyridine ring; and, wherein the electrostatic charges of the quaternary ammonium moieties are satisfied by the presence of two anions. [Emphasis added.]\n12. The process of preparing unsymmetrical bis-quaternary ammonium salts which includes: quaternizing a substituted \u2014CsN ring compound having a molecular weight of at least 150 with an omega-haloalkyl ammonium salt, said salt containing one onium-N-attached quaternary ammonium moiety having a radical weight, excluding the anion, not exceeding about 117 in which the onium-N sub-stituents are three lower-aliphatic groups of which two can be joined to form a ring which can obtain a hetero linking atom. [Emphasis added.]\nClaim 35 differs from claim 1 in two respects: (1) There is an upper limit of 350 given to the radical weight of the larger moiety, and (2) a limitation on the substituents is stated in the final clause of the claim which appellants assert make \u201cclear that the substituents are non-ionic\u201d.\nClaims 12-15 are process claims directed to making the compounds claimed in claims 1 and 35.\nThe board affirmed the rejection of all the appealed claims on the basis of the following prior art:\nErickson, 2,017,806, November 11, 1952.\nMoreno, Chem. Abstracts, Yol. 49, col. 15070\u2014(1955).\nCierno et al., J. Chem. Soc., Yol. of 1954, pp. 2582-4.\nBergstrom et al., Chem. Abstracts, Vol. 40, col. 870-1 (1946).\nOur analysis of the rejections narrows the issues to be here considered to two: (1) That arising from the rejection of claims 1 and 35 as broader than the disclosed invention because of the inclusion therein of the term \u201clower-aliphatic groups\u201d and (2) that arising from the rejection of claims 12-15, inclusive, as \u201cunpatentable\u201d over the cited art.\nAlthough claims 1 and 35 were rejected on several grounds, our decision as to the issues on appeal raised by the rejection of these claims as \u201cbroader than the disclosure\u201d and as \u201cbased on an inadequate disclosure\u201d, is dispositive of them.\nAs stated by the board:\nThe issue raised by this rejection is not easy to resolve because it is necessary to make a side-by-side comparison of the nature and scope of the disclosure with the nature and scope of the claims. The general legal principles are well understood, but their application to the facts of a particular case requires the exercise of a sharp sense of discrimination and a fine degree of judgment.\nOn the first issue, we agree with the board that the term \u201clower-aliphatic groups\u201d, contained in claims 1 and 35, gives these two claims a breadth greater than that warranted by the written description of the invention as found in the specification. We think, therefore, as to these claims that the present case is governed by our previous decision in In re Cavallito and Gray\u2014(PA 6502), 48 CCPA 711, 282 F. 2d 357, 127 USPQ, 202, rather than by our decision in In re Cavallito and Gray\u2014(PA 6508), 48 CCPA 720, 282 F. 2d 363, 127 USPQ 206, as appellants have contended.\nThe pertinent portions of 35 U.S.C. 112 which are directly involved. in the rejection of claims 1 and 35 are the same as those considered in our opinion in In re Sus and Schaeffer (PA 6778), 49 CCPA 1301, 306 F. 2d 494, 134 USPQ 301.\nWe think the legal principals governing the sufficiency of the disclosure to support broad claims are correctly summarized by our statement in In re Cavallito and Gray (PA 6508), supra, that:\n* * * The sufficiency of a disclosure depends not on the number but rather on the nature of the claimed compounds per se and the nature of the supporting disclosures. If a claim covers compounds which are closely related, a comparatively limited disclosure may be sufficient to support it. If, however, the claim covers compounds which are related only in some structural respects, a more extensive supporting disclosure may be necessary to support it. Moreover, the selection of the examples and other exemplary material used as the disclosure to support a claim must be adequately representative of the area covered by it. In some instances a limited disclosure which is typical of various areas covered by a claim may be of greater value in determining the patentable characteristics of the claimed compounds than a more extensive disclosure would be if related only to a limited portion of the area.\nSince the problem here is in applying these principles to the particular facts of the present appeal, we shall pass directly to a determination of what is contained in the \u201cwritten description of the invention\u201d in appellants\u2019 specification and then to a determination of whether this written description is of adequate scope to support rejected claims 1 and 35.\nThe organic compounds disclosed in the specification are unsym-metric bis-quaternary ammonium salts. The specification emphasizes the molecular structure of the compounds and states that \u201cthe invention resides in the concept of a composition of matter\u201d having a particular molecular structure which is illustrated diagrammatically in the specification as follows:\nFollowing this diagrammatic illustration, the specification states:\nThe smaller moitey of the molecular structure has a radical weight not exceeding 117 and is made up of a quarternary nitrogen atom bearing substituents (Ri, R2, Rp such as three lower-alkyl or lower-alkenyl groups, which are the same or different: or, the moiety is an N-heterocyclic radical, which heterocyclic radical may also include an oxygen or sulfur atom, having a lower-alkyl or lower-alkenyl radical also attached to the heterocyclic N atom. The sum of the carbon atoms in the substituents attached to the quaternary N in the smaller moiety should not be greater than about 7, and preferably, at least one of said substituents is the methyl radical.\nThe specification also states:\nThe physical embodiments of this concept are solids having relatively high melting points and exhibit applied use characteristics in that they possess very unusual hypotensive activity of varying duration, and, ganglionic blocking properties, which two characteristics vary independently with relation to changes in molecular structure in any series of the various members or compounds of the composition.\nThe specification contains some 90 examples which appellants in their brief characterize as \u201cfairly representative of the field covered by the claims.\u201d It also contains detailed exemplary material which, appellants assert in their brief, teach \u201cthe various types of components which are included and how to make them.\u201d\nThe specification describes the critical limits of the invention in. the rejected claims as follows:\nThe smaller moiety of the molecule consists of a cationic quaternary ammonium group and it is critical that the atoms of such moiety not exceed a total weight of about 117. The preferred substituents attached to the N atom of this moiety are three lower-alkyl radicals from the group: methyl, ethyl, n-propyl, and isopropyl. Two of these radicals may be joined to form with the said N-atom a small heterocyclic radical, such as pyrrolidino, methyl-pyr-rolidino and piperidino, and the heterocycle may include an oxygen or sulphur atom, as in the morpholino and thiamorpholino radicals.\nThe larger moiety of the molecule also is a cationic quaternary ammonium group which has a radical weight of at least 150, preferably in the range between about 175 and 350, and should contain a minimum of polar substituent radicals other than that of the aforementioned onium group. Fundamentally, the larger grouping involves a pyridine ring, and the pyridine ring can be substituted by a wide variety of radicals and may be partially or completely hydrogenated to eliminate unsaturation from the ring.\nThe lower-alkylene bridge between the two quaternary ammonium moieties has at least two and preferably not more than about six carbon atoms therein and can be straight or branched chain. The optimum pharacological activity appears to reside in physical embodiments of the concept wherein the bridge has three car bon atoms.\nAt the oral argument, counsel for appellants emphasized the particular molecular structure of compounds embodying the claimed invention and related this structure to the characteristics of the compounds which, as stated in the specification, have the \u201cunusual hypotensive activity of varying duration, and, ganglionic blocking properties.\u201d There appears to be no question but that, as stated in the specification, these \u201ctwo characteristics vary independently with relation to changes in molecular structure in any series of the various members or compounds of the composition.\u201d\nThe particular issue arises here because of appellants\u2019 use of the term \u201clower-aliphatic groups\u201d in rejected claims 1 and 35. As stated by the board:\nIt is the examiner\u2019s view that \u201clower-aliphatic groups\u201d covers any open-chain radical whatsover and that when two are joined in a heterocyele, the hetero linking atom may be of any character within the total limit of radical weight. With respect to the substituted \u2014C5N ring, the examiner holds that, with only a few restrictions, there is practically no limit to the number and type of sub-stituents. The examiner underscores this rejection by pointing out that in the medical field such scope is highly speculative and may include materials not useful for the intended purpose, referring to the difference between a bridging lower-alkane of two carbon atoms and a bridging lower alkane of a larger number of carbon atoms which may be branched.\nAppellants take the position that this term does not include substituted lower aliphatic groups. This position is stated in their brief as follows:\n* * * But appellants use the term in its commonly accepted meaning which does not include any substituted lower-aliphatic group. As pointed out to the Board, the term \u201caliphatic\u201d is defined in Hacks\u2019s [sic] \u201cChemical Dictionary\u201d, 3d ed., as \u201cAcyclic.\u201d Pertaining to an open chain carbon compound; as paraf-fins or olefins.\u201d These contain only carbon and hydrogen atoms. This is exactly how the term is used in the instant claims. The exact term used is \u201clower aliphatic groups\u201d not \u201csubstituted lower aliphatic\u201d. * * *\nWe cannot agree with appellants that the term \u201clower-aliphatic groups\u201d in its commonly accepted meaning \u201cdoes not include any substituted lower-aliphatic group. The definition from Hackh\u2019s Chemical Dictionary, 8d Ed., cited by appellants, supra, uses \u201cpar-affins and olefins\u201d only as examples of aliphatic carbon compounds. We do not think these two examples, which happen to be unsubstituted, were meant by the editors to indicate that all examples of an aliphatic compound must be unsubstituted. Other accepted chemical authorities indicate that the term aliphatic should not be so limited.\nAppellants have not stated in their specification that the term \u201clower-aliphatic groups\u201d should be limited to a meaning which ex-eludes substituents. The word \u201caliphatic\u201d is used in the specification only in connection with the solvents used in preparing the compounds claimed by appellants, e.g., the specification describes \u201ca wide variety of solvents such as aliphatic or aromatic hydrocarbons, alcohols, ethers, et cetera * * This use of the term \u201caliphatic\u201d gives no support in the specification for the limited meaning of the term \u201clower-aliphatic groups\u201d urged by appellants. Therefore, we think it a fair interpretation of the claims to say that they call for \u201cthree lower-aliphatic groups\u201d, substituted or unsubstituted, chosen so that the radical weight of the onium-N-attached quaternary ammonium moiety, excluding the anion, is \u201cnot in excess of about 117.\u201d\nAs pointed out in In re Sus and Schaeffer, supra, the defect of such a claim is not that it is broad, but that it is broader than the written description of the invention in the specification, and hence that the claims are not supported by the disclosure. While the language under consideration appears in original claim 1, and hence is part of the original specification disclosure (see Sec. 706.03(n), Manual of Patent Office Examining Procedure), if it is to be considered as supporting the claim in which it is used, it should also be added to the written description of the invention contained in the specification. (Ibid.) The present record does not indicate that this has been done. Mindful as we are of the problems which may arise by reason of the incorporation of new matter in a specification in support of a claim such as claim 1 (cf. Sec. 608.01 (o), M.P.E.P.), we do not think it either desirable or incumbent upon us to here consider the possible allowability of the appealed claims on the basis of an assumption as to what, if any, amendment to the specification may be warranted by the disclosures of original claim 1.\nOn this aspect of the case we agree with the statement in the solicitor\u2019s brief that :\nInsofar as appellants urge * * * that the claims are not broader than the disclosure because claim 1 is an original claim, it suffices to say that that fact alone is not conclusive upon 'whether the rejection is obviated. In re Ware, 29 CCPA 1106, 129 F. 2d 552 [54 USPQ 200] ; In re Moore, 33 CCPA 1083, 155 F. 2d 379 [69 USPQ 524.] Furthermore, the mere fact that applicants use broad or generic terminology in their application, as is urged here * * *, does not necessarily entitle them to claim the subject matter broadly.\nThere is no question but the term in question in rejected claims 1 and 35 is such a broad term that it will embrace subject matter not disclosed in the specification. The specification does not disclose any factors governing the selection of the claimed \u201cthree lower-aliphatic groups,\u201d to achieve the claimed \u201cone onium-N-attached quaternary ammonium moiety having a radical weight, excluding the anion, not in excess of about 117,\u201d and thus contains little more than suggestions for experimentation. Cf. Sobering Corporation v. Gilbert, 153 F. 2d 428, 68 USPQ 84 (CCA2d, 1946).\nAppellants urge that the inclusion of some 90 examples in the specification warrants the allowance of claims of the scope of claims 1 and 35. We agree with the board\u2019s analysis of the specification that:\nIt is apparent from the foregoing that appellants have disclosed the pharmo-cological effectiveness of only five very closely related compounds, all falling within a strictly limited category of the extremely large group of compounds claimed.\nWe also agree with the statement of the solicitor in his brief that:\nThe Board could also have observed that 88 of the 90 examples appellants mention (all except 9 and 10) had the same trimethyl group. No other \u201clower aliphatic groups\u201d, as defined in claim 1, are specifically disclosed.\nWe think the following conclusions are supported by the foregoing analysis:\n(1) The specific examples of the specification do not support the broad terminology \u201clower-aliphatic groups\u201d used in appealed claims 1 and 35.\n(2) There is no statement in the specification that all the compounds disclosed possess the unique hypotensive and ganglionic blocking properties which are disclosed as the \u201capplied use characteristics\u201d of the compounds which are disclosed as the physical embodiments of the molecular structure which is said to be appellants\u2019 inventive \u201cconcept.\u201d\nThe first conclusion requires affirmance of the board\u2019s decision on claims 1 and 35 for the legal reasons more fully discussed in our opinion in In re Sus and Schaeffer, supra.\nThe second conclusion requires affirmance of the board\u2019s decision on claims 1 and 35 for the legal reasons more fully set forth in our opinion in In re Cavallito and Gray (PA 6502), 48 CCPA 71, 282 F. 2d 357, 127 USPQ 202.\nProcess claims 12 through 15 were rejected by the examiner as \u201cun-patentable over Erickson\u201d. In sustaining this rejection, the board stated:\nWe will sustain the indicated rejection of process claims 12 through 15 because there is nothing unobvious in carrying out an admittedly \u201cknown type reaction\u201d with analogous materials and appellants have offered no reason for any expectation that the disclosed reaction would be different or inoperative in connection with starting materials wherein It is somewhat lighter or R 'N is somewhat heavier. The novelty of the final product does not serve to establish that the method for preparing it is unobvious because, on the contrary, the nature of the procedure and the involved chemical reaction is quite similar to the prior art.\nWe have carefully considered the disclosures of the Erickson reference but do not agree with the board that it would lead one of ordinary skill in this art to utilize the starting materials disclosed by appellants in appellants\u2019 process to make appellants\u2019 admittedly novel final product. We therefore reverse the decision of the board as to claims 12 through 15.\nWe note, however, that appellants have used the broad term \u201clower-aliphatic groups\u201d in defining the starting materials in all the rejected process claims. While as previously set forth, we agree that the hoard properly held this term to be broader than and unsupported by the disclosure in its rejection of claims 1 and 35, it is noted that the board did not reject process claims 12 through 15 on this basis, hence this issue as to these claims is not before us on the present appeal.\nMARTIN, Judge, did not sit or participate because of illness.\nOther issues raised and argued in connection with claims 1 and 35 but which shall not be here considered include : (1) the rejection of claim 35 as involving a Markush group of diminished scope over claim 1, and (2) whether the claims are, in fact, in Markush form. However, in our consideration of these issues we note inter alia the article in XXXVII Journal of the Patent Office Society, 164 et seq., which neither the applicant nor the solicitor referred to but which contains a very comprehensive consideration of the subject of Markush claims.\nThe pertinent portions of 35 U.S.C. 112 to be here considered are :\n\u201cThe specification shall contain a written description of the invention * * *.\n\u201cThe specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention\u201d [Emphasis added.]\naliphatic\u2014Organic compounds whose molecules do not have their carbon atoms arranged in a ring structure. This category therefore includes all the paraffin hydrocarbons and their saturated and unsaturated derivatives of all types. [Emphasis added.] (The Condensed Chemical Dictionary, 6th Ed., p. 38.)\naliphatic compounds\u2014Aliphatic compounds are organic compounds having an open-chain (noncyclic or acylic) carbon skeleton. The term \u201caliphatic\u201d is dervide from aleiphatos3 the Greek word for fat, which is the source of many of the aliphatic compounds. Aliphatic compounds include paraffin hydrocarbons, olefins (ethylenic hydrocarbons), and acetylenic hydrocarbons, and their derivatives of all types. [Emphasis added.] (Encyclopedia of Chemical Technology, Vol. 1, Kirk and Othmer, p. 356.)\naliphatic * * * : Fatty, acyclic\u2014used of a large class of organic compounds characterized b.v an open-chain structure and consisting of the paraffin, olefin and actylene hydrocarbons and their derivatives (as the fatty acids) ; distinguished from alicyclic, aromatic, hetero-cyclic <^terpenes> [Emphasis added.] (Webster\u2019s Third New International Dictionary, p. 53.)\nCf. \u201cBroader Than the Disclosure in Chemical Cases\u201d by Samuel S. Levin, XXXI J.P.O.S. 5.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      },
+      {
+        "text": "Kirkpatrick, Judge,\ndissenting:\nI am unable to agree with the majority as to the modification of the decision of the board. In my opinion that decision should be affirmed in its entirety.",
+        "type": "dissent",
+        "author": "dissenting:"
+      }
+    ],
+    "attorneys": [
+      "Laurence and Laurence (Dean Laurence and Herbert I. Sherman, of counsel) for appellants.",
+      "Clarence W. Moore (Joseph Schimmel, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "306 F. 2d 505; 134 USPQ 370\nIn re Chester John Cavallito and Allan Poe Gray\n(No. 6822)\nUnited States Court of Customs and Patent Appeals,\nJuly 25, 1962\nLaurence and Laurence (Dean Laurence and Herbert I. Sherman, of counsel) for appellants.\nClarence W. Moore (Joseph Schimmel, of counsel) for the Commissioner of Patents.\n[Oral argument May 8, 1962, by Mr. Laurence and Mr. Scliimmel]\nBefore Worley, Chief Judge, and Rich, and Smith, Associate Judges, and Judge William H. Kirkpatrick\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Judge O\u2019Connell, pursuant to provisions of Section 294(d), Title 28, United States Code."
+  },
+  "file_name": "1335-01",
+  "first_page_order": 661,
+  "last_page_order": 669
+}

@@ -1,0 +1,59 @@
+{
+  "id": 11640100,
+  "name": "In the Matter of Suzanne M. MITCHELL",
+  "name_abbreviation": "In re Mitchell",
+  "decision_date": "1999-01-26",
+  "docket_number": "",
+  "first_page": "927",
+  "last_page": "927",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "724 A.2d 927"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 773,
+    "ocr_confidence": 0.656,
+    "sha256": "0b23afe29cf310b04c4c6af44848d427a74d77f8c1c145bfdd5906dc2c25fe25",
+    "simhash": "1:11a105fc9bd1cfdd",
+    "word_count": 127
+  },
+  "last_updated": "2023-07-14T15:46:29.380997+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Suzanne M. MITCHELL."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 26th day of January, 1999, The Report and Recommendations of The Disciplinary Board of the Supreme Court of Pennsylvania dated December 28, 1998, are approved and IT IS ORDERED that SUZANNE M. MITCHELL, who has been on inactive status, has never been suspended or disbarred, and has demonstrated that she has the moral qualifications, competency and learning in law required for admission to practice in the Commonwealth, shall be and is, hereby reinstated to active status as a member of the Bar of this Commonwealth. The expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement shall be paid by the Petitioner.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Suzanne M. MITCHELL.\nSupreme Court of Pennsylvania.\nJan. 26, 1999."
+  },
+  "file_name": "0927-02",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

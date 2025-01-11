@@ -1,0 +1,130 @@
+{
+  "id": 8091139,
+  "name": "Esther NADLER, Executrix of the Estate of Irving Nadler et al., Plaintiffs Below, Appellants, v. Fred BOHEN et al., Defendants Below, Appellees",
+  "name_abbreviation": "Nadler v. Bohen",
+  "decision_date": "1968-01-12",
+  "docket_number": "",
+  "first_page": "836",
+  "last_page": "837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "238 A.2d 836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "99 A.2d 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Del.Ch. 60",
+      "category": "reporters:state",
+      "reporter": "Del. Ch.",
+      "case_ids": [
+        489817
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/del-ch/34/0060-01"
+      ]
+    },
+    {
+      "cite": "35 A.L.R.2d 1140",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 A.2d 295",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Del.Ch. 234",
+      "category": "reporters:state",
+      "reporter": "Del. Ch.",
+      "case_ids": [
+        485794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/del-ch/33/0234-01"
+      ]
+    },
+    {
+      "cite": "82 A.2d 376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Del.Ch. 405",
+      "category": "reporters:state",
+      "reporter": "Del. Ch.",
+      "case_ids": [
+        491365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/del-ch/32/0405-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 255,
+    "char_count": 3220,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 2.0895358756038397e-07,
+      "percentile": 0.7601761724332191
+    },
+    "sha256": "23eeeadfa47adf48d48790ef2025e637b135704936a0c745ade015271faba7db",
+    "simhash": "1:b1bf8f4a826c20d8",
+    "word_count": 517
+  },
+  "last_updated": "2024-02-27T16:29:55.178470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WOLCOTT, C. J., and CAREY and HERRMANN, JJ., sitting."
+    ],
+    "parties": [
+      "Esther NADLER, Executrix of the Estate of Irving Nadler et al., Plaintiffs Below, Appellants, v. Fred BOHEN et al., Defendants Below, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "WOLCOTT, Chief Justice.\nThis is a motion to dismiss an appeal from an interlocutory order in stockholders\u2019 class and derivative actions charging the individual directors of Allis-Chalmers with breach of fiduciary duty.\nThe order appealed from sets a trial date for January 29, 1968 over the opposition of the plaintiffs who complain, by reason of the illness of chief trial counsel, that it is impossible adequately to prepare the case for trial by that date. It is argued that the action of the Vice Chancellor in so ruling is arbitrary, an abuse of discretion, and denies plaintiffs due process of law in that they are denied the right to have the trial conducted by counsel of their own choice.\nThe defendant-directors moved to dismiss the appeal on the ground that the order appealed from is an interlocutory order, not appealable under the Constitution of this State.\nBy Article IV, Section 11 of the Constitution of this State, Del.C.Ann., the Supreme Court is given jurisdiction to \u201cdetermine finally all matters of appeal in the interlocutory or final decrees and other proceedings in chancery.\u201d This provision, however, does not mean that all interlocutory orders are appealable. To make such an order appealable, it must appear that the order has determined a substantial issue in the cause and established legal rights. DuPont v. DuPont, 32 Del.Ch. 405, 82 A.2d 376; Martin v. American Potash & Chemical Corp., 33 Del.Ch. 234, 92 A.2d 295, 35 A.L.R.2d 1140; Consolidated Fisheries Co. v. Consolidated Solubles Co., 34 Del.Ch. 60, 99 A.2d 497.\nIt is to be noted that for an interlocutory order to be appealable, it must accomplish two things \u2014 first, it must determine a substantial issue in the cause and, second, it must establish a legal right. It is clear from the cited cases that both these elements must be present to permit review of an interlocutory order prior to final judgment.\nAssuming that the plaintiffs are correct that forcing them to trial on January 29, 1968 will be a deprivation of due process, nevertheless, no substantial issue has been determined by the order appealed from. The order, therefore, fails to satisfy the requirement of appealability for interlocutory orders. Hence, the motion to dismiss the appeal is granted. If, in fact, the denial of due process results, that question can be raised on appeal from the final judgment.\nWe sympathize with the dilemma in which the plaintiffs profess to find themselves. We have full confidence, however, that upon proper showing, the Vice Chancellor will prevent a miscarriage of justice.\nThe motion to dismiss is granted.",
+        "type": "majority",
+        "author": "WOLCOTT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Irving Morris and Joseph A. Rosenthal of Cohen, Morris & Rosenthal, Wilmington, and Philip Jones, of Wolf, Popper, Ross, Wolf & Jones, New York City, for appellants.",
+      "George Tyler Coulson, of Morris, Nichols, Arsht & Tunnell, Wilmington, for individual appellees.",
+      "Henry M. Canby, of Richards, Layton & Finger, Wilmington, for Allis-Chalmers Manufacturing Company, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Esther NADLER, Executrix of the Estate of Irving Nadler et al., Plaintiffs Below, Appellants, v. Fred BOHEN et al., Defendants Below, Appellees.\nSupreme Court of Delaware.\nJan. 12, 1968.\nIrving Morris and Joseph A. Rosenthal of Cohen, Morris & Rosenthal, Wilmington, and Philip Jones, of Wolf, Popper, Ross, Wolf & Jones, New York City, for appellants.\nGeorge Tyler Coulson, of Morris, Nichols, Arsht & Tunnell, Wilmington, for individual appellees.\nHenry M. Canby, of Richards, Layton & Finger, Wilmington, for Allis-Chalmers Manufacturing Company, appellee.\nWOLCOTT, C. J., and CAREY and HERRMANN, JJ., sitting."
+  },
+  "file_name": "0836-01",
+  "first_page_order": 868,
+  "last_page_order": 869
+}

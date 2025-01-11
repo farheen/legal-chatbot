@@ -1,0 +1,64 @@
+{
+  "id": 12489435,
+  "name": "EVANS, Vernon Lee v. STATE of Maryland",
+  "name_abbreviation": "Evans v. State",
+  "decision_date": "2017-04-21",
+  "docket_number": "Pet. Docket No. 613, Sept. Term, 2016",
+  "first_page": "813",
+  "last_page": "813",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 813"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 531"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 166,
+    "sha256": "0849556698a0cda8df0ebf91cf4dcd9de042a4ed02ef37539812fef1ee6983be",
+    "simhash": "1:0aae5055c0c90091",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EVANS, Vernon Lee\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "EVANS, Vernon Lee\nv.\nSTATE of Maryland\nPet. Docket No. 613, Sept. Term, 2016\nCourt of Appeals of Maryland.\nApril 21, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0813-04",
+  "first_page_order": 813,
+  "last_page_order": 813
+}

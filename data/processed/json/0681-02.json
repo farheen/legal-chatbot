@@ -1,0 +1,83 @@
+{
+  "id": 12491017,
+  "name": "Enrico MANGIAFICO v. TOWN OF FARMINGTON, et al.",
+  "name_abbreviation": "Mangiafico v. Town of Farmington",
+  "decision_date": "2017-10-11",
+  "docket_number": "",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 920"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "173 Conn.App. 158",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489974
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/163-2/0689-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 583,
+    "pagerank": {
+      "raw": 5.7906812181354787e-08,
+      "percentile": 0.36118939752858176
+    },
+    "sha256": "f1ba4e900cd61eab2c4da50bbfe7cc5ef7676a41db6bc8804b91ea76442ae799",
+    "simhash": "1:c03eecbedea131e1",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:34:53.168293+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Enrico MANGIAFICO\nv.\nTOWN OF FARMINGTON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiff's petition for certification to appeal from the Appellate Court, 173 Conn.App. 158, 163 A.3d 689 (2017), is granted, limited to the following question:"
+    ],
+    "corrections": "",
+    "head_matter": "Enrico MANGIAFICO\nv.\nTOWN OF FARMINGTON, et al.\nSupreme Court of Connecticut.\nDecided October 11, 2017\nJon L. Schoenhorn, in support of the petition.\nKenneth R. Slater, Jr., in opposition.\nThe plaintiff's petition for certification to appeal from the Appellate Court, 173 Conn.App. 158, 163 A.3d 689 (2017), is granted, limited to the following question:\n\"Did the Appellate Court properly conclude that the trial court lacked subject matter jurisdiction to entertain the plaintiff's federal civil rights complaint due to the plaintiff's failure to exhaust administrative remedies?\""
+  },
+  "file_name": "0681-02",
+  "first_page_order": 681,
+  "last_page_order": 681
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486788,
+  "name": "Com. v. A. Dunn",
+  "name_abbreviation": "Com. v. Dunn",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1207 WDA 2014",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 105,
+    "sha256": "9431aed271abaa64f8363a1eb36fc09a11cda805fe1e577a4ddf1bb4d18d0447",
+    "simhash": "1:e48902f888ab4ca0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Dunn"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Dunn\nNO. 1207 WDA 2014\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nReversed and Remanded."
+  },
+  "file_name": "0212-10",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

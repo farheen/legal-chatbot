@@ -1,0 +1,88 @@
+{
+  "id": 7353679,
+  "name": "In re MICHELE M. et al.",
+  "name_abbreviation": "In re Michele M.",
+  "decision_date": "1996-11-15",
+  "docket_number": "",
+  "first_page": "765-767",
+  "last_page": "768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "685 A.2d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "425 A.2d 978",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994230
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/425/0978-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 222,
+    "char_count": 2380,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18943305188835333
+    },
+    "sha256": "031fc6e3efa2d0fe5a9906b92c2afce7871d5fbaf8227e0501a4ffbc6b484351",
+    "simhash": "1:5d4cd28f9a00d24a",
+    "word_count": 375
+  },
+  "last_updated": "2024-02-27T16:03:12.947820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WATHEN, C.J., and ROBERTS, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ."
+    ],
+    "parties": [
+      "In re MICHELE M. et al."
+    ],
+    "opinions": [
+      {
+        "text": "ROBERTS, Justice.\nThe Department of Human Services appeals from the judgments entered in the District Court (Belfast, Staples, J.) denying the Department\u2019s petition to terminate the mother\u2019s parental rights to Michele M. and Joseph H. The Department contends that the District Court rationally could have found sufficient clear and convincing evidence to support termination and that the court\u2019s failure to terminate does not represent the truth and right of the case, citing Harmon v. Emerson, 425 A.2d 978, 982 (Me.1981). We affirm the judgments.\nThe Department states in its brief that \u201cthe court made all the necessary findings ... to terminate parental rights but inexplicably declined to do so.\u201d The Department\u2019s contention is correct only in part. The court found that as of November 1995 the mother was unable to protect the children from jeopardy, 22 M.R.S.A. \u00a7 4055(l)(B)(2)(b)(i), and she was unable to take responsibility for the children, id. \u00a7 4055(l)(B)(2)(b)(ii). More importantly, however, the court was not satisfied that it was highly probable that \u201cthese circumstances are unlikely to change within a time which is reasonably calculated to meet the [children\u2019s] needs,\u201d \u00a7 4055(l)(B)(2)(b)(i) & (ii). The court listed four factors that \u201cshould be evaluated again before the petitions are granted.\u201d The court apparently found the presumption contained in section 4055(1-A) sufficiently rebutted.\nMoreover, we cannot conclude that the court ignored the relationship between the temporal limitations of subsections (i) and (ii) of section 4055(l)(B)(2)(b) and those factors relating to permanency expressed in section 4050. The court directed that certain steps be taken, with a view toward reevaluation of the mother\u2019s circumstances within one year. The evidence before the court did not compel a contrary conclusion.\nThe entry is:\nJudgments affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      }
+    ],
+    "attorneys": [
+      "Debra Gotlib, Diane Doyen, Assistant Attorneys General, Augusta, Kim Rosendo, Newcastle, for Appellant.",
+      "Patricia Worth, Belfast; Joseph Baiungo, Guardian Ad Litem, Belfast, Maureen Dil-lane, Guardian Ad Litem, Winterport, for Intervenors.",
+      "Robert E. Sandy, Jr., Sherman, Sandy & Lee, Waterville, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "In re MICHELE M. et al.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Oct. 1, 1996.\nDecided Nov. 15, 1996.\nDebra Gotlib, Diane Doyen, Assistant Attorneys General, Augusta, Kim Rosendo, Newcastle, for Appellant.\nPatricia Worth, Belfast; Joseph Baiungo, Guardian Ad Litem, Belfast, Maureen Dil-lane, Guardian Ad Litem, Winterport, for Intervenors.\nRobert E. Sandy, Jr., Sherman, Sandy & Lee, Waterville, for Appellee.\nBefore WATHEN, C.J., and ROBERTS, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ."
+  },
+  "file_name": "765-767-01",
+  "first_page_order": 839,
+  "last_page_order": 840
+}

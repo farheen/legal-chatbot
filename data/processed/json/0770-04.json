@@ -1,0 +1,58 @@
+{
+  "id": 12487209,
+  "name": "Com. v. G. Carson-Rivera",
+  "name_abbreviation": "Com. v. Carson-Rivera",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 971 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "ae78a7789df6aa6f589b6174738ec7346e631f249197e05dcc8747d0090d2e7a",
+    "simhash": "1:e1877f4930ef0c89",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. Carson-Rivera"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. Carson-Rivera\nNO. 971 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAffirmed, Vacated and Remanded."
+  },
+  "file_name": "0770-04",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

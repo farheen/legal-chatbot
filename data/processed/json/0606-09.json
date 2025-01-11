@@ -1,0 +1,58 @@
+{
+  "id": 12486138,
+  "name": "Com. v. T. Simms",
+  "name_abbreviation": "Com. v. Simms",
+  "decision_date": "2016-02-29",
+  "docket_number": "NO. 401 WDA 2015",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "40080bb6248d1cb646bef57e6541fcd21cdc6269ce8ea78d6a0b4fd0f2b9636d",
+    "simhash": "1:e41d408911a8b8d7",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Simms"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Simms\nNO. 401 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 29, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0606-09",
+  "first_page_order": 606,
+  "last_page_order": 606
+}

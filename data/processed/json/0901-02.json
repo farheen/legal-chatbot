@@ -1,0 +1,102 @@
+{
+  "id": 8171388,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Alnardo RODRIGUEZ, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rodriguez",
+  "decision_date": "2008-12-16",
+  "docket_number": "",
+  "first_page": "901",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "963 A.2d 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "946 A.2d 681",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8382409,
+        4088535
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/946/0681-01",
+        "/pa/596/0571-01"
+      ]
+    },
+    {
+      "cite": "596 Pa. 571",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4088535
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/596/0571-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 92,
+    "char_count": 1016,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20108797848832113
+    },
+    "sha256": "24b53deb1e39d60239b87253d59388b3a49dae213993f95a26be7fc638af4e8c",
+    "simhash": "1:4f0522fe21e9bca8",
+    "word_count": 164
+  },
+  "last_updated": "2024-02-27T22:55:33.803959+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Alnardo RODRIGUEZ, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of December 2008, the Petition for Allowance of Appeal is GRANTED. The Order of the Superior Court is VACATED and the matter is REMANDED to the Superior Court with direction to REMAND to the Court of Common Pleas of Philadelphia County for evidentiary hearings, if necessary, to determine the responsibility for the absence of transcripts from the record certified for appeal.\nIf it is determined that the absence is attributable to the failure of petitioner to comply with the Rules of Appellate Procedure, the June 1, 2007 Order of the Superi- or Court shall be reinstated. If it is determined that the absence is attributable to court personnel, the Superior Court shall resolve on the merits the issue raised in the appeal, which was previously treated as waived. See Commonwealth v. Hershberger, 596 Pa. 571, 946 A.2d 681 (2008) (citation omitted).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Alnardo RODRIGUEZ, Petitioner.\nSupreme Court of Pennsylvania.\nDec. 16, 2008."
+  },
+  "file_name": "0901-02",
+  "first_page_order": 949,
+  "last_page_order": 950
+}

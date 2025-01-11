@@ -1,0 +1,58 @@
+{
+  "id": 12486724,
+  "name": "K. Blum v. R. Blum",
+  "name_abbreviation": "Blum v. Blum",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1982 EDA 2015",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "6a5a3917737eddfdea1f29d38ed985090eed328a16f1129dcd8b1dfe089dd491",
+    "simhash": "1:3dcb6791afe71df9",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "K. Blum\nv.\nR. Blum"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "K. Blum\nv.\nR. Blum\nNO. 1982 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nQuashed."
+  },
+  "file_name": "0207-08",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486232,
+  "name": "Timothy Cox v. United States",
+  "name_abbreviation": "Cox v. United States",
+  "decision_date": "2016-07-14",
+  "docket_number": "NO. 14-CM-18",
+  "first_page": "576",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "142 A.3d 576"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 125,
+    "sha256": "58a938f7a92871358c35b66884c14a32a00c9b3025cc26dd1c33ae1ad6efc5f4",
+    "simhash": "1:3d74264eb7516cda",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.998797+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy Cox\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Timothy Cox\nv.\nUnited States\nNO. 14-CM-18\nDistrict of Columbia Court of Appeals\nJuly 14, 2016\nAlprin\nDisposition: Affirmed."
+  },
+  "file_name": "0576-16",
+  "first_page_order": 576,
+  "last_page_order": 576
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6083186,
+  "name": "In re Harry B. Whitehurst",
+  "name_abbreviation": "In re Whitehurst",
+  "decision_date": "1963-06-03",
+  "docket_number": "No. 7216",
+  "first_page": "1589",
+  "last_page": "1589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 105,
+    "ocr_confidence": 0.449,
+    "sha256": "538bb8131e80802f560fa0dba53aef60c653c254352e9fd7152bb30913261bab",
+    "simhash": "1:27507d1b6804144c",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Harry B. Whitehurst"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in glass-metal composites and method for preparation.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Harry B. Whitehurst\n(No. 7216)."
+  },
+  "file_name": "1589-02",
+  "first_page_order": 913,
+  "last_page_order": 913
+}

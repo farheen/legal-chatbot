@@ -1,0 +1,62 @@
+{
+  "id": 7944260,
+  "name": "STATE v. David RIENDEAU",
+  "name_abbreviation": "State v. Riendeau",
+  "decision_date": "1981-01-29",
+  "docket_number": "No. 81-22-M.P.",
+  "first_page": "90",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "425 A.2d 90"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 304,
+    "ocr_confidence": 0.82,
+    "sha256": "4327ee16583119719dabe97bea1381b64f5a2b5023cd6b8900f99cee1638873e",
+    "simhash": "1:7c25677c9dc4004f",
+    "word_count": 45
+  },
+  "last_updated": "2023-07-14T22:42:45.131159+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. David RIENDEAU."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Kathryn A. Panciera, Spec. Asst. Atty. Gen., for plaintiff-respondent.",
+      "John F. Cicilline, Providence, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. David RIENDEAU.\nNo. 81-22-M.P.\nSupreme Court of Rhode Island.\nJan. 29, 1981.\nDennis J. Roberts II, Atty. Gen., Kathryn A. Panciera, Spec. Asst. Atty. Gen., for plaintiff-respondent.\nJohn F. Cicilline, Providence, for defendant-petitioner."
+  },
+  "file_name": "0090-03",
+  "first_page_order": 152,
+  "last_page_order": 152
+}

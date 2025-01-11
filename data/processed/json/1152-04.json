@@ -1,0 +1,112 @@
+{
+  "id": 9476999,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Lindon Edward JOHNSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2002-02-26",
+  "docket_number": "",
+  "first_page": "1152",
+  "last_page": "1153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "791 A.2d 1152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "718 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        356265,
+        11690730
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01",
+        "/a2d/718/1242-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356265
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01"
+      ]
+    },
+    {
+      "cite": "299 A.2d 268",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 185",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947087
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1081,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.218249017606818
+    },
+    "sha256": "e4726a9a7c157bdf108927b2d703c46a74b883b5b708dec1494f54bd5b6eb29a",
+    "simhash": "1:5d9b648c238bc704",
+    "word_count": 172
+  },
+  "last_updated": "2024-02-27T16:19:31.043401+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Lindon Edward JOHNSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 26th day of February, 2002, the Petition for Allowance of Appeal is hereby GRANTED, limited to the following issues:\n1) Where Petitioner requests to withdraw his guilty plea before sentencing, clearly professes his innocence, and the underlying facts indicate a reasonable basis upon which Petitioner is not guilty as a matter of law, and the Commonwealth introduces no evidence of prejudice, does the trial court abuse its discretion and commit an error of law in refusing to allow Petitioner to withdraw his guilty plea?\n2) Was the decision of the trial court denying Petitioner\u2019s request to withdraw his guilty plea, which was made before sentencing, an error of law and an abuse of discretion directly contrary to the Pennsylvania Rules of Criminal Procedure and the Supreme Court\u2019s decisions in Commonwealth v. Forbes, 450 Pa. 185, 299 A.2d 268 (1973), and Commonwealth v. Randolph, 553 Pa. 224, 718 A.2d 1242 (1998)?",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Lindon Edward JOHNSON, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 26, 2002."
+  },
+  "file_name": "1152-04",
+  "first_page_order": 1196,
+  "last_page_order": 1197
+}

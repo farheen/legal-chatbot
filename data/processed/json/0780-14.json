@@ -1,0 +1,58 @@
+{
+  "id": 12487355,
+  "name": "Com. v. B. Kaelin",
+  "name_abbreviation": "Com. v. Kaelin",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 834 WDA 2015",
+  "first_page": "780",
+  "last_page": "780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 780"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "38cea550e68573ee4ef2115b80ba97d16fdd362fdc148162e19a3921c160b910",
+    "simhash": "1:300924b150f18580",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Kaelin"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Kaelin\nNO. 834 WDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0780-14",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

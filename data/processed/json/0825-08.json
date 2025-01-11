@@ -1,0 +1,58 @@
+{
+  "id": 12487616,
+  "name": "Schmidt Taxi, LLC v. The Philadelphia Parking Authority",
+  "name_abbreviation": "Schmidt Taxi, LLC v. Phila. Parking Auth.",
+  "decision_date": "2016-07-05",
+  "docket_number": "NO. 1617 CD 15",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 165,
+    "sha256": "c37281514c309ea1258ae4f9dc16b3a21b6fdfd654715f8cd66f6c04595be104",
+    "simhash": "1:3b914a034df01228",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Schmidt Taxi, LLC\nv.\nThe Philadelphia Parking Authority"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Schmidt Taxi, LLC\nv.\nThe Philadelphia Parking Authority\nNO. 1617 CD 15\nCommonwealth Court of Pennsylvania\nJuly 05, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0825-08",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

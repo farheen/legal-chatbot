@@ -1,0 +1,58 @@
+{
+  "id": 12501509,
+  "name": "COM. v. JUNIOUS, R.",
+  "name_abbreviation": "Com. v. Junious",
+  "decision_date": "2018-07-03",
+  "docket_number": "2423 EDA 2016",
+  "first_page": "643",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 643"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "e23da827169e5420e0f804b895190bcd310f8feb57b2b46ac69e79a1ed098335",
+    "simhash": "1:bf8cf56082ad99a5",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nJUNIOUS, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nJUNIOUS, R.\n2423 EDA 2016\nSuperior Court of Pennsylvania.\nJuly 3, 2018\nAffirmed"
+  },
+  "file_name": "0643-02",
+  "first_page_order": 643,
+  "last_page_order": 643
+}

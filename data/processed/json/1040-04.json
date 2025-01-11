@@ -1,0 +1,58 @@
+{
+  "id": 12501271,
+  "name": "B.F., Petitioner v. D.F., Respondent",
+  "name_abbreviation": "B.F. v. D.F.",
+  "decision_date": "2018-09-28",
+  "docket_number": "No. 381 EAL 2018",
+  "first_page": "1040",
+  "last_page": "1040",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 1040"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 213,
+    "sha256": "9807cba37981f22ec1b2f5962a42c6c04284381dcb1495a93baf536b80bc6b53",
+    "simhash": "1:5d8f4761d2f256b7",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B.F., Petitioner\nv.\nD.F., Respondent"
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nAND NOW, this 28th day of September, 2018, the Petition for Allowance of Appeal is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "B.F., Petitioner\nv.\nD.F., Respondent\nNo. 381 EAL 2018\nSupreme Court of Pennsylvania.\nSeptember 28, 2018\nORDER"
+  },
+  "file_name": "1040-04",
+  "first_page_order": 1040,
+  "last_page_order": 1040
+}

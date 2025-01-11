@@ -1,0 +1,64 @@
+{
+  "id": 12489256,
+  "name": "SIZER, Jamal v. STATE of Maryland",
+  "name_abbreviation": "Sizer v. State",
+  "decision_date": "2017-03-03",
+  "docket_number": "Pet. Docket No. 549, Sept. Term, 2016",
+  "first_page": "890",
+  "last_page": "890",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 890"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 157,
+    "sha256": "f3e8e24b53cf05b0d0b97292b705c0e3ccd94f9444aecfe4e99fbc6bf2a6544f",
+    "simhash": "1:28e7d481c2c951d1",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.012355+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SIZER, Jamal\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted"
+    ],
+    "corrections": "",
+    "head_matter": "SIZER, Jamal\nv.\nSTATE of Maryland\nPet. Docket No. 549, Sept. Term, 2016\nCourt of Appeals of Maryland.\nMarch 3, 2017\nPetition for writ of certiorari granted"
+  },
+  "file_name": "0890-03",
+  "first_page_order": 890,
+  "last_page_order": 890
+}

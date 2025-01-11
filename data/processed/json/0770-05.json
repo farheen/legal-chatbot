@@ -1,0 +1,58 @@
+{
+  "id": 12487210,
+  "name": "Com. v. J. Ortiz-Lugo",
+  "name_abbreviation": "Com. v. Ortiz-Lugo",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 1015 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 98,
+    "sha256": "72958e339c6bfde0875cf941a0e6bda3b879d887584fcd532ca20da76329c695",
+    "simhash": "1:7c9d6fd549fc5fe0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Ortiz-Lugo"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Ortiz-Lugo\nNO. 1015 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAffirmed."
+  },
+  "file_name": "0770-05",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

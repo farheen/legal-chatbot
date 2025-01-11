@@ -1,0 +1,59 @@
+{
+  "id": 9036576,
+  "name": "In the Matter of John A. EVANS",
+  "name_abbreviation": "In re Evans",
+  "decision_date": "2004-12-22",
+  "docket_number": "No. 986 Disciplinary Docket No. 3",
+  "first_page": "258",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "866 A.2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 734,
+    "ocr_confidence": 0.668,
+    "sha256": "2dd0d6e89bd47a124cd6758430b775756d8cdeea4c294e96b9ae71d59f4d677a",
+    "simhash": "1:15a411bf50852ce8",
+    "word_count": 133
+  },
+  "last_updated": "2023-07-14T21:11:43.492221+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of John A. EVANS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of December, 2004, it appearing that John A. Evans, a member of the Bar of this Commonwealth, has been suspended from the practice of law in the State of New Jersey for a period of three months by the attached Order of the Supreme Court of New Jersey dated October 4, 2004; and upon consideration of the Joint Petition to Reciprocally Suspend an Attorney, the Joint Petition is granted, and it is\nORDERED that John A. Evans is suspended from the practice of law in this Commonwealth for a period of three months, and he shall comply with all the provisions of Rule 217, Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of John A. EVANS.\nNo. 986 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nDec. 22, 2004."
+  },
+  "file_name": "0258-03",
+  "first_page_order": 292,
+  "last_page_order": 293
+}

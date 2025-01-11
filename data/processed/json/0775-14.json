@@ -1,0 +1,58 @@
+{
+  "id": 12487278,
+  "name": "E.J.C. v. I.M.C.",
+  "name_abbreviation": "E.J.C. v. I.M.C.",
+  "decision_date": "2016-04-08",
+  "docket_number": "NO. 1361 WDA 2015",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "sha256": "1e6c5e7a02fc6bc544b235e889efa3a6e549debd9bbdc1da696255146837af91",
+    "simhash": "1:3b1b6ce8db25af84",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.J.C.\nv.\nI.M.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.J.C.\nv.\nI.M.C.\nNO. 1361 WDA 2015\nSuperior Court of Pennsylvania.\nApril 08, 2016\nAffirmed."
+  },
+  "file_name": "0775-14",
+  "first_page_order": 775,
+  "last_page_order": 775
+}

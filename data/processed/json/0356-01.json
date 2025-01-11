@@ -1,0 +1,100 @@
+{
+  "id": 9490587,
+  "name": "In re Robert B. PATTERSON, Respondent",
+  "name_abbreviation": "In re Patterson",
+  "decision_date": "2001-08-23",
+  "docket_number": "No. 00-BG-692",
+  "first_page": "356",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 356"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "612 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939161
+      ],
+      "pin_cites": [
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0832-01"
+      ]
+    },
+    {
+      "cite": "654 A.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879377
+      ],
+      "pin_cites": [
+        {
+          "page": "1287-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/654/1285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 141,
+    "char_count": 1559,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21842296597214741
+    },
+    "sha256": "f581facf697a08eedabff30e44bc544503c42859fb561fa2aa18b1a3aec9c4a2",
+    "simhash": "1:9b42faa62b0a0e3e",
+    "word_count": 255
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and RUIZ, Associate Judges, and PRYOR, Senior Judge."
+    ],
+    "parties": [
+      "In re Robert B. PATTERSON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nOn January 26, 2000, the Virginia State Bar Disciplinary Board suspended respondent, Robert B. Patterson, for ninety days after he admitted that he practiced law after his license was suspended for failure to pay dues and that he dishonestly told a judge before whom he was appearing that he was unaware that his license had been suspended. After learning of respondent\u2019s discipline, we temporarily suspended respondent on June 13, 2000, pursuant to D.C. Bar R. XI, \u00a7 11(d), and referred the matter to the Board on Professional Responsibility (\u201cBoard\u201d). The Board recommends that we impose identical reciprocal discipline.\nNeither Bar Counsel nor respondent opposes the Board\u2019s report and recommendation, making the scope of our review quite limited. See In re Goldsborough, 654 A.2d 1285, 1287-88 (D.C.1995); D.C. Bar R. XI, \u00a7 11(f)- Given the presumption in favor of identical reciprocal discipline, see In re Zilberberg, 612 A.2d 832, 834 (D.C.1992), we adopt the Board\u2019s recommendation. Accordingly, it is\nORDERED that Robert B. Patterson be suspended from the practice of law in the District of Columbia for the period of ninety days. Respondent has not filed the affidavit required by D.C. Bar R. XI, \u00a7 14. We direct his attention to the requirements of that rule and its effect on his eligibility for reinstatement. See D.C. Bar R. XI, \u00a7 16(c).\nSo ordered.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Robert B. PATTERSON, Respondent.\nNo. 00-BG-692.\nDistrict of Columbia Court of Appeals.\nAug. 23, 2001.\nBefore STEADMAN and RUIZ, Associate Judges, and PRYOR, Senior Judge."
+  },
+  "file_name": "0356-01",
+  "first_page_order": 398,
+  "last_page_order": 399
+}

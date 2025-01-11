@@ -1,0 +1,59 @@
+{
+  "id": 6087353,
+  "name": "In re Gustav Mosimann",
+  "name_abbreviation": "In re Mosimann",
+  "decision_date": "1966-10-31",
+  "docket_number": "No. 8050",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 67,
+    "ocr_confidence": 0.502,
+    "sha256": "d0e54df78a7f144dba629d8294ca23b8b8f09ba952b297559077fabb71741932",
+    "simhash": "1:77e3ac93c16da1e2",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gustav Mosimann"
+    ],
+    "opinions": [
+      {
+        "text": "Cocoa mixes, Method of processing.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8050.\nIn re Gustav Mosimann"
+  },
+  "file_name": "1637-10",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

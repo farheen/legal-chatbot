@@ -1,0 +1,58 @@
+{
+  "id": 12487565,
+  "name": "Com. v. A. Carlson",
+  "name_abbreviation": "Com. v. Carlson",
+  "decision_date": "2016-04-26",
+  "docket_number": "NO. 1674 WDA 2015",
+  "first_page": "795",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 795"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "f6906b751ac0b0e726f907181f1091d48d91bb1e656e35e6f886a4d0f692775a",
+    "simhash": "1:100b2af2c0a30980",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Carlson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Carlson\nNO. 1674 WDA 2015\nSuperior Court of Pennsylvania.\nApril 26, 2016\nAffirmed."
+  },
+  "file_name": "0795-14",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

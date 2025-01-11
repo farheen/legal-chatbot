@@ -1,0 +1,58 @@
+{
+  "id": 12485607,
+  "name": "Commonwealth v. Fernando Flores",
+  "name_abbreviation": "Commonwealth v. Flores",
+  "decision_date": "2016-06-28",
+  "docket_number": "NO. 171 MAL 2106",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "bfa8f635f50070ff21d886be86ba7b0c935e54913702619163b0beb9630eb2ca",
+    "simhash": "1:1486466d80812149",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nFernando Flores"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nFernando Flores\nNO. 171 MAL 2106\nSupreme Court of Pennsylvania\nJune 28, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0478-13",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

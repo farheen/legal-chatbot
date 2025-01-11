@@ -1,0 +1,59 @@
+{
+  "id": 6084760,
+  "name": "In re Teter et al.",
+  "name_abbreviation": "In re Teter",
+  "decision_date": "1950-03-06",
+  "docket_number": "No. 5718",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 69,
+    "ocr_confidence": 0.572,
+    "sha256": "1ed65271fbfb9e86888d7fb37af0fa416e5cf0d6b1a1e32ebc60465fcf937842",
+    "simhash": "1:1387911c3ddc9dc6",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Teter et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in product.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 6, 1950\nIn re Teter et al.\n(No. 5718)."
+  },
+  "file_name": "1249-12",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

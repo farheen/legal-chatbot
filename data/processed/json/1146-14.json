@@ -1,0 +1,58 @@
+{
+  "id": 12488428,
+  "name": "Com. v. Rhody, M.",
+  "name_abbreviation": "Com v. Rhody",
+  "decision_date": "2016-05-12",
+  "docket_number": "419 WDA 2015",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 94,
+    "sha256": "759e7ce8f58fb5c1413b653947f43b69d86ca49d48a649ad55cda14b7124c355",
+    "simhash": "1:351849d9c91d9190",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nRhody, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nRhody, M.\n419 WDA 2015\nSuperior Court of Pennsylvania.\nMay 12, 2016\nVacated/Remanded"
+  },
+  "file_name": "1146-14",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490026,
+  "name": "CITY OF PHILA. v. HARVEY, B., et al.",
+  "name_abbreviation": "City of Phila. v. Harvey",
+  "decision_date": "2016-12-12",
+  "docket_number": "2699 CD 2015",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "164 A.3d 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 149,
+    "sha256": "2e83969daa3361185dc41eb8e73ccfa72f70c40465237a64707ece87b3843e2c",
+    "simhash": "1:d58982200bef5840",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.019769+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF PHILA.\nv.\nHARVEY, B., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Reversed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CITY OF PHILA.\nv.\nHARVEY, B., et al.\n2699 CD 2015\nCommonwealth Court of Pennsylvania.\nDecember 12, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0648-06",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

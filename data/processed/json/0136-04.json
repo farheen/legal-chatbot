@@ -1,0 +1,64 @@
+{
+  "id": 7962835,
+  "name": "Joan B. SYLVIA v. Richard J. SYLVIA",
+  "name_abbreviation": "Sylvia v. Sylvia",
+  "decision_date": "1980-01-04",
+  "docket_number": "No. 79-388-A",
+  "first_page": "136",
+  "last_page": "137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 288,
+    "ocr_confidence": 0.808,
+    "sha256": "22184e5e30b79d0440324cde5cac118003acb53004f35da94cdde107c11b85b2",
+    "simhash": "1:2c6824951727c6d9",
+    "word_count": 45
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "Joan B. SYLVIA v. Richard J. SYLVIA."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondent\u2019s motion to dismiss this appeal is denied.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "James P. Flynn, North Kingstown, for petitioner.",
+      "Jerry L. McIntyre, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Joan B. SYLVIA v. Richard J. SYLVIA.\nNo. 79-388-A.\nSupreme Court of Rhode Island.\nJan. 4, 1980.\nJames P. Flynn, North Kingstown, for petitioner.\nJerry L. McIntyre, Providence, for respondent."
+  },
+  "file_name": "0136-04",
+  "first_page_order": 184,
+  "last_page_order": 185
+}

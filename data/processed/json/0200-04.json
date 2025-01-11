@@ -1,0 +1,58 @@
+{
+  "id": 12486611,
+  "name": "Com. v. D. Thompson",
+  "name_abbreviation": "Com. v. Thompson",
+  "decision_date": "2016-03-16",
+  "docket_number": "NO. 637 EDA 2015",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "e3976a2880c3415f5cd0c16cc6fbd4d88f51a7f8c4cec7342ea90d65ce79383f",
+    "simhash": "1:b94b6701e0ae9d91",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Thompson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Thompson\nNO. 637 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 16, 2016\nAffirmed."
+  },
+  "file_name": "0200-04",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

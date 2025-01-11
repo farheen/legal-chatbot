@@ -1,0 +1,628 @@
+{
+  "id": 7996186,
+  "name": "WESTINGHOUSE BROADCASTING CO., INC. v. DIAL MEDIA, INC.",
+  "name_abbreviation": "Westinghouse Broadcasting Co. v. Dial Media, Inc.",
+  "decision_date": "1980-01-18",
+  "docket_number": "No. 78-129-Appeal",
+  "first_page": "986",
+  "last_page": "992",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 986"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "109 R.I. 388",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3149908
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/109/0388-01"
+      ]
+    },
+    {
+      "cite": "114 R.I. 746",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5521906
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/114/0746-01"
+      ]
+    },
+    {
+      "cite": "111 R.I. 415",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3143084
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "423",
+          "parenthetical": "evidence violative of the parol evidence rule will not be considered even though admitted without objection"
+        },
+        {
+          "page": "125-26",
+          "parenthetical": "evidence violative of the parol evidence rule will not be considered even though admitted without objection"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/111/0415-01"
+      ]
+    },
+    {
+      "cite": "398 A.2d 1125",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3191327
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1128",
+          "parenthetical": "hearsay evidence to which no objection is offered is entitled to be treated as if it were legally admissible and to be accorded whatever probative weight the factfinder believes it deserves; the failure to object is deemed a waiver of the incompetency of such evidence."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0343-01"
+      ]
+    },
+    {
+      "cite": "317 F.2d 850",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        165294
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "854"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/317/0850-01"
+      ]
+    },
+    {
+      "cite": "106 R.I. 615",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3031557
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "619"
+        },
+        {
+          "page": "380"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/106/0615-01"
+      ]
+    },
+    {
+      "cite": "132 A. 609",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 R.I. 237",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        1315012
+      ],
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "239"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/47/0237-01"
+      ]
+    },
+    {
+      "cite": "106 R.I. 155",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3035614
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "160-61"
+        },
+        {
+          "page": "509"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/106/0155-01"
+      ]
+    },
+    {
+      "cite": "75 A.2d 195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1950,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 R.I. 390",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5307929
+      ],
+      "year": 1950,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/77/0390-01"
+      ]
+    },
+    {
+      "cite": "106 R.I. 38",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3037370
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/106/0038-01"
+      ]
+    },
+    {
+      "cite": "442 P.2d 641",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.Rptr. 561",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Cal.2d 33",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        2304308
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/69/0033-01"
+      ]
+    },
+    {
+      "cite": "56 L.Ed.2d 62",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 S.Ct. 1611",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 U.S. 971",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2272,
+        3104,
+        2498,
+        2307,
+        2723,
+        3048,
+        2734,
+        2574,
+        2934,
+        2327,
+        2808,
+        2302
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0971-09",
+        "/us/435/0971-02",
+        "/us/435/0971-01",
+        "/us/435/0971-11",
+        "/us/435/0971-03",
+        "/us/435/0971-05",
+        "/us/435/0971-04",
+        "/us/435/0971-07",
+        "/us/435/0971-06",
+        "/us/435/0971-10",
+        "/us/435/0971-08",
+        "/us/435/0971-12"
+      ]
+    },
+    {
+      "cite": "565 F.2d 200",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        898522
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/565/0200-01"
+      ]
+    },
+    {
+      "cite": "422 F.Supp. 1354",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3897191
+      ],
+      "pin_cites": [
+        {
+          "page": "1359-61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/422/1354-01"
+      ]
+    },
+    {
+      "cite": "385 A.2d 663",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8517865
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "667"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0092-01"
+      ]
+    },
+    {
+      "cite": "102 R.I. 46",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3067336
+      ],
+      "weight": 2,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "49"
+        },
+        {
+          "page": "787-88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/102/0046-01"
+      ]
+    },
+    {
+      "cite": "110 R.I. 242",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3151306
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "245"
+        },
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/110/0242-01"
+      ]
+    },
+    {
+      "cite": "359 A.2d 350",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12170304
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "353-54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/116/0627-01"
+      ]
+    },
+    {
+      "cite": "116 R.I. 672",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        12170352
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "634-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/116/0672-01"
+      ]
+    },
+    {
+      "cite": "112 R.I. 371",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3137453
+      ],
+      "weight": 2,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/112/0371-01"
+      ]
+    },
+    {
+      "cite": "100 L.Ed. 1311",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "1318"
+        },
+        {
+          "page": "1318"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 U.S. 445",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1105271
+      ],
+      "weight": 4,
+      "year": 1956,
+      "pin_cites": [
+        {
+          "page": "452"
+        },
+        {
+          "page": "908-09"
+        },
+        {
+          "page": "452"
+        },
+        {
+          "page": "908-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/351/0445-01"
+      ]
+    },
+    {
+      "cite": "105 R.I. 150",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3044499
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "367"
+        },
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/105/0150-01"
+      ]
+    },
+    {
+      "cite": "200 A.2d 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 R.I. 167",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3088939
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/98/0167-01"
+      ]
+    },
+    {
+      "cite": "108 R.I. 673",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3158896
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/108/0673-01"
+      ]
+    },
+    {
+      "cite": "83 A. 837",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1912,
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 R.I. 462",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8519698
+      ],
+      "year": 1912,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/34/0462-01"
+      ]
+    },
+    {
+      "cite": "383 A.2d 1029",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3100231
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/119/0836-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 983,
+    "char_count": 21876,
+    "ocr_confidence": 0.815,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2007005041606673
+    },
+    "sha256": "dbf6290f0451448f5dbdd1e9b66aaa0fdd36edf1abf41ba56a5a44ec50d5f7e9",
+    "simhash": "1:3643c0912956e368",
+    "word_count": 3565
+  },
+  "last_updated": "2024-02-27T19:30:58.814650+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WESTINGHOUSE BROADCASTING CO., INC. v. DIAL MEDIA, INC."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nBEVILACQUA, Chief Justice.\nThis is an appeal by the defendant, Dial Media, Inc., in a multiple claims civil action from an order of the Superior Court granting summary judgment in favor of the plaintiff, Westinghouse Broadcasting Co., Inc., on its book account claim. Although a counterclaim remains to be adjudicated, the trial justice, pursuant to Rule 54(b) of the Superior Court Rules of Civil Procedure, has expressly determined that there is no just reason for delay and has expressly directed the entry of judgment against the defendant in the amount of $30,812.50 plus interest and costs.\nThe plaintiff is an Indiana corporation doing business in Boston, Massachusetts, as WBZ-TV 4 (WBZ). The defendant is a marketing and advertising firm incorporated in the State of Rhode Island. Sometime in November or December of 1976, a WBZ salesman (Albert Salari) met with an agent of defendant to discuss the purchase of advertising on plaintiff\u2019s television broadcasting station. The defendant was seeking air time to market two of its mail-order products, the \u201cMiracle Painter\u201d and the \u201cMiracle Sheer.\u201d\nThe parties eventually entered into an agreement which provided that, upon approval by plaintiff, advertisements describing the miraculous properties of these products and soliciting viewers to telephone or mail in their orders were to be aired. These-ads were broadcast during February, March, and April of 1977.\nIn that same year, WBZ aired as part of the March 11 edition of its evening news' program a brief consumer report on the \u201cMiracle Painter.\u201d In that report Sharon King, the WBZ consumer affairs reporter, intimated that the product did not paint as miraculously as its name and ads suggested.\nAt some point after the consumer report had been aired, defendant refused to make payments to plaintiff under the terms of the broadcasting contract.\nOn May 20, 1977, plaintiff instituted this action by filing a complaint in Superior Court to recover the payments, totaling $30,812.50, allegedly due from defendant. The defendant responded by filing an answer that denied plaintiff\u2019s allegations and asserted as defenses \u201cfraud\u201d and breach of contract. The defendant also filed a six-count counterclaim alleging, inter alia, that the consumer report by Sharon King maliciously, fraudulently and negligently disparaged the efficiency, reliability, and price of defendant\u2019s product. The counterclaim also alleged that the report caused defendant to suffer loss of business and eventually forced defendant to \u201ccurtail its business in the market served by WBZ.\u201d The defendant claimed compensatory damages in the sum of $2,500,000 and punitive damages in the same amount.\nOn August 11,1977, plaintiff, pursuant to Super.R.Civ.P. 56, filed a motion with supporting affidavits for summary judgment on its claim. At the. same time it also filed a motion to dismiss defendant\u2019s counterclaim pursuant to Super.R.Civ.P. 12(b)(6). The defendant filed an objection with an opposing affidavit to plaintiff\u2019s motion for summary judgment. The opposing affidavit contained the sworn statement of Edward Valenti, the president of defendant corporation. Mr. Valenti deposed that Albert Salari had represented to defendant that if it advertised with plaintiff, plaintiff would work in defendant\u2019s best interest to promote the sale of the \u201cMiracle Painter\u201d and the \u201cMiracle Sheer.\u201d Mr. Valenti also deposed that defendant considered the WBZ consumer report on the \u201cMiracle Painter\u201d to be a breach of that representation.\nOn November 23,1977, plaintiff\u2019s motions came to be heard. After reviewing the pleadings and affidavits, the trial justice granted plaintiff\u2019s motion for summary judgment. He found that with respect to plaintiff\u2019s book account claim, there was no genuine issue as to any material fact and that plaintiff was entitled to judgment against defendant as a matter of law in the amount claimed. He premised this finding on his conclusion that the best interest representation by Mr. Salari constituted mere \u201cpuffing * * * [which] means nothing\u201d and which did \u201cnot answer the affidavit filed on behalf of the plaintiff.\u201d Additionally, the trial justice granted plaintiff\u2019s motion to dismiss defendant\u2019s counterclaim in regard to counts III, V, and VI. The motion was denied in regard to counts I and II, and withdrawn in regard to count IV.\nThe issues raised by this appeal concern (l).when a trial justice can apply the provisions of Rule 54(b) and (2) when summary judgment procedure is in order.\nI\nThe defendant assigns as error both the trial justice\u2019s order granting summary judgment and his Rule 54(b) certification of that order as a final judgment. The defendant contends that Rule 54(b) was improperly applied because the action below did not present more than one claim for relief. According to defendant, the transactional relationship of its \u2022 counterclaim to plaintiff\u2019s claim meant that the action presented only one claim for relief. Under such circumstances Rule 54(b) would not be applicable and plaintiff would not be entitled to a final judgment on its claim.\nThe defendant\u2019s challenge to the Rule 54(b) certification of the summary judgment order as a final judgment, in effect, challenges our jurisdiction to review the merits of that order at this time. General Laws 1956 (1969 Reenactment) \u00a7 9-24-1, as amended by P.L.1975 ch. 244, \u00a7 1, provides that an appeal may be taken only from a \u201cfinal judgment, decree, or order * * *\u201d of the Superior Court. The basic test of the finality of a judgment for purposes of appeal is that it should terminate all litigation arising out of the cause between the parties on the merits. Pearson v. Old Stone Savings Bank, R.I., 383 A.2d 1029 (1978); McAuslan v. McAuslan, 34 R.I. 462, 83 A. 837 (1912). Clearly, not all litigation arising out of the cause between the parties in the instant case has been terminated on the merits. There remains to be adjudicated a counterclaim asserted in defendant\u2019s answer.\nThere are, however, certain circumstances in which a decree or order may be considered final for purposes of appeal even though it does not terminate all litigation arising out of the cause between the parties on the merits. Thus, \u00a7 9-24-7 provides for an immediate appeal whenever upon a hearing in the Superior Court an injunction shall be granted or continued, or a receiver appointed, or a sale of real or personal property ordered, or a new trial ordered or denied after a trial by jury. We may also hear an appeal from an interlocutory order if overriding public policy considerations so warrant or when it appears that prompt action is necessary to avoid imminent and irreparable harm. Eidam v. Eidam, 108 R.I. 673, 279 A.2d 413 (1971); The Atlantic Refining Co. v. Director of Public Works, 98 R.I. 167, 200 A.2d 580 (1964). Finally, according to Rule 54(b), an interlocutory disposition may be certified as a final judgment if the conditions of the rule are met. Calore Rigging Corp. v. Sterling Engineering & Construction Co., Inc., 105 R.I. 150, 152, 250 A.2d 365, 367.\nWhen reviewing a trial justice\u2019s 54(b) certification, this court first considers whether the action below involved either multiple parties or multiple claims for relief (or both) and whether the trial court\u2019s interlocutory disposition adjudicated one or more but fewer than all the claims (or the rights and liabilities of one or more but fewer than all the parties) before it. In regard to this determination, the trial justice\u2019s certificate is neither binding nor conclusive on this court. See Pearson v. Old Stone Savings Bank, supra; McAuslan v. McAuslan, supra. Secondly, this court must consider whether the trial justice properly determined that there was no just reason for delay. This determination is subject to review only for an abuse of trial court discretion. Calore Rigging Corp. v. Sterling Engineering & Construction Co., supra at 154, 250 A.2d at 368. See generally 10 Wright and Miller, Federal Practice and Procedure: Civil \u00a7 2655 at 35-39 (1973).\nRule 54(b) by its own terms indicates that claims, counterclaims, cross-claims, and third party claims are separable units for applying its multiple claims provision. Under Rule 54(b), a counterclaim, whether permissive or compulsory, is treated like any other claim. Cold Metal Process Co. v. United Engineering & Foundry Co., 351 U.S. 445, 452, 76 S.Ct. 904, 908-09, 100 L.Ed. 1311, 1318 (1956). In the action below defendant asserted a counterclaim in its answer, to which plaintiff filed a Rule 12(b)(6) motion to dismiss for failure to state a claim upon which relief can be granted. This motion was granted in part, denied in part, and withdrawn in part, leaving defendant\u2019s counterclaim actionable. Under these circumstances it is evident that the action below, consisting of the claims for relief presented by either party, presented more than one such claim. We reject as without merit defendant\u2019s contention that the transactional relationship of its counterclaim to plaintiff\u2019s claim precludes a finding that the action presented more than one claim for relief. That rela'tionship is not relevant to whether the action presents more than one claim for relief. Cold Metal Process Co. v. United Engineering & Foundry Co., supra.\nIn view of our determination that the action below presented more than one claim for relief, the trial justice\u2019s summary judgment order regarding plaintiff\u2019s book account claim clearly adjudicated \u201cone or more but fewer than all of the claims\u201d before him. Furthermore, the trial justice did not err in expressly determining that there was no just reason for delay and in expressly directing the entry of judgment for plaintiff on its claim. Once the court decided that plaintiff was entitled to summary judgment on its claim, the determination and direction required under Rule 54(b) were matters within its sound judicial discretion. Thus, the burden was on defendant to persuade us that the court abused its discretion with respect to this aspect of the application of the rule. It has failed to do so. We do realize, though, that the presence of an unadjudicated counterclaim that is transactionally related to the claim underlying this appeal raises the spectre of overlapping appeals and the attendant possibility of an uneconomical use of judicial resources. The facts underlying each claim, however, are uncomplicated and little contested. Thus, we attach little significance to the transactional relationship between the claims. See Coro, Inc. v. R. N. Koch, Inc., 112 R.I. 371, 310 A.2d 622 (1973).\nFor these reasons we think the trial justice correctly applied Rule 54(b) and that the appeal from the summary judgment order certified thereunder is properly before us.\nII\nThe plaintiff argues that the trial justice was correct as a matter of law in granting its motion for summary judgment. According to plaintiff, whatever the terms of its contract with defendant, it has fulfilled its contractual obligations and is entitled as a matter of law to recover against defendant. We think plaintiff\u2019s argument misconceives the purpose of summary judgment procedure.\nSuper.R.Civ.P. 56(c) provides in pertinent part that summary judgment \u201cshall be rendered forthwith if the pleadings * * together with the affidavits * * * show that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as matter of law.\u201d Thus, if a genuine issue as to a material fact is properly established, the motion must be denied. O\u2019Connor v. McKanna, 116 R.I. 672, 359 A.2d 350 (1976). Moreover, when ruling on a motion for summary judgment, the court may not pass on the weight or credibility of evidence, Palazzo v. Big G Supermarkets, Inc., 110 R.I. 242, 245, 292 A.2d 235, 237 (1972), but must consider affidavits and pleadings in the light most favorable to the party opposing the motion, Marandola v. Hillcrest Builders, Inc., 102 R.I. 46, 49, 227 A.2d 785, 787-88 (1967).\nOn appeal this court determines the motion anew and is bound by the same rules. See O\u2019Connor v. McKanna, supra.\nIn O\u2019Connor, we held that summary judgment may not be proper when the case involves an ambiguous contract. We observed that this is the rule followed in the federal courts and that those courts have held that the intent of the parties to an ambiguous contract is a question of fact that cannot properly be resolved by summary judgment, unless only one reasonable interpretation exists. 116 R.I. at 634-35, 359 A.2d at 353-54. Moreover, ascertaining such intent often involves passing on the credibility of evidence. Such is beyond the scope of summary judgment procedure.\nA contract is ambiguous if, in light of our rules of contract interpretation, it is reasonably susceptible of different constructions. Fryzel v. Domestic Credit Corp., R.I., 385 A.2d 663, 667 (1978). The determination of the ambiguity of a contract is a question of law, and a court may consider all evidence that is properly before it in reaching its conclusion. Lyons v. Salve Regina College, 422 F.Supp. 1354, 1359-61 (D.R.I.1976), rev\u2019d on other grounds, 565 F.2d 200 (First Cir. 1977), cert. denied, 435 U.S. 971, 98 S.Ct. 1611, 56 L.Ed.2d 62 (1978); Pacific Gas & Electric Co. v. G. W. Drayage & Rigging Co., Inc., 69 Cal.2d 33, 69 Cal.Rptr. 561, 442 P.2d 641 (1968).\nThus, the issue before us is whether, in light of these rules, the trial justice determined a genuine issue as to a material fact when he granted plaintiff\u2019s motion for summary judgment.\nThe defendant argues that its affidavit put into issue the bargained-for meaning, if any, of the best interest representation made by the WBZ salesman. The affiant deposed that the representation, as understood by defendant, was a basis of the bargain between plaintiff and defendant. The tenor of defendant\u2019s understanding of the representation, as we discern it from the affiant\u2019s testimony, is that plaintiff thereby promised, at the very least, to avoid intentionally harming defendant\u2019s interest in the marketing of the \u201cMiracle Painter\u201d and the \u201cMiracle Slicer.\u201d The plaintiff controverts this understanding but it does not deny that the WBZ salesman made such a representation.\nAlthough we express no opinion concerning the actual bargained-for meaning, if any, of that representation, we find that in light of the allegations in defendant\u2019s affidavit, the trial justice determined a genuine issue as to a material fact when he ruled on the meaning of the representation.\nIn interpreting a contract the parties\u2019 intention must govern if that intent can be clearly inferred from the terms of the contract and carried out consistent with settled rules of law. Hill v. M. S. Alper & Son, Inc., 106 R.I. 38, 47, 256 A.2d 10, 15 (1969).\nOn the one hand, unless a plain and unambiguous intent to the contrary is manifested, the words used in the contract are assigned their ordinary meaning. Armfield v. Frank N. McClure, Inc., 77 R.I. 390, 75 A.2d 195 (1950). In our opinion, based on the ordinary meaning of each word, when a speaker represents that he will promote a certain concern of the listener in the latter\u2019s best interest, the listener may reasonably infer that the speaker has represented, at the very least, that he will not intentionally harm that particular concern.\nOn the other hand, the situation of the parties and the circumstances attending the speaking of the words used in a contract also are relevant to the determination of their intended meaning. Hill v. M. S. Alper & Son, Inc., supra. Here the evidence indicates that the representation was made in the course of the negotiations that culminated in the contract between plaintiff and defendant. It is just as reasonable, therefore, to conclude, as did the trial justice, that in the instance actually before us, the best interest representation reasonably should have been understood as no more than mere salesman\u2019s puffery.\nWe therefore find that on the facts before us the contract between the plaintiff and the defendant is ambiguous. Thus, the trial justice determined a genuine issue as to a material fact when he ruled on the meaning of the best interest representation. The defendant\u2019s opposing affidavit raised a disputed issue of fact, - namely, whether the best interest representation, as understood by the defendant, was a basis of the bargain between the plaintiff and the defendant. The trial justice determined this issue when he ruled that the representation was mere salesman\u2019s puffery. He thereby exceeded his authority on summary judgment procedure. As we have said so often, when ruling on a motion for summary judgment, the court is not authorized to try issues. The purpose of summary judgment procedure is issue finding and not issue determination. The issue also is genuine and as to a material fact because it cannot be determined whether the plaintiff is entitled to judgment as a matter of law until it is determined whether the representation was a basis of the bargain between the plaintiff and the defendant and, if it was, whether WBZ\u2019s production and broadcast of the consumer report on the \u201cMiracle Painter\u201d was a breach of that term. See The Westerly Hospital v. Higgins, 106 R.I. 155, 160-61, 256 A.2d 506, 509 (1969); Falcon v. Mathews, 47 R.I. 237, 239, 132 A. 609, 610 (1926).\nAccordingly, the defendant\u2019s appeal is sustained and the judgment appealed from is vacated, and the case is remanded to the Superior Court for further proceedings.\n. The WBZ evening news program, known produced by WBZ. \u201cEyewitness News,\u201d is a nightly news program\n. It is impossible to determine when defendant made its decision not to pay plaintiff, although the record indicates that defendant continued to run its ads on WBZ for about a month after the unfavorable consumer report had been aired.\n. The plaintiff asserted its claim in three counts, with each based on a different theory of recovery: count I was based on a book account; count II on services rendered; and count III on a written contract.\n.The affidavit filed on behalf of plaintiff alleges that plaintiff duly fulfilled its contract obligations by broadcasting defendant\u2019s ads in the manner and at the times agreed upon.\n. Super.R.Civ.P. 54(b) provides:\n\u201cWhen more than one claim for relief is presented in an action, whether as a claim, counterclaim, cross-claim, or third-party claim, or when multiple parties are involved, the court may direct the entry of a final judgment as to one or more but fewer than all of the claims or parties only upon an express determination that there is no just reason for delay and upon an express direction for the entry of judgment. In the absence of such determination and direction, any order or other form of decision, however designated, which adjudicates fewer than all the claims or the rights and liabilities of fewer than all the parties shall not terminate the action as to any of the claims or parties, and the order or other form of decision is subject to revision at any time before the entry of judgment adjudicating all the claims and the rights and liabilities of all the parties.\u201d\n. It is, however, relevant to whether there is just reason for delay. Cold Metal Process Co. v. United Engineering & Foundry Co., 351 U.S. 445, 452, 76 S.Ct. 904, 908-09, 100 L.Ed. 1311, 1318 (1956).\n. Conversely, the construction of a clear and unambiguous contract presents an issue of law, which may be resolved by summary judgment. Cassidy v. Springfield Life Ins. Co., 106 R.I. 615, 619, 262 A.2d 378, 380 (1970).\n. On appeal plaintiff challenged the sufficiency of defendant\u2019s affidavit on the ground that the affidavit was not made on personal knowledge as is required by Super.R.Civ.P. 56(e). The plaintiff, however, did not make such an objection in the proceedings below. The objection is therefore deemed waived, and the affidavit may be considered in ruling on the summary judgment motion. Klingman v. National Indemnity Co., 317 F.2d 850, 854 (7th Cir. 1963). Cf. Burns v. Janes, R.I., 398 A.2d 1125, 1128 (1979) (hearsay evidence to which no objection is offered is entitled to be treated as if it were legally admissible and to be accorded whatever probative weight the factfinder believes it deserves; the failure to object is deemed a waiver of the incompetency of such evidence.) But cf. American Underwriting Corp. v. Rhode Island Hospital Trust Co., 111 R.I. 415, 423, 303 A.2d 121, 125-26 (1973) (evidence violative of the parol evidence rule will not be considered even though admitted without objection).\n. The affiant deposes also that defendant considered the production and broadcast of the consumer report on the \u201cMiracle Painter\u201d to be a breach of this term of the contract. If it is determined that the best interest representation constituted a term of the contract, then whether WBZ\u2019s production and broadcast of that report breached that term is an issue of fact.\n. Of course, the intent we seek is not some undisclosed intent that may have existed in the minds of the contracting parties but is instead the intent that is expressed in the language of the contract. Theroux v. Bay Assoc., Inc., 114 R.I. 746, 339 A.2d 266 (1975). Flanagan v. Kelly\u2019s System of New England, Inc., 109 R.I. 388, 286 A.2d 249 (1972).\n. As is our practice in cases of this kind, we look in the first instance to the dictionary meaning of the language at issue to determine its ordinary meaning. The term \u201cbest interest\u201d does not appear as a separate entry in Webster\u2019s Third International Dictionary (unabridged). The terms \u201cbest\u201d and \u201cinterest\u201d are, however, defined therein.",
+        "type": "majority",
+        "author": "BEVILACQUA, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Roberts, Carroll, Feldstein & Tucker, Bruce G. Tucker, Providence, for plaintiff.",
+      "Schechter, Abrams & Verri, David A. Schechter, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "WESTINGHOUSE BROADCASTING CO., INC. v. DIAL MEDIA, INC.\nNo. 78-129-Appeal.\nSupreme Court of Rhode Island.\nJan. 18, 1980.\nRoberts, Carroll, Feldstein & Tucker, Bruce G. Tucker, Providence, for plaintiff.\nSchechter, Abrams & Verri, David A. Schechter, Providence, for defendant."
+  },
+  "file_name": "0986-01",
+  "first_page_order": 1034,
+  "last_page_order": 1040
+}

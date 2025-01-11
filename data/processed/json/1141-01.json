@@ -1,0 +1,63 @@
+{
+  "id": 9495335,
+  "name": "In the Matter of Marvin ABRAMS",
+  "name_abbreviation": "In re Abrams",
+  "decision_date": "2001-06-28",
+  "docket_number": "No. 665 Disciplinary Docket No. 3",
+  "first_page": "1141",
+  "last_page": "1141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 1141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 662,
+    "ocr_confidence": 0.663,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.761108024035884
+    },
+    "sha256": "b8f2ca07e1c0d67ffc5677609bbbd17e22f78005615c59fb2b6cd7d699c8a0f2",
+    "simhash": "1:8c87e93d80e3b6a5",
+    "word_count": 116
+  },
+  "last_updated": "2023-07-14T17:48:11.218492+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Marvin ABRAMS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 28th day of June, 2001, a Rule having been entered by this Court on April 2, 2001, pursuant to Rule 214(d)(1), Pa.R.D.E ., directing Marvin Abrams to show cause why he should not be placed on temporary suspension, upon consideration of the response filed, it is hereby\nORDERED that the Rule is made absolute; Marvin Abrams is placed on temporary suspension and he shall comply with all the provisions of Rule 217, Pa.R.D.E.; and the matter is referred to the Disciplinary Board pursuant to Rule 214(f)(1), Pa. R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Marvin ABRAMS.\nNo. 665 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJune 28, 2001."
+  },
+  "file_name": "1141-01",
+  "first_page_order": 1183,
+  "last_page_order": 1183
+}

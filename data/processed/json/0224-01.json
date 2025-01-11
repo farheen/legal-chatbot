@@ -1,0 +1,89 @@
+{
+  "id": 7967097,
+  "name": "Gloria EMERY v. BARNARD NURSING HOME and Hartford Accident & Indemnity Company",
+  "name_abbreviation": "Emery v. Barnard Nursing Home & Hartford Accident & Indemnity Co.",
+  "decision_date": "1980-01-24",
+  "docket_number": "",
+  "first_page": "224",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "408 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8003894
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/408/1014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 242,
+    "char_count": 2770,
+    "ocr_confidence": 0.814,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7529058643959551
+    },
+    "sha256": "a6221108a45f73726bf741a0b51c1970a35a8752438468421fdb740f990e1f99",
+    "simhash": "1:f925ff9283a80283",
+    "word_count": 442
+  },
+  "last_updated": "2024-02-27T19:30:58.814650+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C. J., and WER-NICK, GODFREY, NICHOLS and GLASS-MAN, JJ.",
+      "POMEROY and ARCHIBALD, JJ., did not sit."
+    ],
+    "parties": [
+      "Gloria EMERY v. BARNARD NURSING HOME and Hartford Accident & Indemnity Company."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThis is an appeal by a worker, Gloria Emery, from a pro forma decree of the Superior Court entered on a decision of the Workers\u2019 Compensation Commission denying her an award of compensation. The worker\u2019s petition for award alleged that on March 18, 1976 she fell at the premises where she was employed by respondent, Barnard Nursing Home, and the fall caused her to be incapacitated for work.\nAfter a hearing, at which conflicting testimony was presented regarding the effects of petitioner\u2019s fall, the commissioner refused to award compensation because, in his words:\n\u201cThe medical evidence does not convince us that it is more probable than not that the fall experienced by Mrs. Emery on March 18, 1976 was a substantial causative factor of her disability after March 18, 1976.\u201d (emphasis added)\nThe commissioner\u2019s use of the word \u201csubstantial\u201d to modify \u201ccausative factor\u201d requires, in accordance with our decision in Smith v. Dexter Oil Company, Me., 408 A.2d 1014 (1979), that this case be remanded to the Commission for clarification of the findings. As we explained in Smith, supra:\n\u201cMy his use of the phrase \u2018substantial causative factors\u2019 the commissioner may merely have meant \u2018real\u2019 or \u2018actual\u2019 causative factors. If so, he violated no rule of law. On the other hand, he may have used it in the sense of \u2018important\u2019 or \u2018predominant\u2019 causative factors. If so, he applied an incorrect principle of. causation.\u201d Id. at 1015.\nSimilarly, here, we cannot tell whether or not the commissioner applied an incorrect principle of causation.\nThe entry is:\nAppeal sustained.\nThe pro forma judgment of the Superior Court is vacated.\nThe case is remanded to the Workers\u2019 Compensation Commission with directions to make further findings of fact and conclusions of law on the basis of the present record.\nFurther ordered that the employer pay to the employee an allowance for counsel fees in the amount of $550.00 together with his reasonable out-of-pocket expenses for this appeal.\nPOMEROY and ARCHIBALD, JJ., did not sit.\n. Of the three testifying physicians in this case, two concluded that the claimant\u2019s fall was causally connected to the disability for which she sought compensation, while the third found no such causal connection. That third physician cited degenerative joint disease of the lumbar spine as the cause of the disability.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Eaton, Peabody, Bradford & Veague, Stephen G. Morrell (orally), Thomas M. Brown, Bangor, for plaintiff.",
+      "Rudman, Winchell, Carter & Buckley by William S. Wilson, Jr. (orally), Michael Friedman, Bangor, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Gloria EMERY v. BARNARD NURSING HOME and Hartford Accident & Indemnity Company.\nSupreme Judicial Court of Maine.\nJan. 24, 1980.\nEaton, Peabody, Bradford & Veague, Stephen G. Morrell (orally), Thomas M. Brown, Bangor, for plaintiff.\nRudman, Winchell, Carter & Buckley by William S. Wilson, Jr. (orally), Michael Friedman, Bangor, for defendants.\nBefore McKUSICK, C. J., and WER-NICK, GODFREY, NICHOLS and GLASS-MAN, JJ."
+  },
+  "file_name": "0224-01",
+  "first_page_order": 272,
+  "last_page_order": 273
+}

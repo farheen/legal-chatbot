@@ -1,0 +1,64 @@
+{
+  "id": 12486875,
+  "name": "Poling v. Caplease, Inc.",
+  "name_abbreviation": "Poling v. Caplease, Inc.",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 203; Sept. Term 2016",
+  "first_page": "711",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 711"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 148,
+    "sha256": "58155a57858fbc37ae431ea738491fc85c5e72245a32ddf7862aa29b953c26eb",
+    "simhash": "1:e54ad62690dbc215",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Poling\nv.\nCaplease, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Poling\nv.\nCaplease, Inc.\nPet. Docket No. 203\nSept. Term 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0711-04",
+  "first_page_order": 711,
+  "last_page_order": 711
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12484965,
+  "name": "Commonwealth v. Johnny McCants",
+  "name_abbreviation": "Commonwealth v. McCants",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 676 EAL 2015",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "274a923aebf6f98feb11b2561288ef0ff868582d5504ffe02dac8d5fe20e5810",
+    "simhash": "1:048f066420312ba2",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJohnny McCants"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJohnny McCants\nNO. 676 EAL 2015\nSupreme Court of Pennsylvania\nApril 20, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0003-19",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

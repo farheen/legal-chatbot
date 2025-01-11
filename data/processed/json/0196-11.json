@@ -1,0 +1,58 @@
+{
+  "id": 12486540,
+  "name": "Com. v. M. Hill",
+  "name_abbreviation": "Com. v. Hill",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 72 MDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 90,
+    "sha256": "e041b7f1c320dc9bccaa738427030a9afb4244eff8ad98c12988e70af9281879",
+    "simhash": "1:ac0f5e7c1e8208cc",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Hill"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Hill\nNO. 72 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nAffirmed."
+  },
+  "file_name": "0196-11",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

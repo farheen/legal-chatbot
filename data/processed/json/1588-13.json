@@ -1,0 +1,59 @@
+{
+  "id": 6083179,
+  "name": "In re Marcella Ferens",
+  "name_abbreviation": "In re Ferens",
+  "decision_date": "1963-05-10",
+  "docket_number": "No. 7180",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 74,
+    "ocr_confidence": 0.43,
+    "sha256": "a877778ded2d7e20b731a499fedc8d52014a092f2291946ff3ebff6ffab2067d",
+    "simhash": "1:4117c000c1200f63",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marcella Ferens"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in method of growing hair.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Marcella Ferens\n(No. 7180)."
+  },
+  "file_name": "1588-13",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

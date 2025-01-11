@@ -1,0 +1,329 @@
+{
+  "id": 6087193,
+  "name": "Henry W. Rimbach v. Willem Lambertus Wanmaker and Cornelis Bakker",
+  "name_abbreviation": "Rimbach v. Wanmaker",
+  "decision_date": "1966-07-07",
+  "docket_number": "No. 7589",
+  "first_page": "1552",
+  "last_page": "1560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1552"
+    },
+    {
+      "type": "parallel",
+      "cite": "150 U.S.P.Q. 302"
+    },
+    {
+      "type": "parallel",
+      "cite": "362 F.2d 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "342 F. 2d 92",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164597,
+        874847
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1048-01",
+        "/f2d/342/0092-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1048",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164597
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1048-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1343",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166262
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1343-01"
+      ]
+    },
+    {
+      "cite": "271 F. 2d 743",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1965180,
+        6077469
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/271/0743-01",
+        "/ccpa/47-2/0729-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 729",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077469
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/0729-01"
+      ]
+    },
+    {
+      "cite": "188 F. 2d 388",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6084186,
+        1218653
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/38-2/0981-01",
+        "/f2d/188/0388-01"
+      ]
+    },
+    {
+      "cite": "38 CCPA 981",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6084186
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/38-2/0981-01"
+      ]
+    },
+    {
+      "cite": "24 App. D.C. 75",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1341284
+      ],
+      "year": 1904,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/24/0075-01"
+      ]
+    },
+    {
+      "cite": "86 USPQ 74",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6084326
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/37-2/1032-01"
+      ]
+    },
+    {
+      "cite": "182 F. 2d 216",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1242434,
+        6084326
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/182/0216-01",
+        "/ccpa/37-2/1032-01"
+      ]
+    },
+    {
+      "cite": "241 F. 2d 718",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        417566,
+        6078079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/241/0718-01",
+        "/ccpa/44-2/0753-01"
+      ]
+    },
+    {
+      "cite": "44 CCPA 753",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078079
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/44-2/0753-01"
+      ]
+    },
+    {
+      "cite": "203 F. (2d) 742",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079530,
+        1271771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/40-2/0917-01",
+        "/f2d/203/0742-01"
+      ]
+    },
+    {
+      "cite": "40 CCPA 917",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079530
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/40-2/0917-01"
+      ]
+    },
+    {
+      "cite": "104 F. (2d) 818",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1059867,
+        6082695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/104/0818-01",
+        "/ccpa/26-2/1382-01"
+      ]
+    },
+    {
+      "cite": "42 USPQ 132",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 CCPA 1382",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082695
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/26-2/1382-01"
+      ]
+    },
+    {
+      "cite": "138 USPQ 32",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6091638
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0701-01"
+      ]
+    },
+    {
+      "cite": "318 F. (2d) 748",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        161786,
+        6091638
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/318/0748-01",
+        "/ccpa/51-2/0701-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1086,
+    "char_count": 23938,
+    "ocr_confidence": 0.436,
+    "pagerank": {
+      "raw": 1.4855484959878422e-07,
+      "percentile": 0.6619903322548921
+    },
+    "sha256": "013a0da41d36b460f3ee7a3d578fc78f91c948ef942a802692f15c9de1277c70",
+    "simhash": "1:8b75748b7d9e975b",
+    "word_count": 3962
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Maetin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kiekpateick"
+    ],
+    "parties": [
+      "Henry W. Rimbach v. Willem Lambertus Wanmaker and Cornelis Bakker"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered tlie opinion of the court:\nThis is an appeal by Nimbacli from the decision of the Board of Patent Interferences awarding priority of invention to Wanmaker et al., hereafter Wanmaker, in Interference No. 92,659.\nThe interference involves the Wanmaker application, serial No. 851,359, filed November 6, 1959, and Eimbach application, serial No. 810,626, filed May 4, 1959. Wanmaker, claiming priority under a Netherlands application, No. 233,044, filed November 8, 1958, moved to shift the 'burden of proof. This motion was not opposed and was granted. Eimbach thus became the junior party and took the only testimony in the case and Wanmaker relied solely on the Dutch priority date.\nThe single count of the interference is:\nA copper and manganese activated strontium phosphate phosphor corresponding to the formula SrO-(MeO)-PsOe-CmO-MnO, wherein (MeO) represents an oxide of alt least one metal selected from the group consisting of aluminum and magnesium and wherein \u2018the molar ratio of atoms of total metal to atoms of phosphorus in said phosphor is from about 2.7: 2 to 3.0: 2, the ratio of atoms of said group to atoms of strontium in said phosphor is from about 1:1.5 to 1:16, the ratio of atoms of copper to atoms of phosphorus in said phosphor is from about 0.001:2 to 0.06: 2, the molar ratio of manganese to phophorus is from about 0: 2 to 0.20:2, and said phosphor having been fired during preparation in a slightly-reducing atmosphere.\nThe subject matter of this count is a phosphor composition which is \u201cactivated\u201d by copper and manganese. Such phosphor materials normally comprise a matrix into which a small amount of additional \u201cactivator\u201d material is introduced. The \u201cactivator\u201d materials render the matrix luminescent, that is, operative to convert radiations in the ultraviolet range into radiations in the visible range. Such materials are used in fluorescent lamps as well as in high pressure, mercury vapor lamps and other similar applications.\nThe board awarded priority to Wanmaker stating:\nIt is our view that 'the record fails to establish a utility for 'the compositions prepared by Oberst [Rimbaeh\u2019s laboratory assistant]. We do not believe that it is sufficient merely to find Ith-alt the material exhibits some fluorescence when placed under 'an ultraviolet lamp. There is nothing in the record to indicate that such a test as testified to by Oberst was sufficient Ito establish that the materials could be used for Rimbach\u2019s purpose, in a high pressure mercury vapor lamp or 'Other fluorescent lamp -or for any other purpose without further tests. Rather, in our opinion, the contrary is evidenced by the following statement appearing on page 3 o\u00ed Exhibit B, dated March 25,1958, a patent disclosure written by Rimbach:\nMeanwhile, the more promising of the phosphors will be tested in HPMV lamps, and other fluorescent lamps * * *.\n$ $ $ & $ sfc #\nWe believe that the statement of the majority in Harding v. Steingiser et al., 318 F. (2d) 748; 138 USPQ 32; 796 O.G. 18 (at page 22) that \u201cthe record discloses no correlation between laboratory results and test results under actual service conditions\u201d applies to the situation here. Although a commercial use is not essential to a reduction to practice it must appear that the material will perform its intended function in actual service. We regard the holding in Chittick v. Lyons, 26 CCPA 1382; 42 USPQ 132, 1939 C.D. 768; 104 F. (2d) 818 and Morway et al. v. Bondi, 40 CCPA 917; 203 F. (2d) 742; 97 USPQ 318; 1953 C.D. 231 with regard to laboratory tests applicable here. We find nothing in the record to indicate that the fact that a material fluoresces under ultraviolet radiation leads to the conclusion that the material has utility under service conditions.\nIn its decision on Rimbach\u2019s petition for reconsideration, the board stated:\nWe have carefully considered all the arguments advanced but remain of the opinion that in view of the whole of the record there is no conviction of success for the composition and that the utility of the composition has not been established. We find nothing in the record which could be regarded as supporting the allegation that the statement found in Exhibit B regarding the intention to test \u201cpromising\u201d compositions in HPMY lamps relates only to the determination of commercial utility. It is our opinion that the above mentioned statement is properly a part of the record to be considered in determining whether utility for the composition of the count has been established.\nRimbach\u2019s appeal raises as its principal issue the question of what must be proven as to actual uses or so-called \u201cutility of the composition\u201d to prove its reduction to practice. Two secondary issues also are raised. (1) Where leading questions are asked, what is the legal effect of such testimony? (2) Does the record establish that the Rim-bach compositions come within the scope of the count?\nRimbach\u2019s case for priority rests on his testimony and that of his laboratory assistant, Oberst, and certain documentary exhibits. Rim-bach is a chemical engineer experienced in the phosphor field and in the development and testing of new phosphors. In explaining the general operating procedure by which tests were conducted on phosphors after he had initially discovered them, he testified:\n* * * I wrote an instruction sheet for further experimentation for Mr. Oberst to perform giving formulas in grams which I derived from molar or atomic compositions which I wanted to explore and the various processing tests that were to be made upon them.\nRimbach identified six different instruction sheets he had given Oberst concerned with the preparation of phosphors. After discussing four of the instruction sheets Rimbach testified that all of the instruction sheets represented phosphor raw mix formulations together with the instructions required to prepare the phosphors.\nOberst identified sixteen different work sheets from his laboratory work book. These work sheets related to various phosphors. As to preparation and testing of these phosphors, Oberst testified as follows:\nQ16. Mr. Oberst, I hand to you a copy of a page taken from a work book and marked Rimbach Exhibit J and I ask you can you identify this? A. Tes.\nQ17. What is it? A. It is a copy of a sheet out of my laboratory work book.\nQ18. Was the phosphor raw mix indicated on this sheet? A. Tes.\nQ19. Was this given to you by Mr. Rimbach? A. Tes.\nQ20. Did you prepare the phosphor by firing in the manner indicated? A. Tes.\nQ21. Did you test the phosphor after preparation? A. Tes.\nQ22. How did you test the phosphor? A. On all the strontium aluminum phosphors we removed them from the furnace and then into the dark hood where the ultraviolet lamps are kept.\nQ23. Did you place the phosphor immediately after preparation under the ultraviolet lamp? A. Tes, that was general practice.\nOberst also testified as to temperature dependence tests as follows:\nQ76. Would you briefly explain the nature of these temperature dependence tests for these phosphors? A. Well, as you will note on the bottom of the sheet there is a control 1997-BW, a sample of which was placed on a hot plate underneath the ultraviolet lamp at room temperature and the brightness tester standardized to read 2.0. The sample to be tested was placed on the same hot plate and a reading taken at room temperature. Then the temperature increased to 100\u00b0 and a reading taken again. The same at 160\u00b0, 215\u00b0, 275\u00b0, 320\u00b0 and 380\u00b0.\nQ77. Are these degrees in eentrigrade? A. Tes.\nQ78. Was the ultraviolet excitation selected to simulate a high pressure mercury arc? A. Tes.\nConcerning the fluorescence of the phosphors when excited by ultraviolet, Oberst testified:\nQ39. Mr. Oberst, I hand to you a copy of a work book page identified Rimbach Exhibit M and ask you to compare it to Rimbach Exhibit E with respect to the phosphor-raw mix formulation. Are they the same? A. Tes.\nQ40. Did you test this phosphor by placing it under an ultraviolet lamp? A. Tes.\nQ41. Are the results of the phosphor test indicated? A. Tes.\nQ42. How do you indicate them? A. By a note on the bottom of the notebook page.\nQ43. Would you please read that? A. \u201cThis was the Brightest of the Group\u2014 which included XP-1982-83-84 and XP-1939A.\u201d\n*******\nQ47. Are varying brightness results indicated for varying preparation techniques? A. Tes.\nQ48. When you refer to brightness do you mean the fluorescence of the phosphor when excited by ultraviolet? A. Tes.\nNeither Rimbach\u2019s nor Oberst\u2019s testimony was challenged by Wan-maker.\nIt seems to ns that the board and Wanmaker accepted Eimbach\u2019s proofs as establishing that Eimbach and Oberst had made phosphor compositions, conducted fluorescence and temperature dependence tests, and simulated a high pressure mercury arc in their ultraviolet excitation tests, all prior to Wanmaker5s earliest date. However, the board found these proofs insufficient to establish a reduction to practice because the phosphors had not been tested in High Pressure Mercury Vapor Lamps (HPMV). The board relied for support of this position principally upon our decision in Harding v. Steingiser, 51 CCPA 701, 318 F. 2d 748, 138 USPQ 32. We find this reliance to be misplaced in view of the factual situation here.\nThis court has long held that it is not necessary to demonstrate the practicality or utility of a composition to establish a reduction to practice where that practicality or utility is known.\nIn Blicke v. Treves, 44 CCPA 753, 241 F. 2d 718, 112 USPQ 472, priority of invention of a composition was involved and the court stated:\n* * * A composition ol matter cannot be a patentable invention unless it bas utility. In re Bremner et al., 37 CCPA (Patents) 1032, 182 F. 2d 216, 86 USPQ 74. Accordingly, tbe invention of such a composition is not complete unless its utility is either obvious or is established by proper tests, regardless of whether the claims contain any specific reference to utility.\nThis basic premise underlies our decision in Harding v. Steingiser, supra, and the differences between the judges as expressed in the two opinions therein proceed, not from any difference as to the legal principles applicable but rather as to whether the evidence there established utility as required in Blicke, supra. Two judges subscribing to one opinion for affirmance of the board decision required proofs beyond those established in that record while two judges subscribing to the other opinion accepted the proofs as establishing utility of the claimed composition.\nIt is clear that in Harding none of the judges endorsed the board\u2019s requirement that Harding had failed because he had not proven actual tests of a \u201cpractical use.\u201d Eather, the requirement is that Stated in Blicke, supra, \u201cthe invention of such a composition is not complete unless its utility is either obvious or is established by proper tests.\u201d Thus, Harding offers guidance here only as a reaffirmation of the principle stated in Blicke.\nThis, then, returns our inquiry to whether Eimbach\u2019s proofs are such as to bring him within the above principle.\nThe count itself is to a composition and does not specify any particular use. Under these circumstances evidence proving utility for any purpose is sufficient to establish a reduction to practice under the principles applied in Blicke v. Treves, supra, and Harding v. Steingiser, supra. We have reviewed tbe record herein and find that the statement of utility in Kimbaeh\u2019s specification clearly encompasses tbe utility which was proven. After reviewing a problem encountered in this art as represented by the Thorington U. S. patent No. 2,748,303, appellant\u2019s specification states:\nIt is the general object of this invention to avoid and overcome the foregoing and other difficulties of and objections to prior-art practices by the provision of phosphor material having good temperature-dependence characteristics and a blue to orange response.\nIt is an additional object to provide blue- to orange-emitting phosphor for use with any type of discharge device and methods for making such phosphor and improving the output of same.\nWhile it is true that Kimbach referred to the use of composite phosphor materials of his invention in color corrected, high pressure, mercury vapor lamps, he points out that:\nThe aforesaid objects of the invention, and other objects which will become apparent as the description proceeds, are achieved by providing phosphate phosphor material and a method for making same. In a first class of phosphor embodiments, the phosphate phosphor material includes as metallic elements strontium, copper activator and one or more of aluminum, gallium and indium. In a second class of phosphor embodiments, the phosphate phosphor material includes as metallic elements strontium, copper activator and either magnesium or calcium. Permissible, preferred and optimum concentrations are provided for the ratio of total metal to phosphorus, the ratio of aluminum, gallium or indium to strontium, the ratio of calcium or magnesium to strontium and the ratio of copper to phosphorus in the phosphor. Also provided are a method for increasing the output of the foregoing phosphor and a high-pressure, mercury-vapor lamp which utilizes the present phosphor in conjunction with an already-known, red-emitting phosphor.\nWe think it clear, therefore, that the count in issue when read in the entire context of the Kimbach disclosures clearly envisioned utility as something which would be known to those of ordinary skill in the art once the phosphor composition was made known and it was tested under the laboratory test conditions, which the record establishes was done, with results which such a person could then apply to other uses.\nIt is the position of Wanmaker that:\nTbe fact that the application of Wanmaker et al shows no lamp tests, is wholly irrelevant to the type of test required by Rimbach.\nWe do not agree. The Wanmaker specification is before us. We think it is relevant to the basic inquiry we are here pursuing, i.e., to what extent is it necessary to demonstrate the practicability or utility of phosphors to one of ordinary skill in this field. Cf. Blicke v. Treves, supra. When so viewed, we find the quite impressive technical data set forth in Wanmaker resulted from excitation of the phosphor by radiation which has \u201ca wave length of 253.7 mu\u201d and at wavelengths \u201cproduced by the mercury discharge of a low-pressure mercury vapour discharge tube.\u201d The specification also points out:\nThe temperature dependence of the luminescence of the phosphates according to the invention is satisfactory, that is to say that the difference between the intensity of the radiation is small at room temperature and at temperatures of from 200\u00b0 C to 250\u00b0 C. As a result, it is also possible to use these substances where the temperature reaches such high values, for example the bulb of a high-pressure mercury vapour discharge tube.\nIt seems to us, therefore, that appellees as persons skilled in the art so expressed themselves in their specification as to leave no doubt that Rimbach\u2019s tests were sufficient to demonstrate the practicality or utility of the phosphor compositions defined by the count in issue.\nSince much of Rimbach\u2019s case depends on the legal effect to be given the Oberst testimony, it becomes necessary to now consider the first of what we have termed the secondard issues. The board apparently gave little weight to this testimony, stating:\n* * * the testimony of Oberst as to the successful testing of the product was not directly stated by him but words were put in his mouth in the form of a conclusion by leading questions, see for example question 65 on page 23. * * *\nQuestion 65 is as follows:\nQ65. Did you carry out these details and successfully test the phosphor by placing it under an ultraviolet lamp and observing it to fluoresce? A. Ves.\nEssentially all that Oberst is here saying is that he placed the prepared phosphor under an ultraviolent lamp and observed that it fluoresced. The record shows Oberst had been preparing phosphor materials from 1948 through the 1958 date when he conducted the test. Oberst\u2019s qualifications to testify as to this were not questioned. While Oberst was employed as a laboratory technician and not as a scientist, he had been so employed for a number of years and a reference to his notes and work books as contained in the physical exhibits corroborate the nature of the work concerning which he testified. We note that question 65 relates to Oberst\u2019s twelfth worksheet concerning which he was asked to testify. The question appears to be a summary as to what Oberst had testified concerning earlier worksheets.\nWe think, therefore, this case is one which falls within the principle of Smith v. Brooks, 24 App. D.C. 75, 1904 C.D. 672 (App. D.C. 1904). Here it was sought to discredit the testimony of witnesses upon the ground that many of the interrogatories propounded to them were of a distinctly leading character and suggested their own answers. As the court stated:\n* * * while this may be a good ground for scanning their testimony with critical care, it is no ground for discrediting it. * * * It is the law that testimony adduced by leading questions cannot be excluded from consideration, unless objection to it has been properly interposed; and if it is admissible in the absence of such objection, we see no reason why it should be refused consideration.\nThis is a different situation from that of the stipulated testimony in Pines v. McAllister, 38 CCPA 981, 188 F. 2d 388, 89 USPQ 312 (cited by the board in its decision on reconsideration) where the conclusions in such testimony were challenged. Here, as distinguished from the situation in Pines, it was shown that when Oberst talked of a \u201csuccessful test\u201d he was referring to the fact that the phosphors responded to ultraviolet radiations to produce visible radiations. These are not conclusions, but are statements of an observed result, on which the witness Oberst was qualified to report.\nThis leaves for consideration what we have termed a second secondary issue, i.e., does the record establish that the Rimbach compositions come within the scope of the count? Wanmaker raised this issue unsuccessfully before the board. It is raised again here in support of Wanmaker\u2019s position that Rimbach did not meet his burden of establishing a reduction to practice of a composition coming within the count prior to the filing date accorded Wanmaker. While Wan-maker did not cross-appeal on the board\u2019s adverse determination of the issue, all questions decided below which are pertinent to the issue of priority of invention are before us. See Klemperer v. Price, 47 CCPA 729, 271 F. 2d 743, 123 USPQ 539.\nIn general, Wanmaker\u2019s argument is that since the count requires that all the copper be in the cuprous form and that the ratio of atoms of copper to atoms of phosphorus be from about 0.001:2 to 0.06:2, it was a part of Rimbach\u2019s burden either to have established the analysis of the compositions prepared and tested by Oberst or to show that the method he employed must lead invariably to the product defined by the count. On this aspect of the case we agree with the board\u2019s statement that:\nIn this case the count is drawn to a phosphor having the specified composition which is prepared by mixing raw materials in the proper proportions to give the desired ratios of the metals and phosphorus and firing at an elevated temperature. The product formed is believed to be more in the nature of a mixture rather than a definite chemical compound. We believe that it would be obvious that products as defined in the count were formed by Oberst on behalf of Rimbach. We also believe that it would be obvious that the copper would be in the cuprous state due to the fact that it is present in only a small amount and the composition [sic] were fired under reducing conditions. In view of all the circumstances we believe that ithe record establishes that the compositions prepared on behalf of Rimbach were within the scope of the count.\nWe find ample support for this position in the applications of both parties. Thus the Wanmaker application states:\nSince in the phosphates according to the invention the copper should he present in monovalent form and the manganese in bivalent form, it is necessary for the production to take place in a non-oxidizing atmosphere, for example in a reducing atmosphere. Suitable atmospheres are, for example, nitrogen or a mixture of nitrogen and hydrogen. The temperature at which the production takes place is chosen between 1000\u00b0 C. and 1250\u00b0 C. The heating time depends on the reactivity of the compounds used and so inter alia on the grain size of the initial substances. 'It is preferably chosen between 1 and 2 hours.\nRimbach states in his application:\n* * * While the hydrogen in the foregoing quantities is slightly reducing in nature, the moisture supplies a slightly-oxidizing effect to the atmosphere. If the phosphor raw mix is fired in air, the resulting phosphor is not nearly as bright as where the raw mix is fired in the atmosphere which is at most mildly reactive and preferably slightly reducing. In view of this, it is probable that the effect of the firing atmosphere which is at most mildly reactive is to cause at least a part of the copper .to be in the cuprous state. * * *\nIt seems to us, therefore, the parties have clearly disclosed that the presence of copper in the cuprous state is inherent in their respective compositions when their phosphor raw-mix compositions are fired in a slightly reducing atmosphere. These disclosures themselves are a sufficient factual difference, for distinguishing this case from Alpert v. Slatin, 49 CCPA 1343, 305, F. 2d 891, 134 USPQ 296, cited in support of Wanmaker\u2019s position. Also, Oberst testified as to the reducing atmosphere in which the tests were conducted. Wanmaker also challenges Rimbach\u2019s position on the basis that \u201cthere is no testimony presented as to the color of the radiation produced.\u201d This, like their attack on Rimbach\u2019s case because of failure to prove use of the phosphor compounds in a HPMV lamp, must fail for the reason that the count is silent both as to any color requirement of the composition and as to its end use in a HPMV lamp.\nFor the foregoing reasons, we find the board erred in awarding priority of the sole count to Wanmaker. Its decision therefore is reversed.\nOne judge concurred in this result and the decision of the board was affirmed.\nThe boarfl seems to have given considerable weight to a notation made by Rimbaeh that \u201cthe more promising of the phosphors will be tested in, HPMV lamps, and other fluorescent lamps\u201d and stated:\n* * * We do not regard these circumstances as evidence of any conviction of success on the part of Rimbaeh.\nwe think the board failed to distinguish between the invention defined by the count, discussed in the text, and commercial embodiments of that invention. A successful commercial embodiment of an invention need not be proven in order to establish utility of the invention in proving a reduction to practice. See Land v. Regan, 52 CCPA 1048, 342 F. 2d 92, 144 USPQ 661.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "William, D. Palmer (Gordon S. Parlcer, of counsel) for appellant.",
+      "Norman N. Spam (Bussell <?. Pelton, of counsel) for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "362 F. 2d 561; 150 USPQ 302\nHenry W. Rimbach v. Willem Lambertus Wanmaker and Cornelis Bakker\n(No. 7589)\nUnited States Court of Customs and Patent Appeals,\nJuly 7, 1966\nWilliam, D. Palmer (Gordon S. Parlcer, of counsel) for appellant.\nNorman N. Spam (Bussell <?. Pelton, of counsel) for appellees.\n[Oral argument February 9, 1996 by Mr. Palmer and Mr. Spain]\nBefore Rich, Acting Chief Judge, and Maetin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kiekpateick\nPetition for rehearing denied October 6, 1966.\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Chief Judge Worley, pursuant to provisions of Section 294(d), Title 28, United States Code."
+  },
+  "file_name": "1552-01",
+  "first_page_order": 874,
+  "last_page_order": 882
+}

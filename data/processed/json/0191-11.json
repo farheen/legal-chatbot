@@ -1,0 +1,58 @@
+{
+  "id": 12486467,
+  "name": "Com. v. C. Bennett",
+  "name_abbreviation": "Com. v. Bennett",
+  "decision_date": "2016-03-07",
+  "docket_number": "NO. 1087 WDA 2015",
+  "first_page": "191",
+  "last_page": "191",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "50d67e8614ea5fea391d509105a0ce2dc107ff2b5aed6348c920c67d1363b7e8",
+    "simhash": "1:96988a10519b0cc1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Bennett"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Bennett\nNO. 1087 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 07, 2016\nAffirmed."
+  },
+  "file_name": "0191-11",
+  "first_page_order": 191,
+  "last_page_order": 191
+}

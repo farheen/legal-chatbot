@@ -1,0 +1,58 @@
+{
+  "id": 12489651,
+  "name": "STATE v. POMERANTZ",
+  "name_abbreviation": "State v. Pomerantz",
+  "decision_date": "2017-02-09",
+  "docket_number": "16\u2013322",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "c62e2ca8966b06f4b90e7364a935d4282b97cbb9c0d5b3f2bef9c37e808d5bad",
+    "simhash": "1:38510900de405448",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nPOMERANTZ"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nPOMERANTZ\n16-322\nSupreme Court of Vermont.\nFebruary 9, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0650-11",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

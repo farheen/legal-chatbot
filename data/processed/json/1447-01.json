@@ -1,0 +1,131 @@
+{
+  "id": 12165877,
+  "name": "In re Helen M. Krazinski, Robert G. Shepherd and William E. Taft",
+  "name_abbreviation": "In re Krazinski",
+  "decision_date": "1965-06-24",
+  "docket_number": "No. 7283",
+  "first_page": "1447",
+  "last_page": "1457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1447"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 25"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "268 F. 2d 226",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080081,
+        1972835
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0905-01",
+        "/f2d/268/0226-01"
+      ]
+    },
+    {
+      "cite": "46 CCPA 905",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080081
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0905-01"
+      ]
+    },
+    {
+      "cite": "343 F. 2d 965",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        872250,
+        12165162
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/343/0965-01",
+        "/ccpa/52-2/1238-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1238",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165162
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1238-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 931,
+    "char_count": 20686,
+    "ocr_confidence": 0.543,
+    "pagerank": {
+      "raw": 2.466089595869958e-07,
+      "percentile": 0.8060153313957686
+    },
+    "sha256": "ab15a2724c5ceb33d3d758ce3b506292e3c7ac6331fe8ea82f87ebd677708050",
+    "simhash": "1:1becb0182a140f1f",
+    "word_count": 3266
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Helen M. Krazinski, Robert G. Shepherd and William E. Taft"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Judge,\ndelivered tbe opinion of the court:\nThis appeal is from the decision of the Board of Appeals, adhered to on reconsideration, affirming the examiner\u2019s rejection of product claims 1 to 3 in application serial No. 802,003, filed March 26, 1959, for \u201cSulfanilamido Triazines and Method of Preparing the Same.\u201d No claim has been allowed.\nThe invention is an N'-heterocyclic sulfa drug, i.e., a derivative of sulfanilamide,\nin which one of the sulfonamide hydrogens has been replaced by a heterocyclic radical. The invention also includes the alkali metal salts of this compound.\nAccording to appellants\u2019 brief:\nIt must not be supposed that the combination of sulfanilamide in this manner with any heterocyclic radical will automatically produce a useful sulfa drug. On the contrary, such drugs are rare. Thousands of these compounds have been synthesized and tested, but only a few have proven to be therapeutically effective. Moreover, there is no way by which the therapeutic value of such a compound can be estimated in advance from its chemical structure. This is an art in which even minor changes, such as the substitution of an ethyl for a methyl radical, can make a critical difference in the therapeutic value of a product.\nAppellants purportedly found a compound meeting the requirements of an effective and practical sulfa drug by attaching to sulfanilamide the. radical:\nThe name of this radical is 4,6-diethyl-s-triazine (\u201cs\u201d meaning symmetrical) and the. name of the resultant compound is 2-sulfanilamido-4,6-diethyl-s-triazine, hereinafter called sulfadiethyl-s-triazine or simply \u201cthe diethyl\u201d compound for convenience.\nClaim 1 reads:\n1. Compound having the general formula\nin which R is a member of the group consisting of hydrogen, and alkali metals.\nClaim 2 defines the diethyl compound, i.e., the compound of claim 1 wherein E is hydrogen. Claim 3 defines the sodium salt of the diethyl compound, i.e., the compound of claim 1 wherein K is sodium.\nExample I in the specification describes the preparation of the compound of claim 3 by reacting sulfanilamide with metallic sodium to form sodium sulfanilamide, then reacting the latter compound with 2,4-diethyl-6-methoxy-s-triazine to form the desired product. Example II shows that the compound of claim 2 is prepared by acidifying the sodium salt of Example I with hydrochloric acid.\nAppellants\u2019 compounds are alleged to possess a combination of properties needed in a therapeutically effective sulfa drug. Not only are they supposedly effective against various bacteria infections, such as streptococcal and staphylococcal infections, but they have the ability both to produce and to maintain high blood levels and display unusually good solubility characteristics, thereby avoiding the problems known as crystalluria. Appellants\u2019 brief explains that \u201cblood level\u201d means the concentration of a drug in whole blood; that \u201cplasma level\u201d means the drug\u2019s concentration in blood plasma; and that, in most cases, the latter is about twice the blood level because blood is about one-half plasma. The brief also points out that the height and duration of blood and plasma concentrations for any particular sulfa drug are influenced by two factors\u2014the rate at which the drug disappears (by metabolism or excretion) and the extent and rate at which it is absorbed into the blood.\nThe sole issue on appeal is the patentability of claims 1 to 3 over the following references:\nAustrian (I) 183,758, published Nov. 10, 1955.\nAustrian (II), 199,193, published Aug. 25, 1958.\nBoth patents are directed to processes. Austrian I relates to the preparation of 2-(arylsulfonamido)-1,3,5-triazines and their salts of the general formula\nwherein Ar is an aromatic ring (which may or may not be substituted, the substituents including amino) and the triazine ring is substituted \u201cby alkyl or alkoxy groups or by combination thereof * * *.\u201d The process consists of reacting aryl sulfonamides, in the form of salts, with alkoxy or aryloxytriazines of the formula\nin which Hi and \u215e have the same meaning as indicated above and B3 is an alkyl or an aryl radical. Thus the reaction occurs with splitting off of alcohols or phenols. No specific alkyl groups are mentioned for Ex or E2, either as part of a reactant or of a product, and the only specific alkoxy group mentioned is methoxy, the preparation of a 2-sulf anil-amido-4,6-dimethoxy-s-triazine having been set out in a working example.\nAustrian II is directed to an improvement on the above process. The patent says:\nIt was surprisingly discovered that it is not necessary to react the 2,4,6-trialkoxy-s-triazines in the finished state required for the process of the parent patent [Austrian I] with the salts of the arylsulfonamides as the starter materials in question, but that within the framework of the invention the same result can be obtained if the constituents of the reactants rather than the finished reactants are used as starting materials.\nThe improved process is applicable only to those reactants wherein IlL and R\u00b2 are alkoxy. Hence, again no specific alkyl groups are mentioned, but both methoxy and ethoxy substituents are shown for each of Ei and R\u00b2.\nThe board said:\nThe issue presented is what does the generic disclosure as to \u201calkyl\u201d in the Austrian patents mean to the organic chemist where no specific examples of an alkyl group are set forth. It would appear from the disclosure of the Austrian patents where the specific examples of alkoxy are methoxy and ethoxy that by analogy the term alkyl would suggest the lower alkyl groups such as methyl, ethyl and propyl to the chemist of ordinary skill in the field of organic chemistry. With the view we have taken the claims are considered unpatentable over the Austrian patents. [Emphasis ours.]\nIn its decision on reconsideration, the board said:\nWe remain of the opinion that the Austrian patents would clearly suggest to a person skilled in the art to employ the lower alkyl groups as the alkyls broadly disclosed for the 4,6 position of the triazine nucleus. [Emphasis ours.]\nWe construe this language of the board to mean it viewed the issue to be obviousness within the meaning of 35 USC 103. Certainly the compounds are novel. As stated in the solicitor\u2019s brief:\nClearly, the compounds of the appealed claims distinguish over the disclosures of the Austrian patents only in that the former define specifically the 4,6-diethyl compounds, while the reference patents teach the class of 4,6-dialkyl compounds of which the diethyl compounds are species. The sole issue before the Court, therefore is whether, under the facts in this case, that difference makes the claimed compounds obvious to one of ordinary skill in the art. Clearly, the rejection is based upon 35 USC 103 * * *. Appellants appear to agree that this is the issue * * *.\nWe now turn to the question: do the Austrian patents render appellants\u2019 claimed compounds obvious within the meaning of section 103 ? Since both parties seem to take the position that all three claims stand or fall together and that this, in turn, depends on the patentability of the diethyl compound defined by claim 2, we will treat the appeal accordingly.\nThere has been much discussion, both in the proceedings below and in the briefs here, that the references suggest to one of ordinary skill in the art the diethyl substituents, either by reason of the disclosure of \u201cdialkyl\u201d or by applying an \u201canalogy\u201d to this disclosure from the disclosure of \u201cdialkoxy\u201d coupled with the specific disclosure of \u201cdimethoxy\u201d and \u201cdiethoxy\u201d Our answer to this is simply that, the statutory basis of the rejection being section 103, we are compelled to consider the invention as a whole and, as we have often stated, names and structural formulae are not compounds but mere designations therefor. The invention is a group of compounds. Hence, it is the obviousness or unobviousness of the compounds, including all their properties, with which we are here concerned. Certainly the structure and/or name of a compound might well be suggested when the compound itself is not.\nAs regards properties (or uses, since a \u201cutility\u201d is really a manifestation of a \u201cproperty\u201d) of the reaction products obtained by the Austrian I process, we find the following passage :\nThe bacteriological and pharmacological test of the products of the triazine class prepared by means of the present process, as e.g. of 2-(4'-aminobenzene-sulfonamido) -4,6-dimethoxytriazine showed that these new compounds are valuable therapeutic agents. Thus the 2-(4'-aminobenzene-sulfonamido)-4,6-dimethoxy-triazine in all tests proved to be at least equivalent to the best, presumably more expensive sulfonamides of the diazine class, with respect to the effect upon harmful bacteria, while their toxicity was surprisingly low. In comparison with the representatives of the diazine class, however, e.g., 2-(4'-aminobenzene-sulfonamido)-4,6-dimetlioxy-triazine presents the therapeutically very important advantage that the solutions of sodium salt or diethanolamine salt of a concentration up to more than 30 percent, which can be produced at room temperatures, are completely neutral (pH=7). Due to this property they are much more suited for safe parenteral administration than the solutions, giving a far more alkaline reaction, of the sodium salts of other preparations proved to be good per se otherwise; thus for solutions of sulfathiazole sodium or sulfapyrimidine sodium a pH of 11.5-12.5 is quoted [Vonkennel, Deutsch, med. Woehenschriften, 39, 954 (1942)]. However it is also possible to recover, by means of organic bases such as 4-aminomethylbenzene sulfonamide, well crystallized salts exhibiting a low solubility favorable for their local range of application. [Emphasis ours.]\nThis passage represents the entire disclosure of the nature of the products in this patent, and the other reference contains essentially the identical passage, without more. We note that the language \u201ctherapeutic agents\u201d and \u201ceffect upon harmful bacteria,\u201d while perhaps embracive of the particular use in which appellants\u2019 compounds find their greatest utility, is nevertheless quite broad and general, especially as to the kind of bacteria involved. We wonder if all the thousands of products obtained by the generic process would be effective, in a practical sense, against all members of the bacterial spectrum. There is no suggestion of the comparative effectiveness of these many products to enable one of ordinary skill in the art to select and synthesize those compounds which have the greatest effectiveness. Data on the dimethoxy compound only are disclosed. As will be shown hereinafter, appellants\u2019 diethyl compound is markedly superior to, not only the dimethoxy compound, but to the dimethyl and dipropyl compounds as well.\nAppellants\u2019 specification says (emphasis ours) :\nThe use of sulfadiazine as an antibacterial agent is well known for many years. Other sulfa drugs such as sulfamethoxypyridazine have more recently come into prominence for special uses because of their ability to produce high blood levels for longer periods of time. Since the bacterial spectrums of sulfa drugs are not identical, others that produce high blood levels are desirable.\n* * * * * * *\nThe compounds of the present invention are antibacterial agents effective against various bacterial infections, for example, streptococcal and staphylococcal infections. The latter are a continuing therapeutic problem and in many cases are resistant to antibiotics. Sulfa-diethyl-s-triazine is more active than Gantrisin (sulfa-isoxazole) and maintains a good blood level. The solubility of sulfa-diethyl-s-triazine is adequate to avoid crystalluria * * *. The latter property is not generally present in sulfa drugs such as for example Gantrisin * * *. Sulfadiethyl-s-triazine is five times as active as sulfa-dimethyl-s-triazine and several times more active than sulfa-dipropyl-s-triazine. Furthermore, the sulfa-diethyl-s-triazine maintains its blood concentration much more effectively than sulfa-dimethyl-s-triazine. For example, it requires five times as long for the blood concentration of sulfa-diethyl-s-triazine to deoi'ease to one-half its value as for the sulfa-dimethyl-s-triazine blood level to undergo the same decrease. It is well established that the maintenance of blood levels is essential for effective therapy with sulfa drugs.\nDuring the interesting prosecution of this case, appellants submitted four affidavits in an effort to establish unobviousness: two affidavits by Redin, a Kuck affidavit, and an affidavit by Roepke. The examiner, in his final rejection, said \u201cThe affidavits have been considered but are irrelevant\" (emphasis ours). The examiner\u2019s answer says:\nThe situation here pertains to the patentability of a chemical compound per se and not to the uses demonstrated in the affidavits. * * * patentability of an obvious compound cannot be demonstrated by voluminous affidavits pertaining to the issue of relative properties of the members of a disclosed class. Properties and attendant uses are not claimed.\nThat this position is contrary to the now well-settled law, though perhaps less settled at the time of the examiner\u2019s answer, is shown by our recent decision in In re Ruschig, 52 CCPA 1238, 343 F. 2d 965, 145 USPQ 274, and cases cited therein. A showing of \u201crelative properties\u201d is clearly relevant evidence on the issue of unobviousness, albeit it may not be determinative. The ultimate determination must be based on all the relevant evidence.\nSubsequent to the examiner\u2019s answer, appellants submitted five additional affidavits: a Dearborn affidavit, a Klingman affidavit referring to a second Roepke affidavit, also included, a Schaefer affidavit, and a Miller affidavit referring to and explaining why the affidavits of Kling-man, Schaefer, Itoepke and Dearborn were not presented earlier. The examiner, upon remand of the case by the board, acknowledged that the affidavits \u201cestablish (1) a relatively high blood level at one hour, (2) which is still persistent after 12 hours, [the compound] (3) attains rapid and complete blood concentrations at 4 hours, and (4) does not undergo chemical modification or weakening in the system, being eliminated in the same form in which it is ingested.\u201d The examiner went on to say:\nHowever, an analysis of the affidavits will show that all they establish is that the claimed compounds possess the above mentioned properties. * * * In order to show unexpected properties between the claimed subject matter and the prior art, it is essential that the comparisons be made within the prior art compounds on which the claims stand rejected. This, the affidavit[s] * * * [fail] to do.\nWhereas appellants point out that there are no specific \u201cprior art compounds\u201d upon which the rejection is based, except perhaps the dimethoxy and diethoxy compounds since they represent the only variations in the 4,6 positions of those compounds specifically disclosed in the references, and point out further that it would be unreasonable to present affidavits on each of the members of the dialkyl class, that class being the real basis of the rejection, the board took the position that:\nIf, as appellants are urging, they have made a selection invention, that is to say, the diethyl compound has properties not possessed by the other dialkyl homologues then a showing to this effect, as by comparison of the diethyl with the corresponding dimethyl and dipropyl compounds, would have been the proper procedure to follow and not by way of a comparison with compounds that do not come within the scope of the compounds generically disclosed in the Austrian patents.\nWe think the board has a point for, while we do not consider the dialkyl compounds generically disclosed in the references to be old within the meaning of 35 USC 102, nevertheless the disclosure is probably sufficient for a finding of obviousness under section 103, absent a showing of unexpected properties in the claimed compounds when compared to compounds having reasonably similar structures.\nThe best showing of all, though not necessarily the only acceptable comparison, would involve, as the board suggested, comparisons with the next adjacent homologs, provided they come within the ambit of the generic disclosure of the art, which they do, even though those homologs, like appellants\u2019 compound, are not per se disclosed.\nBut here appellants have done just that. In their request for reconsideration of the board\u2019s decision, appellants made the argument that the affidavits then of record, particularly the first set which had been presented to the examiner, did in fact contain adequate data for a finding of unobviousness. In an attempt to call the board\u2019s attention to \u201cThe significance of the factual showing made by Applicants, from a therapeutic standpoint,\u201d an appendix was attached to the request which, in turn, included a table and a number of bar graphs reflecting some of appellants\u2019 data. That table and the graph which we believe to be most pertinent are set forth below:\nRELATIVE ANTIBACTERIAL POTENCYOF2-SULFANLAMIDO-^rTRlAZINES\nIN MICE INFECTED WITH\nIn their decision on reconsideration, the board said:\nThis material has been carefully considered * * * but is not convincing of any error in the rejection. In making our suggestion in the penultimate paragraph of our decision as to what might have been an appropriate showing, we had in mind evidence of such a nature that might show a difference of kind but we are unable to regard the differences set forth in the record as constituting such a difference. [Emphasis ours.]\nWe disagree. First, we are not persuaded that a \u201cdifference of kind\u201d has not been shown. Second, as pointed out above, the rejection is based upon section 103, which says nothing at all about differences in degree and differences in kind, but instead clearly requires us, in determining whether a patentable invention has been made, to consider the differences, whatever their nature, between the subject matter sought to be patented and the prior art and to determine if the subject matter as a whole would have been obvious to one of ordinary skill in the art at the time the invention was made. In line with the board\u2019s own test, i.e., a comparison of the diethyl compound with the dimethyl and dipropyl compounds, appellants have established that their invention is unobvious.\nWe believe the table and graph speak for themselves. Although an ideal showing would have included tests of the dipropyl compound on at least the streptococcus also, since appellants allege their compounds are quite effective thereon, we do not consider the absence of such a showing to be fatal. In fact, we would be inclined to view the showing of hydrogen, methyl, and ethyl in the staphylococcus and streptococcus tests as satisfactory evidence of unobviousness, even though this would amount to a less stringent test than that set forth by the board. Be that as it may, we feel the results of the staphylococcus tests alone are sufficient. In view of the disclosures of the art of record, we fail to see how these results can be said to be obvious. Accordingly, we hold that appellants\u2019 invention is patentable over that art,.\nWe have considered the various points raised in the solicitors brief attacking certain data in the table and graphs, but we do not see that they compel an opposite result. As to the contention that some of the data goes beyond the affidavits and is therefore apparently not verified, we note that the board considered this data to be believable and proceeded to find it unpersuasive.\nThe decision of the board is reversed.\nMartin, J., concurs in the result.\nSuch well-known drugs as sulfadiazine, sulfathiazole and Gantrisin are said to be members of this series of chemical compounds.\nSee In re Murray, 46 CCPA 905, 268 F. 2d 226, 122 USPQ 364.\nWe might add that one of the Redin affidavits shows that in staphylococcus infection tests in mice the diethyl compound was approximately one-half as active as sulfadiazine whereas the corresponding dimethyl and dimethoxy compounds and their sodium salts were all less than one-eighth as active as sulfadiazine.",
+        "type": "majority",
+        "author": "Rich, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Norton S. Johnson (William P. Spielman, of counsel) for appellants.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 656; 146 USPQ 25\nIn re Helen M. Krazinski, Robert G. Shepherd and William E. Taft\n(No. 7283)\nUnited States Court of Customs and Patent Appeals,\nJune 24, 1965\nNorton S. Johnson (William P. Spielman, of counsel) for appellants.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument December 10, 1964 by Mr. Johnson and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1447-01",
+  "first_page_order": 771,
+  "last_page_order": 781
+}

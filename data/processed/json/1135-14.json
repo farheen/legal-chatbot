@@ -1,0 +1,58 @@
+{
+  "id": 12488255,
+  "name": "Com. v. Thompson, C.",
+  "name_abbreviation": "Com v. Thompson",
+  "decision_date": "2016-05-04",
+  "docket_number": "1219 WDA 2015",
+  "first_page": "1135",
+  "last_page": "1135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "0b17a63f27331c9c329ca2e9b7b60c1c124bc1a00cb1e0e5fa7b9edcce7e5004",
+    "simhash": "1:18987cebc0ad95e9",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nThompson, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nThompson, C.\n1219 WDA 2015\nSuperior Court of Pennsylvania.\nMay 4, 2016\nQuashed"
+  },
+  "file_name": "1135-14",
+  "first_page_order": 1135,
+  "last_page_order": 1135
+}

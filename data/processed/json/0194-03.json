@@ -1,0 +1,62 @@
+{
+  "id": 11287875,
+  "name": "In re Thomas JOSEPH",
+  "name_abbreviation": "In re Joseph",
+  "decision_date": "1980-03-20",
+  "docket_number": "No. 80-124-A",
+  "first_page": "194",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "414 A.2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 416,
+    "ocr_confidence": 0.732,
+    "sha256": "5bdb656e9cc57fb924744ddfe5e55cd18a4f0e9dfac147446ceb6243fc9fbc54",
+    "simhash": "1:20ec3916280328bf",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T14:31:03.934549+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Thomas JOSEPH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe March 17, 1980 stay of that portion of the Family Court decree which would permit the return of the minor child to Richard and Judith Pelletier is continued until further order of the court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert R. Nocera, Pawtucket, The Diocesan Bureau of Social Services, for appellant.",
+      "Mitchell S. Riffkin, Providence, for appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "In re Thomas JOSEPH.\nNo. 80-124-A.\nSupreme Court of Rhode Island.\nMarch 20, 1980.\nRobert R. Nocera, Pawtucket, The Diocesan Bureau of Social Services, for appellant.\nMitchell S. Riffkin, Providence, for appel-lees."
+  },
+  "file_name": "0194-03",
+  "first_page_order": 248,
+  "last_page_order": 248
+}

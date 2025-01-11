@@ -1,0 +1,58 @@
+{
+  "id": 12486124,
+  "name": "T. Harper v. J. Salameh",
+  "name_abbreviation": "Harper v. Salameh",
+  "decision_date": "2016-02-29",
+  "docket_number": "NO. 1085 WDA 2015",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 124,
+    "sha256": "97c182380cf2ca9468b1ca514197e340fac8b4b2c2bf01f78e578bb45eda2831",
+    "simhash": "1:fc8d64ac53ae91a4",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Harper\nv.\nJ. Salameh"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Harper\nv.\nJ. Salameh\nNO. 1085 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 29, 2016\nDisposition: Appeal dismissed."
+  },
+  "file_name": "0606-11",
+  "first_page_order": 606,
+  "last_page_order": 606
+}

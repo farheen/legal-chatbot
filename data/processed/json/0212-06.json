@@ -1,0 +1,58 @@
+{
+  "id": 12486799,
+  "name": "Com. v. S. Bourne",
+  "name_abbreviation": "Com. v. Bourne",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 558 MDA 2015",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "5f2d171443c3b1f9a55d79d522ca8cd2d75c80a993ca67e6476ae9c1377fdc4b",
+    "simhash": "1:a51967d40ea1151c",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Bourne"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Bourne\nNO. 558 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0212-06",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

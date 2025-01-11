@@ -1,0 +1,59 @@
+{
+  "id": 12167354,
+  "name": "In re Harry W. Coover, Jr.",
+  "name_abbreviation": "In re Coover",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7408",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 77,
+    "ocr_confidence": 0.546,
+    "sha256": "e38e0260cb7ad9749818687c345da8bde575a31932bcc2de49e2543f584bf6de",
+    "simhash": "1:725a4648808801c8",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Harry W. Coover, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "High-density crystalline polyolefins.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Harry W. Coover, Jr.\n(No. 7408)."
+  },
+  "file_name": "1836-09",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

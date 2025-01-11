@@ -1,0 +1,58 @@
+{
+  "id": 12486080,
+  "name": "Com. v. B. Dittman",
+  "name_abbreviation": "Com. v. Dittman",
+  "decision_date": "2016-02-24",
+  "docket_number": "NO. 196 WDA 2015",
+  "first_page": "603",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "6ce60351d93069ca4bc4b6974b2b57f82be0e154828c88be2031a415088c4956",
+    "simhash": "1:8159d82310aa9984",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Dittman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Dittman\nNO. 196 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 24, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0603-12",
+  "first_page_order": 603,
+  "last_page_order": 603
+}

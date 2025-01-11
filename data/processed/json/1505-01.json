@@ -1,0 +1,168 @@
+{
+  "id": 12166025,
+  "name": "In re John F. Corr",
+  "name_abbreviation": "In re Corr",
+  "decision_date": "1965-06-24",
+  "docket_number": "No. 7416",
+  "first_page": "1505",
+  "last_page": "1509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1505"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 578"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "242 U.S. 261",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3933694
+      ],
+      "year": 1916,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/242/0261-01"
+      ]
+    },
+    {
+      "cite": "56 USPQ 283",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 F. 2d 812",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1266148
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/132/0812-01"
+      ]
+    },
+    {
+      "cite": "291 F. 2d 947",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1994572,
+        6081812
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/291/0947-01",
+        "/ccpa/48-2/1072-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 1072",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081812
+      ],
+      "weight": 2,
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/1072-01"
+      ]
+    },
+    {
+      "cite": "306 F. 2d 494",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        256690,
+        12166163
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/306/0494-01",
+        "/ccpa/49-2/1301-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1301",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166163
+      ],
+      "weight": 2,
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 607,
+    "char_count": 11980,
+    "ocr_confidence": 0.538,
+    "pagerank": {
+      "raw": 5.551722803638431e-07,
+      "percentile": 0.9470918960912393
+    },
+    "sha256": "108c8b02b4dc4230f89401f67653cb2791b453ed13458a80ee96ae09a05eea77",
+    "simhash": "1:c500bae62bff426c",
+    "word_count": 1988
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re John F. Corr"
+    ],
+    "opinions": [
+      {
+        "text": "Almond, Judge,\ndelivered the opinion of the court:\nJohn F. Corr appeals from the decision of the Patent Office Board of Appeals affirming the examiners rejection of claims 1, 3, 5-7, 9, 13, 14, 19-24, 26, 29 and 33 in appellant\u2019s application. Upon reconsideration, the board held claim 27 to be unpatentable also. The solicitor admits that claim 27 as now -worded is drawn to patentable subject matter and may be considered allowed.\nThe invention relates to a rubbery composition that can be vulcanized. Claims 1, 22 and 29 are illustrative:\n1. A moldable and vulcanizable high temperature resistant rubber-like material comprising about 100 parts of a base compound composed of a chloroprene polymer, from about 5 to 25 parts of a high styrene resin, and from about 40 to 80 parts of a finely divided refractory filler material, all parts being by weight.\n22. A molded and vulcanized article comprising a high temperature resistant material comprising about 100 parts of a base compound composed of a chloro-prene polymer, from about 5 to 25 parts of a high styrene resin, from about 20 to 40 parts of a hard clay, and from about 20 to 40 parts of a calcined clay, all parts being by weight.\n29. The method which comprises forming a high temperature resistant material comprising about 100 parts of a base compound composed of a chloroprene polymer, from about 5 to 25 parts of a high styrene resin, said resin being a copolymer of styrene and butadiene, and from about 40 to 80 parts of a finely divided refractory filler material, the refractory filler being composed essentially of generally equal portions of hard clay and calcined clay, molding an article from said material, and vulcanizing said article.\nAll of the claims call for 100 parts of chloroprene polymer. Claims 9 and 23 define the high styrene polymer as a styrene-butadiene copolymer. Claims 5, 6, 7, 9, 26, 29 and 33 like claim 22 call for a mixture of hard and calcined clay. Claims 20 and 26 recite properties of the composition while claims 21 and 24 recite the presence of an accelerator, a vulcanizing agent and an anti-oxidant in the composition. Appellant in his disclosure describes the invention as follows :\nThe superior properties of the material of the invention, after vulcanization, are produced in a large measure by the inclusion therein of a mineral filler composed of a combination of calcined and uncalcined clays of the type specified. If the mineral filler were to be composed wholly of substantially wholly of a hard clay such as \u201cSuprex,\u201d the resulting vulcanized material would be too hard and would have a high compression [set] since such hard clay acts to reinforce the material. The calcined clay filler, such as \u201cWhitetex\u201d acts to give a resilient product which does not assume a compression set. * * *\nThe claims were rejected on the following prior art:\nPetze, 2.794,792, June 4, 1957.\nAllen, 2,865,777, December 23, 1958.\nThere was also a rejection for undue breadth.\nUndue Breadth\nThe Board upheld the examiner\u2019s rejection of all claims reciting \u201chigh styrene resin\u201d as \u201cindefinite or unduly broad,\u201d stating:\nWhat this expression is intended to mean is uncertain. As the Examiner has indicated, it would properly read, perhaps even primarily, upon polystyrene, although nothing in the specification would suggest the usefulness of polystyrene itself or any and all of the copolymers of styrene which may be said to have a high \u201cstyrene\u201d content. We do not understand that an appellant may secure a monopoly of broad and indefinite scope merely by utilizing broad and indefinite terminology in the claims and pointing in the specification to a restricted group of materials which have been found useful, and which are said to exemplify this broad uncertain group.\nIf only the term \u201chigh styrene resin\u201d were used in the specification with no additional disclosure, we would be inclined to agree with the board. However, recourse to appellant\u2019s specification indicates that the \u201chigh styrene resin\u201d is a resin such as PLIOLITE S-6B (an 85% styrene-15% butadiene copolymer). The application states that the high styrene resin reinforces the chloroprene polymer and adds hardness. Furthermore, there is a statement that the high styrene resin is a thermoplastic resin and is not vulcanized in the finished composition. Thus, we are apparently not faced with the problem of unpredictability due to chemical reactions. Several other high styrenes are named and there is a statement that any high styrene suitable for rubber compounding may be used.\nIn arguing that \u201chigh styrene resin\u201d does not properly define the invention, the solicitor has not mentioned the very complete definition of \u201chigh styrene resin\u201d in appellant\u2019s specification.\nYet, recourse to the specification is proper in interpreting claim language and an applicant is privileged to be his own lexicographer\u2014within limits. See In re Sus, 49 CCPA 1301, 306 F. 2d 494, 134 USPQ 301; In re Dean, 48 CCPA 1072, 291 F. 2d 947, 130 USPQ. 107 and Chicago Foundry Co. v. Burnside Foundry Co., 132 F. 2d 812, 56 USPQ 283 (7th Cir. 1943). The solicitor has suggested no reason, and we can think of none, why \u201chigh styrene resin\u2019\u2019 as defined by the specification would be so indefinite that one skilled in the art would be unable to practice the invention.\nThe main thrust of the solicitor\u2019s argument is directed to \u201cundue breadth or overclaiming,\u201d which he asserts is barred by 35 USC 112. In order to decide whether appellant has \u201coverclaimed,\u201d we must consider the invention as a whole and decide whether he has attempted to obtain protection beyond the reasonable scope of the invention he has disclosed. In making this determination, both appellant\u2019s disclosure and the prior art are pertinent. Both references relied upon by the board disclose rubbery compositions containing a resin. The Pebze specification states:\nResins which may be used, in addition to polystyrene and the resinous copolymers of styrene and butadiene shown in the examples, include phenol formaldehyde and resorcinol formaldehyde resins, resinous copolymers of butadiene and acry-lonitrile in which the acrylonitrile predominates, and acrylic acid copolymers.\nAllen also suggests a large number of resins which may be compounded -with a synthetic rubber. Appellant\u2019s specification taken with the prior art clearly indicates that the styrene resin component of his composition is conventional and that many equivalents are known to the art. Although some routine experimentation might be necessary to determine whether a particular styrene resin would perform adequately in the claimed composition, it would not be an unreasonable burden in view of the disclosure given by appellant of the considerations in choosing a resin and the indicated knowledge of the art. See Minerals Separation, Ltd. v. Hyde, 242 U.S. 261 (1916). In balancing appellant\u2019s right to full protection of his invention against the danger of granting claims which will result in a monopoly of greater scope than the disclosure, we here hold in favor of the appellant and reverse the rejection based on 35 USC 112.\nObviousness\nFor purposes of discussing obviousness under 35 USC 103, we will consider the claims in two groups: those reciting a finely divided clay and those reciting a mixture of hard clay and calcined clay in a specified ratio. In addition to the portion previously quoted, Petze discloses a specific rubbery composition containing 40.2 percent poly-chloroprene, 22.7 percent resinous copolymer of styrene and butadiene and 29.9 percent glass fiber flock. With regard to the ratio of poly-chloroprene to styrene resin, Petze states:\nThe reinforcing effects of the use of glass fiber in vulcanized elastomer-resin compounds are found in compounds in a wide range of hardness obtained by varying the ratio of the elastomeric component to the resinous component. The proportions of the elastomer to the resin considered to be within the scope of this invention can vary from 15 to 400 parts by weight of the elastomer to 100 parts of resin.\nIt is noted that the claims calling for 25 parts of styrene resin are at the outer limit of the Petze range and those specifying 15 parts are outside the range. However, we do not find persuasive appellant\u2019s arguments that his product containing a different ratio of elastomer to resin is unobvious. Indeed, in view of the fact that we agreed with appellant\u2019s arguments that the art would know what kind of \u201chigh styrene resin\u201d to use in the composition, we think it would be inconsistent to hold that a composition having a slightly varying percentage of \u201chigh styrene resin\u201d is unobvious.\nWith regard to the filler material in the rubbery compositions, Petze discloses:\nIt has also been known that the properties of such compounds can be varied and economy effected through the use of clay, carbon black and similar fillers. It is, however, believed novel to utilize glass fibers in rubber-resin compositions with peculiarly useful enhancement of their properties over anything previously attainable.\n* * * * * * *\nWhile it is possible to obtain by the proper selection of the proportions of elasto-mer, resin and the usual particulate filler, such as clay * * *.\nAlthough Petze is directed to the use of glass fiber filler for desired results, the disclosure suggests that the use of clay as an alternative filler was known. We thus agree with the board as to the rejection of claims 1, 3, 13 and 14. Claim 5 calls for a mixture of hard and calcined clay but does not specify the amounts, and thus would not appear to be distinguishable from only one clay. Claims 19, 20, 21, 23 and 24 differ in that they are directed to a \u201cmolded and vulcanized article.\u201d Claims 21 and 24 call for the presence of an accelerator, a vulcanizing agent and an anti-oxidant. We do not consider that these recitations render the claims unobvious over Petze which also discloses molding and vulcanizing compositions containing an accelerator, a vulcanizing agent and an anti-oxidant. Claim 20 specifies that the article have a \u201ccompression set of no greater than 70% after subjecttion to 30% compression at a temperature of 300\u00b0 F. for 70 hours.\u201d While we recognize that property to be the desirable result appellant claims to have achieved, we also note that he stated \u201cif the mineral filler were to be composed wholly or substantially wholly of a hard clay * * *, the resulting vulcanized material would be too hard and would have a high compression * * *.\" We thus feel that little weight should be given the recitation in the claim.\nThe remaining claims, 6, 7, 9, 22, 26, 29 and 33, all specify at least 20 to 40 parts of both calcined and hard clay. Of these claims, only claims 9,29 and 33 were rejected on prior art. Claim 9 is drawn to the same subject matter as other product claims found allowable. The solicitor admits that it should be allowed, and we agree. Claims 29 and 33 are process claims comprising the steps of forming the composition, molding and vulcanizing. We agree with the board that the steps of forming a rubbery composition, molding and vulcanizing are old. Although the process claims in issue here specify a composition, found by the board to be unobvious, upon which the process is carried out, we feel that the process itself is obvious.\nFor the above reasons, we affirm the board\u2019s rejection of claims, 1, 3, 5, 13, 14, 19, 20, 21, 23, 24, 29 and 33, and reverse the rejection of claims 6, 7, 9, 22 and 26.\nThe decision is modified.\nSerial No. 733,822, filed May 8, 1958, for \u201cHigh Temperature Resistant Rnbberlike Composition. \u201d",
+        "type": "majority",
+        "author": "Almond, Judge,"
+      }
+    ],
+    "attorneys": [
+      "John L. Seymour for appellant.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 578; 146 USPQ 69\nIn re John F. Corr\n(No. 7416)\nUnited States Court of Customs and Patent Appeals,\nJune 24, 1965\nJohn L. Seymour for appellant.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument May 5, 1965 by Mr. Seymour and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1505-01",
+  "first_page_order": 829,
+  "last_page_order": 833
+}

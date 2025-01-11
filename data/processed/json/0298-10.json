@@ -1,0 +1,62 @@
+{
+  "id": 12485565,
+  "name": "State v. Nicole Guyette",
+  "name_abbreviation": "State v. Guyette",
+  "decision_date": "2016-06-24",
+  "docket_number": "NOS. C-961 SEPT. TERM 2015, 077196",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 123,
+    "sha256": "64333496eac9852eb5ee314ebdc8b87d1f9e7190f39fde967556e645b28538fb",
+    "simhash": "1:10de5695584f2fb6",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nNicole Guyette"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nNicole Guyette\nNOS. C-961 SEPT. TERM 2015, 077196\nSupreme Court of New Jersey\nJune 24, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-10",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

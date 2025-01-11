@@ -1,0 +1,58 @@
+{
+  "id": 12485670,
+  "name": "Commonwealth v. Akeem Willie",
+  "name_abbreviation": "Commonwealth v. Willie",
+  "decision_date": "2016-06-16",
+  "docket_number": "NO. 66 WAL 2016",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "6d82e0011b4dc80808e11f562ed7969cefb4a9ea13be1433f5e8b0abd925b6b0",
+    "simhash": "1:d58ac25610200401",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAkeem Willie"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAkeem Willie\nNO. 66 WAL 2016\nSupreme Court of Pennsylvania\nJune 16, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0481-16",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

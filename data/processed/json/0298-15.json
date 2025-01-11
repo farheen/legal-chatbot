@@ -1,0 +1,62 @@
+{
+  "id": 12485570,
+  "name": "State v. Dennis Pryslak",
+  "name_abbreviation": "State v. Pryslak",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-934 SEPT. TERM 2015, 077440",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 123,
+    "sha256": "757f9505388675d8be3ce4a6fec6c2ba35af29882b80305e66290d0e8004a296",
+    "simhash": "1:30ec1406ba1eadbc",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nDennis Pryslak"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nDennis Pryslak\nNOS. C-934 SEPT. TERM 2015, 077440\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-15",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

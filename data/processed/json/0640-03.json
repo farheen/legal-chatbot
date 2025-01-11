@@ -1,0 +1,92 @@
+{
+  "id": 8355123,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore SANTANA, Respondent",
+  "name_abbreviation": "Commonwealth v. Santana",
+  "decision_date": "2007-07-26",
+  "docket_number": "",
+  "first_page": "640",
+  "last_page": "641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 640"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "912 A.2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3852251,
+        8440436
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0188-01",
+        "/a2d/912/0259-01"
+      ]
+    },
+    {
+      "cite": "590 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3852251
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/590/0188-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 489,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20288151934726698
+    },
+    "sha256": "ec220df7a92e7ae907d7b51bb1601b6ef2d8c2b9c61a6afe919a947fcd633eef",
+    "simhash": "1:3c3783fda18b8dfe",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore SANTANA, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is GRANTED. The Superior Court\u2019s decision is REVERSED based on the decision of this Court in Commonwealth of Pennsylvania, Department of Transportation, Bureau of Licensing v. Weaver, 590 Pa. 188, 912 A.2d 259 (2006). Further, the case is REMANDED to the Superior Court for resolution of any outstanding issues.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Salvatore SANTANA, Respondent.\nSupreme Court of Pennsylvania.\nJuly 26, 2007."
+  },
+  "file_name": "0640-03",
+  "first_page_order": 688,
+  "last_page_order": 689
+}

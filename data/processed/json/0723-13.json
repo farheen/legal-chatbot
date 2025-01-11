@@ -1,0 +1,58 @@
+{
+  "id": 12487066,
+  "name": "Commonwealth v. Robert Wayne Brown",
+  "name_abbreviation": "Commonwealth v. Brown",
+  "decision_date": "2016-08-23",
+  "docket_number": "NO. 16 MAL (2016)",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 234,
+    "sha256": "907255abbaad11448830dfd3e70bcce0839f07b1f5509d37ca1b41de1cd17b14",
+    "simhash": "1:bd36718fb10de8d4",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRobert Wayne Brown"
+    ],
+    "opinions": [
+      {
+        "text": "PETITION FOR ALLOWANCE OF APPEAL\nDenied.\n4 Justice WECHT did not participate in the consideration or decision of this matter.\n--------",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRobert Wayne Brown\nNO. 16 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 23, 2016"
+  },
+  "file_name": "0723-13",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

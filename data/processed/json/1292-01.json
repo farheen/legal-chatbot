@@ -1,0 +1,68 @@
+{
+  "id": 9188541,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. DeWayne JACKSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Jackson",
+  "decision_date": "2004-10-07",
+  "docket_number": "",
+  "first_page": "1292",
+  "last_page": "1292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "857 A.2d 1292"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 365,
+    "ocr_confidence": 0.646,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7627693433543257
+    },
+    "sha256": "fe55eeb376797779b27997e80eeb40e4b78696949623a57e19b60a5edea41012",
+    "simhash": "1:feb6ab2439a390fa",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T18:40:27.086909+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Chief Justice CAPPY and Justice NIGRO dissent."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. DeWayne JACKSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAppeal dismissed as having been improvidently granted.\nChief Justice CAPPY and Justice NIGRO dissent.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "William C. Kaczynski, Pittsburgh, for DeWayne Jackson.",
+      "Sandra Preuhs, Pittsburgh, for Com. of Pa."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. DeWayne JACKSON, Appellant.\nSupreme Court of Pennsylvania.\nArgued Sept. 22, 2004.\nDecided Oct. 7, 2004.\nWilliam C. Kaczynski, Pittsburgh, for DeWayne Jackson.\nSandra Preuhs, Pittsburgh, for Com. of Pa."
+  },
+  "file_name": "1292-01",
+  "first_page_order": 1322,
+  "last_page_order": 1322
+}

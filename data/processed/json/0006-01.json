@@ -1,0 +1,417 @@
+{
+  "id": 7356168,
+  "name": "Lawrence Oliver ELLIOTT, et ux., Appellants, v. HEALTHCARE CORPORATION, et al., Appellees",
+  "name_abbreviation": "Elliott v. Healthcare Corp.",
+  "decision_date": "1993-02-26",
+  "docket_number": "No. 91-CV-1275",
+  "first_page": "6",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "629 A.2d 6"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "534 A.2d 292",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7869203
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/534/0292-01"
+      ]
+    },
+    {
+      "cite": "365 A.2d 779",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8021592
+      ],
+      "pin_cites": [
+        {
+          "page": "784"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/365/0779-01"
+      ]
+    },
+    {
+      "cite": "705 F.2d 472",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1858707,
+        3642414
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "479"
+        },
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/705/0472-01",
+        "/us-app-dc/227/0167-01"
+      ]
+    },
+    {
+      "cite": "227 U.S.App.D.C. 167",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3642414
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/227/0167-01"
+      ]
+    },
+    {
+      "cite": "590 F.2d 1124",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3779394,
+        823207
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/192/0008-01",
+        "/f2d/590/1124-01"
+      ]
+    },
+    {
+      "cite": "192 U.S.App.D.C. 8",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3779394
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/192/0008-01"
+      ]
+    },
+    {
+      "cite": "572 A.2d 1062",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7387805
+      ],
+      "pin_cites": [
+        {
+          "page": "1064"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/572/1062-01"
+      ]
+    },
+    {
+      "cite": "670 F.Supp. 367",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3969824
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/670/0367-01"
+      ]
+    },
+    {
+      "cite": "415 A.2d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7975127
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1076"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/415/1070-01"
+      ]
+    },
+    {
+      "cite": "540 A.2d 733",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7900277
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/540/0733-01"
+      ]
+    },
+    {
+      "cite": "492 A.2d 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7918565
+      ],
+      "pin_cites": [
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/492/0580-01"
+      ]
+    },
+    {
+      "cite": "265 A.2d 302",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064960
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "303"
+        },
+        {
+          "page": "303"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/265/0302-01"
+      ]
+    },
+    {
+      "cite": "265 F. 873",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3944265
+      ],
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "876"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/265/0873-01"
+      ]
+    },
+    {
+      "cite": "49 App.D.C. 315",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "374 A.2d 284",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7992663
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "290"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/374/0284-01"
+      ]
+    },
+    {
+      "cite": "428 A.2d 831",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7998321
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "834"
+        },
+        {
+          "page": "833-35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/428/0831-01"
+      ]
+    },
+    {
+      "cite": "597 A.2d 28",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11934661
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "34"
+        },
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/0028-01"
+      ]
+    },
+    {
+      "cite": "496 A.2d 613",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11309582
+      ],
+      "pin_cites": [
+        {
+          "page": "616"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/496/0613-01"
+      ]
+    },
+    {
+      "cite": "565 A.2d 285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7348268
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/565/0285-01"
+      ]
+    },
+    {
+      "cite": "620 A.2d 265",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7353621
+      ],
+      "pin_cites": [
+        {
+          "page": "268-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/620/0265-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 720,
+    "char_count": 12348,
+    "ocr_confidence": 0.776,
+    "pagerank": {
+      "raw": 3.357458624104555e-07,
+      "percentile": 0.87508885653179
+    },
+    "sha256": "18ddd5c976832e5bfc338128242b42bfc017f49eb63944feb2c2f540403c83dc",
+    "simhash": "1:b0df87ac7154ef79",
+    "word_count": 1928
+  },
+  "last_updated": "2024-02-27T21:37:07.311454+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before ROGERS, Chief Judge, and STEADMAN and SULLIVAN, Associate Judges."
+    ],
+    "parties": [
+      "Lawrence Oliver ELLIOTT, et ux., Appellants, v. HEALTHCARE CORPORATION, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "SULLIVAN, Associate Judge:\nAppellants, Lawrence and Sarah Elliott, appeal from the grant of summary judgment in favor of appellees, Healthcare Inc. and Grant Park Dialysis Center. On appeal, appellants claim that there are genuine issues of material fact in dispute for each of their nine claims arising out of the termination of Lawrence Elliott's employment with the Grant Park Center. These claims are: breach of contract, breach of the covenant of good faith, abusive discharge, defamation, public disclosure of private facts, intentional infliction of emotional distress, negligent infliction of emotional distress, civil conspiracy, and loss of consortium. Substantially for the same reasons articulated by the trial court, we find that there are no genuine issues of material fact, and that appellees are entitled to judgment as a matter of law. Accordingly, we affirm.\nI.\nAppellee, Healthcare Corporation (\u201cHealthcare\u201d), a management corporation, is the financial administrator for the Grant Park Dialysis Center (\u201cthe Center\u201d). In May 1988, Cynthia Martin, Administrator for the Center, hired appellant, Lawrence Oliver Elliott (\u201cElliott\u201d) as Chief Technician. Elliott\u2019s employment was confirmed by a letter dated May 26, 1988, stating the hours and salary, which he signed. There was no written contract. Elliott\u2019s duties, as described in the Center\u2019s Personnel Manual, were to \u201c[pjerform preventive maintenance on all machines and ancillary equipment, including maintaining records\u201d and \u201c[rjepair or arrange for repair of defective equipment.\u201d\nAs a result of three shipments of defective dialysis machines from the Center to St. Louis, Missouri, and because of concerns about the equipment operation at the Center, Martin and Robert Falk, CEO of Healthcare, asked Jerry Polley, a Regional Technical Manager for Healthcare, to audit the machines at the Center. Polley\u2019s audit revealed that there was no isolation machine in operation, the backup machines were not properly maintained; the proper forms were not being used to substantiate preventive maintenance; and there were problems with the ordering of supplies. Polley concluded that Elliott had neglected his duties.\nMartin discussed the audit with Falk and determined that Elliott should be removed from his position. A meeting between Martin, Polley and Elliott was held on July 18, 1990, at which time the maintenance problems were explained to Elliott. Elliott was told he was being terminated, but he was given an opportunity to resign by the end of the day. When Elliott did not resign, he was terminated on July 20, 1990. Elliott\u2019s claim for unemployment compensation, filed on July 28, 1990, was opposed on August 3, 1990, by Healthcare and the Center who listed the reason for Elliott\u2019s discharge as \u201cgross negligence in [the] performance of duties that presented] a threat to patient [life].\u201d\nAppellants filed suit in the District of Columbia Superior Court on August 14, 1990. During discovery, the trial court granted appellees\u2019 motion for a protective order on the basis that appellants\u2019 third set of interrogatories and fourth request for production of documents did not support the claims in the second amended complaint. The trial court denied appellants\u2019 motion for a protective order, ordered appellants to answer appellees\u2019 second set of interrogatories and a second request for production of documents, dated March 25, 1991, and ordered appellants to pay $150.00 to appellees\u2019 counsel by May 31, 1991, for the filing of the motion. After discovery, the trial court, in an order dated October 24, 1991, granted appellees\u2019 motion for summary judgment and this appeal followed.\nII.\nWe agree with the trial court\u2019s finding that appellant Elliott did not have a written contract with the Center and was an at-will employee, subject to discharge for any or no reason, at the will of either party. See Smith v. Union Labor Life Ins. Co., 620 A.2d 265, 268-69 (D.C.1993); Sorrells v. Garfinckel\u2019s, Brooks Bros, Miller & Rhoads, Inc., 565 A.2d 285, 289 (D.C. 1989); Washington Welfare Ass\u2019n., Inc. v. Wheeler, 496 A.2d 613, 616 (D.C.1985).\nWe also agree with the trial court\u2019s finding that appellees did not breach the covenant of good faith. Elliott chose not to use the grievance procedure which the Personnel Manual established as a vehicle for addressing employee complaints. At a July 18, 1990 meeting with appellees, Elliott had an opportunity to respond to ap-pellees\u2019 oral evaluation of his job performance. The grievance procedure places the burden on the employee to file a complaint, but it does not require a written evaluation in order to institute proceedings.\nAppellants\u2019 claim of abusive discharge \u2014 that Elliott was actually fired because he reported maintenance deficiencies to Healthcare\u2019s managers, and that his firing was retaliatory, violative of public policy and abusive as a matter of law \u2014 fails because the District of Columbia does not recognize the tort of wrongful or abusive discharge of an employee at will, other than by a very narrow public policy exception not applicable in this case. See Adams v. George W. Cochran & Co., 597 A.2d 28, 34 (D.C.1991) (former employee may sue former employer for wrongful discharge based on employee\u2019s refusal to violate statute or municipal regulation); Ivy v. Army Times Publishing Co., 428 A.2d 831, 834 (D.C.1981) (en banc).\nFourth, appellants\u2019 claim of defamation fails because the communications at the July 18, 1990, meeting between Elliott, Martin and Polley were qualifiedly privileged and, thus, not defamatory. Polley, as Chief Technician for Renal Dialysis of St. Louis and a technical consultant for Healthcare Corporation, was either an employee or agent of appellees. All three parties to the conversation had \u201ca common interest, and the communication [of the results of Polley\u2019s audit of Elliott\u2019s work was] of a kind reasonably calculated to protect or further it.\u201d PROSSER On Torts \u00a7 789 (4th Ed.1940); see also Alfred A. Altimont, Inc. v. Chatelain, Samperton & Nolan, 374 A.2d 284, 290 (D.C.1977); Globe Furniture Co. v. Wright, 49 App.D.C. 315, 318, 265 F. 873, 876 (1920). This same qualified privilege attached to the conversations between Martin and Falk.\nThe claims of defamation by publication to the Office of Unemployment Services and to prospective employers also fail. As a matter of law, a report to the Unemployment Compensation Board \u201cis absolutely privileged.\u201d Goggins v. Hoddes, 265 A.2d 302, 303 (D.C.1970). Moreover, there is no support in the record for appellants\u2019 claim that appellees \u201cconveyed defamatory information to prospective employers.\u201d\nFifth, appellants\u2019 claim of public disclosure of private facts is without merit. Communications between appellees and Polley and appellees and the Unemployment Compensation Board were privileged. See Altimont, supra, 374 A.2d at 290; Goggins, supra, 265 A.2d at 303. Moreover, appellants failed to show there was any publicity of private facts, i.e., \u201ccommunication which reaches, or is sure to reach, the public.\u201d Restatement (second) of Torts \u00a7 652D (Comment a) (1977); Vassiliades v. Garfinckel\u2019s, Brooks Bros., 492 A.2d 580, 588 (D.C.1985).\nSixth, appellants\u2019 claim of intentional infliction of emotional distress fails because appellees\u2019 conduct was, as a matter of law, not \u201cextreme and outrageous.\u201d See, e.g., Press v. Howard Univ., 540 A.2d 733 (D.C.1988); Waldon v. Covington, 415 A.2d 1070, 1076 (D.C.1980); Schoen v. Consumers United Group, Inc., 670 F.Supp. 367 (D.D.C.1986); Restatement (Second) of Torts \u00a7 49 (Comment d) (1965). Mere discharge of an employee is not \u201cconduct that goes beyond all possible bounds of decency and [is] regarded as atrocious and utterly intolerable in a civilized community.\u201d Schoen, supra, 670 F.Supp. at 379. Appellants have failed to show more.\nSeventh, appellants\u2019 claim of negligent infliction of emotional distress on behalf of Mrs. Elliott must fail because there exists no genuine issue of material fact that she was placed in a zone of physical danger, and, as a result thereof, feared for her own safety because of appellees\u2019 negligence. See Williams v. Baker, 572 A.2d 1062, 1064 (D.C.1990) (en banc). Accordingly, neither the alleged aggravation of Mrs. Elliott\u2019s asthmatic condition nor any financial hardship she suffered constitutes a cause of action for negligent infliction of emotional distress.\nAppellants\u2019 claim of civil conspiracy is also devoid of merit. Although \u201cthere is no recognized independent tort action for civil conspiracy in the District of Columbia,\u201d see Waldon, supra, 415 A.2d at 1074 n. 14 (D.C.1980) (emphasis added) (citing Lamont v. Haig, 192 U.S.App.D.C. 8, 20 n. 73, 590 F.2d 1124, 1136 n. 73 (1978), \u201c[district law acknowledges the concept of civil conspiracy.\u201d Halberstam v. Welch, 227 U.S.App.D.C. 167, 174, 705 F.2d 472, 479 (1983)). As this court has recognized:\nIf [the plaintiff] can establish that [one defendant] participated in or induced the alleged wrongful actions of [a second defendant] pursuant to an agreement, then [the first defendant] is liable as a conspirator for the damages proximately caused by these wrongs.\nInternational Underwriters, Inc. v. Boyle, 365 A.2d 779, 784 (D.C.1976) (emphasis supplied). On the record in the present case, however, which is devoid of any evidence to establish vicarious liability for any underlying tort, we agree with the trial court that appellees were entitled to summary judgment on this claim. See id.; Halberstam, supra, 221 U.S.App.D.C. at 174, 705 F.2d at 479.\nFinally, the claim of loss of consortium fails because it is parasitic to the other claims for which summary judgment was properly granted.\nIII.\nAppellants also claim that the trial court abused its discretion in ordering them to pay $150.00 to appellees\u2019 counsel for filing a motion for a protective order and in denying their own motion for a protective order. Appellants have not designated this order for the record; consequently, it is not properly before this court on appeal. See Jonathan Woodner Co. v. Adams, 534 A.2d 292 (D.C.1987) (\u201c[a]ppellant has the burden of demonstrating trial court error and must provide the appellate court with a record sufficient to show affirmatively that error occurred\u201d) (citations omitted).\nAccordingly, the judgment appealed from hereby is\nAffirmed.\n. Appellees\u2019 first complaint alleged defamation, intentional and negligent infliction of emotional distress, and civil conspiracy. The complaint was amended three times: on September 1990 to include abusive discharge; in February 1991 to add Sarah Elliott's claim of negligent infliction of emotional distress; and on March 1991 to add breach of contract, breach of the covenant of good faith and invasion of privacy.\n. At the time Elliott was hired, the Center had in effect a personnel manual which provided that:\nEmployees are expected to conduct themselves in such a way that termination of their employment is necessarily indefinite[,] for the employe is free to leave at any time for any reason and the company is free to terminate an amployee [sic] at any time for any reason.\nPersonnel Manual at-12.\n. Appellants base this claim on the following language in the personnel manual:\n[W]e intend to be fair to all employees. If dismissed or suspended, employees may use the grievance procedure if they feel they have been falsely accused of breaking the rules.\nPersonnel Manual at 12.\n. At oral argument, appellants made clear that they were not seeking relief under this claim on any theory apart from the wrongfulness of the discharge.\n. Broad \"public policy\u201d exceptions to the general rule of at-will employment have been urged upon this court before, and rejected by this court, id. 428 A.2d at 833-35, until the narrow exception in Adams, supra, 597 A.2d at 34.",
+        "type": "majority",
+        "author": "SULLIVAN, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Darlene Wright Powell, Greenbelt, MD, for appellants.",
+      "Kelly A. Saunders, Washington, DC, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Lawrence Oliver ELLIOTT, et ux., Appellants, v. HEALTHCARE CORPORATION, et al., Appellees.\nNo. 91-CV-1275.\nDistrict of Columbia Court of Appeals.\nArgued Dec. 10, 1992.\nDecided Feb. 26, 1993.\nDarlene Wright Powell, Greenbelt, MD, for appellants.\nKelly A. Saunders, Washington, DC, for appellees.\nBefore ROGERS, Chief Judge, and STEADMAN and SULLIVAN, Associate Judges.\nThis decision was originally released as a Memorandum Opinion and Judgment on February 26, 1993. It.is now being published pursuant to appellee\u2019s motion, with minor revisions."
+  },
+  "file_name": "0006-01",
+  "first_page_order": 56,
+  "last_page_order": 60
+}

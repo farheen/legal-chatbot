@@ -1,0 +1,59 @@
+{
+  "id": 6083100,
+  "name": "In re Albert E. Greene",
+  "name_abbreviation": "In re Greene",
+  "decision_date": "1963-04-18",
+  "docket_number": "No. 7155",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 68,
+    "ocr_confidence": 0.444,
+    "sha256": "ef2d8f47db7484eae6e8f28216a25391fec01e584a81ad54f594ce6102ba148f",
+    "simhash": "1:8f13340f91f2fb1d",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Albert E. Greene"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in direct reduction.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Albert E. Greene\n(No. 7155)."
+  },
+  "file_name": "1588-09",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

@@ -1,0 +1,81 @@
+{
+  "id": 6811351,
+  "name": "James A. Marot vs. Robert W. McGuire, Jr., and another",
+  "name_abbreviation": "Marot v. McGuire",
+  "decision_date": "1995-03-13",
+  "docket_number": "",
+  "first_page": "33",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1995 Mass. App. Div. 33"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass. App. Div.",
+    "id": 15177,
+    "name": "Massachusetts Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "1994 Mass. App. Div. 231",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Div.",
+      "case_ids": [
+        6814415
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-div-annual/1994/0231-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 193,
+    "char_count": 2449,
+    "ocr_confidence": 0.869,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18291800023862395
+    },
+    "sha256": "ef9be4c8fa4aaf55d3d918cb742e9b4cf48fcbe5df49c92f673cb28967a518d7",
+    "simhash": "1:8f2a304d58a48172",
+    "word_count": 398
+  },
+  "last_updated": "2024-02-27T22:15:49.746046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Martin & Welsh, JJ."
+    ],
+    "parties": [
+      "James A. Marot vs. Robert W. McGuire, Jr., and another"
+    ],
+    "opinions": [
+      {
+        "text": "Welsh, J.\nThis case was briefed and argued before the Appellate Division on defendants\u2019 petition to establish a report, resulting in a decision and order dismissing the defendants\u2019 draft report. That decision was reported in 1994 Mass. App. Div. 231. Contemporaneously transmitted to this Appellate Division was a document styled \u201cdraft report\u201d which neither bore the signatures of the judge purporting to report the matter, nor did the docket sheet state that the judge had signed the report. Since it has now been determined that the judge did in fact sign the report and since the issue was briefed, we now address the question reported.\nIt is unnecessary to rehearse at length the prior proceedings. This was a building contract case in which the builder brought an action against the owners for an allegedly due balance. After trial, the court awarded the plaintiff the sum of $50,000. The clerk\u2019s office calculated prejudgment interest of $15,783.33 plus costs. The defendants filed a motion to alter or amend judgment, seeking to reduce the judgment by an amount corresponding to the prejudgment interest Motion was denied by the court. The court on its own motion revised the judgment by reducing the amount awarded to $50,000 plus costs. Plaintiff then moved to alter or amend judgment by increasing it so as to include interest on the $50,000. That motion was denied, and the court made a memorandum to the effect that it was the court\u2019s intent that the $50,000 award included prejudgment interest.\nThere was no prejudicial error. While arguably formally the better practice is to determine the damages exclusive of prejudgment interest, the judge manifested his intention to include the prejudgment interest in his total award. The judge had the authority to correct a clerical error in the original judgment entered so as to conform to his original finding which was to include prejudgment interest. Authorities cited in support of the proposition that prejudgment interest is a matter of right and not discretionary are inapposite because the judge did not act so as to deprive the plaintiff of prejudgment interest.\nThere being no prejudicial error, the report is dismissed.\nSo ordered.",
+        "type": "majority",
+        "author": "Welsh, J."
+      }
+    ],
+    "attorneys": [
+      "John ED. Jacobi, III, for the plaintiff.",
+      "Douglas A. Hale for the defendants."
+    ],
+    "corrections": "",
+    "head_matter": "James A. Marot vs. Robert W. McGuire, Jr., and another\nSouthern District\nMarch 13, 1995.\nPresent: Martin & Welsh, JJ.\nJohn ED. Jacobi, III, for the plaintiff.\nDouglas A. Hale for the defendants.\nDoing business as Oakhart Company.\nDiane H. McGuire."
+  },
+  "file_name": "0033-01",
+  "first_page_order": 39,
+  "last_page_order": 39
+}

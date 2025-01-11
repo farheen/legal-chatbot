@@ -1,0 +1,58 @@
+{
+  "id": 12488436,
+  "name": "Com. v. Everett, S.",
+  "name_abbreviation": "Com v. Everett",
+  "decision_date": "2016-05-13",
+  "docket_number": "2700 EDA 2014",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "7e79ebee8e4cbefa92fa73454d569f442e01718a6ed8293a9b76eb164c7e9c7f",
+    "simhash": "1:a51936fd5ea18e95",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nEverett, S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nEverett, S.\n2700 EDA 2014\nSuperior Court of Pennsylvania.\nMay 13, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1146-05",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7956109,
+  "name": "Petition of Charles E. GOLDKAMP",
+  "name_abbreviation": "Petition of Goldkamp",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 80-72-M.P.",
+  "first_page": "746",
+  "last_page": "747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 425,
+    "ocr_confidence": 0.8,
+    "sha256": "0ccc193cec19d5ccd74bbeb993c1513accd04b59f1ec9138c913e1822c79b24e",
+    "simhash": "1:39282775b9f1bc75",
+    "word_count": 66
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Petition of Charles E. GOLDKAMP."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion to remand this matter to the Rhode Island Board of Bar Examiners for further hearings is granted. Consideration of the petition for review of the Board\u2019s decision is hereby deferred.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Perry Shatkin, Providence, for petitioner.",
+      "Richard A. Licht, Providence, for Rhode Island Board of Bar Examiners, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Petition of Charles E. GOLDKAMP.\nNo. 80-72-M.P.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nPerry Shatkin, Providence, for petitioner.\nRichard A. Licht, Providence, for Rhode Island Board of Bar Examiners, for respondent."
+  },
+  "file_name": "0746-04",
+  "first_page_order": 800,
+  "last_page_order": 801
+}

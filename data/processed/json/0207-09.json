@@ -1,0 +1,58 @@
+{
+  "id": 12486725,
+  "name": "Com. v. A. Coyle",
+  "name_abbreviation": "Com. v. Coyle",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1486 MDA 2014",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 101,
+    "sha256": "d9928efc7208b23d37f0e83c9232caa42a23bbb3ea16a86a0096069a13a4ac3b",
+    "simhash": "1:8403cfedc60bde91",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Coyle"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Coyle\nNO. 1486 MDA 2014\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAppeal dismissed."
+  },
+  "file_name": "0207-09",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

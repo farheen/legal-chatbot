@@ -1,0 +1,58 @@
+{
+  "id": 12487083,
+  "name": "Commonwealth v. Amina Johnson",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2016-08-23",
+  "docket_number": "NO. 158 EAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "4b21034cc3c9a80d2d7614996951a9a449a89222dac8e0f02266c9b5077fa463",
+    "simhash": "1:f42e59bfdaa668aa",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAmina Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAmina Johnson\nNO. 158 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 23, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-10",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

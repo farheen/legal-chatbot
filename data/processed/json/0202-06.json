@@ -1,0 +1,58 @@
+{
+  "id": 12486645,
+  "name": "Com. v. J. Bridgeman",
+  "name_abbreviation": "Com. v. Bridgeman",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 1431 EDA 2015",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "8d812922b0e1b55a5da2108e2049ef1e1ecbc71445028991c53e198a31ee4efd",
+    "simhash": "1:b7d04406c16a59c1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Bridgeman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Bridgeman\nNO. 1431 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed."
+  },
+  "file_name": "0202-06",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

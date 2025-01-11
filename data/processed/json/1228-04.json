@@ -1,0 +1,59 @@
+{
+  "id": 6083119,
+  "name": "In re Back",
+  "name_abbreviation": "In re Back",
+  "decision_date": "1933-04-12",
+  "docket_number": "No. 3206",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 51,
+    "ocr_confidence": 0.542,
+    "sha256": "c6fc2440bbf9f6242cc60b502fef3156c4e8787c763b493cef4759ce342f78a4",
+    "simhash": "1:93418c6c69f22056",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Back."
+    ],
+    "opinions": [
+      {
+        "text": "Design for fountain pen.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Back.\n(No. 3206). \u2014"
+  },
+  "file_name": "1228-04",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12484985,
+  "name": "Commonwealth v. Shawn Wilmer",
+  "name_abbreviation": "Commonwealth v. Wilmer",
+  "decision_date": "2016-04-26",
+  "docket_number": "NO. 10 WAL 2016",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "3a918bef3b7ea37f97a2f3fcea25205eb05a44dd10e1852b57ccdc332eadcc1d",
+    "simhash": "1:640f46e618a129b0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nShawn Wilmer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nShawn Wilmer\nNO. 10 WAL 2016\nSupreme Court of Pennsylvania\nApril 26, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0004-13",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

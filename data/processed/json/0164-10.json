@@ -1,0 +1,58 @@
+{
+  "id": 12486954,
+  "name": "Commonwealth v. Justin Patterson",
+  "name_abbreviation": "Commonwealth v. Patterson",
+  "decision_date": "2016-07-27",
+  "docket_number": "NO. 143 EAL (2016)",
+  "first_page": "164",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 232,
+    "sha256": "62d1471f8ce29142534c91845b91cad5f9c122de013a2a8b0ed485ce943576d1",
+    "simhash": "1:bcb73e0eab4739f4",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJustin Patterson"
+    ],
+    "opinions": [
+      {
+        "text": "PETITION FOR ALLOWANCE OF APPEAL\nDenied.\n36 Justice MUNDY did not participate in the consideration or decision of this matter.\n--------",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJustin Patterson\nNO. 143 EAL (2016)\nSupreme Court of Pennsylvania\nJuly 27, 2016"
+  },
+  "file_name": "0164-10",
+  "first_page_order": 164,
+  "last_page_order": 164
+}

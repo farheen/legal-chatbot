@@ -1,0 +1,58 @@
+{
+  "id": 12485761,
+  "name": "Com. v. A. Akan",
+  "name_abbreviation": "Com. v. Akan",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 523 WDA 2015",
+  "first_page": "583",
+  "last_page": "583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "e236c72743f162e6f1a0929d4c109709e8b27b763f6dbc45872bcb23b240fd45",
+    "simhash": "1:39084ae800cb8d8d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Akan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Akan\nNO. 523 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed.\nPetition for reargument denied May 4, 2016."
+  },
+  "file_name": "0583-15",
+  "first_page_order": 583,
+  "last_page_order": 583
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12489156,
+  "name": "Maria DELGADO v. Jose DELGADO",
+  "name_abbreviation": "Delgado v. Delgado",
+  "decision_date": "2016-11-16",
+  "docket_number": "No. 38014",
+  "first_page": "329",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 329"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 Conn. App. 907"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 186,
+    "sha256": "c6cd9a4a80ddfdddebc346eea0505166b2cb27da11d498af5b162aab2ccb5aa9",
+    "simhash": "1:1303590d02f6a6d1",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.012355+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maria DELGADO\nv.\nJose DELGADO"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Maria DELGADO\nv.\nJose DELGADO\nNo. 38014\nAppellate Court of Connecticut.\nSubmitted on briefs November 16, 2016\nOfficially released December 13, 2016"
+  },
+  "file_name": "0329-03",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

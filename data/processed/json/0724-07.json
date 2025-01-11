@@ -1,0 +1,58 @@
+{
+  "id": 12487102,
+  "name": "Commonwealth v. Tarohn Jaynes",
+  "name_abbreviation": "Commonwealth v. Jaynes",
+  "decision_date": "2016-08-25",
+  "docket_number": "NO. 129 EAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "3f688ebfba2e031ab59f338ffb99a20b3e4cac196897d433e47c3254403761bd",
+    "simhash": "1:bc8c5da112ac8ab5",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nTarohn Jaynes"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nTarohn Jaynes\nNO. 129 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 25, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-07",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

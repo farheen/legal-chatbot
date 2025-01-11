@@ -1,0 +1,785 @@
+{
+  "id": 8456004,
+  "name": "Garth WOMER, Appellee, v. Jan K. HILLIKER, M.D., Appellant",
+  "name_abbreviation": "Womer v. Hilliker",
+  "decision_date": "2006-10-17",
+  "docket_number": "No. 25 MAP 2005",
+  "first_page": "269",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "908 A.2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "877 A.2d 1275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8959936
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/877/1275-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 758",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8998578,
+        2473338
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0758-01",
+        "/pa/585/0366-01"
+      ]
+    },
+    {
+      "cite": "839 A.2d 1038",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9061706,
+        16775
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1046"
+        },
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/839/1038-01",
+        "/pa/576/0546-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16775
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0546-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825883
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1387"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/526/0617-01"
+      ]
+    },
+    {
+      "cite": "862 A.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9161878
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/862/0591-01"
+      ]
+    },
+    {
+      "cite": "64 Pa. D. & C.4th 449",
+      "category": "reporters:state",
+      "reporter": "Pa. D. & C.4th",
+      "case_ids": [
+        695972
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-d-c4th/64/0449-01"
+      ]
+    },
+    {
+      "cite": "180 A.2d 63",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "65"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "407 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1307342
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/407/0169-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 341",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839719
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0341-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817474
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis in original"
+        },
+        {
+          "page": "806",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0105-01"
+      ]
+    },
+    {
+      "cite": "782 A.2d 996",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        706218,
+        9473227,
+        706327,
+        706237,
+        9473214,
+        9473247
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "1001",
+          "parenthetical": "quoting Kurtas v. Kurtas, 521 Pa. 105, 555 A.2d 804, 806 (1989) (emphasis in original)"
+        },
+        {
+          "page": "998-1000"
+        },
+        {
+          "page": "1000-01"
+        },
+        {
+          "page": "1001"
+        },
+        {
+          "page": "1001"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0593-01",
+        "/a2d/782/0996-02",
+        "/pa/566/0593-02",
+        "/pa/566/0592-01",
+        "/a2d/782/0996-01",
+        "/a2d/782/0996-03"
+      ]
+    },
+    {
+      "cite": "566 Pa. 593",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706218,
+        706327
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Kurtas v. Kurtas, 521 Pa. 105, 555 A.2d 804, 806 (1989) (emphasis in original)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0593-01",
+        "/pa/566/0593-02"
+      ]
+    },
+    {
+      "cite": "479 Pa. 175",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1742144
+      ],
+      "weight": 5,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "1281"
+        },
+        {
+          "page": "1281"
+        },
+        {
+          "page": "1280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/479/0175-01"
+      ]
+    },
+    {
+      "cite": "46 A.2d 321",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "323"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "353 Pa. 631",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465733
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/353/0631-01"
+      ]
+    },
+    {
+      "cite": "869 A.2d 482",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        650278,
+        650280,
+        9021097,
+        650285,
+        9021139,
+        9021178
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0092-02",
+        "/pa/582/0093-01",
+        "/a2d/869/0482-01",
+        "/pa/582/0092-01",
+        "/a2d/869/0482-02",
+        "/a2d/869/0482-03"
+      ]
+    },
+    {
+      "cite": "582 Pa. 92",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        650285,
+        650278
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/582/0092-01",
+        "/pa/582/0092-02"
+      ]
+    },
+    {
+      "cite": "258 Pa.Super. 512",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        104499
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Snap judgments taken without notice are strongly disfavored by the courts\""
+        },
+        {
+          "page": "477",
+          "parenthetical": "\"Snap judgments taken without notice are strongly disfavored by the courts\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/258/0512-01"
+      ]
+    },
+    {
+      "cite": "428 Pa.Super. 460",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        933144
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that snap judgments entered without notice are disfavored"
+        },
+        {
+          "page": "624",
+          "parenthetical": "noting that snap judgments entered without notice are disfavored"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/428/0460-01"
+      ]
+    },
+    {
+      "cite": "130 A.2d 452",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding the striking of judgments that bore the stigma of being \"snap\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "388 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1272559
+      ],
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding the striking of judgments that bore the stigma of being \"snap\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/388/0169-01"
+      ]
+    },
+    {
+      "cite": "264 A.2d 623",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "627",
+          "parenthetical": "\"No one is happy with 'snap' judgments, probably including the lawyer who takes one\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "438 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1929292
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "\"No one is happy with 'snap' judgments, probably including the lawyer who takes one\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/438/0364-01"
+      ]
+    },
+    {
+      "cite": "491 Pa. 354",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1765621
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e note that snap judgments taken without notice are strongly disfavored by the courts\""
+        },
+        {
+          "page": "177-78",
+          "parenthetical": "\"[W]e note that snap judgments taken without notice are strongly disfavored by the courts\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/491/0354-01"
+      ]
+    },
+    {
+      "cite": "881 A.2d 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8923952
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "866"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/881/0861-01"
+      ]
+    },
+    {
+      "cite": "274 Pa.Super. 34",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        138840
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "reversing the entry of a default judgment due to an attorney's mistakes, stating that \"errors of counsel which indicate an oversight rather than a deliberate decision not to defend, have been held to constitute sufficient legal justification to open a default judgment\""
+        },
+        {
+          "parenthetical": "reversing the entry of a default judgment due to an attorney's mistakes, stating that \"errors of counsel which indicate an oversight rather than a deliberate decision not to defend, have been held to constitute sufficient legal justification to open a default judgment\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/274/0034-01"
+      ]
+    },
+    {
+      "cite": "327 A.2d 151",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "opinion_index": 1
+    },
+    {
+      "cite": "230 Pa.Super. 545",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        814774
+      ],
+      "year": 1974,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/230/0545-01"
+      ]
+    },
+    {
+      "cite": "277 A.2d 144",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "147",
+          "parenthetical": "considering the equities and viewing the totality of the circumstances to hold that justice demanded opening the default judgment entered at 8:39 on the morning of the twenty-first day"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "443 Pa. 105",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1936901
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "considering the equities and viewing the totality of the circumstances to hold that justice demanded opening the default judgment entered at 8:39 on the morning of the twenty-first day"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/443/0105-01"
+      ]
+    },
+    {
+      "cite": "346 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "opinion_index": 1
+    },
+    {
+      "cite": "287 Pa.Super. 99",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "year": 1975,
+      "opinion_index": 1
+    },
+    {
+      "cite": "244 Pa.Super. 441",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        825129
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/244/0441-01"
+      ]
+    },
+    {
+      "cite": "218 A.2d 298",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "299"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "420 Pa. 584",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1898616
+      ],
+      "year": 1966,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/420/0584-01"
+      ]
+    },
+    {
+      "cite": "77 A.2d 399",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 1
+    },
+    {
+      "cite": "366 Pa. 211",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        8845338
+      ],
+      "year": 1951,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/366/0211-01"
+      ]
+    },
+    {
+      "cite": "522 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1818951
+      ],
+      "weight": 7,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1358"
+        },
+        {
+          "page": "1360"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/522/0167-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 118",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767186
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/492/0118-01"
+      ]
+    },
+    {
+      "cite": "877 A.2d 1275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8959936
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/877/1275-01"
+      ]
+    },
+    {
+      "cite": "526 Pa. 617",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1825883
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1387"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/526/0617-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1499,
+    "char_count": 47937,
+    "ocr_confidence": 0.669,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20427947729771118
+    },
+    "sha256": "99f580f6fbb82e7e8ccbf6338e3a31a2acfc679dc981292a2ee867705559e56a",
+    "simhash": "1:95a3b068cbab15e8",
+    "word_count": 7987
+  },
+  "last_updated": "2024-02-27T16:44:58.609733+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CAPPY, C.J., and CASTILLE, NEWMAN, SAYLOR, EAKIN and BAER, JJ.",
+      "Justice NEWMAN and Justice SAYLOR and EAKIN join in this opinion.",
+      "Former Justice NIGRO did not participate in the consideration or decision of this matter.",
+      "Justice BAER files a dissenting opinion in which Justice CASTILLE joins.",
+      "Justice CASTILLE joins this dissenting opinion."
+    ],
+    "parties": [
+      "Garth WOMER, Appellee, v. Jan K. HILLIKER, M.D., Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nChief Justice CAPPY.\nThis appeal concerns Pa.R.C.P. No. 1042.3, which requires that a certificate of merit (\u201cCOM\u201d) be filed in any professional liability action in which it is alleged that a licensed professional deviated from the acceptable standard of care. Presently, we consider whether the Superior Court correctly reversed the trial court\u2019s order denying Appellee Garth Womer (\u201cWomer\u201d) relief from the judgment of non pros that was entered against him due to his failure to file a COM. For all of the reasons that follow, the order of the Superior Court is reversed.\nThe relevant facts and procedural history are straightforward. On June 25, 2003, Womer commenced a civil action against Appellant Jan K. Hilliker, M.D. (\u201cHilliker\u201d) by filing a praecipe for issuance of a writ of summons. On August 18, 2008, Womer filed a two-count complaint against Hilliker for negligence and lack of informed consent. In his complaint, Womer alleged that Hilliker is a practicing optho-mologist whose services were engaged to perform corrective surgery on Womer\u2019s eyes; that Hilliker performed the surgery on June 7, 2001; that Hilliker failed to warn Womer of the risks, use the proper procedure, take the proper precautions, and treat the surgery\u2019s complications; and that as a result of Hilliker\u2019s actions, Womer suffers from permanent visual limitations, which have caused him to sustain a variety of losses. Womer did not file a COM with his complaint nor did he file a COM within sixty days of its filing, as is required under Pa.R.C.P. No. 1042.3(a). In addition, Womer did not file a motion to extend the time for the filing of a COM, as is allowed under Pa.R.C.P. No. 1042.3(d).\nOn October 20, 2003, Hilliker filed a Praecipe for Entry of Judgment of Non Pros Pursuant to Pa.R.C.P. No. 1042.6 for failure to file a COM. On that same day, the Prothonotary entered a judgment of non pros in Hilliker\u2019s favor.\nOn October 22, 2003, Womer filed a Motion to Open Judgment of Non Pros and Allow the Filing of a Certificate Nunc Pro Tunc (\u201cMotion\u201d). In the Motion, Womer sought relief from the judgment, alleging that he served an expert report on Hilliker in discovery before Pa.R.C.P. No. 1042.3\u2019s time limit expired; that the information he provided to Hilliker included all of the information that Pa.R.C.P. No. 1042.3 requires; that his failure to file the required COM was due to his counsel\u2019s oversight or mistake; that he was not notified of Hilliker\u2019s intent to secure the judgment of non pros; that Hilliker would not be prejudiced by the granting of the Motion; that the purpose of Pa.R.C.P. No. 1042.3 had been served; that he promptly took steps to open the judgment upon learning of its entry; and that he possessed a meritorious case. One of the exhibits attached to the Motion included the curriculum vitae of an optometrist, Dr. Keith S. Hillard (\u201cHillard\u201d), and a report (\u201cReport\u201d) that Hillard authored. The Report described Hillard\u2019s consultation with Womer on June 5, 2002 regarding Womer\u2019s visual status. In the Report, Hillard opined that Womer was not a good candidate for the particular surgical procedure that Hilliker used; that due to Womer\u2019s myopia and pupil size, he was exposed to a higher risk of harm than are others; and that following the surgery, Hilliker did not treat a manageable complication promptly. Another exhibit attached to the Motion was a COM as to Hilliker dated October 21, 2003.\nIn response to the New Matter included in Hilliker\u2019s Answer to the Motion, Womer further alleged that if relief from a judgment of non pros secured under Pa. R.C.P. No. 1042.6 is governed by Pa. R.C.P. No. 3051, then Rule 3051(b)(2)\u2019s requirement that he provide a reasonable explanation for his inactivity was satisfied inasmuch as he was under the belief that providing the Report to Hilliker met the requirements of Pa.R.C.P. No. 1042.3. In the alternative, Womer contended that Pa. R.C.P. No. 237.1, and not Pa.R.CJP. No. 3051, applies to the opening of such a judgment. Referring to Pa.R.Civ.P. No. 126, Womer also alleged that a trial court\u2019s strict adherence to Rule 1042.3 in his case would undermine this Court\u2019s intent in adopting the Rule, which was to eliminate the filing of non-meritorious professional liability actions and that the entry of a judgment of non pros, which would put him permanently out of court for a technical violation of Rule 1042.3, was too drastic a result in light of his substantial compliance.\nThe trial court denied Womer\u2019s Motion. The trial court first rejected Womer\u2019s argument that the discovery materials he served on Hilliker complied with the terms of Pa.R.C.P. No. 1042.3, concluding that such an argument contradicted the rule\u2019s plain language. Next, the trial court determined that Womer was incorrect that his Motion should be evaluated under Pa. R.C.P. No.237.1, and held that Womer\u2019s entitlement to relief from the judgment of non pros was to be assessed under Pa. R.C.P. No. 3051. The trial court then considered whether Womer\u2019s belief that his discovery responses satisfied Rule 1042.3\u2019s requirements provided a reasonable explanation under Rule 3051(b)(2) for his failure to file a COM, and concluded that Womer\u2019s belief was insufficient. In this regard, the trial court was of the view that discovery responses, particularly information not of record, neither substituted for a Rule 1042.3 COM nor explained why Womer neglected to request an extension of time under Pa.R.C.P. No. 1042.3(d) within which to secure a COM. Finally, the trial court determined that Womer\u2019s assertions that Pa.R.C.P. No. 126 should excuse him were inappropriate since Rule 126\u2019s application in the present circumstances would effectively nullify the terms of Pa. R.C.P. No. 1042.3. Accordingly, the trial court entered an order dated December 3, 2003, denying Womer\u2019s Motion requesting that the judgment of non pros be opened, and denied the Motion for Reconsideration he filed thereafter by order dated December 15, 2003.\nWomer filed a timely appeal. In the Superior Court, Womer abandoned his argument that Pa.R.C.P. No. 237.1 governed his request for relief from the judgment of non pros, and argued his entitlement to relief from the judgment under Pa.R.C.P. No. 3051. Womer made all the same assertions in support of his Motion in the Superior Court that he made in the trial court, and added to his arguments in his Superior Court brief by stating that the judgment of non pros should be opened because Pa.R.C.P. No. 1042.3 was newly promulgated and the statute of limitations had run on his cause of action as of the date the judgment was entered.\nIn an unpublished opinion, the Superior Court applied Pa.R.C.P. No. 3051 to Womer\u2019s Motion, and concluded that Womer satisfied Rule 3051(b)(1) and (3), by acting promptly and having a cause of action to file, and Pa.R.C.P. No. 3051(b)(2), by providing a reasonable explanation for his lack of compliance with Pa.R.C.P. No. 1042.3. As to the latter, the Superior Court focused on Womer\u2019s contention that he did not file a COM because he believed that by giving Hilliker the Report he substantially complied with Pa.R.C.P. No. 1043.2, and found Womer\u2019s belief \u201cnot wholly unreasonable\u201d due to the lack of case law on the issue. The Superior Court stated:\n[W]e conclude that given the instant circumstances a legitimate excuse for the failure to comply with Rule 1042.3 exists. This includes the lack of decisional law at the time of the lawsuit; the fact that plaintiff supplied defendant with more information than Rule 1042.3 requires, i.e., a copy of the report instead of a certification that he has such a report; and the fact that [plaintiff] appellant is out of court on his claim if the non pros is affirmed.\nIt is true that Rule 1042.3 allows for a generous period before the filing of a certif\u00edcate and that the rule provides for unlimited extensions of the sixty day period pursuant to timely requests. However, in the context of the case, it was not wholly unreasonable for a litigant to have concluded that this transmittal of an expert report represented substantial compliance with Rule 1042.3.\n(Superior Court Memorandum Opinion at 5.) The Superior Court also observed that even though it did not disagree with the trial court\u2019s opinion espousing a literal interpretation of Pa.R.C.P. No. 1042.3, it disagreed with the trial court\u2019s result for several reasons. The reasons the Superior Court listed without discussion were: equitable principles; the statute of limitations; the recent promulgation of Rule 1042.3; the sparseness of decisions regarding the permissibility of substantial compliance as a substitute for a COM; and the existence of Pa.R.C.P. No. 126. Accordingly, the Superior Court reversed the trial court\u2019s order and remanded the case to the trial court. On remand, the trial court was to obtain proof of facts by evidence or stipulation that Womer supplied the Report to Hilliker and, if shown, to enter an order vacating the judgment of non pros and consider the objection that Hilliker raised to Hillard\u2019s qualifications under Pa.R.C.P. No. 1042.1 to supply the statement Pa. R.C.P. No. 1042.3(a)(1) requires. See supra n. 3.\nHilliker filed a Petition for Allowance of Appeal. This Court granted review, limited to whether the Superior Court erred in concluding that Womer alleged sufficient facts to warrant the opening of the judgment of non pros, and directed the parties to address whether Pa.R.C.P. No. 1042.3 should be deemed subject to equitable exceptions. Womer v. Hilliker, 582 Pa. 92, 869 A.2d 482 (2005) (per curiam).\nBy way of background, we begin with the circumstances of Pa.R.C.P. No. 1042.3\u2019s adoption. Pa.R.C.P. No. 1042.3 is one in a series of rules that \u201cgovern procedure in a civil action in which a professional liability claim is asserted against a licensed professional.\u201d Pa.R.C.P. No. 1042.1(a). See Pa.R.C.P. Nos. 1042.1-1042.8. We adopted these rules in January of 2003, having determined that malpractice actions were being commenced in the Pennsylvania courts more frequently. We were concerned that this trend would lead to an increase in the filing of malpractice claims of questionable merit, and sought to avoid the burdens that such claims impose upon litigants and the courts. Therefore, we exercised our rule-making authority to devise an orderly procedure that would serve to identify and weed non-meritorious malpractice claims from the judicial system efficiently and promptly. See pa Const. art.V, \u00a7 10(c); 42 Pa.C.S. \u00a7 1722. The procedure we provided in the professional liability action rules centers on the filing of a COM. On the one hand, the presence in the record of a COM signals to the parties and the trial court that the plaintiff is willing to attest to the basis of his malpractice claim; that he is in a position to support the allegations he has made in his professional liability action; and that resources will not be wasted if additional pleading and discovery take place. See Pa.R.C.P. No. 1042.4, Pa.R.C.P. No. 1042.5. On the other hand, the absence from the record of a COM signals to the parties and the trial court that none of this is so and that nothing further should transpire in the action, except for the lawsuit\u2019s termination. See Pa.R.C.P. No. 1042.6.\nIn this appeal, our primary focus is on Pa.R.C.P. No. 1042.S and whether it is subject to equitable exceptions. We first observe that the Pa.R.C.P. No. 1042.3 itself sets forth no exceptions, equitable or otherwise, to its terms. See supra n. 1. Therefore, in this regard, we focus, as did the lower courts and the parties, on Pa. R.C.P. No.126, and consider whether the Superior Court should have allowed Rule 126 to play any part in excusing Womers\u2019 failure to file a Rule 1042.3 COM.\nIt is self-evident that our Rules of Civil Procedure are essential to the orderly administration and efficient functioning of the courts. Accordingly, we expect that litigants will adhere to procedural rules as they are written, and take a dim view of litigants who flout them. See Wood v. Garrett, 353 Pa. 631, 46 A.2d 321, 323 (1946). That said, we have always understood that procedural rules are not ends in themselves, and that the rigid application of our rules does not always serve the interests of fairness and justice. Pomerantz v. Goldstein, 479 Pa. 175, 387 A.2d 1280, 1281 (1978). It is for this reason that we adopted Rule 126, which provides in pertinent part that \u201c[t]he court at every stage of any such action or proceeding may disregard any error or defect of procedure which does not affect the substantial rights of the parties.\u201d Pa.R.C.P. No. 126. With this language, we incorporated equitable considerations in the form of a doctrine of substantial compliance into Rule 126, giving the trial courts the latitude to overlook any \u201cprocedural defect\u201d that does not prejudice a party\u2019s rights. Sahutsky v. H.H. Knoebel Sons, 566 Pa. 593, 782 A.2d 996, 1001 (2001) (quoting Kurtas v. Kurtas, 521 Pa. 105, 555 A.2d 804, 806 (1989) (emphasis in original)); Pomerantz, 387 A.2d at 1281. Thus, while we look for full compliance with the terms of our rules, we provide a limited exception under Rule 126 to those who commit a misstep when attempting to do what any particular rule requires. Moreover, we made Rule 126 a rule of universal application, such that the trial court may disregard any such procedural defect or error at every stage of any action or proceeding to which the civil procedural rules apply. See id. Therefore, as a general proposition, Rule 126 is available in professional liability actions and may be applied to Pa.R.C.P. No. 1042.3, as long as its requirements, as we have articulated them, are met.\nAs to the parameters of the substantial compliance doctrine that is reflected in Pa.R.C.P. No. 126, two of our cases are instructive. In Pomerantz, we determined that the error the defendant committed under former Pa.R.C.P. No. 1038(d) was the sort of procedural defect that could be overlooked under Rule 126. Following an adverse decision in a non-jury trial, the defendant filed \u201cDefendant\u2019s Motions for New Trial\u201d even though Pa.R.C.P. No. 1038(d) stated that within twenty days after notice of the filing of the trial court\u2019s decision \u201cexceptions\u201d that \u201cset forth a specific objection precisely and without discussion\u201d were be filed to rulings on objections or to any other matters that occurred during trial. Pomerantz, 387 A.2d at 1280. The plaintiffs filed a motion to dismiss the defendant\u2019s motion, asserting that former Rule 1088(d) did not permit the filing of a motion for a new trial, but instead only-permitted a party to file exceptions to the trial court\u2019s decision. In response, the defendant countered that but for the title on his pleading, he complied with the former rule. The trial court granted the plaintiffs\u2019 motion to dismiss, and the Superior Court affirmed the judgment.\nWe, however, reversed the order of the Superior Court, vacated the trial court\u2019s order, and remanded the case to the trial court to consider the defendant\u2019s motion as properly-filed exceptions and to enter a final disposition thereon. Id. at 1282. We observed that the defendant\u2019s pleading was filed in a timely fashion; that the objections it contained were set forth just as the rule required; and that had the pleading been properly titled, it would have been disposed of on the merits, rather than upon the erroneous caption. Id. at 1281. In reaching our decision, we stated that it was our policy to overlook such procedural errors when a party had substantially complied with the requirements of a rule and no prejudice would result, and cited Rule 126 as the source of our authority to disregard procedural errors that do not affect substantial rights. Id. at 1282.\nBy contrast, in Sahutsky, we determined that the plaintiffs\u2019 failure to take any steps to comply with the terms of Pa.R.C.P. No.8051 was not the sort of default that Pa.R.C.P. No. 126 was meant to cover. In Sahutsky, when the plaintiffs neglected to pursue their action, the defendant filed a motion for a judgment of non pros. The trial court granted the defendant\u2019s motion, entering the judgment of non pros and dismissing the plaintiffs\u2019 complaint with prejudice. The plaintiffs did not file a petition to open the judgment of non pros under Pa.R.C.P. No. 3051. but rather, filed a direct appeal from the judgment in the Superior Court. On appeal, the defendant argued that Rule 3051\u2019s clear language required the plaintiffs to file a petition to open in the trial court, and that their failure to file such a petition was fatal to their appeal, operating as a waiver of the issues they raised. Based on its prior cases, the Superior Court rejected the defendant\u2019s argument, reasoning that the trial court\u2019s order, which included a judgment and dismissal, could be considered final and directly appealable. Accordingly, the Superior Court reversed the trial court\u2019s order, and remanded to the trial court for reconsideration of the judgment of non pros it entered.\nThis Court reversed the Superior Court. We concluded that the terms of Pa.R.C.P. No. 3051 clearly directed that a petition to open be filed initially with the trial court, and that plaintiffs\u2019 failure to do so operated as a waiver of any of the claims of error concerning the judgment of non pros entered by the trial court. 782 A.2d at 998-1000. With respect to the plaintiffs\u2019 arguments that such a result was unacceptably harsh, especially in light of the fact that the Superior Court followed its own precedent, and that the equities involved in their particular case should cause us to ignore Pa.R.C.P. No. 3051\u2019s clear language, we observed that the plaintiffs failed to file even a procedurally flawed Rule 3051 petition, and reiterated that Pa.R.C.P. No. 126 was not meant to excuse non-compliance with our rules when a party had made no attempt to conform. Id. at 1000-01.\nTurning to Pa.R.C.P. No. 126\u2019s application in the instant action, Hilliker argues that since Womer did not file a COM, even one that was defective, the trial court correctly determined that this was a situation of a party\u2019s non-compliance and that therefore, Pa.R.C.P. No. 126 should not be considered. Womer counters that since the Report he gave to Hilliker set forth the information that a COM would have provided and fulfilled Pa.R.C.P. No. 1043\u2019s purpose to show that he had a meritorious claim, he demonstrated substantial compliance, such that the Superior Court properly overlooked his failure to file a COM under Pa.R.C.P. No. 126, given the equities he presented.\nIn our view, Hilliker\u2019s position is the correct one, since Womer took no steps to comply with Pa.R.C.P. No. 1042.3. Rule 1042.3 is clear and unambiguous in its mandate that in every professional liability action a specific representation about the plaintiffs claim must be filed in the official record in a document called a \u201ccertificate of merit\u201d at the time the complaint is filed or within sixty days thereafter. Pa.R.C.P. No. 1042.3(a). Pa.R.C.P. No. 1042.8 provides that \u201cthe certificate required for filing by Rule 1042.3(a) shall be substantially in the following form ....,\u201d and displays a sample COM that shows precisely what Rule 1042.3 requires. Moreover, Pa. R.C.P. No. 1042.3(d), which allows for the filing and granting upon good cause shown of a motion to extend the time for filing a COM, sets forth the one and only step that a plaintiff is to take if he finds himself unable to secure a COM and desires to avoid the consequences of not satisfying Rule 1042.3(a)\u2019s COM filing requirement in a timely fashion. Womer, however, did nothing of the sort. Rather, he served discovery materials on Hilliker, which included an expert report. In our view, this was no procedural misstep within the meaning of Pa.R.C.P.No. 126. It was instead, a wholesale failure to take any of the actions that one of our rules requires, of the type that we have heretofore refused to overlook under Rule 126. See Sahutsky, 782 A.2d at 1001.\nIn contending that even though he made no effort to follow Pa.R.C.P. No. 1042.3\u2019s requirements, Rule 126 can apply in his circumstances because he fulfilled Rule 1042.3\u2019s purpose, Womer is essentially arguing that the doctrine of substantial compliance in Rule 126 not only excuses a party who commits a procedural misstep in attempting to do that which a rule instructs, but also excuses a party who does nothing that a rule requires, but whose actions are consistent with the objectives he believes the rule serves. This is simply not so. The equitable doctrine we incorporated into Rule 126 is one of substantial compliance, not one of no compliance. We reiterate what our case law has taught: Rule 126 is available to a party who makes a substantial attempt to conform, and not to a party who disregards the terms of a rule in their entirety and determines for himself the steps he can take to satisfy the procedure that we have adopted to enhance the functioning of the trial courts. See Sahutsky, 782 A.2d at 1001; Commonwealth v. Metz, 534 Pa. 341, 633 A.2d 125, 127 (1993). Therefore, we conclude that Womer did not substantially comply with Pa.R.C.P. No. 1042.3 for purposes of Pa. R.C.P. No. 126\u2019s application, and hold that the Superior Court erred in including Pa. R.C.P. No. 126 as a factor in its analysis as to whether the trial court correctly denied Womer\u2019s request that the judgment of non pros be opened.\nThis does not mean, however, that a plaintiff who, like Womer, fails to file a Rule 1042.3 COM and against whom a Rule 1042.6 judgment of non pros is entered, has no avenue by which to save his action. Under Pa.R.C.P. No.3051, which allows a trial court to grant relief from a judgment of non pros, such a plaintiff has the opportunity to demonstrate that his failure to follow Pa.R.C.P. No. 1042.3 should be excused. In that the nature of an appeal under Pa.R.C.P. No. 3051 is equitable, and is a matter of grace and not of right, Pa.R.C.P. No. 3051 is then, yet another means by which Pa.R.C.P. No. 1042.3 is subject to equitable considerations. See Mazer v. Sargent Electric Co., 407 Pa. 169, 180 A.2d 63, 65 (1962).\nAt this point, we observe that it has been held that a Pa.R.C.P. No. 1042.6 judgment of non pros may not be opened under Pa.R.C.P. No. 3051. See Hoover v. Davila, 64 Pa. D. & C.4th 449 (Lawrence County 2003), aff'd on other grounds, 862 A.2d 591 (Pa.Super.Ct.2004). The language of Rules 1042.6 and 3051, however, do not support this holding. In addition, the rules\u2019 respective Notes and Explanatory Comments, which we consult in rule construction, show otherwise. See Pa. R.C.P. No. 127(e) (\u201cA note to a rule or an explanatory comment is not part of the rule but may be used in construing the rule.\u201d). The Note that follows Pa.R.C.P. No. 1042.6 states specifically that \u201cRule 237.1 does not apply to a judgment of non pros entered under this rule.\u201d Pa.R.C.P. No. 1042.6 (Note). Significantly, the Note does not also state that Pa.R.C.P. No. 3051 is inapplicable. Further, the Explanatory Comment to Pa.R.C.P. No. 3051 clarifies that the rule\u2019s application is universal, stating that \u201c[t]he rule adopts a uniform procedure [and] will apply in all cases in which relief from a judgment of non pros is sought, whether the judgment has been entered by praecipe as of right or by the court following a hearing.\u201d Pa.R.C.P. No. 3051 (1991 Explanatory Comment) (emphasis added). Therefore, we hold that a Pa.R.C.P. No. 1042.6 judgment of non pros is subject to a Pa.R.C.P. No. 3051 petition, and disapprove of any decision, like Hoover, that holds to the contrary.\nAs to the merits of the Superior Court\u2019s decision that the trial court erred in refusing to open the judgment of non pros entered in HiUiker\u2019s favor under Pa. R.C.P. No. 3051, we begin with the standard of review that applies in such a matter. It is well-settled that the ruling that a trial court makes under Pa.R.C.P. No. 3051 is reviewed on appeal for an abuse of discretion. Sklar v. Harleysville Ins. Co., 526 Pa. 617, 587 A.2d 1386, 1387 (1991). This means that the trial court\u2019s decision will be overturned only if reflects manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support as to be clearly erroneous. See Grady v. Frito-Lay Inc., 576 Pa. 546, 839 A.2d 1038, 1046 (2003).\nIn the instant case, the Superior Court determined that given the relatively recent adoption of Pa.R.C.P. No. 1042.3 and the resulting lack of decisional law, the trial court abused its discretion in rejecting as reasonable the excuse Womer gave under Pa.R.C.P. No. 3051 for not filing a COM\u2014 his belief that he did not need to do so since he substantially complied with Pa. R.C.P. No. 1042.3 by giving Hilliker the Report. Presently, Womer argues that the Superior Court should be upheld because his belief was honestly held and the equities demand it. Hilliker counters that it is the trial court that should be upheld because it did not abuse its discretion in its application of Pa.R.C.P. No. 3051.\nHere too, we conclude that Hilliker is correct. The fact upon which the Superior Court relied to legitimize Womer\u2019s position \u2014 that Pa.R.C.P. No. 1042.3 was not adopted until January of 2003 \u2014 is irrelevant. The principle that demonstrates the correctness of the trial court\u2019s determination, that is, that Pa.R.C.P. No. 126 reflects a doctrine of substantial compliance and does not excuse a party\u2019s non-compliance, see supra pp. 9-12, was not new or novel when Womer filed his complaint in August of 2003. Further, this principle was fully available in our case law for Womer to consult at that time, as was, of course, Pa.R.C.P. No. 1042.3, which sets forth its requirements unambiguously and clearly. Accordingly, we have no hesitation in concluding that the trial court acted well within its discretion in finding that Womer did not provide a reasonable excuse under Pa.R.C.P. No. 3051 for not filing a COM. Indeed, in light of the foregoing, we conclude that it would be manifestly unreasonable and therefore, an abuse of discretion, see Grady, 839 A.2d at 1046, for a trial court to conclude that a plaintiff in Womer\u2019s circumstances, making the same arguments, presents a reasonable explanation or legitimate excuse for his failure to file a COM. Therefore, we hold that the Superior Court erred in reversing the trial court\u2019s order denying Womer\u2019s Motion.\nFor all of these reasons, the order of the Superior Court is reversed. Further, this matter is remanded to the Superior Court to remand it to the trial court with instructions to reinstate the order denying Womer\u2019s Motion.\nJustice NEWMAN and Justice SAYLOR and EAKIN join in this opinion.\nFormer Justice NIGRO did not participate in the consideration or decision of this matter.\nJustice BAER files a dissenting opinion in which Justice CASTILLE joins.\n. Rule 1042.3 provides in relevant part:\nRule 1042.3. Certificate of Merit\n(a) In any action based upon an allegation that a licensed professional deviated from an acceptable professional standard, the attorney for the plaintiff, or the plaintiff if not represented, shall file with the complaint or within sixty days after the filing of the complaint, a certificate of merit signed by the attorney or party that ...\n(1) an appropriate licensed professional has supplied a written statement that there exists a reasonable probability that the care, skill or knowledge exercised or exhibited in the treatment, practice or work that is the subject of the complaint, fell outside acceptable professional standards and that such conduct was a cause in bringing about the harm....\n(d) The court, upon good cause shown, shall extend the time for filing a certificate of merit for a period not to exceed sixty days. The motion to extend the time for filing a certificate of merit must be filed on or before the filing date that the plaintiff seeks to extend. The filing of a motion to extend tolls the time period within which a certificate of merit must be filed until the court rules upon the motion.\nPa.R.C.P. No. 1042.3(a)(1),(d).\n. Pa.R.C.P. No. 1042.6 states in pertinent part:\nRule 1042.6. Entry of Judgment of Non Pros for Failure to File Certification (a) The prothonotary, on praecipe of the defendant, shall enter a judgment of non pros against the plaintiff for failure to file a certificate of merit within the required time provided that there is no pending timely filed motion seeking to extend the time to file the certificate.\nPa.R.C.P. No. 1042.6.\n. In New Matter, Hilliker alleged that if Womer relied on a written statement from Hillard to file a COM, the COM would be insufficient under Pa.R.C.P. No. 1042.3 because an optometrist is not an \"appropriate licensed professional\" under Pa.R.C.P. No. 1041.2(b)(1) who is authorized to supply the statement that Pa.R.C.P. No. 1042.3(a)(1) requires concerning the treatment that an ophthalmologist, like Hilliker, provides. Given the questions before us in this case and our resolution of them, we do not address this issue.\n. Pa.R.C.P. No. 3051 provides:\nRule 3051. Relief from Judgment of Non Pros\n(a) Relief from a judgment of non pros shall be sought by petition. All grounds for relief, whether to strike off the judgment or to open it, must be asserted in a single petition.\n(b) If the relief sought includes the opening of the judgment, the petition shall allege facts showing that\n(1) the petition is timely filed,\n(2) there is a reasonable explanation or legitimate excuse for the inactivity or delay, and\n(3) there is a meritorious cause of action.\nPa.R.C.P. No. 3051.\n.Pa.R.C.P. No. 126 states:\nRule 126. Liberal Construction and Application of Rules\nThe rules shall be liberally construed to secure the just, speedy and inexpensive determination of every action or proceeding to which they are applicable. The court at every stage of any such action or proceeding may disregard any error or defect of procedure which does not affect the substantial rights of the parties.\nPa.R.C.P. No. 126.\n. The trial court also determined that because a judgment was actually entered against Womer, it would not reach the question as to whether Womer could have requested leave to file the COM as to Hilliker that was attached to the Motion nunc pro tunc. Due to our resolution, there is no issue for us to decide in this regard.\n. Under Pa.R.C.P. No. 1042.4, a defendant against whom a professional liability action is asserted is to file a responsive pleading within the time required under Pa.R.C.P. No. 1026 or within twenty days after the COM is served, whichever is later. Under Pa.R.C.P. No. 1042.5, only limited discovery is allowed without leave of court before the COM is filed.\n. This issue raises a question of law, and thus, our standard of review is de novo. Our scope of review, to the extent necessary to resolve the legal question before us, is plenary. Gardner v. Workers' Compensation Appeal Board (Genesis Health Ventures), 585 Pa.366, 888 A.2d 758, 761 n. 4 (2005).\n. As we noted, we do not address whether the Report set forth the information that a Rule 1042.3 COM would have provided. See supra n. 3. Likewise, given our resolution, we take no position as to Womer\u2019s contention that the Report fulfilled Pa.R.C.P. No. 1042.3\u2019s purpose.\n. We disapprove of any decision to the extent that it holds that a plaintiff substantially complied with Pa.R.C.P. No. 1042.3 by providing an expert report to a defendant or that Pa.R.C.P. No. 126 may be applied in such circumstances. See, e.g., Harris v. Neuburger, 877 A.2d 1275 (Pa.Super.2005).\n. It is not disputed that Womer satisfied prongs one and three of Pa.R.C.P. No. 305 l's requirements. The present case hinges upon the rule's second prong \u2014 whether or not there was a reasonable explanation or legitimate excuse for Womer\u2019s default under Pa.R.C.P. 1042.3. See Pa.R.C.P. 3051; supra n. 4.\n. We disapprove of any decision to the extent that it sets forth such a conclusion. See, e.g., Harris v. Neuburger, 877 A.2d at 1275.",
+        "type": "majority",
+        "author": "Chief Justice CAPPY."
+      },
+      {
+        "text": "Justice BAER,\ndissenting.\nI believe that in the circumstances of this case the plaintiff, Garth Womer, substantially complied with the certificate of merit (COM) requirement, and that the Superior Court properly held that the trial court abused its discretion by refusing to open the judgment of non pros entered for the defendant Jan Hilliker. Thus, I respectfully dissent.\nPa.R.C.P. 1042.3 requires that a plaintiff in a medical malpractice action file a COM with the complaint or within sixty days thereafter attesting that \u201can appropriate licensed professional has supplied a written statement that there exists a reasonable probability that the [medical service described] in the complaint fell outside acceptable professional standards and that such conduct was a cause in bringing about the harm.\u201d Upon good cause, the court may extend the time for filing a COM past the initial sixty days. Pa.R.C.P. 1042.3. If the plaintiff fails to file a COM or motion to extend the time within sixty days, the defendant may praecipe for entry of a judgment of non pros against the plaintiff. Pa.R.C.P. 1042.6.\nI completely agree with the majority that when a defendant takes a judgment of non pros under Pa.R.C.P. 1042.6 for failure to file a COM, a plaintiffs potential remedy lies in Pa.R.C.P. 3051, which authorizes the filing of a petition to open. Such a request, like a petition to open a default judgment taken for failure to respond to a complaint, is in the nature of an appeal to the equitable powers of the court. To gain relief, a plaintiff must show 1) the petition for relief from the judgment has been timely filed; 2) there is a reasonable explanation or legitimate excuse for the delay; and 3) there is a meritorious cause of action. Pa.R.C.P. 3051; Hutchison v. Hutchison, 492 Pa. 118, 422 A.2d 501 (1980). There is no dispute in this case that Womer satisfied prongs one and three of this test in that he filed his petition to open the judgment within one day of receiving notice of the judgment of non pros and asserted a meritorious cause of action. Thus, this case hinges upon whether there was a reasonable explanation or legitimate excuse for Womer\u2019s failure to file a COM within sixty days.\nThe majority concludes that there was not. I respectfully disagree that such conclusion can be reached under the facts of this case. Womer filed a medical malpractice complaint against Hilliker on August 18, 2003. Pursuant to Pa.R.C.P. 1042.3, he had until Friday, October 17, 2003, to file either a COM or a request for an extension of time. Within this time period, on October 8, 2003, during discovery, Womer forwarded to Hilliker an expert report detailing the manner in which Womer alleged that Hilliker failed to adhere to acceptable professional medical standards resulting in harm to Womer. Womer, acting through counsel, obviously believed that providing Hilliker with the expert report not only met the intent and spirit of Pa.R.C.P. 1042.3 and its requirement that a COM be filed, but exceeded that intent and spirit by furnishing not just a certificate that an expert report could be produced, but the report itself. As noted in the Superior Court\u2019s opinion, the recent promulgation of Pa.R.C.P. 1042.3 provided scant guidance regarding the applicability of the doctrine of substantial compliance to the COM requirement, making these assumptions all the more reasonable. Under these circumstances, I find Womer\u2019s belief that he had essentially complied with the COM requirement by forwarding the actual expert report to Hilliker within sixty days of filing the complaint a reasonable explanation and legitimate excuse for his actions, sufficient to open the judgment of non pros under Pa.R.C.P. 3051.\nThe timing of the events leading to this litigation provides further justification for equitable intervention. The COM was due to be filed on Friday, October 17, 2003. On Monday, October 20, 2003, the next business day, Hilliker filed for and obtained an entry of judgment of non pros pursuant to Pa.R.C.P. 1042.6, notwithstanding that he had Womer\u2019s expert report in his office. The next day, immediately upon receiving notice of the judgment of non pros, Womer filed a motion to open the judgment in accord with Pa. R.C.P. 3051, attaching his COM to his motion. Accordingly, this is not a case where a party disregarded the rule\u2019s requirements. Rather, not only did Womer substantially comply with the COM requirement, but within hours of being put on notice that he mistakenly did not meet all the technical requirements of the rule, he moved to rectify that mistake and supplied the technically missing COM.\nThe trial court refused to open the judgment, rejecting Womer\u2019s assertion of a reasonable explanation or legitimate excuse. We may only disturb a judgment of non pros if the trial court has committed an abuse of discretion. Sklar v. Harleysville Ins. Co., 526 Pa. 617, 587 A.2d 1386, 1387 (1991). An abuse of discretion occurs where \u201cin reaching a conclusion the law is overridden or misapplied, or the judgment exercised is manifestly unreasonable.\u201d Jung v. St. Paul\u2019s Parish, 522 Pa. 167, 560 A.2d 1356, 1358 (1989). I agree with the Superior Court that this is such a case. The trial court abused its discretion by rejecting Womer\u2019s reasonable explanation and legitimate excuse for not filing a COM with the court within sixty days. Womer promptly filed a COM upon the first indication that he had not complied with the COM requirement to the court\u2019s satisfaction, the expert report provided to Hilliker revealed a meritorious claim, and Womer had a reasonable excuse for noncompliance with Pa.R.C.P. 1042.3. Therefore, logic, as well as conscience, a polestar of equity, compel a finding that the Superior Court properly held that Pa.R.C.P. 1042.3 should be liberally construed in order to secure the just determination of this potentially meritorious action, see Pa.R.C.P. 126, and that the trial court abused its discretion in refusing to open the judgment.\nCase law also supports this outcome. Indeed, the courts of this Commonwealth have historically been loathe to put a litigant out of court on a potential meritorious claim for missing a filing deadline due to lawyer oversight. \u2018While, generally speaking, a litigant is bound by the actions or inactions of his counsel, there is authority for the proposition that when a plaintiff places his case in the hands of reputable counsel he will not be turned out of court if the delay complained of was almost entirely on account of neglect or oversight of his counsel.\u201d Manson v. First Nat\u2019l Bank, 366 Pa. 211, 77 A.2d 399 (1951). Accordingly, we have found that \u201cerrors of counsel ... which indicate an oversight rather than a deliberate decision not to defend, have been held to constitute sufficient legal justification to open a default judgment.\u201d Jung, 560 A.2d at 1360. Thus, where the reasonable excuse proffered for failing to file timely a complaint was counsel\u2019s secretary\u2019s confusion and mistake, we held that the trial court abused its discretion in refusing to open a judgment of non pros. Id. Rather, we found that equity required the judgment of non pros be opened. Id.\nSimilarly, in a case where counsel\u2019s quickly deteriorating health prevented him from timely filing a complaint, we found that the trial court abused its discretion in denying plaintiffs motion to strike judgment of non pros. Thorn v. Borough of Clearfield, 420 Pa. 584, 218 A.2d 298, 299 (1966). The diminished health of the attorney, followed by his eventual death, were equitable considerations sufficient to set aside a judgment of non pros and reasonably explained the delay in filing the complaint. Id. (\u201cAppellants in this case should not be denied their day in court because of the diminished health of their counsel. Appellants had no way of knowing this case was not being diligently prosecuted and should not be made to suffer because of the health of their attorney\u201d).\nIn accordance with this principle, in Moyer v. Americana Mobile Homes, Inc., 244 Pa.Super. 441, 368 A.2d 802 (1976), the Superior Court excused the failure to file a timely answer to a complaint where the delay was caused in part by the misplacing of the file in the attorney\u2019s office:\nIt is well settled that the power to open a default judgment entered as a result of mistake or oversight of counsel is frequently exercised where the petition is promptly filed and a reasonable excuse for the delay is presented. Alexander v. Jesray Construction Co., 287 Pa.Super. 99, 346 A.2d 566 (1975). The purpose of the rules in authorizing the entry of default judgments is to prevent a dilatory defendant from impeding the plaintiff in establishing his claim. The rules are not primarily intended to provide the plaintiff with a means of gaining a judgment without the difficulties which arise from litigation. Kraynick v. Hertz, supra[, 443 Pa. 105, 277 A.2d 144 (1971) ]; Slott v. Triad Distributors, Inc., 230 Pa.Super. 545, 327 A.2d 151 (1974). Therefore, in most cases such as the instant case, when judgment is taken on the twenty-first day after the filing of the complaint, the purpose of the rules is not served when a timely filed petition to open is denied. Such \u201csnap\u201d judgments are disfavored by the law.\nId. at 804-05. See also Nardulli v. John Carlo, Inc., 274 Pa.Super. 34, 417 A.2d 1238 (1979) (reversing the entry of a default judgment due to an attorney\u2019s mistakes, stating that \u201cerrors of counsel which indicate an oversight rather than a deliberate decision not to defend, have been held to constitute sufficient legal justification to open a default judgment\u201d).\nIn accordance with this point of view, in Aimes v. Burket, 881 A.2d 861 (Pa.Super.2005), the Superior Court found that the plaintiff had proffered a reasonable excuse for failing to file the COM within sixty days sufficient to open the judgment of non pros pursuant to Pa.R.C.P. 3051, where counsel failed to have the COM filed after he left the office upon learning that his mother-in-law was gravely ill and then being faced with her subsequent death and burial on the day the COM was due. The Superior Court refused to find that where an attorney who forgets that the COM is due or who fails to take the steps to file it when faced with a family crisis is so derelict in his obligations that the oversight should not be excused. In support of this position, the Superior Court properly articulated the view that the law \u201cis not so cold hearted as to demand vigilance of an attorney who experiences a death in the family or is so cold as to be unwilling to excuse failure under these circumstances.\u201d Id. at 866. Similarly, the Superior Court in Harris v. Neuburger, 877 A.2d 1275 (Pa.Super.2005), affirmed the trial court\u2019s excusal of a failure to file a COM within the time allowed by Pa.R.C.P. 1042.3 due to attorney misapprehension, where, in facts similar to the case sub judice, the attorney erroneously believed that he had substantially complied with the COM requirement by forwarding an expert report to the defendant within sixty days of filing the complaint.\nIn addition to this general case law granting equitable relief where counsel has failed with justification to take some action, there is also ample law in Pennsylvania abhorring the practice of entering a snap judgment in response to such a mistake. See Queen City Elec. Supply Co., Inc. v. Soltis Elec. Co., Inc., 491 Pa. 354, 421 A.2d 174, 177-78 (1980) (\u201c[W]e note that snap judgments taken without notice are strongly disfavored by the courts\u201d); Kraynick v. Hertz, 443 Pa. 105, 277 A.2d 144, 147 (1971) (considering the equities and viewing the totality of the circumstances to hold that justice demanded opening the default judgment entered at 8:39 on the morning of the twenty-first day); Fox v. Mellon, 438 Pa. 364, 264 A.2d 623, 627 (1970) (\u201cNo one is happy with \u2018snap\u2019 judgments, probably including the lawyer who takes one\u201d); Grone v. Northern Ins. Co. of New York, 388 Pa. 169, 130 A.2d 452 (1957) (upholding the striking of judgments that bore the stigma of being \u201csnap\u201d); Reilly Assocs. v. Duryea Borough Sewer Auth., 428 Pa.Super. 460, 631 A.2d 621, 624 (1993) (noting that snap judgments entered without notice are disfavored); Safeguard Inv. Co. v. Energy Service Assocs., Inc., 258 Pa.Super. 512, 393 A.2d 476, 477 (1978) (\u201cSnap judgments taken without notice are strongly disfavored by the courts\u201d).\nJung, 522 Pa. 167, 560 A.2d 1356, typifies all of these cases. There, exactly 20 days after filing a Praecipe for Rule to File Complaint upon the plaintiff, Defendant praeciped for and obtained a judgment of non pros. The next day, immediately upon receiving notice of the taking of judgment, the plaintiff filed a petition to open asserting that the delay was caused by counsel\u2019s secretary\u2019s confusion and mistake. The trial court denied the petition, and the Superior Court affirmed. This Court reversed, finding that the request to open a judgment of non pros is directed to the conscience of the court and required the balancing of equities supportive of the entry of judgment and the opening thereof. Id. at 1358. We then opined that \u201c[a] court reviewing denial of a petition to open judgment by default must ascertain whether there are present any equitable considerations in the factual posture of the case which require that it grant to a plaintiff against whom the judgment has been entered an opportunity to have his \u2018day in court\u2019 and to have the cause decided upon the merits. In so doing, it acts as a court of conscience.\u201d Id. at 1360.\nIn Jung, which is case remarkably similar to the case before us, this Court found petitioner\u2019s excuse for unintentional dilatory conduct justifiable, and opened the snap judgment. Notwithstanding all of the foregoing precedent and the clear trend for literally decades in favor of trials on the merits and against the snap of default judgments, this Court, today, takes a giant step backward. Sadly, a plaintiff entitled to his day in court is being denied that opportunity, and a conscientious attorney who made an understandable, reasonable, and, importantly, wholly non-prejudicial mistake, finds his client out of court.\nI believe that the Superior Court below as well as the many courts referenced herein have properly followed principles of modern jurisprudence in opening default judgments and judgments of non pros. To decide inconsistently with these many cases, including the Superior Court\u2019s decision herein is to return to the unfortunate days of the past where counsel snatched judgments with impunity, avoiding facing the merits of a case. In 2006, it is inconceivable to me that this Court would take such action.\nJustice CASTILLE joins this dissenting opinion.\n. Hilliker asserts that he is a licensed ophthalmologist whereas the author of Womer\u2019s report is an optometrist, and therefore the expert report may be legally insufficient. While this may or may not be true, the question of the report\u2019s validity is simply not before us today. The majority opinion and this dissent are limited to the sufficiency of Womer\u2019s petition to open the judgment of non pros. If it had opened, the trial court certainly could have addressed the validity of the expert report as part of pre-trial proceedings.",
+        "type": "dissent",
+        "author": "Justice BAER,"
+      }
+    ],
+    "attorneys": [
+      "Darryl R. Wishard, Esq., Mitchell, Mitchell, Gallagher, Weber, Southard & Wishard, P.C., Williamsport, for Dr. Jan Hilliker, M.D.",
+      "Robert B. Hoffman, Esq., Wolf, Block Schorr and Solis-Cohen, L.L.P., Harrisburg, for amicus curiae Pennsylvania Medical Society.",
+      "John R. Bonner, Esq., Casale & Bonner, P.C. for Garth Womer.",
+      "David C. Harrison, Esq., Philadelphia, for amicus curiae Pennsylvania Trial Lawyers Association."
+    ],
+    "corrections": "",
+    "head_matter": "Garth WOMER, Appellee, v. Jan K. HILLIKER, M.D., Appellant.\nSupreme Court of Pennsylvania.\nArgued Dec. 5, 2005.\nDecided Oct. 17, 2006.\nDarryl R. Wishard, Esq., Mitchell, Mitchell, Gallagher, Weber, Southard & Wishard, P.C., Williamsport, for Dr. Jan Hilliker, M.D.\nRobert B. Hoffman, Esq., Wolf, Block Schorr and Solis-Cohen, L.L.P., Harrisburg, for amicus curiae Pennsylvania Medical Society.\nJohn R. Bonner, Esq., Casale & Bonner, P.C. for Garth Womer.\nDavid C. Harrison, Esq., Philadelphia, for amicus curiae Pennsylvania Trial Lawyers Association.\nBEFORE: CAPPY, C.J., and CASTILLE, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0269-03",
+  "first_page_order": 299,
+  "last_page_order": 314
+}

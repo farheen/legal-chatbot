@@ -1,0 +1,58 @@
+{
+  "id": 12486492,
+  "name": "Com. v. T. Holliday",
+  "name_abbreviation": "Com. v. Holliday",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 324 EDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "d882d91f1ce8333dcc99da9f4979e056af37c8001b73071976a47e5ed941e40d",
+    "simhash": "1:f516c711aaac0594",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Holliday"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Holliday\nNO. 324 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nQuashed.\n9 Petition for reargument denied April 27, 2016.\n--------"
+  },
+  "file_name": "0192-05",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

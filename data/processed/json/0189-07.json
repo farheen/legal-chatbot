@@ -1,0 +1,58 @@
+{
+  "id": 12486446,
+  "name": "Com. v. J. Aldea",
+  "name_abbreviation": "Com. v. Aldea",
+  "decision_date": "2016-03-04",
+  "docket_number": "NO. 1443 EDA 2015",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "7850a1c0ec365337cc7a7707df025c908463613b1c34500e99977ae8878b44b4",
+    "simhash": "1:3f11241606a48f85",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Aldea"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Aldea\nNO. 1443 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 04, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0189-07",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

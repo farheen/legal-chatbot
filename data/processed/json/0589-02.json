@@ -1,0 +1,120 @@
+{
+  "id": 12009302,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Vinson WASHINGTON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Washington",
+  "decision_date": "1997-07-28",
+  "docket_number": "Nos. 90, 91 Capital Appeal Docket",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "698 A.2d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "692 A.2d 1024",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11919347,
+        468699
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/692/1024-01",
+        "/pa/547/0563-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 563",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468699
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0563-01"
+      ]
+    },
+    {
+      "cite": "692 A.2d 1018",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        468656,
+        11919311
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0550-01",
+        "/a2d/692/1018-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 550",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468656
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0550-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 835,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24502934340959648
+    },
+    "sha256": "c598191403541f62a9dba373d3864b3483ea874302e4bee5bd968d59a37c7e28",
+    "simhash": "1:97e3eb01b2bb1137",
+    "word_count": 133
+  },
+  "last_updated": "2024-02-27T18:32:49.499896+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Vinson WASHINGTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of July, 1997, upon consideration of Petitioner\u2019s emergency motion for a stay of execution pending the filing and resolution of petitions for writ of certiorari, IT IS HEREBY ORDERED that petitioner\u2019s application is GRANTED and his execution will be stayed until either the United States Supreme Court denies his petitions for writ of certiorari from this court\u2019s rulings in Commonwealth v. Washington, 547 Pa. 550, 692 A.2d 1018 (1997) and Commonwealth v. Washington, 547 Pa. 563, 692 A.2d 1024 (1997), or, if certiorari is granted in either or both of these matters, until the United States Supreme Court issues a ruling on the merits.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Vinson WASHINGTON, Petitioner.\nNos. 90, 91 Capital Appeal Docket.\nSupreme Court of Pennsylvania.\nJuly 28, 1997."
+  },
+  "file_name": "0589-02",
+  "first_page_order": 673,
+  "last_page_order": 673
+}

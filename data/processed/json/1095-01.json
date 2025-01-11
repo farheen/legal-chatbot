@@ -1,0 +1,183 @@
+{
+  "id": 7871570,
+  "name": "Alva BUSFIELD and Elaine Busfield, H/W, Appellants, v. A.C. & S., INC., John Crane Inc., Anchor Packing Co., Armstrong World Industries, Carey-Canada, Owens-Corning Fiberglas Corp., Owens-Illinois Inc., Pittsburgh-Corning Inc., H.K. Porter Co. Inc., Turner-Newell Ltd., Raymark Industries Inc., Rockwood Manufacturing Co., Southern Textile Co., Celotex Corp., Certain-Teed Corp., Combustion Engineering, Eagle-Picher Industries Inc., Fibreboard Corp., GAF Corp., Garlock Inc., Keene Corp., National Gypsum Co., U.S. Mineral Products, Crane Packing, Amchem Products Inc., Atlas Turner Ltd., Foster Wheeler Corp. Inc.",
+  "name_abbreviation": "Busfield v. A.C. & S., Inc.",
+  "decision_date": "1994-06-23",
+  "docket_number": "",
+  "first_page": "1095",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "643 A.2d 1095"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "682 A.2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Pa.Super. 327",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        934781
+      ],
+      "weight": 6,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "345"
+        },
+        {
+          "page": "890",
+          "parenthetical": "Del Sole, J., concurring"
+        },
+        {
+          "parenthetical": "\"To the extent that the Majority holds that a person cannot recover damages for 'fear of cancer' and 'risk of future cancer' in asbestos cases where cancer is not present, I agree.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/429/0327-01"
+      ]
+    },
+    {
+      "cite": "428 Pa.Super. 114",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        933184
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "117-18"
+        },
+        {
+          "page": "437-438"
+        },
+        {
+          "parenthetical": "emphasis added and internal citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/428/0114-01"
+      ]
+    },
+    {
+      "cite": "417 Pa.Super. 440",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        914285
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/417/0440-01"
+      ]
+    },
+    {
+      "cite": "429 Pa.Super. 327",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        934781
+      ],
+      "weight": 4,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "341"
+        },
+        {
+          "page": "888"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/429/0327-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 516,
+    "char_count": 9742,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2003833042003607
+    },
+    "sha256": "1b3d0db3dfe0f4f131af99a488a1b4835a3e9c0bb226adbc589b67aaa7ba6578",
+    "simhash": "1:962be419642d5a7d",
+    "word_count": 1503
+  },
+  "last_updated": "2024-02-27T23:11:15.430375+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McEWEN, OLSZEWSKI and DEL SOLE, JJ.:"
+    ],
+    "parties": [
+      "Alva BUSFIELD and Elaine Busfield, H/W, Appellants, v. A.C. & S., INC., John Crane Inc., Anchor Packing Co., Armstrong World Industries, Carey-Canada, Owens-Corning Fiberglas Corp., Owens-Illinois Inc., Pittsburgh-Corning Inc., H.K. Porter Co. Inc., Turner-Newell Ltd., Raymark Industries Inc., Rockwood Manufacturing Co., Southern Textile Co., Celotex Corp., Certain-Teed Corp., Combustion Engineering, Eagle-Picher Industries Inc., Fibreboard Corp., GAF Corp., Garlock Inc., Keene Corp., National Gypsum Co., U.S. Mineral Products, Crane Packing, Amchem Products Inc., Atlas Turner Ltd., Foster Wheeler Corp. Inc."
+    ],
+    "opinions": [
+      {
+        "text": "OLSZEWSKI, Judge:\nPlaintiff Alva Busfield suffers from asymptomatic asbestosis, a condition caused by exposure to defendants\u2019 asbestos. The only question presented on this appeal is whether the trial court properly excluded evidence of Busfield\u2019s fear that he might develop cancer in the future. We find that the evidence was properly excluded and affirm.\nIn Marinari v. Asbestos Corp., Ltd., 417 Pa.Super. 440, 612 A.2d 1021 (1992), we joined a great number of jurisdictions which treat asbestos-related diseases as leading to distinct causes of action. A plaintiff who has been exposed to asbestos and develops thickening of the lungs or other non-malignant asbestos-related diseases may bring a first action upon discovering the condition, and may bring a second cause of action if and when he or she develops cancer. Marinari recognizes that since there is no medical connection between the non-malignant and malignant conditions, it is unwise to require an asbestos plaintiff to recover speculative future damages in one lawsuit. Busfield developed a non-malignant disease as a result of his exposure to asbestos, and thus he properly brought this first lawsuit.\nBusfield concedes that Marinari precludes any evidence with respect to the risk that he might develop cancer. He contends, however, that since Marinari allows an action for all present damages caused by pleural thickening, he should have been entitled to present evidence of his present fear that he might develop cancer. He posits that a present fear is distinct from a future risk, and that Marinari only meant to preclude the latter from the first lawsuit. While we understand this cogent distinction, this issue has already been decided against Busfield. Judge Tamilia, writing for the majority in Morrison v. Fireboard, 428 Pa.Super. 114, 117-18, 630 A.2d 436, 437-438 (1993), concluded that Marinari precludes recovery for \u201cfear\u201d damages as well as \u201crisk\u201d damages in the first suit:\nBecause the Marinari Court, however, found juries must now base their verdicts not upon sheer speculation as to possible future damages, but rather upon only empirical or physically objective evidence of present injury, should Mr. Morrison at some future date develop an asbestos related malignancy, he is not precluded from instituting a second action. This, of course, rules out an award of damages based upon the fear of developing asbestos-related lung cancer or mesothelioma no matter how reasonable the basis for such fear. By establishing the two disease rule for recovery and eliminating the bar of the statute of limitations preventing an action for a malignancy which developed after the onset of asbestosis or pleural thickening, the need to anticipate all possible consequences arising out of a single disease approach has been obviated. Just as all \u201cpast present and future asbestos-related mental anguish, inconvenience and distress\u201d arising out of asbestosis or pleural thickening injuries may be fairly compensated in the initial asbestosis action, the same factors are relevant in establishing damages for the malignancy at the time it becomes actionable. No recovery may be had merely for the emotion and anguish arising from the possibility of the development of a malignancy.\nId. (emphasis added and internal citation omitted). Such is precisely the case here. Busfield was not permitted to present evidence that he might develop a future malignancy.\nFurthermore, we recently held that there is no cause of action at all for asbestosis or pleural thickening which causes no physiological dysfunction in a plaintiff (asymptomatic pleural thickening). In Giffear v. Johns-Mansville Corp., 429 Pa.Super. 327, 682 A.2d 880 (1993) (en banc), we stated with unmistakable clarity, \u201c[w]ithout evidence that [pleural thickening] is causing ascertainable physical symptoms, impairment, or disability, pleural thickening is a non-eompensable injury, and therefore, does not give rise to a cause of action.\u201d Id. at 341, 632 A.2d at 888. The special interrogatories in this case reveal that the jury found that although Busfield suffered an asbestos-related disease, it caused him no harm. In other words, his asbestos-related disease was asymptomatic. Under Giffear, not only was Busfield not permitted to prove emotional damages for fear of cancer, he actually had no cause of action. We therefore agree with the trial court\u2019s decision to preclude evidence of Bus-field\u2019s fear of cancer.\nOrder affirmed.\nConcurring opinion by McEWEN, J.\nConcurring statement by DEL SOLE, J.\n. Busfield seems to concede this point also, as he states in his brief that \"[u]nfortunately, several recent Superior Court opinions have moved Pennsylvania towards being the only jurisdiction in the United States to not allow recovery for fear of cancer.\u201d Busfield\u2019s brief at 15. Even if this categorical statement is correct, the issue has been decided in this Court and Busfield's recourse is to our Supreme Court.\n. Morrison was modified by Giffear v. Johns-Manville Corp., 429 Pa.Super. 327, 632 A.2d 880 (1994), to the extent that it allowed a new trial for present damages caused by plaintiff's asymptomatic condition. We discuss Giffear below and its modification of Morrison does not affect the reasoning cited above.\n. Our learned colleague, Judge Del Sole, would argue that where pleural thickening is asymptomatic, the proper holding would be that plaintiff has suffered no damage, instead of the majority\u2019s view that he has no cause of action. Giffear, 429 Pa.Super. at 345, 632 A.2d at 890 (Del Sole, J., concurring). Since the question here is only whether Busfield could present emotional damages in the absence of any physical injury, Judge Del Sole\u2019s difference in Giffear is not implicated. See, id. (\u201cTo the extent that the Majority holds that a person cannot recover damages for \u2018fear of cancer\u2019 and 'risk of future cancer' in asbestos cases where cancer is not present, I agree.\u201d)\n. Busfield makes an argument in this case that does raise a concern. He claims that as long as there is a physical manifestation of a disease, all emotional damages that it reasonably causes should be parasitic to the physical manifestation. The flaw in Busfield's argument as it pertains to him is simply that although he developed pleural thickening (a physical manifestation of asbestos exposure), he has not suffered, under Giffear, any legally cognizable injury to which emotional damages could attach. An interesting question, however, will be presented when an asbestos plaintiff does suffer legally cognizable physical damage as a result of a non-malignant disease, and then claims that the \"fear\u201d of cancer is a parasitic emotional damage. We will reserve resolution of this issue for another day.",
+        "type": "majority",
+        "author": "OLSZEWSKI, Judge:"
+      },
+      {
+        "text": "McEWEN, Judge,\nconcurring:\nSince this Court, sitting en banc, in Giffear v. Johns-Manville Corp., 429 Pa.Super. 327, 632 A.2d 880 (1993), held that \u201c[without evidence that [pleural thickening] is causing ascertainable physical symptoms, impairment, or disability, pleural thickening is a non-compensable injury and, therefore, does not give rise to a cause of action,\u201d id. at 341, 632 A.2d at 888, appellant cannot now recover damages for fear of cancer. Thus, our esteemed colleague Peter Paul Olszewski, in his lead Opinion, quite correctly concludes that the trial court did not commit reversible error when, in this case, it excluded evidence of that fear.\nMoreover, I echo the insightful observation of Judge Olszewski that the more difficult question \u2014 not presented in this appeal \u2014 is whether fear of cancer is compensable in those cases where a plaintiff has suffered some legally cognizable physical damage as a result of exposure to asbestos and, thus, by reason of that injury, has a cause of action. A review of the cases suggests that certain appellate expressions, upon occasion, have blurred two very distinct types of harm: (1) the risk of developing cancer which, it has been made clear, is not compensable in Pennsylvania, and (2) such loss of life\u2019s pleasures as result from the fear of contracting cancer. While I personally can find no basis upon which to exclude evidence of damages flowing from the loss of life\u2019s pleasures caused by a reasonable fear of contracting cancer, that issue is not presented by cases,' such as this, where there is no cause of action.",
+        "type": "concurrence",
+        "author": "McEWEN, Judge,"
+      },
+      {
+        "text": "DEL SOLE, Judge,\nconcurring:\nWhile I remain of the view that a person with asymptomatic pleural thickening has a cause of action if damages have been experienced, I agree with the majority that \u201cfear\u201d of cancer is not recoverable.",
+        "type": "concurrence",
+        "author": "DEL SOLE, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Jeffrey G. Moyer, Philadelphia, for appellants.",
+      "Robert T. Connor, Philadelphia, for Anchor Packing, Armstrong World Industries and Carey-Canada, appellees.",
+      "Carol L. Widemon, Cherry Hill, NJ, for Owens-Illinois, appellee.",
+      "Thomas R. Wright, Philadelphia, for Pittsburgh-Coming, H.K. Porter, Turner-Newell, Raymark, Rockwood, Southern Textile, Celo-tex, Certain-Teed, Combustion Engineering, Eagle-Picher, Fibreboard and GAF Corp., appellees."
+    ],
+    "corrections": "",
+    "head_matter": "Alva BUSFIELD and Elaine Busfield, H/W, Appellants, v. A.C. & S., INC., John Crane Inc., Anchor Packing Co., Armstrong World Industries, Carey-Canada, Owens-Corning Fiberglas Corp., Owens-Illinois Inc., Pittsburgh-Corning Inc., H.K. Porter Co. Inc., Turner-Newell Ltd., Raymark Industries Inc., Rockwood Manufacturing Co., Southern Textile Co., Celotex Corp., Certain-Teed Corp., Combustion Engineering, Eagle-Picher Industries Inc., Fibreboard Corp., GAF Corp., Garlock Inc., Keene Corp., National Gypsum Co., U.S. Mineral Products, Crane Packing, Amchem Products Inc., Atlas Turner Ltd., Foster Wheeler Corp. Inc.\nSuperior Court of Pennsylvania.\nArgued May 11, 1994.\nFiled June 23, 1994.\nJeffrey G. Moyer, Philadelphia, for appellants.\nRobert T. Connor, Philadelphia, for Anchor Packing, Armstrong World Industries and Carey-Canada, appellees.\nCarol L. Widemon, Cherry Hill, NJ, for Owens-Illinois, appellee.\nThomas R. Wright, Philadelphia, for Pittsburgh-Coming, H.K. Porter, Turner-Newell, Raymark, Rockwood, Southern Textile, Celo-tex, Certain-Teed, Combustion Engineering, Eagle-Picher, Fibreboard and GAF Corp., appellees.\nBefore McEWEN, OLSZEWSKI and DEL SOLE, JJ.:"
+  },
+  "file_name": "1095-01",
+  "first_page_order": 1161,
+  "last_page_order": 1163
+}

@@ -1,0 +1,65 @@
+{
+  "id": 12491317,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Thomas WOLFE, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Wolfe",
+  "decision_date": "2017-11-14",
+  "docket_number": "C\u2013310 September Term 2017; 079185",
+  "first_page": "1089",
+  "last_page": "1089",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "172 A.3d 1089"
+    },
+    {
+      "type": "parallel",
+      "cite": "231 N.J. 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 406,
+    "sha256": "43c8539db24723a54f01caaf64e87fd88cde0754291213607c338c67bae79348",
+    "simhash": "1:eefe2d251173d728",
+    "word_count": 60
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nThomas WOLFE, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "A petition for certification of the judgment in A-004256-14 having been submitted to this Court, and the Court having considered the same;",
+      "It is ORDERED that the petition for certification is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nThomas WOLFE, Defendant-Petitioner.\nC-310 September Term 2017\n079185\nSupreme Court of New Jersey.\nNovember 14, 2017\nTo the Appellate Division, Superior Court:\nA petition for certification of the judgment in A-004256-14 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied."
+  },
+  "file_name": "1089-03",
+  "first_page_order": 1089,
+  "last_page_order": 1089
+}

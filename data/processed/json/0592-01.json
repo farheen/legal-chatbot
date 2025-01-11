@@ -1,0 +1,771 @@
+{
+  "id": 11302184,
+  "name": "In re David L. HERNDON, Respondent. A Member of the Bar of the District of Columbia Court of Appeals",
+  "name_abbreviation": "In re Herndon",
+  "decision_date": "1991-09-11",
+  "docket_number": "No. 90-914",
+  "first_page": "592",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "596 A.2d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "232 A.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8108277
+      ],
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/232/0293-01"
+      ]
+    },
+    {
+      "cite": "377 A.2d 393",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7999490
+      ],
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/377/0393-01"
+      ]
+    },
+    {
+      "cite": "579 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7356987
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "191",
+          "parenthetical": "lesser sanction appropriate only in extraordinary circumstances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/579/0190-01"
+      ]
+    },
+    {
+      "cite": "512 F.Supp. 81",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3255842
+      ],
+      "pin_cites": [
+        {
+          "page": "84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/512/0081-01"
+      ]
+    },
+    {
+      "cite": "418 U.S. 683",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174416
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "689"
+        },
+        {
+          "page": "3098"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0683-01"
+      ]
+    },
+    {
+      "cite": "108 L.Ed.2d 632",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1497",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "567 A.2d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7348325
+      ],
+      "pin_cites": [
+        {
+          "page": "427"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/567/0426-01"
+      ]
+    },
+    {
+      "cite": "653 F.2d 671",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3534270,
+        1465903
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "679"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/209/0416-01",
+        "/f2d/653/0671-01"
+      ]
+    },
+    {
+      "cite": "209 U.S.App.D.C. 416",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3534270
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/209/0416-01"
+      ]
+    },
+    {
+      "cite": "785 F.2d 1017",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1565341
+      ],
+      "pin_cites": [
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/785/1017-01"
+      ]
+    },
+    {
+      "cite": "530 A.2d 1152",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7893105
+      ],
+      "pin_cites": [
+        {
+          "page": "1156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/530/1152-01"
+      ]
+    },
+    {
+      "cite": "740 F.2d 556",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        622934
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "563"
+        },
+        {
+          "page": "559-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/740/0556-01"
+      ]
+    },
+    {
+      "cite": "813 F.2d 1207",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1689716
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1210"
+        },
+        {
+          "page": "1210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/813/1207-01"
+      ]
+    },
+    {
+      "cite": "46 F.R.D. 605",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        3707801
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "606"
+        },
+        {
+          "page": "607"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/46/0605-01"
+      ]
+    },
+    {
+      "cite": "511 F.2d 225",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        153258
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "229"
+        },
+        {
+          "page": "229"
+        },
+        {
+          "page": "229"
+        },
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/511/0225-01"
+      ]
+    },
+    {
+      "cite": "329 U.S. 495",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158152
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "501"
+        },
+        {
+          "page": "388"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/329/0495-01"
+      ]
+    },
+    {
+      "cite": "437 U.S. 340",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180035
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "351",
+          "parenthetical": "citing Hickman v. Taylor, 329 U.S. 495, 501, 67 S.Ct. 385, 388, 91 L.Ed. 451 (1947)"
+        },
+        {
+          "page": "2389",
+          "parenthetical": "citing Hickman v. Taylor, 329 U.S. 495, 501, 67 S.Ct. 385, 388, 91 L.Ed. 451 (1947)"
+        },
+        {
+          "parenthetical": "citing Hickman v. Taylor, 329 U.S. 495, 501, 67 S.Ct. 385, 388, 91 L.Ed. 451 (1947)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/437/0340-01"
+      ]
+    },
+    {
+      "cite": "576 F.2d 380",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        934663
+      ],
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/576/0380-01"
+      ]
+    },
+    {
+      "cite": "606 F.2d 1278",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3783716,
+        1436231
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1286"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/196/0371-01",
+        "/f2d/606/1278-01"
+      ]
+    },
+    {
+      "cite": "196 U.S.App.D.C. 371",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3783716
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "379"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/196/0371-01"
+      ]
+    },
+    {
+      "cite": "768 F.2d 875",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        356335
+      ],
+      "pin_cites": [
+        {
+          "page": "878"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/768/0875-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7\u00a7 551-559",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 L.Ed.2d 522",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 509",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "893 F.2d 1468",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11653293
+      ],
+      "pin_cites": [
+        {
+          "page": "1484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/893/1468-01"
+      ]
+    },
+    {
+      "cite": "549 F.2d 28",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        984563
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "33"
+        },
+        {
+          "page": "33",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/549/0028-01"
+      ]
+    },
+    {
+      "cite": "464 A.2d 115",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944970
+      ],
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/464/0115-01"
+      ]
+    },
+    {
+      "cite": "432 A.2d 1221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7987534
+      ],
+      "pin_cites": [
+        {
+          "page": "1225"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/432/1221-01"
+      ]
+    },
+    {
+      "cite": "335 A.2d 80",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 N.J.Super. 54",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        298748
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/133/0054-01"
+      ]
+    },
+    {
+      "cite": "542 A.2d 672",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "677"
+        },
+        {
+          "page": "678"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Conn. 346",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        537518
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "356"
+        },
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/207/0346-01"
+      ]
+    },
+    {
+      "cite": "50 L.Ed.2d 86",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 S.Ct. 77",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 U.S. 824",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5859,
+        7012,
+        7492,
+        7622,
+        7783,
+        6409,
+        7853,
+        7089,
+        5910,
+        7225,
+        7677
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0824-02",
+        "/us/429/0824-06",
+        "/us/429/0824-09",
+        "/us/429/0824-08",
+        "/us/429/0824-04",
+        "/us/429/0824-10",
+        "/us/429/0824-07",
+        "/us/429/0824-05",
+        "/us/429/0824-11",
+        "/us/429/0824-01",
+        "/us/429/0824-03"
+      ]
+    },
+    {
+      "cite": "530 F.2d 693",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        621436
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "695"
+        },
+        {
+          "page": "695"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/530/0693-01"
+      ]
+    },
+    {
+      "cite": "28 L.Ed.2d 661",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1375",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 915",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11745062,
+        11744774,
+        11745195,
+        11744716,
+        11745137,
+        11744983,
+        11744829,
+        11744669
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0915-06",
+        "/us/402/0915-03",
+        "/us/402/0915-08",
+        "/us/402/0915-02",
+        "/us/402/0915-07",
+        "/us/402/0915-05",
+        "/us/402/0915-04",
+        "/us/402/0915-01"
+      ]
+    },
+    {
+      "cite": "432 F.2d 854",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2224336
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "857-58"
+        },
+        {
+          "page": "858",
+          "parenthetical": "pre-trial discovery was not available in federal courts until the Federal Rules of Civil Procedure became effective in 1938"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/432/0854-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1100,
+    "char_count": 22818,
+    "ocr_confidence": 0.784,
+    "pagerank": {
+      "raw": 2.0807719630370413e-07,
+      "percentile": 0.7590318972264406
+    },
+    "sha256": "5967d08b95a29c08096cd78deafb8a036515d52a6767364e646c63002894d1ac",
+    "simhash": "1:0c575764e3deedc5",
+    "word_count": 3667
+  },
+  "last_updated": "2024-02-27T18:13:48.068462+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and FARRELL, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "In re David L. HERNDON, Respondent. A Member of the Bar of the District of Columbia Court of Appeals."
+    ],
+    "opinions": [
+      {
+        "text": "BELSON, Senior Judge:\nThis case is before the court on a Report and Recommendation of the Board on Professional Responsibility that respondent David L. Herndon be disbarred for two instances of intentional misappropriation of client\u2019s funds in violation of Disciplinary Rule 1-102(A)(4), two instances of dishonesty involving client\u2019s funds in violation of Disciplinary Rule 1-102(A)(4), two instances of misrepresentation of information to Bar Counsel in violation of Disciplinary Rule 1~102(A)(4), two instances of commingling of client\u2019s funds in violation of Disciplinary Rule 9-103(A), and one instance of failing to maintain proper client records in violation of Disciplinary Rule 9-103(B)(3). Herndon contends that the Hearing Committee\u2019s ruling partially denying his discovery request violated his right to due process and that he did not misappropriate client funds as they had been given to him in partial payment of his legal fees. We disagree, accept the Board\u2019s findings of fact, conclusions, and recommendations as set forth in parts I, III, and IV of its report, and impose the sanction of disbarment.\nI.\nFrom 1984 through 1987, Herndon represented Micro Computer Company (MCC) and Geri Schwartz, its president. During this period, the only arrangement made to compensate Herndon for his services consisted of an oral agreement that he would deduct his legal fees from the capital he would raise for MCC. In the summer of 1987, MCC, which was experiencing financial difficulties, wrote two checks to Hern-don for the amounts of $3,000 and $11,000 to negotiate partial payment to MCC\u2019s creditors. Herndon did not deposit either check into an identifiable client account. Herndon negotiated a partial payment with Sanyo Business Corporation, one of MCC\u2019s creditors, and wrote a personal check to Sanyo on a closed account for the amount of $2,500. After six months of unsuccessfully attempting to get Herndon to make good the check, Sanyo\u2019s counsel filed a complaint with Bar Counsel. Shortly thereafter, Herndon paid Sanyo the $2,500 by a cashier\u2019s check. During this time, MCC learned that Herndon had not used all of the $14,000 to make partial payments to its creditors and repeatedly demanded that Herndon return the remaining $11,500 to MCC. Richard Gins, an attorney consulted by MCC with respect to possible bankruptcy proceedings, confronted Herndon about the remaining $11,500. Rather than denying that he owed the money to MCC, Hern-don responded that \u201che would get [Gins] the money, that he was having some tax problems.\u201d Eventually, Herndon wrote a check on a closed account to MCC for the amount of $11,500 in response to MCC\u2019s repeated demands. The Office of Bar Counsel instituted formal disciplinary proceedings after Herndon responded to the allegations of misappropriation and commingling of client funds by stating that the funds were provided to him as payment for past legal services.\nII.\nHerndon contends that the Hearing Committee denied him due process of law when it denied part of his discovery request. \u201cIt is well settled that parties to judicial or quasi-judicial proceedings are not entitled to pre-trial discovery as a matter of constitutional right.\u201d NLRB v. Interboro Contractors, Inc., 432 F.2d 854, 857-58 (2d Cir.1970), cert. denied, 402 U.S. 915, 91 S.Ct. 1375, 28 L.Ed.2d 661 (1971); see also NLRB v. Valley Mold Co., 530 F.2d 693, 695 (6th Cir.), cert. denied, 429 U.S. 824, 97 S.Ct. 77, 50 L.Ed.2d 86 (1976); Pet v. Department of Health Serv., 207 Conn. 346, 356, 542 A.2d 672, 677 (1988). The right to discovery stems from statutes or court rules providing for discovery. See Howard Sav. Inst. v. Francis, 133 N.J.Super. 54, 59, 335 A.2d 80, 82 (1975); see also Interboro Contractors, supra, 432 F.2d at 858 (pre-trial discovery was not available in federal courts until the Federal Rules of Civil Procedure became effective in 1938).\nWe have provided that a respondent in an attorney disciplinary proceeding has \u201cthe right to reasonable discovery in accordance with rules promulgated by the Board.\u201d Bar Rule XI \u00a7 8(f). Under this authority the Board has promulgated rules for discovery. Generally, a respondent is entitled \u201cto all material in the files of Bar Counsel pertaining to the pending charges that are neither privileged nor the work product of the Office of Bar Counsel.\u201d Board Rule 3.1. Discovery from a third party, however, is more limited:\nThe Chair of the Hearing Committee before which a case is pending ... may, upon request of respondent, authorize discovery from nonparties by deposition or by production and inspection of documents. Such requests must be made by written motion. Such motions shall be granted only if respondent demonstrates that respondent has a compelling need for the additional discovery in the preparation .of respondent\u2019s defense and that such discovery will not be an undue burden on the complainant or other persons. Such motions are not favored.\nBoard Rule 3.2.\nHerndon questions why \u201creasonable discovery\u201d in disciplinary proceedings should not be comparable to the liberal discovery permitted in civil proceedings or to the discovery rights available in criminal proceedings. He maintains that Board Rule 3.2, discovery of evidence from third parties, is overly restrictive because it requires that the respondent demonstrate a compelling need for the discovery requested that must outweigh the general disfavor accorded such requests. Thus, the Hearing Committee\u2019s application of Board Rule 3.2, he argues, violated his right to due process.\nWe need not decide whether the specific provisions of Board Rule 3.2 are unduly restrictive because in fact, as our discussion of the matter will establish, the Hearing Committee\u2019s flexible and open-ended approach to discovery in this case was eminently reasonable. We, therefore, do not adopt part II of the Board\u2019s report which applies the provisions of Board Rule 3.2 to the discovery allowed by the Hearing Committee.\nIn giving content to the term \u201creasonable discovery,\u201d it is appropriate to look to discovery practices in administrative, civil, and criminal proceedings. In several cases, we have held that \u201cprocedural requirements analogous to those of other \u2018contested cases\u2019 must be observed in attorney disciplinary cases.\u201d In re Thorup, 432 A.2d 1221, 1225 (D.C.1981); see also In re Williams, 464 A.2d 115, 119 (D.C.1983). In this jurisdiction, the term \u201ccontested cases\u201d is nearly always used in conjunction with administrative proceedings. Thus, of foremost interest in our inquiry into reasonableness is the nature of discovery available in local administrative proceedings.\nIn administrative proceedings, as in other types of proceedings, parties generally are not entitled to pre-hearing discovery as a matter of constitutional right. Silverman v. Commodity Futures Trading Comm\u2019n, 549 F.2d 28, 33 (7th Cir.1977); see also Kenrich Petrochemicals, Inc., v. NLRB, 893 F.2d 1468, 1484 (3d Cir.), cert. denied, \u2014 U.S. \u2014, 111 S.Ct. 509, 112 L.Ed.2d 522 (1990); 4 J. Stein, G. Mitchell, & B. Mezines, AdministRAtive Law, \u00a7 23.01[1] (1991). The District of Columbia Administrative Procedure Act (DCAPA) sets forth the minimum procedural requirements of an administrative proceeding involving a contested case. D.C.Code \u00a7 1-1509 (1987 & Supp.1990). The DCAPA, like its federal counterpart \u2014 the Administrative Procedure Act, 5 U.S.C. \u00a7\u00a7 551-559 (1988), does not provide for discovery. See 3 K. Davis, Administrative Law TREatise, \u00a7 14:8 (2d ed. 1980); J. Stein, G. Mitchell, & B. Mezines, supra, \u00a7 23.01[3].\nMoreover, neither the rules of civil procedure nor the rules of criminal procedure apply to administrative proceedings unless the agency or the agency\u2019s enabling statute has adopted them. See Pet, supra, 207 Conn, at 357, 542 A.2d at 678; see also Mister Discount Stockbrokers, Inc. v. Securities & Exch. Comm\u2019n, 768 F.2d 875, 878 (7th Cir.1985) (Federal Rules of Civil Procedure do not apply to administrative proceedings); Silverman, supra, 549 F.2d at 33 (same); K. Davis, supra, \u00a7 14:8; J. Stein, G. Mitchell, & B. Mezines, supra, \u00a7\u00a7 23.01[2], 23.01[5]. Nevertheless, several courts have held that an administrative agency must grant discovery to a party in a contested case regardless of whether the agency enabling statute or agency rules provide for it if refusal to grant discovery would so prejudice the party as to amount to a denial of due process. See McClel-land v. Andrus, 196 U.S.App.D.C. 371, 379, 606 F.2d 1278, 1286 (1979); P.S.C. Resources, Inc. v. NLRB, 576 F.2d 380, 386 (1st Cir.1978); Valley Mold Co., supra, 530 F.2d at 695; see also J. Stein, G. Mitchell, & B. Mezines, supra, \u00a7 23.01[1]. Assuming such a right could arise in some situations, it obviously would be satisfied by according discovery that was reasonable under the circumstances.\nIn order to weigh Herndon\u2019s assertion that he was denied reasonable discovery, we survey briefly the extent of discovery available in analogous circumstances in civil and criminal cases. The rules of civil procedure, in contrast to the DCAPA, provide liberally for discovery by several methods, including, among others, the production of documents, the method in question in this case. Super.Ct.Civ.R. 26(a), 34. \u201c[A]ny matter, not privileged, which is relevant to the subject matter involved in the pending action, whether it relates to the claim or defense of the party\u201d is within the scope of permissible discovery. Id. 26(b)(1); see also 8 C. WRIGHT & A. MilleR, FEDERAL PRACTICE AND PROCEDURE \u00a7 2007 (1970). The language \u201crelevant to the subject matter involved in the pending action\u201d has been \u201cconstrued broadly to encompass any matter that bears on, or that reasonably could lead to other matter that could bear on, any issue that is or may be in the ease.\u201d Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340, 351, 98 S.Ct. 2380, 2389, 57 L.Ed.2d 253 (1978) (citing Hickman v. Taylor, 329 U.S. 495, 501, 67 S.Ct. 385, 388, 91 L.Ed. 451 (1947)). Nevertheless, the trial court may limit discovery of relevant matter in some instances upon its own initiative or pursuant to a motion for a protective order such as when \u201cthe discovery is unduly burdensome or expensive, taking into account the needs of the case, the amount in controversy, limitations on the parties\u2019 resources and the importance of the issues at stake in the litigation.\u201d Super.Ct.Civ.R. 26(b)(1).\nRule 34, detailing the scope and procedure for the production of documents, permits a party to request that another party produce designated documents. Id. 34(a). If a party seeks to obtain documents from one who is not a party to the suit, however, he must obtain a subpoena duces tecum against the person who has the documents. C. Wright & A. Miller, supra, \u00a7 2209.\nRule 45(d) governs the use of a subpoena as a discovery tool for the production of documents from a non-party. Super.Ct.Civ.R. 45(d). Not only is the issuance of a subpoena subject to the general provisions of Rule 26, the issuance of a subpoena under subsection (d) is also subject to subsection (b), permitting the trial court, upon motion, to \u201cquash or modify the subpoena if it is unreasonable and oppressive.\u201d Super.CtCiv.R. 45(b), (d); see also Premium Serv. Corp. v. Sperry & Hutchinson Co., 511 F.2d 225, 229 (9th Cir.1975); Hecht v. Pro-Football, Inc., 46 F.R.D. 605, 606 (D.D.C.1969). A trial court\u2019s decision to quash or modify the subpoena will not be reversed on appeal unless there is an abuse of discretion. Truswal Sys. Corp. v. Hydro-Air Eng\u2019g, Inc., 813 F.2d 1207, 1210 (Fed.Cir.1987); Deitchman v. E.R. Squibb & Sons, Inc., 740 F.2d 556, 563 (7th Cir.1984); Premium Serv. Corp., supra, 511 F.2d at 229; see also Plough, Inc. v. National Academy of Sciences, 530 A.2d 1152, 1156 (D.C.1987) (determination as to whether discovery will be granted is left to sound discretion of trial court and \u201cwill not be disturbed on appeal unless there has been an abuse of discretion\u201d).\nIn determining whether to quash or modify a subpoena in a civil proceeding, a trial court should consider \u201cthe relevance of the discovery sought, the requesting party\u2019s need, and the potential hardship to the party subject to the subpoena.\u201d Heat & Control, Inc. v. Hester Indus., Inc., 785 F.2d 1017, 1024 (Fed.Cir.1986); see also Deitchman, supra, 740 F.2d at 559-64; In re Multi-Piece Rim Prod. Liab. Litig., 209 U.S.App.D.C. 416, 424, 653 F.2d 671, 679 (1981). Another factor the trial court may consider in assessing the burden of complying with a subpoena is whether the deponent is not a party to the action. Truswal Sys., supra, 813 F.2d at 1210.\nThe rules of criminal procedure also provide for discovery. Super.Ct.Crim.R. 16. Discovery under the rules of criminal procedure, however, is not as broad as discovery under the rules of civil procedure. For instance, the provisions of Rule 16 relate only to discovery by the defendant from the government or by the government from the defendant; the rule does not provide for discovery from non-parties. Id. Further, Rule 17, governing the use of subpoenas in criminal cases, does not authorize the production of documents from non-parties for the purpose of discovery. See Brown v. United States, 567 A.2d 426, 427 (D.C.1989) (rule 17(c) not intended to provide additional means of discovery), cert. denied, \u2014 U.S. \u2014, 110 S.Ct. 1497, 108 L.Ed.2d 632 (1990); see also United States v. Nixon, 418 U.S. 683, 689, 94 S.Ct. 3090, 3098, 41 L.Ed.2d 1039 (1974); 2 C. WRIGHT, FEDERAL PRACTICE AND PROCEDURE \u00a7\u00a7 251, 271, at 34, 135 (1982).\nIII.\nOur review of the record of the disciplinary proceedings illustrates that the Hearing Committee permitted Herndon \u201creasonable discovery\u201d under any tenable definition of that term. At a pre-hearing conference, Herndon presented his request for production of documents from MCC. After reviewing the request, Bar Counsel asked the Hearing Committee to limit the scope of the request, stating that \u201cit obviously [is] a request for every document that this corporation has engendered during its history.\u201d The Hearing Committee Chairman, after hearing arguments by the parties, granted the portion of Herndon\u2019s discovery request for the production of documents to or from him and all checks made payable to him, documents relating to any communications between MCC and him, and documents supporting the allegations made by MCC in a memorandum dated April 5, 1988 to MCC\u2019s attorney, Gins, including records showing bills received and payments made to the various vendors.\nThe Chairman, however, denied Hern-don\u2019s request for documents relating to the hiring and firing of MCC\u2019s accountants, documents relating to hiring and firing of MCC\u2019s outside consultants, documents showing MCC\u2019s financial status and documents used in the preparation thereof, and documents relating to MCC\u2019s suppliers and customers, finding that Herndon had failed to demonstrate a compelling need by failing to \u201ctie those requests into specific allegations of the Complaint and your Answer to the Complaint.\u201d Nevertheless, the Chairman held \u201cthat to the extent Bar Counsel looks at additional documents [of MCC], it would seem proper that you be provided with an opportunity to examine those documents as well.\u201d\nThe Chairman also made clear at the pre-hearing conference that additional discovery would be allowed if \u201cfurther need for additional documents emerges that are clearly related to the issues that are framed.\u201d After the first day of the hearing, the Chairman again reminded Herndon of the committee\u2019s earlier position with respect to his discovery request:\nIf documents turn up to which you have not had an opportunity to respond or deal with and which appear to be material and pertinent to your defense, and if further proceedings are necessary, we\u2019re going to hold them. So that we\u2019re going to see to it, as I\u2019ve said before, that to the extent I as the Chair and the Committee understands the case and to the extent the Committee appreciates the relevance and the materiality and compelling need for these documents, we will not close the record until you have had an opportunity to respond to them at some point.\nSeveral days later at the next hearing date, Herndon made a motion for contempt for MCC\u2019s failure to comply with discovery. Bar Counsel asserted that there had been substantial compliance with the discovery requests, indicating that nineteen documents had been produced before the hearing, that three vendor files had been produced pursuant to the Chairman\u2019s ruling from the first day of the hearing, that the Washington Post vendor file had not been produced because Herndon never returned it to MCC after MCC had given it to him, and that a checkbook and checkstubs for the relevant time frame had been produced. Finding compliance with the discovery request, the Chairman denied Herndon\u2019s motion. Thereafter, Herndon announced his intention to leave the proceedings and did so after the Chairman informed him that the hearing would continue even if he chose to leave. Herndon\u2019s voluntary absence from the proceedings foreclosed the possibility that the Chairman would award additional discovery to Herndon pursuant to his earlier ruling.\nThe Hearing Committee Chairman did not deny Herndon reasonable discovery by partially denying his request for production of these documents. Herndon\u2019s request for documents was sweeping in nature, covering virtually every document in MCC\u2019s files. Cf. Premium, Serv. Corp., supra, 511 F.2d at 229; In re Electric Weld Steel Tubing Antitrust Litigation, 512 F.Supp. 81, 84 (N.D.Ill.1981). In light of MCC\u2019s status as a non-party, the Chairman acted reasonably in determining that Herndon\u2019s need for the excluded documents did not \u201csufficiently outweigh the burden and invasion of corporate privacy\u201d which would have resulted to MCC. See Premium Serv. Corp., supra, 511 F.2d at 229; Hecht, supra, 46 F.R.D. at 607. Thus, we are satisfied that the Hearing Committee complied with the discovery requirements of Rule XI, \u00a7 8(f).\nIV.\nHerndon further contends that he did not misappropriate his client\u2019s funds because they were delivered to him in partial payment of his legal fees. Having reviewed the Hearing Committee\u2019s report and the record, however, we are satisfied that substantial evidence of record supports the Board\u2019s findings that Herndon intentionally misappropriated his client\u2019s funds, that he failed to place his client\u2019s funds in identifiable accounts, that he failed to maintain proper client records, that he acted dishonestly in writing two bad checks, and that he gave false information to Bar Counsel. Bar R. XI \u00a7 9(g) (\u201cthe Court shall accept the findings of fact made by the Board unless they are unsupported by substantial evidence of record\u201d).\nFurthermore, the sanction, disbarment, recommended by the Board is appropriate given the Board\u2019s finding that Herndon intentionally misappropriated client funds. In re Addams, 579 A.2d 190, 191 (D.C.1990) (en banc) (\u201cin virtually all cases of misappropriation, disbarment will be the only appropriate sanction unless it appears that the misconduct resulted from nothing more than simple negligence\u201d). The Board considered the mitigating factors that Herndon had a long history of practice with the Bar, had no previous disciplinary violation, and entertained strong feelings that he should have been compensated for the legal services he provided. Having considered these factors, the Board decided to recommend disbarment in this case. See id. at 191 (lesser sanction appropriate only in extraordinary circumstances). We see no reason to reject its recommendation. See Rule XI \u00a7 9(g) (the court \u201cshall adopt the recommended disposition of the Board unless to do so would foster a tendency toward inconsistent dispositions for comparable conduct or would otherwise be unwarranted\u201d).\nAccordingly, it is\nORDERED that David L. Herndon be and hereby is disbarred from the practice of law in the District of Columbia effective thirty days from the date of this opinion.\nSo Ordered.\n.Herndon also contends that the Assistant Bar Counsel engaged in ex parte communications with the Hearing Committee when he sent a carbon copy of a letter addressed to Herndon to the hearing committee with documents obtained pursuant to Herndon\u2019s discovery request attached. This contention is without merit. First, this communication with the hearing committee was not ex parte; the letters were addressed to Herndon, not to the hearing committee. Second, Bar Counsel\u2019s purpose in sending the copies to the hearing committee \u2014 to show that he was complying with the discovery order \u2014 was a permissible one, as the materials were not unduly prejudicial.\n. Throughout these proceedings, Herndon has maintained that he never held client funds on behalf of MCC or Schwartz, that the money received from MCC was for legal fees, and that he knowingly wrote the $11,500 check on a closed account to get Steve Hulsey, MCC\u2019s accountant, out of his office. The Hearing Committee did not credit Herndon's version of those occurrences.\n. Because Herndon chose to leave the hearing before he had presented his case, see infra p. [596-597], we consider Herndon\u2019s contention to be concerned only with pre-trial discovery and do not consider whether the denial of Hern-don's discovery request may have denied him his right to produce evidence at the hearing.\n. The District of Columbia Administrative Procedure Act defines \"contested case\u201d as\na proceeding before the Mayor or any agency in which the legal rights, duties, or privileges of specific parties are required by any law ... or by constitutional right, to be determined after a hearing before the Mayor or before an agency, but shall not include:\n(A) Any matter subject to a subsequent trial of the law and the facts de novo in any court.\nD.C.Code \u00a7 1-1502(8) (1987).\n. We look to federal rule precedent in interpreting Superior Court discovery rules that are substantially the same as the federal rules. Neu-man v. Neuman, 377 A.2d 393, 398 (D.C.1977); Dunn v. Evening Star Newspaper Co., 232 A.2d 293, 295 (D.C.1967).\n. Herndon conceded that his request for documents relating to MCC\u2019s attempt to raise capital was encompassed in the requests granted by the Chairman.",
+        "type": "majority",
+        "author": "BELSON, Senior Judge:"
+      }
+    ],
+    "attorneys": [
+      "David L. Herndon, pro se.",
+      "Michael S. Frisch, Asst. Bar Counsel, with whom Thomas E. Flynn, Bar Counsel at the time the brief was filed, was on the brief, for Office of Bar Counsel."
+    ],
+    "corrections": "",
+    "head_matter": "In re David L. HERNDON, Respondent. A Member of the Bar of the District of Columbia Court of Appeals.\nNo. 90-914.\nDistrict of Columbia Court of Appeals.\nArgued Jan. 24, 1991.\nDecided Sept. 11, 1991.\nDavid L. Herndon, pro se.\nMichael S. Frisch, Asst. Bar Counsel, with whom Thomas E. Flynn, Bar Counsel at the time the brief was filed, was on the brief, for Office of Bar Counsel.\nBefore STEADMAN and FARRELL, Associate Judges, and BELSON, Senior Judge.\nJudge Belson was an Associate Judge of the court at the time of argument. His status changed to Senior Judge on July 24, 1991."
+  },
+  "file_name": "0592-01",
+  "first_page_order": 658,
+  "last_page_order": 664
+}

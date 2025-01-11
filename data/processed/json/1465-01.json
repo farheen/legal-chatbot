@@ -1,0 +1,158 @@
+{
+  "id": 6092442,
+  "name": "In re Saul Kaye",
+  "name_abbreviation": "In re Kaye",
+  "decision_date": "1964-06-11",
+  "docket_number": "No. 7188",
+  "first_page": "1465",
+  "last_page": "1468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 C.C.P.A. 1465"
+    },
+    {
+      "type": "parallel",
+      "cite": "141 U.S.P.Q. 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "332 F.2d 816"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cust. Ct.",
+    "id": 9324,
+    "name": "United States Customs Court"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "331 F. 2d. 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6092332,
+        132702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01",
+        "/f2d/331/0610-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1271",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092332
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01"
+      ]
+    },
+    {
+      "cite": "330 F. 2d 652",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        127962,
+        6092311
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/330/0652-01",
+        "/ccpa/51-2/1236-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1236",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092311
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1236-01"
+      ]
+    },
+    {
+      "cite": "222 F. 2d 267",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        49656,
+        6078794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/222/0267-01",
+        "/ccpa/42-2/0864-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 864",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078794
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0864-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 591,
+    "char_count": 10642,
+    "ocr_confidence": 0.41,
+    "pagerank": {
+      "raw": 9.308158117823915e-07,
+      "percentile": 0.9801774157489491
+    },
+    "sha256": "c384cfe77a6f57f31711c92dc4b620a179a02f72695dd0a822ef9e3d40e2be52",
+    "simhash": "1:82b2d8d26e8632f5",
+    "word_count": 1705
+  },
+  "last_updated": "2024-02-27T21:50:20.076457+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Saul Kaye"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of tbe court:\nThis appeal is from a decision of the Board of Appeals, adhered to on reconsideration, sustaining the examiner\u2019s rejection of claim 1 of appellant\u2019s patent application. The issue presented is one of double patenting and, more particularly, the determinative question involves the effect of a terminal disclaimer filed pursuant to 35 U.S.C. 253.\nAppellant discloses and claims a new sterilant which is said to be useful for inactivating or destroying all types of micro-organisms, as well as larger organisms such as insects and their eggs and larvae. The claimed mixture includes ethylene oxide as the active sterilizing agent. Since ethylene oxide is highly flammable and, under certain conditions, explosive, it has been found necessary to dilute it with nonflammable material. Appellant\u2019s specification indicates that some success has been achieved in the prior art by diluting the ethylene oxide with carbon dioxide. However, the problem of flammability still persists to a substantial degree even with such a mixture, since the carbon dioxide evaporates at a markedly lower temperature (and/or higher pressure) than the ethylene oxide, thus leaving behind fairly concentrated amounts of the flammable material.\nAppellant alleges that he has been able to solve the problem by incorporating into the mixture, along with the ethylene oxide, carefully controlled amounts of two substances, dicblorotetrafluoroethane (Freon 114) and trichloromonofluoromethane (Freon 11). These substances are both flammability suppressants, and the proportions are selected such that the mixture is nonflammable in all liquid-vapor phase relationships. Thus, since Freon 11 has a higher boiling point and a lower vapor pressure than ethylene oxide, while Freon 114 has a lower boiling point and a higher vapor pressure, the ethylene oxide is at all times diluted to at least the point of nonflammability, regardless of temperature or pressure conditions under normal use.,\nThe examiner rejected appealed claim 1 as unpatentable over the claims of Kaye, appellant\u2019s own patent. The Kaye patent claims a sterilant comprising a mixture of ethylene, oxide, Freon 11 and Freon 12. Since we are faced with a rejection for double patenting, we are required to determine whether appealed claim 1 defines a pat-entably distinct invention over that claimed ill Kaye. Accordingly, Kaye claim 1 (the most pertinent of the patent claims) and appealed claim 1 ax-e set forth below in parallel columns for ease of comparison:\nAppealed Claim, 1\n. A sterilant comprising a mixture of ethylene oxide, dichlorotetrafluoroeth-ane [Freon 114], and trictdoromono-fluoromethane [Freon-11] in proportions substantially as shown graphically in the drawings and stated in terms of mole percent of dichlorotetra-fluoroethane according to the formulae\nI/+E'+H'=100 and B' \u2014 22+0.661/\u2014.0084L'a,\nwhere L' is the mole percent of dichlorotetrafiuoroethane, E' is the mole percent of ethylene oxide and H' is the mole percent of trichloromonofluo-romethane.\nKaye Claim 1\nA sterilant comprising a mixture of ethylene oxide, diehlorodifiuorometh-ane [Freon 12], and trichloromono-fluoromethane [Freon 11] in proportions substantially as shown graphically in the drawing and stated in terms of mole percent of dichlorodi-fluoromethane according to the formula:\nL+E+H=100\nwhen\nE?22+0.78L \u2014 .021I+.00011L where L is the mole percent of dichlo-rodifluoromethane, E is the mole percent of ethylene oxide and H is the mole percent of trichloromonofluoro-methane.\nIt can be readily seen that the differences are two: (1) appealed claim 1 specifies a mixture of Freon 11 and Freon 114 while Kaye claim 1 calls for Freon 11 and Freon 12; and (2) the equations defining the proportions of the three ingredients are, of course, different. The board apparently considered the differences to be so slight that the two claims define but one invention; in affirming the rejection of appealed claim 1, the board merely said \u201cIt is fundamental that only one patent may be granted for a single invention.\u201d While this statement may be correct, see In re Siu, 42 CCPA 864, 222 F. 2d 267, 105 USPQ, 428, it does not state the issue presently before us, for as we shall point out in more detail, we do not agree that appealed claim 1 and Kaye claim 1 define a single invention.\nIt is difficult to see how it can be reasonably argued that the two claims set forth above relate to the same invention. It is apparent that both claims relate to the same broad, basic idea. But as we have pointed out, appealed claim 1 employs Freon 114 as one of the flammability suppressants, while Kaye claim 1 uses Freon 12. To say the two mixtures are the .same, then, would be tantamount to saying that, insofar as this particular type of sterilant preparation is concerned, Freon 114 and Freon 12 are the \u201csame.\u201d This we cannot do. Moreover, the equations defining the proportions of ingredients for the two claims are necessarily different because Freon 114 and Freon 12 have different boiling points and vapor pressures. Proper selection of such proportions is essential to the success of each of the claimed mixtures, and the proportion equation for one mixture would clearly not be applicable to the other. In view of such differences, therefore, we cannot say that appealed claim 1 and Kaye claim 1 define the same invention. Our analysis indicates that there are definitely two separate, though related, inventions involved here.'\nWe must next consider whether these two separate inventions are patentabh] distinct from one another. For if they are not, then to allow a patent for appealed claim 1 would be to extend beyond its lawful term the monopoly which appellant now enjoys with respect to Kaye claim 1. E.g., In re Christensen, 51 CCPA 1236, 330 F. 2d 652, 141 USPQ 295.\nWe are of the opinion that the two inventions are not patentably distinct. The differences between Freon 114 and Freon 12 are not such that the substitution of one for the other in a mixture otherwise qualitatively identical would be unobvious to one having ordinary \u00abTrill in tbe art. And while the proportion equations are essential to-the operativeness of the invention, we think that their derivation, largely empirical in nature, would require no more than the ordinary skill of the art.\nThere remains the question of the terminal disclaimer. While the disclaimer document does not appear in the record, appellant states, and a passage in the examiner\u2019s answer confirms, that appellant has filed a terminal disclaimer disclaiming that portion of the term of any patent issued on the present application which would extend beyond the term of the Kaye patent.\nRecently, hi In re Robeson, 51 CCPA 1271, 331 F. 2d. 610, 141 USPQ 485, this court had occasion to consider the effect of a terminal disclaimer in overcoming a double patenting rejection. In that case we held that where, as here, the claims define separate, albeit patentably indistinct, inventions, the filing of a terminal disclaimer may obviate a double patenting rejection. As we noted in Robeson,\n* * * extension of monopoly is not the only objection to double patenting. Others include possible harassment by multiple assignees, inconvenience to- the Patent Office, and the possibility that one might avoid the effect of file wrapper estoppel by filing a second application. We do not minimize those possibilities, but we must decide this case on the facts before us. We are not here confronted by a situation where any abuse of the terminal disclaimer is suggested. We conclude that on the facts here, the only real objection to granting appellant\u2019s application is an extension of the monopoly. The terminal disclaimer, which Congress has expressly provided, removes any danger of such result, * \u215c *.\nThe foregoing statement has direct and complete applicability to the factual situation in the present case. We therefore hold that the board erred in sustaining the rejection of claim 1 on the basis of double patenting.\nAs we have indicated, however, appellant\u2019s terminal disclaimer is missing from the record before us. Thus we are obliged to remand this case so that a determination can be made as to whether the said disclaimer is in proper form and according to law.\nThe decision of the board is reversed and the case remanded for further proceedings not inconsistent with this opinion.\nClaims 2 and 4-8, considered by the board in its original decision, -were abandoned on the petition for rehearing and are not present in this appeal.\nSerial No. 791,114, filed February 4,1959, entitled \u201cSterilant.\u201d\nNo. 2,891,838, issued June 23, 1959, for \u201cNon-Inflammable Ethylene Oxide Sterilant.\u201d\n'The examiner further rejected claim 1 as unpatentable over the claims of Kaye in view of Kinetic Tech. Memoranda (1) and (2) (1955), two publications issued by E. I. du Pont de Nemours & Co. which relate to density and vapor pressure characteristics of various Freon compositions which can be used as propellants in aerosol preparations. Since we are able to dispose of this case on the first ground of rejection, we need not consider these references further.\nThe examiner also cited two united States patents (Lodes, 2,539,092, Nov. 7, 1950 and Goodhue et al., 2,321,023, June 8,1943) to show the \u201cstate of the art.\u201d\nAppellant points to a significant increase in the percentage of ethylene oxide (over that possible in the Kaye mixture) which can be safely incorporated in the particular mixture here claimed. Since ethylene oxide is the active ingredient of the mixture such an increase over Kaye appears desirable, particularly if it can be accomplished without increasing the flammability hazards.\nThe solicitor urges that this court not consider the terminal disclaimer since it is not mentioned in appellant\u2019s reasons of appeal. In this regard, we need only point out that the reasons of appeal adequately raise the issue of double patenting herein decided. Since the terminal disclaimer is very intimately involved in that issue, our decision with respect to the lawfulness of the double patenting rejection necessarily requires a consideration of the terminal disclaimer.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Bosworth, Sessions, Berrstrom & Knowles {Frederic M. Bosworth and Arthur L. Gain, of counsel) for appellant.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "332 F. 2d 816; 141 USPQ 829\nIn re Saul Kaye\n(No. 7188)\nUnited States Court of Customs and Patent Appeals,\nJune 11, 1964\nBosworth, Sessions, Berrstrom & Knowles {Frederic M. Bosworth and Arthur L. Gain, of counsel) for appellant.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument March 6, 1964, by Mr. Cain and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1465-01",
+  "first_page_order": 785,
+  "last_page_order": 788
+}

@@ -1,0 +1,62 @@
+{
+  "id": 8005252,
+  "name": "Irene ROY v. Carol REILLY",
+  "name_abbreviation": "Roy v. Reilly",
+  "decision_date": "1982-12-16",
+  "docket_number": "No. 82-227-A",
+  "first_page": "1100",
+  "last_page": "1100",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "453 A.2d 1100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 370,
+    "ocr_confidence": 0.765,
+    "sha256": "2a3d715bb4c2cd49ab6deafeaa3b099812d8cfba57f94fde3cdf6e8e98064d7f",
+    "simhash": "1:1d9bb2a0934b3dd2",
+    "word_count": 60
+  },
+  "last_updated": "2023-07-14T18:20:38.163642+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Irene ROY v. Carol REILLY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nTreating the defendant\u2019s dismissal motion as a motion to affirm the judgment of the Superior Court pursuant to Rule 16(g), the motion to affirm is hereby granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Luc R. LaBrosse, Central Falls, for plaintiff.",
+      "Carroll, McAteer & Carl, Susan A. Carl, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Irene ROY v. Carol REILLY.\nNo. 82-227-A.\nSupreme Court of Rhode Island.\nDec. 16, 1982.\nLuc R. LaBrosse, Central Falls, for plaintiff.\nCarroll, McAteer & Carl, Susan A. Carl, Providence, for defendant."
+  },
+  "file_name": "1100-04",
+  "first_page_order": 1156,
+  "last_page_order": 1156
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487471,
+  "name": "In the Interest of: B.M.B., Appeal of: F.R.",
+  "name_abbreviation": "In re Interest of B.M.B.",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 1234 EDA 2015",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 788"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 120,
+    "sha256": "bfba2bc5c5ac41cc8494aab91599504ae5bfa04664f4e2ac39be0d6fdcf98c37",
+    "simhash": "1:b51d5f5b72149dc1",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: B.M.B., Appeal of: F.R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: B.M.B., Appeal of: F.R.\nNO. 1234 EDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed."
+  },
+  "file_name": "0788-06",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

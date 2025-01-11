@@ -1,0 +1,83 @@
+{
+  "id": 12489072,
+  "name": "David BRIDGES v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Bridges v. Comm'r of Corr.",
+  "decision_date": "2017-02-01",
+  "docket_number": "",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 A.3d 1008"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn. App. 742",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488878
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/152-2/0071-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 372,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577766116866273
+    },
+    "sha256": "bb32d91dd257765b1b68cdb9e271849b326acca9b081b15934f1aaaaf049d182",
+    "simhash": "1:28a7148dfbf527d1",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T16:27:35.256947+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David BRIDGES\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner David Bridges' petition for certification for appeal from the Appellate Court, 169 Conn. App. 742, 152 A.3d 71 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "David BRIDGES\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided February 1, 2017\nDavid B. Rozwaski, assigned counsel, in support of the petition.\nMatthew A. Weiner, assistant state's attorney, in opposition.\nThe petitioner David Bridges' petition for certification for appeal from the Appellate Court, 169 Conn. App. 742, 152 A.3d 71 (2016), is denied."
+  },
+  "file_name": "1008-02",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

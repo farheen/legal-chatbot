@@ -1,0 +1,83 @@
+{
+  "id": 12491681,
+  "name": "STEPHEN J. R. v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Stephen J. R. v. Comm'r of Corr.",
+  "decision_date": "2018-01-03",
+  "docket_number": "",
+  "first_page": "1246",
+  "last_page": "1246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 1246"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 995"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "178 Conn. App. 1",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491526
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/173-2/0984-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 463,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25788009262316064
+    },
+    "sha256": "0b32f71856bef1fd396ef0bc72d00b3f536aed18f01dada1dd91a52b612c74fd",
+    "simhash": "1:741a362efa634fb4",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STEPHEN J. R.\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Stephen J. R.'s petition for certification to appeal from the Appellate Court, 178 Conn. App. 1, 173 A.3d 984 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STEPHEN J. R.\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided January 3, 2018\nRobert L. O'Brien, assigned counsel, in support of the petition.\nDemise B. Smoker, senior assistant state's attorney, in opposition.\nThe petitioner Stephen J. R.'s petition for certification to appeal from the Appellate Court, 178 Conn. App. 1, 173 A.3d 984 (2017), is denied.\nMULLINS, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "1246-03",
+  "first_page_order": 1246,
+  "last_page_order": 1246
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487602,
+  "name": "Com. v. M. Peck",
+  "name_abbreviation": "Com. v. Peck",
+  "decision_date": "2016-04-29",
+  "docket_number": "NO. 1149 MDA 2015",
+  "first_page": "797",
+  "last_page": "797",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 135,
+    "sha256": "c6f05ebc053c57d56f48ba80e410800c296316033520ecde4f14822a1e1f42f3",
+    "simhash": "1:201d7f9152a287d4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Peck"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Peck\nNO. 1149 MDA 2015\nSuperior Court of Pennsylvania.\nApril 29, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0797-09",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

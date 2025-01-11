@@ -1,0 +1,96 @@
+{
+  "id": 7958888,
+  "name": "Reynold PANICCIA v. Claudette WEISSINGER",
+  "name_abbreviation": "Paniccia v. Weissinger",
+  "decision_date": "1981-12-17",
+  "docket_number": "No. 79-464-A",
+  "first_page": "447",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "442 A.2d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "356 A.2d 207",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12169998
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "302"
+        },
+        {
+          "page": "218"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/116/0283-01"
+      ]
+    },
+    {
+      "cite": "116 R.I. 288",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "year": 1976,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 207,
+    "char_count": 2592,
+    "ocr_confidence": 0.793,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20065243185992696
+    },
+    "sha256": "169567a54d765ed5d97ad2f0751804e63c5de804c7df2cd0deb56ab4d32bdb38",
+    "simhash": "1:95ba283c784fdd6a",
+    "word_count": 426
+  },
+  "last_updated": "2024-02-27T23:49:58.702888+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reynold PANICCIA v. Claudette WEISSINGER."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before the court on our continuous argument calender on December 10, 1981. Plaintiff brought this action against Claudette Weissinger (Claudette) and her husband to recover damages incurred when a car driven by Claudette rear-ended one driven by plaintiff. A directed verdict was entered dismissing Claudette\u2019s husband from the action when it was established that he was not the owner of the vehicle in question. The action was submitted to a jury of the Superior Court. Since Claudette had admitted liability, the sole issue for consideration was damages. The jury returned an award of $6,000. plus interest for the plaintiff. Plaintiff\u2019s counsel promptly filed a motion for a new trial on the ground that the jury verdict was grossly inadequate. Notwithstanding the fact that the special damages were substantially less than the jury award, the trial justice granted the motion for a new trial. At the hearing on the motion for a new trial there was some confusion as to whether the trial justice could consider an addi-tur. The trial justice, however, did not consider an additur. Our practice clearly requires that before a trial justice grants a motion for a new trial on the ground that the damages awarded by the jury were grossly inadequate, he must afford the losing party an opportunity to consent to an additur. Roberts v. Kettelle, 116 R.I. 288, 356 A.2d 207 (1976). Plaintiff\u2019s counsel, at oral argument, admitted that this was the established procedure in this jurisdiction. In Roberts, we explained that although G.L. 1956 (1969 Reenactment) \u00a7 9 \u2014 23\u20141, the statutory requirement that additurs and re-mittiturs be made available as alternatives to new trials on damages, had been repealed by P.L.1972, ch. 169, \u00a7 9, \u201c[t]he practice remains viable by virtue of the provision of Super.R.Civ.P. 59(a)(1). . . . \u201d Id. at 302, 356 A.2d at 218. In our opinion, this failure to propose an additur warrants a remand. Accordingly, this case is remanded to the Superior Court in order that the trial justice may consider an additur which Claudette may choose to accept or reject. Jurisdiction of the within appeal is retained so that upon appeal we may consider such additur, if any. The record is remanded to the Superior Court so that the trial justice may comply with the dictates of this Order; and, after compliance, the case shall be returned forthwith to this court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Alan T. Dworkin, Providence, for plaintiff.",
+      "Eugene Y. Higgins, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Reynold PANICCIA v. Claudette WEISSINGER.\nNo. 79-464-A.\nSupreme Court of Rhode Island.\nDec. 17, 1981.\nAlan T. Dworkin, Providence, for plaintiff.\nEugene Y. Higgins, Providence, for defendant."
+  },
+  "file_name": "0447-04",
+  "first_page_order": 499,
+  "last_page_order": 500
+}

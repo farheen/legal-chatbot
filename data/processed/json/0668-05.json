@@ -1,0 +1,58 @@
+{
+  "id": 12501631,
+  "name": "J.B. v. L.B.",
+  "name_abbreviation": "J.B. v. L.B.",
+  "decision_date": "2018-07-13",
+  "docket_number": "372 EDA 2018",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 90,
+    "sha256": "d19b52ae4ee815be80add77e72498febf8fb356f84ef2edd582f938f27625160",
+    "simhash": "1:1d51547371d90fe4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.B.\nv.\nL.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J.B.\nv.\nL.B.\n372 EDA 2018\nSuperior Court of Pennsylvania.\nJuly 13, 2018\nAppeal Dismissed"
+  },
+  "file_name": "0668-05",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

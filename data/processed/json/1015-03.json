@@ -1,0 +1,59 @@
+{
+  "id": 6080494,
+  "name": "In re Ryan",
+  "name_abbreviation": "In re Ryan",
+  "decision_date": "1953-11-05",
+  "docket_number": "No. 6000",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "ocr_confidence": 0.424,
+    "sha256": "ff6e1a7c75350a289720b410993794b6d934715ac458a81c82b656cf86b6fe8e",
+    "simhash": "1:13c1cc03125f1cc9",
+    "word_count": 27
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ryan"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process of the use of glycerin as carbon, hydrogen and oxygen extracted from fatty or oily substances.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 5, 1953\nIn re Ryan\n(No. 6000)."
+  },
+  "file_name": "1015-03",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

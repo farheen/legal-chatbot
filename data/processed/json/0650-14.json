@@ -1,0 +1,58 @@
+{
+  "id": 12489654,
+  "name": "IN RE C.N.",
+  "name_abbreviation": "In re C.N.",
+  "decision_date": "2016-02-09",
+  "docket_number": "16\u2013358",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "13b326e54cd780f5d2b140d9708e71e049899ec11c27903cbe3696af30524d3c",
+    "simhash": "1:2c110f28da587240",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE C.N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE C.N.\n16-358\nSupreme Court of Vermont.\nFebruary 9, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0650-14",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

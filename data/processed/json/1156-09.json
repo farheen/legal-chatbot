@@ -1,0 +1,58 @@
+{
+  "id": 12488592,
+  "name": "Com. v. Gonzalez, A.",
+  "name_abbreviation": "Com v. Gonzalez",
+  "decision_date": "2016-05-23",
+  "docket_number": "833 MDA 2015",
+  "first_page": "1156",
+  "last_page": "1156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1156"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "6a490401542883301ca4e0703b0311697d5e52ae4f892ca32d272f03bca254c8",
+    "simhash": "1:5ed87540d8bc9572",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGonzalez, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGonzalez, A.\n833 MDA 2015\nSuperior Court of Pennsylvania.\nMay 23, 2016\nAffirmed"
+  },
+  "file_name": "1156-09",
+  "first_page_order": 1156,
+  "last_page_order": 1156
+}

@@ -1,0 +1,81 @@
+{
+  "id": 6094527,
+  "name": "In re John Waldheim",
+  "name_abbreviation": "In re Waldheim",
+  "decision_date": "1929-12-19",
+  "docket_number": "No. 2168",
+  "first_page": "711",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 711"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "23 Fed. Rep. (2d) 771",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1718401
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/23/0771-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 438,
+    "char_count": 8601,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17353907505804392
+    },
+    "sha256": "2bca543fa19c73db71aa94691fbe3766ff6c8df55662aec80b48f03dc5288bbe",
+    "simhash": "1:f0ed2a7ac704a8cf",
+    "word_count": 1443
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "In re John Waldheim"
+    ],
+    "opinions": [
+      {
+        "text": "Leneoot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Commissioner of Patents affirming that of the examiners in chief, holding unpatentable all the claims of appellant, 13 in number.\nClaim 11 is illustrative of the claims in issue and reads as follows:\n11. A work-web-magazine for feeding work-webs to a typewriting machine, comprising a series of tiers of work-web containers mounted for rotation about a vertical axis and arranged so that the containers of any tier of the series may be brought into effective work-feeding position by rotation of the magazine, each container having an open front end, and the containers of each tier being arranged with their open front ends projecting progressively outwardly from top to bottom to prevent interference of an upper container with the work being fed from the lower container.\nThe references are:\nSmith, 1380746, June 7, 1921.\nWilliams, 489665, January 10, 1893.\nWilliams, 315688, April 14, 1885.\nNauerth, 317175, May 5, 1885.\nWhile the claim above quoted refers in general terms to a typewriting machine, the specific typewriting machine involved is a continuous billing typewriting machine, and the claimed invention is for a revolving magazine for selectively feeding work-webs to such a machine. A work-web comprises several layers or plies, usually having printed forms. Carbon sheets are interleaved between the plies and are mounted on a carbon carriage so as to advance with the web while typing. When a different set of forms is to be typed it is necessary to remove the web temporarily from the typewriter and bring into use a second web with its carbon sheets.\nAppellant\u2019s device is described in his specification as follows:\nFor convenience in handling and interchanging a plurality of webs, this invention provides, in connection with a table on which the typewriting machine is mounted, a magazine comprising a plurality of tiers of containers, each container or compartment having positioned therein a web-pack and its attached carbon-holder (when the latter is not in use.) The magazine is revolubly mounted for movement about a vertical axis and the tiers are so arranged that any one of them may be brought into effective feeding position, said position being preferably directly to the rear of the machine, by rotating said magazine about its vertical axis. The tiers are so arranged that the maximum deptli of containers may be utilized within the lateral dimensions of the magazine. When a tier has been so positioned, the web from any of the containers in said tier may be fed to the machine. Each container, when in effective feeding position, has an open end to permit the unobstructed withdrawal of the web from the pack in that container. To prevent interference of an upper container of a tier with the web from a lower container in that tier, the containers may be arranged with their open ends projecting progressively outwardly from top to bottom. When the web in use is to be replaced by a second web, it is withdrawn from the machine together with its carbon-holder and deposited in its container. The second web with its carbon-holder is then mounted on the machine, the magazine having previously been rotated if the container of the second web is in a different tier from the container of the first web.\nIn the Smith patent two web-feeding drawers are shown, one above the other, the two drawers being in vertical register with the typewriting machine. The drawers are located in the stand supporting the typewriting machine. The patent states that \u201c the number of webs may be increased if desired and additional drawers provided.\u201d Appellant points out, however, that in the Smith device there would not be room for additional drawers between the top of the stand and the floor.\nThe patent to Williams, No. 489665, discloses a printer\u2019s cabinet, designed to be used by a printer and to hold leads, rules, etc., in a convenient position whereby they may be reached by rotating the cabinet.\nThe patent to Williams, No. 315668, shows a bag rack adapted to hold a number of paper bags of different sizes. The frame is formed of a plurality of uprights and shelves, and is pyramidal in shape. It also states that the rack may be set upon a pivot to facilitate the turning of the frame.\nThe patent to Nauerth discloses a revolving bookcase to enable a person to have easy access to the books without moving from one side to the. other.\nThe Board of Appeals, after describing appellant\u2019s device and the devices disclosed in the references above mentioned, said :\nIn view of these patents, we see no invention in arranging the plurality of containers of Smith on the respective sides of the revolving cabinets of Nauerth or Williams.\nThe commissioner, in affirming this decision, said:\nTlie question for decision in its simplest form appears to be whether it involved invention to substitute for the plurality of web containers shown in the Smith patent a plurality of containers mounted for rotation about a vertical axis, such as disclosed in the Williams patent.\nAppellant contends that this is not a correct statement of the issue, and insists that the question for decision was whether the magazine for feeding work-webs to a typewriting machine, particularly pointed out and distinctly claimed in the claims appealed, was an invention. We think appellant is technically correct in this contention, but it is clear to us that the commissioner was of the opinion that a plurality of containers mounted for rotation about a vertical axis, such as disclosed in the Williams patent, substituted for the plurality of web containers shown in the Smith patent, would be the equivalent of appellant\u2019s device, and therefore, as stated by him, the question was whether such substitution involved invention. He therefore stated the final question after resolving a preliminary question adversely to appellant.\nAll of the tribunals below have held that the device here in question did not involve invention, and we are of the same opinion.\nWe may take judicial notice that the continuous billing typewriting machines are of comparatively recent origin; It is stated in appellant\u2019s brief that the continuous-billing typewriter machine is peculiar io his assignee; that it developed its manufacture and commercial use; that it is also the assignee of the Smith patent, and that said patent originated because a want arose in the art to feed two webs to the continuous-billing machine, and that when a further want arose for {'ceding more than two webs to the machine the assignee produced the claimed invention here in issue. We may accept all this as true, although the record does not disclose all of these facts, but accepting the statements in the brief, it would seem that when the want arose for feeding more than two webs to the machine, the way had already been indicated by the disclosures in prior patents how it could be done, and that it did not involve invention to substitute the plurality of containers set out in such disclosures for the plurality of webs shown in the Smith patent.\nThe case of In re Smith, 23 Fed. Rep. (2d) 771, involved a question very similar to that here in issue. In that case Smith, the pat-entee in one of the references in this case, and whose assignee is stated in appellant\u2019s brief to be the same as his assignee, involved the patentability of a revolving web container for feeding one of a plurality of webs-to a typewriting machine. The principal reference in that case was the same as the principal reference in the case at bar, viz, Smith, Patent No. 1380746. The Court of Appeals of the District of Columbia affirmed the decision of the Patent Office, holding that the substitution of the revolving carrier for the sliding drawers of the prior patents did not rise to the dignity of invention. The court said:\nThe reel type of carrier was old, and we are constrained to agree with the Patent Office that invention was not involved in adapting it to the device shown in applicant\u2019s prior patents.\nWe think there is no difference in principle between that case and the case at bar.\nWe find no reversible error in the decision of the commissioner and it is affirmed.",
+        "type": "majority",
+        "author": "Leneoot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Bwi'nliam O. Stiokney (.L. H. OampteTl, of counsel) for appellant.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re John Waldheim\n(No. 2168)\nUnited States Court of Customs and Patent Appeals,\nDecember 19, 1929\nBwi'nliam O. Stiokney (.L. H. OampteTl, of counsel) for appellant.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument November 14, 1929, by Mr. Campbell and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+  },
+  "file_name": "0711-01",
+  "first_page_order": 161,
+  "last_page_order": 164
+}

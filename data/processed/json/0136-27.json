@@ -1,0 +1,62 @@
+{
+  "id": 12485461,
+  "name": "Sibley v. Doe",
+  "name_abbreviation": "Sibley v. Doe",
+  "decision_date": "2016-07-12",
+  "docket_number": "No. 147 Sept. Term 2016",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 136"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 Md. 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 103,
+    "sha256": "e01138dfdd4d0243eee777622c9e09ceacf53803806109ff96b53fdeaaf216c5",
+    "simhash": "1:103b54a5d5c388d6",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sibley\nv.\nDoe"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sibley\nv.\nDoe\nNo. 147 Sept. Term 2016\nCourt of Appeals of Maryland\nJuly 12, 2016\nDisposition: Denied."
+  },
+  "file_name": "0136-27",
+  "first_page_order": 136,
+  "last_page_order": 136
+}

@@ -1,0 +1,81 @@
+{
+  "id": 7974946,
+  "name": "STATE v. Fritz CROMWELL, et al.",
+  "name_abbreviation": "State v. Cromwell",
+  "decision_date": "1983-03-03",
+  "docket_number": "No. 83-8-C.A.",
+  "first_page": "271",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "457 A.2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "121 R.I. 537",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3182318
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0537-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 466,
+    "ocr_confidence": 0.787,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20067270331204637
+    },
+    "sha256": "bd39750d0f4c4286cbbb1ea85792c344a5030fe1a49713e63ae632c0a7221537",
+    "simhash": "1:300ff829bc91bcf4",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T17:53:20.092160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Fritz CROMWELL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPursuant to the parties\u2019 motion, and in light of this courts decision in D & J Enterprises, Inc. et al. v. Michaelson, Attorney General et al., 121 R.I. 537, 401 A.2d 440 (1979), this case is hereby remanded to the Superior Court for further proceedings.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff.",
+      "Leonard A. Kamaras, John F. Sheehan, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Fritz CROMWELL, et al.\nNo. 83-8-C.A.\nSupreme Court of Rhode Island.\nMarch 3, 1983.\nDennis J. Roberts II, Atty. Gen., for plaintiff.\nLeonard A. Kamaras, John F. Sheehan, Providence, for defendant."
+  },
+  "file_name": "0271-02",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

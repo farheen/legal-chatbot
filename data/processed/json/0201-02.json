@@ -1,0 +1,58 @@
+{
+  "id": 12486626,
+  "name": "Com. v. B. Norris",
+  "name_abbreviation": "Com. v. Norris",
+  "decision_date": "2016-03-17",
+  "docket_number": "NO. 2512 EDA 2015",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "968f893f183af9bc19dd8f67b063d9d6bf6f88a24036b53a9adf0946ca0d3b8d",
+    "simhash": "1:0519579aa3ee91d1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Norris"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Norris\nNO. 2512 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 17, 2016\nAffirmed."
+  },
+  "file_name": "0201-02",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

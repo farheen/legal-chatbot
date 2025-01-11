@@ -1,0 +1,62 @@
+{
+  "id": 12501973,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Shanon E. GOODEN, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Gooden",
+  "decision_date": "2018-09-28",
+  "docket_number": "C-116 September Term 2018; 080888",
+  "first_page": "88",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 88"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 373,
+    "sha256": "3b37b6bc9094ceb779cb08254976e16442467caf563c1f2dde05a7f582d8f52a",
+    "simhash": "1:647a6921d632ff28",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nShanon E. GOODEN, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-002100-16 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nShanon E. GOODEN, Defendant-Petitioner.\nC-116 September Term 2018\n080888\nSupreme Court of New Jersey.\nSeptember 28, 2018\nORDER"
+  },
+  "file_name": "0088-04",
+  "first_page_order": 88,
+  "last_page_order": 88
+}

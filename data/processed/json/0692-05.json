@@ -1,0 +1,58 @@
+{
+  "id": 12501749,
+  "name": "COM. v. WASHINGTON, T.",
+  "name_abbreviation": "Com. v. Washington",
+  "decision_date": "2018-07-20",
+  "docket_number": "2125 EDA 2017",
+  "first_page": "692",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 692"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "sha256": "6f08dd2770ba0a123a863457a2945c969d68a1faf41cf77a83b8b0dae079ce0e",
+    "simhash": "1:a5e6d4b77dd52fe6",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nWASHINGTON, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nWASHINGTON, T.\n2125 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nAffirmed"
+  },
+  "file_name": "0692-05",
+  "first_page_order": 692,
+  "last_page_order": 692
+}

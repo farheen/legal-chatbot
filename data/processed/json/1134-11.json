@@ -1,0 +1,58 @@
+{
+  "id": 12488241,
+  "name": "Com. v. Torres, J.",
+  "name_abbreviation": "Com v. Torres",
+  "decision_date": "2016-05-04",
+  "docket_number": "1223 EDA 2015",
+  "first_page": "1134",
+  "last_page": "1134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "41dfedc093d583d167d165b202e11dfdb451e6940df385866f059fc09e6d46eb",
+    "simhash": "1:3f1d7afac2a387d4",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nTorres, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nTorres, J.\n1223 EDA 2015\nSuperior Court of Pennsylvania.\nMay 4, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1134-11",
+  "first_page_order": 1134,
+  "last_page_order": 1134
+}

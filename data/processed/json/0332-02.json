@@ -1,0 +1,2293 @@
+{
+  "id": 7281843,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Oliver FOSTER, Appellee",
+  "name_abbreviation": "Commonwealth v. Foster",
+  "decision_date": "2011-03-29",
+  "docket_number": "",
+  "first_page": "332",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 A.3d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "866 A.2d 351",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9036906,
+        1140702
+      ],
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/866/0351-01",
+        "/pa/581/0587-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140702
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0587-01"
+      ]
+    },
+    {
+      "cite": "542 U.S. 348",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2528610
+      ],
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/542/0348-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11575860,
+        838543
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "555",
+          "parenthetical": "finding that a party is entitled to retroactive application of a decision on direct appeal where the issue involved was preserved at all stages of the litigation, including direct appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/736/0552-01",
+        "/pa/558/0191-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 191",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838543
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "finding that a party is entitled to retroactive application of a decision on direct appeal where the issue involved was preserved at all stages of the litigation, including direct appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0191-01"
+      ]
+    },
+    {
+      "cite": "503 Pa. 228",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1785953
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/503/0228-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8361505,
+        3596876
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/936/0012-01",
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3596876
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "352 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "237 Pa.Super. 424",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        6771882
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/237/0424-01"
+      ]
+    },
+    {
+      "cite": "961 A.2d 57",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8189552,
+        8189537,
+        3441746,
+        3440957
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/961/0057-02",
+        "/a2d/961/0057-01",
+        "/pa/599/0166-01",
+        "/pa/599/0165-01"
+      ]
+    },
+    {
+      "cite": "599 Pa. 166",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3441746
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/599/0166-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 3,
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "351 Pa.Super. 56",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        649786
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "265",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/351/0056-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 1254",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9412732
+      ],
+      "pin_cites": [
+        {
+          "page": "1257"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/1254-01"
+      ]
+    },
+    {
+      "cite": "839 A.2d 184",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9056569,
+        9056611,
+        16740,
+        16733
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/839/0184-01",
+        "/a2d/839/0184-02",
+        "/pa/576/0229-01",
+        "/pa/576/0228-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 229",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16740
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0229-01"
+      ]
+    },
+    {
+      "cite": "814 A.2d 209",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9336824
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/814/0209-01"
+      ]
+    },
+    {
+      "cite": "888 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8999270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/888/0843-01"
+      ]
+    },
+    {
+      "cite": "997 A.2d 368",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7287586
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/997/0368-01"
+      ]
+    },
+    {
+      "cite": "741 A.2d 767",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11656102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/741/0767-01"
+      ]
+    },
+    {
+      "cite": "786 A.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404584,
+        9454327
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0183-01",
+        "/a2d/786/0202-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 183",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404584
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0183-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 40",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11180958
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/760/0040-01"
+      ]
+    },
+    {
+      "cite": "877 A.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8955615
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "483"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "483"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/877/0479-01"
+      ]
+    },
+    {
+      "cite": "938 A.2d 1063",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8320440
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/1063-01"
+      ]
+    },
+    {
+      "cite": "959 A.2d 945",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8203192
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "950",
+          "parenthetical": "Pa.Super.2008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/959/0945-01"
+      ]
+    },
+    {
+      "cite": "981 A.2d 274",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7292500
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/981/0274-01"
+      ]
+    },
+    {
+      "cite": "985 A.2d 830",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4197001,
+        7292842
+      ],
+      "weight": 2,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "833"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0034-01",
+        "/a2d/985/0830-01"
+      ]
+    },
+    {
+      "cite": "604 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4197001
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/604/0034-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 739",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95763,
+        11490987
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "742"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0296-01",
+        "/a2d/744/0739-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 296",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95763
+      ],
+      "weight": 2,
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0296-01"
+      ]
+    },
+    {
+      "cite": "483 Pa. 588",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1751212
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "pp. 340-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/483/0588-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 1310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7878656,
+        470777
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1325"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/664/1310-01",
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 531",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470777
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 1127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630409,
+        9083893
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0141-01",
+        "/a2d/834/1127-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630409
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0141-01"
+      ]
+    },
+    {
+      "cite": "931 A.2d 15",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8343224
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "21"
+        },
+        {
+          "page": "21",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "21",
+          "parenthetical": "defendant's claim that the trial court acted vindictively or with bias in sentencing, in violation of due process, did not implicate the legality of the defendant's sentence"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/931/0015-01"
+      ]
+    },
+    {
+      "cite": "915 A.2d 662",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8335644
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "664"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/915/0662-01"
+      ]
+    },
+    {
+      "cite": "979 A.2d 842",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7297249,
+        7297220,
+        4194921,
+        7297270,
+        4195258,
+        4195387
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/979/0842-02",
+        "/a2d/979/0842-01",
+        "/pa/602/0201-01",
+        "/a2d/979/0842-03",
+        "/pa/602/0200-01",
+        "/pa/602/0200-02"
+      ]
+    },
+    {
+      "cite": "602 Pa. 201",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4194921
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/602/0201-01"
+      ]
+    },
+    {
+      "cite": "920 A.2d 873",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8325557
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "880"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/920/0873-01"
+      ]
+    },
+    {
+      "cite": "967 A.2d 376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156952,
+        4194066,
+        4193872,
+        8157062
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/967/0376-01",
+        "/pa/600/0458-01",
+        "/pa/600/0458-02",
+        "/a2d/967/0376-02"
+      ]
+    },
+    {
+      "cite": "600 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        4193872,
+        4194066
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/600/0458-02",
+        "/pa/600/0458-01"
+      ]
+    },
+    {
+      "cite": "934 A.2d 1149",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8374481,
+        3596290,
+        3594964,
+        8374444
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/934/1149-02",
+        "/pa/594/0034-01",
+        "/pa/594/0035-01",
+        "/a2d/934/1149-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 35",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3594964
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/594/0035-01"
+      ]
+    },
+    {
+      "cite": "924 A.2d 1273",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8309681
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "pp. 338-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/1273-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 729",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11639758,
+        1701999
+      ],
+      "weight": 8,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "731"
+        },
+        {
+          "page": "731"
+        },
+        {
+          "page": "731",
+          "parenthetical": "holding that, when a sentencing issue \"centers upon a court's statutory authority\" to impose a sentence, rather than the \"court's exercise of discretion in fashioning\" the sentence, the issue raised implicates the legality of the sentence imposed"
+        },
+        {
+          "page": "731"
+        },
+        {
+          "page": "731",
+          "parenthetical": "holding that, when a sentencing issue \"centers upon a court's statutory authority\" to impose a sentence, rather than the \"court's exercise of discretion in fashioning\" the sentence, the issue raised implicates the legality of the sentence imposed"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/0729-01",
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 505",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701999
+      ],
+      "weight": 2,
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0505-01"
+      ]
+    },
+    {
+      "cite": "768 A.2d 309",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11115540,
+        1276823
+      ],
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "313"
+        },
+        {
+          "page": "313",
+          "parenthetical": "challenge concerning merger or double jeopardy implicates the sentences contemplated by the General Assembly for violations of the Crimes Code"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/768/0309-01",
+        "/pa/564/0321-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 321",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276823
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0321-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829844
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "p. 337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0380-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11495579,
+        95828
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "1284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/1280-01",
+        "/pa/560/0381-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 381",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95828
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0381-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370939,
+        12254885
+      ],
+      "weight": 3,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J. (now, C.J.), concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0246-01",
+        "/a2d/855/0800-01"
+      ]
+    },
+    {
+      "cite": "579 Pa. 246",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370939
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J. (now, C.J.), concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0246-01"
+      ]
+    },
+    {
+      "cite": "879 A.2d 185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8933265,
+        687746
+      ],
+      "weight": 2,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "188-89",
+          "parenthetical": "sentence exceeding the statutory maximum intended by the General Assembly"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/879/0185-01",
+        "/pa/583/0478-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2005,
+      "opinion_index": 0
+    },
+    {
+      "cite": "513 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802565
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that failure to file a Rule 2119(f) statement generally constitutes waiver of all discretionary sentencing issues"
+        },
+        {
+          "parenthetical": "holding that failure to file a Rule 2119(f) statement generally constitutes waiver of all discretionary sentencing issues"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0508-01"
+      ]
+    },
+    {
+      "cite": "895 A.2d 1270",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8437844
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/895/1270-01"
+      ]
+    },
+    {
+      "cite": "960 A.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8191633
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "164"
+        },
+        {
+          "page": "172",
+          "parenthetical": "Shogan, J., dissenting"
+        },
+        {
+          "page": "169",
+          "parenthetical": "Fitzgerald, III, J., concurring"
+        },
+        {
+          "page": "170",
+          "parenthetical": "Fitzgerald, III, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/0160-01"
+      ]
+    },
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    },
+    {
+      "cite": "5 A.3d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7284711,
+        4198569,
+        7284661,
+        7284823,
+        4198104,
+        4198751
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "215"
+        },
+        {
+          "page": "218-19",
+          "parenthetical": "Castille, C.J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a3d/5/0212-02",
+        "/pa/607/0224-02",
+        "/a3d/5/0212-01",
+        "/a3d/5/0212-03",
+        "/pa/607/0224-01",
+        "/pa/607/0225-01"
+      ]
+    },
+    {
+      "cite": "807 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312757,
+        11354551
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/569/0622-01",
+        "/a2d/807/0838-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312757
+      ],
+      "year": 2002,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/569/0622-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 529",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3016096,
+        8333095,
+        3014250,
+        3017456,
+        8333179,
+        8333118
+      ],
+      "weight": 3,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "537-41"
+        },
+        {
+          "page": "539",
+          "parenthetical": "\"A person does not run afoul of Pennsylvania criminal law unless he violates a specific statute; and when this Court holds that a statute does not encompass certain conduct, we do not have a 'choice' in determining whether to give retroactive effect to our holding.\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/591/0155-01",
+        "/a2d/916/0529-01",
+        "/pa/591/0157-01",
+        "/pa/591/0156-01",
+        "/a2d/916/0529-03",
+        "/a2d/916/0529-02"
+      ]
+    },
+    {
+      "cite": "591 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3014250
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/591/0157-01"
+      ]
+    },
+    {
+      "cite": "795 A.2d 935",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        163716,
+        9427271
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "956",
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/568/0264-01",
+        "/a2d/795/0935-01"
+      ]
+    },
+    {
+      "cite": "568 Pa. 264",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        163716
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/568/0264-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108680,
+        9108745,
+        197235,
+        197204,
+        197206,
+        9108637
+      ],
+      "weight": 2,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "393"
+        },
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/827/0385-02",
+        "/a2d/827/0385-03",
+        "/pa/573/0531-01",
+        "/pa/573/0532-02",
+        "/pa/573/0532-01",
+        "/a2d/827/0385-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197204,
+        197206
+      ],
+      "year": 2003,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/573/0532-02",
+        "/pa/573/0532-01"
+      ]
+    },
+    {
+      "cite": "394 Pa.Super. 1",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        879717
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "claim that sentencing court erroneously factored defendant's low I.Q. as sentence aggravator presented challenge to discretionary aspects of sentencing"
+        },
+        {
+          "page": "1124",
+          "parenthetical": "claim that sentencing court erroneously factored defendant's low I.Q. as sentence aggravator presented challenge to discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/394/0001-01"
+      ]
+    },
+    {
+      "cite": "402 Pa.Super. 369",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        891663
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court failed to apply deadly weapon enhancement"
+        },
+        {
+          "page": "7-8",
+          "parenthetical": "Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court failed to apply deadly weapon enhancement"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/402/0369-01"
+      ]
+    },
+    {
+      "cite": "408 Pa.Super. 234",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1163293
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court's conclusion based on factors considered, i.e., the sentence imposed, was inappropriate"
+        },
+        {
+          "page": "839-40",
+          "parenthetical": "Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court's conclusion based on factors considered, i.e., the sentence imposed, was inappropriate"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/408/0234-01"
+      ]
+    },
+    {
+      "cite": "419 Pa.Super. 238",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        918231
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "claim that sentencing court failed to provide required on-record reasons for deviation from Sentencing Guidelines presented challenge to discretionary aspects of sentencing"
+        },
+        {
+          "page": "345",
+          "parenthetical": "claim that sentencing court failed to provide required on-record reasons for deviation from Sentencing Guidelines presented challenge to discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/419/0238-01"
+      ]
+    },
+    {
+      "cite": "426 Pa.Super. 66",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        929920
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "page": "583",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/426/0066-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 1220",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11982468,
+        11926302
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1227-28",
+          "parenthetical": "claim that sentencing court failed to state on record reasons for sentence imposed, as required by statute, was challenge to discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/456/0498-01",
+        "/a2d/690/1220-01"
+      ]
+    },
+    {
+      "cite": "456 Pa.Super. 498",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        11982468
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "claim that sentencing court failed to state on record reasons for sentence imposed, as required by statute, was challenge to discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/456/0498-01"
+      ]
+    },
+    {
+      "cite": "411 Pa.Super. 252",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        904726
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "same"
+        },
+        {
+          "page": "336-37",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/411/0252-01"
+      ]
+    },
+    {
+      "cite": "751 A.2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11509210
+      ],
+      "pin_cites": [
+        {
+          "page": "215"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/751/0212-01"
+      ]
+    },
+    {
+      "cite": "760 A.2d 33",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11180916
+      ],
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/760/0033-01"
+      ]
+    },
+    {
+      "cite": "838 A.2d 791",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299694
+      ],
+      "pin_cites": [
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/838/0791-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 7",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8392272
+      ],
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/941/0007-01"
+      ]
+    },
+    {
+      "cite": "532 A.2d 775",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1808593,
+        1808571
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "780-81"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/516/0364-01",
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "516 Pa. 365",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1808571
+      ],
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/516/0365-01"
+      ]
+    },
+    {
+      "cite": "990 A.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7290407
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/990/0732-01"
+      ]
+    },
+    {
+      "cite": "992 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7288031
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/992/0162-01"
+      ]
+    },
+    {
+      "cite": "923 A.2d 1111",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8311545,
+        3555850
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/923/1111-01",
+        "/pa/592/0120-01"
+      ]
+    },
+    {
+      "cite": "592 Pa. 120",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3555850
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/592/0120-01"
+      ]
+    },
+    {
+      "cite": "365 Pa.Super. 24",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        676339
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/365/0024-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11572402
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/737/0792-01"
+      ]
+    },
+    {
+      "cite": "291 Pa.Super. 263",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        171452
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "parenthetical": "sentencing court lacked authority to revoke probation imposed under repealed act and imprison defendant, following his acquittal by reason of insanity"
+        },
+        {
+          "page": "903-05",
+          "parenthetical": "sentencing court lacked authority to revoke probation imposed under repealed act and imprison defendant, following his acquittal by reason of insanity"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/291/0263-01"
+      ]
+    },
+    {
+      "cite": "639 A.2d 1235",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871104,
+        941140
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "court lacked jurisdiction in 1990 to order probation retroactive to May 1988, purportedly to correct \"clerical error\" in appellant's original sentencing and parole orders, which were recorded and unchallenged"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/639/1235-01",
+        "/pa-super/433/0111-01"
+      ]
+    },
+    {
+      "cite": "433 Pa.Super. 111",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        941140
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "court lacked jurisdiction in 1990 to order probation retroactive to May 1988, purportedly to correct \"clerical error\" in appellant's original sentencing and parole orders, which were recorded and unchallenged"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/433/0111-01"
+      ]
+    },
+    {
+      "cite": "866 A.2d 351",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9036906,
+        1140702
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "363-65",
+          "parenthetical": "Castille, J., concurring"
+        },
+        {
+          "page": "363-65"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/866/0351-01",
+        "/pa/581/0587-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 587",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140702
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/581/0587-01"
+      ]
+    },
+    {
+      "cite": "936 A.2d 12",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8361505,
+        3596876
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/936/0012-01",
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "594 Pa. 366",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3596876
+      ],
+      "year": 2007,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/594/0366-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 1127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630409,
+        9083893
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1131",
+          "parenthetical": "\"An illegal sentence is one that exceeds the statutory limits\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/575/0141-01",
+        "/a2d/834/1127-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630409
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "\"An illegal sentence is one that exceeds the statutory limits\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/575/0141-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 800",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1370939,
+        12254885
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "812-16",
+          "parenthetical": "Castille, J., concurring"
+        },
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/579/0246-01",
+        "/a2d/855/0800-01"
+      ]
+    },
+    {
+      "cite": "579 Pa. 246",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370939
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "Castille, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/579/0246-01"
+      ]
+    },
+    {
+      "cite": "513 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802565
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/513/0508-01"
+      ]
+    },
+    {
+      "cite": "960 A.2d 160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8191633
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "163-64"
+        },
+        {
+          "page": "167-69"
+        },
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/960/0160-01"
+      ]
+    },
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that mandatory minimum sentence required by 42 Pa.C.S. \u00a7 9712(a) for persons who visibly possess firearm while committing certain crimes does not apply to unarmed co-conspirators"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that mandatory minimum sentence required by 42 Pa.C.S. \u00a7 9712(a) for persons who visibly possess firearm while committing certain crimes does not apply to unarmed co-conspirators"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    },
+    {
+      "cite": "506 Pa. 461",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790972
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "465"
+        },
+        {
+          "page": "1099"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/506/0461-01"
+      ]
+    },
+    {
+      "cite": "468 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1719674
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "330-331"
+        },
+        {
+          "page": "230"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/468/0323-01"
+      ]
+    },
+    {
+      "cite": "294 A.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "222 Pa.Super. 309",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        801766
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "311-12"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa-super/222/0309-01"
+      ]
+    },
+    {
+      "cite": "326 A.2d 272",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "458 Pa. 418",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        479736
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/458/0418-01"
+      ]
+    },
+    {
+      "cite": "827 A.2d 385",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9108680,
+        9108745,
+        197235,
+        197204,
+        197206,
+        9108637
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/827/0385-02",
+        "/a2d/827/0385-03",
+        "/pa/573/0531-01",
+        "/pa/573/0532-02",
+        "/pa/573/0532-01",
+        "/a2d/827/0385-01"
+      ]
+    },
+    {
+      "cite": "573 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        197204,
+        197206
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/573/0532-02",
+        "/pa/573/0532-01"
+      ]
+    },
+    {
+      "cite": "664 A.2d 1310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7878656,
+        470777
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1325",
+          "parenthetical": "\"As long as the sentence is within the statutory limit, it is legal\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/a2d/664/1310-01",
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 531",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470777
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "562",
+          "parenthetical": "\"As long as the sentence is within the statutory limit, it is legal\""
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/pa/541/0531-01"
+      ]
+    },
+    {
+      "cite": "834 A.2d 1127",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        630409,
+        9083893
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1131",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/575/0141-01",
+        "/a2d/834/1127-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630409
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/575/0141-01"
+      ]
+    },
+    {
+      "cite": "918 A.2d 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3015420,
+        8325559
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "113"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/591/0364-01",
+        "/a2d/918/0095-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 364",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3015420
+      ],
+      "year": 2007,
+      "opinion_index": 3,
+      "case_paths": [
+        "/pa/591/0364-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2348,
+    "char_count": 86373,
+    "ocr_confidence": 0.737,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18824282805677087
+    },
+    "sha256": "ba372ea32869434b6bbef97299e6eb8bbb2851f3697d8391766f2de959e24b28",
+    "simhash": "1:258347e6e06f0d4d",
+    "word_count": 13364
+  },
+  "last_updated": "2024-02-27T20:09:46.548073+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ.",
+      "Justices TODD and McCAFFERY join the Opinion Announcing the Judgment of the Court.",
+      "Chief Justice CASTILLE files a concurring opinion in which Justice ORIE MELVIN joins.",
+      "Justice SAYLOR files a concurring opinion.",
+      "Justice EAKIN files a concurring opinion in which Chief Justice CASTILLE joins.",
+      "Justice ORIE MELVIN joins this opinion.",
+      "Chief Justice Castille joins this concurring opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Oliver FOSTER, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION ANNOUNCING THE JUDGMENT OF THE COURT\nJustice BAER.\nIn Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95 (2007), this Court determined that Section 9712(a) of the Judicial Code, which directs imposition of a mandatory minimum sentence of not less than five years of imprisonment upon any person convicted of an enumerated violent crime while in visible possession of a firearm, did not apply to any \u201cunarmed co-conspirators.\u201d In this case, we are called to decide whether a \u201cDickson challenge\u201d by an unarmed co-conspirator implicates the legality of the unarmed co-conspirator\u2019s sentence for purposes of issue preservation and waiver. The Superior Court below determined that such a challenge implicates the legality of the sentence; thus, the Superior Court concluded that \u201cDickson challenges\u201d cannot be waived based on a defendant\u2019s failure to raise them in post-sentence motions, or, likewise, for a defendant\u2019s failure to file a statement of reasons relied upon for allowance of appeal pursuant to Pa. R.A.P. 2119(f). See supra note 1. For the reasons that follow, we affirm.\nThe factual and procedural background of this case is undisputed. On the evening of January 6, 2006, the victim, Roger Snyder, was home in his apartment in Philadelphia. Mr. Snyder and Oliver Foster (Appellee) had been acquaintances for approximately three years. At approximately 8:40 p.m. on the evening in question, Appellee and a second man known only as Darryl arrived at Mr. Snyder\u2019s residence. As was his custom, Appellee knocked on Mr. Snyder\u2019s window to gain access to the inside of the apartment. When Mr. Snyder opened the door to allow Appellee inside, Darryl, who had been hidden from view, followed Appellee into the apartment. Darryl then approached Mr. Snyder and said, \u201cCome on, let\u2019s go. We\u2019re going to the ATM machine.\u201d Notes of Testimony (N.T.), Oct. 11, 2006, at 19. Darryl then lifted the front of his jacket to reveal an automatic firearm in his waistband.\nThe three men then walked to an ATM machine. Darryl withdrew $400 (in two different transactions of $100 and $300, respectively) from Mr. Snyder\u2019s bank account. Immediately thereafter, Darryl\u2019s brother arrived in a silver SUV, and Darryl entered the vehicle, leaving the scene. Appellee did not follow Darryl, but instead walked a short distance with Mr. Snyder, before suddenly fleeing the area on foot.\nPhiladelphia Police Detective Sarah Valentino was assigned to investigate the robbery, and arrested Appellee on January 16, 2006. After his arrest, Appellee voluntarily told Detective Valentino that he took a man known as \u201cD\u201d to Mr. Snyder\u2019s apartment. Apparently, Appellee owed \u201cD\u201d money, and, coincidentally, Mr. Snyder owed Appellee money. Accordingly to Appellee, upon entering the home, \u201cD\u201d showed Mr. Snyder the firearm, looked through Mr. Snyder\u2019s wallet, and then the three men left the apartment for an ATM machine. After \u201cD\u201d withdrew the $400, he entered the silver SUV and fled the area. No evidence, however, suggested that Ap-pellee himself visibly possessed a firearm.\nBased upon Mr. Snyder\u2019s account of the events in question, as well as Appellee\u2019s admissions, Detective Valentino charged Appellee with robbery, conspiracy, two counts of theft, possession of an instrument of crime (PIC), reckless endangerment, terroristic threats, carrying an unlicensed firearm, and carrying a firearm on a public street in Philadelphia. Appellee elected to proceed via a nonjury trial, which commenced on October 11, 2006. At the conclusion of trial, the trial court convicted Appellee of robbery, conspiracy, theft, and PIC, and acquitted him of the remaining charges.\nPrior to sentencing, the Commonwealth invoked the mandatory minimum sentencing provision of 42 Pa.C.S. \u00a7 9712(a), which provides,\nExcept as provided under section 9716 (relating to two or more mandatory minimum sentences applicable), any person who is convicted in any court of this Commonwealth of a crime of violence as defined in section 9714(g) (relating to sentences for second and subsequent offenses), shall, if the person visibly possessed a firearm or a replica of a firearm, whether or not the firearm or replica was loaded or functional, that placed the victim in reasonable fear of death or serious bodily injury, during the commission of the offense, be sentenced to a minimum sentence of at least five years of total confinement notwithstanding any other provision of this title or other statute to the contrary. Such persons shall not be eligible for parole, probation, work release or furlough.\nA sentencing hearing was subsequently held on November 30, 2006. Appellee had no prior convictions, and the sentencing guidelines suggested twenty-two to thirty-six months of minimum incarceration, plus or minus twelve months. As robbery is a felony of the first degree, the most Appel-lee could have been sentenced to serve was twenty years of incarceration. 18 Pa.C.S. \u00a7 1103(1). At the hearing, defense counsel, the prosecuting attorney, and the trial court all acknowledged that, under the accepted reading of Section 9712(a) at the time of sentencing, imposition of a minimum term of imprisonment of five years was mandatory, based upon Appellee\u2019s conviction for robbery, and Darryl\u2019s possession of a firearm. See e.g., N.T., Nov. 30, 2006, at 4 (\u201cTHE COURT: It is a five-year mandatory.\u201d). Accordingly, the court sentenced Appellee to a term of imprisonment of five to ten years. Appellee then filed post-sentence motions and, subsequently, a timely notice of appeal to the Superior Court; neither of these, however, were related to sentencing issues.\nApproximately four months after the court imposed sentence, this Court issued its decision in Dickson, supra, p. 334, in which we held that the Section 9712(a) mandatory minimum does not apply to so-called \u201cunarmed co-conspirators.\u201d Being an unarmed co-conspirator, Appellee immediately petitioned the Superior Court for leave to file a motion for modification of sentence nunc pro tunc in the trial court. The Superior Court denied the motion, but specified that such denial was without prejudice to raise a challenge under Dickson on direct appeal. Upon order by the trial court, Appellee then filed a timely statement of matters complained of on appeal pursuant to Pa. R.A.P. 1925(b), in which he included a request for relief under Dickson. The trial court, in its Pa. R.A.P. 1925(a) opinion concluded that Ap-pellee\u2019s \u201cDickson challenge\u201d was without merit, and the imposed sentence was proper, under the law at the time of its imposition.\nAs explicitly permitted by the Superior Court, Appellee raised his \u201cDickson challenge\u201d as part of his merits argument in his direct appeal. See Commonwealth v. Foster, 960 A.2d 160 (Pa.Super.2008). Before reaching those merits, however, the Superior Court determined that it was required first to analyze whether Appellee\u2019s challenge was properly before it, as Appel-lee had failed to file post-sentence motions concerning his \u201cDickson challenge\u201d with the trial court. See Commonwealth v. Shugars, 895 A.2d 1270 (Pa.Super.2006) (averments of sentencing error are generally waived if not raised, in the first instance, in a motion before the sentencing court). Moreover, Appellee apparently did not set forth a statement of reasons relied upon for allowance of appeal in his principal brief to the Superior Court pursuant to Pa. R.A.P. 2119(f). See Commonwealth v. Tuladziecki, 513 Pa. 508, 522 A.2d 17 (1987) (holding that failure to file a Rule 2119(f) statement generally constitutes waiver of all discretionary sentencing issues). However, the court also considered this Commonwealth\u2019s longstanding jurisprudence that a challenge to the legality of one\u2019s sentence can never be waived. See e.g. Dickson, 918 A.2d at 99. Thus, if Appellee\u2019s \u201cDickson challenge\u201d implicated the legality of his sentence, Appellee\u2019s failure to file post-sentence motions or a Rule 2119(f) statement would be of no moment. Id.\nThe panel first analyzed the scenarios which this Court has found \u201cunequivocally relate to the legality of sentence.\u201d Foster, 960 A.2d at 164. First, any claim, which asserts a sentence exceeds the lawful maximum, implicates the legality of the sentence. See e.g. Commonwealth v. Shiffler, 588 Pa. 478, 879 A.2d 185 (2005). Related to this first instance, the panel recognized that any challenge premised upon the United States Supreme Court\u2019s holding in Apprendi v. New Jersey involves a sentence\u2019s legality:\nIn the Apprendi setting, a defendant asserts that the maximum sentence to which he was subject was unconstitutionally increased based upon the existence of a fact that should have been submitted to a jury rather than determined by the sentencing court. Thus, if a defendant were to prevail on an Ap-prendi violation, he would have been sentenced in excess of the sentence that should otherwise have been imposed within constitutional parameters.\nFoster, 960 A.2d at 165 (citing Commonwealth v. Aponte, 579 Pa. 246, 855 A.2d 800 (2004) (Castille, J. (now, C.J.), concurring)).\nSecond, the panel found that this Court has concluded that a challenge by the Commonwealth that the sentencing court improperly refused to impose a mandatory minimum sentence or fine implicated the legality of a defendant\u2019s sentence, and thus was also nonwaivable. Indeed, on two occasions, Commonwealth v. Vasquez, 560 Pa. 381, 744 A.2d 1280 (2000), and Commonwealth v. Smith, 528 Pa. 380, 598 A.2d 268 (1991), this Court found that, pursuant to explicit statutory authority, the Commonwealth has an unfettered right to appeal a sentencing court\u2019s failure to apply mandatory minimum sentences. For example, in Vasquez, the Commonwealth had sought a mandatory fine against a defendant for possession of a controlled substance with intent to deliver. Although the Commonwealth provided the required notice of intent to seek the mandatory fine with the trial court and defendant, the trial court, at sentencing, failed to impose the fine. The Commonwealth failed to preserve the issue through a timely lodged objection or post-sentence motion. On appeal, the defendant argued that the mandatory fine could no longer be imposed because the Commonwealth had waived any contentions in this regard by failing to object or file a post-sentence motion. This Court unanimously disagreed, finding \u201cbecause the initial sentence lacked the mandatory fine, it was illegal from its inception and always susceptible to correction.\u201d Vasquez, 744 A.2d at 1284. Thus, the Commonwealth\u2019s sentencing challenge was nonwaivable.\nThird, the panel found that averments relating to merger or double jeopardy also implicate the legality of the sentence, as in these instances a question is raised concerning whether the imposed punishment is greater than that which the General Assembly intended. Commonwealth v. Andrews, 564 Pa. 321, 768 A.2d 309, 313 (2001). These three classes of cases aside, the panel determined that the instant appeal concerned the applicability of a fourth and wholly distinct category: a defendant\u2019s appeal of the imposition of a mandatory minimum sentence that is neither greater than a statutory maximum, nor less than a prescribed minimum.\nWith this in mind, the Superior Court then reviewed our decision in In re M.W., 555 Pa. 505, 725 A.2d 729 (1999). There, a juvenile, who had been adjudicated delinquent pursuant to a plea agreement, challenged the juvenile court\u2019s authority to impose a restitution order arguing that the Commonwealth had failed to attribute property damage to him. On appeal to this Court, the Commonwealth averred that the juvenile had waived any such challenge because he failed to file a Rule 2119(f) statement with the Superior Court. We disagreed, holding that \u201cthe issue presented in this case centers upon the juvenile court\u2019s statutory authority to order restitution; thus, it implicates the legality of the dispositional order.\u201d Id. at 731. Accordingly, the juvenile was not required to submit a Rule 2119(f) statement to the Superior Court in order to preserve the issue for our consideration. Id.\nThe panel then turned to its own case-law concerning legality of sentences. Specifically, the court cited, among other decisions, to three recent cases, Commonwealth v. Harley, 924 A.2d 1273 (Pa.Super.2007) (unsuccessful challenge to the imposition of a mandatory minimum sentence for possession with intent to deliver 10.2 grams of crack cocaine), appeal granted on other grounds 594 Pa. 35, 934 A.2d 1149 (2007), and dismissed as improvidently granted 600 Pa. 458, 967 A.2d 376 (2008); Commonwealth v. Johnson, 920 A.2d 873 (Pa.Super.2007) (unsuccessful challenge to the imposition of a mandatory minimum sentence for possession with intent to deliver 1.9 grams of heroin), appeal granted on other grounds 602 Pa. 201, 979 A.2d 842 (2009); and Commonwealth v. Littlehales, 915 A.2d 662 (Pa.Super.2007) (finding that legality of a sentence is not implicated when a statute permits courts, in their discretion, to impose a minimum sentence). These three cases, among others from the Superior Court, all unequivocally state that a defendant\u2019s challenge to the imposition of a mandatory minimum sentence (the \u201cfourth\u201d category that we are currently considering) implicates the legality of that sentence, \u201cbecause, by statute, courts have no authority to avoid imposing the mandatory minimum, assuming certain factual predicates apply.\u201d Johnson, 920 A.2d at 880 (quoting Littlehales, 915 A.2d at 664) (emphasis added).\nRecognizing these holdings as panel decisions, the Superior Court looked to a recent en banc decision of that tribunal, Commonwealth v. Robinson, 931 A.2d 15 (Pa.Super.2007) (en banc). There, the Superior Court was faced with deciding whether a trial court\u2019s alleged vindictiveness or bias in sentencing implicated the legality of the sentence, such that preservation of the issue was not required. In finding that a \u201cvindictiveness\u201d claim did not concern the legality of the imposed sentence, the Robinson Court suggested that illegal sentences only exist in a \u201cnarrow class\u201d of cases: excessive sentences, Apprendi challenges, and merger/double jeopardy scenarios, because \u201c[Tjhese claims implicate the fundamental legal authority of the court to impose the sentence that it did.\u201d Id. at 21. The panel in the instant case found the \u201cnarrow class\u201d language of Robinson imprecise and unhelpful, however, because factually, the Robinson Court did not need to examine precedent from both this Court and the Superior Court concerning the legality of mandatory minimum sentences. Cf. e.g. In re M.W.; Harley.\nBased upon this jurisprudence and the fact that the trial court lacked authority to impose a sentence less than the five year mandatory minimum at the time it rendered sentence, the Superior Court determined that the improper imposition of the Section 9712(a) mandatory minimum sentence implicated the legality of Appellee\u2019s sentence. Accordingly, because the evidence presented at trial supported Appel-lee\u2019s \u201cDickson challenge,\u201d in that there was nothing upon which to base a finding that Appellee visibly possessed a firearm, the court held that the sentence imposed was without legal authority, vacated it, and remanded for resentencing.\nJudge Shogan filed a dissenting opinion, noting that \u201cthe classic formulation of an illegal sentence, as established by our Supreme Court, is one that exceeds the statutory limits.\u201d Foster, 960 A.2d at 172 (Shogan, J., dissenting) (citing e.g. Commonwealth v. Bradley, 575 Pa. 141, 834 A.2d 1127, 1131 (2003)). From this general statement, the dissent premised its argument on the failure of the Robinson court to include explicitly cases, such as the one presented at bar, which concern mandatory minimum sentences, within the \u201crelatively small class of cases\u201d to which legality of sentence principles applies. The dissent then buttressed its argument by noting the refusal of this Court in Dickson (decided post-Robinson) to state specifically that challenges concerning mandatory minimum sentences implicate legality of the sentence, but see supra note 1.\nFor this reason, the dissent found inap-posite the various Superior Court cases such as Harley, supra pp. 338-39, which had considered a defendant\u2019s appeal concerning a mandatory minimum to implicate legality of the sentence, because those decisions pre-dated Dickson. In the dissent\u2019s view, our failure in Dickson to include the imposition of a mandatory minimum within the \u201cnarrow class of cases\u201d recognized by the Robinson court, foreclosed any use of pre-Dickson rationale. Finally, the dissent found unavailing cases such as Vasquez and Smith, supra p. 337, where the Commonwealth had successfully appealed the failure to impose a mandatory minimum sentence, because those cases involved an explicitly permitted statutory right of the Commonwealth to appeal a sentencing court\u2019s failure to impose a mandatory minimum, a right not granted by the legislature to defendants.\nFormer Justice (now Senior Judge) Fitzgerald concurred in full with the majority opinion, but wrote separately to address the points raised in the dissent. While recognizing the accuracy of the dissent\u2019s contention that almost all illegal sentence cases concern penalties that exceed the statutory maximum, the concurrence noted that those cases by no means foreclosed other legality of sentence claims. Rather, in the concurrence\u2019s view, the Superior Court\u2019s en banc Robinson decision specifically left the door open to other legality of sentence claims, by stating,\n[The Superior Court has] established the principle that the term \u201cillegal sentence\u201d is a term of art that our Courts apply narrowly, to a relatively small class of cases. This class of cases includes: (1) claims that the sentence fell \u201coutside of the legal parameters prescribed by the applicable statute\u201d; (2) claims involving merger/double jeopardy; and (3) claims implicating the rule in [Apprendi ]. These claims implicate the fundamental legal authority of the court to impose the sentence that it did.\nRobinson, 931 A.2d at 21 (emphasis added), cited in Foster, 960 A.2d at 169 (Fitzgerald, III, J., concurring). The concurrence viewed this language as recognizing that other situations may exist outside of the \u201cnarrow class,\u201d in which sentencing challenges implicate legality. It then found this appeal to be such a circumstance: \u201cI cannot conclude that when a court believes it has no discretion [but] to impose a particular sentence, we must nonetheless consider it an issue of the discretionary aspects of that sentence.\u201d Foster, 960 A.2d at 170 (Fitzgerald, III, J., concurring).\nOn appeal to this Court, the Commonwealth does not challenge the impropriety of Appellee\u2019s sentence when viewed in accord with the Dickson decision. Reply Brief of Commonwealth at 4 n. 2. Rather, the Commonwealth merely contends that the \u201cDickson challenge\u201d should not have been sustained in the first instance, because Appellee\u2019s sentence involved solely discretionary aspects, was therefore waivable and, in fact, was waived by Appellee\u2019s failure to raise the instant challenge in his post-sentence motions or a Rule 2119(f) statement to the Superior Court.\nIn support of its discretionary aspects/waiver argument, the Commonwealth points to statements by this Court on various occasions that \u201c[A]s long as the sentence is within the statutory limit, it is legal.\u201d Commonwealth v. Miller, 541 Pa. 531, 664 A.2d 1310, 1325 (1995); see also Bradley, supra p. 339. Thus, in the Commonwealth\u2019s view, because Appellee\u2019s sentence is within the statutory maximum (here, twenty years), it is necessarily legal and any challenges thereto had to have been preserved below. With this general proposition in mind, the Commonwealth then focuses on cases from this Court where we stated that claims of legality of a sentence center upon the \u201cauthority\u201d of the sentencing court to impose a sentence or fine. For example, in Vasquez, supra p. 337, we accepted for adjudication a Commonwealth appeal in light of a sentencing court\u2019s failure to impose a mandatory f\u00edne, because the sentencing court lacked the \u201cauthority\u201d not to impose the fine. Similarly, in In re M.W., supra pp. 337-38, we vacated a dispositional order for a juvenile because the order included an obligation to make restitution, which the juvenile court had no \u201cauthority\u201d to impose, in light of the Commonwealth\u2019s failure to prove the juvenile caused any property damage.\nThe Commonwealth then takes the \u201cauthority\u201d language from these two cases, and applies it to this Court\u2019s decision in Commonwealth v. Walton, 483 Pa. 588, 397 A.2d 1179 (1979). In Walton, the defendant was convicted of various crimes related to his discharge of a shotgun into a woman\u2019s face, permanently blinding her. At sentencing, the trial judge opted to attempt to rehabilitate the defendant, and thus sentenced him to a nineteen-year probationary term, on the condition that he pay the victim $25 per week during the probationary period. The sentencing court imposed the sentence pursuant to Section 5109 of the Penal Code of 1939, as codified, 18 P.S. \u00a7 5109. That section, however, had been repealed by the General Assembly\u2019s enactment of the Crimes Code of 1975. No post-trial or post-sentence motions were filed challenging the sentence.\nAfter conclusion of the trial court proceedings, the defendant appealed the sentence to the Superior Court, contending that the sentence was illegal because the trial court imposed it pursuant to the repealed Section 5109. The Superior Court agreed, and remanded. On discretionary appeal to this Court, the Commonwealth argued that, even if Section 5109 was repealed by the Crimes Code of 1975, the trial court still had the \u201cauthority\u201d to impose the sentence under the Act of June 19, 1911, as amended, 19 P.S. \u00a7 1051, which authorized trial courts to place defendants on probation for definite periods of time upon terms and conditions, including the payment of money. This Court agreed with the Commonwealth, even though the trial court did not invoke the 19 P.S. \u00a7 1051 sentencing provisions. In light of such \u201cauthority\u201d under Section 1051, the trial court\u2019s judgment of sentence could not be found illegal, and thus the sentencing issues presented there were waived for the defendant\u2019s failure to file post-sentence motions in the trial court.\nBased upon this rationale, the Commonwealth here contends that, regardless of the applicability of Section 9712(a) to Ap-pellee\u2019s sentence, the trial court retained the general authority to sentence Appellee to a term of imprisonment of five to ten years pursuant to 18 Pa.C.S. \u00a7 1103(1) (providing for a maximum sentence of twenty years\u2019 imprisonment for first-degree felonies). Brief of the Commonwealth at 8 (citing In re M.W., 725 A.2d at 731). Thus, the Commonwealth argues that because the trial court retained the general statutory authority to sentence Appellee to five to ten years of imprisonment, Appellee necessarily waived his claim by failing to preserve it in a post-sentence motion, or by presenting it via a Rule 2119(f) statement.\nAppellee counters the Commonwealth\u2019s argument by first rejecting the notion that a sentencing challenge implicates legality only in an \u201cin excess of the statutory maximum\u201d scenario. To that end, Appellee points to the various decisions of the Superior Court, see supra pp. 337-38, which examine the appropriate application of a mandatory minimum sentence under the auspices of the sentence\u2019s legality. Appellee also cites to this Court\u2019s decision in Commonwealth v. Shaw, 560 Pa. 296, 744 A.2d 739 (2000), discussed in full, infra, where we summarily stated that a challenge to the imposition of a mandatory minimum sentence aimed at repeat DUI offenders could not be waived, as it equated to a challenge to the legality of the sentence.\nOn the question, of whether a \u201cDickson challenge\u201d implicates the legality of an imposed sentence, the Commonwealth is correct in so much as this Court has generally maintained that the typical illegal sentence is one which exceeds the statutory maximum. See Vasquez; Miller. Under this maxim, we have also found that Apprendi-based challenges implicate the legality of a sentence. See Aponte, 855 A.2d at 802 n. 1. Notably, the parties herein do not dispute that Appellee\u2019s sentence falls within the statutory maximum for first-degree robbery. Of course, we have also recognized the inverse of \u201cexcessive sentence\u201d cases \u2014 where a court imposes sentence below that which is prescribed by statute. See Vasquez, supra. M\u00ednimums and m\u00e1xi-mums, however, are not the only benchmarks. Indeed, merger/double jeopardy cases concern legality of sentencing, even when the sentence at issue falls within prescribed minimum and maximum sentences. See Commonwealth v. Baldwin, 604 Pa. 34, 985 A.2d 830 (2009).\nConsistent, then, with this Court\u2019s jurisprudence in this area of the law throughout the years, legality of sentence issues occur generally either: (1) when a trial court\u2019s traditional authority to use discretion in the act of sentencing is somehow affected, see e.g. In re M.W., 725 A.2d at 731 (holding that, when a sentencing issue \u201ccenters upon a court\u2019s statutory authority\u201d to impose a sentence, rather than the \u201ccourt\u2019s exercise of discretion in fashioning\u201d the sentence, the issue raised implicates the legality of the sentence imposed); and/or (2) when the sentence imposed is patently inconsistent with the sentencing parameters set forth by the General Assembly. See e.g. Shiffler, 879 A.2d at 188-89 (sentence exceeding the statutory maximum intended by the General Assembly); Aponte, 855 A.2d at 802 n. 1 (same, in the context of an Apprendi challenge); Andrews, 768 A.2d at 313 (challenge concerning merger or double jeopardy implicates the sentences contemplated by the General Assembly for violations of the Crimes Code). Our decision in Dickson touched on both of these circumstances. First, prior to Dickson, trial courts were required to apply a minimum sentence of five years of imprisonment to unarmed eo-eon-spirators (such as Appellee), thus limiting their traditional sentencing authority. Second, our interpretation (or, perhaps better stated, application of the plain language) of Section 9712(a) in Dickson, revealed an intent by the General Assembly not to punish an unarmed co-conspirator as harshly as the person actually possessing a firearm.\nOur decision in Commonwealth v. Shaw, 560 Pa. 296, 744 A.2d 739 (2000), cited by Appellee, further illustrates this two-pronged approach. There, we examined whether a New York statute prohibiting driving while one\u2019s ability is impaired (DWAI), was equivalent to Pennsylvania\u2019s prohibition against driving under the influence (DUI), for purposes of a recidivist-based mandatory minimum sentence. The sentencing court found the New York DWAI statute equivalent to Pennsylvania\u2019s DUI statute, thus implicating the third-time mandatory minimum sentencing provisions of 75 Pa.C.S. \u00a7 3731(e)(l)(iii) (repealed) (mandating a sentence of not less than ninety days of imprisonment for persons with three DUI or DUI-equivalent convictions), rather than the second-time mandatory sentence provisions of subsection (e)(l)(ii) (repealed) (mandating a sentence of not less than thirty days of imprisonment for persons with two DUI or DUI-equivalent convictions). The sentencing court actually imposed a sentence above either mandatory minimum, but within the available statutory m\u00e1ximums. Shaw appealed, contending that the statutes were not equivalent, and thus only a mandatory minimum sentence for second-time offenders of thirty days was proper.\nOn appeal, our inquiry was guided by the sentencing court\u2019s interpretation of the mandatory minimum sentencing provisions for recidivist DUI offenders. Although the sentence imposed was below either of the relevant statutory m\u00e1ximums, the sentencing court believed itself bound by the mandatory minimum provision to sentence Shaw as a three-time offender. The sentencing court\u2019s belief in this regard led this Court at the outset of our analysis to state that the sentencing question raised by Shaw \u201cimplicate[d] the legality of his sentence, and not its discretionary aspects, since the sentencing court had no diseretion in calculating the number of [Shaw\u2019s] prior DUI convictions for purposes of determining his mandatory minimum sentence. ...\u201d Shaw, 744 A.2d at 742. Put differently, we seemingly viewed the applicable statutes as infringing upon a sentencing court\u2019s inherent power to impose a lawful, but discretionary sentence.\nWhile Shaw has been our only pronouncement on the question presented sub judice, the Superior Court on a number of occasions has opined that a defendant\u2019s challenge to the imposition of a mandatory minimum sentence, regardless of whether that challenge is ultimately successful on the merits, implicates the legality of that sentence. See Commonwealth v. Gibbs, 981 A.2d 274 (Pa.Super.2009); Commonwealth v. Rush, 959 A.2d 945 (Pa.Super.2008); Commonwealth v. Henderson, 938 A.2d 1063 (Pa.Super.2007); Harley, supra; Johnson, supra; Littlehales, supra; Commonwealth v. Berry, 877 A.2d 479 (Pa.Super.2005) (en banc); Commonwealth v. Wynn, 760 A.2d 40 (Pa.Super.2000), aff'd 567 Pa. 183, 786 A.2d 202 (2001) (per curiam); Commonwealth v. Fogel, 741 A.2d 767 (Pa.Super.1999).\nIndeed, in these circumstances, the Superior Court has concluded that a defendant\u2019s failure to: (1) raise a contemporaneous objection at the time of sentencing; (2) file a post-sentence motion; (3) include the sentencing issue in a Rule 1925(b) statement; or (4) file a Rule 2119(f) statement, is not fatal to the defendant\u2019s challenge to the mandatory minimum sentence, or any legality of sentencing claim for that matter, because the fundamental issue raised concerns the sentencing court\u2019s constitutional or statutory authority to act as it did. Berry, 877 A.2d at 483; see also Commonwealth v. Dixon, 997 A.2d 368 (Pa.Super.2010) (failure to file a post-sentence motion not fatal to a defendant\u2019s claim that crimes should have merged for purposes of sentencing); Gibbs, 981 A.2d 274 (failure to include a challenge to a mandatory minimum in a Rule 1925(b) statement); Rush, 959 A.2d at 950 (Pa.Super.2008) (challenge to imposition of a mandatory minimum would be addressed despite defendant\u2019s failure to raise the challenge in a post-sentence motion, as the challenge implicated the legality of the sentence); Henderson, 938 A.2d at 1066 n. 1 (issue of imposition of a mandatory twenty-five year minimum sentence \u201cwas not raised in the trial court, in post-sentence motions, or in appellant\u2019s Rule 1925(b) statement. However, it goes to the legality of appellant\u2019s sentence, which cannot be waived.\u201d); Commonwealth v. Tustin, 888 A.2d 843 (Pa.Super.2005) (failure to file a post-sentence motion does not result in waiver of a legality of sentencing claim on appeal); Commonwealth v. Kitchen, 814 A.2d 209 (Pa.Super.2002) (same), aff'd 576 Pa. 229, 839 A.2d 184 (2003) (per curiam); Commonwealth v. Dinoia, 801 A.2d 1254, 1257 (Pa.Super.2002) (improper imposition of an order of restitution may be raised on direct appeal despite a defendant\u2019s failure to file a post-sentence motion in the trial court); Commonwealth v. Campbell, 351 Pa.Super. 56, 505 A.2d 262, 265 (1986) (en banc) (plurality) (\u201cquestion of legality of multiple sentences based on a claim that the convictions should have merged for sentencing, is not waived for failure to raise it in the trial court.\u201d).\nMoreover, an extensive reading of Superior Court caselaw reveals that tribunal has been extremely cautious and narrow in its approach to sentencing legality, limiting its application of \u201cnonwaivability\u201d in sentencing cases to those where that authority to act is concerned. Berry, 877 A.2d at 483 (\u201cThus, our caselaw draws a careful distinction between truly \u201cillegal\u201d sentences, and sentences which may have been the product of some type of legal error. [Commonwealth v.] Archer, 722 A.2d [203, 209 (Pa.Super.1998) (en banc) ]. Archer and its progeny have established that the term \u201cillegal sentence\u201d is a term of art that our Courts apply narrowly, to a relatively small class of cases.\u201d); see also Robinson, 931 A.2d at 21 (defendant\u2019s claim that the trial court acted vindictively or with bias in sentencing, in violation of due process, did not implicate the legality of the defendant\u2019s sentence).\nOur jurisprudence in this arena has been, and remains, equally narrow, and is only implicated when a sentencing court\u2019s inherent, discretionary authority to wield its statutorily prescribed sentencing powers is supplanted, abrogated, or otherwise limited, accord In re M.W., or the legislature\u2019s intent in fashioning a sentence has been potentially misapplied. Accord Baldwin; Andrews. In our view, there is little doubt that when a sentencing court has no alternative but to impose a certain minimum sentence, its authority to act has been infringed upon. Thus, under this Commonwealth\u2019s jurisprudence, any challenge thereunder must relate to a sentence\u2019s legality. Shaw, 744 A.2d at 742; In re M.W., 725 A.2d at 731; Berry, 877 A.2d at 483. Accordingly, we hold that where a sentencing court is required to impose a mandatory minimum sentence, and that mandatory minimum sentence affects a trial court\u2019s traditional sentencing authority or the General Assembly\u2019s intent in fashioning punishment for criminal conduct, a defendant\u2019s challenge thereto sounds in legality of sentence and is therefore nonwaivable.\nIndeed, this lack of sentencing authority concerning the imposition of mandatory minimum sentences illustrates why the Commonwealth\u2019s argument pertaining to our decision in Walton, supra pp. 340-41, is misplaced. As noted above, the Commonwealth contends that Walton stands for the proposition that sentences remain legal, and thus challenges to them must be preserved at all available stages, so long as a sentencing court retains some authority under any statutory framework to impose a desired sentence. Here, the Commonwealth contends such authority would be the statutory maximum provisions of 18 Pa.C.S. \u00a7 1103(1) (twenty-year maximum sentence for first-degree felonies), ignoring, however, that the distinction between Walton and Shaw, the aforementioned Superior Court cases, and, of course, this appeal, is the absence of a mandatory minimum sentence in Walton. To that end, while the Walton sentencing court retained authority to impose any minimum sentence it wished under 19 P.S. \u00a7 1051, the Shaw sentencing court, and, indeed, the sentencing court in this case, possessed no such authority. Rather, mandatory floors on the available sentences existed, abrogating the trial court\u2019s traditional authority to impose minimum sentences it believes appropriate. Accord In re M.W., 725 A.2d at 731 (holding that, when a sentencing issue \u201ccenters upon a court\u2019s statutory authority\u201d to impose a sentence, rather than the \u201ccourt\u2019s exercise of discretion in fashioning\u201d the sentence, the issue raised implicates the legality of the sentence imposed).\nAccordingly, because the trial court sentenced Appellee, in contradiction to a proper reading of Section 9712(a), to a mandatory term of imprisonment of no less than five years, and further because the court believed it possessed no authority to go below the Section 9712(a) mandatory minimum sentence, we find that Appellee\u2019s \u201cDickson challenge\u201d implicated the legality of his sentence. Therefore, Appellee\u2019s failures to file post-sentence motions or a Rule 2119(f) statement did not foreclose his ability to raise the unquestionably meritorious \u201cDickson challenge,\u201d for the first time, before the Superior Court.\nThe order of the Superior Court is affirmed.\nJurisdiction relinquished.\nJustices TODD and McCAFFERY join the Opinion Announcing the Judgment of the Court.\nChief Justice CASTILLE files a concurring opinion in which Justice ORIE MELVIN joins.\nJustice SAYLOR files a concurring opinion.\nJustice EAKIN files a concurring opinion in which Chief Justice CASTILLE joins.\n. In Dickson, we did not need to reach the issue presented here because we found the sentencing challenge presented there was preserved properly. Regardless, and as is well-settled in Pennsylvania, sentencing challenges generally must be preserved through the filing of post-sentence motions and a concise statement of the reasons relied upon for allowance of appeal in the principal brief to the Superior Court pursuant to Pa. R.A.P. 2119(f). A challenge to the legality of sentence, however, need not be preserved and is never waivable. In re M.W., 555 Pa. 505, 725 A.2d 729 (1999).\n. 18 Pa.C.S. \u00a7\u00a7 3701, 903, 3901, 907, 2705, 2706, 6106, 6108, respectively.\n3. Robbery falls within the category of enumerated crimes of violence, as defined by 42 Pa.C.S. \u00a7 9714(g).\n.While all parties agreed that the mandatory minimum applied, the parties also did not, and currently do not, dispute that Appellee never visibly possessed a firearm.\n. It is evident from the record that this petition for leave of court was Appellee\u2019s first opportunity to raise application of Dickson to his sentence.\n. Pennsylvania Rule of Appellate Procedure 2119(f) provides,\nAn appellant who challenges the discretionary aspects of a sentence in a criminal matter shall set forth in his brief a concise statement of the reasons relied upon for allowance of appeal with respect to the discretionary aspects of a sentence. The statement shall immediately precede the argument on the merits with respect to the discretionary aspects of sentence.\n. In Shiffler, we examined the appropriateness of a mandatory sentence under the Pennsylvania three strikes law. In holding that imposition of the mandatory sentence was improper, we also found the sentence as a whole illegal, because the mandatory sentence exceeded what the defendant could have otherwise received for the crime committed.\n. 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000).\n. Pursuant to 18 Pa.C.S. \u00a7 7508(a)(2)(i), Vasquez was subject to a mandatory fine of $5,000 for possession with intent to deliver at least 2.0 but less than 10.0 grams of a Schedule I or Schedule II narcotic, as defined by the Controlled Substance, Drug, Device and Cosmetic Act, 35 P.S. \u00a7 780-101, et seq.\n. In Smith, we found a trial court's error in failing to impose a mandatory minimum sentence under 42 Pa.C.S. \u00a7 9714(a) and (b) for second-time violent offenders implicated a sentence\u2019s legality in light of explicit statutory authority contained within Section 9714, granting the Commonwealth a right to appeal:\nIf a sentencing court shall refuse to apply this section where applicable, the Commonwealth shall have the right to appellate review of the action of the sentencing court. The appellate court shall vacate the sentence and remand the case to the sentencing court for the imposition of a sentence in accordance with this section if it finds that the sentence was imposed in violation of this section.\n42 Pa.C.S. \u00a7 9714(f).\n. Both Harley and Johnson examined the viability of what is known as the \"extrapolation method\u201d of measuring the weight of controlled substances. While the question of the appropriateness of this method remains an open question pending disposition of Johnson in this Court, the fact remains that the Superior Court in those cases examined the challenges as one implicating the legality of a mandatory minimum sentence.\n. See e.g. note 10, supra.\n. Whether Appellee\u2019s Dickson challenge implicates the legality of his sentence, such that it is nonwaivable, presents a pure question of law. Thus, our standard of review is de novo, and our scope of review is plenary. See e.g. Commonwealth v. Samuel, 599 Pa. 166, 961 A.2d 57 (2008).\n. While there was no specific language in the 1975 Crimes Code that specifically repealed Section 5109 (which, assumedly, was why the Walton sentencing court employed that section), the Superior Court in Commonwealth v. Flashburg, 237 Pa.Super. 424, 352 A.2d 185 (1975), and this Court during our review of Walton, found that the enactment of an entirely new statutory scheme for criminal conduct repealed all provisions of the 1939 Penal Code, of which 18 P.S. \u00a7 5109 was a part.\n. This provision has since also been repealed, but was effective at the time of the defendant\u2019s sentencing.\n. In Baldwin, we were charged with the task of determining the proper framework in which to examine whether sentences merge, in light of a recent enactment by the General Assembly concerning merger of crimes. There, the defendant had been charged with violating two separate provisions of the Uniform Firearms Act: 18 Pa.C.S. \u00a7 6106 (carrying a firearm without a license), and 18 Pa. C.S. \u00a7 6108 (carrying firearms on the public streets of a first class city). The violation of Section 6106 constituted a felony of the third degree, with a maximum sentence of seven years. The Section 6108 violation constituted a misdemeanor of the first degree, with a maximum sentence of five years. Thus, the defendant could not serve more than twelve years in prison.\nThe sentencing court sentenced the defendant to three-and-one-half to seven years of imprisonment for violating Section 6106, and two to four years of imprisonment for violating Section 6108, with the sentences to run consecutively; thus making the aggregate sentence five-and-one-half to eleven years, clearly within the aggregated statutory maximum prison term of twelve years. Notwithstanding that the sentence did not exceed the statutory maximum, cf. Miller, we began our discussion of the legal issues in the case as follows: \u201d[W]hether [Baldwin's] convictions merge for sentencing is a question implicating the legality of [Baldwin\u2019s] sentence.\u201d Baldwin, 985 A.2d at 833. Ultimately, we upheld the sentence imposed by the sentencing court, finding that the sentences did not merge. In other words, while, in the end, we found the sentence \"legal,\u201d the overriding question of law, as presented, implicated the \"legality of the sentence,\u201d despite the sentence not being outside the statutory maximum. Cf. Miller.\n. Were Shaw\u2019s DUI to constitute his third offense, the offense would have been graded as a first degree misdemeanor, carrying a statutory maximum term of imprisonment of five years. Conversely, a second DUI offense would have been graded as a second degree misdemeanor, with a statutory maximum of two years of imprisonment.\n. In concurrence, Mr. Chief Justice Castille views our decision today as redefining \"illegal as non-discretionary, [thus disapproving] over twenty years of extensive Superior Court precedent,\u201d Concurring Op. at 350 (Castille, CJ., concurring). Respectfully, these cases belie the concurrence\u2019s suggestion. Moreover, while the Superior Court has consistently used Section 9781 of the Sentencing Code, 42 Pa.C.S. \u00a7 9781 (providing for appellate review of discretionary and illegal sentences), as a point of reference for legality of sentencing issues, the formulation contained herein appropriately sharpens the focus within this area of the law.\n. As noted, supra p. 335, the sentencing guidelines called for a minimum term of imprisonment of twenty-two to thirty-six months, plus or minus twelve months.\n. Despite the analysis herein, we wholeheartedly believe that careful practitioners have filed, and indeed should continue to file, post-sentence motions and/or Rule 2119(f) statements for any sentencing claim, regardless of whether the challenge raises legality claims or not. Such belief does not change the fact, however, that failure of counsel to follow such prophylactic protocol in the narrow class of cases discussed herein will not be fatal to the sentencing challenge.\n.The concurrence by the Chief Justice contends that the proper resolution of this appeal revolves around the retroactive application of the Dickson decision, rather than issues surrounding legality of sentencing. While retro-activity was not briefed or argued by the parties (indeed, the Commonwealth has conceded the applicability of Dickson to Appellee, assuming, of course, the challenge has not been waived for all the reasons discussed herein, see Reply Brief of Commonwealth at 4 n. 2.), nor was it included within our grant of allocatur, the concurrence argues that we should decide the instant appeal because, inter alia, (1) Dickson overruled over twenty years of Superior Court precedent, which had applied Section 9712(a) to unarmed co-conspirators; and (2) Dickson involved this Court\u2019s initial interpretation of an enactment of the General Assembly.\nWe agree with the concurrence that the general rule in Pennsylvania is that this Court\u2019s initial interpretation of a statute becomes part of the statute itself, and thus relates back to the statute\u2019s date of enactment. See e.g. Commonwealth v. Williams, 594 Pa. 366, 936 A.2d 12, 22 (2007). This notion is not clearly dispositive, however, because it does not speak to issue preservation. Indeed, Pennsylvania courts have adhered to the general principle that parties are only afforded retroactive application of a decision of this Court if the identical issue was properly raised and preserved \"at all stages of adjudication up to and including direct appeal.\" Commonwealth v. Cabeza, 503 Pa. 228, 469 A.2d 146, 148 (1983); see also Commonwealth v. Ardestani, 558 Pa. 191, 736 A.2d 552, 555 (1999) (finding that a party is entitled to retroactive application of a decision on direct appeal where the issue involved was preserved at all stages of the litigation, including direct appeal). Moreover, while a decision involving criminal law must be applied \"to all criminal cases still pending on direct review,\u201d Schriro v. Summerlin, 542 U.S. 348, 124 S.Ct. 2519, 159 L.Ed.2d 442 (2004), the defendant must have preserved the legal challenge in the trial court to be entitled to retroactive application of the new decision. Commonwealth v. Roney, 581 Pa. 587, 866 A.2d 351, 359 n. 32 (2005). Should, however, the relevant issue be one classified as \"nonwaivable,\" (as we have determined here) concerns regarding issue preservation are not implicated. Id.\nThat said, we must respectfully, yet strenuously, note our concern with the concurrence\u2019s conclusion that \"as the creator of this issue preservation/waiver doctrine, this Court is certainly empowered to modify or excuse it whenever greater jurisprudential values are at stake.\u201d Concurring Op. at 353 (Castille, CJ., concurring). As noted throughout its opinion, the concurrence warns against ignoring principles of issue preservation, yet does just that by disregarding decisions such as Schriro and Roney in an effort to create an amorphous, yet equitable, decision based upon a \"balancing of values\u201d vis-a-vis retroactivity. Id. at 347-48. Contrarily, our holding today follows solid and established principles of law, affirms at least a decade of Superior Court jurisprudence by way of a thorough analysis, which heretofore this Court had not undertaken, and provides a definitive rule in this area of the law for both bench and bar.",
+        "type": "majority",
+        "author": "Justice BAER."
+      },
+      {
+        "text": "Chief Justice CASTILLE,\nconcurring.\nThe Opinion Announcing the Judgment of the Court (\u201cOAJC\u201d) affords appellee the retroactive benefit of this Court\u2019s decision in Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95 (2007) (holding that mandatory minimum sentence required by 42 Pa.C.S. \u00a7 9712(a) for persons who visibly possess firearm while committing certain crimes does not apply to unarmed co-conspirators), notwithstanding that appellee failed to preserve an objection on Dickson grounds to the imposition of his mandatory minimum sentence. I concur only in the result.\nI.\nAs the lead Justices observe, this Court\u2019s decision in Dickson issued four months after appellee Oliver Foster was sentenced. OAJC Op. at 335. Yet, in its legal analysis, the Lead Opinion does not address the important fact that the issue here requires an appreciation of, and accounting for, principles of retroactivity\u2014 which makes this case different from every other case in the plurality\u2019s survey. Instead, the plurality apparently deems the sentence here to have been \u201cillegal\u201d when imposed so that it can squeeze the case into a sentencing review paradigm that it discerns in existing decisions. Standing alone, that appellee\u2019s sentence is retroactively labeled illegal is a relatively benign fiction. The difficulty here is that, to make the case fit within its paradigm, the lead Justices adopt an overly broad rule redefining the concept of \u201cillegal sentence.\u201d\nUnder the plurality\u2019s redefinition, if a sentencing claim involves a non-discretionary decision by the trial court, then it can be argued that the claim (a) implicates the \u201clegality\u201d of the sentence; and (b) is impervious to both trial level issue preservation requirements and appellate briefing requirements governing discretionary sentencing claims. Simply stated, the plurality now equates illegality with non-discretion in sentencing. The Lead Opinion\u2019s new rule is unnecessary to resolve a case posing a distinct, and unique, retroactivity issue, but, worse, its mischief may be more global. Its pronouncement is a departure from precedent whose unavoidable result will be to multiply the number of potential claims that will be deemed \u201cillegal,\u201d irrespective of the plurality\u2019s claim that our jurisprudence regarding sentence illegality remains narrow. OAJC Op. at 344. Further, the plurality\u2019s redefinition will effect a radical rewriting of sentencing review practice, which will eviscerate trial level issue preservation requirements for both the Commonwealth and the defense. I respectfully believe that the unnecessary rule announced by the Lead Opinion is fundamentally in error and calls for a broader reexamination of the proper approach to claims alleging that a sentence is \u201cillegal.\u201d The different approach I outline below ultimately leads me to support affir-mance, but on very different grounds.\nI.A.\nThe issue in this case is the inevitable byproduct of this Court\u2019s decision in Dickson, which overturned twenty years of Superior Court precedent involving the mandatory minimum sentencing provision in 42 Pa.C.S. \u00a7 9712(a) (requiring courts to impose five-year minimum sentence for person convicted, inter alia, of robbery \u201cif a person visibly possessed a firearm\u201d), and held that unarmed co-conspirators are not subject to Section 9712(a)\u2019s five-year mandatory sentence. Appellee here was just such an unarmed co-conspirator; he was sentenced to the mandatory minimum sentence; he did not object at trial, no doubt in reliance on governing Superior Court case law; and, by the time Dickson was decided, his case was already on appeal. The mandatory minimum sentence, when it was imposed on appellee by the trial court, four months before we issued Dickson, was non-discretionary, and it unquestionably was \u201clegal.\u201d Proper resolution of this appeal requires identification and balancing of values. The Court must consider the appropriate retroactive reach of this Court\u2019s decision in Dickson; how best to resolve the tension between retroactive application of that decision and this Court\u2019s trial level issue preservation doctrines; and a proper understanding of the role of 42 Pa.C.S. \u00a7 9781.\nThe Superior Court adopted a categorical approach derived from Section 9781, under which a sentencing claim either implicates the sentencing court\u2019s discretion, in which case the claim is subject to trial level issue preservation requirements and appellate level issue presentation requirements; or it implicates a sentence\u2019s \u201clegality,\u201d which renders it impervious to any procedural restrictions, including waiver. Commonwealth v. Foster, 960 A.2d 160, 163-64 (Pa.Super.2008). According to the Superior Court, appellee\u2019s Dickson claim was a challenge to the application of a mandatory minimum sentence and, as a result, related to the legality of his sentence and was unwaivable. Id. at 167-69. On appeal, the plurality does not admit its own reliance on Section 9781, but it implicitly adopts the Superior Court\u2019s approach and perpetuates the discretion/legality dichotomy. In its analysis, the Lead Opinion betrays no recognition of the distinction between what is required by this Court\u2019s authority governing issue preservation at trial, and Section 9781\u2019s distinct requirements respecting presentation of sentencing issues on appeal. Then, the plurality redefines sentence illegality as non-discretion in sentencing. The Lead Opinion concludes that, because sentencing courts have no discretion to sentence below the mandatory minimum threshold when Section 9712(a) applies, ipso facto, a claim under that Section implicates the legality of the sentence, and cannot be waived. OAJC Op. at 844-45. In response to this concurrence, the plurality cites several cases which have assumed that, if a claim involves an \u201cillegal\u201d sentence, it was not subject to procedural restrictions at the trial level or on appeal. See OAJC Op. at 343-44. But, those cases state that claims of illegality were unwaivable; the same cases did not purport to redefine what amounts to an illegal sentence, let alone expand illegality to encompass all non-discretionary sentencing decisions, as the Lead Opinion does. Those cases also did not involve predicate questions of retroactivity, which increases the complexity of the present matter. As I noted at the outset, the plurality\u2019s failure to account for the fact that the powering issue here is retroactivity, and its consequent redefinition of the concept of illegal sentence to reach its result, calls for a more principled examination of the precepts the plurality accepts as inflexible command. Other considerations supporting a closer examination of the paradigm include the difficulty that this Court and the Superior Court have had, in prior cases, in determining which claims implicate sentencing \u201clegality,\u201d and the fact that there are expressions in cases, not accounted for by the plurality, which have noted that there is a need for more precision in determining both what is an illegal sentence, and what procedural consequences should follow from a finding that a sentence is illegal.\nAdopting an approach based on the so-called Section 9781 \u201cdichotomy,\u201d Foster, 960 A.2d at 163, to resolve this appeal is problematic for two reasons. First, the statute, notably entitled \u201cappellate review of sentence,\u201d does not purport to address trial level issue preservation doctrines, and the statute certainly does not purport to address retroactivity concerns arising from new decisional law. The statute exists merely to regulate the manner in which sentencing issues are approached on direct appeal. Section 9781(a) permits review \u201cas of right\u201d (for the defendant or the Commonwealth) if the question posed implicates \u201cthe legality of the sentence,\u201d a phrase not further defined. Section 9781(b) governs appeals (by the defendant or the Commonwealth) of the \u201cdiscretionary aspects of a sentence,\u201d also not further defined, and sets forth a procedure by which such claims are screened by the direct review court in a manner similar to allocatur review. Review of discretionary aspects of sentence is allowed only where there is a substantial question that the sentence imposed is not appropriate under the Sentencing Code. Under this Court\u2019s Rules, the screening process is invoked by including in the appellate brief the preliminary statement required by Pa.R.A.P. 2119(f). Failure to comply with this sui generis pleading process on appeal results in waiver, even if the discretionary claim was preserved below. See Commonwealth v. Tuladziecki, 513 Pa. 508, 522 A.2d 17 (1987). It is not apparent why deeming a claim to implicate sentencing \u201clegality\u201d for purposes of briefing to the direct review court under Section 9781 should automatically displace salutary and distinct judicial doctrines, which require that sentencing claims, like claims generally, should be forwarded and preserved at the trial court level.\nSecond, the categorical \u201cillegal versus discretionary\u201d formulation of the appellate review statute does not account for the complexity of issues that arise in the direct review sentencing realm. Under prevailing law, there are at least three common types of sentencing complaints, two of which can easily be squared with Section 9781\u2019s illegal sentence/discretionary sentence labeling, and one of which cannot be labeled as easily. The classic claim of an illegal sentence is where the sentence exceeded the statutory maximum for the offense(s). See, e.g., Commonwealth v. Bradley, 575 Pa. 141, 834 A.2d 1127, 1131 (2003) (\u201cAn illegal sentence is one that exceeds the statutory limits\u201d). A court is simply unauthorized to impose such a sentence. Another example of a clearly illegal sentence is one imposed by a court lacking jurisdiction. See, e.g., Commonwealth v. Quinlan, 433 Pa.Super. 111, 639 A.2d 1235 (1994) (court lacked jurisdiction in 1990 to order probation retroactive to May 1988, purportedly to correct \u201cclerical error\u201d in appellant\u2019s original sentencing and parole orders, which were recorded and unchallenged); Commonwealth v. Thomas, 291 Pa.Super. 263, 435 A.2d 901, 903-05 (1981) (sentencing court lacked authority to revoke probation imposed under repealed act and imprison defendant, following his acquittal by reason of insanity).\nThe classic claim deemed to implicate discretionary sentencing is that the sentence imposed, though within the overall statutory maximum and though imposed by a court cognizant of the Sentencing Guidelines, is clearly unreasonable. See, e.g., Commonwealth v. Davis, 737 A.2d 792 (Pa.Super.1999); Commonwealth v. Goodson, 365 Pa.Super. 24, 528 A.2d 997 (1987). Other common discretionary sentencing claims involve complaints that a sentence was insufficiently explained, or that the court considered impermissible factors, or that the court ignored relevant sentencing factors. See, e.g., Commonwealth v. Yuhasz, 592 Pa. 120, 923 A.2d 1111 (2007); Commonwealth v. Moury, 992 A.2d 162 (Pa.Super.2010); Commonwealth v. Rhodes, 990 A.2d 732 (Pa.Super.2009).\nBut, as any experienced appellate criminal law practitioner knows, there are a multitude of claims that do not fall neatly into either of these statutory extremes. For example, by statute, a sentencing court is obliged to consult, but is not obliged to follow, the Sentencing Guidelines, so long as it explains its reasons for deviation from the Guidelines. 42 Pa.C.S. \u00a7 9721(b). See, e.g., Commonwealth v. Sessoms, 516 Pa. 365, 532 A.2d 775, 780-81 (1987). The court has no discretion to ignore the Guidelines; it has no discretion to fail to calculate the Guidelines accurately; and it has no discretion to fail to explain deviations. But, these non-discretionary lapses have never been deemed to make the resulting sentence \u201cillegal.\u201d See, e.g., Commonwealth v. Cook, 941 A.2d 7, 11 (Pa.Super.2007) (claim that sentencing court misapplied Sentencing Guidelines raises substantial question, thus allowing for review of claim under discretionary review provision of Section 9781(b)).\nThe Lead Opinion assumes that the two Section 9781 categories \u2014 discretionary and illegal \u2014 are sufficient to encompass all claims in the sentencing realm. In my view, however, the resulting artificial burden on the courts, and in particular on the Superior Court, to devise strained interpretations in order to fit a third category of claims into either the discretionary or legality paradigm points out the need for a more nuanced approach.\nI.B.\nBy failing to recognize this complexity, in reaching the present result, the Lead Opinion has significantly redefined the concept of \u201cillegal\u201d sentence to include all but purely discretionary sentencing claims. In the wake of the plurality\u2019s redefinition, many of the cases traditionally deemed to implicate \u201cdiscretion\u201d for purposes of Section 9781 may now be construed to implicate sentencing legality, since a court lacks discretion to consider improper factors, to fail to consider relevant factors, to fail to consider the Guidelines, to fail to properly calculate Guideline ranges, etc. Make no mistake, the redefinition of illegal as non-discretionary disapproves over twenty years of extensive Superior Court precedent, which has treated all but a very narrow class of claims as implicating discretionary aspects of sentencing, rather than sentencing \u201clegality.\u201d Considered Superior Court case law clearly does not equate all grievances regarding non-discretionary aspects of sentencing as \u201cillegal\u201d sentencing claims, even for the limited purpose of Section 9781. See, e.g., Commonwealth v. Mola, 838 A.2d 791, 793 (Pa.Super.2003) (claim that sentencing court erroneously disregarded requirement to impose individualized sentencing was challenge to discretionary aspects of sentencing); Commonwealth v. Adams, 760 A.2d 33, 39 (Pa.Super.2000) (claim that sentencing court erroneously applied mandatory drugs in school zone sentencing enhancement was challenge to discretionary aspects of sentencing); Commonwealth v. Pennington, 751 A.2d 212, 215 (Pa.Super.2000) (claim that sentencing court erroneously applied mandatory deadly weapon enhancement was challenge to discretionary aspects of sentencing); Com monwealth v. Batterson, 411 Pa.Super. 252, 601 A.2d 335, 336-37 (1992) (same); Commonwealth v. Cappellini, 456 Pa.Super. 498, 690 A.2d 1220, 1227-28 (1997) (claim that sentencing court failed to state on record reasons for sentence imposed, as required by statute, was challenge to discretionary aspects of sentencing); Commonwealth v. Hlatky, 426 Pa.Super. 66, 626 A.2d 575, 583 (1993) (same); Commonwealth v. Munson, 419 Pa.Super. 238, 615 A.2d 343, 345 (1992) (claim that sentencing court failed to provide required on-record reasons for deviation from Sentencing Guidelines presented challenge to discretionary aspects of sentencing); Commonwealth v. John, 408 Pa.Super. 234, 596 A.2d 834, 839-40 (1991) (Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court\u2019s conclusion based on factors considered, i.e., the sentence imposed, was inappropriate); Commonwealth v. Brown, 402 Pa.Super. 369, 587 A.2d 6, 7-8 (1991) (Commonwealth challenged discretionary aspects of sentencing by claiming that sentencing court failed to apply deadly weapon enhancement); Commonwealth v. Ennis, 394 Pa.Super. 1, 574 A.2d 1116, 1124 (1990) (claim that sentencing court erroneously factored defendant\u2019s low I.Q. as sentence aggravator presented challenge to discretionary aspects of sentencing). Again, the plurality fails to appreciate the fact that the twin categories stated in Section 9781 do not account for all sentencing claims. The approach to this reality, to date, has been to reserve the designation \u201cillegal\u201d for a very narrow class of cases, and to treat all other claims as implicating discretion. The plurality has now reversed that approach.\nIn this regard, it is worth emphasizing that Section 9781\u2019s simple briefing dichotomy applies to the Commonwealth no less than to the defendant. By both redefining the concept of sentencing legality, and then effectively importing Section 9781 into the trial level issue preservation realm and making it dispositive, the Lead Opinion creates a prospect that the Commonwealth will not need to preserve its own \u201cnon-discretionary\u201d sentencing claims in the trial court \u2014 by notice to the defense where statutorily required, contemporaneous objection where required, and/or by post-sentence motion, as generally required. If the definition of \u201cillegal\u201d really is \u201cnon-discretionary,\u201d as the plurality now holds, and if illegal sentences are not subject to trial level waivers, as the plurality also holds, the Lead Opinion has significantly recalibrated the post-trial and appellate landscape where sentencing claims are concerned.\nThe trial court\u2019s determination of an appropriate sentence is inherently discretionary, and deference to the trial court\u2019s on-the-spot assessment is crucial, which no doubt is why the General Assembly undertook to make review of discretionary sentencing decisions more difficult. In the trial court\u2019s discretionary formulation, however, there are a myriad of non-discretionary responsibilities. Even if I could agree that all such non-discretionary obligations implicate the \u201clegality\u201d of a sentence for purposes of appellate issue presentation requirements under Section 9781 and Rule 2119(f), I would not simply assume, as the Lead Opinion does, that such claims should also be deemed to implicate sentencing \u201clegality\u201d for the very distinct question of whether to ignore trial level issue preservation requirements, requirements which apply to both the defense and the Commonwealth. Parties should be encouraged, and indeed required, to stand up and tell the trial court that it has miscalculated the Guidelines, or has improperly applied, or failed to apply, a mandatory sentencing statute. Such salutary judicial rules should stand down only if there is a sufficient, competing value at stake.\nII.\nFor purposes of issue preservation at the trial level, it is obvious that there are concerns beyond the labeling of a sentencing claim as non-discretionary. A classic claim of sentencing \u201clegality\u201d is obvious, undeniable, and capable of even administration, so much so that the claim may be raised sua sponte. A court either has jurisdiction or it does not; a sentence either exceeds the statutory maximum or it does not. Review of a docket and the relevant governing statute establishes the claim. But, many other non-discretionary sentencing claims are not so obvious or indisputable. The claim here is an example. The applicability, or inapplicability, of the Section 9712(a) firearms mandatory sentence is not obvious from the conviction and a consultation of the statute; it depends, intensely, upon the facts. Those facts can be disputed at trial. Obviously, then, this is the sort of claim that the defendant (or the Commonwealth, as the case may be) should dispute, both timely and on the record. Retroactively labeling the claim as one implicating sentencing \u201clegality\u201d does not alone warrant passing upon a claim not forwarded below.\nIn prior cases, I have cautioned against simplistic and monolithic approaches to claims that a sentence is illegal, and thereby is not subject to procedural default, and this case presents a good example of why more precise weighing is required. See Commonwealth v. Roney, 581 Pa. 587, 866 A.2d 351, 363-65 (2005) (Castille, J., concurring); Commonwealth v. Aponte, 579 Pa. 246, 855 A.2d 800, 812-16 (2004) (Castille, J., concurring). I have previously cautioned against broad innovative constructions of the term \u201cillegal sentence\u201d and stood in favor of \u201creserving] that sort of status to those few sentencing claims ... which challenge sentences exceeding the very jurisdiction or power of the sentencing court.\u201d Aponte, 855 A.2d at 815. I also noted my concern that \u201c[mjerely labeling a sentence as \u2018illegal\u2019 hardly justifies defeating all other laws which exist to ensure a rational and fair system of overview.\u201d Id.; accord Roney, 866 A.2d at 363-65. Instead, I have suggested an approach that would weigh the nature and gravity of the substantive sentencing claim against the values served by the specific normative default principle (here, issue preservation) at issue. In that analysis, I would also pay particular heed to the fact that we have greater control over the application of judicial default doctrines (i. e., waiver) than we have over statutory defaults (such as are found in the Post Conviction Relief Act, 42 Pa.C.S. \u00a7 9541 et seq.). Id. In my respectful view, the plurality improperly poses the question here as whether appellee\u2019s sentence is \u201cillegal\u201d as that term has come to be construed under Section 9781. It is more accurate and helpful to view the question as whether appellee, whose sentence unquestionably was legal under any formulation of sentencing \u201clegality\u201d when initially imposed, nevertheless is entitled to the retroactive benefit of the Dickson decision, even though he did not preserve a \u201cDickson challenge\u201d to the then-prevailing interpretation of Section 9712(a). Resolution of this question requires balancing competing interests: on the one hand, the nature and importance of Dickson \u2014 a case offering this Court\u2019s first and definitive construction of the reach of a statute that, in some instances, severely restricts judicial discretion in formulating a sentence \u2014 against a judicial procedural default rule \u2014 the requirement of issue preservation.\nFor my part, I would reach the substantive issue \u2014 entitlement to the retroactive application of Dickson \u2014 not because appel-lee\u2019s sentence was \u201cillegal,\u201d but because the claim involves a sufficient value that, under the peculiar circumstances here, our judicial issue preservation doctrine may properly stand down. The default doctrine applicable here is a judicial construct, made via procedural rules and practices, to carry out the orderly functioning of the appellate process. See Pa.R.A.P. 302(a); Commonwealth v. Freeman, 573 Pa. 532, 827 A.2d 385, 393 (2003); Commonwealth v. Bracey, 568 Pa. 264, 795 A.2d 935, 956 (2001) (Castille, J., concurring). As the creator of this issue preservation/waiver doctrine, this Court is certainly empowered to modify or excuse it when greater jurisprudential values are at stake. Freeman, 827 A.2d at 402; Bracey, supra.\nDickson overruled two decades of Superior Court precedent on the proper interpretation of Section 9712(a). The practical and salutary purpose of contemporaneous objection requirements is to assure immediate correction (or avoidance) of error, and thereby to provide justice immediately, and to forestall appellate issues and minimize appeals in their entirety. And, appellee obviously could have preserved a challenge to the governing Superior Court authority under Section 9712(a) in the hope that this Court might finally review that precedent. But, such a protective objection would not have forestalled the appeal, as the trial court had no authority to impose a sentence less than the mandatory minimum under then-governing law. Application of our contemporaneous objection requirement does not have the same force here that it would have in instances where timely objection would have put an end to the issue.\nOn the other side of the equation is the importance of the decision that, appellee claims, should be applied retroactively for his benefit. In my mind, two. aspects of Dickson weigh in favor of retroactive application here. First, is the fact that the decision \u2014 whether right or wrong (I was in dissent in Dickson) \u2014 was not a mere adjustment of a judicial rule, but instead was this Court\u2019s first and definitive interpretation of the intended reach of Section 9712(a). Under our precedent, that statutory interpretation becomes a part of the statute from the very beginning, and therefore, the interpretation plainly may be afforded retroactive effect. See Commonwealth v. Williams, 594 Pa. 366, 936 A.2d 12, 22 (2007); Kendrick v. Dist. Attorney of Philadelphia County, 591 Pa. 157, 916 A.2d 529, 537-41 (2007); Commonwealth v. Eller, 569 Pa. 622, 807 A.2d 838, 844 (2002).\nSecond, is the fact that the statutory provision at issue operated to deprive the judiciary of its traditional power of discretion in sentencing. For retroactivity purposes, Section 9712(a) obviously is not of the same order as a statute defining criminal conduct. Contrast Kendrick, 916 A.2d at 539 (\u201cA person does not run afoul of Pennsylvania criminal law unless he violates a specific statute; and when this Court holds that a statute does not encompass certain conduct, we do not have a \u2018choice\u2019 in determining whether to give retroactive effect to our holding.\u201d). But, neither is the statute purely procedural. And, at least in a case like this one, where the length of the minimum sentence imposed was wholly a function of the statute (the standard range of the Guidelines called for a minimum sentence of twenty-two to thirty-six months, and the court gave no indication that it believed an upward deviation would otherwise have been warranted), its effect is to prevent the court from fashioning an individualized sentence that otherwise complies with the norms set forth in the Sentencing Code and the Sentencing Guidelines. In short, for the admittedly narrower purpose of sentencing, the statute can have as fundamental an effect as a statute defining criminal conduct. For my part, I do not question the power of the General Assembly to remove sentencing discretion in firearm possession cases via mandatory minimum sentencing statutes like Section 9712(a). But, in assessing whether to employ a judicial procedural default doctrine to preclude retroactive application of a decision construing a sentencing statute, I believe that the fact that the decision recognizes and restores a discretionary power in sentencing weighs in favor of excusing the default.\nA third factor weighing in favor of allowing the statute, as construed in Dickson, to operate retroactively despite waiver of ap-pellee\u2019s claim is that it does not disturb any legitimate reliance interest on the part of the Commonwealth. The effect of a mandatory sentencing statute in a case where there is no argument that a sentence greater than the mandatory is warranted is to make sentencing a rote exercise. Applying Dickson and remanding will not dictate that any particular sentence be imposed, but instead, will require discretionary, individualized resentencing by a judicial officer, according to default sentencing norms, just like in the vast majority of criminal cases. On the other hand, refusing to apply Dickson consigns appellee to serve a non-discretionary, mandatory sentence even though, under this Court\u2019s prevailing interpretation in Dickson, the General Assembly did not intend to remove judicial discretion in this instance. On balance, I do not believe that our trial level default doctrine should be enforced.\nFourth and finally, I believe retroactive application of Dickson in the face of trial level default is appropriate because appel-lee\u2019s case was not yet final, but was pending on direct appeal when Dickson was decided, and appellee promptly raised his claim soon after the decision. Obviously, other considerations and values, beyond the requirement of contemporaneous objection, obtain once direct review has ended and a sentence has become final.\nIII.\nFor these reasons, I concur only in the judgment, and I would affirm the decision of the Superior Court to vacate and remand for resentencing, albeit on different grounds.\nJustice ORIE MELVIN joins this opinion.\n. Although the plurality has re-formulated its rule in terms of mandatory minimum sentence claims, the rule\u2019s application will certainly extend beyond that arena, given that the General Assembly has removed trial court discretion on issues other than mandatory minimum sentences. Notably, I refer to issues related to the consideration and application of the Sentencing Guidelines, which have never been considered to implicate the legality of a sentence. See discussion infra. For this reason, I continue to discuss the global impact of the plurality\u2019s new rule.\n. In its recitation of the procedural history, the Lead Opinion acknowledges that the mandatory sentence was properly imposed \"under the accepted reading of Section 9712(a) at the time of sentencing.\u201d OAJC Op. at 335. And yet, in its legal analysis, the plurality deems appellant's unpreserved \"Dickson challenge\u201d to be unwaivable because the sentence was \"illegal.\" The disconnect is an inevitable byproduct of the plurality\u2019s failure to appreciate the fact that this is, in essence, a retroactivity case.\n. Section 9781 (Appellate Review of Sentence) provides, in relevant part:\n(a) Right to appeal. \u2014 The defendant or the Commonwealth may appeal as of right the legality of the sentence.\n(b) Allowance of appeal. \u2014 The defendant or the Commonwealth may file a petition for allowance of appeal of the discretionary aspects of a sentence for a felony or a misdemeanor to the appellate court that has initial jurisdiction for such appeals. Allowance of appeal may be granted at the discretion of the appellate court where it appears that there is a substantial question that the sentence imposed is not appropriate under this chapter.\n. My discussion in text is confined to the question of issue preservation at the trial court level, and not the distinct question of compliance with Section 9781(b) and Pa. R.A.P. 2119(f) on appeal. Given the obvious inadequacy of the illegal/discretionary construct in Section 9781, careful practitioners over the years have always included a prefatory Rule 2119(f) statement, even if they had a colorable argument that their claims implicated the legality of a sentence, or as here, that their claims did not implicate a discretionary sentencing determination. Appellee would have been wise to follow this practice. But, on the other hand, the question of whether his merits issue was reviewable as of right under Section 9781(a) was one of first impression; appellee did not hide the ball, but indeed, raised his Dickson argument immediately; the Superior Court denied his pre-briefing motion without prejudice to raise the claim on appeal; and the merits issue of retroactive application of Dickson obviously raised a substantial question of first impression, such that discretionary review would have been appropriate. On this record, and consistently with my discussion below, I would not deem appel-lee\u2019s claim to be waived under the judicial default rule embodied in Appellate Rule 2119(f).\n. The plurality demurs from addressing the issue of retroactivity, because it has not been argued by the parties and because, the Lead Opinion says, \"the Commonwealth has conceded the applicability of Dickson \" to appel-lee if the issue of waiver were resolved in favor of appellee. OAJC Op. at 345 n. 21. Accordingly, the plurality addresses the issue of waiver only. The Lead Opinion also expresses concern with my \u201cconclusion that 'as the creator of this issue preservation/waiver doctrine, this Court is certainly empowered to modify or excuse it whenever greater jurisprudential values are at stake.\u2019 Concurring Op. at 352 (Castille, C[.]J., concurring).\u201d OAJC Op. at 346 n. 21. The plurality then claims there is a conflict in my position on the question of issue preservation. Id.\nBut the plurality's condemnation of my position derives from its own misperception of my global position. This Court obviously may adjust its procedural rules respecting issue preservation. The plurality may have rendered a simple and definitive rule, as it says, but it is an ad hoc rule that, in my respectful judgment, fails to see the bigger picture, and will cause collateral confusion. As I have explained, this sentence was legal when imposed and appellee failed to challenge it. Dickson was then decided four months later, and appellee sought application of Dickson to reduce his sentence. Under these circumstances, both the doctrines of retroactivity and waiver are implicated. I am decidedly in favor of properly assessing issues and values, irrespective of the parties\u2019 arguments, rather than restricting our review. In this preference, I have solid company. See Freed v. Geisinger Med. Center, 5 A.3d 212, 215 (Pa.2010); id. at 218-19 (Castille, C.J., concurring). As always, the issue is not whether we may consider broader principles, but whether we should. We are not sitting here in mere error review, and I believe the broader principles I have discussed are fairly implicated.",
+        "type": "concurrence",
+        "author": "Chief Justice CASTILLE,"
+      },
+      {
+        "text": "Justice SAYLOR,\nconcurring.\nI agree with the lead Justices that Ap-pellee\u2019s sentencing challenge should be vindicated, regardless of the issue-preservation difficulty. To the degree their opinion reflects that review of legality-of-sentence claims has been made available in limited categories of cases beyond those involving claims that sentences exceeded statutory m\u00e1ximums \u2014 despite non-adherence to ordinary principles of issue preservation and presentation \u2014 I support its reasoning and holding.\nTo the extent, however, the lead opinion conceives a rule of general application and/or sanctions, as the reviewability litmus, application of the dichotomy between claims of legal error and discretionary aspects of sentencing as embodied in Section 9781 of the Sentencing Code, I hold a different view similar to that of Mr. Chief Justice Castille.\nIn many jurisdictions, the doctrine of plain error serves as a safety valve to allow the vindication of compelling claims for relief from criminal sanctions, where the interests of justice require, despite failures to raise and preserve them. See, e.g., Fed.R.Crim.P. 52(b). See generally 5 Am.Jur.2d Appellate Review \u00a7 767 (2005). This Court generally disapproved plain error in Commonwealth v. Clair, 458 Pa. 418, 423, 326 A.2d 272, 274 (1974); however, some vestiges do remain. Of relevance here, before and after Clair, Pennsylvania courts recognized a continuing availability of judicial review where a sentence is \u201cunlawful per se.\u201d Commonwealth v. Rispo, 222 Pa.Super. 309, 311-12, 294 A.2d 792, 794 (1972), followed by Commonwealth v. Walker, 468 Pa. 323, 330-331, 362 A.2d 227, 230 (1976), overruled on other grounds by Commonwealth v. Frisbie, 506 Pa. 461, 465, 485 A.2d 1098, 1099 (1984). The use of the \u201cper se \u201d limiting language was obviously intended to narrow the class of claims subject to continuing review beyond those merely embodying purely legal issues.\nThe \u201cper se \u201d language, however, was imprecise, perhaps necessarily. Further, in the aftermath, courts did not always use this limiting language. On the one hand, \u201cunlawful per se \u201d was often shorthanded to \u201cillegal,\u201d thus opening the possibility for reading the maxim as applying to a far broader category of cases. On the other hand, courts attempted to conf\u00edne the precept very narrowly to claims that a sentence exceeded a statutory maximum. See, e.g., Commonwealth v. Miller, 541 Pa. 531, 562, 664 A.2d 1310, 1325 (1995) (\u201cAs long as the sentence is within the statutory limit, it is legal\u201d), abrogated on other grounds by Commonwealth v. Freeman, 573 Pa. 532, 560, 827 A.2d 385, 402 (2003). Of course, this latter class of statements conflicts with the body of decisions recognizing other instances where review should be accorded. See Opinion Announcing the Judgment of the Court, at 336-37.\nI believe the \u201cillegal per se \u201d language, although imprecise, better captures the thrust of the limited waiver exception pertaining to criminal sentencing, while distinguishing the analysis from the legality/discretion dichotomy governing the presentation of appellate claims under the Sentencing Code. I also agree with Chief Justice Castille that assessment of whether additional categories of claims will qualify is necessarily an evaluative one \u2014 which must account for the interest of finality in the administration of justice \u2014 in addition to fundamental fairness to the defendant. The appropriate balance of these important interests remains a difficult subject, upon which reasonable minds often disagree.\nHere, I believe a sentence imposed pursuant to a statutory mandatory minimum requirement which, by its plain terms, simply did not apply should be regarded as structurally illegal per se. In the circumstances, it seems a modest imposition on the government for Appellee\u2019s sentence to be revisited so that the due consideration of his individual circumstances may be afforded, within the sound discretion of the common pleas court.",
+        "type": "concurrence",
+        "author": "Justice SAYLOR,"
+      },
+      {
+        "text": "Justice EAKIN,\nconcurring.\nThere is a difference between something that is wrong, and something that is illegal. For the reasons expressed in my dissent in Commonwealth v. Dickson, 591 Pa. 364, 918 A.2d 95, 113 (2007), I disagree with the lead opinion\u2019s holding that appel-lee\u2019s challenge implicates the legality of his sentence and thus cannot be waived. \u201cAn illegal sentence is one that exceeds the statutory limits.\u201d Commonwealth v. Bradley, 575 Pa. 141, 834 A.2d 1127, 1131 (2003) (citation omitted). Appellee was sentenced to five to 10 years imprisonment for robbery; the maximum sentence for this first degree felony is 20 years. See 18 Pa.C.S. \u00a7 1103(1). As the sentence appel-lee received was within the statutory maximum, it is simply not a sentence that is illegal.\nThe trial court believed it had to impose a five-year minimum sentence, which may in post -Dickson hindsight make the sentence erroneous, or based on erroneous considerations. However, this makes the claim worthy of relief \u2014 it does not make the sentence illegal. The court retained, retains today, and will retain tomorrow, the discretion to impose any maximum term up to 20 years \u2014 it may legally sentence appellee to five to 10 years again. Dickson holds that a five-year minimum is not mandatory in cases such as this \u2014 it does not say a five-year minimum is illegal.\nWrestling the plain language of our jurisprudence to force this round peg of lack of discretion into the square hole of illegality is pointless and wrong. As long as it remained within the lawful range, the sentence was not illegal, no matter how incorrect later cases find the reasoning behind imposing a five-year minimum to be.\nI agree with Mr. Chief Justice Castille\u2019s view that this case concerns retroactivity, and the lead opinion has needlessly redefined illegality in order to ensure application of Dickson to the present matter. I do not object to retroactive application of the result in Dickson, but let us grant relief without twisting plain words into something they are not.\nChief Justice Castille joins this concurring opinion.",
+        "type": "concurrence",
+        "author": "Justice EAKIN,"
+      }
+    ],
+    "attorneys": [
+      "Lynne M. Abraham, Hugh J. Burns, Jr., Ronald Eisenberg, Arnold H. Gordon, Philadelphia, Regina Marie Oberholzer, Harrisburg, Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania.",
+      "Karl Baker, Owen W. Larrabee, Philadelphia, Ellen McBennett, Defender Association of Philadelphia, for Oliver Foster."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Oliver FOSTER, Appellee.\nSupreme Court of Pennsylvania.\nArgued Oct. 20, 2009.\nRe-Submitted Jan. 18, 2011.\nDecided March 29, 2011.\nLynne M. Abraham, Hugh J. Burns, Jr., Ronald Eisenberg, Arnold H. Gordon, Philadelphia, Regina Marie Oberholzer, Harrisburg, Philadelphia District Attorney\u2019s Office, for Commonwealth of Pennsylvania.\nKarl Baker, Owen W. Larrabee, Philadelphia, Ellen McBennett, Defender Association of Philadelphia, for Oliver Foster.\nCASTILLE, C.J., SAYLOR, EAKIN, BAER, TODD, McCAFFERY, ORIE MELVIN, JJ."
+  },
+  "file_name": "0332-02",
+  "first_page_order": 368,
+  "last_page_order": 393
+}

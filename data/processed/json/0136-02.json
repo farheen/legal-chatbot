@@ -1,0 +1,63 @@
+{
+  "id": 7962629,
+  "name": "STATE v. Genice HANNON",
+  "name_abbreviation": "State v. Hannon",
+  "decision_date": "1980-01-04",
+  "docket_number": "No. 79-112-C.A.",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 265,
+    "ocr_confidence": 0.803,
+    "sha256": "2e1f77980d2bdd491580e44676e5c46fb90cc6d88e0642f188d89f097f51a68d",
+    "simhash": "1:e17f2714de26ac75",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Genice HANNON."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe Public Defender\u2019s motion to withdraw as counsel for defendant in this appeal is granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Genice HANNON.\nNo. 79-112-C.A.\nSupreme Court of Rhode Island.\nJan. 4, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff."
+  },
+  "file_name": "0136-02",
+  "first_page_order": 184,
+  "last_page_order": 184
+}

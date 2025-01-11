@@ -1,0 +1,58 @@
+{
+  "id": 12486012,
+  "name": "In the Interest of: R.J., a Minor",
+  "name_abbreviation": "In re Interest of R.J.",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1567 EDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "b5d10002f40818d9f26f9dd8b95e9728b505b377c1c478a4289e8bd9245fdc5b",
+    "simhash": "1:b91ff3db00c68ce0",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: R.J., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: R.J., a Minor\nNO. 1567 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0599-10",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

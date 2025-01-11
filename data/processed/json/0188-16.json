@@ -1,0 +1,58 @@
+{
+  "id": 12485284,
+  "name": "In re Fellows",
+  "name_abbreviation": "In re Fellows",
+  "decision_date": "2016-05-11",
+  "docket_number": "NO. 16-152",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "b5260cf645c875fb74861d9650399cb987a16ea9aece3f80820d35ac09ae1d9f",
+    "simhash": "1:747bd50abc802699",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Fellows"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Fellows\nNO. 16-152\nSupreme Court of Vermont\nMay 11, 2016\nDisposition: Denied."
+  },
+  "file_name": "0188-16",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

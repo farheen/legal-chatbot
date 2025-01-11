@@ -1,0 +1,59 @@
+{
+  "id": 6093213,
+  "name": "In re Robert E. Miller",
+  "name_abbreviation": "In re Miller",
+  "decision_date": "1968-09-13",
+  "docket_number": "No. 8153",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 100,
+    "ocr_confidence": 0.521,
+    "sha256": "a15a166f3d698929d0329ae3746ea0e6f9eb70f054f7bff535cbcfd20bc2ffc2",
+    "simhash": "1:675773c7305ed010",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert E. Miller"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Heat-initiated phosphate-bonded compositions.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "September 13, 1968\nNo. 8153.\nIn re Robert E. Miller"
+  },
+  "file_name": "1515-07",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

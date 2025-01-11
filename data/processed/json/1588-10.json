@@ -1,0 +1,59 @@
+{
+  "id": 6083115,
+  "name": "In re Julius D. Madaras",
+  "name_abbreviation": "In re Madaras",
+  "decision_date": "1963-05-02",
+  "docket_number": "No. 6996",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "ocr_confidence": 0.572,
+    "sha256": "c0506c38ef111b0abb436b5366198c33b1b63ee51cc292c1e3af6300c3ffcfa2",
+    "simhash": "1:9059423da9c5ee56",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Julius D. Madaras"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in method of reducing metallic ores.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 2, 1963\nIn re Julius D. Madaras\n(No. 6996)."
+  },
+  "file_name": "1588-10",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

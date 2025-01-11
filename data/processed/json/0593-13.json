@@ -1,0 +1,58 @@
+{
+  "id": 12485917,
+  "name": "Com. v. L. Junious",
+  "name_abbreviation": "Com. v. Junious",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 879 MDA 2015",
+  "first_page": "593",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "75bf5c7578384c5edf17a11f7ce9b1de8b85466d1214ba105d5ee4477f72125a",
+    "simhash": "1:aacbffb971db39b0",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Junious"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Junious\nNO. 879 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0593-13",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

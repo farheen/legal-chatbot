@@ -1,0 +1,59 @@
+{
+  "id": 6092942,
+  "name": "In re Arthur A. Asadorian",
+  "name_abbreviation": "In re Asadorian",
+  "decision_date": "1967-12-27",
+  "docket_number": "No. 7942",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 85,
+    "ocr_confidence": 0.479,
+    "sha256": "57c67867402136d898ff094add41d4acf0bfce9d991193cd6b799feb207fe1da",
+    "simhash": "1:ae513efe9f0d678b",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Arthur A. Asadorian"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Halogenated diphenyl oxides.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 27, 1967\nNo. 7942.\nIn re Arthur A. Asadorian"
+  },
+  "file_name": "1514-01",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

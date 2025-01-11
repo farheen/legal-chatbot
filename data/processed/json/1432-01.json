@@ -1,0 +1,72 @@
+{
+  "id": 12165818,
+  "name": "In re Delmar O. Seevers",
+  "name_abbreviation": "In re Seevers",
+  "decision_date": "1965-06-17",
+  "docket_number": "No. 7269",
+  "first_page": "1432",
+  "last_page": "1436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1432"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 U.S.P.Q. 694"
+    },
+    {
+      "type": "parallel",
+      "cite": "346 F.2d 602"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 448,
+    "char_count": 7009,
+    "ocr_confidence": 0.552,
+    "sha256": "26f219461fd140ddf8d9cf9933cc9038a1eb74e739bf37988110b88fde525030",
+    "simhash": "1:ae4b09bad569729c",
+    "word_count": 1107
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Delmar O. Seevers"
+    ],
+    "opinions": [
+      {
+        "text": "AlmoND, Judge,\ndelivered the opinion of the court:\nDelmar O. Seevers appeals from the decision of the Patent Office Board of Appeals affirming the examiner\u2019s rejection of claims 16 and 17, the sole remaining claims of appellant\u2019s application for \u201cAnalyzing Water for Hydrocarbons.\u201d\nThe application discloses that the claimed invention:\n* * * comprises an analysis technique in which the water suspected of containing liquid hydrocarbons is subjected to irradiation by ionizing radiation. Such ionizing radiation may be in the form of electromagnetic radiation, such as ultraviolet rays, X-rays, or gamma rays, or in the form of ionizing particles such as beta rays or alpha particles. The irradiation is carried out for a predeterminable length of time sufficient to convert at least a portion of the hydrocarbons present in the water to a phenolic compound. * * * The irradiated water is then examined or analyzed to obtain a measure of the concentration therein of the phenolic compound.\nThe appealed claims recite a continuous method of analysis involving the use of steam to remove volatile constituents from well drilling fluid, commonly called drilling mud, and the determination of the presence of aromatic compounds in the volatile constituents.\nClaim 16 sets forth appellant\u2019s method of continuously recording the presence of minute amounts of aromatics in the drilling fluid to indicate the presence of petroleum in strata penetrated by a well.\nAppellant\u2019s brief helpfully breaks down claim 16 into its component parts, comprising the steps of:\n(1) subjecting a portion of the drilling fluid returning to the earth\u2019s surface to agitation in the presence of steam to extract the volatile constituents therefrom;\n(2) separating the steam containing the volatile constituents from the drilling fluid;\n(3) condensing the steam to a liquid containing the said volatile constituents ;\n(4) subjecting a continuous stream of the said liquid to at least one kiloroent-geu of ionizing radiation to convert at least a portion of the aromatics therein to phenolic compounds;\n(5) colorimetrically examining the irradiated liquid to establish the concentration therein of phenolic compounds, and\n(6) recording the detected color changes in accordance with the depth in the well where said aromatics are absorbed in the drilling fluid.\nTo more clearly depict appellant\u2019s \u201cin the field or on the job\u201d claimed method, Figure 3 of the drawings is reproduced on the following page:\nRotary table 42 drives a length of drill pipe 43 surrounded by casing 44. Drilling fluid is circulated downwardly through pipe 43, through openings (not shown) in the drill bit and back up the annulus between the pipe and casing to lubricate the bit, to maintain pressure on the drilled formations, and to carry cuttings to the surface. The drilling mud flows through the annulus between the drill pipe and casing and out through conduit 47 to screening device 48 where the larger pieces are screened from the fluid and the remaining fluid returned to sump 49. A portion of the drilling fluid is withdrawn through conduit 51 leading to separator 52. Steam entering through conduit 53 is bubbled through the drilling fluid in separator 52 containing baffle plates 54 to extract the more volatile constituents which are drawn off from the separator through conduit 56 leading to condenser 57. Condenser 57 utilizes a cooling medium to condense the fluid to a liquid. The condensed liquid passes through coil 61 surrounded by radioactive material 62. The condensed liquid is thus exposed to radiation for a predetermined length of time to convert all or a portion of the aromatics to phenolic compounds. The irradiated liquid has added thereto a color reagent from source 66 and then passes to colorimeter 27 where the colorimetric analysis is performed and the results thereof indicated automaticaly on record strip 30.\nThe rejection was based upon the following reference:\nStein, Chem. Soc. J., 3241-3263, (1949).\nThe Stein article describes colorimetric analysis of phenols which were formed by subjecting aromatic hydrocarbons to radiation. The board agreed with the examiner that part of the claimed method was \u201cfully taught\u201d by Stein. Even assuming the board was correct in this regard, we do not feel that the rejection can be sustained.\nReferring to the enumerated steps above, Stein can only be held to disclose steps (4) and (5). There was no art cited to suggest the other 4 steps. We think the board based its rejection on 35 USC 103 in stating:\nAppellant * * * states that Stein et al. do not anticipate all the steps necessary for appellant\u2019s method, particularly the steam stripping and condensation steps. However, we are constrained to agree with the Examiner that these steps are obvious to those skilled in this art because of their previous employment in analyses by various methods of hydrocarbon constituents in ground waters and well drilling fluids. * * *\nThe board relied upon appellant\u2019s own disclosure in an attempt to support its position that certain of appellant\u2019s steps had been pre-viousy employed, that portion of appellant\u2019s disclosure reading:\nIn exploring for underground petroleum accumulation, the presence of selected hydrocarbons in earth waters, either free water in the earth or water removed from drilling fluids utilized in drilling exploratory wells, is utilized as an indication of the possible presence of petroleum accumulations. Heretofore, the measurement of the concentrations of these hydrocarbons in the waters has been a very exacting and time-consuming operation, since the selected hydrocarbons are usually present in such small concentrations that conventional analysis techniques, such as solvent extraction and distillation, are unsuitable.\nAt most, this portion of the specification would seem to admit that the prior art analyzed for hydrocarbons by physically separating the hydrocarbon from the mud or water either by solvent extraction or by distillation. It does not disclose a process adapted to in-the-field removal of water containing hydrocarbon from drilling mud and chemical analysis of the water.\nOur analysis of the prior art of record indicates that the rejection before us is based purely on hindsight. The only suggestion of a process which can be used for continuous analysis of hydrocarbon-containing water which has been isolated from drilling mud is found in that part of appellant\u2019s specification which is not admitted prior art. We thus reverse the decision of the board.\nSerial No. 611,708 filed September 24, 1956.",
+        "type": "majority",
+        "author": "AlmoND, Judge,"
+      }
+    ],
+    "attorneys": [
+      "A. L. Snow (Edward J. Keeling and James E. Cockfield, of counsel, for appellant.",
+      "Clarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "346 F. 2d 602; 145 USPQ 694\nIn re Delmar O. Seevers\n(No. 7269)\nUnited States Court of Customs and Patent Appeals,\nJune 17, 1965\nA. L. Snow (Edward J. Keeling and James E. Cockfield, of counsel, for appellant.\nClarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents.\n[Oral argument May 7, 1965, by Mr. Cockfield and Mr. Martin]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1432-01",
+  "first_page_order": 756,
+  "last_page_order": 760
+}

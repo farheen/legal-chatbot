@@ -1,0 +1,58 @@
+{
+  "id": 12486024,
+  "name": "Com. v. M. Cintron",
+  "name_abbreviation": "Com. v. Cintron",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1380 EDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "e44740d5fc602d0bd2c308c539f5f7cfe6528c4c1e6aef823cb6a0a8e1dabd47",
+    "simhash": "1:a99f73f102de9df5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Cintron"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Cintron\nNO. 1380 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0599-07",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

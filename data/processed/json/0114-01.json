@@ -1,0 +1,178 @@
+{
+  "id": 8046097,
+  "name": "Joseph R. TUCKER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Tucker v. State",
+  "decision_date": "1979-07-23",
+  "docket_number": "",
+  "first_page": "114",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "405 A.2d 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "374 A.2d 824",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8017950
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/374/0824-01"
+      ]
+    },
+    {
+      "cite": "420 U.S. 714",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11644491
+      ],
+      "weight": 3,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/420/0714-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712077
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0222-01"
+      ]
+    },
+    {
+      "cite": "31 A.L.R.3d 565",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "581"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "423 U.S. 96",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175104
+      ],
+      "weight": 9,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "326"
+        },
+        {
+          "page": "326"
+        },
+        {
+          "page": "327"
+        },
+        {
+          "page": "326"
+        },
+        {
+          "page": "327"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/0096-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 8,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "1627"
+        },
+        {
+          "page": "1612"
+        },
+        {
+          "page": "1612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 376,
+    "char_count": 6465,
+    "ocr_confidence": 0.809,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5229227649951792
+    },
+    "sha256": "ee667ff2e13b06b8a039fc401ba59372fe44eb17bae210a1f962a5047b6d8ba0",
+    "simhash": "1:6112a1407be69295",
+    "word_count": 1026
+  },
+  "last_updated": "2024-02-27T22:14:23.256652+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HERRMANN, Chief Justice, DUFFY and McNEILLY, Justices."
+    ],
+    "parties": [
+      "Joseph R. TUCKER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HERRMANN, Chief Justice:\nThe defendant, Joseph R. Tucker, appeals his convictions for Second Degree Burglary, Second Degree Conspiracy, and Felony Theft contending that the Trial Court erred by admitting into evidence incriminating statements in violation of his Fifth Amendment privilege against self-incrimination.\nI.\nThe statements were obtained after the defendant, in response to being given his Miranda warnings, told the police that he did not wish to make a statement. The defendant argues that this constituted a violation of his rights under Miranda, wherein it was stated that \u201c[i]f the individual indicates in any manner, at any time prior to or during questioning, that he wishes to remain silent, the interrogation must cease.\u201d Miranda v. State of Arizona, 384 U.S. 436, 86 S.Ct. 1602, 1627, 16 L.Ed.2d 694 (1966).\nThe State denies that the defendant\u2019s statements were inadmissible, contending that although the defendant initially invoked his right to silence, his subsequent statements were admissible because they were volunteered \u201cspontaneously and without solicitation\u201d by the defendant while he was being processed.\nThe State also argues that even if these statements were not spontaneous, they are admissible because the State \u201chas sustained its burden necessary to demonstrate a waiver of Miranda rights by the defendant.\u201d\nII.\nIn Michigan v. Mosley, 423 U.S. 96, 96 S.Ct. 321, 326, 46 L.Ed.2d 313 (1975), Justice Stewart warned of the \u201cabsurd and unintended results\u201d that would flow from a literal interpretation of the Court\u2019s statement in Miranda that \u201c[i]f an individual indicates in any manner, at any time prior to or during questioning, that he wishes to remain silent, the interrogation must cease.\u201d It was there emphasized that the Miranda rule cannot \u201cbe read to create a per se proscription of indefinite duration upon any further questioning by any police officer on any subject, once the person in custody has indicated a desire to remain silent.\u201d And it was concluded in Mosley that \u201cthe admissibility of statements obtained after the person in custody has decided to remain silent depends under Miranda on whether his \u2018right to cut off questioning\u2019 was \u2018scrupulously honored.\u2019 \u201d 96 S.Ct. at 326. On the facts of the case before it, the Court held that the police had \u201cscrupulously honored\u201d Mosley\u2019s \u201cright to cut off questioning\u201d, because after Mosley\u2019s assertion of that right, \u201cthe police here immediately ceased the interrogation, resumed questioning only after the passage of a significant period of time and the provision of a fresh set of warnings, and restricted the second interrogation to a crime that had not been a subject of the earlier interrogation.\u201d 96 S.Ct. at 327.\nIII.\nIn the instant case, after the hearing, the Trial Judge denied the defendant\u2019s motion to suppress by simply declaring that the \u201c[ajpplication is denied.\u201d He did not provide a statement of how he interpreted the somewhat contradictory facts presented at the suppression hearing, nor did he provide a legal basis for his denial of the motion to suppress. The Trial Judge made no finding as to whether the defendant\u2019s statements were made spontaneously, or whether they were made in response to police questioning. Assuming that the defendant\u2019s statements did not fall within the exception of spontaneously volunteered statements, the Trial Judge made no finding, and the record before us provides no adequate basis for determining, whether the defendant\u2019s \u201c \u2018right to cut off questioning\u2019 was \u2018scrupulously honored.\u2019 \u201d Michigan v. Mosley, 423 U.S. 96, 96 S.Ct. 321, 326, 46 L.Ed.2d 313. Moreover, this record provides no basis for evaluating the Trial Court\u2019s reaction to the State\u2019s argument that the defendant waived his privilege against self-incrimination.\nIV.\nIn sum and substance, on this appeal we have no way of determining whether, after the defendant declined to make a statement, \u201cthe police here immediately ceased the interrogation, resumed questioning only after the passage of a significant period of time and the provision of a fresh set of warnings . . ..\u201d Michigan v. Mosley, 96 S.Ct. at 327.\nIf appellate review of a denial of a motion to suppress is to be anything more than a guessing game, a Trial Judge must provide the reviewing court with an adequate statement of the factual and legal basis of his decision. As the record in this case does not contain such statement, it does not provide an adequate basis for appellate review. Theref\u00f3re, we must remand this case to the Trial Court for a statement of the factual and legal basis for its denial of the motion to suppress.\n******\nRemanded for proceedings consistent with this opinion; jurisdiction retained.\n. See Miranda v. State of Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).\n. In Miranda, the Court held that \u201cthe prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination.\u201d 86 S.Ct. at 1612. As \u201ccustodial interrogation\u201d was defined as \u201cquestioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom in any significant way,\u201d (86 S.Ct. at 1612), a spontaneous statement volunteered by a defendant that is not in response to a police query would not fall within the strictures of Miranda, and would therefore be admissible. See Annot., 31 A.L.R.3d 565, 581 (1970).\n. The State also argues that even if the \u201cstatements are deemed to have been involuntarily made, they could have still been used for impeachment purposes since the defendant took the stand.\u201d As the State introduced Wright\u2019s statement during its case in chief, rather than during rebuttal, this argument seems to be wholly without merit. See Harris v. New York, 401 U.S. 222, 91 S.Ct. 643, 28 L.Ed.2d 1 (1971); Oregon v. Hass, 420 U.S. 714, 95 S.Ct. 1215, 43 L.Ed.2d 570 (1975); and Wright v. State, Del.Supr., 374 A.2d 824 (1977).",
+        "type": "majority",
+        "author": "HERRMANN, Chief Justice:"
+      }
+    ],
+    "attorneys": [
+      "Richard M. Baumeister, Asst. Public Defender, Wilmington, for defendant below, appellant.",
+      "Timothy H. Barron, Deputy Atty. Gen., Wilmington, for plaintiff below, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph R. TUCKER, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nSupreme Court of Delaware.\nSubmitted May 17, 1979.\nDecided July 23, 1979.\nRichard M. Baumeister, Asst. Public Defender, Wilmington, for defendant below, appellant.\nTimothy H. Barron, Deputy Atty. Gen., Wilmington, for plaintiff below, appellee.\nBefore HERRMANN, Chief Justice, DUFFY and McNEILLY, Justices."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 178,
+  "last_page_order": 180
+}

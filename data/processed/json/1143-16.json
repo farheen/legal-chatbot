@@ -1,0 +1,58 @@
+{
+  "id": 12488382,
+  "name": "Comeau, N. v. Burger, W.",
+  "name_abbreviation": "Comeau v. Burger",
+  "decision_date": "2016-05-10",
+  "docket_number": "1021 WDA 2015",
+  "first_page": "1143",
+  "last_page": "1143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "49bc3af5fb7c328edb282a4a4268a2479669584af650aabb2f5743de186bdf27",
+    "simhash": "1:7012546b1caa95da",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Comeau, N.\nv.\nBurger, W."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Comeau, N.\nv.\nBurger, W.\n1021 WDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nQuashed."
+  },
+  "file_name": "1143-16",
+  "first_page_order": 1143,
+  "last_page_order": 1143
+}

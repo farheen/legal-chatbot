@@ -1,0 +1,58 @@
+{
+  "id": 12486743,
+  "name": "Com. v. E. Goudy",
+  "name_abbreviation": "Com. v. Goudy",
+  "decision_date": "2016-03-24",
+  "docket_number": "NO. 260 MDA 2014",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 114,
+    "sha256": "2af58a14835ea8e5ea8f07611d418c10b9c19f975364b221f99f5820faf7e18c",
+    "simhash": "1:9d43ea04026d5821",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Goudy"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Goudy\nNO. 260 MDA 2014\nSuperior Court of Pennsylvania.\nMarch 24, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0209-12",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

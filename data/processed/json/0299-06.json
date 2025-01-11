@@ -1,0 +1,58 @@
+{
+  "id": 12490516,
+  "name": "KELLER, B. v. UCBR",
+  "name_abbreviation": "Keller v. Ucbr",
+  "decision_date": "2017-03-29",
+  "docket_number": "790; 791 CD 2016",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 131,
+    "sha256": "440e04e0420177f92ae4d9e2f0dee42477ca17fe999d5331deb12623f8799756",
+    "simhash": "1:24b16701c0294dc9",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KELLER, B.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "KELLER, B.\nv.\nUCBR\n790\n791 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 29, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0299-06",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

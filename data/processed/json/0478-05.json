@@ -1,0 +1,58 @@
+{
+  "id": 12485620,
+  "name": "Commonwealth v. Clay Caldwell",
+  "name_abbreviation": "Commonwealth v. Caldwell",
+  "decision_date": "2016-07-06",
+  "docket_number": "NO. 71 EAL 2016",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "074ad148a4a223fa34fece4d0404c04669e01b9c7e8f230638807a435eff6ec3",
+    "simhash": "1:64ce502c00b100b0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nClay Caldwell"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nClay Caldwell\nNO. 71 EAL 2016\nSupreme Court of Pennsylvania\nJuly 06, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0478-05",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

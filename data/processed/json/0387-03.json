@@ -1,0 +1,65 @@
+{
+  "id": 12491815,
+  "name": "COM. v. JOHNS, T.",
+  "name_abbreviation": "Com. v. Johns",
+  "decision_date": "2017-07-17",
+  "docket_number": "1628 MDA 2016",
+  "first_page": "387",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 387"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 65.37",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 249,
+    "sha256": "e6e4f597dc4551ed0bf81827c89858de465b395fa2728b0af785013063af5e3d",
+    "simhash": "1:551d14f08b380994",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nJOHNS, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nJOHNS, T.\n1628 MDA 2016\nSuperior Court of Pennsylvania.\nJuly 17, 2017\nUnpublished opinion of the Superior Court of Pennsylvania is governed by Section 65.37 of the Operating Procedures of the Superior Court, 210 Pa. Code \u00a7 65.37.\nAffirmed."
+  },
+  "file_name": "0387-03",
+  "first_page_order": 387,
+  "last_page_order": 387
+}

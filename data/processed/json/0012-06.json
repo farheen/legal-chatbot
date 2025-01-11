@@ -1,0 +1,58 @@
+{
+  "id": 12485204,
+  "name": "Commonwealth v. Franklin Luther Jackson",
+  "name_abbreviation": "Commonwealth v. Jackson",
+  "decision_date": "2016-06-15",
+  "docket_number": "NO. 128 MAL 2016",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 155,
+    "sha256": "a4a3b8630b67fb152edd2f2e389f10e2ef3d0595ed27eac3a6fb3561b7102a59",
+    "simhash": "1:d49a0622186311b0",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nFranklin Luther Jackson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nFranklin Luther Jackson\nNO. 128 MAL 2016\nSupreme Court of Pennsylvania\nJune 15, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0012-06",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

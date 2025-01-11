@@ -1,0 +1,102 @@
+{
+  "id": 7288915,
+  "name": "Henry SOURBINE, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Sourbine v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2010-09-02",
+  "docket_number": "No. 61 EM 2010",
+  "first_page": "667",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 572,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18829862281546145
+    },
+    "sha256": "7aecb2ec32b130d82307050ba6525a86be8c886079d3fc46c019c29da915de99",
+    "simhash": "1:0c1f231e63912d37",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry SOURBINE, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of September, 2010, the Application for Leave to File Original Process, the Petition for Writ of Mandamus, and the Application for an Immediate Hearing on the Pending Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation is improper). The Prothonotary is directed to forward the filings to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Henry SOURBINE, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 61 EM 2010.\nSupreme Court of Pennsylvania.\nSept. 2, 2010."
+  },
+  "file_name": "0667-02",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

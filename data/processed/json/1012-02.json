@@ -1,0 +1,92 @@
+{
+  "id": 9378744,
+  "name": "Herman A. DONTON, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee",
+  "name_abbreviation": "Donton v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2004-07-01",
+  "docket_number": "",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "853 A.2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "838 A.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299288,
+        16713
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0684-01",
+        "/pa/576/0059-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16713
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 281,
+    "ocr_confidence": 0.658,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21703852232311613
+    },
+    "sha256": "83aad6b293854afc1b6873bcd8381414cd0d33d7ba5b7fe26c910a6e2e5bf08e",
+    "simhash": "1:0dbf5b14d3e93453",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T19:46:11.377435+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herman A. DONTON, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of July, 2004, the order appealed is affirmed. See Finnegan v. PBPP, 576 Pa. 59, 838 A.2d 684 (2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Herman A. DONTON, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee.\nSupreme Court of Pennsylvania.\nJuly 1, 2004."
+  },
+  "file_name": "1012-02",
+  "first_page_order": 1050,
+  "last_page_order": 1050
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6084649,
+  "name": "In re Rines",
+  "name_abbreviation": "In re Rines",
+  "decision_date": "1949-10-04",
+  "docket_number": "No. 5698",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 56,
+    "ocr_confidence": 0.619,
+    "sha256": "1aabd71276992fa9b7eebe423c6c65c166b27f0a49d9d8dcbd188ba7d81517b4",
+    "simhash": "1:20d6c1f470c13eef",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rines"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in electric system.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Rines\n(No. 5698)."
+  },
+  "file_name": "1249-02",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

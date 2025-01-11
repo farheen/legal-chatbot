@@ -1,0 +1,58 @@
+{
+  "id": 12486026,
+  "name": "Com. v. M. Miller",
+  "name_abbreviation": "Com. v. Miller",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1510 EDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "91f7c9c2054152afffa65e26344401e4388c04b6ba01a7f14b2e8f87e340f749",
+    "simhash": "1:a91f72b30be69175",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Miller"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Miller\nNO. 1510 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0599-09",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

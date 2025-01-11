@@ -1,0 +1,92 @@
+{
+  "id": 11856117,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant",
+  "name_abbreviation": "Commonwealth v. Collins",
+  "decision_date": "1998-03-26",
+  "docket_number": "",
+  "first_page": "509",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "707 A.2d 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "702 A.2d 540",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        18272,
+        11891091
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0593-01",
+        "/a2d/702/0540-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 593",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18272
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0593-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 427,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24364007322434628
+    },
+    "sha256": "ed82c78f32f9de7eb15c3cbd94743045bdcc812bdd6f3e86284fe053f889523e",
+    "simhash": "1:56af091086250d1f",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T16:48:46.337105+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 26th day of March, 1998, the Emergency Motion for Stay of Execution is granted pending final disposition by the United States Supreme Court of any timely filed petition for writ of certiorari from this Court\u2019s ruling in Commonwealth v. Collins, 549 Pa. 593, 702 A.2d 540 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Rodney COLLINS, Appellant.\nSupreme Court of Pennsylvania.\nMarch 26, 1998."
+  },
+  "file_name": "0509-03",
+  "first_page_order": 581,
+  "last_page_order": 581
+}

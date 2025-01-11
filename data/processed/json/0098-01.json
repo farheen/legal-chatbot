@@ -1,0 +1,102 @@
+{
+  "id": 6812145,
+  "name": "Frank Mokosiej, and another vs. Lawrence Cupidi",
+  "name_abbreviation": "Mokosiej v. Cupidi",
+  "decision_date": "1995-08-08",
+  "docket_number": "",
+  "first_page": "98",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1995 Mass. App. Div. 98"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass. App. Div.",
+    "id": 15177,
+    "name": "Massachusetts Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Mass. App. Dec. 9",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Dec.",
+      "year": 1959,
+      "opinion_index": 0
+    },
+    {
+      "cite": "329 Mass. 406",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        490931
+      ],
+      "year": 1952,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/329/0406-01"
+      ]
+    },
+    {
+      "cite": "58 Mass. App. Dec. 45",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Dec.",
+      "case_ids": [
+        4337611
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-dec/58/0045-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 280,
+    "char_count": 3821,
+    "ocr_confidence": 0.892,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18295101374636127
+    },
+    "sha256": "498b0f2657410ac6e52a3d8105c5d55877903c96b35d56b567966f5b8557040a",
+    "simhash": "1:b1edd2f2732dbdfb",
+    "word_count": 626
+  },
+  "last_updated": "2024-02-27T22:15:49.746046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Brennan, LoConto & Gelinas, JJ."
+    ],
+    "parties": [
+      "Frank Mokosiej, and another vs. Lawrence Cupidi"
+    ],
+    "opinions": [
+      {
+        "text": "Brennan, J.\nThis is an appeal of the trial judge\u2019s allowance of the defendant\u2019s motion to dismiss under Massachusetts Rules of Civil Procedure, Rule 41(b), as well as the judge\u2019s evidentiary ruling excluding certain testimony.\nThe facts and issues necessary for a resolution of this matter are as follows:\nThis is an action in tort in which Frank and Mary Makosiej (hereinafter, the appellant) are seeking damages for a fire which they allege was caused by Lawrence Cupidi\u2019s (hereinafter, the appellee\u2019s) improper storage of combustible materials.\nAfter the close of plaintiff/appellant\u2019s case, the Court allowed a motion by defendant appellee to dismiss under Mass. R. Civ. R, Rule 41(b).\nIn his decision the trial judge made findings of fact as well as written general findings. In pertinent part, the judge found as follows:\nOn these subsidiary facts, I make the ultimate or general finding that the fire and the resulting damage to the landlord\u2019s property was the result of the negligence of the tenant. Notwithstanding this conclusion, the plaintiff cannot recover as a matter of law... A tenant at will is liable at common law for voluntary but not for permissive waste. Permissive waste consists of neglect or omission while voluntary waste is active or positive waste.\nThe issue before the court is whether the storage of newspapers in a cardboard box too close to a woodburning stove, which ultimately causes a fire, constitutes negligent voluntary waste or permissive waste. Appellant is aggrieved by the Court\u2019s determination that appellee\u2019s conduct constituted permissive waste rather than active waste.\nIn his finding, the judge specifically found that the appellee was a tenant at will and that the fire in question originated in a box of newspapers which had been stored next to the stove. Based on these subsidiary findings the judge found that appellee was not liable for damages because the injury resulted from his omission to safeguard the fire properly. Based on his subsidiary facts the judge found that appellee\u2019s conduct consisted of permissive waste, rather than voluntary waste. Correctly, the judge held that no action would lie for permissive waste.\nPlaintiff/appellant attempted to present testimony from Donald Obetz, a former tenant at the subject property. Plaintiff/appellant made an offer of proof that if allowed to testify, Mr. Obetz would have stated that:\n... when he moved into the premises, there was no woodburning stove, that he had installed a woodburning stove; and that when he vacated the premises during or about April 1982, he took the woodburning stove with him.\nThis issue, though included in the report, was not argued. It appears clear that the judge did not abuse his discretion in excluding this testimony.\nThe function of a judge in a non jury trial is to lay down the governing principles of law, to find the facts, and to apply those principles of law to the facts found by him. Jermyn v. Worcester Bus Co., 58 Mass. App. Dec. 45 (1976). We are limited to reviewing the rulings which have been reported and matters of law arising in connection with the making of the report. We have no authority to review findings of fact. Elliot v. Warwick Stores Inc., 329 Mass. 406 (1952). Further, findings of fact on conflicting evidence will be sustained if they can be supported by evidence and any reasonable inferences which can be drawn therefrom. Pugliese v. Jacquot, 18 Mass. App. Dec. 9 (1959).\nThe judge\u2019s findings are supported by the evidence and there are no errors of law. The trial court\u2019s findings and decision are affirmed.\nPetition dismissed.",
+        "type": "majority",
+        "author": "Brennan, J."
+      }
+    ],
+    "attorneys": [
+      "James Moriarty, Sr., for the plaintiffs.",
+      "Edward V. Sabella for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Frank Mokosiej, and another vs. Lawrence Cupidi\nWestern District\nAugust 8, 1995.\nPresent: Brennan, LoConto & Gelinas, JJ.\nJames Moriarty, Sr., for the plaintiffs.\nEdward V. Sabella for the defendant.\nMary Makosiej."
+  },
+  "file_name": "0098-01",
+  "first_page_order": 104,
+  "last_page_order": 105
+}

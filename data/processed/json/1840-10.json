@@ -1,0 +1,59 @@
+{
+  "id": 12168461,
+  "name": "In re Alexander Farkas",
+  "name_abbreviation": "In re Farkas",
+  "decision_date": "1965-09-28",
+  "docket_number": "No. 7757",
+  "first_page": "1840",
+  "last_page": "1840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1840"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 99,
+    "ocr_confidence": 0.637,
+    "sha256": "b3ee0da91a0965eaafa76942618ae8d5dd5b6e0a4a0bd31bfbe3ac9f93a2735e",
+    "simhash": "1:a5badfca4a5506c8",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Alexander Farkas"
+    ],
+    "opinions": [
+      {
+        "text": "Medication of burns and topical composition.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "September 28, 1965\nIn re Alexander Farkas\n(No. 7757)."
+  },
+  "file_name": "1840-10",
+  "first_page_order": 1164,
+  "last_page_order": 1164
+}

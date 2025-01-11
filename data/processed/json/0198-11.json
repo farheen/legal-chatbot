@@ -1,0 +1,58 @@
+{
+  "id": 12486570,
+  "name": "M. Borders v. J. Segars",
+  "name_abbreviation": "Borders v. Segars",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 628 EDA 2015",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 99,
+    "sha256": "4107e33838168f68bd224a7d8529d13fb65a643d6322a56ea3eb117408ac530d",
+    "simhash": "1:a9d3afc7861f1681",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. Borders\nv.\nJ. Segars"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M. Borders\nv.\nJ. Segars\nNO. 628 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-11",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

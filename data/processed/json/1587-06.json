@@ -1,0 +1,59 @@
+{
+  "id": 6082912,
+  "name": "In re John Dennis Griffin, Louis C. Rubens and Raymond F. Boyer",
+  "name_abbreviation": "In re Griffin",
+  "decision_date": "1962-10-24",
+  "docket_number": "No. 7034",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 150,
+    "ocr_confidence": 0.463,
+    "sha256": "663759e28433e8eb1d28c9c772f112e66d2d3e696b5ec2e2003114c3af090fbd",
+    "simhash": "1:84304e55ee328df1",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John Dennis Griffin, Louis C. Rubens and Raymond F. Boyer"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in method for cross-linking polymers of hydrocarbon olefins.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re John Dennis Griffin, Louis C. Rubens and Raymond F. Boyer\n(No. 7034)."
+  },
+  "file_name": "1587-06",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

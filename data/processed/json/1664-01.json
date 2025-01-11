@@ -1,0 +1,122 @@
+{
+  "id": 12166561,
+  "name": "In re Franklin W. Herrick and Louis H. Bock",
+  "name_abbreviation": "In re Herrick",
+  "decision_date": "1965-05-06",
+  "docket_number": "No. 7396",
+  "first_page": "1664",
+  "last_page": "1668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1664"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 U.S.P.Q. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "344 F.2d 713"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "297 Fed. 163",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3637387
+      ],
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "167"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/297/0163-01"
+      ]
+    },
+    {
+      "cite": "229 F. 2d 457",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        67218,
+        6078125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/229/0457-01",
+        "/ccpa/43-2/0775-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 775",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078125
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0775-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 589,
+    "char_count": 9020,
+    "ocr_confidence": 0.545,
+    "pagerank": {
+      "raw": 3.0174949224532157e-07,
+      "percentile": 0.8536439769268401
+    },
+    "sha256": "f1afdbe523a18ec9229c579881648fe81b947f7ec724c8913e2efad8a9c974a7",
+    "simhash": "1:071be26876944f8e",
+    "word_count": 1466
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Franklin W. Herrick and Louis H. Bock"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nAppellants\u2019 patent application discloses and claims polymethylol phenol, a method for producing it and a composition of it with an \u201calkali lignin.\u201d Claims 1 and 4 are illustrative and read:\n1. The process for producing polymethylol phenol which comprises reacting phenol with from 2.5 to 3.0 moles of aqueous formaldehyde in the presence of from 0.25 to 1.0 moles of sodium hydroxide, reacting the materials at a reflex temperature to form a polymethylol phenol having a mole ratio of from 2.3 to 2.52 moles of formaldehyde per mole of phenol, cooling the mixture to arrest condensation, adding sulfuric acid and water to the mixture and keeping the temperature below 10\u00b0 C, separating the condensate as a heavy syrup from an aqueous portion, and washing the condensate with water to free it from inorganic material, said polymethylol phenol being insoluble in water but soluble in alcohol.\n4. The resin-forming composition comprising a polymethylol phenol in the form of a heavy syrup having a mole ratio of combined formaldehyde-to-phenol of from 2.3 to 2.52 which is water insoluble containing no free formaldehyde and being free of inorganic material, and an alkali lignin which is free of inorganic material in admixture with the polymethylol phenol, said mixture being soluble \u215b organic solvents including methanol and being condensible by heating to an insoluble, infusible resin which has low water absorption and high dielectric properties.\nThe remaining claims on appeal are 2 and 3, directed to the compound itself; 5 and 6, directed to the composition; and 8, directed to a proc ess for producing the composition. No claims have been allowed.\nThe condensation reaction is carried to the point where the product is, in the words of the specification:\n* * * water insoluble but soluble in polar organic solvents, and is advantageously useful for forming laminating varnishes, as a component of thermosetting Phenolic resin compositions, as [a] curing agent for other phenolic materials, and for other purposes where thermosetting condensates that yield insoluble, infusible products are useful. The polymethylol phenol is soluble in such organic solvents as the lower alcohols and is compatible with natural occurring phenolic materials such as lignin, quebracho and phenolic constituents of bark. Compositions of the polymethylol phenol and such naturally occurring phenolic materials are thermosetting and can be used to make molding compounds, and paper laminates with properties equivalent to those made with conventional phenolic laminating resins. * * *\nIn addition to having excellent water-resistance and dimensional stability, the products can be washed free of electrically conducting electrolytes and can thus be used to form laminates where good dielectric properties are essential.\nThe following references were relied upon in rejecting the appealed claims:\nAmann et al., 1,614,171, Jan. 11, 1927.\nPoliak et al., Re. 19,710, Sept. 17, 1935.\nThompson et al., 2,186,687, Jan. 9, 1940.\nReboulet, 2,228,976, Jan. 14, 1941.\nSchrader et al., 2,620,321, Dec. 2, 1952.\nSchwartzberg, 2,636,017, Apr. 21, 1953.\nDietz, 2,673,190, Mar. 23, 1954.\nShappell, 2,758,101, Aug. 7, 1956.\nCarswell, Phenoplasts, pp. 9-10 (Interscience Publishers, Inc., New York,. 1947).\nMartin, The Chemistry of Phenolic Resins, pp. 23-24, 97, 127 (John Wiley & Sons, Inc., New York, 1956).\nApplication of Sandig, serial No. 368, 611, published April 20, 1943 (vested in Alien Property Custodian).\nThus we are confronted with eight patents, two texts and one published application which have been relied upon, as shall be seen, to, support a myriad of rejections.\nWe shall rely upon the board\u2019s statement of the rejections of the various claims, since that constitutes the last official word on the subj ect. As to claim 1, the board said:\nClaim 1 stands rejected as unpatentable over any one of Poliak et al., Ammann [sic] et al., Thompson et al., Schrader et al. [,] Schwartzberg, Dietz, Schappell [sic], or Sandig, each alone, or in view of Carswell or Martin. * * * [Emphasis added.]\nClaims 2 and 3 were rejected as:\n* * * unpatentable over the Carswell text or Martin text, each considered alone or in view of Schrader et al., Schappell [sic], Poliak et al., Ammann [sic] et al., Thompson et al., Schwartzberg, Dietz and/or Sandig. * * * [Emphasis added.]\nFinally, claims 4,5,6 and 8 were rejected as:\n* * * unpatentable over Reboulet alone, or in view of any of Schrader et al., Schappell [sic], Poliak et al., Ammann [sic] et al., Thompson et al., Schwartz-berg, Dietz, Sandig, the Martin text and the Carswell text. * * * [Emphasis added.]\nThe board affirmed all the above rejections, and added the somewhat cryptic comment that:\n* * * the necessity for citing so many references was in all probability brought about by uncertainty on the part of the Examiner as to how the claimed compounds differed structurally from those shown in these references. This uncertainty was apparently engendered by the indefinite nature of the products, as claimed, and the further fact that appellants did not specifically compare the claimed products with the products of the reference patents under the same conditions.\nWe note, however, that there was no rejection for failure to comply with 35 U.S.C. 112.\nWe have begun our consideration of the rejections in this case with a purely numerical analysis, and we have ended it there, for, as will become apparent, the existing situation does not permit rational isolation and determination of the legal issues which may be present. Regarding claim 1, the most reasonable interpretation of the board\u2019s statement leads to the conclusion that there is, in fact, the astounding total of twenty-four separate rejections of the claim. As to claims 2 and 3, there is no meaningful way to tell how many rejections have been made, because of the board\u2019s use of the disjunctive conjunction \u201cand/or.\u201d The number of rejections of claims 4, 5, 6 and 8 is likewise indefinite, due to the use of the word \u201cany,\u201d but the minimum number is eleven. A rejection so stated defeats the intent and purpose of 35 U.S.C. 132.\nThe form of the rejections would seem to indicate that many of the references were considered merely cumulative. And yet, the examiner\u2019s answer and the solicitor\u2019s brief describe and analyze each reference in some detail. Such a state of affairs places this court in a, very real quandary. Are we to choose one individual rejection for each claim and turn the entire appeal on the correctness of those rejections? Or are we to work our way step-by-step through each rejection in the hope of finding one we can sustain? Neither alternative is satisfactory from the standpoint of the public interest. Issues must be framed in the Patent Office so that we can determine with certainty the areas of our authority under 35 U.S.C. 144.\nWe decline to substitute speculation as to the rejection for the greater certainty which should come from the Patent Office in a more definite statement of the grounds of the rejections. To the extent the references are truly cumulative, the examiner or board can so indicate. If, on the other hand, all or most of the references are really necessary to meet the claims, the rejection can be made specific as to particular references.\nUnlike the board, we do not think it is sufficient justification for the actions herein that the claimed subject matter is complex. Since there is no rejection on the ground that the claims are indefinite, we can only assume that the claims so define the subject matter that a statutory ground of rejection could be made. Here, as in In re Chilowsky, 43 CCPA 775, 229 F. 2d 457, 108 USPQ 321, a case in which this court remanded on an analogous factual pattern, \u201cthe Patent Office tribunals have not sufficiently explained the reasons for their rejection of the appellant\u2019s claims to permit a proper determination of that issue here.\u201d See also 28 U.S.C. 2106.\nWe are reminded of the not wholly inappropriate statement of Judge Hough in Ball & Roller Bearing Co. v. F. C. Sanford Mfg. Co., 297 Fed. 163, 167 (2d Cir. 1924):\n* * * It seems necessary to apply to patent litigation from time to time the maxim that one cannot make omelettes of bad eggs\u2014no matter how many are used. One good reference is better than 50 poor ones, and the 50 do not make the one any better. * * *\nThe case is remanded for further proceedings consistent with this opinion.\nSerial No. 025,209, filed November 30, 1956 for \u201cPolymethylol Phenol and Phenolic Resins.\u2019\u2019",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "W. Brown Morton, Charles N. Shane, Jr., for appellants.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "344 F. 2d 713; 145 USPQ 400\nIn re Franklin W. Herrick and Louis H. Bock\n(No. 7396)\nUnited States Court of Customs and Patent Appeals,\nMay 6, 1965\nW. Brown Morton, Charles N. Shane, Jr., for appellants.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument April 9, 1965, by Mr. Shane, Jr., and Mr. Armore]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1664-01",
+  "first_page_order": 988,
+  "last_page_order": 992
+}

@@ -1,0 +1,98 @@
+{
+  "id": 11843633,
+  "name": "Rosalind Nelson HOLLIS, Appellant, v. Albert NELSON, Appellee",
+  "name_abbreviation": "Hollis v. Nelson",
+  "decision_date": "1998-06-16",
+  "docket_number": "",
+  "first_page": "1140",
+  "last_page": "1141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "710 A.2d 1140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "681 A.2d 732",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7862043,
+        465052
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/681/0732-01",
+        "/pa/545/0391-01"
+      ]
+    },
+    {
+      "cite": "545 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        465052
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/545/0391-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 744,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24352732533827262
+    },
+    "sha256": "93256eca6160bd5eae1ed7750d9bd278e61ebe647b0bf355b0bc4bf54d713945",
+    "simhash": "1:cff722f00b2f619e",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T16:25:50.671612+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ.",
+      "NEWMAN, J., did not participate in the consideration or decision of this case."
+    ],
+    "parties": [
+      "Rosalind Nelson HOLLIS, Appellant, v. Albert NELSON, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of June, 1998, the Order of the Superior Court is reversed as to the proper valuation of appellant\u2019s pension. See Gordon v. Gordon, 545 Pa. 391, 681 A.2d 732 (1996). This matter is remanded to the Delaware County Court of Common Pleas for recalculation of the value of the pension utilizing appellant\u2019s salary on the date of separation.\nNEWMAN, J., did not participate in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Eric D. Turner, Media, for Rosalind Nelson Hollis.",
+      "Vincent G. Iannello, Jr., Media, for Albert Nelson."
+    ],
+    "corrections": "",
+    "head_matter": "Rosalind Nelson HOLLIS, Appellant, v. Albert NELSON, Appellee.\nSupreme Court of Pennsylvania.\nJune 16, 1998.\nEric D. Turner, Media, for Rosalind Nelson Hollis.\nVincent G. Iannello, Jr., Media, for Albert Nelson.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "1140-02",
+  "first_page_order": 1184,
+  "last_page_order": 1185
+}

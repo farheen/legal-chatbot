@@ -1,0 +1,64 @@
+{
+  "id": 12490960,
+  "name": "WARD v. MARTINSON",
+  "name_abbreviation": "Ward v. Martinson",
+  "decision_date": "2017-09-12",
+  "docket_number": "Pet. Docket No. 234, Sept. Term, 2017",
+  "first_page": "292",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 292"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 58"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "d8d648cad1cb485617ce73bdd49a0a4ecd6fdf033043f05635cedcdcff6ed97c",
+    "simhash": "1:266f423106184229",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:26.796983+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WARD\nv.\nMARTINSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "WARD\nv.\nMARTINSON\nPet. Docket No. 234, Sept. Term, 2017\nCourt of Appeals of Maryland.\nSeptember 12, 2017\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0292-03",
+  "first_page_order": 292,
+  "last_page_order": 292
+}

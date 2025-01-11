@@ -1,0 +1,215 @@
+{
+  "id": 6092621,
+  "name": "In re Paul J. Naquin, Jr.",
+  "name_abbreviation": "In re Naquin",
+  "decision_date": "1968-07-03",
+  "docket_number": "No. 7963",
+  "first_page": "1428",
+  "last_page": "1431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1428"
+    },
+    {
+      "type": "parallel",
+      "cite": "158 U.S.P.Q. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "398 F.2d 863",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2143473
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/398/0863-01"
+      ]
+    },
+    {
+      "cite": "341 F. 2d 143",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164427,
+        878366
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1015-01",
+        "/f2d/341/0143-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1015",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164427
+      ],
+      "weight": 2,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1015-01"
+      ]
+    },
+    {
+      "cite": "306 F. 2d 908",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6078468,
+        256703
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0806-01",
+        "/f2d/306/0908-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 806",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078468
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0806-01"
+      ]
+    },
+    {
+      "cite": "385 F. 2d 453",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2085309
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/385/0453-01"
+      ]
+    },
+    {
+      "cite": "55 CCPA 707",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091969
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/55-2/0707-01"
+      ]
+    },
+    {
+      "cite": "298 U. S. 468",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1486286
+      ],
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "481"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/298/0468-01"
+      ]
+    },
+    {
+      "cite": "70 USPQ 32",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "157 F. 2d 73",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1130964
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/157/0073-01"
+      ]
+    },
+    {
+      "cite": "81 U.S. App. D.C. 215",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1946,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 542,
+    "char_count": 9144,
+    "ocr_confidence": 0.422,
+    "pagerank": {
+      "raw": 2.2314737686087034e-07,
+      "percentile": 0.7790384690381563
+    },
+    "sha256": "b88a288a97f262df9b079fef133d5ae86472780713df150830ef4a9728489042",
+    "simhash": "1:9407555e2792ae6b",
+    "word_count": 1467
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Judges Rich, Smith, Almond', Kirkpatrick."
+    ],
+    "parties": [
+      "In re Paul J. Naquin, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Eioh, Judge,\ndelivered the opinion of the court:\nThis appeal is from a decision of the Patent Office Board of Appeals, affirming the final rejection of claims 1-3 of appellant\u2019s application serial No. 237,830, filed November 15, 1962, entitled \u201cAnalysis of Seismic Signals.\u201d No claim has been allowed.\nThe invention is a method of underground surveying in which seismic waves, generated at various locations on the earth\u2019s surface,. travel into the earth and are reflected by subterranean \u25a0 formations back to the surface where they are detected and measured by appropriately placed geophones.\nAnalysis of the reflected waves permits a determination of the shape of underground formations. However, the heterogeneous nature of the earth through which the waves travel introduces unpredictable error into the analysis. Appellant eliminates this error by a complex series of mathematical computations, the general nature of which can be gleaned from reading claim 1:\n1. A method of seismic surveying which comprises imparting vibrations to the earth sequentially at a plurality of first locations spaced from one another, separately recording vibrations reflected from subterranean formations to each adjacent pair of a plurality of second locations spaced from one another at the surface of the earth to provide a plurality of pairs of seismic signals for each adjacent pair of said plurality of second locations, each pair of seismic signals for a given pair of said plurality of second locations being representative of vibrations imparted to the earth from a respective different one of said plurality of first locations, producing a cross correlation signal for each of said pairs of seismic signals, adding the cross correlation signals for each of said pairs of seismic signals for each of said adjacent pairs of said plurality of second locations to produce a composite correlation signal for each of said adjacent pairs of said plurality of second locations, determining the time difference of each of the composite correlation signals corresponding to the maximum peak value of the respective composite correlation signal, plotting the value of time difference thus determined versus the location of the respective adjacent pair of said plurality of second locations to form a time difference curve, making a running integration of the time difference curve to obtain a dip curve, and subtracting said dip curve from said time difference curve to produce a time correction curve. [Emphasis ours.]\nAppellant\u2019s brief says that the requisite calculations would be \u201cextremely time-consuming and cumbersome\u201d without the use of a digital computer. Accordingly, appellant\u2019s specification is addressed to such use.\nThe invention claimed is concededly new, useful, and unobvious. The existence of patentable subject matter has not been questioned. The only issue in the case is whether appellant\u2019s specification sets forth the method \u201cin such full, clear, concise, and exact terms as to enable any person skilled in the art to which it pertains\u201d to use it. 35 USC 112, first paragraph. The board held that the specification was deficient in this respect. We reverse. We find no substantial basis in this record to support the board\u2019s decision.\nThe examiner\u2019s final rejection reads, in part:\n* * * the mere allegation that one skilled in the art would be able to select appropriate components of the computer does not make it so. It is noted that 35 use 112 [sic] requires the description contained in the specification to be so clear as to enable any person skilled in the art to which it pertains, to make \u2022and use the device. This application is drawn to an invention in the art of seismic signal processing, not the computer art. []\n* * * * * * *\nThere is no disclosure in the present application of how the steps' of \u201cadding,\u201d '\u201cdetermining the time difference\u201d, \u201cmaking a running integration\u201d, etc. are performed on the computer in terms of these elemental operations other than the allegation that \u201cprinciples of program sequences of such computers wre equally well known\u201d * \u215c *. The examiner agrees that such principles are well known to those skilled, in the eomputm\u2022 art, however applicant claims a specific method .apart from general principles. Further experimentation should not be required of those skilled in the art in order to perform the specific method claimed. Applicant has claimed a specific method of applying these principles but has not disclosed how the method is performed. [Emphasis ours.]\nAppellant apparently replied to the effect that the proper test would be the sufficiency of the specification to inform a skilled programmer.\nAnother examiner assumed responsibility for the'case at this juncture and wrote the following in the Examiner\u2019s Answer:\nAppellant argues that a skilled programmer can program the computer given appellant\u2019s disclosure and the Rule 132 affiants so state. It is noted, however, that the claims on appeal are drawn to a method of seismic surveying, not a method of computer programming. The statute, 35 U.S.O. 112, requires that the specification be so clear \u201cas to enable any person skilled in the ant to toMeh it pertains ... to make and use the same\u201d, (emphasis added). Thus on their face, appellant\u2019s arguments clearly show that, while one skilled in the computer programming art may perform the method, one skilled in the seismic prospecting art cannot.\nIt is clear that each examiner thought appellant\u2019s specification inadequate because it would not teach one skilled in the seismic prospecting art how to program a computer.\nThe board, however, rejected this criterion for the specification\u2019s adequacy, saying:\nSuch information [in the specification] must be adequate to enable a programmer of ordinary skill to prepare such a program, not necessarily in the detail that would inform a seismic surveyor as to how to program a computer but certainly in more detail than would suffice for a skilled mathematician to carry out .the specified operations with pencil, paper and a ruler.\nWe agree. The specification need describe the invention only in such detail as to enable a person skilled in the most relevant art to make and use it. When an invention, in its different aspects, involves distinct arts, that specification is adequate which enables the adepts \u2022of each art, those who have the best chance of being enabled, to carry out the aspect proper to their specialty. International Standard Electric Corp. v. Ooms, Com'r., 81 U.S. App. D.C. 215, 157 F. 2d 73, 70 USPQ 32 (1946).\nThe board nevertheless sustained the rejection with the following statement:\nWe cannot say as a matter of law from tlie record in this case that this apparent deficiency of the instant specification would be supplied by prior knowledge or that the basis of the Examiner\u2019s challenge was clearly erroneous.\nThis, of course, is the language of reliance \u2014 of deference to the examiner\u2019s determination. It is incongruous when the only criterion employed by the examiner is simultaneously rejected. It is obviously error when that criterion is seriously flawed. Cf. Morgan v. United States, 298 U. S. 468, 481 (1936).\nThe board dismissed affidavits, filed by appellant, as opinions and, further, as the opinions of those with a broader expertise than that of an ordinary programmer. We agree with the board that the affiants\u2019 opinions on the ultimate legal issue are not evidence in the case. In re Lindell, 55 CCPA 707, 385 F. 2d 453, 155 USPQ 521 (1967); In re Chilowsky, 50 CCPA 806, 306 F. 2d 908, 134 USPQ 515 (1962). However, we think that statements of fact, however commingled with inadmissible assertions, ought to be considered. In re Weber, 52 CCPA 1015, 341 F. 2d 143, 144 USPQ 495 (1965). Here, one of the affidavits contains a sworn statement, made of the affiant\u2019s own knowledge, that the average computer programmer is familiar with subroutines for running integration, addition, etc. If this statement is true, the examiner\u2019s rejection is, of course, baseless. In the absence of a challenge to the affiant\u2019s qualifications or, at the very least, a contrary inference by the board or examiner from the other evidence, we are unable to hold that this record supports the board\u2019s affirmance. The decision of the board is, therefore, reversed.\nConsisting of Kreek and Keely, Examlners-ln-Chlef, and Andrews, Acting Examlner-ln-Chief. opinion by Andrews.\nThis statement was made In a discussion of claims other than those on appeal. It Is, however, the examiner\u2019s view of the general principle and it sharpens our appreciation of his subsequent comments.\nAppellant\u2019s reply Is not in the record in this court.",
+        "type": "majority",
+        "author": "Eioh, Judge,"
+      }
+    ],
+    "attorneys": [
+      "J. Arthur Young, DonuW J. Quigg, L. Malcolm Oherlin for appellant.",
+      "Joseph Bchimmel (8. Wm. Cochran, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "398 F.2d 863; 158 USPQ 317\nIn re Paul J. Naquin, Jr.\n(No. 7963)\nUnited States Court of Customs and Patent Appeals,\nJuly 3, 1968\nJ. Arthur Young, DonuW J. Quigg, L. Malcolm Oherlin for appellant.\nJoseph Bchimmel (8. Wm. Cochran, of counsel) for the Commissioner of Patents.\n[Oral argument April 4, 1968 by Oberlln and Mr. Cochran]\nBefore Worley, Chief Judge, and Judges Rich, Smith, Almond', Kirkpatrick.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1428-01",
+  "first_page_order": 768,
+  "last_page_order": 771
+}

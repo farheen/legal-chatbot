@@ -1,0 +1,58 @@
+{
+  "id": 12488852,
+  "name": "STATE v. WILLIAMS",
+  "name_abbreviation": "State v. Williams",
+  "decision_date": "2016-10-25",
+  "docket_number": "16\u2013340",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "ed635ef9d502fbef16a4a1fab5501bb48592171fb72cff3f98de305a9bc7a18b",
+    "simhash": "1:10536f2246409204",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nWILLIAMS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nWILLIAMS\n16-340\nSupreme Court of Vermont.\nOctober 25, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDenied."
+  },
+  "file_name": "0469-04",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

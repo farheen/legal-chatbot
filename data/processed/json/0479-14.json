@@ -1,0 +1,58 @@
+{
+  "id": 12485629,
+  "name": "Commonwealth v. Abdou Idrrissa",
+  "name_abbreviation": "Commonwealth v. Idrrissa",
+  "decision_date": "2016-06-27",
+  "docket_number": "NO. 119 MAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 146,
+    "sha256": "6e2a72b5f8c1ff7de37a77ed00d29ad21b709a156d499507af321f3da1c63d19",
+    "simhash": "1:549e067490230108",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAbdou Idrrissa"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAbdou Idrrissa\nNO. 119 MAL 2016\nSupreme Court of Pennsylvania\nJune 27, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-14",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

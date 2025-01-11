@@ -1,0 +1,58 @@
+{
+  "id": 12490180,
+  "name": "FOX, G. v. STATE CORRECTIONAL INSTITUTION",
+  "name_abbreviation": "Fox v. State Corr. Inst.",
+  "decision_date": "2017-02-03",
+  "docket_number": "561 CD 2016",
+  "first_page": "1060",
+  "last_page": "1060",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 164,
+    "sha256": "1b4d304d4ce49c4ebd9786b113219c5be1e4dbd084b73a851a430651608a6ff5",
+    "simhash": "1:6dcd3aa54ebdb42b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FOX, G.\nv.\nSTATE CORRECTIONAL INSTITUTION"
+    ],
+    "opinions": [
+      {
+        "text": "Vacated and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "FOX, G.\nv.\nSTATE CORRECTIONAL INSTITUTION\n561 CD 2016\nCommonwealth Court of Pennsylvania.\nFebruary 3, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1060-07",
+  "first_page_order": 1060,
+  "last_page_order": 1060
+}

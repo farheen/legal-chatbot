@@ -1,0 +1,58 @@
+{
+  "id": 12501850,
+  "name": "COM. v. BROWN, L.",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2018-07-25",
+  "docket_number": "1400 WDA 2017",
+  "first_page": "711",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 711"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "02458b31d7a77a9a84b0930623d1c2b69cf358362da2012396493c9ec3cb5c33",
+    "simhash": "1:35df478f81f51ac0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBROWN, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBROWN, L.\n1400 WDA 2017\nSuperior Court of Pennsylvania.\nJuly 25, 2018\nAffirmed"
+  },
+  "file_name": "0711-05",
+  "first_page_order": 711,
+  "last_page_order": 711
+}

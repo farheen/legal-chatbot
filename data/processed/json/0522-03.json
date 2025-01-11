@@ -1,0 +1,65 @@
+{
+  "id": 12504930,
+  "name": "THOMPSON, J. v. COM. of PA",
+  "name_abbreviation": "Thompson v. Com.",
+  "decision_date": "2018-11-02",
+  "docket_number": "188 FR 2016",
+  "first_page": "522",
+  "last_page": "522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 249,
+    "sha256": "affccaa75044520eb130d203bd323fcc60c3895cca986136c001ff0560909798",
+    "simhash": "1:2dc72bd241a54c4a",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THOMPSON, J.\nv.\nCOM. of PA"
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nAffirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "THOMPSON, J.\nv.\nCOM. of PA\n188 FR 2016\nCommonwealth Court of Pennsylvania.\nNovember 2, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0522-03",
+  "first_page_order": 522,
+  "last_page_order": 522
+}

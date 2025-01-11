@@ -1,0 +1,59 @@
+{
+  "id": 12168279,
+  "name": "In re Donald E. Burney and Delbert H. Meyer",
+  "name_abbreviation": "In re Burney",
+  "decision_date": "1965-07-15",
+  "docket_number": "No. 7582",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 91,
+    "ocr_confidence": 0.644,
+    "sha256": "02e4ae2fd3acd7fb6acbaf124ce95b72f1e690ea1d59691d5468065ca319213d",
+    "simhash": "1:90404098b2637882",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Donald E. Burney and Delbert H. Meyer"
+    ],
+    "opinions": [
+      {
+        "text": "Dehydration process.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 15, 1965\nIn re Donald E. Burney and Delbert H. Meyer\n(No. 7582)."
+  },
+  "file_name": "1839-13",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

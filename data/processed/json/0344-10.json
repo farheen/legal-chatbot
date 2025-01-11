@@ -1,0 +1,58 @@
+{
+  "id": 12488725,
+  "name": "Harrington v. O'Neil",
+  "name_abbreviation": "Harrington v. O'Neil",
+  "decision_date": "2016-08-19",
+  "docket_number": "16-285",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 163,
+    "sha256": "35f05bd807243fad67d133bb128c5bb049efbe26ba7a57aa4780521a8e03d121",
+    "simhash": "1:46972e21fd42e277",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harrington\nv.\nO'Neil"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Harrington\nv.\nO'Neil\n16-285\nSupreme Court of Vermont.\nAugust 19, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReconsideration denied."
+  },
+  "file_name": "0344-10",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

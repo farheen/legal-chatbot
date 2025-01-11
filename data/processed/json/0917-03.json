@@ -1,0 +1,92 @@
+{
+  "id": 9248885,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Samuel Santiago PEREZ, Petitioner",
+  "name_abbreviation": "Commonwealth v. Perez",
+  "decision_date": "2004-03-22",
+  "docket_number": "",
+  "first_page": "917",
+  "last_page": "918",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "848 A.2d 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "813 A.2d 726",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9381173,
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/813/0726-01",
+        "/pa/572/0048-01"
+      ]
+    },
+    {
+      "cite": "572 Pa. 48",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        716471
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/572/0048-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 921,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21589077201026005
+    },
+    "sha256": "e3c9544ebdcc8e2304b8d3023f5716c01b392488874916cc83c6bca4549d38b1",
+    "simhash": "1:852da037f20fbf98",
+    "word_count": 142
+  },
+  "last_updated": "2024-02-27T20:21:35.908316+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Samuel Santiago PEREZ, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 22nd day of March, 2004, the Petition for Allowance of Appeal is hereby GRANTED, limited to the following issue:\nDid the Superior Court err by finding that, although the trial court gave an inapplicable instruction to the jury, Petitioner was not prejudiced by his counsel\u2019s failure to object, where the trial court\u2019s instruction permitted the jury to find Petitioner guilty of first-degree murder without finding that Petitioner possessed the specific intent to kill?\nIn this respect only, the Superior Court\u2019s Order is VACATED. This appeal is DISMISSED, without prejudice to consideration of the above issue on collateral review. See Commonwealth v. Grant, 572 Pa. 48, 813 A.2d 726 (2002).\nJustice EAKIN did not participate in the consideration of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Samuel Santiago PEREZ, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 22, 2004."
+  },
+  "file_name": "0917-03",
+  "first_page_order": 951,
+  "last_page_order": 952
+}

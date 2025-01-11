@@ -1,0 +1,58 @@
+{
+  "id": 12486750,
+  "name": "Com. v. S. Perry",
+  "name_abbreviation": "Com. v. Perry",
+  "decision_date": "2016-03-29",
+  "docket_number": "NO. 133 EDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "7a42ceffc09ea65367e9fec8780b8f4837cd65be6ff1aa34ed8a7bb7b28d0665",
+    "simhash": "1:388be64000851fb5",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Perry"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Perry\nNO. 133 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 29, 2016\nAffirmed."
+  },
+  "file_name": "0209-03",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

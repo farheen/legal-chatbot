@@ -1,0 +1,62 @@
+{
+  "id": 12504778,
+  "name": "Michael DOBLIN, Plaintiff-Movant, v. Linda DOBLIN, Defendant.",
+  "name_abbreviation": "Doblin v. Doblin",
+  "decision_date": "2019-01-11",
+  "docket_number": "M-430 September Term 2018; M-431 September Term 2018; M-432 September Term 2018; 080007",
+  "first_page": "288",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 288"
+    },
+    {
+      "type": "parallel",
+      "cite": "236 N.J. 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 559,
+    "sha256": "434b44d726c20bab17fc973aeb44509e07f7de6d941de34a352223d9dbf50867",
+    "simhash": "1:f38e1d65ff724d8d",
+    "word_count": 95
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael DOBLIN, Plaintiff-Movant,\nv.\nLinda DOBLIN, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motions for leave to file a motion for counsel fees and costs as within time (M-430) and to file an overlength brief in support of the motion for counsel fees and costs (M-431) are granted; and it is further\nORDERED that the motion for counsel fees and costs (M-432) is granted, payable by Kenneth J. Rosellini, in the amount of $5,000.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael DOBLIN, Plaintiff-Movant,\nv.\nLinda DOBLIN, Defendant.\nM-430 September Term 2018\nM-431 September Term 2018\nM-432 September Term 2018\n080007\nSupreme Court of New Jersey.\nJanuary 11, 2019\nORDER"
+  },
+  "file_name": "0288-03",
+  "first_page_order": 288,
+  "last_page_order": 288
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6087982,
+  "name": "In re Herbert Krautwald, et al.",
+  "name_abbreviation": "In re Krautwald",
+  "decision_date": "1967-09-01",
+  "docket_number": "No. 8175",
+  "first_page": "1639",
+  "last_page": "1639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 92,
+    "ocr_confidence": 0.525,
+    "sha256": "0d7cba0e4ff9ff8c7af746d57d2332b470849e03dc9b707384c5e20f1cebe330",
+    "simhash": "1:9b65ccd745fbfe9e",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Herbert Krautwald, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Plug and Soldering Base Utilizing Knife Contacts.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8175.\nIn re Herbert Krautwald, et al."
+  },
+  "file_name": "1639-08",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

@@ -1,0 +1,215 @@
+{
+  "id": 11345950,
+  "name": "Larry SMITH, Sr., v. Normand J. VOISINE, et al.",
+  "name_abbreviation": "Smith v. Voisine",
+  "decision_date": "1994-12-20",
+  "docket_number": "",
+  "first_page": "1350",
+  "last_page": "1353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "650 A.2d 1350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "597 A.2d 1350",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11948120
+      ],
+      "pin_cites": [
+        {
+          "page": "1352"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/597/1350-01"
+      ]
+    },
+    {
+      "cite": "444 A.2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7962281
+      ],
+      "pin_cites": [
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/444/0345-01"
+      ]
+    },
+    {
+      "cite": "565 A.2d 329",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7348820
+      ],
+      "pin_cites": [
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/565/0329-01"
+      ]
+    },
+    {
+      "cite": "570 A.2d 1221",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7394094
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1222"
+        },
+        {
+          "page": "1222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/570/1221-01"
+      ]
+    },
+    {
+      "cite": "546 A.2d 1013",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7942402
+      ],
+      "pin_cites": [
+        {
+          "page": "1019"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/546/1013-01"
+      ]
+    },
+    {
+      "cite": "574 A.2d 888",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7387184
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/574/0888-01"
+      ]
+    },
+    {
+      "cite": "582 A.2d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7374604
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "248"
+        },
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/582/0247-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 169",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7353029
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/623/0169-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 528,
+    "char_count": 8554,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 1.8115441611422772e-07,
+      "percentile": 0.7178615432791642
+    },
+    "sha256": "daf8c46441bdc20da1a70da12ce286a2654efb76bbde0c7da9c5f899cc8020cb",
+    "simhash": "1:9172d94084bda279",
+    "word_count": 1404
+  },
+  "last_updated": "2024-02-27T19:00:02.522567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WATHEN, C.J., and ROBERTS, GLASSMAN, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ.",
+      "All concurring."
+    ],
+    "parties": [
+      "Larry SMITH, Sr., v. Normand J. VOISINE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "CLIFFORD, Justice.\nLarry Smith appeals from the summary judgments entered in the Superior Court (York County, Cole and Fritzsche, JJ.) in favor of the defendants Normand Voisine and the Goodwin Mills Fire Department (Goodwin Mills). The judgments were based on Smith\u2019s failure to meet the notice requirements of the Maine Tort Claims Act. 14 M.R.S.A. \u00a7\u00a7 8101-8118 (1980 & Supp.1994). Because Smith did not file a notice of claim within 180 days of the injury and did not show good cause for that failure, we affirm the judgments.\nOn October 21, 1990, Smith, the City of Saco Fire Chief, and Voisine, a volunteer member of Goodwin Mills, were involved in an automobile accident as they were responding to a fire. After the accident, Smith filed a workers\u2019 compensation claim with the City of Saco Fire Department. Northern General Services, Inc., the insurance company handling Smith\u2019s claim for the City, contacted York Mutual Insurance Company, Voisine\u2019s automobile insurer, to notify it of Northern General\u2019s lien and to request information regarding Voisine\u2019s automobile policy limits. In March 1991, York Mutual informed Northern General that it did not consider itself responsible for the matter and provided Northern General with the name of the insurance agency that placed the coverage for Goodwin Mills. Northern General\u2019s letter to that agency described the accident and Smith\u2019s injuries, indicated York Mutual\u2019s opinion that coverage should be provided by the agency, and asserted Northern General\u2019s lien. All of this correspondence occurred within 180 days of the accident.\nSome time in May 1991, more than 180 days after the accident, Smith\u2019s attorney first wrote to CIGNA, the insurance company providing Goodwin Mills\u2019s coverage, regarding his representation of Smith. He did not contact CIGNA again until September 1991. CIGNA responded in a November 1991 letter implying that either the CIGNA policy or the York Mutual policy would provide coverage for the accident.\nIn October 1992, Smith filed the present complaint against Voisine and Goodwin Mills alleging that Voisine\u2019s negligent and reckless operation of a motor vehicle caused Smith\u2019s injury. In their answers, both Voi-sine and Goodwin Mills raised as an affirmative defense Smith\u2019s failure to give notice pursuant to 14 M.R.S.A \u00a7 8107. Goodwin Mills\u2019s motion for a summary judgment on the ground that Smith failed to provide timely notice was granted by the court {.Cole, J.). Shortly thereafter, Voisine moved for a summary judgment on the same ground. The court (Fritzsche, J.) granted his motion.\nWe review a trial court\u2019s summary judgment decision for errors of law, viewing the evidence in the light most favorable to the party against whom the judgment was entered. Kelly v. University of Maine, 623 A.2d 169, 171 (Me.1993). \u201cWe will affirm a summary judgment when there is no genuine issue of material fact and the movant is entitled to a judgment as a matter of law.\u201d Smith v. School Admin. Dist. No. 58, 582 A.2d 247, 248 (Me.1990).\nThe Maine Tort Claims Act governs tort claims brought against a governmental entity or its employees. In order to maintain a claim under the Act, a plaintiff must comply with the notice requirements set forth in section 8107. See Begin v. City of Auburn, 574 A.2d 888, 889 (Me.1990). Smith first contends that Voisine is not entitled to notice under the Act because he was acting outside the scope of his employment. We find no merit to this argument. The Act explicitly includes volunteer firefighters in its definition of employee, see id. \u00a7 8102(1), and Voisine was proceeding to a fire in response to a call from Goodwin Mills when the accident occurred. Thus, if Smith did not comply with the Act\u2019s notice requirements, he may not proceed with his claim against either defendant. See Miller v. Szelenyi, 546 A.2d 1013, 1019 (Me.1988).\nSection 8107 requires that a plaintiff file a notice of claim within 180 days of the accrual of the injury or cause of action. A plaintiff that has not made a timely filing, however, may be excepted from this requirement by showing good cause for this failure. As Smith concedes that he did not file a formal notice of claim within the meaning of section 8107 with either Goodwin Mills or Voisine within 180 days after the accident, our inquiry is limited to whether he had good cause for not doing so.\nThis court has consistently interpreted \u201cgood cause\u201d to pertain only to a plaintiffs \u201cinability to file the required claim,\u201d Bruno v. City of Lewiston, 570 A.2d 1221, 1222 (Me.1990) (emphasis omitted), or to a plaintiff who was \u201cin some meaningful way prevented from learning of the information forming the basis of [his] complaint.\u201d Gardner v. City of Biddeford, 565 A.2d 329, 330 (Me.1989). Smith does not allege that he was unable to file a notice of his claim or that he was unaware of the information forming the basis of his complaint and therefore, has not established good cause under the definition in effect during the 180 days following the accident. Consequently, we need not address the question of whether he substantially complied with the statute. Smith, 582 A.2d at 248 (citing Bruno, 570 A.2d at 1222); Erickson v. State, 444 A.2d 345, 350 (Me.1982) (substantial compliance exception may be invoked only when notice is defective in some respect other than timeliness or good cause).\nWe also reject Smith\u2019s argument that the doctrine of equitable estoppel bars either defendant from raising untimely notice as a defense, or that the defense was waived. The provisions of section 8107 preclude a plaintiff from claiming \u201cequitable estoppel as a bar to the defense of filing an untimely notice of claim.\u201d Smith, 582 A.2d at 249. Nor can the contents of any correspondence or any other actions of Goodwin Mills or its insurer be said to constitute a \u201cvoluntary or intentional decision to permanently relinquish a known right\u201d required to find a waiver. Chalet Susse Int'l, Inc. v. Mobil Oil Corp., 597 A.2d 1350, 1352 (Me.1991).\nThe entry is:\nJudgments affirmed.\nAll concurring.\n. The Goodwin Mills Fire Department, a nonprofit corporation, is the volunteer fire department serving the towns of Dayton and Lyman.\n. The towns of Lyman and Dayton were also named as defendants, but were subsequently dismissed by Smith after the parties reached a settlement.\n. 14 M.R.S.A. \u00a7 8107(1) & (4) (1980 & Supp. 1994) provide in pertinent part:\n1. Notice requirements for tiling. Within 180 days after any claim or cause of action permitted by this chapter accrues, or at a later time within the limits of section 8110, when a claimant shows good cause why notice could not have reasonably been filed within the 180-day limit, a claimant or a claimant\u2019s personal representative or attorney shall file a written notice containing:\nA. The name and address of the claimant, and the name and address of the claimant's attorney or other representative, if any;\nB. A concise statement of the basis of the claim, including the date, time, place and circumstances of the act, omission or occurrence complained of;\nC. The name and address of any governmental employee involved, if known;\nD. A concise statement of the nature and extent of the injury claimed to have been suffered; and\nE.A statement of the amount of monetary damages claimed.\n4. Substantial notice compliance required. No claim or action shall be commenced against a governmental entity or employee in the Superior Court unless the foregoing notice provisions are substantially complied with.\n. Effective in October 1991, the legislature broadened the definition of good cause to include situations where a plaintiff does not file a timely notice of claim because he believes, as a result of actions taken by a governmental entity or its liability insurer, that the claim will be covered. See 14 M.R.S.A. \u00a7 8107(5) (Supp.1994). Even were we to conclude that the amendment applies to the facts of this case, there was nothing that occurred within 180 days that could be construed as actions taken by a governmental entity or its liability insurer that induced Smith to believe that his claim would be covered.",
+        "type": "majority",
+        "author": "CLIFFORD, Justice."
+      }
+    ],
+    "attorneys": [
+      "James F. Cloutier, Cloutier, Barrett, Clou-tier & Conley, Portland, for plaintiff.",
+      "Thomas R. McKeon, Richardson & Troubh, John J. Wall, III, Monaghan, Leahy, Hochadel & Libby, Portland, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Larry SMITH, Sr., v. Normand J. VOISINE, et al.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Nov. 17, 1994.\nDecided Dec. 20, 1994.\nJames F. Cloutier, Cloutier, Barrett, Clou-tier & Conley, Portland, for plaintiff.\nThomas R. McKeon, Richardson & Troubh, John J. Wall, III, Monaghan, Leahy, Hochadel & Libby, Portland, for defendants.\nBefore WATHEN, C.J., and ROBERTS, GLASSMAN, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ."
+  },
+  "file_name": "1350-01",
+  "first_page_order": 1408,
+  "last_page_order": 1411
+}

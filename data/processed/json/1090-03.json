@@ -1,0 +1,62 @@
+{
+  "id": 7918035,
+  "name": "CITY OF PROVIDENCE v. Antonette CASOLI, Alias Jane Doe",
+  "name_abbreviation": "City of Providence v. Casoli",
+  "decision_date": "1984-11-21",
+  "docket_number": "No. 84-520-M.P.",
+  "first_page": "1090",
+  "last_page": "1090",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "486 A.2d 1090"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 266,
+    "ocr_confidence": 0.742,
+    "sha256": "63a42d6653ac73d2f14d08a4024d18f434d808d0dbeddd084d618dd91d12b01a",
+    "simhash": "1:3f9a361599136e1e",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T22:43:13.791314+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF PROVIDENCE v. Antonette CASOLI, Alias Jane Doe."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Richard G. Riendeau, Cranston, for petitioner.",
+      "Thomas A. DiLuglio, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "CITY OF PROVIDENCE v. Antonette CASOLI, Alias Jane Doe.\nNo. 84-520-M.P.\nSupreme Court of Rhode Island.\nNov. 21, 1984.\nRichard G. Riendeau, Cranston, for petitioner.\nThomas A. DiLuglio, Providence, for respondent."
+  },
+  "file_name": "1090-03",
+  "first_page_order": 1134,
+  "last_page_order": 1134
+}

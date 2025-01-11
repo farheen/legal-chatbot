@@ -1,0 +1,58 @@
+{
+  "id": 12486728,
+  "name": "Com. v. K. Eveland",
+  "name_abbreviation": "Com. v. Eveland",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 99 WDA 2015",
+  "first_page": "208",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 163,
+    "sha256": "cadc096db43f9d2a0e0dc1a07670334c6067979fc2d3557efde0f6bcef40616e",
+    "simhash": "1:941be6110099928a",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Eveland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Eveland\nNO. 99 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nReversed and Remanded.\n23 Petition for reargument denied June 3, 2016.\n--------"
+  },
+  "file_name": "0208-12",
+  "first_page_order": 208,
+  "last_page_order": 208
+}

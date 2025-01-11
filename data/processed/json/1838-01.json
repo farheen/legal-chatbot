@@ -1,0 +1,59 @@
+{
+  "id": 12167761,
+  "name": "In re Rudolph S. Bley",
+  "name_abbreviation": "In re Bley",
+  "decision_date": "1965-02-26",
+  "docket_number": "No. 7325",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 61,
+    "ocr_confidence": 0.631,
+    "sha256": "8fb13838d65c3292f84293ec2d9578ea099865b9baa797f03e93c2e9b7c01386",
+    "simhash": "1:621304f87cc9bbe1",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rudolph S. Bley"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Fabric.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 26, 1965\nIn re Rudolph S. Bley\n(No. 7325)."
+  },
+  "file_name": "1838-01",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

@@ -1,0 +1,61 @@
+{
+  "id": 11243640,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Ricky Lynn McCALL, Petitioner",
+  "name_abbreviation": "Commonwealth v. McCall",
+  "decision_date": "2000-08-11",
+  "docket_number": "",
+  "first_page": "670",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "756 A.2d 670"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 546,
+    "ocr_confidence": 0.682,
+    "sha256": "69f5271b27433e1e4a6521faf42dd8719fa7ad21b68f49c506cc2859a5ba334c",
+    "simhash": "1:c524324ef9fb7d9f",
+    "word_count": 83
+  },
+  "last_updated": "2023-07-14T14:56:44.255355+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Ricky Lynn McCALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 11th d\u00e1y of August, 2000, the Petition for Allowance of Appeal is GRANTED, limited to the following issue:\nWas Petitioner rendered ineffective assistance of appellate counsel by virtue of counsel\u2019s failure to brief and argue Petitioner\u2019s subsequent acquittal of a prior crime used against him as evidence of motive and intent in the present case?",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Andrea I. Konow, Pittsburgh, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Ricky Lynn McCALL, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 11, 2000.\nAndrea I. Konow, Pittsburgh, for petitioner."
+  },
+  "file_name": "0670-03",
+  "first_page_order": 704,
+  "last_page_order": 705
+}

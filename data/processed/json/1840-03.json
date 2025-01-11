@@ -1,0 +1,59 @@
+{
+  "id": 12168314,
+  "name": "In re Alfred Marzocchi and Nicholas S. Janetos",
+  "name_abbreviation": "In re Marzocchi",
+  "decision_date": "1965-07-23",
+  "docket_number": "No. 7688",
+  "first_page": "1840",
+  "last_page": "1840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1840"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 115,
+    "ocr_confidence": 0.601,
+    "sha256": "29ca62b8e9408c763e27b18cc5004cebcbb872440a10430cf969ba70de16948a",
+    "simhash": "1:8e17643079b586f6",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Alfred Marzocchi and Nicholas S. Janetos"
+    ],
+    "opinions": [
+      {
+        "text": "Weavable glass fiber size and fibers treated with same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Alfred Marzocchi and Nicholas S. Janetos\n(No. 7688)."
+  },
+  "file_name": "1840-03",
+  "first_page_order": 1164,
+  "last_page_order": 1164
+}

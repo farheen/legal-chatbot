@@ -1,0 +1,59 @@
+{
+  "id": 6082995,
+  "name": "In re Thoma",
+  "name_abbreviation": "In re Thoma",
+  "decision_date": "1932-11-15",
+  "docket_number": "No. 3041",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 72,
+    "ocr_confidence": 0.526,
+    "sha256": "1f2210f5d163ca9ff4631683727de962427035275d86bd7560461cd0b99c9acf",
+    "simhash": "1:4859a42044a1b028",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Thoma"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in shoe filler,",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 15, 1932\nIn re Thoma\n(No. 3041). \u2014"
+  },
+  "file_name": "1227-09",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

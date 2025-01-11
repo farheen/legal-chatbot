@@ -1,0 +1,58 @@
+{
+  "id": 12501479,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Pierre THOMAS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Thomas",
+  "decision_date": "2018-09-19",
+  "docket_number": "No. 178 EAL 2018",
+  "first_page": "560",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 560"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 246,
+    "sha256": "6ba41847e07ed6691d695dd2f852ac8249adc7c1b4c44e7dcae2a0a055a29311",
+    "simhash": "1:1dad4a00c1c71eb4",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent\nv.\nPierre THOMAS, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nAND NOW, this 19th day of September, 2018, the Petition for Allowance of Appeal is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent\nv.\nPierre THOMAS, Petitioner\nNo. 178 EAL 2018\nSupreme Court of Pennsylvania.\nSeptember 19, 2018\nORDER"
+  },
+  "file_name": "0560-04",
+  "first_page_order": 560,
+  "last_page_order": 560
+}

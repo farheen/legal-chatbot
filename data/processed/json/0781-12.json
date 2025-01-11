@@ -1,0 +1,58 @@
+{
+  "id": 12487368,
+  "name": "Com. v. S. Carr",
+  "name_abbreviation": "Com. v. Carr",
+  "decision_date": "2016-04-14",
+  "docket_number": "NO. 430 WDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 91,
+    "sha256": "8a66013c6d8865cdbe771694db31eb32b23b389951bd2176352d7ac061a6f0fb",
+    "simhash": "1:189a4deb81a017c6",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Carr"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Carr\nNO. 430 WDA 2015\nSuperior Court of Pennsylvania.\nApril 14, 2016\nAffirmed."
+  },
+  "file_name": "0781-12",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

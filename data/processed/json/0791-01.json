@@ -1,0 +1,216 @@
+{
+  "id": 9299694,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Ernesto MOLA, Appellant",
+  "name_abbreviation": "Commonwealth v. Mola",
+  "decision_date": "2003-12-08",
+  "docket_number": "",
+  "first_page": "791",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "838 A.2d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "666 A.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12045068,
+        727503
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "306"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/666/0301-01",
+        "/pa-super/446/0043-01"
+      ]
+    },
+    {
+      "cite": "446 Pa.Super. 43",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        727503
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/446/0043-01"
+      ]
+    },
+    {
+      "cite": "398 Pa.Super. 466",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        885205
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/398/0466-01"
+      ]
+    },
+    {
+      "cite": "409 Pa.Super. 595",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        901229
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/409/0595-01"
+      ]
+    },
+    {
+      "cite": "353 Pa.Super. 474",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        570491
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/353/0474-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813590
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "13"
+        },
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0088-01"
+      ]
+    },
+    {
+      "cite": "400 Pa.Super. 52",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        888186
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "1340-41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/400/0052-01"
+      ]
+    },
+    {
+      "cite": "764 A.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11164745
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "586-87"
+        },
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/764/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 537,
+    "char_count": 9113,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 1.8969777590046557e-07,
+      "percentile": 0.7297552868912435
+    },
+    "sha256": "76d95700bcd4e98c708be253be2a2358ab8867021013fa231948bcc8ca2c9b8b",
+    "simhash": "1:0f8ee8a34c201f64",
+    "word_count": 1485
+  },
+  "last_updated": "2024-02-27T18:14:13.392480+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: HUDOCK, KLEIN and KELLY, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Ernesto MOLA, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "KLEIN, J.\n\u00b6 1 After Ernesto Mola pled guilty to two counts of delivery of a controlled substance (heroin), Judge Scott D. Keller sentenced him to concurrent terms of two to 15 years in prison. Fifteen years is the statutory maximum sentence. Judge Keller imposed this sentence because he had reached the conclusion that sentencing defendants in drug and gun cases to maximum sentences of less than the statutory maximum was ineffective in specifically or generally deterring drug trafficking. (Trial Court Opinion, 5/5/03, at 5.) Mola has appealed, challenging his sentence. Finding that Mola has raised a substantial question about discretionary aspects of sentencing, we reach the merits, and reverse and remand for resentencing.\n1. Mola has raised a substantial question.\n\u00b6 2 The fundamental issue in determining whether we will hear an appeal challenging discretionary aspects of sentencing is whether \u201cthe appellant advances a colorable argument that the trial judge\u2019s actions were inconsistent with a specific provision of the Sentencing Code or contrary to the fundamental norms which underlie the sentencing process.\u201d Commonwealth v. Petaccio, 764 A.2d 582, 586-87 (Pa.Super.2000); see also 42 Pa.C.S.A. \u00a7 9781(b); Pa.R.A.P. 2119(f).\n\u00b6 3 Both the Commonwealth and the trial court believe Mola is merely arguing that the trial court gave insufficient weight to one factor or another. They point out that a challenge to the relative weight given to various factors at sentencing generally does not state a substantial question. Petaccio, 764 A.2d at 587.\n\u00b6 4 But that is not the crux of Mola\u2019s complaint. His issue is that Judge Keller has announced a blanket policy that \u201cthere must be some changes in the city of Reading and this court believes that the imposition of the lawful maximum sentences on drug delivery cases will help to serve as a deterrent to those who would consider dealing drugs in Reading and Berks County.\u201d (Trial Court Opinion, 5/5/03, at 5.) A colorable claim of a blanket sentencing policy raises a substantial question whether the sentence violates the Sentencing Code, which requires sentences tailored to each case. See Commonwealth v. Schueg, 400 Pa.Super. 52, 582 A.2d 1339, 1340-41 (1990).\n\u00b6 5 We proceed to the merits.\n2. The trial court committed a manifest abuse of discretion.\n\u00b6 6 When fashioning a sentence, the trial court must consider the factors set out in 42 Pa.C.SA. \u00a7 9721(b) (requiring sentence consistent with protection of public, gravity of offense in relation to impact on victim and community, and rehabilitative needs of defendant), and impose an individualized sentence. Commonwealth v. Devers, 519 Pa. 88, 546 A.2d 12, 13 (1988). A sentence must be based on the minimum confinement consistent with the gravity of the offense, the need for public protection, and the defendant\u2019s needs for rehabilitation. Commonwealth v. Simpson 353 Pa.Super. 474, 510 A.2d 760, 762 (1986).\n\u00b6 7 At sentencing, defense counsel argued for a two-to-four-year jail sentence, pointing to Mola\u2019s seventh-grade education, his drug addiction, and his selling to support his addiction. Apparently referring to comments Judge Keller made either off the record in this case or on another occasion, defense counsel remarked that he \u201cwas present for the Court\u2019s announcement regarding its intention regarding anybody convicted of a drug offense.\u201d (N.T. Sentencing, 2/3/03, at 7.) Neither the Commonwealth nor Judge Keller elaborated or objected to the remark as a misrepresentation of Judge Keller\u2019s position. The Commonwealth recommended 2 to 6 years in prison and agreed to concurrent sentences.\n\u00b6 8 Judge Keller then sentenced Mola. Judge Keller said he had reviewed the presentence report, listened to arguments of counsel, and would impose the \u201cSchool Zone\u201d two-year mandatory minimum sentence in each case. See 18 Pa.C.S.A. \u00a7 6317. Judge Keller next stressed the need for general deterrence:\nBut I see as my obligation to this community and to this Defendant to do the very best I can to have some impact upon his behavior in the future and the behavior of anybody else who is thinking of selling drugs in the City of Reading or the County of Berks.\n(N.T., 2/3/03, at 9.) Judge Keller then imposed a maximum sentence of 15 years on each count (concurrent) \u2014 the statutory maximum.\n\u00b6 9 He further explains in his Pa.R.A.P. 1925(a) opinion that in his view, a maximum sentence of the statutory maximum was necessary to deter drug dealing:\nThe imposition on drug dealers of maximum sentences far lower than the statutory maximum and making drug dealers eligible for boot camp has not deterred drug trafficking in the city of Reading at large nor individuals, such as the defendant. This court has decided that there must be some changes in the city of Reading and this court believes that the imposition of the lawful maximum sentences on drug delivery cases will help to serve as a deterrent to those who would consider dealing drugs in Reading and Berks County. Although the imposition of higher maximum sentences will not appreciably lengthen the period of incarceration for drug dealers, it will serve as a reminder that they need to reform once they are released from incarceration or risk suffering the consequences of violating parole.\n(Trial Court Opinion at 5.) Judge Keller\u2019s opinion then asserts that because the General Assembly set the maximum penalty for distributing heroin at 15 years, he ipso facto did not abuse his discretion in setting Mola\u2019s maximum sentence at 15 years. He then reiterated that \u201cin appropriate cases this court intends to impose the maximum sentence from now on.\u201d (Trial Court Opinion at 5-6.)\n\u00b6 10 Imposing a standardized sentence on all drug offenders is a manifest abuse of discretion. Pennsylvania has long endorsed a policy of indeterminate, individualized sentencing. Devers, 546 A.2d at 13. That policy is incompatible with a one-size-fits-all sentence. In effect, the trial court chose the maximum sentence based on seriousness of the crime alone, which is impermissible. Commonwealth v. Mickell, 409 Pa.Super. 595, 598 A.2d 1003, 1008 (1991). The trial court must consider each crime and each defendant in light of the total circumstances and fashion an appropriate sentence. See Commonwealth v. Catanch, 398 Pa.Super. 466, 581 A.2d 226 (1990).\n\u00b6 11 And although the trial court stated in its opinion that it would impose the statutory maximum \u201cin appropriate cases,\u201d any doubt that \u201cappropriate cases\u201d meant all drug cases is eroded by the other evidence. The trial court did not correct defense counsel\u2019s statement that the court had announced it would give the statutory maximum as a maximum sentence to \u201canybody convicted of a drug offense.\u201d (N.T. Sentencing, 2/3/03, at 7 (emphasis added).) The assertion that a standard policy applied to \u201canybody\u201d is consistent with the trial court\u2019s deterrence rationale, which is directed at drug dealers generally.\n\u00b6 12 Moreover, a 15-year maximum was excessive in this case. The trial court itself acknowledged that \u201cthis [was] primarily an addiction problem.\u201d (N.T., 2/3/03, at 9.) The trial court gave this sentence with the belief that the extended maximum sentence would not cause a longer term of confinement. As a practical matter, that is not necessarily so. How much of the maximum sentence a state inmate serves in jail is in the hands of the Board of Probation and Parole (subject to judicial review, of course), and depends on a variety of factors. See 61 P.S. \u00a7 331.19. It could be that a defendant would be granted parole once he completes his minimum, or he could remain in jail for quite a while longer, depending on the individual case.\n\u00b6 13 More to the point, if this is a case of addiction, a less blunt instrument will deter this defendant and others at least as well from committing similar acts. A jail sentence of some length with a significant probation tail with a recommendation for treatment, for example, would serve the purpose and offer the defendant help with the root problem. This is not to say that on remand the trial court cannot give Mola a maximum of more than the two years the defense wanted or even the six years the Commonwealth sought. The specific sentence will depend on the record developed at the new sentencing hearing. We do not in any way denigrate Judge Keller\u2019s concern for deterrence. However, the record as it stands now does not support the 15-year maximum.\n\u00b6 14 For the foregoing reasons, we affirm Appellant\u2019s convictions but vacate the judgment of sentence and remand this case to the Court of Common Pleas for resentencing consistent with this decision. Jurisdiction relinquished.\n. We review challenges to discretionary aspects of sentencing for manifest abuse of discretion. Commonwealth v. Walker, 446 Pa.Super. 43, 666 A.2d 301, 306 (1995).",
+        "type": "majority",
+        "author": "KLEIN, J."
+      }
+    ],
+    "attorneys": [
+      "Heather L. Byrne, Reading, for appellant.",
+      "Alisa R. Hobart, Asst. Dist. Atty., Reading, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Ernesto MOLA, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Aug. 25, 2003.\nFiled Dec. 8, 2003.\nHeather L. Byrne, Reading, for appellant.\nAlisa R. Hobart, Asst. Dist. Atty., Reading, for Com., appellee.\nBefore: HUDOCK, KLEIN and KELLY, JJ."
+  },
+  "file_name": "0791-01",
+  "first_page_order": 821,
+  "last_page_order": 825
+}

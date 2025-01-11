@@ -1,0 +1,83 @@
+{
+  "id": 12491820,
+  "name": "STATE of Connecticut v. Matthew Allen HALL-DAVIS",
+  "name_abbreviation": "State v. Hall-Davis",
+  "decision_date": "2017-12-14",
+  "docket_number": "",
+  "first_page": "43",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 43"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "177 Conn. App. 211",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491342
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/172-2/0222-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 375,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25788144405330193
+    },
+    "sha256": "f582d80e701de08210a6ea8750f31e0c393d3d17951bf5635a853b7652c8a6d6",
+    "simhash": "1:30186e6a9de964f0",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nMatthew Allen HALL-DAVIS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 177 Conn. App. 211, 172 A.3d 222 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nMatthew Allen HALL-DAVIS\nSupreme Court of Connecticut.\nDecided December 14, 2017\nPamela S. Nagy, assistant public defender, in support of the petition.\nNancy L. Chupak, senior assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 177 Conn. App. 211, 172 A.3d 222 (2017), is denied."
+  },
+  "file_name": "0043-03",
+  "first_page_order": 43,
+  "last_page_order": 43
+}

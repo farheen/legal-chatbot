@@ -1,0 +1,59 @@
+{
+  "id": 6083069,
+  "name": "In re Otto George Johan Struycken de Roysancourt",
+  "name_abbreviation": "In re de Roysancourt",
+  "decision_date": "1963-03-05",
+  "docket_number": "No. 6958",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "ocr_confidence": 0.47,
+    "sha256": "7bf45ba866e5ca66d83ae6eb087b1392d4ee0ed1833ded22710487e4a7983b74",
+    "simhash": "1:b7d1ea22e3008403",
+    "word_count": 24
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Otto George Johan Struycken de Roysancourt"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in heat insulating textile material and method for making same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 5, 1963\nIn re Otto George Johan Struycken de Roysancourt\n(No. 6958)."
+  },
+  "file_name": "1588-06",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

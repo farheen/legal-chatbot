@@ -1,0 +1,58 @@
+{
+  "id": 12488966,
+  "name": "IN RE C.R.",
+  "name_abbreviation": "In re C.R.",
+  "decision_date": "2016-12-16",
+  "docket_number": "16\u2013245",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "8eb222b0563352f8ab2a06708ca4ac6e59a691c99dec5f65243f25aecf4d9b8d",
+    "simhash": "1:48990732f854f248",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE C.R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE C.R.\n16-245\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-15",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

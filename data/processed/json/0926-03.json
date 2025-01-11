@@ -1,0 +1,59 @@
+{
+  "id": 11640007,
+  "name": "In the Matter of Joseph P. CAPONE",
+  "name_abbreviation": "In re Capone",
+  "decision_date": "1999-01-22",
+  "docket_number": "",
+  "first_page": "926",
+  "last_page": "927",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "724 A.2d 926"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 494,
+    "ocr_confidence": 0.679,
+    "sha256": "5b36bcd57737373d008cf00920a42cf49f3d6e3604178c9e5d5be7e173cb675e",
+    "simhash": "1:d82e04c6c581ce75",
+    "word_count": 78
+  },
+  "last_updated": "2023-07-14T15:46:29.380997+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Joseph P. CAPONE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 22nd day of January, 1999, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated December 2,1998, the Petition for Reinstatement is granted.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Joseph P. CAPONE.\nSupreme Court of Pennsylvania.\nJan. 22, 1999."
+  },
+  "file_name": "0926-03",
+  "first_page_order": 994,
+  "last_page_order": 995
+}

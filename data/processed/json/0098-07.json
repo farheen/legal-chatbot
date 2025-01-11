@@ -1,0 +1,58 @@
+{
+  "id": 12485380,
+  "name": "Comm. of PA v. Phillip Vandenbroek",
+  "name_abbreviation": "Comm. v. Vandenbroek",
+  "decision_date": "2016-06-06",
+  "docket_number": "NO. 2490 CD 15",
+  "first_page": "98",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 98"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 123,
+    "sha256": "7bfafd51cc669c1e43582c925f49e7c43c942b2d3977bc213177c73ace16a711",
+    "simhash": "1:b17cfe4305abf9f5",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Comm. of PA\nv.\nPhillip Vandenbroek"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Comm. of PA\nv.\nPhillip Vandenbroek\nNO. 2490 CD 15\nCommonwealth Court of Pennsylvania\nJune 06, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0098-07",
+  "first_page_order": 98,
+  "last_page_order": 98
+}

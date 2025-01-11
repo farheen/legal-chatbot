@@ -1,0 +1,58 @@
+{
+  "id": 12486023,
+  "name": "Com. v. A. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1377 EDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 133,
+    "sha256": "76b443898a9c6285497be30c21ef31dea238cea2ab4eb371e41ea86fb80fa07e",
+    "simhash": "1:918f62d806b61c80",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Johnson\nNO. 1377 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Reversed, Vacated and Remanded."
+  },
+  "file_name": "0599-06",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

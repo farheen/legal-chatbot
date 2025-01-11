@@ -1,0 +1,58 @@
+{
+  "id": 12486543,
+  "name": "Com. v. R. Bonaddio",
+  "name_abbreviation": "Com. v. Bonaddio",
+  "decision_date": "2016-03-10",
+  "docket_number": "NO. 885 MDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "8b7d11875775d9d8bd6ae4e645cfb90b228fc5eedb05ed2d56f8bdb3edabf8c2",
+    "simhash": "1:595358000cd21489",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Bonaddio"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Bonaddio\nNO. 885 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 10, 2016\nAffirmed."
+  },
+  "file_name": "0196-14",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

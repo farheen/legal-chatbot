@@ -1,0 +1,91 @@
+{
+  "id": 7965667,
+  "name": "Jeffrey HEAL and Rene Latour v. John GAUSCH and Commercial Union Insurance Company",
+  "name_abbreviation": "Heal v. Gausch",
+  "decision_date": "1981-11-30",
+  "docket_number": "No. 79-419-A",
+  "first_page": "1309",
+  "last_page": "1310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 1309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "107 R.I. 629",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3026338
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "631"
+        },
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0629-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 255,
+    "char_count": 3136,
+    "ocr_confidence": 0.751,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20066169880946727
+    },
+    "sha256": "9d150c49932cb444ce1a5ab232a7ab6a402df92df2152c1a38d9f6153ccdd386",
+    "simhash": "1:a230c5dd59b5062b",
+    "word_count": 499
+  },
+  "last_updated": "2024-02-27T20:24:54.472867+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C.J., and SHEA, J., did not participate."
+    ],
+    "parties": [
+      "Jeffrey HEAL and Rene Latour v. John GAUSCH and Commercial Union Insurance Company."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case comes before us on an order to show cause why the appeal should not be dismissed because fewer than all the claims were disposed of in the Superior Court. No certificate of \u201cno just reason for delay\u201d was entered by the trial justice in accordance with Super.R.Civ.P. 54(b). Arguments of counsel were heard on November 17, 1981.\nThe plaintiffs in this action filed a two-count complaint seeking damages for personal injuries which resulted from an explosion at the Peterson/Puritan, Inc. plant in Cumberland, Rhode Island. One of the defendants, Commercial Union Insurance Company, was the Workers\u2019 Compensation carrier for the plaintiffs\u2019 employer.\nCount II of the complaint alleged that Commercial Union had wrongfully refused to assist plaintiffs in preparing their claims against those parties allegedly responsible for their injuries. Commercial Union moved to dismiss this count, under Super.R. Civ.P. 12(b)(6), for failure to state a claim upon which relief can be granted, asserting that it had no duty to help plaintiffs prepare third-party claims, particularly when this would mean assisting in the preparation of a claim against itself.\nThe trial justice granted the motion to dismiss this count (which concerned only Commercial Union), and Count I has not yet been heard. The plaintiffs appealed the dismissal without having obtained the Rule 54(b) certificate which is required when fewer than all the claims have been disposed of in the Superior Court. The papers are therefore remanded to the Superior Court for further proceedings which may include, within the court\u2019s sound judicial discretion, either disposition of the first count, or entry of a rule 54(b) certificate.\nIf the required certification is obtained, plaintiffs may, of course, pursue their appeal. We feel, however, that the instant appeal warrants advice similar to that which we gave the appellants in Goodyear Loan Company v. Little, 107 R.I. 629, 631, 269 A.2d 542, 543 (1970): \u201cit may avoid extended and needless litigation if we point out that nothing in its brief or oral argument suggests any legal theory which, on the facts as pleaded, indicates the existence of an actual justiciable controversy ...\u201d In the matter now before us, the defendant Workers\u2019 Compensation carrier was under no duty to assist in the investigation and preparation of claims to be filed by the plaintiffs against it or other third-parties. Therefore, the trial justice does not seem to have erred in dismissing the second count for failure to state a claim upon which relief can be granted.\nThe plaintiffs\u2019 appeal is denied and dismissed and the case is remanded to the Superior Court for further proceedings not inconsistent with this order.\nBEVILACQUA, C.J., and SHEA, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Lovett & Linder, Ltd., Stephen G. Linder, Lauren E. Jones, Providence, for plaintiffs.",
+      "Roberts, Carroll, Feldstein & Tucker, David W. Carroll, R. Kelly Sheridan, Providence, for Commercial Union Insurance Company."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey HEAL and Rene Latour v. John GAUSCH and Commercial Union Insurance Company.\nNo. 79-419-A.\nSupreme Court of Rhode Island.\nNov. 30, 1981.\nLovett & Linder, Ltd., Stephen G. Linder, Lauren E. Jones, Providence, for plaintiffs.\nRoberts, Carroll, Feldstein & Tucker, David W. Carroll, R. Kelly Sheridan, Providence, for Commercial Union Insurance Company."
+  },
+  "file_name": "1309-02",
+  "first_page_order": 1357,
+  "last_page_order": 1358
+}

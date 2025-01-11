@@ -1,0 +1,64 @@
+{
+  "id": 12487795,
+  "name": "Stuckey, Warren v. State of Maryland",
+  "name_abbreviation": "Stuckey v. State",
+  "decision_date": "2016-10-13",
+  "docket_number": "No. 397; Sept. Term, 2016",
+  "first_page": "395",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 150,
+    "sha256": "c8b6398297769996e7ea76f911e523b400cc08d662b10641182197a6e71a0a6c",
+    "simhash": "1:09775678e0cd2250",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stuckey, Warren\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stuckey, Warren\nv.\nState of Maryland\nNo. 397\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 13, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0395-03",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

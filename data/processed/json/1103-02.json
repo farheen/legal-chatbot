@@ -1,0 +1,62 @@
+{
+  "id": 8006119,
+  "name": "STATE v. Daniel CAMPANIELLO",
+  "name_abbreviation": "State v. Campaniello",
+  "decision_date": "1982-12-30",
+  "docket_number": "No. 82-550-M.P.",
+  "first_page": "1103",
+  "last_page": "1103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "453 A.2d 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 412,
+    "ocr_confidence": 0.773,
+    "sha256": "470e37da0e16e371a3d7431fa471e18d80632f2d1943b85ad318cd05b2a105f1",
+    "simhash": "1:3cf6351b9cc170c7",
+    "word_count": 63
+  },
+  "last_updated": "2023-07-14T18:20:38.163642+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Daniel CAMPANIELLO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied without prejudice to petitioner\u2019s renewing his petition after his sentencing if he is denied bail at that time.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Alan R. Tate, Asst. Atty. Gen., for plaintiff-respondent.",
+      "Charles J. Rogers, Jr., Providence, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Daniel CAMPANIELLO.\nNo. 82-550-M.P.\nSupreme Court of Rhode Island.\nDec. 30, 1982.\nDennis J. Roberts II, Atty. Gen., Alan R. Tate, Asst. Atty. Gen., for plaintiff-respondent.\nCharles J. Rogers, Jr., Providence, for defendant-petitioner."
+  },
+  "file_name": "1103-02",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

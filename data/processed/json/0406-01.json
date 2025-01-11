@@ -1,0 +1,94 @@
+{
+  "id": 11324580,
+  "name": "NATIONWIDE MUTUAL INSURANCE COMPANY, Petitioner, v. Vincent T. DELLATORE, Faith Dellatore and Carlo Dellatore, Respondents",
+  "name_abbreviation": "Nationwide Mutual Insurance v. Dellatore",
+  "decision_date": "1994-10-20",
+  "docket_number": "",
+  "first_page": "406",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "650 A.2d 406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "641 A.2d 1154",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775553,
+        11296791
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0129-01",
+        "/a2d/641/1154-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 129",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775553
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 565,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23977305240575802
+    },
+    "sha256": "d600ac7ea61e35ebe4511fd0d2234e913a99aa062683a3d51b7715bb1bb4897f",
+    "simhash": "1:7dad699b02bda9b8",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T19:00:02.522567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MONTEMURO, J., is sitting by designation."
+    ],
+    "parties": [
+      "NATIONWIDE MUTUAL INSURANCE COMPANY, Petitioner, v. Vincent T. DELLATORE, Faith Dellatore and Carlo Dellatore, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 20th day of October, 1994, the Petition for Allowance of Appeal is granted and this matter is remanded to the Court of Common Pleas of Northampton County for reconsideration of its order dated April 24, 1992, in light of this Court\u2019s opinion in Windrim v. Nationwide Insurance Company, 537 Pa. 129, 641 A.2d 1154 (1994).\nMONTEMURO, J., is sitting by designation.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "NATIONWIDE MUTUAL INSURANCE COMPANY, Petitioner, v. Vincent T. DELLATORE, Faith Dellatore and Carlo Dellatore, Respondents.\nSupreme Court of Pennsylvania.\nOct. 20, 1994."
+  },
+  "file_name": "0406-01",
+  "first_page_order": 464,
+  "last_page_order": 464
+}

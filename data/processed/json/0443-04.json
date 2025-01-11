@@ -1,0 +1,64 @@
+{
+  "id": 12489203,
+  "name": "SAUNDERS v. WARD",
+  "name_abbreviation": "Saunders v. Ward",
+  "decision_date": "2017-02-21",
+  "docket_number": "Pet. Docket No. 479, Sept. Term, 2016",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 143,
+    "sha256": "891827ed96f50fcca2f78c157e59d20f96c18d78b4d65c6fdfceaa70d5875e63",
+    "simhash": "1:34735031b49941b1",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.012355+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SAUNDERS\nv.\nWARD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "SAUNDERS\nv.\nWARD\nPet. Docket No. 479, Sept. Term, 2016\nCourt of Appeals of Maryland.\nFebruary 21, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0443-04",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

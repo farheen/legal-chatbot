@@ -1,0 +1,59 @@
+{
+  "id": 8159196,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Edgar GARCIA, Petitioner",
+  "name_abbreviation": "Commonwealth v. Garcia",
+  "decision_date": "2009-01-29",
+  "docket_number": "No. 173 EM 2008",
+  "first_page": "545",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 431,
+    "ocr_confidence": 0.685,
+    "sha256": "2dca2499931a47a876f5581eef46afe92c77ad55e6dd242d757b9570e0c4b367",
+    "simhash": "1:152e4321c8a3db72",
+    "word_count": 74
+  },
+  "last_updated": "2023-07-14T18:01:30.821331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Edgar GARCIA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of January, 2009, the \u201cPetition to Allow Nunc Pro Tunc Filing of a Petition for Allowance of Appeal from the Superior to the Supreme Court\u201d is GRANTED. Counsel is directed to file a Petition for Allowance of Appeal within 15 days of the entry of our order.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Edgar GARCIA, Petitioner.\nNo. 173 EM 2008.\nSupreme Court of Pennsylvania.\nJan. 29, 2009."
+  },
+  "file_name": "0545-02",
+  "first_page_order": 579,
+  "last_page_order": 579
+}

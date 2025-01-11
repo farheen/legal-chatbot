@@ -1,0 +1,59 @@
+{
+  "id": 7298154,
+  "name": "Edward MAPP, Petitioner v. Warden Joyce ADAMS, Petitioner",
+  "name_abbreviation": "Mapp v. Adams",
+  "decision_date": "2009-06-23",
+  "docket_number": "No. 47 EM 2009",
+  "first_page": "1163",
+  "last_page": "1163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "974 A.2d 1163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 294,
+    "ocr_confidence": 0.667,
+    "sha256": "6356c4a43b764382c325354f6265b9d30ae27028ed9c7bcd2678f67a8638b9ab",
+    "simhash": "1:74aee93cf7d5480d",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T21:51:09.426837+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward MAPP, Petitioner v. Warden Joyce ADAMS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of June, 2009, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Edward MAPP, Petitioner v. Warden Joyce ADAMS, Petitioner.\nNo. 47 EM 2009.\nSupreme Court of Pennsylvania.\nJune 23, 2009."
+  },
+  "file_name": "1163-02",
+  "first_page_order": 1205,
+  "last_page_order": 1205
+}

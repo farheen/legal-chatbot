@@ -1,0 +1,58 @@
+{
+  "id": 12486524,
+  "name": "Com. v. T. Reeder",
+  "name_abbreviation": "Com. v. Reeder",
+  "decision_date": "2016-03-09",
+  "docket_number": "NO. 977 MDA 2015",
+  "first_page": "194",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "8e9ea419777d06c52e3e474189af1bf9adce6b45ee5e89e0cb128c82b327e4fd",
+    "simhash": "1:a21ae681842b0d81",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Reeder"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Reeder\nNO. 977 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 09, 2016\nAffirmed."
+  },
+  "file_name": "0194-09",
+  "first_page_order": 194,
+  "last_page_order": 194
+}

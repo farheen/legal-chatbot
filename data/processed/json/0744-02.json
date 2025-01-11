@@ -1,0 +1,96 @@
+{
+  "id": 7955025,
+  "name": "PROVIDENCE TEACHERS UNION v. PROVIDENCE SCHOOL COMMITTEE",
+  "name_abbreviation": "Providence Teachers Union v. Providence School Committee",
+  "decision_date": "1980-03-19",
+  "docket_number": "No. 79-236-Appeal",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 744"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "115 R.I. 332",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3118516
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/115/0332-01"
+      ]
+    },
+    {
+      "cite": "391 A.2d 1173",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8520765
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0907-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 87,
+    "char_count": 748,
+    "ocr_confidence": 0.744,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2006483775695031
+    },
+    "sha256": "d1ecb7f185850d7ca95cb9526a3077edfd104151d2c4a56aeee10fb6a6466c8d",
+    "simhash": "1:0948d7928a5a936b",
+    "word_count": 116
+  },
+  "last_updated": "2024-02-27T23:11:01.583831+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "PROVIDENCE TEACHERS UNION v. PROVIDENCE SCHOOL COMMITTEE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter comes before us on a motion by the plaintiff to affirm a judgment of the Superior Court confirming an arbitrator\u2019s award. This motion was filed pursuant to our Rule 16(g). Oral argument was presented by the parties on February 8, 1980. Pursuant to principles enunciated in Jacinto v. Egan, R.I., 391 A.2d 1173 (1978), and Belanger v. Matteson, 115 R.I. 332, 346 A.2d 124 (1975), the motion to affirm is hereby granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Abedon, Michaelson, Stanzler, Biener, Skolnik & Lipsey, Julius C. Michaelson, Providence, for plaintiff.",
+      "Vincent J. Piccirilli, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "PROVIDENCE TEACHERS UNION v. PROVIDENCE SCHOOL COMMITTEE.\nNo. 79-236-Appeal.\nSupreme Court of Rhode Island.\nMarch 19, 1980.\nAbedon, Michaelson, Stanzler, Biener, Skolnik & Lipsey, Julius C. Michaelson, Providence, for plaintiff.\nVincent J. Piccirilli, Providence, for defendant."
+  },
+  "file_name": "0744-02",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

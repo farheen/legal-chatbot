@@ -1,0 +1,61 @@
+{
+  "id": 8991813,
+  "name": "George JONES, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee",
+  "name_abbreviation": "Jones v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2006-02-22",
+  "docket_number": "",
+  "first_page": "727",
+  "last_page": "728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "891 A.2d 727"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 375,
+    "ocr_confidence": 0.67,
+    "sha256": "a66450c925d92915ecf7a14db2f8a0183226e8705d965fb838f612b2404c9f1a",
+    "simhash": "1:41fa7af9e3d91f53",
+    "word_count": 57
+  },
+  "last_updated": "2023-07-14T18:00:25.222284+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice BALDWIN did not participate in the consideration or decision of this case."
+    ],
+    "parties": [
+      "George JONES, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 22nd day of February, 2006, the order of the Commonwealth Court is AFFIRMED. Appellant\u2019s request for extraordinary relief is DENIED.\nJustice BALDWIN did not participate in the consideration or decision of this case.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "George JONES, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Appellee.\nSupreme Court of Pennsylvania.\nFeb. 22, 2006."
+  },
+  "file_name": "0727-03",
+  "first_page_order": 759,
+  "last_page_order": 760
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12486882,
+  "name": "State of Maryland v. Cox, Vernon T.",
+  "name_abbreviation": "State v. Cox",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 573; Sept. Term, 2015",
+  "first_page": "713",
+  "last_page": "713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 713"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 160,
+    "sha256": "679275358c3fc13b60026e3832b2cb992259da9d4f41bfdec161254a0ee85ebc",
+    "simhash": "1:25435220905ec211",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of Maryland\nv.\nCox, Vernon T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "State of Maryland\nv.\nCox, Vernon T.\nPet. Docket No. 573\nSept. Term, 2015\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0713-03",
+  "first_page_order": 713,
+  "last_page_order": 713
+}

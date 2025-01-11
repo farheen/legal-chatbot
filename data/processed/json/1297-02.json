@@ -1,0 +1,59 @@
+{
+  "id": 6083202,
+  "name": "In re Jesse B. Barnitt",
+  "name_abbreviation": "In re Barnitt",
+  "decision_date": "1931-11-02",
+  "docket_number": "No. 2786",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 107,
+    "ocr_confidence": 0.508,
+    "sha256": "c46298cadd4c18a7c563323dc90dbd45e4c101e1664f4bed2469ac5b4cd82494",
+    "simhash": "1:7791587dd0beccef",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jesse B. Barnitt"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process of producing calcium aluminate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "NOVEMBER 2, 1931\nIn re Jesse B. Barnitt\n(No. 2786)."
+  },
+  "file_name": "1297-02",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

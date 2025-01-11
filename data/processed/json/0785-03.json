@@ -1,0 +1,58 @@
+{
+  "id": 12487421,
+  "name": "Com. v. W. Young",
+  "name_abbreviation": "Com. v. Young",
+  "decision_date": "2016-04-19",
+  "docket_number": "NO. 736 EDA 2015",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 785"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "19317d2680528b487e17b7091320d7b11c83ac53167ab803e3d577a507625134",
+    "simhash": "1:3801258787b535c0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Young"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Young\nNO. 736 EDA 2015\nSuperior Court of Pennsylvania.\nApril 19, 2016\nAffirmed."
+  },
+  "file_name": "0785-03",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

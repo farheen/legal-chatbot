@@ -1,0 +1,83 @@
+{
+  "id": 12166327,
+  "name": "In re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart",
+  "name_abbreviation": "In re Rainer",
+  "decision_date": "1965-07-01",
+  "docket_number": "No. 7429",
+  "first_page": "1593",
+  "last_page": "1598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1593"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 218"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 574"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "U.S. Patent No. 3,097,150",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 620,
+    "char_count": 12424,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 1.023088165485478e-07,
+      "percentile": 0.5458503565265774
+    },
+    "sha256": "8c41f0e571256ec0ef877ccd639a13bf48790672e9c083589c7ddfa93ca0effc",
+    "simhash": "1:6eee54cc56ba4650",
+    "word_count": 2041
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nThe relatively simple legal issues in this appeal are constantly in danger of being obscured by the plethora of chemical terms and nomenclature in appellants\u2019 disclosure and claims. On the other hand, however, their application bears the deceptively straightforward but rather meaningless title \u201cPolyethylene.\u201d\nThe precise grounds of the rejections appear to be 1) that the appealed claims are not supported by the disclosure as required by 35 U.S.C. 112 and by Patent Office Rule 71(b), and 2) that the invention claimed is disclosed in the Dixon et al. U.S. patent No. 2,965,553, issued December 20, 1960.\nAs a basic proposition we note that section 112 necessarily requires us to determine what \u201cthe invention\u201d is and Patent Office Rule 71(b) requires us to go further and determine the \u201cprecise invention\u201d for which the patent is solicited. Appellants and the examiner, looking at the same basic document (appellants\u2019 specification), like the blind men and the elephant, each find in it support for their entirely opposed conclusions. Yet neither has articulated what the invention is toward which their remarks have been directed. In part this seems to have been occasioned by the widely prevalent failing to distinguish between the invention and the embodiments of the invention. We shall start at this point and attempt to state what we think is so disclosed in the present application that it will be regarded as \u201cthe invention\u201d by any person skilled in this art.\nBroadly the disclosure relates to condensation products of polyethylene. As pointed out in the specification, such products were known but had recognized technical and commercial shortcomings. We also learn from the specification that attempts to cross-link polyethylene using high voltage radiation had been made but apparently without complete success. After stating the various objects of the invention, appellants define what seems to us to be the essence of their invention:\nIt has now been found that these objects can be attained and new cross-linked polymers of increased strength and rigidity can be obtained if polyethylene is irradiated in the presence of other non-polar or only slightly polar polymers or ethylenically unsaturated monomers. * * *\nFollowing this appellants catalog a large number of chemical substances which may be used with their invention, and after some seven examples showing the irradiation step, state:\nIt Ras generally been found that a dosage level of 2 x 10\u00b0 REP is necessary to obtain a significant increase in strength and toughness of the product. At 6 x 106 REP, the improvement is pronounced. In ascending order of dosage, these properties are progressively enhanced, being quite good at 20 x 10\u00b0 REP. Increasing rigidity is also noted, being quite pronounced by 20 x 106 REP. In fact, above 50 x 106 REP, it becomes difficult to mold the products by conventional molding techniques and it is necessary to resort to pressure and vacuum post forming at dosages from 50 to 100 x 10\u00b0 REP. At dosages of 200 x 10\u00b0 REP and above, a permanent amber tint is imparted to products made from a substantial proportion of polyethylene.\nWe are also advised that:\nA REP, as is recognized in the art, is defined as that amount of nuclear radiation which dissipates 93 ergs of energy per gram of tissue producing 1.61 x 10\u201c ion pairs in the process. It is approximately equal to the amount of energy that would be dissipated by a one roentgen X-ray beam in a gram of tissue.\nThe specification continues thereafter with some 7 more examples of irradiation of various materials.\nIt is not necessary at this stage to concern ourselves with the details of these examples for it is conceded that the specific materials called for in the rejected claims are not mentioned by name in these or any other examples in the specification. It is also the fact that the particular materials called for in the rejected claims are included in the catalog of materials recited in the specification. We think from the foregoing summary of what could be a very much more detailed analysis of the disclosures in the specification that one of ordinary skill in the art would learn from the specification simply that appellants had invented a new process for irradiating polyethylene either admixed with or in the presence of other non-polar or slightly polar polymers or the ethylenically unsaturated monomers which are cataloged in the specification.\nAll of the appealed claims 2-15 are directed to a combination of N,N'-methylene-bis-acrylamide with polyethylene, except claims 12-15 which include the acrylamide with triallyl cyanurate and triallyl melamine in a Markush group. Claims 2-10 and 12-14 recite a process of irradiating the combination of materials.\nWe agree with appellants that all of the issues on this appeal can be determined by consideration of claims 2, 4, 12 and 15. Claim 2 is in dependent form and is based on cancelled claim 1. Claim 2 if written in independent form would read as follows:\nA process comprising irradiating polyethylene admixed with, N,N'-methylene bis acrylamide with high energy ionizing radiation at a dosage of at least 2 x 106 REP.\nIt is noted that claim 2 requires the irradiation of a mixture of N,N'-methylene bis acrylamide and polyethylene. This is the procedure of examples 1-7 of the present application and corresponds to examples I-VII of its parent application 517,943. Such a procedure, however, does not read on examples 8-14 of the present application since these examples are directed to a flush coating of polyethylene bottles with a monomer followed by irradiation. A flush coating is not an admixture as required by claim 2.\nClaim 4 is broader than claim 2 in that it is not limited to irradiating a mixture of polyethylene and N,N'-methylene bis acrylamide since the polyethylene need only be irradiated in the presence of the acryla-mide. Thus claim 4 reads on either irradiating a mixture of polyethylene and N,N'-methylene bis acrylamide or upon irradiating polyethylene, with N.N'-methylene bis acrylamide sprinkled thereon. The language of claim 4 \u201cin the presence of\u201d is the same language used in original claims 1, 3 and 8 of parent application 517,943. The proportions of claim 4 of the present application are identical with the proportions of original claim 16 of the parent application.\nClaim 12 is like claim 2 but broader in that it calls for irradiating polyethylene admixed with N,N'-methylene bis acrylamide, triallyl cynanurate and triallyl melamine. Triallyl cyanurate and triallyl melamine are shown in parent application 517,943.\nClaim 15 is different from all the other claims in the application in simply claiming a composition comprising polyethylene and any one of N,N'-methylene bis acrylamide, triallyl cyanurate and triallyl melamine. No irradiation is required. The composition is asserted to be novel and useful.\nThe parent and the present application each contain a disclosure from which appellants urge that the invention claimed in the appealed claims antedates the Dixon patent as a reference. This position can be substantiated only if appellants can show a compliance with 35 U.S.C. 120, which in turn requires that the invention be disclosed as required in section 112.\nThus a basic question for decision is whether the common disclosures of the present application and its parent application constitute an adequate compliance with section 112 and Rule 71(b). The test of section 112 is that the written description of the invention must be \u201cin such full, clear, concise and exact terms as to enable any person skilled in the art to which it pertains * * * to make and use the same * * *.\u201d We think a fair reading of the specifications would reasonably disclose the general process of claims 2-10 and 12-14 to the person skilled in this art. Where, however, the process claims are directed to the use of specific materials in the process and the specification discloses nothing to guide such a person in making the selection of such specific materials from the rather extensive catalog of materials recited, we think the spirit, if not the actual provisions of section 112 are not met. Certainly, the specification here does not \u201cset forth the precise invention for which a patent is solicited\u201d as required by Rule 71(b).\nWe do not agree, however, with what appears to be the underlying rationale of the positions of the examiner and the board that this result follows because appellants did not include working examples of each of the some 53 specific materials cataloged by appellants in their specification. Instead, we agree with appellants that:\n* * * There is no need for Appellants to have burdened the specification with 53 specific working examples in order to claim each of the 53 specific materials Appellants have set forth as being operative. To hold with the Board of Appeals would mean that specifications instead of being concise and terse, would amount to tomes of many hundreds of pages which would result in making it more difficult for those skilled in the art to ascertain the invention.\n35 U.S.C. 112 does not require a working example of each species but only requires that the specification:\nShall set forth the best mode contemplated by the inventor of carrying out his invention.\nDespite this area of general agreement with appellants, we do not think that \u201cthe invention\u201d as disclosed in appellants\u2019 specification is the \u201cprecise invention\u201d claimed in the appealed claims. True, one may, by the blind, unguided selection of the claimed materials from the some 53 listed materials, ultimately arrive at the claimed invention, but there is nothing disclosed in the specification by which the skilled person in this art will be guided in making these particular selections in his efforts to practice the invention.\nRationalization of this resolution of the issue as to the process claims requires more analysis than it does for the product claims 11 and 15. The product as defined in these claims simply is not disclosed with the particularity required by section 112 and Rule 71(b). In fact, claim 15 is directed to a product not even disclosed, i.e., an unir-radiated composition of polyethylene and any one of three materials recited in Markush form. Again this failure stems not from the absence of working examples but rather from the failure of appellants to disclose any factors which would cause a person of skill in this art to select from the 53 listed materials those which will produce the claimed product.\nWhile the board limited its remarks to \u201cappellants\u2019 examples,\u201d we think its observation should have been directed to the specification as a whole, for, as the board said, it does:\n* * * not supply us with even a fixed direction of speculation with respect to the nature of the reaction which is expected to take place on the irradiation of the polyethylene mixture containing N,N'-methylene-bis-acrylamide, for instance. The second paragraph on page 6 of the specification groups this acrylamide with, inter alia, methyl methacrylate and glycol dimethacrylate. In Example 12, the irradiation of gylcol dimethacrylate in the presence of polyethylene produced no interaction of the monomer and polymer. Example 9, on the other hand, is open to the interpretation that such an interaction occurred when methyl methacrylate was the monomer. What would take place when the methylene-bis-acrylamide is the monomer is open only to conjecture and speculation.\nSince, therefore, the subject matter of the appealed claims is not so disclosed in either the present or the parent application as to comply with section 112 and Rule 71(b) the decision of the board is affirmed.\nSerial No. 148,158, filed October 27, 1961 as a division of application serial No. 12,339 filed March 2, 1960 which in turn is a continuation-in-part of an application which issued on July 9, 1963 as U.S. Patent No. 3,097,150.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Alvin Guttag for appellants.",
+      "Clarence W. Moore (Fred W. Sherling, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 574; 146 USPQ 218\nIn re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart\n(No. 7429)\nUnited States Court of Customs and Patent Appeals,\nJuly 1, 1965\nAlvin Guttag for appellants.\nClarence W. Moore (Fred W. Sherling, of counsel) for the Commissioner of Patents.\n[Oral argument May 7, 1965 by Mr. Guttag and Mr. Sherling]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1593-01",
+  "first_page_order": 917,
+  "last_page_order": 922
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488549,
+  "name": "Com. v. Maurer, D.",
+  "name_abbreviation": "Com v. Maurer",
+  "decision_date": "2016-05-20",
+  "docket_number": "2776 EDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 120,
+    "sha256": "0ac431195f45bdc0380f094d13a76fe3f451e9b40fa679aafd7daacc339dec35",
+    "simhash": "1:b3117013a3009de8",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMaurer, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMaurer, D.\n2776 EDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nReargument Denied July 20, 2016\nAffirmed"
+  },
+  "file_name": "1154-10",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

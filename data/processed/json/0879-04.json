@@ -1,0 +1,61 @@
+{
+  "id": 8000394,
+  "name": "STATE ex rel. Gerard DONOVAN v. Robert PASCALE, Jr.",
+  "name_abbreviation": "State ex rel. Donovan v. Pascale",
+  "decision_date": "1982-04-21",
+  "docket_number": "No. 82-41-M.P.",
+  "first_page": "879",
+  "last_page": "880",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "445 A.2d 879"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 216,
+    "ocr_confidence": 0.779,
+    "sha256": "19c63198fc9cc414ab36846138ea68490c6f369a9f47128e9cdca3565b2b3074",
+    "simhash": "1:ecea14541446649f",
+    "word_count": 34
+  },
+  "last_updated": "2023-07-14T18:48:11.459249+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE ex rel. Gerard DONOVAN v. Robert PASCALE, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Michael J. Kiselica, Providence, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "STATE ex rel. Gerard DONOVAN v. Robert PASCALE, Jr.\nNo. 82-41-M.P.\nSupreme Court of Rhode Island.\nApril 21, 1982.\nMichael J. Kiselica, Providence, for petitioner."
+  },
+  "file_name": "0879-04",
+  "first_page_order": 937,
+  "last_page_order": 938
+}

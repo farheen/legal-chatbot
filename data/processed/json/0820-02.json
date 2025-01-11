@@ -1,0 +1,64 @@
+{
+  "id": 12488159,
+  "name": "CRAWFORD v. CRAWFORD",
+  "name_abbreviation": "Crawford v. Crawford",
+  "decision_date": "2016-12-15",
+  "docket_number": "Pet. Docket No. 392, Sept. Term, 2016",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "5424d92bdd8bd211681f741fe9d87f0b5abf955f5e0cfff1e0654a0094149aee",
+    "simhash": "1:2ccbd014e08c4719",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CRAWFORD\nv.\nCRAWFORD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "CRAWFORD\nv.\nCRAWFORD\nPet. Docket No. 392, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 15, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0820-02",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

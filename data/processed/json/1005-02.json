@@ -1,0 +1,123 @@
+{
+  "id": 7282558,
+  "name": "In re John VENUTI, Respondent",
+  "name_abbreviation": "In re Venuti",
+  "decision_date": "2011-06-23",
+  "docket_number": "No. 11-BG-517",
+  "first_page": "1005",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 A.3d 1005"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    },
+    {
+      "cite": "17 A.3d 143",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        3723016,
+        3723215
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/418/0593-01",
+        "/md/418/0592-01"
+      ]
+    },
+    {
+      "cite": "418 Md. 593",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        3723016
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/418/0593-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1179,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18824707540864352
+    },
+    "sha256": "9d352e2e442c50e4c6321428636cf13d5be620cb3ce772bf6b58986ad0fc6eb1",
+    "simhash": "1:1886116be248c467",
+    "word_count": 190
+  },
+  "last_updated": "2024-02-27T19:59:19.850177+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BLACKBURNE-RIGSBY, Associate Judge, NEBEKER and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re John VENUTI, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order from the Maryland Court of Appeal suspending respondent for six months, see Attorney Grievance Com\u2019n of Maryland v. Venuti, 418 Md. 593, 17 A.3d 143 (2011), this court\u2019s May 13, 2011, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent filed his affidavit as required by D.C. Bar R. XI, \u00a7 14(g) on May 19, 2011, it is\nORDERED that John Venuti, Esquire is hereby suspended from the practice of law in the District of Columbia for a period of six months, nunc pro tunc to May 19, 2011. See In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate, including those involving disbarment).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re John VENUTI, Respondent.\nNo. 11-BG-517.\nDistrict of Columbia Court of Appeals.\nFiled June 23, 2011.\nBefore BLACKBURNE-RIGSBY, Associate Judge, NEBEKER and KING, Senior Judges."
+  },
+  "file_name": "1005-02",
+  "first_page_order": 1039,
+  "last_page_order": 1040
+}

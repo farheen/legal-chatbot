@@ -1,0 +1,59 @@
+{
+  "id": 6083220,
+  "name": "In re Parl O. Eckels",
+  "name_abbreviation": "In re Eckels",
+  "decision_date": "1931-11-02",
+  "docket_number": "No. 3017",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 67,
+    "ocr_confidence": 0.605,
+    "sha256": "ecd75a95823ba583f34909bc7e3cecc85be35a31abe6975798269d6391f0f341",
+    "simhash": "1:9c94034c75484041",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Parl O. Eckels"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in engines and pumps.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Parl O. Eckels\n(No. 3017)."
+  },
+  "file_name": "1297-06",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

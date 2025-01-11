@@ -1,0 +1,64 @@
+{
+  "id": 7943881,
+  "name": "In re Thomas JOSEPH",
+  "name_abbreviation": "In re Joseph",
+  "decision_date": "1981-03-12",
+  "docket_number": "No. 81-57-M.P.",
+  "first_page": "345",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "427 A.2d 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 316,
+    "ocr_confidence": 0.76,
+    "sha256": "1f7097022c576c65edd7d07025f1e8b5a48817d026482fa6f448e94277ce88e9",
+    "simhash": "1:bfa7445d9cab6cd5",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T18:05:01.903490+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER and MURRAY, JJ., did not participate."
+    ],
+    "parties": [
+      "In re Thomas JOSEPH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.\nWEISBERGER and MURRAY, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert R. Noeera, Diocesan Bureau of Social Services, Pawtucket, for petitioner.",
+      "Mitchell S. Riffkin, Providence, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Thomas JOSEPH.\nNo. 81-57-M.P.\nSupreme Court of Rhode Island.\nMarch 12, 1981.\nRobert R. Noeera, Diocesan Bureau of Social Services, Pawtucket, for petitioner.\nMitchell S. Riffkin, Providence, for respondents."
+  },
+  "file_name": "0345-02",
+  "first_page_order": 409,
+  "last_page_order": 409
+}

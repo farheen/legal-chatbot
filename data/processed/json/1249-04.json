@@ -1,0 +1,59 @@
+{
+  "id": 6084663,
+  "name": "Clark v. Brennan",
+  "name_abbreviation": "Clark v. Brennan",
+  "decision_date": "1949-11-01",
+  "docket_number": "No. 5756",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 73,
+    "ocr_confidence": 0.59,
+    "sha256": "40429ac143813ba982172ff1a21155c29a197a76f1087cf3864ba493f262c06e",
+    "simhash": "1:25a9745720142612",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clark v. Brennan"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in porous condenser electrodes.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Clark v. Brennan\n(No. 5756)."
+  },
+  "file_name": "1249-04",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

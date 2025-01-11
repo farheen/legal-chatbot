@@ -1,0 +1,58 @@
+{
+  "id": 12487455,
+  "name": "Com. v. S. Defer",
+  "name_abbreviation": "Com. v. Defer",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 1119 MDA 2014",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 787"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "8760347b7998c350aaafc52cf66ef18c65f72fac853a6841846d0bebdadb0e95",
+    "simhash": "1:2825a67000a30c62",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Defer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Defer\nNO. 1119 MDA 2014\nSuperior Court of Pennsylvania.\nApril 20, 2016\nAffirmed."
+  },
+  "file_name": "0787-04",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

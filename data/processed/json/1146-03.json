@@ -1,0 +1,83 @@
+{
+  "id": 12489364,
+  "name": "Russell PEELER v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Peeler v. Comm'r of Corr.",
+  "decision_date": "2017-03-15",
+  "docket_number": "",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 1146"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 654",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489231
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/155-2/0772-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 373,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577897398651427
+    },
+    "sha256": "5ce2ed7f51d10ee572673d244ad1e8185c45210abc44522c32fdce5705c9f04b",
+    "simhash": "1:f0ae02ab59630512",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:34:56.921860+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Russell PEELER\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Russell Peeler's petition for certification for appeal from the Appellate Court, 170 Conn. App. 654, 155 A.3d 772 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Russell PEELER\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided March 15, 2017\nLisa J. Steele, assigned counsel, in support of the petition.\nHarry Weller, senior assistant state's attorney, in opposition.\nThe petitioner Russell Peeler's petition for certification for appeal from the Appellate Court, 170 Conn. App. 654, 155 A.3d 772 (2017), is denied."
+  },
+  "file_name": "1146-03",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

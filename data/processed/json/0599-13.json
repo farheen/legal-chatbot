@@ -1,0 +1,58 @@
+{
+  "id": 12486015,
+  "name": "Com. v. L. Markle",
+  "name_abbreviation": "Com. v. Markle",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 513 MDA 2014",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "198247c73ac47c759daad62e02caf5636e04534d79c404ba933eddae226dece7",
+    "simhash": "1:3bef72791a36dc22",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Markle"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Markle\nNO. 513 MDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Reversed and Remanded."
+  },
+  "file_name": "0599-13",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

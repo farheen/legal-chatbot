@@ -1,0 +1,62 @@
+{
+  "id": 12501405,
+  "name": "STATE of Connecticut v. David BAILEY",
+  "name_abbreviation": "State v. Bailey",
+  "decision_date": "2018-10-09",
+  "docket_number": "AC 40589",
+  "first_page": "370",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 370"
+    },
+    {
+      "type": "parallel",
+      "cite": "185 Conn. App. 905"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 178,
+    "sha256": "07c437847802ccb08e5638f4f4d4adc2943882e4038b811840fa04ae5e0d099d",
+    "simhash": "1:a3d3cc590b9406a8",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nDavid BAILEY"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nDavid BAILEY\nAC 40589\nAppellate Court of Connecticut.\nArgued September 25, 2018\nOfficially released October 9, 2018"
+  },
+  "file_name": "0370-03",
+  "first_page_order": 370,
+  "last_page_order": 370
+}

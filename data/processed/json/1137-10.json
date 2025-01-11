@@ -1,0 +1,58 @@
+{
+  "id": 12488283,
+  "name": "Com. v. Matthews, J.",
+  "name_abbreviation": "Com v. Matthews",
+  "decision_date": "2016-05-05",
+  "docket_number": "1568 WDA 2015",
+  "first_page": "1137",
+  "last_page": "1137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "0244e632922074af6dc79dcf21e911ddcb964abb1f5285452f9c2bb4ffebc675",
+    "simhash": "1:7c98641f5fe81ef4",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMatthews, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMatthews, J.\n1568 WDA 2015\nSuperior Court of Pennsylvania.\nMay 5, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1137-10",
+  "first_page_order": 1137,
+  "last_page_order": 1137
+}

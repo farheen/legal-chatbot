@@ -1,0 +1,62 @@
+{
+  "id": 12491788,
+  "name": "STATE of New Jersey, Plaintiff-Movant, v. Rehan ZUBERI, Defendant.",
+  "name_abbreviation": "State v. Zuberi",
+  "decision_date": "2017-11-17",
+  "docket_number": "M\u2013335 September Term 2017; 079909",
+  "first_page": "169",
+  "last_page": "169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "231 N.J. 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 247,
+    "sha256": "f1e326c09bc10d89c227515da15b7878d60dbd0a0b207a00804231d91d241f45",
+    "simhash": "1:daaf583519330d6d",
+    "word_count": 41
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Movant,\nv.\nRehan ZUBERI, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motion for leave to file an answering brief as within time is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Movant,\nv.\nRehan ZUBERI, Defendant.\nM-335 September Term 2017\n079909\nSupreme Court of New Jersey.\nNovember 17, 2017\nORDER"
+  },
+  "file_name": "0169-03",
+  "first_page_order": 169,
+  "last_page_order": 169
+}

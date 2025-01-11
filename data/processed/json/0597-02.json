@@ -1,0 +1,58 @@
+{
+  "id": 12485987,
+  "name": "Boulevard Auto Group v. E. Barbera",
+  "name_abbreviation": "Boulevard Auto Grp. v. Barbera",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 175 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 139,
+    "sha256": "5eb45fb20e2dabf126525245db33648140565982696306c9a5222302f90167fc",
+    "simhash": "1:3d8176e79bb12dd6",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Boulevard Auto Group\nv.\nE. Barbera"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Boulevard Auto Group\nv.\nE. Barbera\nNO. 175 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Reversed and Remanded."
+  },
+  "file_name": "0597-02",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

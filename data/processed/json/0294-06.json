@@ -1,0 +1,58 @@
+{
+  "id": 12490444,
+  "name": "M.L. v. DHS",
+  "name_abbreviation": "M.L. v. DHS",
+  "decision_date": "2017-03-06",
+  "docket_number": "2356 CD 2015",
+  "first_page": "294",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "d7d8e152b808c3846c17ecb44cde4c0bb6fbf7955e39092b2bfa4ac8d13d866b",
+    "simhash": "1:c1dfcb2204efb459",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.L.\nv.\nDHS"
+    ],
+    "opinions": [
+      {
+        "text": "Vacated and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M.L.\nv.\nDHS\n2356 CD 2015\nCommonwealth Court of Pennsylvania.\nMarch 6, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0294-06",
+  "first_page_order": 294,
+  "last_page_order": 294
+}

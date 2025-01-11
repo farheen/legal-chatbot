@@ -1,0 +1,62 @@
+{
+  "id": 7965419,
+  "name": "Patrick R. REYNAUD et al. v. John KOSZELA d/b/a John Koszela and Sons",
+  "name_abbreviation": "Reynaud v. Koszela",
+  "decision_date": "1981-11-25",
+  "docket_number": "No. 81-371-A",
+  "first_page": "1308",
+  "last_page": "1308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 1308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 473,
+    "ocr_confidence": 0.766,
+    "sha256": "da05b92fe070d379510df1d999fc96552e45d02143e439fe939702f6f918e1ef",
+    "simhash": "1:104e4d9c95049578",
+    "word_count": 74
+  },
+  "last_updated": "2023-07-14T16:40:17.451326+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick R. REYNAUD et al. v. John KOSZELA d/b/a John Koszela and Sons."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nIn view of the fact that the defendant\u2019s late payment of the filing fee herein was due to circumstances which constitute excusable neglect, the plaintiffs\u2019 motion to dismiss this appeal is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Kirshenbaum & Kirshenbaum, Van L. Hayhow, Providence, for plaintiffs.",
+      "Gorham & Gorham, Inc., Arthur M. Read II, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick R. REYNAUD et al. v. John KOSZELA d/b/a John Koszela and Sons.\nNo. 81-371-A.\nSupreme Court of Rhode Island.\nNov. 25, 1981.\nKirshenbaum & Kirshenbaum, Van L. Hayhow, Providence, for plaintiffs.\nGorham & Gorham, Inc., Arthur M. Read II, Providence, for defendant."
+  },
+  "file_name": "1308-03",
+  "first_page_order": 1356,
+  "last_page_order": 1356
+}

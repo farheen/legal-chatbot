@@ -1,0 +1,58 @@
+{
+  "id": 12484901,
+  "name": "Commonwealth v. Willie Maurice Harris",
+  "name_abbreviation": "Commonwealth v. Harris",
+  "decision_date": "2016-05-03",
+  "docket_number": "NO. 69 WAL 2016",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 151,
+    "sha256": "abcf3c290d741fb89c9206e334357d3e80fc5e65901869fd4b5a4e27bca2e962",
+    "simhash": "1:b61f45ed987827d8",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nWillie Maurice Harris"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nWillie Maurice Harris\nNO. 69 WAL 2016\nSupreme Court of Pennsylvania\nMay 03, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0002-10",
+  "first_page_order": 2,
+  "last_page_order": 2
+}

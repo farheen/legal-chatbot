@@ -1,0 +1,59 @@
+{
+  "id": 6083378,
+  "name": "In re Wesley J. Shaw",
+  "name_abbreviation": "In re Shaw",
+  "decision_date": "1931-12-17",
+  "docket_number": "No. 3031",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 86,
+    "ocr_confidence": 0.496,
+    "sha256": "1d3219b57499c73c1a8a595973bba2d3faf8a3256a1c9a07a015db5ae0a62976",
+    "simhash": "1:16e0becdc16d9519",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wesley J. Shaw"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in wood-heel machines.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "DECEMBER 17, 1931\nIn re Wesley J. Shaw\n(No. 3031)."
+  },
+  "file_name": "1297-18",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

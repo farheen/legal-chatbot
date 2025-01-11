@@ -1,0 +1,64 @@
+{
+  "id": 12488156,
+  "name": "PARKER v. HAMILTON",
+  "name_abbreviation": "Parker v. Hamilton",
+  "decision_date": "2016-12-14",
+  "docket_number": "Pet. Docket No. 469, Sept. Term, 2016",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 664"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "6027806e6ce3b127b25ed078015fd97f4adef013895a679f5cf718d0fa95c963",
+    "simhash": "1:6c23c63580089099",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PARKER\nv.\nHAMILTON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "PARKER\nv.\nHAMILTON\nPet. Docket No. 469, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 14, 2016\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0819-03",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

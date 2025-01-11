@@ -1,0 +1,62 @@
+{
+  "id": 11287778,
+  "name": "STATE v. James RODERICK",
+  "name_abbreviation": "State v. Roderick",
+  "decision_date": "1980-03-13",
+  "docket_number": "No. 78-268-C.A.",
+  "first_page": "192",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "414 A.2d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 400,
+    "ocr_confidence": 0.726,
+    "sha256": "badac9bf1a2b73b6e3fcd2b92042c1c7998904d1deb68355702f7e246978bf5a",
+    "simhash": "1:f9df24c78d07094b",
+    "word_count": 66
+  },
+  "last_updated": "2023-07-14T14:31:03.934549+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. James RODERICK."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion for counsel fee is granted and counsel Robert B. Mann is awarded the sum of $804 for services performed on behalf of defendant before this court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Lawrence M. Iacoi, Spec. Asst. Atty. Gen., for plaintiff.",
+      "Mann & Roney, Robert B. Mann, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. James RODERICK.\nNo. 78-268-C.A.\nSupreme Court of Rhode Island.\nMarch 13, 1980.\nDennis J. Roberts II, Atty. Gen., Lawrence M. Iacoi, Spec. Asst. Atty. Gen., for plaintiff.\nMann & Roney, Robert B. Mann, Providence, for defendant."
+  },
+  "file_name": "0192-04",
+  "first_page_order": 246,
+  "last_page_order": 247
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488963,
+  "name": "IN RE L.L.",
+  "name_abbreviation": "In re L.L.",
+  "decision_date": "2016-12-16",
+  "docket_number": "16\u2013191",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "94895554df65db99a0904ee7bdf9f142625f21af49bd8acd097b9a06cb1977dd",
+    "simhash": "1:4a1d0b05bf50f24f",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE L.L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE L.L.\n16-191\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-12",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

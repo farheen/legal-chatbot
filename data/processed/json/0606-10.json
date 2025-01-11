@@ -1,0 +1,58 @@
+{
+  "id": 12486123,
+  "name": "Com. v. R. Schimp",
+  "name_abbreviation": "Com. v. Schimp",
+  "decision_date": "2016-02-29",
+  "docket_number": "NO. 528 WDA 2015",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 131,
+    "sha256": "8b87481261219f5dec8cfa2088f5b36eae4adda99a672738d10a72cd023da2ae",
+    "simhash": "1:d699eda858ab91cc",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Schimp"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Schimp\nNO. 528 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 29, 2016\nDisposition: Remanded Jurisdiction Retained."
+  },
+  "file_name": "0606-10",
+  "first_page_order": 606,
+  "last_page_order": 606
+}

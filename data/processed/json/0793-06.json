@@ -1,0 +1,58 @@
+{
+  "id": 12487545,
+  "name": "Com. v. A. Wright",
+  "name_abbreviation": "Com. v. Wright",
+  "decision_date": "2016-04-26",
+  "docket_number": "NO. 1466 EDA 2015",
+  "first_page": "793",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 793"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "a0aa571556d9135ef0c4df95b69d2c32686a0c521561ba7274b5dcaca25f12b6",
+    "simhash": "1:318f22f100a31b80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Wright"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Wright\nNO. 1466 EDA 2015\nSuperior Court of Pennsylvania.\nApril 26, 2016\nAffirmed."
+  },
+  "file_name": "0793-06",
+  "first_page_order": 793,
+  "last_page_order": 793
+}

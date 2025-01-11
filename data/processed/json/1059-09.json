@@ -1,0 +1,58 @@
+{
+  "id": 12490167,
+  "name": "SCOTT, A. v. OOR (DOC)",
+  "name_abbreviation": "Scott v. OOR",
+  "decision_date": "2017-01-27",
+  "docket_number": "133 CD 2016",
+  "first_page": "1059",
+  "last_page": "1059",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1059"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 133,
+    "sha256": "be38a53024c5c6c393b679c3ea0f552fdf8fb5f66489ec2851e10731edf3fcc7",
+    "simhash": "1:6921923728a41668",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SCOTT, A.\nv.\nOOR (DOC)"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SCOTT, A.\nv.\nOOR (DOC)\n133 CD 2016\nCommonwealth Court of Pennsylvania.\nJanuary 27, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1059-09",
+  "first_page_order": 1059,
+  "last_page_order": 1059
+}

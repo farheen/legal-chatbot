@@ -1,0 +1,81 @@
+{
+  "id": 1279564,
+  "name": "Atlantic Coast Line Railroad Company, Plaintiff in Error, v. C. A. Veley, Defendant in Error",
+  "name_abbreviation": "Atlantic Coast Line Railroad v. Veley",
+  "decision_date": "1931-01-12",
+  "docket_number": "",
+  "first_page": "1695",
+  "last_page": "1696",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "47 Fla. 224",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1066821
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/47/0224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 99,
+    "char_count": 1099,
+    "ocr_confidence": 0.519,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04829876181970455
+    },
+    "sha256": "f4c983d315297761bd3fab7c48801c167d35aa9bde3db06d4d0ffd48f292ff07",
+    "simhash": "1:9abc5e703a67c0dd",
+    "word_count": 191
+  },
+  "last_updated": "2024-02-27T19:39:14.952203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Terrell, C. J., and Wi-iiteield, Ellis, Strum, Brown and Buford, J. J., concur."
+    ],
+    "parties": [
+      "Atlantic Coast Line Railroad Company, Plaintiff in Error, v. C. A. Veley, Defendant in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nIn this cause Mr. Chief Justice Terrell, Mr. Justice Ellis and Mr. Justice Buford are of opinion that the judgment of the court below should be reversed while Mr. Justice Whitfield, Mr. Justice Strum and Mr. Justice Brown are of opinion that said judgment should be affirmed. When it appears that the members of the Court are permanently and equally divided in opinion as to whether a judgment should be affirmed or reversed, and there is no prospect of an immediate change in the personnel of the Court, the judgment should be affirmed. Therefore it is considered, ordered and adjudged under the authority of State ex rel. Hampton v. McClung, 47 Fla. 224, 37 So. R. 51, that the judgment of the circuit court in this cause be, and the same is hereby, affirmed.\nTerrell, C. J., and Wi-iiteield, Ellis, Strum, Brown and Buford, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "W. B. Crawford, and Warren B. Parks,, for Plaintiff in Error;",
+      "E. W. & B. C. Davis, for Defendant in Error."
+    ],
+    "corrections": "",
+    "head_matter": "Atlantic Coast Line Railroad Company, Plaintiff in Error, v. C. A. Veley, Defendant in Error.\nDivision B.\nOpinion filed January 12, 1931.\nW. B. Crawford, and Warren B. Parks,, for Plaintiff in Error;\nE. W. & B. C. Davis, for Defendant in Error."
+  },
+  "file_name": "1695-01",
+  "first_page_order": 691,
+  "last_page_order": 692
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12486887,
+  "name": "State of Maryland v. Hines, Michael Keith",
+  "name_abbreviation": "State v. Hines",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 586; Sept. Term, 2015",
+  "first_page": "714",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 714"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 166,
+    "sha256": "397f286e633d793e94c70af574aad4b4d1b6377b51f25f546bffaec73fe91e1b",
+    "simhash": "1:254ad221b85cc201",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of Maryland\nv.\nHines, Michael Keith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "State of Maryland\nv.\nHines, Michael Keith\nPet. Docket No. 586\nSept. Term, 2015\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0714-04",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

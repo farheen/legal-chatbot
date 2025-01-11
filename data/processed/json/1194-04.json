@@ -1,0 +1,83 @@
+{
+  "id": 12491890,
+  "name": "STATE of Connecticut v. Sidney WADE",
+  "name_abbreviation": "State v. Wade",
+  "decision_date": "2018-01-18",
+  "docket_number": "",
+  "first_page": "1194",
+  "last_page": "1194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 A.3d 1194"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "178 Conn. App. 459",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491690
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/175-2/1284-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 359,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25788742895821337
+    },
+    "sha256": "1192624043c266d78872765bbe4af23872f67633b832151a5e0f1143b929ee87",
+    "simhash": "1:181ba62e93d274f4",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T16:23:18.031008+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nSidney WADE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 178 Conn. App. 459, 175 A.3d 1284 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nSidney WADE\nSupreme Court of Connecticut.\nDecided January 18, 2018\nJohn C. Drapp III, assigned counsel, in support of the petition.\nJennifer F. Miller, deputy assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 178 Conn. App. 459, 175 A.3d 1284 (2017), is denied."
+  },
+  "file_name": "1194-04",
+  "first_page_order": 1194,
+  "last_page_order": 1194
+}

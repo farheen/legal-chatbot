@@ -1,0 +1,58 @@
+{
+  "id": 12488539,
+  "name": "Com. v. Mshimba, M.",
+  "name_abbreviation": "Com v. Mshimba",
+  "decision_date": "2016-05-19",
+  "docket_number": "2871 EDA 2015",
+  "first_page": "1153",
+  "last_page": "1153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "8b7182d9495c27df646d58da94f0eca04c28c036dad9d8c8616e178894192a57",
+    "simhash": "1:b5425e20da209ff1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMshimba, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMshimba, M.\n2871 EDA 2015\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1153-16",
+  "first_page_order": 1153,
+  "last_page_order": 1153
+}

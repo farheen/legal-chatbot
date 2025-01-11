@@ -1,0 +1,62 @@
+{
+  "id": 12484890,
+  "name": "John Michael Schene v. State of Maryland",
+  "name_abbreviation": "Schene v. State",
+  "decision_date": "2016-06-24",
+  "docket_number": "No. 59 Sept. Term 2016",
+  "first_page": "1263",
+  "last_page": "1263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 1263"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 Md. 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 129,
+    "sha256": "869c8833dca6d71f49073eb13f308ab8632ad91c1cf6bf007b94f87fb74087be",
+    "simhash": "1:1d075634c5c90876",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Michael Schene\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Michael Schene\nv.\nState of Maryland\nNo. 59 Sept. Term 2016\nCourt of Appeals of Maryland\nJune 24, 2016\nDisposition: Denied."
+  },
+  "file_name": "1263-04",
+  "first_page_order": 1263,
+  "last_page_order": 1263
+}

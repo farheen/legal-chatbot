@@ -1,0 +1,58 @@
+{
+  "id": 12485950,
+  "name": "Com. v. J. Martin",
+  "name_abbreviation": "Com. v. Martin",
+  "decision_date": "2016-02-16",
+  "docket_number": "NO. 1616 WDA 2014",
+  "first_page": "595",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "0a6664e1a50dc90998c46a7f02188b30169b467cf5738628d6f6cbe66f26ab12",
+    "simhash": "1:a50f7cb04aba2ae4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Martin"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Martin\nNO. 1616 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 16, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0595-13",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

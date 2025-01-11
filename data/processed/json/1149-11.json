@@ -1,0 +1,58 @@
+{
+  "id": 12488475,
+  "name": "Com. v. Hamilton, S.",
+  "name_abbreviation": "Com v. Hamilton",
+  "decision_date": "2016-05-17",
+  "docket_number": "1072 MDA 2015",
+  "first_page": "1149",
+  "last_page": "1149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1149"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 133,
+    "sha256": "e779571327d3bda7db41eaefff263135bce4bc96bedc8a7cbac44469770f89ef",
+    "simhash": "1:950976fd5ea29790",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHamilton, S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHamilton, S.\n1072 MDA 2015\nSuperior Court of Pennsylvania.\nMay 17, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1149-11",
+  "first_page_order": 1149,
+  "last_page_order": 1149
+}

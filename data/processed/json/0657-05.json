@@ -1,0 +1,58 @@
+{
+  "id": 12501577,
+  "name": "J.J. v. S.G.G.",
+  "name_abbreviation": "J.J. v. S.G.G.",
+  "decision_date": "2018-07-10",
+  "docket_number": "3825 EDA 2017",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 657"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "87bd813aab13c5bd1218e9456b5a816be46458a56155802147d9f7c4a77f5169",
+    "simhash": "1:87fe96b3cd608dcc",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.J.\nv.\nS.G.G."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J.J.\nv.\nS.G.G.\n3825 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 10, 2018\nAffirmed"
+  },
+  "file_name": "0657-05",
+  "first_page_order": 657,
+  "last_page_order": 657
+}

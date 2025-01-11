@@ -1,0 +1,123 @@
+{
+  "id": 9274290,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Steven Richard FAULS, Appellee",
+  "name_abbreviation": "Commonwealth v. Fauls",
+  "decision_date": "2004-03-23",
+  "docket_number": "",
+  "first_page": "768",
+  "last_page": "769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "845 A.2d 768"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "838 A.2d 710",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299392,
+        16703
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0710-01",
+        "/pa/576/0101-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 101",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16703
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0101-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 962",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088607
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/0962-01"
+      ]
+    },
+    {
+      "cite": "574 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588032
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0487-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 756,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21609310040855664
+    },
+    "sha256": "d0616f3e68942233b24d6409e8678c71d3b9d96ef029f47b9d4f5d29c8aff550",
+    "simhash": "1:c7b50636307de806",
+    "word_count": 115
+  },
+  "last_updated": "2024-02-27T22:16:48.056801+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Steven Richard FAULS, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 23rd day of March, 2004, the order of. the Delaware County Court of Common Pleas is reversed insofar as it declared the Registration of Sexual Offenders Act unconstitutional, and the case is remanded for further proceedings. See Commonwealth v. Williams, 574 Pa. 487, 832 A.2d 962 (2003); Commonwealth v. Maldonado, 576 Pa. 101, 838 A.2d 710 (2003).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "A. Sheldon Kovach, Media, George Michael Green, for Commonwealth of Pennsylvania.",
+      "Joseph Anthony Ratasiewicz, Media, for Steven Richard Fauls."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Steven Richard FAULS, Appellee.\nSupreme Court of Pennsylvania.\nSubmitted Oct. 7, 2003.\nDecided March 23, 2004.\nA. Sheldon Kovach, Media, George Michael Green, for Commonwealth of Pennsylvania.\nJoseph Anthony Ratasiewicz, Media, for Steven Richard Fauls.\nBefore CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0768-02",
+  "first_page_order": 814,
+  "last_page_order": 815
+}

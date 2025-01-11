@@ -1,0 +1,58 @@
+{
+  "id": 12487232,
+  "name": "Com. v. C. Patterson",
+  "name_abbreviation": "Com. v. Patterson",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1477 WDA 2015",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 772"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "05c04559ef5c84ca736487b9abc1aba59c3b3886965eba4dabfa6fa8b311d3af",
+    "simhash": "1:38890c01d1a40582",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Patterson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Patterson\nNO. 1477 WDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed."
+  },
+  "file_name": "0772-13",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

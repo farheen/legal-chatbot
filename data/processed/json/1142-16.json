@@ -1,0 +1,58 @@
+{
+  "id": 12488366,
+  "name": "Com. v. Lee, M.",
+  "name_abbreviation": "Com v. Lee",
+  "decision_date": "2016-05-10",
+  "docket_number": "1116 WDA 2014",
+  "first_page": "1142",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "910396b404303ed356c951bc1e0bcb219c33c37bf4e3ab835271e233174a89ad",
+    "simhash": "1:6d30c43986bb27e2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLee, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLee, M.\n1116 WDA 2014\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1142-16",
+  "first_page_order": 1142,
+  "last_page_order": 1142
+}

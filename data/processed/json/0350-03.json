@@ -1,0 +1,59 @@
+{
+  "id": 8208731,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. David KEYS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Keys",
+  "decision_date": "2008-08-19",
+  "docket_number": "",
+  "first_page": "350",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "955 A.2d 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 379,
+    "ocr_confidence": 0.673,
+    "sha256": "aa20d3caea350246cad4858b33336544e713f5cc5165dd188dce003b47c0aef6",
+    "simhash": "1:602d522ff1c34036",
+    "word_count": 63
+  },
+  "last_updated": "2023-07-14T17:28:21.284267+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. David KEYS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of August, 2008, the Motion to File Petition for Allowance of Appeal Nunc Pro Tunc is GRANTED. Petitioner is directed to file a Petition for Allowance of Appeal with this Court within thirty days of the entry of this order.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. David KEYS, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 19, 2008."
+  },
+  "file_name": "0350-03",
+  "first_page_order": 382,
+  "last_page_order": 383
+}

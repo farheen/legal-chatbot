@@ -1,0 +1,58 @@
+{
+  "id": 12486126,
+  "name": "Com. v. D. Messina",
+  "name_abbreviation": "Com. v. Messina",
+  "decision_date": "2016-02-29",
+  "docket_number": "NO. 1096 WDA 2015",
+  "first_page": "606",
+  "last_page": "606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "ec0aa3244e568c965e749254d549c781709932b8b5b1a136933aac7e91d11266",
+    "simhash": "1:e68de72cd2a3b5cb",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Messina"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Messina\nNO. 1096 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 29, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0606-13",
+  "first_page_order": 606,
+  "last_page_order": 606
+}

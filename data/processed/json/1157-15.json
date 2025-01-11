@@ -1,0 +1,58 @@
+{
+  "id": 12488598,
+  "name": "Com. v. Preziosi, D.",
+  "name_abbreviation": "Com v. Preziosi",
+  "decision_date": "2016-05-24",
+  "docket_number": "443 EDA 2015",
+  "first_page": "1157",
+  "last_page": "1157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "fc80502080675b923886a6b4143f5bda7b2eadad0147fd258fea69856e1c1fdd",
+    "simhash": "1:1d1015fde3f2bde2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nPreziosi, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nPreziosi, D.\n443 EDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nAffirmed"
+  },
+  "file_name": "1157-15",
+  "first_page_order": 1157,
+  "last_page_order": 1157
+}

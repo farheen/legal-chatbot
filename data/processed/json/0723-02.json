@@ -1,0 +1,74 @@
+{
+  "id": 7290273,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Jennifer L. DEMMITT, Petitioner; Commonwealth of Pennsylvania, Respondent v. Gerald Eugene Jacobs, Jr., Petitioner",
+  "name_abbreviation": "Commonwealth v. Demmitt",
+  "decision_date": "2010-03-09",
+  "docket_number": "",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "981 A.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196398,
+        7294054
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0046-01",
+        "/a2d/981/0902-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 483,
+    "ocr_confidence": 0.692,
+    "sha256": "11322bccfe9cd92aaf183479c35f23ecc4bebfe8c7bf9890098de7611f923ea9",
+    "simhash": "1:c189ea2e816f2d76",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Jennifer L. DEMMITT, Petitioner. Commonwealth of Pennsylvania, Respondent v. Gerald Eugene Jacobs, Jr., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of March, 2010, the Petitions for Allowance of Appeal are GRANTED. The Orders of the Superior Court are VACATED, and the cases are REMANDED to the trial court for proceedings consistent with Commonwealth v. Haag, 981 A.2d 902 (Pa.2009).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Jennifer L. DEMMITT, Petitioner. Commonwealth of Pennsylvania, Respondent v. Gerald Eugene Jacobs, Jr., Petitioner.\nSupreme Court of Pennsylvania.\nMarch 9, 2010."
+  },
+  "file_name": "0723-02",
+  "first_page_order": 765,
+  "last_page_order": 765
+}

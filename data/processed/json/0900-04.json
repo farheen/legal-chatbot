@@ -1,0 +1,64 @@
+{
+  "id": 12489297,
+  "name": "TIBBS, Mark v. STATE of Maryland",
+  "name_abbreviation": "Tibbs v. State",
+  "decision_date": "2017-03-27",
+  "docket_number": "Pet. Docket No. 567, Sept. Term, 2016",
+  "first_page": "900",
+  "last_page": "900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 900"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 23"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "ff6787207bf04d7ee54b9b94707b5792e9defb8afec46032a0094640a7127cb9",
+    "simhash": "1:297ac4b1c0cb5217",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.012355+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TIBBS, Mark\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "TIBBS, Mark\nv.\nSTATE of Maryland\nPet. Docket No. 567, Sept. Term, 2016\nCourt of Appeals of Maryland.\nMarch 27, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0900-04",
+  "first_page_order": 900,
+  "last_page_order": 900
+}

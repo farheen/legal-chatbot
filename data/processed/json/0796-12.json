@@ -1,0 +1,58 @@
+{
+  "id": 12487579,
+  "name": "Com. v. C. Huston",
+  "name_abbreviation": "Com. v. Huston",
+  "decision_date": "2016-04-28",
+  "docket_number": "NO. 1089 WDA 2015",
+  "first_page": "796",
+  "last_page": "796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 796"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "717e4047b9f2febcc922f5e0491e091171bcf264d94a844020c128b8690eba14",
+    "simhash": "1:184a6c0910a91dc0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Huston"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Huston\nNO. 1089 WDA 2015\nSuperior Court of Pennsylvania.\nApril 28, 2016\nVacated and Remanded."
+  },
+  "file_name": "0796-12",
+  "first_page_order": 796,
+  "last_page_order": 796
+}

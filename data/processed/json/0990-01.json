@@ -1,0 +1,89 @@
+{
+  "id": 7946331,
+  "name": "Carl TAYLOR, Appellant, v. COLLINS AND RYAN, INC., Appellee",
+  "name_abbreviation": "Taylor v. Collins & Ryan, Inc.",
+  "decision_date": "1981-12-30",
+  "docket_number": "",
+  "first_page": "990",
+  "last_page": "990",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 990"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "214 A.2d 847",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "244 A.2d 278",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8082216
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/244/0278-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 148,
+    "char_count": 1459,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20063853143561652
+    },
+    "sha256": "a7aecd452a88619295ee348b088ebdf0470f4818399396e3759a6df36953ff26",
+    "simhash": "1:57221116d87fdf6e",
+    "word_count": 224
+  },
+  "last_updated": "2024-02-27T20:24:54.472867+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HERRMANN, C. J., DUFFY and McNEILLY, JJ."
+    ],
+    "parties": [
+      "Carl TAYLOR, Appellant, v. COLLINS AND RYAN, INC., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nIn this case, which arises under the Workmen\u2019s Compensation Act, 19 Del.C. \u00a7 2301, the Superior Court entered an order of remand to the Industrial Accident Board with instructions to take further testimony, including expert medical testimony, on the issue as to when disfigurement of the claimant became permanent. Thereafter, the employee docketed this appeal.\nClearly, an order of remand by the Superior Court to the Industrial Accident Board is an interlocutory and not a final order. And under settled Delaware law such an order is not appealable to this Court. Cicamore v. Alloy Surfaces Company, Del.Supr., 244 A.2d 278 (1968); McClelland v. General Motors Corporation, Del. Supr., 214 A.2d 847 (1965).\nAfter those cases were decided, this Court adopted Rule 42 which specifies the procedure governing interlocutory appeals. But that Rule did not change nor modify the decisions in Cicamore and McClelland. Indeed, the Rule codifies those and similar decisions and adds additional requirements which have not been met in this appeal.\nIt follows, therefore, that the appeal must be dismissed.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "John J. Schmittinger, of Sehmittinger & Rodriguez, Dover, for appellant.",
+      "Robert W. Ralston, of Prickett, Jones, Elliott, Kristol & Sehnee, Wilmington, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Carl TAYLOR, Appellant, v. COLLINS AND RYAN, INC., Appellee.\nSupreme Court of Delaware.\nSubmitted Dec. 17, 1981.\nDecided Dec. 30, 1981.\nJohn J. Schmittinger, of Sehmittinger & Rodriguez, Dover, for appellant.\nRobert W. Ralston, of Prickett, Jones, Elliott, Kristol & Sehnee, Wilmington, for appellee.\nBefore HERRMANN, C. J., DUFFY and McNEILLY, JJ."
+  },
+  "file_name": "0990-01",
+  "first_page_order": 1038,
+  "last_page_order": 1038
+}

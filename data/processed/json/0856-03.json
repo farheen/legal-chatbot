@@ -1,0 +1,102 @@
+{
+  "id": 8473068,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Clinton O'Dell WHITEHEAD, Petitioner",
+  "name_abbreviation": "Commonwealth v. Whitehead",
+  "decision_date": "2006-07-06",
+  "docket_number": "No. 1080 MAL 2005",
+  "first_page": "856",
+  "last_page": "857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "904 A.2d 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "753 A.2d 201",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225995,
+        11205468
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "the time limitations of the PCRA are jurisdictional and no court may disregard or alter those requirements in order to reach the merits of claims raised in an untimely filed petition"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0001-01",
+        "/a2d/753/0201-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225995
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "the time limitations of the PCRA are jurisdictional and no court may disregard or alter those requirements in order to reach the merits of claims raised in an untimely filed petition"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 680,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20469571778122972
+    },
+    "sha256": "b4d8251d1ee91b44ae9581f725b5cb13baf71bd217d92fd9aa8232dc456edd1d",
+    "simhash": "1:f9a22367e1f97da6",
+    "word_count": 112
+  },
+  "last_updated": "2024-02-27T18:52:39.880868+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Clinton O\u2019Dell WHITEHEAD, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of July, 2006, the Petition for Allowance of Appeal is GRANTED. The Order of the Superior Court is vacated, and the matter is remanded to that court for a determination of the issue of timeliness of the PCRA petition. See Commonwealth v. Murray, 562 Pa. 1, 753 A.2d 201 (2000) (the time limitations of the PCRA are jurisdictional and no court may disregard or alter those requirements in order to reach the merits of claims raised in an untimely filed petition). Jurisdiction is relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Clinton O\u2019Dell WHITEHEAD, Petitioner.\nNo. 1080 MAL 2005.\nSupreme Court of Pennsylvania.\nJuly 6, 2006."
+  },
+  "file_name": "0856-03",
+  "first_page_order": 882,
+  "last_page_order": 883
+}

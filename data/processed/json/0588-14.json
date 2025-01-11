@@ -1,0 +1,58 @@
+{
+  "id": 12485840,
+  "name": "Com. v. D. Venable",
+  "name_abbreviation": "Com. v. Venable",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 421 WDA 2015",
+  "first_page": "588",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "fc48f07040f7020dd1369f027d61e419504cd750f3a6d6b476a197bd7afcdd48",
+    "simhash": "1:a144620b5cbb8f84",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Venable"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Venable\nNO. 421 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0588-14",
+  "first_page_order": 588,
+  "last_page_order": 588
+}

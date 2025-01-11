@@ -1,0 +1,113 @@
+{
+  "id": 7982156,
+  "name": "STATE v. Mark WICKETT",
+  "name_abbreviation": "State v. Wickett",
+  "decision_date": "1982-05-11",
+  "docket_number": "No. 81-451-C.A.",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "445 A.2d 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "195 A. 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 R.I. 348",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5116588
+      ],
+      "year": 1937,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/59/0348-01"
+      ]
+    },
+    {
+      "cite": "403 A.2d 1090",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3184950
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0896-01"
+      ]
+    },
+    {
+      "cite": "420 A.2d 843",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7987065
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/420/0843-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 1831,
+    "ocr_confidence": 0.764,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20068563842911305
+    },
+    "sha256": "9031556198b78d368ef7443814ca08d0fd5cfd40160fcad4450c69c811129b64",
+    "simhash": "1:a0aa61bb1e4345cb",
+    "word_count": 297
+  },
+  "last_updated": "2024-02-27T17:17:29.436383+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Mark WICKETT."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM.\nThis case came before the court on an order directing the defendant to show cause why his appeal should not be dismissed. After carefully considering the arguments of counsel, we find that cause has not been shown.\nAlthough defendant challenges the qualifications of one of the jurors in the jury pool, a review of the record indicates that defense counsel never moved for exclusion of the juror at trial. The defendant cannot, therefore, challenge his qualifications on appeal. See Cartier v. State, R.I., 420 A.2d 843 (1980); State v. Roderick, R.I., 403 A.2d 1090 (1979).\nThe defendant\u2019s assertion that the trial justice erred in charging the jury on the weight to be given to evidence of the defendant\u2019s good reputation is also without merit. The charge given apprised the jury that the defendant\u2019s \u201cgood reputation in the community where he lives, if you find it proven, is a circumstance which you may weigh with the other circumstances in the case in arriving at your final conclusion.\u201d The trial justice could have instructed the jury that evidence of the defendant\u2019s good reputation may give rise to a reasonable doubt concerning his guilt, as the defendant had requested. We find, however, that the charge given was sufficient. See State v. Di Noi, 59 R.I. 348, 195 A. 497 (1937).\nAccordingly, the defendant\u2019s appeal is dismissed, the judgment of Superior Court is affirmed, and the case is remanded to the Superior Court.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts, II, Atty. Gen., Stephen R. Famiglietti, Asst. Atty. Gen., Sharon P. O\u2019Keefe, Sp. Asst. Atty. Gen., Chief, Appellate Div., for plaintiff.",
+      "Tillinghast, Collins & Graham, Normand G. Benoit, Providence, Vincent M. Federico, Jeanne Hanna Kirkwood, Weymouth, Mass., for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Mark WICKETT.\nNo. 81-451-C.A.\nSupreme Court of Rhode Island.\nMay 11, 1982.\nDennis J. Roberts, II, Atty. Gen., Stephen R. Famiglietti, Asst. Atty. Gen., Sharon P. O\u2019Keefe, Sp. Asst. Atty. Gen., Chief, Appellate Div., for plaintiff.\nTillinghast, Collins & Graham, Normand G. Benoit, Providence, Vincent M. Federico, Jeanne Hanna Kirkwood, Weymouth, Mass., for defendant."
+  },
+  "file_name": "0275-01",
+  "first_page_order": 333,
+  "last_page_order": 333
+}

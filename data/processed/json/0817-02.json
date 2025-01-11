@@ -1,0 +1,64 @@
+{
+  "id": 12488147,
+  "name": "BROWN, Damar v. STATE of Maryland",
+  "name_abbreviation": "Brown v. State",
+  "decision_date": "2016-12-02",
+  "docket_number": "Pet. Docket No. 428, Sept. Term, 2016",
+  "first_page": "817",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 817"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 660"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 161,
+    "sha256": "8b9df20c03968e68aea5ecdbd05e1be70d05a9b98123fab8e005c479c8979c94",
+    "simhash": "1:2cf3c4c9a16c1355",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BROWN, Damar\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "BROWN, Damar\nv.\nSTATE of Maryland\nPet. Docket No. 428, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 2, 2016\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0817-02",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

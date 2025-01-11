@@ -1,0 +1,76 @@
+{
+  "id": 6092456,
+  "name": "In re Werner Coupette and Adolf Sickbert",
+  "name_abbreviation": "In re Coupette",
+  "decision_date": "1964-06-25",
+  "docket_number": "No. 7177",
+  "first_page": "1495",
+  "last_page": "1497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 C.C.P.A. 1495"
+    },
+    {
+      "type": "parallel",
+      "cite": "142 U.S.P.Q. 39"
+    },
+    {
+      "type": "parallel",
+      "cite": "333 F.2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cust. Ct.",
+    "id": 9324,
+    "name": "United States Customs Court"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 428,
+    "char_count": 6920,
+    "ocr_confidence": 0.442,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.1769373286172688
+    },
+    "sha256": "c1dab44c3e122e9fbd365111f531585087394f141518facd08eff11a55c6dbdd",
+    "simhash": "1:0ff3ec5db73bbf9c",
+    "word_count": 1120
+  },
+  "last_updated": "2023-07-14T20:25:10.227132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Werner Coupette and Adolf Sickbert"
+    ],
+    "opinions": [
+      {
+        "text": "Bich, Judge,\ndelivered the opinion of the court:\nThis appeal is from the decision of the Patent Office Board of Appeals affirming the rejection of claims 6-8 and 10-12 of application serial No. 686,284, filed September 26, 1957, for \u201cMethod of Producing Ferritic or Ferritic-Perlitic Steel Alloys.\u201d No claims are allowed.\nThe invention relates to a method for making steel by vacuum casting, which steel is said to have \u201cgood high temperature properties.and exhibits a minimum tendency to embrittlement\u201d and is useful in making \u201cheavy forgings for turbine rotors and other major parts of machinery that will be subjected to high operational temperatures.\u201d\nClaim 6 is representative and sufficiently describes the invention:\n6. In a method of producing high quality steel castings, the step of casting molten low alloyed steel containing up to 0.25% manganese and up to 0.10% silicon, while subjecting said molten steel during the casting of the same to a sub-atmospheric pressure of less than 10 mm mercury, whereby a steel easting of great mechanical resistance against the effects of exposure to high temperatures is formed.\nClaims 7, 8 and 10 further recite use in the molten steel of \u201cdeoxi-dants\u201d such as aluminum. Claim 11 says the steel is \u201ccapable of being refined by hardening with subsequent tempering\u201d while claim 12 sets out specific percentages of alloying ingredients in addition to manganese and silicon.\n' The sole ground of rejection is obviousness of the claimed process under 35 U.S.C. 103 in view of the following prior art:\nTensen, 1,277,523, Sept. 3,1918.\nComptes Rendus, Volume 226, June 1948, pages 2150 and 2151.\nElectric Furnace Steel Proceedings, Volume 13, 1955 (pages 70-84).\nThe examiner rejected claims 6, 11 and 12 as \u201cunpatentable over Comptes Rendus in view of the Proceedings or vice versa\u201d and rejected claims 7, 8 and 10 \u201cas claim 6 in view of Yensen.\u201d The board relied on Proceedings alone with respect to claims 6, 11 and 12 and Proceedings in view of Yensen for claims 7,8 and 10.\nProceedings is a report of work done in degassing steels by vacuum ingot casting. Plydrogen dissolved in the steel is removed by casting at pressures of about 5 mm of Hg, which removal prevents flaking of the steel during cooling of forgings. The reference lists, in addition to preventing flaking, other advantages of vacuum casting. The steel described in Proceedings, closest in Mn and Si content to that used in appellants\u2019 process, contains 0.63% Mn and 0.38% Si.\nComptes Rendus deals with making high chromium steels by vacuum melting. The Mn and Si content of representative disclosed alloys is within appellants\u2019 claimed range.\nYensen teaches melting relatively pure iron at pressures comparable with those contemplated by appellants followed by \u201cthe addition of silicon or aluminum to the molten bath while in vacuo\u201d to reduce the oxygen content. The reference is relied on to show that using deoxidizers such as aluminum with molten ferrous materials is old.\nAppellants concede that, broadly, vacuum casting of steel is old but contend that when one employs a steel whose Mn and Si content is as claimed there is obtained a low alloyed steel of \u201cgreat mechanical resistance against the effects of exposure to high temperatures\u201d which is unobvious and thus patentable.\nThe gist of the examiner\u2019s position is stated in his answer as follows:\nTile use o\u00ed vacuum casting and the inherent improvement in the mechanical properties of such casting would lead those skilled in the art to expect improved results in vacuum casting alloys of any composition.\nThe board added:\nAppellants\u2019 argument places considerable emphasis on the improved mechani-call properties of the steel produced by the claimed process. We are unimpressed by this argument as a basis for patentability for the reason that the Proceedings reference clearly discloses similar improvements as being obtained by the vacuum casting process. * * \u215c Appellants point out that the Proceedings reference is referring to \u201chigh alloy\u201d steels. This may be the case, but we are of the opinion that it would be obvious to those skilled in the art to try with any particular steel a casting process which had been found, as in the Proceedings, to be successful in improving mechanical properties of another steel. * * *\n*******\nWhile, in the view we take of the case, we consider the composition of the steel not to be the controlling factor in evaluating patentability of the appealed claims because, in our opinion, it would be obvious to apply the vacuum casting process to any steel, we note, as the Examiner points out, that Oomptes Rendus discloses vacuum casting of a steel having manganese and silicon contents within the claimed range.\nAppellants in their brief consider the issue thus:\nThis appears to be the crucial issue, namely that appellants have surprisingly found that vacuum casting of steel of a defined composition gives vastly superior results as compared with vacuum casting of other steel compositions, and that the Board of Appeals takes the position that once vacuum casting of steel was disclosed for any type of steel even if the composition thereof might be greatly different from that of the steel composition according to the appealed claims, no patentable significance could be attached to the vacuum casting of a specific steel composition even though surprisingly superior results might be obtained thereby.\nWe find no reversible error in the board\u2019s decision. Although appellants characterize their process and its results as \u201csurprising\u201d we fail to see that appellants have done anything unobvious to one skilled in this art. A fair reading of the Proceedings reference shows that vacuum casting is a technique of general applicability in casting steels and the reference points out that \u201cThe mechanical properties are likely to be influenced by the vacuum treatment; firstly, by reducing defects and improving purity in connection with the reduction of oxygen values.\u201d Assuming, arguendo, that appellants\u2019 steel is \u201csuperior\u201d in mechanical properties at high temperatures, we are not convinced that such superiority results from anything unobvious in the process claimed. Vacuum casting is admittedly old and the art teaches that better mechanical properties result from such casting alone.\nWith respect to manganese and silicon content, we do not consider the claimed values to be so different from those taught by the art as to render the process unobvious.\nThe decision of the board is affirmed.",
+        "type": "majority",
+        "author": "Bich, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Michael S. Striker for appellants.",
+      "Clarence TV. Moore (Jere TV. Sears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "333 F. 2d 250; 142 USPQ 39\nIn re Werner Coupette and Adolf Sickbert\n(No. 7177)\nUnited States Court of Customs and Patent Appeals,\nJune 25, 1964\nMichael S. Striker for appellants.\nClarence TV. Moore (Jere TV. Sears, of counsel) for the Commissioner of Patents.\n[Oral argument May 5, 1964, by Mr. Striker and Mr. Sears]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1495-01",
+  "first_page_order": 815,
+  "last_page_order": 817
+}

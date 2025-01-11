@@ -1,0 +1,62 @@
+{
+  "id": 12502174,
+  "name": "In the MATTER OF D.M.",
+  "name_abbreviation": "In re D.M.",
+  "decision_date": "2018-10-18",
+  "docket_number": "M-185 September Term 2018; 081449",
+  "first_page": "990",
+  "last_page": "990",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 990"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 181,
+    "sha256": "1749abb03bfd0eb178c2b337b3a2c64bbc3b4412fbf87fce390242516fd28b08",
+    "simhash": "1:12d66800f1939861",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF D.M."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motion of D.M. for direct certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF D.M.\nM-185 September Term 2018\n081449\nSupreme Court of New Jersey.\nOctober 18, 2018\nORDER"
+  },
+  "file_name": "0990-03",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

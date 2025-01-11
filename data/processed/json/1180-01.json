@@ -1,0 +1,63 @@
+{
+  "id": 7263372,
+  "name": "Robert C. JONES, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Jones v. Commonwealth",
+  "decision_date": "2009-04-03",
+  "docket_number": "No. 178 EM 2008",
+  "first_page": "1180",
+  "last_page": "1180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "969 A.2d 1180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 456,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661593795514987
+    },
+    "sha256": "ee12ce5822a44fe0b49af732a1b95d3cef96e930e00ce0fac15f2c068f617f42",
+    "simhash": "1:6caf31aed3c90e6e",
+    "word_count": 73
+  },
+  "last_updated": "2023-07-14T21:12:07.030871+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert C. JONES, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of April, 2009, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Habeas Corpus, the \u201cApplication to File Leave to Amend Habeas Corpus,\u201d the Application for Immediate Hearing and the \u201cApplication for Leave to File Supplement\u201d are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert C. JONES, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent.\nNo. 178 EM 2008.\nSupreme Court of Pennsylvania.\nApril 3, 2009."
+  },
+  "file_name": "1180-01",
+  "first_page_order": 1208,
+  "last_page_order": 1208
+}

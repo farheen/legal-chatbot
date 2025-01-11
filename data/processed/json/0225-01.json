@@ -1,0 +1,108 @@
+{
+  "id": 7967206,
+  "name": "The SHERIDAN CORPORATION v. William S. SILSBY, Jr. and Norene E. Silsby and Federal Trust Co.",
+  "name_abbreviation": "Sheridan Corp. v. Silsby",
+  "decision_date": "1980-01-25",
+  "docket_number": "",
+  "first_page": "225",
+  "last_page": "227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "71 A. 134",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1908,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Me. 70",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        483320
+      ],
+      "year": 1908,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/104/0070-01"
+      ]
+    },
+    {
+      "cite": "334 A.2d 874",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8067791
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "887"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/334/0874-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 2894,
+    "ocr_confidence": 0.8,
+    "pagerank": {
+      "raw": 1.1018919054442864e-07,
+      "percentile": 0.568591450698477
+    },
+    "sha256": "3bc067bc287c333334558527ae47563286d852cd3410f850e80a7b16a995c880",
+    "simhash": "1:d66d1046de83d1be",
+    "word_count": 451
+  },
+  "last_updated": "2024-02-27T19:30:58.814650+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "McKUSICK, C. J., WERNICK, GOD-FREY and GLASSMAN, JJ., and DU-FRESNE, A. R. J.",
+      "NICHOLS, J., did not sit."
+    ],
+    "parties": [
+      "The SHERIDAN CORPORATION v. William S. SILSBY, Jr. and Norene E. Silsby and Federal Trust Co."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nIn an action on a contract for the construction of a bowling alley building, plaintiff Sheridan Corporation claimed a balance due in the amount of $24,839.07 and requested enforcement of a lien. Defendants Silsby counterclaimed, alleging defective work and resulting damages. The case was tried before a referee. On this appeal neither party challenges the order of the Superior Court awarding plaintiff the balance due on the contract; plaintiff appeals from that portion of the order awarding defendants $2,780 on their counterclaim for the cost of refinishing the bowling lanes and replacing damaged exterior wall panels; defendants appeal from those provisions of the judgment that modified the referee\u2019s report by rejecting a recommended award to defendants of $10,000 for lost profits, $1,515 for the installation of restroom floor drains, and $200 for the replacement of an entryway floor mat.\nWe agree with the Superior Court that credible evidence in the record supports the finding of the referee that damage to the exterior wall panels was caused by improper installation. We also find support for the referee\u2019s conclusion that leaks in the roof caused such damage to the bowling lanes as to require refinishing. Thus, those factual findings survive the \u201cclearly erroneous\u201d test imposed by M.R.Civ.P. 53(e)(2). Accordingly, we deny plaintiff\u2019s appeal.\nWith respect to the rejected counterclaim for lost profits, we agree with the Superior Court that the referee\u2019s award of $10,000 was clearly erroneous. In Ginn v. Penobscot Co., Me., 334 A.2d 874, 887 (1975), we made clear that prospective profits are recoverable only if they can be estimated with reasonable certainty. Since the testi-mony presented by defendants as to anticipated profits was excessively speculative, the recommended award was properly rejected.\nDefendants also contend that the Superior Court erred in disallowing the referee\u2019s award for restroom drains and entryway floor covering. Those items were not described or otherwise included in the written contract (see First Nat\u2019l Bank v. Manser, 104 Me. 70, 71 A. 134 (1908)), and the evidence did not suffice to establish any subsequent modification of the contract that could properly include those items within the scope of plaintiff\u2019s contractual obligation.\nThe entry must be:\nAppeal of defendants Silsby denied.\nAppeal of plaintiff denied.\nJudgment affirmed.\nNo costs on appeal allowed to any party.\nNICHOLS, J., did not sit.\nDUFRESNE, A. R. J., sitting by assignment.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Weeks, Hutchins, Frye & Welch, Roger A. Welch (orally), Waterville, for plaintiff.",
+      "Silsby & Silsby, Raymond L. Williams (orally), Ellsworth, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "The SHERIDAN CORPORATION v. William S. SILSBY, Jr. and Norene E. Silsby and Federal Trust Co.\nSupreme Judicial Court of Maine.\nJan. 25, 1980.\nWeeks, Hutchins, Frye & Welch, Roger A. Welch (orally), Waterville, for plaintiff.\nSilsby & Silsby, Raymond L. Williams (orally), Ellsworth, for defendant.\nMcKUSICK, C. J., WERNICK, GOD-FREY and GLASSMAN, JJ., and DU-FRESNE, A. R. J."
+  },
+  "file_name": "0225-01",
+  "first_page_order": 273,
+  "last_page_order": 275
+}

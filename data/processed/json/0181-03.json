@@ -1,0 +1,92 @@
+{
+  "id": 9181255,
+  "name": "PENNSYLVANIA STATE POLICE, Petitioner, v. George W. CRIST, Respondent",
+  "name_abbreviation": "Pennsylvania State Police v. Crist",
+  "decision_date": "2004-07-13",
+  "docket_number": "",
+  "first_page": "181",
+  "last_page": "182",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "857 A.2d 181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "836 A.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9295709,
+        630478
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/836/0110-01",
+        "/pa/575/0378-01"
+      ]
+    },
+    {
+      "cite": "575 Pa. 378",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        630478
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/575/0378-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 386,
+    "ocr_confidence": 0.64,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21528455906116534
+    },
+    "sha256": "e5859839630d74504575787de37340206f034384441de14429db230765908c7b",
+    "simhash": "1:3d950b86c69cacf0",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T20:09:44.360178+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PENNSYLVANIA STATE POLICE, Petitioner, v. George W. CRIST, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of July, 2004, the Petition for Allowance of Appeal is GRANTED and the order of the Commonwealth Court is hereby REVERSED. See Pennsylvania State Police v. Paulshock, 575 Pa. 378, 836 A.2d 110 (2003). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "PENNSYLVANIA STATE POLICE, Petitioner, v. George W. CRIST, Respondent.\nSupreme Court of Pennsylvania.\nJuly 13, 2004."
+  },
+  "file_name": "0181-03",
+  "first_page_order": 211,
+  "last_page_order": 212
+}

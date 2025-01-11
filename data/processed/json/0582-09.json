@@ -1,0 +1,58 @@
+{
+  "id": 12485755,
+  "name": "Com. v. R. Victor",
+  "name_abbreviation": "Com. v. Victor",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 856 MDA 2015",
+  "first_page": "582",
+  "last_page": "582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "12f19bc6bd5539931186f7886783884d7cf1043ca0071f01626fc80a877463c2",
+    "simhash": "1:9505fea944cb90c0",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Victor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Victor\nNO. 856 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0582-09",
+  "first_page_order": 582,
+  "last_page_order": 582
+}

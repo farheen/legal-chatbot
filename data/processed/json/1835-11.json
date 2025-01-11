@@ -1,0 +1,59 @@
+{
+  "id": 12167146,
+  "name": "In re Robert T. Catlin",
+  "name_abbreviation": "In re Catlin",
+  "decision_date": "1964-10-30",
+  "docket_number": "No. 7251",
+  "first_page": "1835",
+  "last_page": "1835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.564,
+    "sha256": "d97897416d6abdf2a353410a526c8232d2f8ef37ab0d66b74ee3cd28dea2fd7b",
+    "simhash": "1:8f3b446058472c0e",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert T. Catlin"
+    ],
+    "opinions": [
+      {
+        "text": "Anchoring device.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 30, 1964\nIn re Robert T. Catlin\n(No. 7251)."
+  },
+  "file_name": "1835-11",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

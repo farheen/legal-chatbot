@@ -1,0 +1,169 @@
+{
+  "id": 6559959,
+  "name": "In re Samuel G. Stuckey",
+  "name_abbreviation": "In re Stuckey",
+  "decision_date": "1931-05-27",
+  "docket_number": "No. 2644",
+  "first_page": "1410",
+  "last_page": "1413",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 C.C.P.A. 1410"
+    },
+    {
+      "type": "parallel",
+      "cite": "50 F.2d 273"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "45 F. (2d) 918",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1841857,
+        6553333
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/45/0918-01",
+        "/ccpa/18-2/0808-01"
+      ]
+    },
+    {
+      "cite": "45 F. (2d) 251",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6553275,
+        1842142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/0803-01",
+        "/f2d/45/0251-01"
+      ]
+    },
+    {
+      "cite": "36 F. (2d) 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1769532
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/36/0302-01"
+      ]
+    },
+    {
+      "cite": "47 F. (2d) 358",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1835332,
+        6555204
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/47/0358-01",
+        "/ccpa/18-2/0971-01"
+      ]
+    },
+    {
+      "cite": "45 F. (2d) 437",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1842184,
+        6552797,
+        1842143
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/45/0437-02",
+        "/ccpa/18-2/0769-01",
+        "/f2d/45/0437-01"
+      ]
+    },
+    {
+      "cite": "192 Fed. 564",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6746207
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/192/0564-01"
+      ]
+    },
+    {
+      "cite": "44 F. (2d) 868",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1780429,
+        6551702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/44/0868-01",
+        "/ccpa/18-2/0712-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 7732,
+    "ocr_confidence": 0.452,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17677690861513548
+    },
+    "sha256": "497ac60de14d9ff89aa87bae8b03a4b3e5d8c1dfe152dd0f9df3684ec3c61d46",
+    "simhash": "1:bf2dbff5261bd6d7",
+    "word_count": 1344
+  },
+  "last_updated": "2024-02-27T17:30:13.730023+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Len-root, Associate Judges"
+    ],
+    "parties": [
+      "In re Samuel G. Stuckey"
+    ],
+    "opinions": [
+      {
+        "text": "GRAham, Presiding Judge,\ndelivered the opinion of the court:\nThe appellant has filed an application for a patent on a process for feeding molten glass into molds. His application had attached thereto an unreasonably large number of claims, amounting to 33 in all, the last 9 of which were entered for consideration on appeal to the Board of Appeals of the United States Patent Office. The examiner rejected all the claims, which decision was affirmed by the Board of Appeals. On the appeal, claims 5, 9, 11, 12, 13, 14, 24, 26, 27, 28, 29, 32, and 33 were withdrawn, and the appeal as to them was dismissed.\nThe examiner filed a very comprehensive and illuminating decision in the matter, which has assisted the court a great deal in the consideration of the case.\nIt was stated by the Board of Appeals, and is conceded to be true by the parties on the oral argument, that claim 1 is representative of the claims at issue here. Said claim is as follows:\n1. The method -of feeding molten glass into molds which consists in alternately importing extrusive and intrusive movements to a body of molten glass by means of air pressure above and below normal thereon, restoring atmospheric pressure at the extreme end of each movement automatically, and severing a predetermined quantity of glass from said body at the end of the extrusive movement.\nThe claims were rejected by the Board of Appeals on reference to Peiler, 1405936, of February 7, 1922.\nThe appellant\u2019s process is carried out by means of an apparatus upon which a patent has been issued to him and which apparatus, in brief, consists of a well for containing molten glass, and which well is in communication with the molten glass in a furnace. A bell extends downward through the top of the container surrounding said well, into the molten glass, and over an outlet from said well. Through this outlet, by force of gravity and by the process hereinafter mentioned, molten glass passes and is forced in gobs of desired weights and sizes. The bell is connected by an air pipe with a cylinder, which cylinder contains a piston and by means of the operation of which piston air is alternately forced into the top of said bell and withdrawn therefrom. In this way, as the successive impulses of air enter the bell and impinge upon the surface of the molten glass therein, quantities or gobs of said molten glass are caused to be extruded through an opening in the bottom of said well, which has been heretofore referred to. When air is withdrawn from said bell an opposite effect is produced, having a tendency to impede or even stop the flow of said molten glass through said opening. Automatic shears are also properly located below said opening to cut said portions of glass off at the proper time. The bottom of said 'bell is adjustable during the operation to increase or decrease the amount of glass to pass through said opening. The length of the stroke in said piston is also adjustable during operation by proper mechanical means. The piston is arranged with two poppet valves so that when it arrives near the top of the cylinder one valve is opened, which releases the pressure in the well. The other valve is so arranged, that when the piston reaches its lowest point in the cylinder this valve is opened, permitting air to enter into the top portion of the cylinder, a vacuum or partial vacuum in the well being created in the down stroke of the piston.\nThe reference Peiler is a device patent and has no process claims. This reference shows a similar well and bell over the opening through which molten glass is extruded. Air is alternately forced into said well and drawn therefrom by means of a piston operating within a cylinder. Shears are also provided for cutting off the required quantity of material. The forcing of air into said bell and the withdrawal of air therefrom is effected by means of two pipes and two valves, the air entering through one pipe and valve and being withdrawn through the other pipe and valve. The operation of these valves and the injection and withdrawal of the air from said bell is controlled by cams which may be set, as required, to operate at any time.\nWe agree with the Board of Appeals that the Peiler reference anticipates appellant\u2019s application. Appellant relies almost entirely upon the one feature of his claims, namely, that portion stating \u201c restoring atmospheric pressure at the extreme end of each movement automatically.\u201d Peiler\u2019s device has inherently the same functions. He states in his specification:\n* * * Thus by turning the handwheels controlling the valves, the cams may be positioned to open the air system to atmosphere at any desired time, and thus vary the duration of both compression and vacuum.\nIt is obvious from this excerpt and from a consideration of the entire specification of Peiler that his device is capable of adjustment in its ordinary operation so that atmospheric pressure will be restored at the extreme ends of the movement of his piston in the pressure cylinder, automatically. If the function is inherent in this device patent, it is an anticipation of the present application for a process patent. In re Watson, 18 C. C. P. A. (Patents) 712, 44 F. (2d) 868; Century Electric Co. v. Wagner, etc., 192 Fed. 564; In re Achenbach, 18 C. C. P. A.. (Patents) 769, 45 F. (2d) 437.\nPeiler is entitled to any use of his device to which his disclosure shows it may be put. Braren v. Horner, 18 C. C. P. A. (Patents) 971, 47 F. (2d) 358; In re Smith, 17 C. C. P. A. (Patents) 644, 36 F. (2d) 302; In re Downs et al., 18 C. C. P. A. (Patents) 803, 45 F. (2d) 251; In re Metzger, 18 C. C. P. A. (Patents) 808, 45 F. (2d) 918.\nOur attention has been called to an opinion of Judge Davis, filed in the United States District Court for the eastern division of the Eastern District of Missouri, on February 24, 1931, in which the Peiler patentee brought infringement suit against Obear Nester Glass Co. and the appellant here. Several patents were involved in tills litigation, including the reference relied upon here and a patent, No. 1677436, granted to one Enoch T. Ferngren. The only question involved in that case was whether the sale and use of the Stuckey device was an infringement, upon the rights secured principally under the Peiler patent referred to herein, No. 1405936. While other matters incidentally arose in the case, this was the principal issue. The court held, after discussing the mechanical operation and construction of the various devices, that there was no infringement, and that the devices were unlike in many essential particulars. Weight was also given by Judge Davis to the circumstance that a patent had been granted to Stuckey subsequent to the Peiler patents, which circumstance was taken as some indication, at least, that the devices were considered to be different by the Patent Office. No question of process claims arose in that case. It might well be that this court would find itself in agreement with the opinion of the court just cited, were the question here one of conflict between the patentability of the devices there in question. We have, however, no such question before us for consideration.\nWe are of opinion the decision of the Board of Appeals in rejecting appellant\u2019s claims was correct, and the decision is affirmed.",
+        "type": "majority",
+        "author": "GRAham, Presiding Judge,"
+      }
+    ],
+    "attorneys": [
+      "Byron B. Oollmgs {B. B. Bong'an and John 8. Barker of counsel) for appellant.",
+      "T. A. Hostetler (Hoioard, 8. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "50 F. (2d) 273\nIn re Samuel G. Stuckey\n(No. 2644)\nUnited States Court of Customs and Patent Appeals,\nMay 27, 1931\nByron B. Oollmgs {B. B. Bong'an and John 8. Barker of counsel) for appellant.\nT. A. Hostetler (Hoioard, 8. Miller of counsel) for the Commissioner of Patents.\n[Oral argument May 4, 1931, by Mr. Barker and Mr. Miller]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Len-root, Associate Judges"
+  },
+  "file_name": "1410-01",
+  "first_page_order": 728,
+  "last_page_order": 731
+}

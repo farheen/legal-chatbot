@@ -1,0 +1,62 @@
+{
+  "id": 12487949,
+  "name": "Gary Cooke v. Commissioner of Correction",
+  "name_abbreviation": "Cooke v. Comm'r of Corr.",
+  "decision_date": "2016-10-04",
+  "docket_number": "No. 38072",
+  "first_page": "502",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "149 A.3d 502"
+    },
+    {
+      "type": "parallel",
+      "cite": "168 Conn. App. 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 182,
+    "sha256": "3b6a72a06ed140014dea06cc38f339b179f934e5efd16821fa4a7bd9dd5bbfac",
+    "simhash": "1:90e78dc763a524a8",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.005679+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Cooke\nv.\nCommissioner of Correction"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe appeal is dismissed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary Cooke\nv.\nCommissioner of Correction\nNo. 38072\nAppellate Court of Connecticut.\nArgued September 15, 2016\nOfficially released October 4, 2016"
+  },
+  "file_name": "0502-03",
+  "first_page_order": 502,
+  "last_page_order": 502
+}

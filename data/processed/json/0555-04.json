@@ -1,0 +1,64 @@
+{
+  "id": 12489742,
+  "name": "SANTOS, Anthony v. STATE of Maryland",
+  "name_abbreviation": "Santos v. State",
+  "decision_date": "2017-05-22",
+  "docket_number": "Pet. Docket No. 509, Sept. Term, 2016",
+  "first_page": "555",
+  "last_page": "555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 A.3d 555"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 159,
+    "sha256": "f6471437c1dc5120c8247f400d99fab4c9f4049a126cfa2efdf7b6a9ca779a3b",
+    "simhash": "1:21c64215c0e90715",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.016011+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SANTOS, Anthony\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "SANTOS, Anthony\nv.\nSTATE of Maryland\nPet. Docket No. 509, Sept. Term, 2016\nCourt of Appeals of Maryland.\nMay 22, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0555-04",
+  "first_page_order": 555,
+  "last_page_order": 555
+}

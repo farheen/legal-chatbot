@@ -1,0 +1,59 @@
+{
+  "id": 6082984,
+  "name": "In re Smyth",
+  "name_abbreviation": "In re Smyth",
+  "decision_date": "1932-11-04",
+  "docket_number": "No. 3026",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 77,
+    "ocr_confidence": 0.548,
+    "sha256": "3dd894b6b9d0db4549e36045f8764d8e26d1c2041023b77668294ad7d458139b",
+    "simhash": "1:e4acc58583236461",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Smyth"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in propelling system.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 4, 1932\nIn re Smyth\n(No. 3026). \u2014"
+  },
+  "file_name": "1227-08",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

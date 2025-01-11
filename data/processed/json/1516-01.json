@@ -1,0 +1,104 @@
+{
+  "id": 12166060,
+  "name": "In re Robert M. Smith and Frederick C. Haigh",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "1965-07-01",
+  "docket_number": "No. 7399",
+  "first_page": "1516",
+  "last_page": "1521",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1516"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 204"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 855"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "324 F. 2d 998",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6091837,
+        104703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0845-01",
+        "/f2d/324/0998-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 845",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091837
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0845-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 589,
+    "char_count": 10695,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24678813320776616
+    },
+    "sha256": "b83e01e2a5704b19ea2940dd89f1d1171acd6f0021952e1c37ae002d88d23ca4",
+    "simhash": "1:1d7c7e2d1f85b614",
+    "word_count": 1664
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Robert M. Smith and Frederick C. Haigh"
+    ],
+    "opinions": [
+      {
+        "text": "Worley, Chief Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals affirming the examiner\u2019s rejection of claims 2 and 4-7 in appellants\u2019 patent application for \u201cUltraviolet Light-Absorbing Resins and Containers Coated Therewith.\u201d\nThe nature of the subject matter involved is reflected in claim 2:\n2. An ultraviolet light-absorbing reaction product of an epoxy resin with an organic amine curing agent for said epoxy resin in the presence of from 0.01 to 10 weight percent of a hydroxybenzophenone based on the weight of said epoxy resin wherein said hydroxybenzophenone has the formula:\nwhere A is H, \u2014OH, or \u2014OR\nB is H or \u2014OH and\nC is \u2014OH or \u2014OR\nwhere R is an alkyl group having from one to eight carbon atoms, the reaction being effected by intimately admixing said epoxy resin, said amine curing agent and said hydroxybenzophenone and allowing reaction to take place.\nIt appears from the record that a number of substituted hydroxyben-zophenones have been used as ultraviolet light-absorbers in the stabilization of a wide variety of plastics. Appellants assert in their specification that if certain hydroxybenzophenone ultraviolet light-absorbers, delineated above in claim 2, are incorporated in an epoxy resin along with an organic amine curing agent for the epoxy, there is produced upon reaction of the epoxy and curing agent a cured resin which has \u201cpronouncedly higher absorption for ultraviolet and near ultraviolet rays\u201d than would be expected from a consideration of the absorption characteristics of the benzophenone compound alone or when placed in other resins. The specification states that while it is not definitely known whether the benzophenone compound reacts with the amine curing agent so as to chemically change the benzophenone compound, it appears as a \u201cdistinct possibility\u201d since the ultraviolet absorption of the cured epoxy resin-amine-benzophenone mixture is quite high. Appellants propose to utilize their epoxy compositions to coat such articles as glass containers to protect the contents of the container against deleterious effects of ultraviolet light.\nThe references are:\nGreenlee, 2,585,115, February 12, 1952.\nHardy et al., 2,976,259, March 21, 1961.\nThe examiner rejected the claims as unpatentable over Hardy in view of Greenlee. He noted that Hardy discloses the benzophenone compounds employed by appellants. According to Hardy, the compounds are useful as ultraviolet light absorbers in a \u201ctremendous array of suitable synthetic resin carrier materials.\u201d Among the resins mentioned by Hardy are \u201cepoxy resins as exemplified by the condensates of epichlorohydrin with bis-phenol.\u201d While Hardy does not disclose specific curing agents for the epoxy resin or many other resins disclosed, he states that\nThe preparation, shaping, curing, extrusion, calendaring, casting, molding or other forming of these resins is well understood by those skilled in the aft and accordingly need not be detailed here. * * * [Emphasis supplied.]\nHardy describes his compositions as \u201cpurely physical mixtures inasmuch as no reaction takes place between the hydroxylated benzo-phenone ethers and the carrier materials.\u201d\nTo fill the void present in Hardy with respect to a disclosure of specific curing agents, the examiner turned to Greenlee for his teaching that organice amines have long been used to cure epoxy resins. Since appellants concede in their specification that amine curing agents for epoxy resins are \u201cwell known,\u201d further discussion of Greenlee appears unnecessary, beyond noting that Greenlee found amine-cured epoxy resins to have \u201chigher resistance to ultraviolet light (minimum ultraviolet absorption).\u201d [Emphasis supplied.]\nUpon combining Hardy with either Greenlee or appellants\u2019 admission, the examiner found the claimed subject matter obvious to those of ordinary skill in the art. He dismissed appellants\u2019 argument that unexpected and synergistic results are obtained with the claimed composition by stating:\n* * * because the composition of the claims is taught by the art, the argument urged by appellants that the composition is patentable in view of the increased ultraviolet light absorbency due to the presence of the amine curing agent, is moot.\nThe board rejected the examiner\u2019s position, and properly so. In re Huellmantel, 51 CCPA 845, 324 F. 2d 998, 139 USPQ 496. Finding the compositions \u201cclearly novel,\" the board regarded the question of unobviousness under 35 U.S.C. 103 to become the decisive issue, and turned to a consideration of the data presented in Tables 1 and 2 of appellants\u2019 specification to determine whether the claimed subject matter meets the standards required by that statutory provision.\nWe interrupt our narrative of the proceedings below to present, in somewhat condensed tabular form, the data which appellants placed in their specification:\nPERCENT TRANSMITTANCE ABSORBER\nIn genera], the above table compares the per cent transmittance of ultraviolet, light, by certain epoxy resins as a function of wavelength of the light as well as the particular material upon which the light impinges. The first column denotes the wavelength of light employed in tire near ultraviolet range. The second column represents per cent transmittance of various wavelengths of ultraviolet light by a thickness of flint glass, a type of glass used in bottles. The two columns headed \u2018\u2018None\" represent per cent transmittance by cured epoxy resins having no ultraviolet light absorber therein which are coated on the glass. The column under \u201cNone\u201d headed \u201cAmine\u201d denotes results obtained with an amine cured epoxy resin coated on glass, while the column headed \u201cCitric\u201d denotes results obtained with a citric acid cured epoxy resin also coated on glass. It is seen that the amine cured resin absorbs less, and transmits more, ultraviolet light than does the citric acid cured resin. Similarly, columns headed by B, C, D and F represent results obtained when four ultraviolet light absorbers within the scope of the appealed claims are placed in equal amounts in the amine and citric acid cured resins. Appellants state that one would expect from the above data in columns headed \u201cNone\u201d that addition of equal amounts of benzophenones to the amine and citric acid cured epoxies would yield products having comparable light absorption capabilities\u2014indeed, if anything, one would expect the amine cured resin to exhibit slightly poorer results in that regard. They urge that the data in columns B, C, D and F unexpectedly shows \u201cjust the opposite to be true, and the remarkable differences can only be expressed in terms of \u2018synergistic.\u2019 \u201d\nThe board stated:\nIn examining the above data, we find that while, as appellants contend, it shows that \u201cultraviolet light transmittance of epoxy resins is subsantially unaffected by the presence of amines,\u201d and that the addition of substituted hydroxybenzophe-none to an amine-cured epoxy resin produces increased ultraviolet light absorbency, it fails to show, by means of comparative data, what the effect would be when hydroxybenzophenone is added to the epoxy resin, per ac, i.e., epoxy resin not cured by amine, such as disclosed, for example, in Hardy et al. There is nothing in the record to show that the addition of hydroxybenzophenone to an amine-cured resin produces improved results, with respect to ultraviolet light absorbency as compared to the Hardy et al. composition, which omits the amine curing agent.\nIn the absence of such a comparative showing, we are of the opinion that appellants have not sustained their burden of persuasion that the claimed combination produces unexpected and synergistic results. * * *\nIn a decision on reconsideration, the board amplified its earlier holding:\nWe see no distinction in the \u201cepoxy resins\u201d used in Hardy et al., as a carrier for the hydroxybenzophenone, and appellants\u2019 \u201cepoxy resins\u201d to which they add amine curing agents. If the Hardy et al. \u201cepoxy resins\u201d must have contained a curing agent, as appellants contend, then appellants\u2019 \u201cepoxy resins\u201d must have also contained another curing agent, in addition to the amine, which would reflect on appellants\u2019 contention that there is a \u201csynergistic\u201d action between amine-cured epoxy resins and the hydroxybenzophenone compound.\nAppellants argue the board erred in requiring submission of data establishing the effect of adding benzophenones to uncured epoxy resin, particularly in absence of convincing reasons why that data is necessary to establish the efficacy of the amine cured epoxy resins containing benzophenones. We agree with appellants, since we see little, if any, relevance such a showing would have to the herein claimed subject matter. While Hardy does not specifically mention an amine curing agent for the epoxy resins disclosed by him, it is believed apparent that he contemplates placing the disclosed benzo-phenones in a cured epoxy resin of some sort. As appellants point out, epoxy resins in the uncured state are liquids and thermoplastic solids, and require curing agents to crosslink them into three-dimensional structures. We think appellants have presented a fair comparison of their claimed compositions with other epoxy resins in the cured state which contain the same ultraviolet light absorbing compounds, both being encompassed within the very broad disclosure of Hardy.\nWeighing the evidence in the record before us, we are satisfied the claimed subject matter as a whole would not have been obvious to one of ordinary skill.\nThe decision is reversed.\nSerial No. 68,363, filed November 10, 1960.\nIn their brief here, appellants state that the near column-long list of resins set forth by Hardy \u201cencompass literally hundreds, if not thousands, of different resins/\u2019\nThe wavelength range of so-called \u201cvacuum\u201d and \u201cnear\u201d ultraviolet light extends from 100 m/j, to 400 m/i.\nThose results appear consonant with the statement of Greenlee, earlier noted, that amine cured epoxies have minimum ultraviolet absorption.\nThe record shows there are many known curing agents for epoxy resins other than .amines, such as alkali metal hydroxides, various organic acids and acid anhydrides, boron tdtluordie, and the like.",
+        "type": "majority",
+        "author": "Worley, Chief Judge,"
+      }
+    ],
+    "attorneys": [
+      "Francis C. Browne, William E. Schuyler, Jr., Andrew B. Beveridge, Charles S. Lynch, Joseph A. DeGrandi for appellants.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 855; 146 USPQ 204\nIn re Robert M. Smith and Frederick C. Haigh\n(No. 7399)\nUnited States Court of Customs and Patent Appeals,\nJuly 1, 1965\nFrancis C. Browne, William E. Schuyler, Jr., Andrew B. Beveridge, Charles S. Lynch, Joseph A. DeGrandi for appellants.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument May 3, 1965 by Mr. DeGrandi and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1516-01",
+  "first_page_order": 840,
+  "last_page_order": 845
+}

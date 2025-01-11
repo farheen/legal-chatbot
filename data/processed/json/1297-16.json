@@ -1,0 +1,59 @@
+{
+  "id": 6083342,
+  "name": "In re William B. Wescott",
+  "name_abbreviation": "In re Wescott",
+  "decision_date": "1931-11-20",
+  "docket_number": "No. 2934",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "ocr_confidence": 0.489,
+    "sha256": "fa089da5b34bd39beefd1ec32ba0e90a28826dac7dce01d745ca27181c77b96e",
+    "simhash": "1:81240e902824f45c",
+    "word_count": 20
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William B. Wescott"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in reinforced rubber and processes of making the same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "NOVEMBER 20, 1931\nIn re William B. Wescott\n(No. 2934)."
+  },
+  "file_name": "1297-16",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

@@ -1,0 +1,153 @@
+{
+  "id": 7292350,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Wendy Colleen KNELLER, Respondent",
+  "name_abbreviation": "Commonwealth v. Kneller",
+  "decision_date": "2009-12-31",
+  "docket_number": "",
+  "first_page": "716",
+  "last_page": "717",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "987 A.2d 716"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "844 A.2d 1228",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        91732,
+        9272965
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1288",
+          "parenthetical": "conspirator responsible for acts of co-conspirator done in furtherance of agreement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0275-01",
+        "/a2d/844/1228-01"
+      ]
+    },
+    {
+      "cite": "577 Pa. 275",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        91732
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "conspirator responsible for acts of co-conspirator done in furtherance of agreement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/577/0275-01"
+      ]
+    },
+    {
+      "cite": "808 A.2d 893",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11365392,
+        270315
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "907-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/808/0893-01",
+        "/pa/570/0117-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 117",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270315
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/570/0117-01"
+      ]
+    },
+    {
+      "cite": "971 A.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7296257
+      ],
+      "pin_cites": [
+        {
+          "page": "504"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/971/0495-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 128,
+    "char_count": 1299,
+    "ocr_confidence": 0.692,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18833337387623758
+    },
+    "sha256": "7f35cfd1a0acbbc489c6528cf9aaa8c8229f86bcdb0c1bc672943cbe67e51c0d",
+    "simhash": "1:b908fea88f8377b2",
+    "word_count": 199
+  },
+  "last_updated": "2024-02-27T23:16:30.161334+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Wendy Colleen KNELLER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of December, 2009, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Superior Court is VACATED, and the issue REMANDED to the Superior Court for further proceedings pursuant to Judge Stevens\u2019 dissenting opinion. Commonwealth v. Kneller, 971 A.2d 495, 504 (Pa.Super.2009) (en banc) (Stevens, J., dissenting). The Commonwealth, as verdict winner, is entitled to have the facts reviewed in the light most favorable to it. Commonwealth v. Drumheller, 570 Pa. 117, 808 A.2d 893, 907-08 (2002). The facts, viewed accordingly, reveal no immediate need to kill the dog, a directive by respondent to her co-defendant to kill the dog, and the unquestionably malicious beating of the dog before it was shot. These facts provide sufficient evidence to support respondent\u2019s conviction of conspiracy to commit cruelty to animals, and should not have been undone because of considerations of a dog owner\u2019s authority to humanely shoot the dog. See Commonwealth v. Murphy, 577 Pa. 275, 844 A.2d 1228, 1288 (2004) (conspirator responsible for acts of co-conspirator done in furtherance of agreement). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Wendy Colleen KNELLER, Respondent.\nSupreme Court of Pennsylvania.\nDec. 31, 2009."
+  },
+  "file_name": "0716-02",
+  "first_page_order": 764,
+  "last_page_order": 765
+}

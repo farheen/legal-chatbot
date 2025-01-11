@@ -1,0 +1,58 @@
+{
+  "id": 12486463,
+  "name": "Com. v. J. Kreiser",
+  "name_abbreviation": "Com. v. Kreiser",
+  "decision_date": "2016-03-04",
+  "docket_number": "NO. 1220 MDA 2015",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "655dd32ea6683ad861e9a298a4bf273c8039a067cee1bf035e1baf547ef8bc9d",
+    "simhash": "1:1d0bc1c5c00755a5",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Kreiser"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Kreiser\nNO. 1220 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 04, 2016\nAffirmed."
+  },
+  "file_name": "0190-07",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

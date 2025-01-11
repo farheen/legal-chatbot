@@ -1,0 +1,58 @@
+{
+  "id": 12488236,
+  "name": "Com. v. Strasser, B.",
+  "name_abbreviation": "Com v. Strasser",
+  "decision_date": "2016-05-03",
+  "docket_number": "1687 WDA 2014",
+  "first_page": "1133",
+  "last_page": "1133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "6cab67803f32dc56ebe2d92d84ccd7695d782134ee4e11f816a3416458c5f2ea",
+    "simhash": "1:144144fadeab8614",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nStrasser, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nStrasser, B.\n1687 WDA 2014\nSuperior Court of Pennsylvania.\nMay 3, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1133-06",
+  "first_page_order": 1133,
+  "last_page_order": 1133
+}

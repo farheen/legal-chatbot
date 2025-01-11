@@ -1,0 +1,58 @@
+{
+  "id": 12487628,
+  "name": "Lamar Brown v. Lt. David Sayors, et al.",
+  "name_abbreviation": "Brown v. Sayors",
+  "decision_date": "2016-07-13",
+  "docket_number": "NO. 1509 CD 15",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 826"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 149,
+    "sha256": "f62de5555ecee02101ba7f9a3704023b8664a9310aea9296c976600b57bb66b7",
+    "simhash": "1:34a3df6685d23965",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamar Brown\nv.\nLt. David Sayors, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lamar Brown\nv.\nLt. David Sayors, et al.\nNO. 1509 CD 15\nCommonwealth Court of Pennsylvania\nJuly 13, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0826-07",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

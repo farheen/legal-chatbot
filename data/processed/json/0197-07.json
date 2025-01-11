@@ -1,0 +1,58 @@
+{
+  "id": 12486566,
+  "name": "Com. v. M. Willits",
+  "name_abbreviation": "Com. v. Willits",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 1380 MDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 117,
+    "sha256": "60435ac19688a65770a71be18b9b9fbd7f1ecbbeb2afdad70a5d27be8d2ce59d",
+    "simhash": "1:e0cb7c5516ba9ce4",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Willits"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Willits\nNO. 1380 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0197-07",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

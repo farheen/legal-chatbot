@@ -1,0 +1,64 @@
+{
+  "id": 12486855,
+  "name": "Yuan v. Johns Hopkins Univ.",
+  "name_abbreviation": "Yuan v. Johns Hopkins Univ.",
+  "decision_date": "2016-08-19",
+  "docket_number": "Pet. Docket No. 195; Sept. Term, 2016",
+  "first_page": "706",
+  "last_page": "706",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 706"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 412"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "270ee3494e101110359f8c1096f7b820e615daf270208037fce969fb4a620ab3",
+    "simhash": "1:3067560194484290",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yuan\nv.\nJohns Hopkins Univ."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "Yuan\nv.\nJohns Hopkins Univ.\nPet. Docket No. 195\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 19, 2016\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0706-04",
+  "first_page_order": 706,
+  "last_page_order": 706
+}

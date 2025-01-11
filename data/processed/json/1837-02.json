@@ -1,0 +1,59 @@
+{
+  "id": 12167629,
+  "name": "In re Pierre Edmond Jules Marie Maldaque",
+  "name_abbreviation": "In re Maldaque",
+  "decision_date": "1965-01-13",
+  "docket_number": "No. 7551",
+  "first_page": "1837",
+  "last_page": "1837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1837"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "ocr_confidence": 0.513,
+    "sha256": "131e2cd934b1fe88166045dcf13cfe87d61eeaf97656a62efa99ce0b8752cafe",
+    "simhash": "1:f6fa19a21ce4e82d",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Pierre Edmond Jules Marie Maldaque"
+    ],
+    "opinions": [
+      {
+        "text": "Nuclear power station.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 13, 1965\nIn re Pierre Edmond Jules Marie Maldaque\n(No. 7551)."
+  },
+  "file_name": "1837-02",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488732,
+  "name": "In re C.D.",
+  "name_abbreviation": "In re C.D.",
+  "decision_date": "2016-08-19",
+  "docket_number": "16-132",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "85cb5eff1917bfc6ac155981c611bc64c292243b8edad3bc95efd95b0b829a30",
+    "simhash": "1:46330f12def6c241",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re C.D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re C.D.\n16-132\nSupreme Court of Vermont.\nAugust 19, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0344-07",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

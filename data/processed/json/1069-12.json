@@ -1,0 +1,59 @@
+{
+  "id": 6081654,
+  "name": "In re Palmer",
+  "name_abbreviation": "In re Palmer",
+  "decision_date": "1952-05-08",
+  "docket_number": "No. 5903",
+  "first_page": "1069",
+  "last_page": "1069",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 C.C.P.A. 1069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "ocr_confidence": 0.475,
+    "sha256": "dd598089433e502bb68fb75b049a31d57456544b74dc8563235f5639c95b7669",
+    "simhash": "1:f7d9f250cfe55395",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T17:22:55.380782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Palmer"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in furnaces of the magazine fuel feed type.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 8, 1952\nIn re Palmer\n(No. 5903)."
+  },
+  "file_name": "1069-12",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

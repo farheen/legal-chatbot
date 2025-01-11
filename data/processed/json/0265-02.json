@@ -1,0 +1,105 @@
+{
+  "id": 7365403,
+  "name": "OMEGA FINANCIAL CORPORATION v. Fred S. HASHWAY, Jr. et al.",
+  "name_abbreviation": "Omega Financial Corp. v. Hashway",
+  "decision_date": "1993-11-18",
+  "docket_number": "No. 92-632-Appeal",
+  "first_page": "265",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 A.2d 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "115 R.I. 144",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3115400
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "146"
+        },
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/115/0144-01"
+      ]
+    },
+    {
+      "cite": "108 R.I. 1",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3158828
+      ],
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/108/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 177,
+    "char_count": 1871,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18951104871365088
+    },
+    "sha256": "102e8f7723d655c256ecadd6b6b56076ffd33c5c84091df4751df4d67c253ea0",
+    "simhash": "1:9065dfe99b45d4c8",
+    "word_count": 307
+  },
+  "last_updated": "2024-02-27T23:13:25.308524+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, Acting C.J., did not participate."
+    ],
+    "parties": [
+      "OMEGA FINANCIAL CORPORATION v. Fred S. HASHWAY, Jr. et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court for oral argument on November 16, 1993, pursuant to an order directing defendants to show cause why their appeal from the granting of plaintiffs motion to dismiss defendants\u2019 earlier appeal should not be summarily decided. Omega Financial Corporation (plaintiff) moved to dismiss because of the failure of the defendants, Fred S. Hashway, Jr., Stephen A. Gordon, James D. Levitt, Leo Gannon, and John Ridlon, to perfect their appeal in accordance with Rule 11 of the Supreme Court Rules of Appellate Procedure.\nAfter reading the memoranda submitted by the parties and after hearing the arguments of counsel, we are of the opinion that cause has not been shown. The issues will be summarily decided.\nThe underlying case concerns an alleged default on a promissory note executed by defendants. We are of the opinion that the trial justice appropriately granted the motion to dismiss based on the directives set forth in Supreme Court Rule 11(a), (c), (f), and Rule 10(b). We have upheld the Superior Court\u2019s dismissals of appeals based on an appellant\u2019s failure to order a transcript within ten days. Edward v. City of Newport, 108 R.I. 1, 271 A.2d 464 (1970). This court reviews the dismissal of an appeal only when the trial justice evidences an abuse of discretion. Armstrong v. Armstrong, 115 R.I. 144, 146, 341 A.2d 37, 39 (1975). In the instant case, defendants neither sought an extension of time to transmit the record, nor justified their failure to comply with Rule 11(c).\nConsequently, we deny and dismiss defendants\u2019 appeal and affirm the judgment of the Superior Court.\nWEISBERGER, Acting C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Steven K. Parnagian, Providence.",
+      "Gerard DeCelles, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "OMEGA FINANCIAL CORPORATION v. Fred S. HASHWAY, Jr. et al.\nNo. 92-632-Appeal.\nSupreme Court of Rhode Island.\nNov. 18, 1993.\nSteven K. Parnagian, Providence.\nGerard DeCelles, Providence."
+  },
+  "file_name": "0265-02",
+  "first_page_order": 319,
+  "last_page_order": 320
+}

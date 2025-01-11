@@ -1,0 +1,64 @@
+{
+  "id": 12486867,
+  "name": "Johnson, Phillip v. State of Maryland",
+  "name_abbreviation": "Johnson v. State",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 212; Sept. Term, 2016",
+  "first_page": "709",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 709"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 162,
+    "sha256": "6ea94ea9e3a1937143ef643cc6f736f5ceaa90fe1a5b1fd8863a9ad554c77574",
+    "simhash": "1:0c6bce70c0dd1654",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnson, Phillip\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Johnson, Phillip\nv.\nState of Maryland\nPet. Docket No. 212\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0709-04",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

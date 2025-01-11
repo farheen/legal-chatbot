@@ -1,0 +1,59 @@
+{
+  "id": 11160787,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Robert HUNTER, Respondent",
+  "name_abbreviation": "Commonwealth v. Hunter",
+  "decision_date": "2000-11-17",
+  "docket_number": "",
+  "first_page": "1082",
+  "last_page": "1083",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "762 A.2d 1082"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 501,
+    "ocr_confidence": 0.653,
+    "sha256": "2756867a3dbff8304dcdba6b5c58b85fb81296bfec338a9cbb7098b63bdb25f1",
+    "simhash": "1:994f873707ab25ee",
+    "word_count": 82
+  },
+  "last_updated": "2023-07-14T19:39:20.265197+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Robert HUNTER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 17th day of November, 2000, the Petition for Alowance of Appeal is DENIED. The June 23, 2000, order of the Superior Court denying the Petition for Review of the trial court\u2019s denial of bail is VACATED, and the bail matter is REMANDED to the trial court for reconsideration in light of the denial of the Commonwealth\u2019s Petition for Alowance of Appeal.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Robert HUNTER, Respondent.\nSupreme Court of Pennsylvania.\nNov. 17, 2000."
+  },
+  "file_name": "1082-03",
+  "first_page_order": 1124,
+  "last_page_order": 1125
+}

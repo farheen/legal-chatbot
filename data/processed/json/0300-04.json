@@ -1,0 +1,58 @@
+{
+  "id": 12490528,
+  "name": "PLATT, C. v. UCBR",
+  "name_abbreviation": "Platt v. Ucbr",
+  "decision_date": "2017-04-04",
+  "docket_number": "1497 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "9a787c150678299e3f5ed3855b2f0630decf904fc10ba6da5c851f75dd21e939",
+    "simhash": "1:2d07e634c8a8b67d",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PLATT, C.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "PLATT, C.\nv.\nUCBR\n1497 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 4, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-04",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

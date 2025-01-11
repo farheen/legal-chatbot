@@ -1,0 +1,84 @@
+{
+  "id": 9492340,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kendall",
+  "decision_date": "2001-08-10",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "784 A.2d 386",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "opinion_index": 0
+    },
+    {
+      "cite": "557 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56867
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0429-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 413,
+    "ocr_confidence": 0.644,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21843590108921407
+    },
+    "sha256": "14348674a171767c2440f7218f3092b808e3728ede1024fbd51271adc11af693",
+    "simhash": "1:6ce51005f18e4db6",
+    "word_count": 67
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 10th day of August 2001, the petition for allowance of appeal is GRANTED, limited to the issue of whether there is a conflict between the holding in the instant case and this court\u2019s holding in Commonwealth v. Scavello, 557 Pa. 429, 784 A.2d 386 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Gregory Philip KENDALL, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 10, 2001."
+  },
+  "file_name": "0490-01",
+  "first_page_order": 532,
+  "last_page_order": 532
+}

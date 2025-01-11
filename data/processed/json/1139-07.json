@@ -1,0 +1,58 @@
+{
+  "id": 12488325,
+  "name": "Com. v. Ludovici, J.",
+  "name_abbreviation": "Com v. Ludovici",
+  "decision_date": "2016-05-06",
+  "docket_number": "1576 MDA 2015",
+  "first_page": "1139",
+  "last_page": "1139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "082821d3ff4ded12cd3e5454ef247153ec5007c6154cfd6162ba507d7ca7a66c",
+    "simhash": "1:985c76d15ccb1d70",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLudovici, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLudovici, J.\n1576 MDA 2015\nSuperior Court of Pennsylvania.\nMay 6, 2016\nAffirmed"
+  },
+  "file_name": "1139-07",
+  "first_page_order": 1139,
+  "last_page_order": 1139
+}

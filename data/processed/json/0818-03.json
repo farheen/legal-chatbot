@@ -1,0 +1,64 @@
+{
+  "id": 12488152,
+  "name": "ROCHKIND v. STEVENSON",
+  "name_abbreviation": "Rochkind v. Stevenson",
+  "decision_date": "2016-12-02",
+  "docket_number": "Pet. Docket No. 430, Sept. Term, 2016",
+  "first_page": "818",
+  "last_page": "818",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 818"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 663"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "efc54d82e1908e71c026ac68b9a31f049be870bdeccdc48a9c986964cd44032a",
+    "simhash": "1:2c77d447846c101d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROCHKIND\nv.\nSTEVENSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "ROCHKIND\nv.\nSTEVENSON\nPet. Docket No. 430, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 2, 2016\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0818-03",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

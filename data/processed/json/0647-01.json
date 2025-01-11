@@ -1,0 +1,90 @@
+{
+  "id": 9493658,
+  "name": "STATE of Rhode Island v. Cesar A. LOPEZ",
+  "name_abbreviation": "State v. Lopez",
+  "decision_date": "2001-09-18",
+  "docket_number": "No. 01-206-M.P.",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "742 A.2d 728",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11500872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/0728-01"
+      ]
+    },
+    {
+      "cite": "665 A.2d 1336",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7883296
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/665/1336-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 128,
+    "char_count": 1413,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21845018763642204
+    },
+    "sha256": "15c1ac3bc6f4b27c2bd058e30301bd26d1f4ad89593461618274ffb05862b7d8",
+    "simhash": "1:7f89717310d76d36",
+    "word_count": 232
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Rhode Island v. Cesar A. LOPEZ"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe state in this criminal case seeks a writ of certiorari to review a trial justice\u2019s decision granting defendant\u2019s motion for new trial. The trial justice, in ruling on the motion, conditionally disregarded the state\u2019s claim that the new trial motion had not been filed within ten days after the jury\u2019s guilty verdict as required by Super. R.Crim. P. 38, and that consequently the court did not have jurisdiction to act on it. State v. Heath, 665 A.2d 1336 (R.I.1995); State v. Rodriguez, 742 A.2d 728 (R.I.1999). The defendant has not responded to the petition, leaving the state\u2019s assertions herein uncontradicted.\nIn light of the above-cited opinions and on the basis of the materials supplied to us by the state in support of the petition, including the new-trial hearing transcript, we conclude that the trial justice in this case was clearly without jurisdiction to decide this motion for new trial and that summary action on this petition is therefore warranted.\nAccordingly, because issuance of the writ in these circumstances is unnecessary, we grant the petition for certiorari. The decision and judgment of the Superior Court granting a new trial is quashed, and the papers in this case are remanded to the Superior Court with this Order duly endorsed thereon.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Seth A. Perlmutter, Cranston."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Rhode Island v. Cesar A. LOPEZ\nNo. 01-206-M.P.\nSupreme Court of Rhode Island.\nSept. 18, 2001.\nSeth A. Perlmutter, Cranston."
+  },
+  "file_name": "0647-01",
+  "first_page_order": 689,
+  "last_page_order": 689
+}

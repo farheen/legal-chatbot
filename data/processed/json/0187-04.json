@@ -1,0 +1,58 @@
+{
+  "id": 12486415,
+  "name": "In the Matter of: J.W.D., a Juvenile",
+  "name_abbreviation": "In re J.W.D.",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 1399 EDA 2014",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 113,
+    "sha256": "2fda0c6b7a39323e2d220e216d31550c9125f77a267b23277786f87bce40c291",
+    "simhash": "1:db9bdc3d946b0ea1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of: J.W.D., a Juvenile"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of: J.W.D., a Juvenile\nNO. 1399 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed."
+  },
+  "file_name": "0187-04",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485918,
+  "name": "T. Renz v. J. Ingles",
+  "name_abbreviation": "Renz v. Ingles",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 952 MDA 2015",
+  "first_page": "593",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 125,
+    "sha256": "db1e906ea6a05382d5b2b444ec37d0fc8a5368d55f3c2341414b7c2623c670d1",
+    "simhash": "1:2dde571f11b31ce0",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Renz\nv.\nJ. Ingles"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Renz\nv.\nJ. Ingles\nNO. 952 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Reversed and Remanded."
+  },
+  "file_name": "0593-14",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487264,
+  "name": "Com. v. J. Sutton",
+  "name_abbreviation": "Com. v. Sutton",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 1347 WDA 2015",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "632c9bd228306ea940ecd62d93ca8c12519ea31a1e36e022821a28beefd50d71",
+    "simhash": "1:7dca560151b11cc5",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Sutton"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Sutton\nNO. 1347 WDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed."
+  },
+  "file_name": "0774-15",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

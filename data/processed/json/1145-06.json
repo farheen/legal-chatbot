@@ -1,0 +1,58 @@
+{
+  "id": 12488420,
+  "name": "Com. v. Richardson, J.",
+  "name_abbreviation": "Com v. Richardson",
+  "decision_date": "2016-05-11",
+  "docket_number": "2884 EDA 2015",
+  "first_page": "1145",
+  "last_page": "1145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 92,
+    "sha256": "5dd8598061d56eb4fcb513281bc3430b6a3583573735f24ae2d417582b57c0f0",
+    "simhash": "1:3cc1737393a21bdc",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nRichardson, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nRichardson, J.\n2884 EDA 2015\nSuperior Court of Pennsylvania.\nMay 11, 2016\nAffirmed"
+  },
+  "file_name": "1145-06",
+  "first_page_order": 1145,
+  "last_page_order": 1145
+}

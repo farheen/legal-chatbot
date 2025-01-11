@@ -1,0 +1,59 @@
+{
+  "id": 12168024,
+  "name": "In re Ernest G. Schulze",
+  "name_abbreviation": "In re Schulze",
+  "decision_date": "1965-04-15",
+  "docket_number": "No. 7633",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 61,
+    "ocr_confidence": 0.6,
+    "sha256": "575508b7b5ff5bd0368005e1f46cb7446a89715ee607a5d03ed7cc90f0adb5a9",
+    "simhash": "1:ed29480352d88a50",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ernest G. Schulze"
+    ],
+    "opinions": [
+      {
+        "text": "Paint spattering device.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Ernest G. Schulze\n(No. 7633)."
+  },
+  "file_name": "1838-13",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

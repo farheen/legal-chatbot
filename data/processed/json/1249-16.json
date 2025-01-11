@@ -1,0 +1,59 @@
+{
+  "id": 6084839,
+  "name": "In re Norris",
+  "name_abbreviation": "In re Norris",
+  "decision_date": "1950-03-06",
+  "docket_number": "No. 5740",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 7,
+    "char_count": 49,
+    "ocr_confidence": 0.464,
+    "sha256": "752853c4335dbc4dd0624738210b686d56fc5c52b3208f6467df7ec02b387df5",
+    "simhash": "1:00e89f72800cc202",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Norris"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in product.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Norris\n(No. 5740)."
+  },
+  "file_name": "1249-16",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

@@ -1,0 +1,86 @@
+{
+  "id": 7936884,
+  "name": "Ann M. ROBINSON v. CITY OF EAST PROVIDENCE et al.",
+  "name_abbreviation": "Robinson v. City of East Providence",
+  "decision_date": "1993-01-22",
+  "docket_number": "No. 91-657-Appeal",
+  "first_page": "1375",
+  "last_page": "1376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "617 A.2d 1375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "497 U.S. 62",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213129
+      ],
+      "weight": 3,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0062-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7\u00a7 1981",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 175,
+    "char_count": 2074,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20062038365943344
+    },
+    "sha256": "c3c1e728c5db1e2917938a03f88ae08684a0dbb665057db0f4f20b2b20efec1f",
+    "simhash": "1:57a39e4103f04079",
+    "word_count": 357
+  },
+  "last_updated": "2024-02-27T18:44:50.780717+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "Ann M. ROBINSON v. CITY OF EAST PROVIDENCE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendants, the city of East Providence and the former mayor of said city in his official capacity appeal from a judgment of the Superior Court which awarded Ann M. Robinson damages in the amount of $36,462.20 including interest for a violation of her civil rights as guaranteed by the First Amendment of the Constitution of the United States and further protected by 42 U.S.C. \u00a7\u00a7 1981, 1983 and 1985. Counsel for the parties came before this court January 19, 1993 for oral argument pursuant to an order which had directed the defendants to appear in order to show cause why their appeal should not be summarily denied and dismissed.\nAfter hearing the oral argument and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown.\nThe trial justice found that the former mayor of East Providence had denied reappointment to the plaintiff as a police constable for political reasons after she had failed to support him in an election for the office of City Council. The trial justice also held the city liable for terminating the plaintiff\u2019s position as a police matron, after she had served in that capacity from April of 1983 until February 1985. The plaintiff was never given a notice of a hearing prior to her removal from the position of police matron. We are of the opinion that the case of Rutan v. Republican Party of Illinois, 497 U.S. 62, 110 S.Ct. 2729, 111 L.Ed.2d 52 (1990) is controlling. In that case a majority of the Supreme Court determined that one might not be deprived of employment by reason of discharge, failure to recall, promote, or failure to hire for purely political reasons. In this case the refusal to reappoint the plaintiff or to continue her employment as a police matron constituted a violation of her First Amendment rights.\nThe appeal of the defendants is denied and dismissed. The judgment entered by the Superior Court is hereby affirmed.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ann M. ROBINSON v. CITY OF EAST PROVIDENCE et al.\nNo. 91-657-Appeal.\nSupreme Court of Rhode Island.\nJan. 22, 1993."
+  },
+  "file_name": "1375-02",
+  "first_page_order": 1449,
+  "last_page_order": 1450
+}

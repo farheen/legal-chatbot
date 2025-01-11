@@ -1,0 +1,58 @@
+{
+  "id": 12486651,
+  "name": "M. McGrath v. V. McGrath",
+  "name_abbreviation": "McGrath v. McGrath",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 1913 WDA 2014",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 101,
+    "sha256": "7b52f48be6bdf97b72fb832948e81d8c802d5f9043d29b9ed8868e4f60a8fc86",
+    "simhash": "1:c702dc51c67b7d00",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. McGrath\nv.\nV. McGrath"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M. McGrath\nv.\nV. McGrath\nNO. 1913 WDA 2014\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed."
+  },
+  "file_name": "0203-12",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

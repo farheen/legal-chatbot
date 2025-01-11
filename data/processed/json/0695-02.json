@@ -1,0 +1,206 @@
+{
+  "id": 8131196,
+  "name": "DISTRICT OF COLUMBIA v. CAPITAL LAUNDRY & DRY CLEANERS, Inc.",
+  "name_abbreviation": "District of Columbia v. Capital Laundry & Dry Cleaners, Inc.",
+  "decision_date": "1954-07-16",
+  "docket_number": "No. 1484",
+  "first_page": "695",
+  "last_page": "698",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "106 A.2d 695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "164 U.S. 599",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3590754
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/164/0599-01"
+      ]
+    },
+    {
+      "cite": "77 U.S.App.D.C. 295",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 F.2d 654",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3662024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/135/0654-01"
+      ]
+    },
+    {
+      "cite": "297 U.S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3929728
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/297/0135-01"
+      ]
+    },
+    {
+      "cite": "64 F.2d 306",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        902512
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/64/0306-01"
+      ]
+    },
+    {
+      "cite": "290 U.S. 655",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3928448,
+        3920890,
+        3927863,
+        3927417,
+        3920026
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/290/0655-03",
+        "/us/290/0655-04",
+        "/us/290/0655-02",
+        "/us/290/0655-05",
+        "/us/290/0655-01"
+      ]
+    },
+    {
+      "cite": "54 S.Ct. 71",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 L.Ed. 568",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 U.S.App.D.C. 356",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 F.2d 13",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1123357
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/159/0013-01"
+      ]
+    },
+    {
+      "cite": "279 U.S. 306",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3906218
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0306-01"
+      ]
+    },
+    {
+      "cite": "247 U.S. 350",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1484692
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/247/0350-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 464,
+    "char_count": 7428,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20083777085073298
+    },
+    "sha256": "c9694abb5fa34a95b9dd752c81141efd03a09a2ad4786907dc92f2f3b71bd150",
+    "simhash": "1:7d8812e1a6019fd4",
+    "word_count": 1257
+  },
+  "last_updated": "2024-02-27T19:40:56.590203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAYTON, Chief Judge, and HOOD and QUINN, Associate Judges."
+    ],
+    "parties": [
+      "DISTRICT OF COLUMBIA v. CAPITAL LAUNDRY & DRY CLEANERS, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "QUINN, Associate Judge.\nAppellee corporation has been engaged in the laundry and dry cleaning business in the District of Columbia since 1941. In 1943, 1944, 1945, and 1946 appellee filed its personal property tax return as required by law. Taxes, based on these returns, were then assessed by the District of Columbia and paid in full by the appellee. In 1948 the District of Columbia Assessor requested appellee to furnish the Government with detailed schedules of its depreciable personal property. After this request had been complied with, appellee was assessed additional taxes, plus interest and penalties, for the tax years 1944 through 1947. When it refused to pay these assessments, the Government seized the assessed amount by distraint from appellee\u2019s bank account.\nAppellee then filed suit in the Municipal Court to recover these seized funds. The complaint alleged that the additional assessments were \u201carbitrary and capricious\u201d' and \u201cillegal,\u201d and that the funds were \u201cunlawfully seized\u201d in what \u201camounts to an exaction of plaintiff\u2019s property without due-process of law.\u201d At the trial appellee relied mainly on the testimony of its president and general manager to show that the valuation of its personal property as reported in its tax returns was the full and true value required by the statute. He testified that the corporation\u2019s personal property was depreciated on a ten-year basis; that 10% was deducted from its original cost every year in order to arrive at its current value, and that on the basis of this straight-line depreciation value the tax returns were made. He stated that in his opinion, based on many years experience in the laundry business, that the tax returns reflected the full and true value of the property in question, although such returns were based on the straight-line ten-year depreciation rate used by his corporation. After the appellee had closed its case, the Government declined to offer any evidence. Motions for directed verdicts were then made by both parties. The trial court granted appellee\u2019s motion and the Government appeals.\nThe Government\u2019s first contention is that the burden of proof on a taxpayer bringing suit in a court of law for a return of taxes is to show not only an error in judgment on the part of the tax assessor, but to also show error of so gross a nature that it amounts to fraud or misconduct. There is ample authority to support this proposition, and there can he no doubt that there must he more than a mere showing of error in judgment before the \u2022courts will interfere in the determination of taxes made by a duly constituted administrative agency. But we do not think it necessary to apply this strict test to the ap-pellee\u2019s evidence, because the record clearly reveals that the appellee totally failed to carry even the usual burden of proof and that the trial court was in error in directing a verdict in its favor.\nThe Code requires that the taxpayer list his personal property \u201cat not less than the full and true value thereof in lawful money\u201d, and the property shall be assessed at its \u201cfair cash value\u201d. The fair cash value of personal property is' generally equivalent to its actual or market value.. There can be no doubt that such values are not the equivalent of value arrived at by using a straight-line depreciation computation based on original costs. Fair cash value and costs depreciated on a straight-line basis are entirely different concepts. There is a possibility that a straight-line depreciation value might coincide with the fair cash value of a piece of property, and the former might be evidence of the latter, but a showing by a taxpayer that he based his tax returns on such an accounting method is not proof that his' returns were in accordance with the statutory requirements. That the depreciated value of property is not equivalent to its fair cash value was especially true during the war years of 1943, 1944, and 1945, and the period immediately thereafter when the value of property, due to shortages, was. often in excess of its original cost.\nMoreover, appellee\u2019s witnesses at trial admitted that many of its heavier pieces of equipment had a usable life of more than ten years, while some of its lighter equipment had a life of only two or three years. All of these articles were lumped together for accounting purposes and given an average life of ten years and depreciated accordingly. Obviously, such a system could not be the basis for determining the fair cash value of \u00e1ll the individual pieces of appellee\u2019s personal property on a given tax date.\nWe hold, therefore, .that the appel-lee failed to show that the assessment of its personal property was arbitrary or capricious, or that it was even erroneous. By proving only its accounting method for computing its taxes, it showed nothing incorrect on the Government\u2019s part in assessing on the basis of higher valuations. As the burden of proof was on the taxpayer, the trial court was in error in directing a verdict for the appellee and in failing to grant the Government\u2019s motion for a directed verdict.\nReversed, with instructions to enter judgment for the defendant.\n. Code 1951, \u00a7 47-1206.\n. \u201cAll personal property in the District of Columbia subject to taxation, shall be listed and assessed at not less than the full and true value thereof in lawful money.\u201d Code 1951, 47-1202.\n. Maish v. Territory of Arizona, 164 U.S. 599, 17 S.Ct. 193, 41 L.Ed. 567; Watrous v. District of Columbia, 77 U.S.App.D.C. 295, 135 F.2d 654.\n. Great Northern R. Co. v. Weeks, 297 U.S. 135, 56 S.Ct. 426, 80 L.Ed. 532; Harjim v. Owens, 5 Cir., 64 F.2d 306, certiorari denied 290 U.S. 655, 54 S.Ct. 71, 78 L.Ed. 568.\n. Code 1951, \u00a7 47-1203.\n. 51 Am.Jur., Taxation, \u00a7 696.\n. District of Columbia v. Morris, 81 U.S.App.D.C. 356, 159 F.2d 13.\n. Compania General De Tabacos v. Collector of Int. Rev., 279 U.S. 306, 49 S.Ct. 304, 73 L.Ed. 704; Sunday Lake Iron Co. v. Wakefield, 247 U.S. 350, 38 S.Ct. 495, 62 L.Ed. 1154.",
+        "type": "majority",
+        "author": "QUINN, Associate Judge."
+      },
+      {
+        "text": "HOOD, Associate Judge\n(concurring).\nI cannot agree with the proposition that appellee proved only its accounting method and thereby failed to carry even the usual burden of proof. I agree that depreciated cost constitutes little or no evidence of actual value, but there is more than this in the case. Appellee\u2019s president, a man of tiiany years of experience in the business, testified that the actual value of the property in the years in question did not exceed the depreciated cost. If this were the ordinary case, I think his testimony would have to be submitted to the jury for whatever weight the jury found proper to give it. But even if the jury accepted such testimony at full face value, it would only prove an error of judgment on the part of the Assessor and that would not be enough to entitle appellee to prevail in this action. Accordingly I agree that a verdict should have been directed for the District.",
+        "type": "concurrence",
+        "author": "HOOD, Associate Judge"
+      }
+    ],
+    "attorneys": [
+      "Henry E. Wixon, Asst. Corp. Counsel, with whom Vernon E. West, Corp. Counsel, Chester H. Gray, Principal Asst. Corp. Counsel, Washington, D. C., George F. Donnella, Asst. Corp. Counsel, Washington, D. C., on the brief, for appellant.",
+      "Joseph J. Lyman, Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "DISTRICT OF COLUMBIA v. CAPITAL LAUNDRY & DRY CLEANERS, Inc.\nNo. 1484.\nMunicipal Court of Appeals for the District of Columbia.\nArgued June 7, 1954.\nDecided July 16, 1954.\nHenry E. Wixon, Asst. Corp. Counsel, with whom Vernon E. West, Corp. Counsel, Chester H. Gray, Principal Asst. Corp. Counsel, Washington, D. C., George F. Donnella, Asst. Corp. Counsel, Washington, D. C., on the brief, for appellant.\nJoseph J. Lyman, Washington, D. C., for appellee.\nBefore CAYTON, Chief Judge, and HOOD and QUINN, Associate Judges."
+  },
+  "file_name": "0695-02",
+  "first_page_order": 727,
+  "last_page_order": 730
+}

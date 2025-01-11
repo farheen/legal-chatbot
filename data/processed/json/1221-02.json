@@ -1,0 +1,81 @@
+{
+  "id": 12257741,
+  "name": "Theresa SABACK v. Gabriel SABACK",
+  "name_abbreviation": "Saback v. Saback",
+  "decision_date": "1994-10-20",
+  "docket_number": "No. 93-505-Appeal",
+  "first_page": "1221",
+  "last_page": "1222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "651 A.2d 1221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "556 A.2d 560",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7888916
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/556/0560-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 128,
+    "char_count": 1368,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24775208902140627
+    },
+    "sha256": "1849c94d4b3deefc1148f86ed3cc9afa300b32d87faa63ddb203a7b165a4897b",
+    "simhash": "1:a0db7ad90a1da770",
+    "word_count": 228
+  },
+  "last_updated": "2024-02-27T22:18:37.573874+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "Theresa SABACK v. Gabriel SABACK."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court for oral argument October 18, 1994, pursuant to an order that had directed both parties to appear in order to show cause why this appeal should not be summarily decided.\nThe defendant, Gabriel Saback, has appealed from a Family Court order requiring him to pay the attorney\u2019s fees of the plaintiff, Theresa Saback. After hearing the arguments of counsel and examining the memo-randa filed by the parties, we conclude that cause has not been shown and that the issues raised by this appeal should be summarily decided.\nIt appears that the trial justice certainly had the power to award counsel fees even though one of the parties was deceased. Centazzo v. Centazzo, 556 A.2d 560 (R.I.1989). However, the counsel fee was ordered by the trial justice without analyzing or examining the ability of each party to pay. There was no consideration of the extent of plaintiffs assets at the time of her death.\nConsequently, this case is remanded to the Family Court with directions to consider the ability of each party to pay counsel fees. Whereupon an order respecting counsel fees may be issued in the discretion of the trial justice.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert Oster, Lincoln.",
+      "John MeBurney, Pawtucket."
+    ],
+    "corrections": "",
+    "head_matter": "Theresa SABACK v. Gabriel SABACK.\nNo. 93-505-Appeal.\nSupreme Court of Rhode Island.\nOct. 20, 1994.\nRobert Oster, Lincoln.\nJohn MeBurney, Pawtucket."
+  },
+  "file_name": "1221-02",
+  "first_page_order": 1283,
+  "last_page_order": 1284
+}

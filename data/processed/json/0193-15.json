@@ -1,0 +1,58 @@
+{
+  "id": 12486502,
+  "name": "Com. v. W. Savage",
+  "name_abbreviation": "Com. v. Savage",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 1275 WDA 2015",
+  "first_page": "193",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "10c8c4b35b1725c93839e79ff1baa6cd770b33aa9905ad193c82485c5fc6130d",
+    "simhash": "1:881944018c398dc0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Savage"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Savage\nNO. 1275 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed."
+  },
+  "file_name": "0193-15",
+  "first_page_order": 193,
+  "last_page_order": 193
+}

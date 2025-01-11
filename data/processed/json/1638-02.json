@@ -1,0 +1,59 @@
+{
+  "id": 6087586,
+  "name": "In re Konrad Abel",
+  "name_abbreviation": "In re Abel",
+  "decision_date": "1967-01-06",
+  "docket_number": "No. 7993",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 102,
+    "ocr_confidence": 0.522,
+    "sha256": "8475f8af54672022f14c19ab67946888ce26716278fb3c8806eccb9874cd6df1",
+    "simhash": "1:29f2b446f60380e0",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Konrad Abel"
+    ],
+    "opinions": [
+      {
+        "text": "Low noise level short wave amplification employing a reactance modulator.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 7993.\nIn re Konrad Abel"
+  },
+  "file_name": "1638-02",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

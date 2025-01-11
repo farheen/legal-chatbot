@@ -1,0 +1,58 @@
+{
+  "id": 12486978,
+  "name": "Commonwealth v. Christopher Lee Vasquez",
+  "name_abbreviation": "Commonwealth v. Vasquez",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 121 WAL (2016)",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "9f4aa1392f33426007813e6b8f6ab3a197be534ec322ef34011911b76fc3fe6b",
+    "simhash": "1:748f51ba9ad99884",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nChristopher Lee Vasquez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nChristopher Lee Vasquez\nNO. 121 WAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0165-18",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

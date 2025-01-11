@@ -1,0 +1,62 @@
+{
+  "id": 12504665,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Rahdi RICHARDSON, Defendant-Petitioner",
+  "name_abbreviation": "State v. Richardson",
+  "decision_date": "2019-01-18",
+  "docket_number": "C-506 September Term 2018; 081908",
+  "first_page": "1213",
+  "last_page": "1213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 1213"
+    },
+    {
+      "type": "parallel",
+      "cite": "236 N.J. 370"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 371,
+    "sha256": "b4213674bdb08c913e6d16ebe8c671e1cea621ea5f3f09545e6cf13f410b67c2",
+    "simhash": "1:5c7a65a5d0baffa8",
+    "word_count": 55
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRahdi RICHARDSON, Defendant-Petitioner,"
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-003428-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRahdi RICHARDSON, Defendant-Petitioner,\nC-506 September Term 2018\n081908\nSupreme Court of New Jersey.\nJanuary 18, 2019\nORDER"
+  },
+  "file_name": "1213-03",
+  "first_page_order": 1213,
+  "last_page_order": 1213
+}

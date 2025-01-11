@@ -1,0 +1,58 @@
+{
+  "id": 12487467,
+  "name": "In Re: K.L., a Minor",
+  "name_abbreviation": "In re K.L.",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 923 EDA 2015",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 788"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 96,
+    "sha256": "9759096cd88a2911bb1117d608b84aec11e18a41b451bba1d5ebc36c89c29176",
+    "simhash": "1:3d13679326008b80",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: K.L., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: K.L., a Minor\nNO. 923 EDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed."
+  },
+  "file_name": "0788-02",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

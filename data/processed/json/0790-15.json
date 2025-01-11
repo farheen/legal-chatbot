@@ -1,0 +1,58 @@
+{
+  "id": 12487497,
+  "name": "Com. v. D. Levanowitz",
+  "name_abbreviation": "Com. v. Levanowitz",
+  "decision_date": "2016-04-22",
+  "docket_number": "NO. 1219 MDA 2015",
+  "first_page": "790",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 98,
+    "sha256": "788f4e2b6909824a6771e0f97f033b69a6d434ce39105f853786c6ecb74a90b9",
+    "simhash": "1:3047efa37c8d0dc0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Levanowitz"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Levanowitz\nNO. 1219 MDA 2015\nSuperior Court of Pennsylvania.\nApril 22, 2016\nAffirmed."
+  },
+  "file_name": "0790-15",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

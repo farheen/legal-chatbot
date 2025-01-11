@@ -1,0 +1,59 @@
+{
+  "id": 6082890,
+  "name": "In re Douglas J. Bridgeford",
+  "name_abbreviation": "In re Bridgeford",
+  "decision_date": "1962-10-24",
+  "docket_number": "No. 6946",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 73,
+    "ocr_confidence": 0.5,
+    "sha256": "4bfa28387e7f80438608e3f4990e7b346d32114d17cdaa8bb8d6e4127d069815",
+    "simhash": "1:62ddadd015e01102",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Douglas J. Bridgeford"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in chemical process.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Douglas J. Bridgeford\n(No. 6946)."
+  },
+  "file_name": "1587-05",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

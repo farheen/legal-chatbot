@@ -1,0 +1,64 @@
+{
+  "id": 12492154,
+  "name": "ADAMS, Peter E. v. STATE of Maryland",
+  "name_abbreviation": "Adams v. State",
+  "decision_date": "2018-01-19",
+  "docket_number": "Pet. Docket No. 382, Sept. Term, 2017",
+  "first_page": "73",
+  "last_page": "73",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 A.3d 73"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 Md. 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 163,
+    "sha256": "1b6e1ffb87c0ad1cf453c826dd66db18d7a2275ca64d9bb0e8418d3885678dac",
+    "simhash": "1:2d7a1ab4b2115315",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:29.164649+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ADAMS, Peter E.\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "ADAMS, Peter E.\nv.\nSTATE of Maryland\nPet. Docket No. 382, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJanuary 19, 2018\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0073-04",
+  "first_page_order": 73,
+  "last_page_order": 73
+}

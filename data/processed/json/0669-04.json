@@ -1,0 +1,58 @@
+{
+  "id": 12501635,
+  "name": "COM. v. COPELAND, C.",
+  "name_abbreviation": "Com. v. Copeland",
+  "decision_date": "2018-07-13",
+  "docket_number": "458 MDA 2017",
+  "first_page": "669",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 669"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "e88197c4a7bb9025bf358070b929d350ef1e9f900cdee07668c14404c7233bc7",
+    "simhash": "1:9e9c5e23c55e1a66",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nCOPELAND, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nCOPELAND, C.\n458 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 13, 2018\nAffirmed"
+  },
+  "file_name": "0669-04",
+  "first_page_order": 669,
+  "last_page_order": 669
+}

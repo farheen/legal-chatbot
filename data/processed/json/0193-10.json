@@ -1,0 +1,58 @@
+{
+  "id": 12486497,
+  "name": "Com. v. R. Williams",
+  "name_abbreviation": "Com. v. Williams",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 837 WDA 2015",
+  "first_page": "193",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 107,
+    "sha256": "7d5fd0ab92d630c006dd2d9dbc5dbedda0b6981da90c7c11fa11654fe97d2b1c",
+    "simhash": "1:5d104c0709ae1cd0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Williams"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Williams\nNO. 837 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nQuashed and Remanded."
+  },
+  "file_name": "0193-10",
+  "first_page_order": 193,
+  "last_page_order": 193
+}

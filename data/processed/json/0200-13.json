@@ -1,0 +1,58 @@
+{
+  "id": 12486605,
+  "name": "Com. v. K. Heggins",
+  "name_abbreviation": "Com. v. Heggins",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 1562 WDA 2014",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "b5e42088ff4bd3924e170b049006c61ce9461ae5a97806851631268e48afa076",
+    "simhash": "1:1c41e5b584cb8380",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Heggins"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Heggins\nNO. 1562 WDA 2014\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nReversed and Remanded."
+  },
+  "file_name": "0200-13",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

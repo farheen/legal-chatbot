@@ -1,0 +1,84 @@
+{
+  "id": 12488701,
+  "name": "STATE of Connecticut v. Earl SIMPSON",
+  "name_abbreviation": "State v. Simpson",
+  "decision_date": "2016-12-20",
+  "docket_number": "",
+  "first_page": "1289",
+  "last_page": "1290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1289"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 904"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn.App. 168",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488137
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/150-2/0699-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 700,
+    "pagerank": {
+      "raw": 7.785213452857901e-08,
+      "percentile": 0.45663685411774974
+    },
+    "sha256": "6e958ea042fbce3f0d291fb2e9cd18db83aa5b532f0dd8ff770f16a808540d62",
+    "simhash": "1:84ad4a87daebb9f4",
+    "word_count": 111
+  },
+  "last_updated": "2024-02-27T18:34:50.591602+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nEarl SIMPSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition by the state of Connecticut for certification for appeal from the Appellate Court, 169 Conn.App. 168, 150 A.3d 699 (2016), is granted, limited to the following issues:",
+      "\"2. Did the Appellate Court properly conclude that the trial court erred in failing to conduct a hearing on the defendant's request for new counsel?\""
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nEarl SIMPSON\nSupreme Court of Connecticut.\nDecided December 20, 2016\nJames M. Rails, assistant state's attorney, in support of the petition.\nDeren Manasevit, assigned counsel, in opposition.\nThe petition by the state of Connecticut for certification for appeal from the Appellate Court, 169 Conn.App. 168, 150 A.3d 699 (2016), is granted, limited to the following issues:\n\"1. Did the Appellate Court properly conclude that the trial court erred in failing to conduct a hearing on the defendant's motion to withdraw his plea?\n\"2. Did the Appellate Court properly conclude that the trial court erred in failing to conduct a hearing on the defendant's request for new counsel?\""
+  },
+  "file_name": "1289-04",
+  "first_page_order": 1289,
+  "last_page_order": 1290
+}

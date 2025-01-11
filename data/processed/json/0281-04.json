@@ -1,0 +1,62 @@
+{
+  "id": 7947006,
+  "name": "STATE v. Robert D. SMITH",
+  "name_abbreviation": "State v. Smith",
+  "decision_date": "1980-02-28",
+  "docket_number": "No. 79-317-M.P.",
+  "first_page": "281",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 304,
+    "ocr_confidence": 0.738,
+    "sha256": "bf5f26d116c1e68eb5a2dee4b59faba9ee1b01c76c2fea0ead70a64aeaee787d",
+    "simhash": "1:7ddf0daf1d5e5516",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Robert D. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nTreating petitioner\u2019s letter as a petition for writ of habeas corpus, said petition is denied as moot.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff-respondent.",
+      "Robert D. Smith, defendant-petitioner, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Robert D. SMITH.\nNo. 79-317-M.P.\nSupreme Court of Rhode Island.\nFeb. 28, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff-respondent.\nRobert D. Smith, defendant-petitioner, pro se."
+  },
+  "file_name": "0281-04",
+  "first_page_order": 337,
+  "last_page_order": 338
+}

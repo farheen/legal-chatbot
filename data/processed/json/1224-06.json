@@ -1,0 +1,58 @@
+{
+  "id": 12485222,
+  "name": "Jeffrey Johnson v. United States",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2016-05-27",
+  "docket_number": "NO. 14-CM-598",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "2ac2b5f9523d026b88ab63c0cf6261de343d2c926cc20cab2a38022fda89dc15",
+    "simhash": "1:fd6417492708c24b",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey Johnson\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jeffrey Johnson\nv.\nUnited States\nNO. 14-CM-598\nDistrict of Columbia Court of Appeals\nMay 27, 2016\nCushenberry, Jr.\nDisposition: Affirmed."
+  },
+  "file_name": "1224-06",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

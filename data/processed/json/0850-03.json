@@ -1,0 +1,59 @@
+{
+  "id": 11353231,
+  "name": "In the Matter of Roger Clark PETERMAN",
+  "name_abbreviation": "In re Peterman",
+  "decision_date": "2002-08-01",
+  "docket_number": "No. 758 Disciplinary Docket No. 3",
+  "first_page": "850",
+  "last_page": "851",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "806 A.2d 850"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 669,
+    "ocr_confidence": 0.641,
+    "sha256": "5756df15b81b38bb7f9516ddcc8bb7e43f71ec854381dd3899d4b4f910101c44",
+    "simhash": "1:88ef113fe1db2ea1",
+    "word_count": 117
+  },
+  "last_updated": "2023-07-14T15:19:59.413460+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Roger Clark PETERMAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 1st day of August, 2002, a Rule having been entered by this Court on June 24, 2002, pursuant to Rule 214(d)(1), Pa.R.D.E., to show cause why Roger Clark Peterman should not be placed on temporary suspension, upon consideration of the response filed, it is hereby\nORDERED that the Rule is made absolute; Roger Clark Peterman is placed on temporary suspension and he shall comply with all the provisions of Rule 217, Pa. R.D.E.; and the matter is referred to the Disciplinary Board pursuant to Rule 214(f)(1), Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Roger Clark PETERMAN.\nNo. 758 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nAug. 1, 2002."
+  },
+  "file_name": "0850-03",
+  "first_page_order": 904,
+  "last_page_order": 905
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501502,
+  "name": "COM. v. ARCHER, J.",
+  "name_abbreviation": "Com. v. Archer",
+  "decision_date": "2018-07-02",
+  "docket_number": "2766 EDA 2017",
+  "first_page": "641",
+  "last_page": "641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "513c8405ce710ce0f202cd2bc97142a19da49a54192257fdea10d5147f384197",
+    "simhash": "1:9df25ba8a59913e4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nARCHER, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nARCHER, J.\n2766 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 2, 2018\nAffirmed"
+  },
+  "file_name": "0641-04",
+  "first_page_order": 641,
+  "last_page_order": 641
+}

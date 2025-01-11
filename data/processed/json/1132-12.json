@@ -1,0 +1,58 @@
+{
+  "id": 12488211,
+  "name": "Com. v. Goklaney, N.",
+  "name_abbreviation": "Com v. Goklaney",
+  "decision_date": "2016-05-03",
+  "docket_number": "743 MDA 2015",
+  "first_page": "1132",
+  "last_page": "1132",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "223fb4391c6f5606038439aacd43dcb3ef787e76c9e1937b72d2535798ba22da",
+    "simhash": "1:94435468bca995e1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGoklaney, N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGoklaney, N.\n743 MDA 2015\nSuperior Court of Pennsylvania.\nMay 3, 2016\nQuashed"
+  },
+  "file_name": "1132-12",
+  "first_page_order": 1132,
+  "last_page_order": 1132
+}

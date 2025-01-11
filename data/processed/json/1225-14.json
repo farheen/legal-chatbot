@@ -1,0 +1,58 @@
+{
+  "id": 12485230,
+  "name": "Robert Garibay v. United States",
+  "name_abbreviation": "Garibay v. United States",
+  "decision_date": "2016-05-04",
+  "docket_number": "NO. 14-CO-715",
+  "first_page": "1225",
+  "last_page": "1225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 127,
+    "sha256": "f2dedac51f65b8a61e2621fff455d6af022c17be083a62021354643d13837af2",
+    "simhash": "1:333da24127cfd4d3",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Garibay\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert Garibay\nv.\nUnited States\nNO. 14-CO-715\nDistrict of Columbia Court of Appeals\nMay 04, 2016\nLopez\nDisposition: Affirmed."
+  },
+  "file_name": "1225-14",
+  "first_page_order": 1225,
+  "last_page_order": 1225
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488278,
+  "name": "Com. v. Williams, C.",
+  "name_abbreviation": "Com v. Williams",
+  "decision_date": "2016-05-05",
+  "docket_number": "1528 EDA 2015",
+  "first_page": "1136",
+  "last_page": "1136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 120,
+    "sha256": "7c3f07bd3868d022ec9a815c44b2c006bd55a63db2a53364fb6c34d4a6e6a689",
+    "simhash": "1:f94076d929a495fd",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nWilliams, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nWilliams, C.\n1528 EDA 2015\nSuperior Court of Pennsylvania.\nMay 5, 2016\nReargument Denied July 8, 2016\nAffirmed"
+  },
+  "file_name": "1136-05",
+  "first_page_order": 1136,
+  "last_page_order": 1136
+}

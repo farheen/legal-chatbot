@@ -1,0 +1,59 @@
+{
+  "id": 6082101,
+  "name": "In re George B. Field",
+  "name_abbreviation": "In re Field",
+  "decision_date": "1960-10-10",
+  "docket_number": "No. 6635",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 101,
+    "ocr_confidence": 0.495,
+    "sha256": "d2fddf23e1411aac0894768df9995c86304043954c5f493710aaa6eb7eeeb8e0",
+    "simhash": "1:0254e440323054d5",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re George B. Field"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in preparation of oriented films of oxetane polymers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re George B. Field\n(No. 6635)."
+  },
+  "file_name": "1155-02",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

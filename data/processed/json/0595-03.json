@@ -1,0 +1,58 @@
+{
+  "id": 12485955,
+  "name": "Com. v. M. Jackson",
+  "name_abbreviation": "Com. v. Jackson",
+  "decision_date": "2016-02-17",
+  "docket_number": "NO. 3175 EDA 2014",
+  "first_page": "595",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "849e42562b77a37569f5b9ce5ccd6b1a07dcb25d9409a67ca3cfcc0acfb57ab6",
+    "simhash": "1:6d465e9d81b6ca03",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Jackson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Jackson\nNO. 3175 EDA 2014\nSuperior Court of Pennsylvania.\nFebruary 17, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0595-03",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

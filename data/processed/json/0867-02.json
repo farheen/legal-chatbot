@@ -1,0 +1,86 @@
+{
+  "id": 7896882,
+  "name": "STATE of Maine v. Calvin FRANCIS",
+  "name_abbreviation": "State v. Francis",
+  "decision_date": "1989-01-20",
+  "docket_number": "",
+  "first_page": "867",
+  "last_page": "867",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "552 A.2d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "502 A.2d 489",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7895939
+      ],
+      "pin_cites": [
+        {
+          "page": "491"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/502/0489-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 110,
+    "char_count": 1016,
+    "ocr_confidence": 0.748,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20054431744862344
+    },
+    "sha256": "aec7ba3b738eb39dadd7fe3dba82dc3780ae35c6f215b5c3dfcf8cbe92d517a1",
+    "simhash": "1:b56aeeb6c4094b5b",
+    "word_count": 162
+  },
+  "last_updated": "2024-02-27T18:01:26.061237+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and GLASSMAN, CLIFFORD, HORNBY and COLLINS, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Calvin FRANCIS."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nCalvin Francis appeals the judgment of the Superior Court (Penobscot County; Silsby, J.) entered on his conditional plea of guilty to the charge of operating under the influence. 29 M.R.S.A. \u00a7 1312 (1978 & Pamph. 1988). We find no merit in Francis\u2019 contention that the District Court (Bangor; Kravchuk, J.) erred in denying his motion to suppress the results of a blood alcohol test. On the evidence before it, the District Court committed no clear error in its factfinding that the officer requiring the blood test had probable cause to believe Francis had been operating under the influence. See State v. Baker, 502 A.2d 489, 491 (Me.1985).\nThe entry is:\nJUDGMENT AFFIRMED.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "R. Christopher Almy, Dist. Atty., Bangor, for plaintiff.",
+      "Charles W. Hodsdon, II, Bangor, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Calvin FRANCIS.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Jan. 19, 1989.\nDecided Jan. 20, 1989.\nR. Christopher Almy, Dist. Atty., Bangor, for plaintiff.\nCharles W. Hodsdon, II, Bangor, for defendant.\nBefore McKUSICK, C.J., and GLASSMAN, CLIFFORD, HORNBY and COLLINS, JJ."
+  },
+  "file_name": "0867-02",
+  "first_page_order": 921,
+  "last_page_order": 921
+}

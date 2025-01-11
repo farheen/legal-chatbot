@@ -1,0 +1,83 @@
+{
+  "id": 12488129,
+  "name": "Arnaldo SAEZ v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Saez v. Comm'r of Corr.",
+  "decision_date": "2016-10-25",
+  "docket_number": "",
+  "first_page": "685",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 933"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "138 Conn.App. 241",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12487048
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/145-2/0384-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 364,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25775788472609795
+    },
+    "sha256": "c1b758300ab9bb60fc89e33cdb7dfe4481bdbe3d36937fa1f9fb0418858bc911",
+    "simhash": "1:60cb080af3736190",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:34:54.100288+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arnaldo SAEZ\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Arnaldo Saez' petition for certification for appeal from the Appellate Court, 138 Conn.App. 241, 145 A.3d 384 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arnaldo SAEZ\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided October 25, 2016\nJames E. Mortimer, assigned counsel, in support of the petition.\nSarah Hanna, assistant state's attorney, in opposition.\nThe petitioner Arnaldo Saez' petition for certification for appeal from the Appellate Court, 138 Conn.App. 241, 145 A.3d 384 (2016), is denied."
+  },
+  "file_name": "0685-02",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

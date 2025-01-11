@@ -1,0 +1,136 @@
+{
+  "id": 12165798,
+  "name": "In re Paul L. Osweiler",
+  "name_abbreviation": "In re Osweiler",
+  "decision_date": "1965-06-17",
+  "docket_number": "No. 7225",
+  "first_page": "1427",
+  "last_page": "1431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1427"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 U.S.P.Q. 691"
+    },
+    {
+      "type": "parallel",
+      "cite": "346 F.2d 617"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "287 F. 2d 178",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1997614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/287/0178-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 852",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079840
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0852-01"
+      ]
+    },
+    {
+      "cite": "229 F. 2d 476",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077968,
+        67329
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0758-01",
+        "/f2d/229/0476-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 758",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077968
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "761-62"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0758-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 664,
+    "char_count": 13267,
+    "ocr_confidence": 0.553,
+    "pagerank": {
+      "raw": 3.1415812880928703e-07,
+      "percentile": 0.8620792177458995
+    },
+    "sha256": "72a5996eae02f122f1a80dae6657c2c68fee72e485e1d7543df600da4b5fc4dc",
+    "simhash": "1:3727bc6d1d847d14",
+    "word_count": 2283
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges",
+      "Worley, C. J., concurs in the result.",
+      "Martin, J., took no part in the consideration or decision, of this case."
+    ],
+    "parties": [
+      "In re Paul L. Osweiler"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nThis is an appeal from a decision of the Board of Appeals affirming the rejection of claim 7 of appellant\u2019s application for patent for an improvement in a concrete pipe joint, serial No. 613,480, filed October 2, 1956.\nAs pointed out in the specification, the pipe joint to which the present invention relates is a metal joint designed for joining the ends of abutting sections of concrete pipe. Its purpose is to impart, mechanical stability to the joined pipe ends while providing a liquid-tight sealed joint which eliminates leakage from the interior of the joint or seepage from the exterior into the pipe. As the specification points out:\n* * * It is well known that concrete pipe is subject to stresses and strains during and after installation. Improper bedding of the pipe or joint will result in severe strains upon the pipe and joint. In addition to the above, expansion and contraction, traffic load upon the ground over the pipe are all factors which tend to impose stresses upon pipe joints. * * *\nA conventional use of concrete pipes is as underground sewer and water supply systems. Due to the weight and bulk of such pipes, they are installed in sections and the problem with which the present invention is concerned is how to join such sections in a connection which is strong enough to maintain a liquid-tight seal and yet which will accommodate some non-linearity in adjacent pipe lengths.\nThe specific joint for which appellant seeks a patent is fully set forth in the single claim on appeal, which can be most readily analyzed when its various elements are set forth separately as follows:\n7. A joint construction for concrete pipe comprising\n(a) a steel bell attached to an end of one pipe and extending axially beyond the concrete,\n(b) said bell having a cylindrical portion terminating in an outwardly flaring-end portion,\n(c) said other pipe end having a steel spigot of cylindrical construction,\n(d) said spigot having an annular gasket seated in a groove around the outside adjacent the free end of the spigot,\n(e) said spigot having an outer diameter somewhat smaller than the inside diameter of the cylindrical portion of the bell so that said bell may telescope said spigot with the gasket providing a seal at an annular region between the bell and spigot surfaces,\n(f) said bell having an annular flange rigidly attached thereto\nf (1) on the outer surface of the cylindrical part of the bell adjacent the flaring end portion,\n(g) said spigot having an annular flange rigidly attached thereto on the outer surface thereof\ng (1) inwardly from the free end of the spigot,\n(h) said two flanges having substantially equal outer diameters,\n(i) a split clamping ring having a generally U-shaped section transversely thereof,\n(j) said split ring enclosing the telescox>ed portions of the bell and spigot,\n(k) with the ring being wide enough so that the inwardly directed sides of the ring have between them the two flanges,\n(l) the inside the diameters of the sides of the ring being smaller than the outside diameter of said flanges,\n(m) and bolt means cooperating with the ends of said split ring for drawing the ring tightly and maintaining the telescoped parts in position as a joint,\n(n) said split ring and flanges cooperating to permit some cocking of two adjacent pipe lengths without impairing the tightness of the joint.\nThe rejection which the board sustained, and which presents the only issue before us, is that the subject matter of claim 7 would be obvious and hence unpatentable in light of these references:\nMitchell et al., 1,293,163, Feb. 4, 1919.\nDamsel, 1,967,467, July 24, 1934.\nThe examiner in his answer also relied upon two additional references:\nTrickey, 1,976,589, Oct. 9, 1934.\nGurck (Canadian), 496,141, Sept. 15, 1953.\nIn disposing of the additional references, the board stated:\nClaim 7 has also been rejected as unpatentable over either Trickey or Gurck as alternative primary references, in view of Damsel. With this rejection we do not agree. While each of Trickey and Gurck discloses pipe ends respectively of bell and spigot configuration, we note that in each of said references the bell component is covered by reinforced concrete extending outwardly therefrom. This being so, even were the split ring arrangement of Damsel to be regarded as applicable to the device of Trickey or Gurck, we do not think that it would be obvious to apply the clamping ring in the structural manner required by the claim. The latter recites the clamping ring as cooperating with flanges attached respectively to the bell and spigot components. The prior art before us does not teach the use of concrete flanges for clamping purposes, but teaches only the provision of metal flanges for this purpose, and in the light of the aforementioned reinforced concrete covering for the bell components in Trickey and Gurck we doubt that the use of a metal flange, attached to the bell component as required by the claim on appeal, would be obvious to one skilled in the art. We will not sustain the rejection of claim 7 based on Trickey or Gurck in primary reference aspect.\nThus, ill the context of the rejection before us, we are required to determine the issue of patentability according to the provisions of 35 USC 103, i.e., would the joint as claimed in appealed claim 7 have been obvious to one of ordinary skill in the art in view of the Mitchell et al. and Damsel references ?\nBoth Mitchell et al. and Damsel disclose joints for concrete pipes. Mitchell et al. shows a concrete pipe joint in which a metal bell on one pipe end is adapted to receive a metal spigot on the end of a pipe to be joined thereto. The surfaces of the bell and the spigot are, the patent states, \u201crounded to conform to arcs of circles of relatively large diameter, so that when two sections are joined there will be provision for a limited movement of one with respect to the other without impairment of the joint.\u201d The spigot is provided with a groove filled with packing material. The parts are held in sealed relation by bolts which apply clamping pressure to lugs mounted on the bell and spigot. The bell and spigot are provided with additional lugs which are tied together on each pipe by reinforcing rods.\nDamsel shows a concrete pipe joint in which the ends of the pipes to be joined are provided with metal ferrules having radially extending shoulders. A housing of the half collar or split construction type has flanges disposed outside the radial shoulders on the metal ferrules and holds a packing ring in place against the peripheries of the pipe ends.\nDeferring to claim 7 as set forth previously, it is clear that the Mitchell et al. joint contains claim elements (a) to (d) inclusive, (g) and (h), and lacks the remaining claim elements (e), (f), (f)(1), and (i) to (n) inclusive. The Damsel joint has claim elements (h), (i), (k), (1), and (m) and lacks claim elements (a) to (g) inclusive, (j) and (n).\nTo support the rejection based on the Mitchell et al. and Damsel references, it is necessary to modify each structure before the necessary reconstruction can be made to meet the claim language. Thus, as pointed out by the solicitor in his brief, the Patent Office position is:\n* * * It would be obvious, the Board pointed out * * *, to bring together into one joint the bell and spigot arrangement of Mitchell et al. and the split ring channel clamping means of Damsel. As to appellant\u2019s argument that assembly of the Mitchell et al. joint required circumferential alignment of the pipes (to bring the holes in lugs E into alignment to accommodate bolts G), the Board correctly noted that any disadvantage in the Mitchell et al. clamp in that respect would seem to supply a motive to substitute a clamp not having the disadvantage. The pipe ends in the Damsel joint have continuous flanges which obviate the need for orientation of the pipes. Although Damsel does not show his clamp as applied to a bell and spigot type of joint, his disclosure is effective to teach use of the clamp in any joint in which it would be advantageous.\nWe note in passing, however, that even if the suggested reconstruction and combination of the references is permitted, the thus constructed joint lacks certain essential features of appellant\u2019s joint as claimed. These features, as claimed in claim 7, require certain relative dimensions of the spigot and the bell as set forth in (e) above, and the enclosing of the telescoped portions of the bell and spigot by the split ring as set forth in (j) above, in order that the split ring and flanges may cooperate to permit some cocking of two adjacent pipe lengths without impairing the tightness of the joint, as recited in (n) above.\nMoreover, we find nothing in Mitchell et al. or Damsel which would suggest to one of ordinary skill in this art the desirability of so combining them. As this court said in In re Shaffer, 43 CCPA 758, 761-62, 229 F. 2d 476, 108 USPQ 326:\nIt is too well settled for citation that references may be combined for the purpose of showing that a claim is unpatentable. However, they may not be combined indiscriminately, and to determine whether the combination of references is pi\u2019oper, the following criterion is often used: namely, whether the prior art suggests doing what an applicant has done * * * [i]t is not enough for a valid rejection to view the prior art in retrospect once an applicant\u2019s disclosure is known. The art applied should be viewed by itself to see if it fairly disclosed doing what an applicant has done. If the art did not do so, the references may have been improperly combined.\nWe agree with appellant that the Mitchell et al. joint requires a forceful clamping action to seat the parts on the gasket so as to provide a liquid-tight coupling. We think it would not have been obvious to one of ordinary skill in the art, knowing this to be true, to utilize the clamping rings of Damsel. We think, therefore, that appellant has done more than give the art the concept of combining the Damsel clamp with the Mitchell et al. joint. He has, instead, reconstructed the basic Mitchel et al. joint in such a manner that the Damsel type clamp may be used. Without this reconstruction, the Damsel clamp would not function to draw the pipe ends together to provide the desired liquid-tight joint. As appellant states in his brief:\nSuch a modified joint, if and when assembled, has no \u201cgive\u201d in any direction either during or after assembly. Damsel has some longitudinal \u201cgive.\u201d Mitchell et al. has some angular \u201cgive\u201d prior to tightening. The modified joint created by combining Mitchell et al. and Damsel can not be adjusted before or after assembly in either longitudinal or angular relation and there is serious doubt that such an assumed joint can be assembled. * * *\nWith regard to the above contention of appellant, the solicitor takes the position that:\nThe record does not appear to show that appellant has made any contention prior to his brief in this proceeding that the Damsel clamp would be inoperative with the bell and spigot joint of Mitchell et al. Further, he would appear to have made no contention heretofore that claim 7 would not be anticipated by the proposed combination of references because the interior of the Mitchell et al. bell does not have a cylindrical portion. Since those arguments were not made below, they should, it is submitted, be ignored here. The Board could not properly be held to have erred in failing to consider appellant\u2019s present contentions if they were not made to the Board. * * *\nWe are aware, of course, that this court, has a number of times stated that arguments not urged below will not be considered for the first time on appeal. See, e.g., In re Griner, 48 CCPA 852, 287 F. 2d 178, 129 USPQ 61. Such cases to the contrary notwithstanding, however, we think that a blanket statement condemning new arguments is far too broad. The real question should be whether the new argument is such as to raise a new issue. Certainly we cannot consider new issues or new grounds of rejection on appeal. But we think it would be in disharmony with one of the primary purposes of appellate review were we to refuse to consider each nuance or shift in approach urged by a party simply because it was not similarly urged below. Here appellant is merely stating in somewhat different words one of the reasons why he thinks the board erred in holding his claimed invention obvious. And we are not holding that the board \u201cerred in failing to consider appellant\u2019s present contentions.\u201d We are holding that the board erred in sustaining the rejection of the appealed claim as obvious in view of the prior art.\nThe appealed decision is reversed.\nWorley, C. J., concurs in the result.\nMartin, J., took no part in the consideration or decision, of this case.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Robert L. Kalm (Samuel Leboivitz, of counsel) for appellant.",
+      "Clarence W. Moore (S. Wm. Cochran, of counsel) for Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "346 F. 2d 617; 145 USPQ 691\nIn re Paul L. Osweiler\n(No. 7225)\nUnited States Court of Customs and Patent Appeals,\nJune 17, 1965\nRobert L. Kalm (Samuel Leboivitz, of counsel) for appellant.\nClarence W. Moore (S. Wm. Cochran, of counsel) for Commissioner of Patents.\n[Oral argument February 3, 1965 by Mr. Kahn and Mr. Cochran]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1427-01",
+  "first_page_order": 751,
+  "last_page_order": 755
+}

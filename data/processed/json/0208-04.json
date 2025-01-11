@@ -1,0 +1,58 @@
+{
+  "id": 12486735,
+  "name": "S.C. v. A.M.",
+  "name_abbreviation": "S.C. v. A.M.",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1176 MDA 2015",
+  "first_page": "208",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "21f86298fe3f241fe8d1a4ee4814272579b082a09c2f6000eab10749725d17ca",
+    "simhash": "1:8d0b4fa4841fd8dd",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S.C.\nv.\nA.M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "S.C.\nv.\nA.M.\nNO. 1176 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0208-04",
+  "first_page_order": 208,
+  "last_page_order": 208
+}

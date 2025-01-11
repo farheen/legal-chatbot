@@ -1,0 +1,64 @@
+{
+  "id": 12490953,
+  "name": "GRIMM, Brian v. STATE of Maryland",
+  "name_abbreviation": "Grimm v. State",
+  "decision_date": "2017-09-12",
+  "docket_number": "Pet. Docket No. 164, Sept. Term, 2017",
+  "first_page": "290",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 290"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 54"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "dbd0d0d0fd3eddf74b2c74dac72dd9cbe3fbf3b94ca1d05de8d7e1502e627449",
+    "simhash": "1:0e63c61082465b15",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T20:57:26.796983+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GRIMM, Brian\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari and conditional cross-petition - both granted."
+    ],
+    "corrections": "",
+    "head_matter": "GRIMM, Brian\nv.\nSTATE of Maryland\nPet. Docket No. 164, Sept. Term, 2017\nCourt of Appeals of Maryland.\nSeptember 12, 2017\nPetition for writ of certiorari and conditional cross-petition - both granted."
+  },
+  "file_name": "0290-04",
+  "first_page_order": 290,
+  "last_page_order": 290
+}

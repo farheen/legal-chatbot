@@ -1,0 +1,58 @@
+{
+  "id": 12486706,
+  "name": "Com. v. J. Lekka",
+  "name_abbreviation": "Com. v. Lekka",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 3333 EDA 2014",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "f479dc84ac2a7a81519e190ae43d2844c563a955ecfb4659bd089bebd1d3f8f5",
+    "simhash": "1:dc57fe0cc5b85a91",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Lekka"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Lekka\nNO. 3333 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0206-05",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

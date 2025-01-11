@@ -1,0 +1,58 @@
+{
+  "id": 12486031,
+  "name": "Com. v. A. Collier",
+  "name_abbreviation": "Com. v. Collier",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 2093 WDA 2014",
+  "first_page": "600",
+  "last_page": "600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "aff0c7f48aea817815c0f107f83080a724ed5c447d6fc222df8701313a604420",
+    "simhash": "1:ad27f2ba88abcc61",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Collier"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Collier\nNO. 2093 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0600-14",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

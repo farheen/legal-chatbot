@@ -1,0 +1,65 @@
+{
+  "id": 12504913,
+  "name": "THOMAS, G. v. PYLE, J. et. al.",
+  "name_abbreviation": "Thomas v. Pyle",
+  "decision_date": "2018-11-20",
+  "docket_number": "905 CD 2018",
+  "first_page": "518",
+  "last_page": "518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 293,
+    "sha256": "78e4dc3e82c0a3b133c72291306a2a53d6ad20df8d32e8a68cf464d6ee78158e",
+    "simhash": "1:2509abd699be6cca",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THOMAS, G.\nv.\nPYLE, J. et. al."
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nAffirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "THOMAS, G.\nv.\nPYLE, J. et. al.\n905 CD 2018\nCommonwealth Court of Pennsylvania.\nNovember 20, 2018\nReconsideration Denied January 8, 2019\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0518-03",
+  "first_page_order": 518,
+  "last_page_order": 518
+}

@@ -1,0 +1,59 @@
+{
+  "id": 12167432,
+  "name": "In re Victor E. DeLucia and John B. Thatcher",
+  "name_abbreviation": "In re DeLucia",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7440",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 71,
+    "ocr_confidence": 0.516,
+    "sha256": "30dffaacf8a678f267bd7c6f0d963df2a4f1010ee5929f5415efd5c1615e1d88",
+    "simhash": "1:293346105f85de33",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Victor E. DeLucia and John B. Thatcher"
+    ],
+    "opinions": [
+      {
+        "text": "Vacuum relay.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Victor E. DeLucia and John B. Thatcher\n(No. 7440)."
+  },
+  "file_name": "1836-12",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

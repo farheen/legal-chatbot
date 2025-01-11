@@ -1,0 +1,92 @@
+{
+  "id": 11502317,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Robert WHARTON, Appellant",
+  "name_abbreviation": "Commonwealth v. Wharton",
+  "decision_date": "1999-11-05",
+  "docket_number": "",
+  "first_page": "1051",
+  "last_page": "1052",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "742 A.2d 1051"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "732 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56907,
+        11553069
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01",
+        "/a2d/732/1167-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 207",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56907
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0207-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 501,
+    "ocr_confidence": 0.629,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24089261574709567
+    },
+    "sha256": "d00bbb1bd336e7d2119714e575aee626f63245ecc347795216321abf0104b218",
+    "simhash": "1:9db34af72e673d22",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:02:01.051786+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Robert WHARTON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 5th day of November, 1999 the order of the Court of Common Pleas of Philadelphia County is hereby vacated for failure to comply with Pa. R.A.P.1925(a) and this matter is remanded to the trial court in order for it to issue an opinion which adequately addresses all of the relevant issues. See Commonwealth v. Williams, 557 Pa. 207, 732 A.2d 1167 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Robert WHARTON, Appellant.\nSupreme Court of Pennsylvania.\nNov. 5, 1999."
+  },
+  "file_name": "1051-03",
+  "first_page_order": 1097,
+  "last_page_order": 1098
+}

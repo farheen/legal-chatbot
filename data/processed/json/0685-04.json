@@ -1,0 +1,83 @@
+{
+  "id": 12488131,
+  "name": "John FARMER v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Farmer v. Comm'r of Corr.",
+  "decision_date": "2016-09-13",
+  "docket_number": "",
+  "first_page": "685",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 905"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Conn.App. 455",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12485143
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/139-2/0767-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 372,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25775807778754667
+    },
+    "sha256": "8f3b63279fd72d3218d7514bc5008cbfc5bb2d70c987c22274358a1ac1b96a80",
+    "simhash": "1:20dd1088fb7121f0",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:34:54.100288+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John FARMER\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner John Farmer's petition for certification for appeal from the Appellate Court, 165 Conn.App. 455, 139 A.3d 767 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "John FARMER\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided September 13, 2016\nMary Boehlert, assigned counsel, in support of the petition.\nLisa Herskowitz, senior assistant state's attorney, in opposition.\nThe petitioner John Farmer's petition for certification for appeal from the Appellate Court, 165 Conn.App. 455, 139 A.3d 767 (2016), is denied."
+  },
+  "file_name": "0685-04",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

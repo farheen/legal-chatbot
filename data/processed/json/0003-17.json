@@ -1,0 +1,58 @@
+{
+  "id": 12484963,
+  "name": "Commonwealth v. Joseph Mason",
+  "name_abbreviation": "Commonwealth v. Mason",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 031 WAL 2016",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "ac4c2f9e113e3a0e222093f04a1f432847355e535d6f3c8cd859e93300a85ef3",
+    "simhash": "1:1c8e076c00212da0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJoseph Mason"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJoseph Mason\nNO. 031 WAL 2016\nSupreme Court of Pennsylvania\nApril 20, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0003-17",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

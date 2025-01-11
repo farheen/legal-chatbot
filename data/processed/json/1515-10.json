@@ -1,0 +1,59 @@
+{
+  "id": 6093254,
+  "name": "In re Roger S. Williams",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "1968-09-19",
+  "docket_number": "No. 8390",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 54,
+    "ocr_confidence": 0.498,
+    "sha256": "5c37f835ed24fffc7b63fd733ee46375e9f88bcd9a9cb15247f15ff2add91c0d",
+    "simhash": "1:3559b8c72e5482b8",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Roger S. Williams"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Cumene oxidation.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8390.\nIn re Roger S. Williams"
+  },
+  "file_name": "1515-10",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

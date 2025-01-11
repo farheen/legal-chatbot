@@ -1,0 +1,58 @@
+{
+  "id": 12487366,
+  "name": "E.O. v. L.J.O.",
+  "name_abbreviation": "E.O. v. L.J.O.",
+  "decision_date": "2016-04-14",
+  "docket_number": "NO. 1304 MDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 91,
+    "sha256": "5e3e950d0421df0eecc787938075982061095bf69cdc61a3f7564e2d505b5ae6",
+    "simhash": "1:281774e9338116c2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.O.\nv.\nL.J.O."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.O.\nv.\nL.J.O.\nNO. 1304 MDA 2015\nSuperior Court of Pennsylvania.\nApril 14, 2016\nAffirmed."
+  },
+  "file_name": "0781-10",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

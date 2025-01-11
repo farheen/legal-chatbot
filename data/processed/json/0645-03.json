@@ -1,0 +1,58 @@
+{
+  "id": 12501518,
+  "name": "COM. v. GAUGHAN, D.",
+  "name_abbreviation": "Com. v. Gaughan",
+  "decision_date": "2018-07-03",
+  "docket_number": "2463 EDA 2017",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 645"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 125,
+    "sha256": "96102a9c4691a393601e83f121abd3152c9737c64430bdd05c8d3553b0b3b139",
+    "simhash": "1:bc57162b04581384",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGAUGHAN, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGAUGHAN, D.\n2463 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 3, 2018\nReargument Denied September 5, 2018\nAffirmed"
+  },
+  "file_name": "0645-03",
+  "first_page_order": 645,
+  "last_page_order": 645
+}

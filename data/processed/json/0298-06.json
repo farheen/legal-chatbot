@@ -1,0 +1,62 @@
+{
+  "id": 12485592,
+  "name": "State v. Lorenzo Daloisio",
+  "name_abbreviation": "State v. Daloisio",
+  "decision_date": "2016-06-24",
+  "docket_number": "NOS. C-954 SEPT. TERM 2015, 077487",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 125,
+    "sha256": "72d929c251cd5eed1fb31787d2ad0d137d188de352057570d199a615bd44ac08",
+    "simhash": "1:40ec5eb71c2b2aa2",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nLorenzo Daloisio"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nLorenzo Daloisio\nNOS. C-954 SEPT. TERM 2015, 077487\nSupreme Court of New Jersey\nJune 24, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-06",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

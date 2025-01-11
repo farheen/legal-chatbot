@@ -1,0 +1,59 @@
+{
+  "id": 6093157,
+  "name": "In re Philip J. Smith, Jr., et al.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "1968-06-10",
+  "docket_number": "No. 8363",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 112,
+    "ocr_confidence": 0.552,
+    "sha256": "513e5a4598015f849739333a7788b36a6dacf05ee13ab7949ebd8f8c1dedd66c",
+    "simhash": "1:a8142c8219220976",
+    "word_count": 20
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Philip J. Smith, Jr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Method of treating chromium to render it resistant to corrosion.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8363.\nIn re Philip J. Smith, Jr., et al."
+  },
+  "file_name": "1514-17",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

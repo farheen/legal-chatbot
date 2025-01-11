@@ -1,0 +1,58 @@
+{
+  "id": 12486600,
+  "name": "A. Kravitz v. J. Kravitz",
+  "name_abbreviation": "Kravitz v. Kravitz",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 1828 EDA 2015",
+  "first_page": "199",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "sha256": "eb822e92acc94eae5a136a8bfa1fdc3946abb2ca5590d0f2699cff51b90b247b",
+    "simhash": "1:14d96401e4919ca1",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. Kravitz\nv.\nJ. Kravitz"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "A. Kravitz\nv.\nJ. Kravitz\nNO. 1828 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nAffirmed."
+  },
+  "file_name": "0199-08",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

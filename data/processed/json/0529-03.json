@@ -1,0 +1,812 @@
+{
+  "id": 8333179,
+  "name": "Kevin J. KENDRICK, Appellant, v. DISTRICT ATTORNEY OF PHILADELPHIA COUNTY, Attorney General of Pennsylvania, Nancy Bailey, Superintendent of the FCI, Fort Dix, Appellees",
+  "name_abbreviation": "Kendrick v. District Attorney of Philadelphia County",
+  "decision_date": "2007-02-20",
+  "docket_number": "",
+  "first_page": "529",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "916 A.2d 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "529 U.S. 277",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9508427
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "Judiciary may not rewrite legislation; separation of powers doctrine permits only the Legislature the authority to do so"
+        },
+        {
+          "parenthetical": "Judiciary may not rewrite legislation; separation of powers doctrine permits only the Legislature the authority to do so"
+        },
+        {
+          "parenthetical": "Judiciary may not rewrite legislation; separation of powers doctrine permits only the Legislature the authority to do so"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/529/0277-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 273",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673504,
+        356219,
+        11673597,
+        356270
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "281"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0273-01",
+        "/pa/553/0347-01",
+        "/a2d/719/0273-02",
+        "/pa/553/0348-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 348",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356270
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0348-01"
+      ]
+    },
+    {
+      "cite": "905 A.2d 918",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8472059,
+        3787763
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/905/0918-01",
+        "/pa/588/0539-01"
+      ]
+    },
+    {
+      "cite": "588 Pa. 539",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3787763
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/588/0539-01"
+      ]
+    },
+    {
+      "cite": "126 S.Ct. 2479",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3500549
+      ],
+      "weight": 2,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "2489",
+          "parenthetical": "Opinion Announcing the Judgment of the Court"
+        },
+        {
+          "parenthetical": "Opinion Announcing the Judgment of the Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/548/0230-01"
+      ]
+    },
+    {
+      "cite": "673 A.2d 898",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461545,
+        7865205
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0578-01",
+        "/a2d/673/0898-01"
+      ]
+    },
+    {
+      "cite": "548 Pa. 578",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 Pa. 172",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827711
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The question of whether a state court decision announcing a new rule is to be applied retroactively or prospectively is squarely within the province of the state courts.\""
+        },
+        {
+          "page": "1098",
+          "parenthetical": "\"The question of whether a state court decision announcing a new rule is to be applied retroactively or prospectively is squarely within the province of the state courts.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0172-01"
+      ]
+    },
+    {
+      "cite": "749 A.2d 441",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        93760,
+        11527517,
+        93093,
+        11527423
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "444",
+          "parenthetical": "\"Retroactive application of a new rule of law is a matter of judicial discretion.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0167-01",
+        "/a2d/749/0441-02",
+        "/pa/561/0167-02",
+        "/a2d/749/0441-01"
+      ]
+    },
+    {
+      "cite": "561 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        93760,
+        93093
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Retroactive application of a new rule of law is a matter of judicial discretion.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/561/0167-01",
+        "/pa/561/0167-02"
+      ]
+    },
+    {
+      "cite": "52 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "208",
+          "parenthetical": "\"[i]n general, the construction placed upon a statute by the courts becomes a part of the act, from the very beginning\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Pa. 349",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470705
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[i]n general, the construction placed upon a statute by the courts becomes a part of the act, from the very beginning\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/356/0349-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147463
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "312-13",
+          "parenthetical": "\"judicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision of the case giving rise to that construction.\""
+        },
+        {
+          "parenthetical": "\"judicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision of the case giving rise to that construction.\""
+        },
+        {
+          "parenthetical": "\"judicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision of the case giving rise to that construction.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0298-01"
+      ]
+    },
+    {
+      "cite": "501 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1782489
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "decisions that do not \"articulate a new rale but merely rel[y] upon a statutory interpretation which [is] not wholly without precedent, ... are treated as relating back to the original statute because they are nothing more than interpretations of existing legislation\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/501/0093-01"
+      ]
+    },
+    {
+      "cite": "736 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838560,
+        11575941
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01",
+        "/a2d/736/0564-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838560
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 273",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841597
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0273-01"
+      ]
+    },
+    {
+      "cite": "725 A.2d 1197",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11644850,
+        1701925,
+        11644900,
+        1701978
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1203",
+          "parenthetical": "\"A new rule of law to which we give full retroactive effect, will not be applied to any case on collateral review unless that decision was handed down during the pen-dency of an appellant's direct appeal and the issue was properly preserved there, or, is non-waivable.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/725/1197-01",
+        "/pa/555/0565-01",
+        "/a2d/725/1197-02",
+        "/pa/555/0565-02"
+      ]
+    },
+    {
+      "cite": "555 Pa. 565",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1701978,
+        1701925
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"A new rule of law to which we give full retroactive effect, will not be applied to any case on collateral review unless that decision was handed down during the pen-dency of an appellant's direct appeal and the issue was properly preserved there, or, is non-waivable.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0565-02",
+        "/pa/555/0565-01"
+      ]
+    },
+    {
+      "cite": "417 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1763842,
+        1763787
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "136",
+          "parenthetical": "in determining whether to apply a new rule retroactively or prospectively, the following must be considered: (1) the purpose to be served by the new rule; (2) the extent of the reliance on the old rule; and (3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0456-01",
+        "/pa/490/0457-01"
+      ]
+    },
+    {
+      "cite": "490 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763787
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "in determining whether to apply a new rule retroactively or prospectively, the following must be considered: (1) the purpose to be served by the new rule; (2) the extent of the reliance on the old rule; and (3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0457-01"
+      ]
+    },
+    {
+      "cite": "807 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312757,
+        11354551
+      ],
+      "weight": 5,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "842-43"
+        },
+        {
+          "page": "844"
+        },
+        {
+          "page": "844"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0622-01",
+        "/a2d/807/0838-01"
+      ]
+    },
+    {
+      "cite": "569 Pa. 622",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        312757
+      ],
+      "weight": 2,
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0622-01"
+      ]
+    },
+    {
+      "cite": "757 A.2d 842",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11243593,
+        225994,
+        11243613,
+        225951
+      ],
+      "weight": 8,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "847",
+          "parenthetical": "\"When this Court issues a ruling that overrules prior law, expresses a fundamental break from precedent, upon which litigants may have relied, or decides an issue of first impression not clearly foreshadowed by precedent, this Court announces a new rule of law.\""
+        },
+        {
+          "page": "848"
+        },
+        {
+          "page": "847"
+        },
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/757/0842-01",
+        "/pa/562/0633-01",
+        "/a2d/757/0842-02",
+        "/pa/562/0634-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 634",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225951
+      ],
+      "weight": 3,
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0634-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 458",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "641 A.2d 574",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775571,
+        11293071
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion in Support of Reversal (\"OISR\") by Zappala, J., joined by Flaherty, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0100-01",
+        "/a2d/641/0574-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 100",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775571
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Opinion in Support of Reversal (\"OISR\") by Zappala, J., joined by Flaherty, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0100-01"
+      ]
+    },
+    {
+      "cite": "452 U.S. 576",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1313733
+      ],
+      "weight": 5,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "587"
+        },
+        {
+          "page": "2531"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/452/0576-01"
+      ]
+    },
+    {
+      "cite": "428 Pa.Super. 259",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        933168
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "affirming conviction for corrupt organizations where underlying crime was possession of a controlled substance with intent to deliver"
+        },
+        {
+          "parenthetical": "affirming conviction for corrupt organizations where underlying crime was possession of a controlled substance with intent to deliver"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/428/0259-01"
+      ]
+    },
+    {
+      "cite": "339 Pa.Super. 413",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        627021
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/339/0413-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2253",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "742 A.2d 672",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "560 Pa. 682",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "table"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "734 A.2d 840",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11546544,
+        56853
+      ],
+      "weight": 4,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Shaffer II\""
+        },
+        {
+          "page": "844"
+        },
+        {
+          "page": "844",
+          "parenthetical": "\"[0]nce this Court interpreted the legislative language contained in the applicable act, our interpretation became a part of the legislation from the date of its enactment.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/734/0840-01",
+        "/pa/557/0453-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56853
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Shaffer II\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0453-01"
+      ]
+    },
+    {
+      "cite": "696 A.2d 179",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12021455
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/696/0179-01"
+      ]
+    },
+    {
+      "cite": "674 A.2d 655",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        463578,
+        7862507
+      ],
+      "weight": 5,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "659-660"
+        },
+        {
+          "page": "659"
+        },
+        {
+          "page": "663",
+          "parenthetical": "Nix, C.J., joined by Castille and Newman, JJ., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0001-01",
+        "/a2d/674/0655-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463578
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1451,
+    "char_count": 37532,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20260351086105793
+    },
+    "sha256": "6f81744614d80632fdabd02206c6be497250aacf209d85cdd056357c0030a7b3",
+    "simhash": "1:d3f3b61915cc819c",
+    "word_count": 5889
+  },
+  "last_updated": "2024-02-27T17:58:08.380083+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ.",
+      "Former Justices NIGRO and NEWMAN did not participate in the decision of this case.",
+      "Chief Justice CAPPY and Justice SAYLOR, EAKIN and BAER join the opinion."
+    ],
+    "parties": [
+      "Kevin J. KENDRICK, Appellant, v. DISTRICT ATTORNEY OF PHILADELPHIA COUNTY, Attorney General of Pennsylvania, Nancy Bailey, Superintendent of the FCI, Fort Dix, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nJustice CASTILLE.\nThis matter comes before this Court on a Petition for Certification of Question of Law from the United States Court of Appeals for the Third Circuit. This Court granted the Petition, which raised a single question of Pennsylvania law: whether our decision in Commonwealth v. Besch, 544 Pa. 1, 674 A.2d 655 (1996) establishes a new rule of law that cannot be applied retroactively to cases on collateral review. For the reasons set forth below, we answer the question in the negative.\nThe salient facts are undisputed. On February 9, 1988, acting pursuant to a search and seizure warrant, police officers entered a residence located at 1503 Chew Avenue in Philadelphia and discovered appellant rapidly moving towards the bathroom carrying what turned out to be thirty-four grams of cocaine wrapped inside a newspaper. The police recovered more cocaine during the search of the residence.\nOn June 29, 1988, Susan Smith met appellant at his residence for their previously arranged date. After her arrival, Smith watched television in appellant\u2019s bedroom while he got ready for them date. Appellant then entered the bedroom, jumped on top of Smith, ripped off her clothes, and proceeded to rape her at gunpoint. However, during the assault on Smith, she was able to gain control of the gun, hit appellant on the head with the gun, and flee the residence naked from the waist down screaming for help. Neighbors observed Smith and called the police. Upon entering appellant\u2019s residence, police officers discovered several firearms, ammunition, and plastic bags containing several hundred grams of cocaine.\nOn May 2, 1991, appellant entered a negotiated guilty plea to two counts of possession with intent to deliver a controlled substance, one count of rape, and one count of violating the Pennsylvania Corrupt Organizations Act (\u201cPa.C.O.A\u201d), 18 Pa.C.S. \u00a7 911 et seq. On January 28, 1992, in accordance with sentence recommendations by counsel, appellant was sentenced to a term of imprisonment of two concurrent five to ten year sentences for the two drug convictions, a consecutive term of ten to twenty years for the rape conviction, and a term of ten to twenty years for the Pa.C.O.A. conviction to run concurrently with the rape sentence. Accordingly, appellant\u2019s aggregate sentence was fifteen to thirty years of imprisonment. Appellant did not file a direct appeal.\nThereafter, appellant filed a pro se petition for relief pursuant to the Post Conviction Relief Act (\u201cPCRA\u201d), 42 Pa.C.S. \u00a7 9541 et seq. Counsel was appointed and an amended PCRA petition was filed on September 2, 1994 raising the sole issue that appellant\u2019s guilty plea was invalid because the evidence submitted by the Commonwealth did not sufficiently establish the crime of corrupt organizations under the Pa.C.O.A. Specifically, appellant averred that he had not engaged in an organized crime that infiltrated a legitimate business enterprise, but was merely a seller of controlled substances in an illegal drug dealing enterprise. Appellant requested that his guilty plea to corrupt organizations be declared invalid, and that he be resentenced on the remaining convictions. While his PCRA petition was pending, this Court issued our decision in Besch, which essentially held that the Pa. C.O.A. was intended to criminalize only conduct involving otherwise legitimate business enterprises, and not enterprises (such as the drug conspiracy in Besch) that were wholly illegitimate. Besch, 674 A.2d at 659-660. Following Besch, appellant amended his amended PCRA petition, arguing that at the time he entered his guilty plea, the Pa.C.O.A, as interpreted by Besch, did not criminalize his conduct of participating in a wholly illegitimate drug enterprise. On December 26, 1996, the PCRA court denied appellant\u2019s petition, concluding that appellant\u2019s guilty plea was valid. The PCRA court did not address appellant\u2019s Besch argument.\nAppellant then appealed to the Superior Court and reasserted his claim that his guilty plea to corrupt organizations was invalid under Besch, and that he was entitled to be resentenced on the remaining convictions. On October 17, 1997, the Superior Court affirmed the denial of appellant\u2019s PCRA petition in a memorandum opinion. The Superior Court panel relied exclusively on its then-recent decision in Commonwealth v. Shaffer, 696 A.2d 179 (Pa.Super.1997) (\u201cShaffer I\u201d), rev\u2019d, 557 Pa. 453, 734 A.2d 840 (1999) (\u201cShaffer II\u201d), in rejecting appellant\u2019s claim.\nThereafter, appellant filed a petition for allowance of appeal with this Court. On April 28, 1998, we ordered that the disposition of appellant\u2019s petition be \u201creserved pending decision of Commonwealth v. Shaffer, No. 95 W.D. Appeal Docket 1997, and Commonwealth v. Bailey, No. 18 W.D. Appeal Docket 1998.\u201d Commonwealth v. Kendrick, No. 561 E.D. Allocatur Docket 1997. After issuing our decision in Shaffer II, which reversed the Superior Court, this Court denied appellant\u2019s petition for allowance of appeal on August 18, 1999. Commonwealth v. Kendrick, 560 Pa. 682, 742 A.2d 672 (1999) (table).\nOn July 14, 2000, appellant filed a petition for a writ of habeas corpus in the United States District Court for the Eastern District of Pennsylvania, averring that his guilty plea to corrupt organizations was not voluntary, knowing, and intelligent because he pled guilty to conduct that was not criminal, and that he was entitled to be resentenced for the remaining convictions. On March 30, 2001, then-Chief United States Magistrate Judge James R. Melin-son filed a report and recommendation recommending that the District Court deny appellant\u2019s petition with prejudice. Chief Magistrate Melinson concluded, inter alia, that Besch did not apply retroactively to cases on collateral review. On October 24, 2001, District Court Judge William H. Yohn, Jr. issued an order approving and adopting Chief Magistrate Melinson\u2019s report and recommendation and denied appellant\u2019s habeas petition with prejudice.\nAppellant then requested a certificate of appealability under 28 U.S.C. \u00a7 2253(c)(1). On April 23, 2003, the Third Circuit granted appellant a certificate of appealability on two issues: (1) whether the District Court erred by concluding that the concurrent sentence doctrine precludes federal habeas review of appellant\u2019s challenge to his guilty plea; and (2) whether the District Court erred by rejecting on the merits appellant\u2019s claim that his guilty plea for violating the Pa.C.O.A. is invalid under Besch. On January 30, 2004, the Third Circuit filed a Petition for Certification of Question of Law to this Court, asking whether Besch announced a new rule of law, and if so, whether it applies retroactively to a case on collateral review. The Third Circuit noted that because it could not confidently predict how this Court would decide this issue, certification of the question to this Court was necessary. We granted the Petition on March 19, 2004.\nBefore examining the parties\u2019 arguments on the certified question of law, an examination of the Pa.C.O.A, and relevant case law is required. The Pa.C.O.A. criminalizes the following conduct:\n(1) It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity in which such person participated as a principal, to use or invest, directly or indirectly, any part of such income, or the proceeds of such income, in the acquisition of any interest in, or the establishment or operation of, any enterprise....\n(2) It shall be unlawful for any person through a pattern of racketeering activity to acquire or maintain, directly or indirectly, any interest in or control of any enterprise.\n(3) It shall be unlawful for any person employed by or associated with any enterprise to conduct or participate, directly or indirectly, in the conduct of such enterprise\u2019s affairs through a pattern of racketeering activity.\n(4) It shall be unlawful for any person to conspire to violate any of the provisions of subsections (1), (2) or (3) of this subsection.\n18 Pa.C.S. \u00a7 911(b). The original version of the Pa.C.O.A., as enacted in 1973, defined the term \u201centerprise\u201d as \u201cany individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity, engaged in commerce.\u201d 18 Pa.C.S. \u00a7 911(h)(3).\nThe first Pennsylvania appellate decision addressing the issue of whether the statutory term \u201centerprise\u201d encompasses both legitimate and illegitimate enterprises was Commonwealth v. Yacoubian, 339 Pa.Super. 413, 489 A.2d 228 (1985). In Yacoubi-an, the Superior Court affirmatively held that \u201cthe term \u2018enterprise\u2019 is unrestricted and sufficiently broad to include both legitimate and illegitimate enterprises.\u201d Id. at 231. Following this decision, and before Besch, the Superior Court repeatedly upheld convictions for corrupt organizations even where the enterprise involved was wholly illegitimate. See, e.g., Commonwealth v. Donahue, 428 Pa.Super. 259, 630 A.2d 1238 (1993) (affirming conviction for corrupt organizations where underlying crime was possession of a controlled substance with intent to deliver).\nIn Besch, this Court squarely addressed the issue of whether the prosecution of a wholly illegitimate drug trafficking operation is within the scope of the Pa.C.O.A. In a 4-3 decision, the Besch majority held that the General Assembly intended that the Pa.C.O.A. encompass only the prosecution of otherwise legitimate business enterprises, and not wholly illegitimate enterprises such as drug cartels. Because Besch\u2019s drug activity was not connected to an otherwise legitimate business enterprise, or to an attempt to infiltrate such an enterprise, the Court reversed his Pa. C.O.A. convictions. The majority primarily based its holding on the following one sentence of the Pa.C.O.A.\u2019s preamble:\n[T]he vast amounts of money and power accumulated by organized crime are increasingly used to infiltrate and corrupt legitimate businesses operating within the Commonwealth, together with all of the techniques of violence, intimidation, and other forms of unlawful conduct through which such money and power are derived[.]\n18 Pa.C.S. \u00a7 911(a)(3). From this sentence, the Besch majority concluded the following:\nThere is no escaping the clear intent of this statute. The General Assembly went to great pains to set forth the parameters of this piece of legislation. Pa.C.O.A. is directed at preventing the infiltration of legitimate business by organized crime in order to promote and protect legitimate economic development within Pennsylvania.\nBesch, 674 A.2d at 659. Moreover, the majority disapproved of the Superior Court\u2019s decision and reasoning in Yacoubi-an. Id. at 660 n. 8 (Yacoubicm is \u201cerroneous to the extent that it is inconsistent with our decision herein\u201d).\nFormer Chief Justice Robert N.C. Nix, Jr., authored a dissenting opinion, which was joined by former Justice Sandra Schultz Newman and this author. The Besch dissent maintained that the plain language of the definition of \u201centerprise\u201d in Section 911(h)(3) of the Pa.C.O.A. included both legitimate and illegitimate business enterprises. The dissent further maintained that the majority\u2019s holding was directly contrary to federal authority, including United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981), and the Superior Court\u2019s decision in Yacoubian, and expressed concern that the majority\u2019s decision \u201cisolates Pennsylvania from the mainstream of Racketeer Influenced and Corrupt Organizations jurisprudence and inexplicably makes it more difficult for our state law enforcement authorities to combat organized crime encompassing a wide range of nefarious activities.\u201d Besch, 674 A.2d at 663 (Nix, C.J., joined by Castille and Newman, JJ., dissenting).\nTwo of the four Justices who comprised the Besch majority had earlier construed the Pa.C.O.A., in dicta, as intending to reach wholly illegal enterprises. See Commonwealth v. Wetton, 537 Pa. 100, 641 A.2d 574, 579 n. 5 (1994) (Opinion in Support of Reversal (\u201cOISR\u201d) by Zappala, J., joined by Flaherty, J.) (\u201c[W]e find that neither the preamble nor the express language of the statute prevents its proscription from reaching enterprises organized and existing for illegal purposes.\u201d). However, Besch definitively represented the first time this Court squarely addressed the question and the question was resolved by a clear majority decision. Thus, Besch represents this Court\u2019s first, controlling construction of the statutory language and intended reach of the Pa.C.O.A. as originally enacted.\nTwo weeks after this Court\u2019s decision in Besch, and in apparent direct response to that decision, the General Assembly proposed an amendment to the Pa.C.O.A. to make explicitly clear that it would target wholly illegitimate as well as otherwise legitimate enterprises. The amendment was finally enacted approximately two months after Besch, and reads as follows:\n\u201cEnterprise\u201d means any individual, partnership, corporation, association or other legal entity, and any union or group of individuals associated in fact although not a legal entity, engaged in commerce and includes legitimate as well as illegitimate entities and governmental entities.\n18 Pa.C.S. \u00a7 911(h)(3), as amended, June 19, 1996 (effective immediately) (emphasis added).\nApproximately one year after Besch and the 1996 amendment to the definition of \u201centerprise,\u201d the Superior Court decided Shaffer I, 696 A.2d 179. In Shaffer I, the defendant had been convicted of violating the pre-amended version of the Pa.C.O.A. On direct appeal, Shaffer forwarded the argument that his convictions for corrupt organizations could not be upheld under Besch because the enterprise he was involved in was a wholly illegitimate drug trafficking operation. The Superior Court rejected this argument and affirmed Shaffer\u2019s corrupt organizations convictions, concluding that an illegal drug operation constituted an enterprise within the meaning of the Pa.C.O.A. In reaching this conclusion, the Shaffer I court found the 1996 amendment controlling, not Besch. Notably, the Superior Court acknowledged its fundamental duty to maintain and effectuate the decisional law of this Court, but nevertheless determined that applying Besch\u2019s construction of the Pa.C.O.A. would ignore the intent of the General Assembly as clearly stated in its amended definition of \u201centerprise.\u201d\nOn appeal, in Shaffer II, 557 Pa. 458, 734 A.2d 840, this Court reversed the Superior Court. First, the Shaffer II Court found that, pursuant to Section 1958 of the Statutory Construction Act, 1 Pa.C.S. \u00a7 1953, the 1996 legislative amendment applied prospectively from the date of its enactment. This Court then held that the Superior Court erred in treating Besch\u2019s construction of the Pa.C.O.A. as a nullity based upon the 1996 legislative amendment to the statute: \u201cThe Superior Court, in essence, reinterpreted the statutory language of the Pa.C.O.A. in a manner that was contrary to our interpretation in Besch.\u201d Shaffer II, 734 A.2d at 844. The Shaffer II Court reasoned that judicial construction of a statute becomes part of the legislation from the date of its enactment. Under Besch and Shaffer II, therefore, the Pa.C.O.A. encompassed both legitimate and illegitimate enterprises only after the 1996 legislative amendment to that explicit effect, but it encompassed only otherwise legitimate enterprises from the date of the statute\u2019s first enactment in 1973 until the 1996 legislative amendment.\nAppellant contends that this Court\u2019s decision in Besch did not create a new rule of law and, therefore, it must be deemed available to him on collateral review. Appellant argues that under the new rule and retroactivity principles set forth by this Court in Fiore v. White, 562 Pa. 634, 757 A.2d 842 (2000) and Commonwealth v. Eller, 569 Pa. 622, 807 A.2d 838 (2002), Besch\u2019s construction of the statutory language and intended scope of what conduct the Pa.C.O.A. encompassed relates back to the date of the statute\u2019s enactment. Consequently, appellant asserts, he could not have been guilty of the Pa.C.O.A. charge to which he pleaded guilty because the enterprise he participated in was a wholly illegal drug operation. As a result, appellant claims, his guilty plea is vulnerable to a collateral challenge on due process grounds.\nIn response, the Commonwealth asks this Court to overrule Besch. The Commonwealth argues that the 1996 legislative amendment clearly demonstrates that the Besch majority\u2019s construction of the Pa.C.O.A. unequivocally contradicts the General Assembly\u2019s original intent that the Pa.C.O.A. encompass both legitimate and illegitimate enterprises. Alternatively, the Commonwealth, also relying on the new rule and retroactivity principles announced in Fiore, argues that Besch represents a new rule of law because it: disapproved of prior case law on the issue, notably the Superior Court\u2019s decision in Yacoubian; and expressed a fundamental break from Superior Court precedent, persuasive federal court precedent, and the Wetton OISR, all of which litigants relied upon. Commonwealth\u2019s Brief at 16-17 (citing Fiore, 757 A.2d at 847 (\u201cWhen this Court issues a ruling that overrules prior law, expresses a fundamental break from precedent, upon which litigants may have relied, or decides an issue of first impression not clearly foreshadowed by precedent, this Court announces a new rule of law.\u201d)). The Commonwealth concedes that decisions involving statutory interpretation generally do not constitute new rules of law; however, the Commonwealth stresses that the Pa.C.O.A. had already been interpreted by the Superior Court in Ya-coubian, and a published decision of the Superior Court is precedent. The Commonwealth maintains that in disapproving Yacoubian, this Court\u2019s re-defining of the term \u201centerprise\u201d in Besch did not constitute the first interpretation of the term and, thus, was not a clarification of existing law. The Commonwealth argues that because Besch is a new rule of law, it should apply prospectively, citing the three-factor standard adopted by this Court in Commonwealth v. Miller, 490 Pa. 457, 417 A.2d 128, 136 (1980) (in determining whether to apply a new rule retroactively or prospectively, the following must be considered: (1) the purpose to be served by the new rule; (2) the extent of the reliance on the old rule; and (3) the effect on the administration of justice by the retroactive application of the new rule).\nMoreover, the Commonwealth maintains that if this Court were to determine that Besch can be given retroactive effect, it cannot be applied to the instant case because appellant did not file a direct appeal, and a challenge to a corrupt organizations conviction is waivable. Commonwealth\u2019s Brief at 25 (citing Commonwealth v. Blystone, 555 Pa. 565, 725 A.2d 1197, 1203 (1999) (\u201cA new rule of law to which we give full retroactive effect, will not be applied to any case on collateral review unless that decision was handed down during the pen-dency of an appellant\u2019s direct appeal and the issue was properly preserved there, or, is non-waivable.\u201d)).\nIn Fiore, 562 Pa. 634, 757 A.2d 842, this Court addressed a certified question of Pennsylvania law from the Supreme Court of the United States concerning Section 401(a) of the Solid Waste Management Act (\u201cSWMA\u201d), 35 P.S. \u00a7 6018.401(a). Fiore was the owner and operator of a hazardous waste facility and had a valid permit to operate the facility, but was convicted of violating Section 401(a) of the SWMA because he intentionally altered the facility\u2019s disposal pipes, thus undermining the conditions of his permit. In Commonwealth v. Scarpone, 535 Pa. 273, 634 A.2d 1109 (1993), a case involving Fiore\u2019s co-defendant (and general manager of the facility), this Court held that the charged conduct under Section 401(a) was not criminal because Scarpone had a permit. Fiore, whose Section 401(a) conviction was affirmed and rendered final before we decided Scarpone, ultimately sought federal ha-beas corpus relief on a number of theories, all deriving from the premise that the Scarpone Court\u2019s interpretation of the SWMA proved that Fiore, too, had not committed a crime. The U.S. Supreme Court asked this Court to determine whether our interpretation of Section 401(a) in Scarpone furnished the correct interpretation of the statute in Pennsylvania at the time Fiore\u2019s earlier conviction became final. In a unanimous decision, this Court answered the certified question in the affirmative, holding that Scarpone, which represented this Court\u2019s first pronouncement on the substance of the statutory provision, did not announce a new rule of law because it merely explicated and enforced the plain language of the statute. In reaching this conclusion, this Court reasoned that our initial interpretation of a statute does not announce a new rule of law, but is \u201cpurely a clarification of an existing law.\u201d Fiore, 757 A.2d at 848.\nIn Eller, 569 Pa. 622, 807 A.2d 838, this Court addressed whether Commonwealth v. Lantzy, 558 Pa. 214, 736 A.2d 564 (1999), announced a new rule of law. The Lantzy Court held that the PCRA \u201cprovides the exclusive remedy for post-conviction claims seeking restoration of appellate rights due to counsel\u2019s failure to perfect a direct appeal.\u201d Lantzy, 736 A.2d at 570. The issue in Eller was whether Lantzy\u2019s holding respecting the exclusivity of the PCRA for such claims was unlawfully applied to El-ler, who raised his claim before Lantzy was decided and outside the time restrictions of the PCRA. The Court rejected Eller\u2019s claim that Lantzy announced a \u201cnew rule\u201d which could not be \u201cretroactively applied\u201d to his case. Instead, the Eller Court concluded, Lantzy simply interpreted and applied the plain language of Section 9542 of the PCRA, and that interpretation must be deemed to constitute the statute\u2019s meaning from its inception. El-ler, 807 A.2d at 842-43. In support of this holding, this Court both relied on the analysis in Fiore and spoke to the distinction, for retroactivity purposes, between judicial \u201crules\u201d and \u201cmies\u201d arising from statutory interpretation:\n[I]n deciding Lantzy, this Court was not fashioning a judicial rule of criminal or post-conviction procedure to decide the case. Instead, this Court construed the terms of a statute, the PCRA. As Madame Justice Newman noted in her recent unanimous opinion in Fiore v. White, 562 Pa. 634, 757 A.2d 842, 847 (2000), \u201c[n]ot every opinion creates a new rule of law.\u201d This is particularly so when the opinion involves the construction of a statute, and it either adopts a view of the statute \u201cwhich was not wholly without precedent,\u201d id., see also McCloskey v. WCAB, 501 Pa. 93, 460 A.2d 237, 239 n. 3 (1983) (decisions that do not \u201carticulate a new rale but merely rel[y] upon a statutory interpretation which [is] not wholly without precedent, ... are treated as relating back to the original statute because they are nothing more than interpretations of existing legislation\u201d), or it involves this Court\u2019s first opportunity to construe the disputed provision. Fiore, 757 A.2d at 848. With respect to the latter circumstance, which was the circumstance facing the Court in Lantzy, the Fiore Court noted:\nThere can be no change to statutory law when there has been no amendment by the legislature and no prior decision by this Court. Only the legislature has the authority to promulgate legislation. Our role is to interpret statutes as enacted by the [General] Assembly. We affect legislation when we affirm, alter, or overrule our prior decisions concerning a statute or when we declare it null and void, as unconstitutional. Therefore, when we have not yet answered a specific question about the meaning of a statute, our initial interpretation does not announce a new rule of law. Our first pronouncement on the substance of a statutory provision is purely a clarification of existing law.\nId. See also Rivers v. Roadway Express, Inc., 511 U.S. 298, 312-13, 114 S.Ct. 1510, 128 L.Ed.2d 274 (1994) (\u201cjudicial construction of a statute is an authoritative statement of what the statute meant before as well as after the decision of the case giving rise to that construction.\u201d); Buradus v. General Cement Prods. Co., 356 Pa. 349, 52 A.2d 205, 208 (1947) (\u201c[i]n general, the construction placed upon a statute by the courts becomes a part of the act, from the very beginning\u201d) (emphasis in original).\nAlthough our authoritative interpretation of the PCRA in Lantzy differed from the intermediate appellate court\u2019s view on the question of the cognizability of claims seeking reinstatement of direct appellate rights premised upon counsel ineffectiveness, our holding in Lantzy did not overrule, modify, or limit any previous case from this Court on the question. Moreover, the decision in Lantzy was premised, at least in part, upon this Court\u2019s previous plain meaning construction of the exclusivity language in \u00a7 9542, a construction that factored strongly into the ultimate holding. As in Fiore, our interpretation of the statute as to PCRA cognizability and exclusivity constitutes its meaning from its inception.\nId. at 843^14.\nIn arguing that Besch\u2019s interpretation of the Pa.C.O.A. established a new rule of law, the Commonwealth misconstrues the import of Fiore and ignores Eller. In Besch, this Court addressed for the first time the issue of whether the term \u201centerprise,\u201d as set forth in Section 911(h)(3) of the Pa.C.O.A., encompassed wholly illegitimate enterprises. Besch\u2019s holding that the statute did not encompass wholly illegitimate enterprises \u201cdid not overrule, modify, or limit any previous case from this Court.\u201d Eller, 807 A.2d at 844. Rather, as the Commonwealth acknowledges, Besch disapproved of the Superior Court\u2019s decision in Yacoubian, which had held that the Pa.C.O.A. encompassed both legitimate and illegitimate enterprises. Accordingly, Fiore and Eller command that this Court\u2019s interpretation of the term \u201centerprise\u201d in Besch was not a \u201cnew rule,\u201d but must be deemed to have merely explicated the meaning and scope of the term from the Pa.C.O.A\u2019s original enactment in 1973. The command of Fiore and Eller is also wholly consistent with Shaffer II, where this Court explicitly noted that Besch\u2019s interpretation of the Pa.C.O.A. related back to the date of its enactment. Shaffer II, 734 A.2d at 844 (\u201c[0]nce this Court interpreted the legislative language contained in the applicable act, our interpretation became a part of the legislation from the date of its enactment.\u201d).\nEven if this existing, recent authority did not prove the flaw in the Commonwealth\u2019s position, the position fails as a matter of logic and justice. As Eller explicitly recognized, the \u201crules\u201d that emerge from judicial holdings are not of a single kind. See Eller, 807 A.2d at 844. There are different sources for the rules and those differences should be considered in determining whether the holding should be deemed new and/or whether the holding should apply retroactively or prospectively. See Office of Disciplinary Counsel v. Surrick, 561 Pa. 167, 749 A.2d 441, 444 (2000) (\u201cRetroactive application of a new rule of law is a matter of judicial discretion.\u201d); Blackwell v. Commonwealth, State Ethics Com\u2019n, 527 Pa. 172, 589 A.2d 1094, 1098 (1991) (\u201cThe question of whether a state court decision announcing a new rule is to be applied retroactively or prospectively is squarely within the province of the state courts.\u201d). In this analysis, the major considerations must be: (1) whether the holding involves an interpretation of a statute or some other source of law; and (2) whether the issue is substantive or procedural. Logically, courts have greater control over questions of retroactivity or prospectivity if the \u201crule\u201d is of the court\u2019s own making, involves a procedural matter, and involves common law development. On the other hand, courts should have the least flexibility where, as in this ease, the holding at issue both: (a) involves an interpretation of a statute; and (b) far from involving a mere procedural matter, is a statute which defines criminal conduct. A person does not run afoul of Pennsylvania criminal law unless he violates a specific statute; and when this Court holds that a statute does not encompass certain conduct, we do not have a \u201cchoice\u201d in determining whether to give retroactive effect to our holding.\nWe turn now to the Commonwealth\u2019s distinct argument inviting this Court to reconsider and overrule our precedent in Besch at this late point. \u201cThe rule of stare decisis declares that for the sake of certainty, a conclusion reached in one case should be applied to those which follow, if the facts are substantially the same, even though the parties may be different.\u201d Commonwealth v. Tilghman, 548 Pa. 578, 673 A.2d 898, 903 n. 9 (1996). Recently, this Court stated the following regarding stare decisis:\nThe basic legal principle of stare decisis generally commands judicial respect for prior decisions of this Court and the legal rules contained in those decisions. As recently noted by the United States Supreme Court, \u201cstare decisis promotes the evenhanded, predictable, and consistent development of legal principles, fosters reliance on judicial decisions, and contributes to the actual and perceived integrity of the judicial process.\u201d Randall v. Sorrell, \u2014 U.S. -, 126 S.Ct. 2479, 2489, 165 L.Ed.2d 482 (2006) (Opinion Announcing the Judgment of the Court) (citations and internal quotations omitted).\nStilp v. Commonwealth, 588 Pa. 539, 905 A.2d 918, 954 n. 31 (2006). There are several reasons why we believe it unwise to accept the Commonwealth\u2019s invitation.\nFirst, Besch was premised exclusively upon statutory interpretation and, although it held that certain conduct was not deemed criminal by the Pa.C.O.A as drafted, it did not purport to insulate that conduct from legislative action. Thus, if the General Assembly disagreed with the interpretation, or even if jt agreed but determined that the scope of the statute should be rethought, there was nothing in Besch to prevent that body from revisiting the question and adopting a new standard. See Pap\u2019s A.M. v. City of Erie, 553 Pa. 348, 719 A.2d 273, 281 (1998), rev\u2019d, 529 U.S. 277, 120 S.Ct. 1382, 146 L.Ed.2d 265 (2000) (Judiciary may not rewrite legislation; separation of powers doctrine permits only the Legislature the authority to do so). This, of course, is exactly what that body promptly did-and in a fashion that did not seek to retroactively influence prior prosecutions (no doubt out of a recognition of the potential constitutional consequences). In our view, there is a far greater imperative to rethink a precedent when amendatory or corrective measures are exclusively within this Court\u2019s province \u2014 as where a rule of judicial procedure is at issue, or where we hold that the Constitution commands a particular result. Although the 1996 amendment was prospective, and thus Besch controlled certain cases and no doubt unsettled the expectations of prosecutorial authorities in those cases, the fact that there could be, and was, a legislative response is \u201cremedy enough.\u201d\nSecond, the very fact of the General Assembly\u2019s prompt response to Besch ensured that Bescfe-related claims would be finite and would decrease with the passage of time. This reality, in turn, counsels that the farther we are in time from the decision in Besch, the less wise a course it would be to reconsider it. We are particularly disinclined to reconsider a decision of such narrow effect upon collateral attack\u2014 and that disinclination is even stronger where, as here, the request is made by the Commonwealth in a case involving a certified question posed in conjunction with a federal habeas corpus challenge to a conviction arising in time before Besch.\nFinally, this Court is particularly disinclined to revisit precedent affecting but a handful of long-ago prosecutions, on federal habeas certification, where substantive law (i.e., law concerning what conduct is made criminal by a statute) is at issue, and where the question certified by the federal court does not encompass the reconsideration requested by the Commonwealth. Even assuming that the Commonwealth\u2019s request is appropriate, there were full and timely opportunities to consider the wisdom of Besch \u2014 when the dissenting opinion was considered, and again, when Shaffer II was before us. Federal habeas corpus review of state court convictions can be an unsettling enough prospect, offering the defendant an opportunity to overturn a conviction years after the fact (even decades after the fact), and often on grounds that reasonable jurists might debate. It would add another layer of disruption to allow the Commonwealth to attempt to \u201csave\u201d a conviction by securing a rewriting (or a rehabilitation) of the substantive law upon habeas certification. In addition, it is not clear that a federal habeas court would be obliged to accept such a refashioning of substantive law in response to a federal habeas petition. There are reasons rooted in the American devotion to individual freedom why a convicted criminal is permitted multiple bites at the same apple; but, in an instance such as this at least, we would not be in a hurry to allow the Commonwealth such multiple repasts as well.\nFor the foregoing reasons, we respond to the certified question by holding that Besch did not establish a new rule of law.\nQuestion answered. Jurisdiction relinquished.\nFormer Justices NIGRO and NEWMAN did not participate in the decision of this case.\nChief Justice CAPPY and Justice SAYLOR, EAKIN and BAER join the opinion.\nThis matter was reassigned to this author.\n. In Turkette, the United States Supreme Court held that the federal Racketeer Influenced and Corrupt Organizations statute encompasses both legitimate and wholly illegitimate enterprises. Turkette, 452 U.S. at 587, 101 S.Ct. at 2531.\n. Repeating an error made in the dissenting opinion in Besch, the Commonwealth erroneously characterizes the Wetton OISR as a \"plurality opinion.\u201d By definition, no plurality opinion existed in Wetton because the Court was evenly divided; the dispositive order, thus, was a per curiam order of affir-mance on grounds of deadlock. Mr. Justice Papadakos authored a very short opinion in support of affirmance, which was joined by Mr. Chief Justice Nix and Mr. Justice Mon-temuro. Mr. Justice Cappy (now Chief Justice), the later author of the Besch majority, concurred in the result of the Wetton OISR, but he did not join that opinion. Thus, the dicta in the Wetton OISR footnote represented the views of only two of the six participating Justices. The Justices comprising the Wetton OISR did not write in Besch to explain their reversal in view.\n. Section 401(a) of the SWMA provides:\nNo person or municipality shall store, transport, treat, or dispose of hazardous waste within this Commonwealth unless such storage, transportation, treatment, or disposal is authorized by the rules and regulations of the department; no person or municipality shall own or operate a hazardous waste storage, treatment or disposal facility unless such person or municipality has first obtained a permit for the storage, treatment and disposal of hazardous waste from the department; and, no person or municipality shall transport hazardous waste within the Commonwealth unless such person or municipality has first obtained a license for the transportation of hazardous waste from the department.\n35 P.S. \u00a7 6018.401(a).\n. As previously noted, the Wetton OISR noted that the Pa.C.O.A. was intended to encompass wholly illegitimate enterprises. Wetton, 641 A.2d at 579 n. 5. Not only was this statement dicta from a non-majority opinion, supra note 2, but the case is clearly distinguishable from the case sub judice as the issue in Wetton was whether double jeopardy under 18 Pa.C.S. \u00a7 111 barred the prosecution of the defendants on substantive corrupt organizations charges. Id. at 575.\n. The Commonwealth attempts to dismiss Shaffer II by labeling the quoted language dicta. Even assuming the language was not necessary to the decision, the point being made was fully consistent with our holdings and analysis in Fiore and Eller. Besch was this Court's first construction of the term \"enterprise\u201d in the statute and that initial interpretation cannot be labeled a new rule of law \u2014 as if we were articulating a common law rule of procedure, rather than reading a statute \u2014 but merely stands as an explication of a law which necessarily relates back to the date of the statute\u2019s enactment.\n. We offer no view on whether appellant is ultimately entitled to federal habeas relief, or whether our analysis would warrant Pennsylvania collateral relief in similar circumstances, given other concerns attending collateral review.",
+        "type": "majority",
+        "author": "Justice CASTILLE."
+      }
+    ],
+    "attorneys": [
+      "Peter Alan Levin, Esq., Philadelphia, for Kevin J. Kendrick.",
+      "Marica Mary Waldron, Esq., for U.S. Court of Appeals for the Third Circuit.",
+      "Thomas William Dolgenos, Esq., John Hunter Bennett, Esq., Lorie Karin Dakes-sian, Esq., Hugh J. Burns, Jr., Esq., Philadelphia, for District Attorney of Philadelphia County."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin J. KENDRICK, Appellant, v. DISTRICT ATTORNEY OF PHILADELPHIA COUNTY, Attorney General of Pennsylvania, Nancy Bailey, Superintendent of the FCI, Fort Dix, Appellees.\nSupreme Court of Pennsylvania.\nArgued April 11, 2005.\nDecided Feb. 20, 2007.\nPeter Alan Levin, Esq., Philadelphia, for Kevin J. Kendrick.\nMarica Mary Waldron, Esq., for U.S. Court of Appeals for the Third Circuit.\nThomas William Dolgenos, Esq., John Hunter Bennett, Esq., Lorie Karin Dakes-sian, Esq., Hugh J. Burns, Jr., Esq., Philadelphia, for District Attorney of Philadelphia County.\nBEFORE: CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "0529-03",
+  "first_page_order": 565,
+  "last_page_order": 577
+}

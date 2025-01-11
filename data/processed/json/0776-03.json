@@ -1,0 +1,58 @@
+{
+  "id": 12487298,
+  "name": "Com. v. A. Phillips",
+  "name_abbreviation": "Com. v. Phillips",
+  "decision_date": "2016-04-11",
+  "docket_number": "NO. 3005 EDA 2014",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "9d53d799f47319cd376ff40555d4a8f819012c9a965ddc9ddace4495b31b2ad5",
+    "simhash": "1:a0447ef90da73966",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Phillips"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Phillips\nNO. 3005 EDA 2014\nSuperior Court of Pennsylvania.\nApril 11, 2016\nVacated and Remanded."
+  },
+  "file_name": "0776-03",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

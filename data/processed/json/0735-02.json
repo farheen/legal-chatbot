@@ -1,0 +1,89 @@
+{
+  "id": 7907099,
+  "name": "In re DENNIS A.",
+  "name_abbreviation": "In re Dennis A.",
+  "decision_date": "1985-12-12",
+  "docket_number": "No. 85-235-Appeal",
+  "first_page": "735",
+  "last_page": "736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "501 A.2d 735"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "122 R.I. 356",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5546198
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "358"
+        },
+        {
+          "page": "268"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/122/0356-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 206,
+    "char_count": 2479,
+    "ocr_confidence": 0.775,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20055899011872894
+    },
+    "sha256": "7b32497f2536055e923aeba1eb5bbabbde08e61b9257d9b08d7f11610b20dd7d",
+    "simhash": "1:821cfa56d2b54445",
+    "word_count": 393
+  },
+  "last_updated": "2024-02-27T16:13:06.519554+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re DENNIS A."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM.\nIn mid-February 1985, before a justice of the Family Court, Dennis A., then almost seventeen years old, through his counsel conceded the accuracy of allegations that were contained in nineteen consolidated petitions, each of which alleged a delinquent act on Dennis\u2019s part. Prior to this time he had never been adjudicated a delinquent as a result of any conduct committed after his sixteenth birthday that would have constituted a felony if it had been committed by an adult.\nSometime after the admissions, the Attorney General moved to vacate the plea and dispositions on each petition except for the two felony offenses that occurred nearest in time to Dennis\u2019s sixteenth birthday so that Dennis could be prosecuted as an adult on the remaining seventeen charges. The state\u2019s motion was denied, and the state has appealed.\nIn question is the interpretation of G.L. 1956 (1981 Reenactment) \u00a7 14-1-7.1, as amended by P.L. 1984, ch. 246, \u00a7 1, which, in essence, provides that a \u201cjuvenile who, after reaching his or her sixteenth birthday, commits what would have been two indictable adult offenses shall thereafter be prosecuted as an adult in the Superior Court for all subsequent criminal misconduct.\u201d See In re Robert, 122 R.I. 356, 358, 406 A.2d 266, 268 (1979).\nThe state contends that the filing of more than two petitions against Dennis limited the Family Court\u2019s jurisdiction to those two petitions that alleged misconduct that was nearest to his sixteenth birthday. This position ignores the clear and unambiguous language of the statute, which in plain English excludes the Family Court from exercising jurisdiction in regard to all \u201ccrimes\u201d committed subsequent to the two initial findings of delinquency. Thus, the Family Court, at the time of the acceptance of Dennis's plea to the nineteen consolidated petitions, had jurisdiction to act in the premises because prior to the time of that disposition Dennis had never been adjudicated a delinquent because of felonious conduct committed subsequent to his sixteenth birthday. Consequently, the statutory predicate for a Superior Court takeover had not arisen.\nThe state\u2019s appeal is denied and dismissed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Arlene Violet, Atty. Gen., John E. Farley, Sp. Asst. Atty. Gen., Constance Messore, Sp. Asst. Atty. Gen., for plaintiff.",
+      "William F. Reilly, Public Defender, Janice Weisfeld, Asst. Public Defender, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "In re DENNIS A.\nNo. 85-235-Appeal.\nSupreme Court of Rhode Island.\nDec. 12, 1985.\nArlene Violet, Atty. Gen., John E. Farley, Sp. Asst. Atty. Gen., Constance Messore, Sp. Asst. Atty. Gen., for plaintiff.\nWilliam F. Reilly, Public Defender, Janice Weisfeld, Asst. Public Defender, for defendant."
+  },
+  "file_name": "0735-02",
+  "first_page_order": 809,
+  "last_page_order": 810
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12485505,
+  "name": "State v. Donald Andrews",
+  "name_abbreviation": "State v. Andrews",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-888 SEPT. TERM 2015, 077367",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 123,
+    "sha256": "9e9295dd9fb5dbe4aa2ba477f2683c58e8500164871d93e4a4eea94e23ef27db",
+    "simhash": "1:84ed82ded15a2596",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nDonald Andrews"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nDonald Andrews\nNOS. C-888 SEPT. TERM 2015, 077367\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-28",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

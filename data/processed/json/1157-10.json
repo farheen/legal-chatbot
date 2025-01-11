@@ -1,0 +1,58 @@
+{
+  "id": 12488593,
+  "name": "Com. v. Bartlow, N.",
+  "name_abbreviation": "Com v. Bartlow",
+  "decision_date": "2016-05-24",
+  "docket_number": "1018 MDA 2015",
+  "first_page": "1157",
+  "last_page": "1157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 98,
+    "sha256": "2de9eee5ba41a0b25fe068c3203085262f57d6c062cde549152440b47104e7f2",
+    "simhash": "1:3c85547878831581",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBartlow, N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBartlow, N.\n1018 MDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nAffirmed/Remanded"
+  },
+  "file_name": "1157-10",
+  "first_page_order": 1157,
+  "last_page_order": 1157
+}

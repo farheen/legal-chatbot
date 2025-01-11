@@ -1,0 +1,58 @@
+{
+  "id": 12485195,
+  "name": "Commonwealth v. Roysce Haynes",
+  "name_abbreviation": "Commonwealth v. Haynes",
+  "decision_date": "2016-06-01",
+  "docket_number": "NO. 627 EAL 2015",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 240,
+    "sha256": "d546f46ee5c873430aa56ccce50df3b1176ba2ebbce8e679363ca874512dd904",
+    "simhash": "1:bdf7d646ab2d9098",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRoysce Haynes"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRoysce Haynes\nNO. 627 EAL 2015\nSupreme Court of Pennsylvania\nJune 01, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0012-17",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

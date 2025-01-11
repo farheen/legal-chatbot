@@ -1,0 +1,75 @@
+{
+  "id": 11594146,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Kevin SCHRECK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Schreck",
+  "decision_date": "1999-03-23",
+  "docket_number": "",
+  "first_page": "1039",
+  "last_page": "1040",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "726 A.2d 1039"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "725 A.2d 170",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1701968,
+        11635531
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0467-01",
+        "/a2d/725/0170-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 432,
+    "ocr_confidence": 0.737,
+    "sha256": "7fbdd1ada032825b68f2ed7bda147d30f7de2bf13d5138fc44347e9c8ecceb9d",
+    "simhash": "1:0daf630681efadbe",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T21:29:02.465658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Kevin SCHRECK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 23rd day of March, 1999, the Petition for Allowance of Appeal is GRANTED, the Order of the Superior Court is VACATED and this matter is REMANDED to the trial court for further consideration in light of this Court\u2019s decision in Commonwealth v. Anders, \u2014 Pa. -, 725 A.2d 170 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Kevin SCHRECK, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 23, 1999."
+  },
+  "file_name": "1039-03",
+  "first_page_order": 1107,
+  "last_page_order": 1108
+}

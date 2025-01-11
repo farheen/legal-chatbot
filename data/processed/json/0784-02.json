@@ -1,0 +1,58 @@
+{
+  "id": 12487411,
+  "name": "Com. v. E. Watson",
+  "name_abbreviation": "Com. v. Watson",
+  "decision_date": "2016-04-18",
+  "docket_number": "NO. 323 EDA 2014",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 784"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "80316fc5a7a31afaed549360975e2db3ee17ada6a7b1ceaac44e884ee0d3dcf7",
+    "simhash": "1:1c0a7e6b94274b81",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Watson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Watson\nNO. 323 EDA 2014\nSuperior Court of Pennsylvania.\nApril 18, 2016\nAffirmed."
+  },
+  "file_name": "0784-02",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

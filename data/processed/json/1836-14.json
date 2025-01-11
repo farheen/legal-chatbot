@@ -1,0 +1,59 @@
+{
+  "id": 12167498,
+  "name": "In re Karl Johan William Ahlberg and Karl Einar Anderson",
+  "name_abbreviation": "In re Ahlberg",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7454",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 107,
+    "ocr_confidence": 0.562,
+    "sha256": "1143021478f0d1430ad8207fc002e56a517fccd7980ce20659831e549750136c",
+    "simhash": "1:af49c9fd904690b7",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Karl Johan William Ahlberg and Karl Einar Anderson"
+    ],
+    "opinions": [
+      {
+        "text": "Connecting means for pipes and tubes.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Karl Johan William Ahlberg and Karl Einar Anderson\n(No. 7454)."
+  },
+  "file_name": "1836-14",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

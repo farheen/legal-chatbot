@@ -1,0 +1,58 @@
+{
+  "id": 12501743,
+  "name": "COM. v. RICHARDSON, R.",
+  "name_abbreviation": "Com. v. Richardson",
+  "decision_date": "2018-07-20",
+  "docket_number": "3721 EDA 2016",
+  "first_page": "691",
+  "last_page": "691",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 691"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "sha256": "c05acb0bbcbbf7ecb1115f3d19c3da006d3650d733c8edd4578a4d8bb8496e65",
+    "simhash": "1:f1c715ba0bb519a4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nRICHARDSON, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nRICHARDSON, R.\n3721 EDA 2016\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nAffirmed"
+  },
+  "file_name": "0691-03",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

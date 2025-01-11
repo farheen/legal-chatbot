@@ -1,0 +1,83 @@
+{
+  "id": 12491674,
+  "name": "STATE of Connecticut v. Angel MORALES",
+  "name_abbreviation": "State v. Morales",
+  "decision_date": "2017-12-21",
+  "docket_number": "",
+  "first_page": "1244",
+  "last_page": "1244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 1244"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 988"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "172 Conn. App. 329",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489695
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/160-2/0383-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 497,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25787874119301935
+    },
+    "sha256": "8d09f70053f44432c5e71b2c89cf5fa6a7dce036f3efce598d279574a0d175ba",
+    "simhash": "1:341f766abf63ecf4",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nAngel MORALES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 172 Conn. App. 329, 160 A.3d 383 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nAngel MORALES\nSupreme Court of Connecticut.\nDecided December 21, 2017\nJohn L. Cordani, Jr., assigned counsel, and Damian K. Gunningsmith, assigned counsel, in support of the petition.\nMelissa L. Streeto, senior assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 172 Conn. App. 329, 160 A.3d 383 (2017), is denied.\nMULLINS, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "1244-03",
+  "first_page_order": 1244,
+  "last_page_order": 1244
+}

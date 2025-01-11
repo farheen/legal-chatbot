@@ -1,0 +1,58 @@
+{
+  "id": 12485191,
+  "name": "Commonwealth v. Anthony Jefferson",
+  "name_abbreviation": "Commonwealth v. Jefferson",
+  "decision_date": "2016-06-01",
+  "docket_number": "NO. 437 WAL 2015",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "4e16f440f8bac9deded8affde0bdb8e49154c1e3b13a160250b06052bd92d315",
+    "simhash": "1:f596d263c971017a",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAnthony Jefferson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAnthony Jefferson\nNO. 437 WAL 2015\nSupreme Court of Pennsylvania\nJune 01, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0012-13",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

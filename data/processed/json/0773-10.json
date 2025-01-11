@@ -1,0 +1,58 @@
+{
+  "id": 12487244,
+  "name": "Com. v. K. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-04-06",
+  "docket_number": "NO. 2020 WDA 2013",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "6509f875b772fdc9744837393188faf24910d77d4fbdd8847cd84b0244a6ba43",
+    "simhash": "1:9c4c1676d00d9980",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Johnson\nNO. 2020 WDA 2013\nSuperior Court of Pennsylvania.\nApril 06, 2016\nReversed and Remanded."
+  },
+  "file_name": "0773-10",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6083103,
+  "name": "In re Back",
+  "name_abbreviation": "In re Back",
+  "decision_date": "1933-04-12",
+  "docket_number": "No. 3205",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 62,
+    "ocr_confidence": 0.586,
+    "sha256": "5482ad7452289f9b0776073b5a94a83c3f1bf8f6b4e63b444af11db1d8aa5c1f",
+    "simhash": "1:8c40c68a8b19a466",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Back."
+    ],
+    "opinions": [
+      {
+        "text": "Design for a pencil.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 12, 1933\nIn re Back.\n(No. 3205). \u2014"
+  },
+  "file_name": "1228-03",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

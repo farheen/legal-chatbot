@@ -1,0 +1,58 @@
+{
+  "id": 12487412,
+  "name": "Com. v. D. Freeman",
+  "name_abbreviation": "Com. v. Freeman",
+  "decision_date": "2016-04-18",
+  "docket_number": "NO. 1852 EDA 2014",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 784"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 117,
+    "sha256": "9ceb8e215be72d834b1d3043b8d92dfeb434151f277f81dcc9b19a9b1ae78b48",
+    "simhash": "1:f8467eeb96b59dc0",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Freeman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Freeman\nNO. 1852 EDA 2014\nSuperior Court of Pennsylvania.\nApril 18, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0784-03",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

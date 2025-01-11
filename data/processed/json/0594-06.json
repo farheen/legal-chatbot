@@ -1,0 +1,58 @@
+{
+  "id": 12485943,
+  "name": "Com. v. G. Segraves",
+  "name_abbreviation": "Com. v. Segraves",
+  "decision_date": "2016-02-16",
+  "docket_number": "NO. 181 MDA 2015",
+  "first_page": "594",
+  "last_page": "594",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 594"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "8481f491e1a8764c904e3af6cfdc93baed259ef3355ef86995ae65791239baea",
+    "simhash": "1:a50bf721700b18c4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. Segraves"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. Segraves\nNO. 181 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 16, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0594-06",
+  "first_page_order": 594,
+  "last_page_order": 594
+}

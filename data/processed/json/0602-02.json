@@ -1,0 +1,84 @@
+{
+  "id": 9482178,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Jonathan Charles KENT, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kent",
+  "decision_date": "2001-08-21",
+  "docket_number": "",
+  "first_page": "602",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "780 A.2d 602"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "249 A.2d 777",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Pa. 144",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921009
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/433/0144-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 92,
+    "char_count": 833,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21835867650971158
+    },
+    "sha256": "9af0dc3175c376e74f6c128a802a1cc87429ad56e69b7a33b96a82a2b48d943d",
+    "simhash": "1:1a4f97a102e12081",
+    "word_count": 128
+  },
+  "last_updated": "2024-02-27T20:17:19.657035+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Jonathan Charles KENT, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nAND NOW, this 21st day of August, 2001, it is ORDERED as follows:\nPetitioner was represented by appointed counsel in his appeal to the Superior Court, which resulted in affirmance of the judgment of sentence. Thereafter, petitioner filed a pro se petition for allowance of appeal.\nPa. R.Crim.P. 122(C)(3), formerly Pa. R.Crim.P. 316(c)(iii), requires that: \u201cWhere counsel has been assigned, such assignment shall be effective until final judgment, including any proceedings upon direct appeal.\u201d\nPetitioner\u2019s counsel, appointed in connection with his appeal to the Superior Court, is directed to proceed in accordance with the Rule. Commonwealth v. Hickox, 433 Pa. 144, 249 A.2d 777 (1969).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Jonathan Charles KENT, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 21, 2001."
+  },
+  "file_name": "0602-02",
+  "first_page_order": 630,
+  "last_page_order": 631
+}

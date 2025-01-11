@@ -1,0 +1,58 @@
+{
+  "id": 12488363,
+  "name": "In the Int. of: H.A.C. Appeal of: M.P.C., Father",
+  "name_abbreviation": "In re",
+  "decision_date": "2016-05-10",
+  "docket_number": "1933 MDA 2015",
+  "first_page": "1142",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 118,
+    "sha256": "f210d9cf86beb6e2b1f17959b723a7fe1ff8e12577ba1441152bf3baf1edc513",
+    "simhash": "1:a0d2d6a902a905fa",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Int. of: H.A.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Int. of: H.A.C.\nAppeal of: M.P.C., Father\n1933 MDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1142-13",
+  "first_page_order": 1142,
+  "last_page_order": 1142
+}

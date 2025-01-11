@@ -1,0 +1,81 @@
+{
+  "id": 12069787,
+  "name": "Reverend Gerald GORDON v. Judge PLUNKETT et al.",
+  "name_abbreviation": "Gordon v. Plunkett",
+  "decision_date": "1982-05-13",
+  "docket_number": "No. 81-437-A",
+  "first_page": "1160",
+  "last_page": "1161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "447 A.2d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "444 A.2d 1345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991132,
+        7990948,
+        7991045,
+        7990855
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/444/1345-04",
+        "/a2d/444/1345-02",
+        "/a2d/444/1345-03",
+        "/a2d/444/1345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 344,
+    "ocr_confidence": 0.773,
+    "sha256": "382cdb4fd98a873c92ebdaa6dfc452a4a8f58419057d5ebafdfe09162e9f3a16",
+    "simhash": "1:4d3d6699df608552",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T19:05:31.553109+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reverend Gerald GORDON v. Judge PLUNKETT et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe plaintiff\u2019s motion for rehearing, R. I., 444 A.2d 1345 as prayed is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Reverend Gerald Gordon, pro se.",
+      "Dennis J. Roberts II, Atty. Gen., Rice, Dolan, Kiernan & Kershaw, Leonard A. Kiernan, Jr., Providence, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Reverend Gerald GORDON v. Judge PLUNKETT et al.\nNo. 81-437-A.\nSupreme Court of Rhode Island.\nMay 13, 1982.\nReverend Gerald Gordon, pro se.\nDennis J. Roberts II, Atty. Gen., Rice, Dolan, Kiernan & Kershaw, Leonard A. Kiernan, Jr., Providence, for defendants."
+  },
+  "file_name": "1160-04",
+  "first_page_order": 1208,
+  "last_page_order": 1209
+}

@@ -1,0 +1,137 @@
+{
+  "id": 8004855,
+  "name": "Gilbert I. TURNER, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Turner v. United States",
+  "decision_date": "1984-05-08",
+  "docket_number": "No. 82-498",
+  "first_page": "1293",
+  "last_page": "1294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "474 A.2d 1293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "459 A.2d 1054",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7987230
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/459/1054-01"
+      ]
+    },
+    {
+      "cite": "337 A.2d 499",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8054445
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/337/0499-01"
+      ]
+    },
+    {
+      "cite": "517 F.2d 1330",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1127860
+      ],
+      "pin_cites": [
+        {
+          "page": "1333"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/517/1330-01"
+      ]
+    },
+    {
+      "cite": "432 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177531
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "154"
+        },
+        {
+          "page": "2218"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/432/0137-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 270,
+    "char_count": 3503,
+    "ocr_confidence": 0.763,
+    "pagerank": {
+      "raw": 1.0793180938131021e-07,
+      "percentile": 0.56207137945108
+    },
+    "sha256": "2f6521bf3ac2fa61898445df1631dd13c14fc965efc49965fdc8c627d022db20",
+    "simhash": "1:b7a6235722694853",
+    "word_count": 564
+  },
+  "last_updated": "2024-02-27T20:56:40.260103+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before MACK and PRYOR, Associate Judges, and YEAGLEY, Associate Judge, Retired."
+    ],
+    "parties": [
+      "Gilbert I. TURNER, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "YEAGLEY, Associate Judge,\nRetired:\nAfter reargument and reconsideration, we find no reason to modify the earlier opinion of the court.\nHowever, in view of the government\u2019s contention that this court\u2019s decision in United States v. Smith, 337 A.2d 499 (D.C.1975) should be controlling here, we feel constrained to point to differences that make that decision inapposite to the issue before us.\nSmith involved a multi-count indictment charging appellant with bribery, threats and obstruction of justice. The jury acquitted him on the bribery and threats counts, and hung on the obstruction of justice count which the government sought to retry.\nThis court understandably noted that a hung jury determines nothing, and that from the verdict one could not conclude what the jury necessarily must have determined. Accordingly, collateral estoppel could not apply.\nIn the case before us, however, the question is whether we should accord res judi-cata effect to an acquittal in the earlier trial on the identical charge the government now seeks to retry, to-wit: second degree murder. This question was not before the Smith court and we think the answer is patently clear. We know of no differences in the elements of proof required for conviction under the two counts of second degree murder and the government has been unable to cite us to any. At trial, the court and both counsel agreed that convictions on both counts could not stand, with which view we agree.\nAccordingly, we hold that the jury\u2019s acquittal on one count of second degree murder at the first trial bars a second trial on that charge arising out of the same transaction.\nReversed.\n. Associate Judge Catherine B. Kelly, who was a member of the division which originally decided this case, retired on March 31, 1983 and was replaced by Associate Judge Mack for purposes of this rehearing. See Turner v. United States, 459 A.2d 1054 (D.C.1983).",
+        "type": "majority",
+        "author": "YEAGLEY, Associate Judge,"
+      },
+      {
+        "text": "PRYOR, Associate Judge,\nconcurring:\nWhere, as here, the jury receives two second-degree murder instructions fashioned by the court and counsel, it cannot be said that \u201csole[] responsibility]\u201d for the instruction lies with the defendant; hence, his actions did not \u201cdeprive[] him of [his] right [to avoid] consecutive trials.\u201d Jeffers v. United States, 432 U.S. 137, 154, 97 S.Ct. 2207, 2218, 53 L.Ed.2d 168 (1977). Therefore, I agree with the majority that the jury\u2019s verdict of not guilty of second-degree murder as a lesser-included offense of felony murder is a bar to retrial for second-degree murder as a lesser-included offense of premeditated murder.\nI further note that it was improper to instruct the jury to consider second-degree murder under both the premeditated murder and felony murder counts. United States v. LaVallee, 517 F.2d 1330, 1333 (2d Cir.1975). The problem we have here should be avoided in the future by allowing the jury to consider only one count of second-degree murder.",
+        "type": "concurrence",
+        "author": "PRYOR, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "Ruth R. Banks, Washington, D.C., with whom Dovey J. Roundtree, Washington, D.C., was on the pleadings, for appellant.",
+      "Edward D. Ross, Jr., Asst. U.S. Atty., Washington, D.C., with whom Stanley S. Harris, U.S. Atty., Washington D.C., at the time the brief was filed, and Michael W. Farrell, Asst. U.S. Atty., Washington, D.C., were on the pleadings, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Gilbert I. TURNER, Appellant, v. UNITED STATES, Appellee.\nNo. 82-498.\nDistrict of Columbia Court of Appeals.\nRe-Argued Jan. 6, 1984.\nDecided May 8, 1984.\nRuth R. Banks, Washington, D.C., with whom Dovey J. Roundtree, Washington, D.C., was on the pleadings, for appellant.\nEdward D. Ross, Jr., Asst. U.S. Atty., Washington, D.C., with whom Stanley S. Harris, U.S. Atty., Washington D.C., at the time the brief was filed, and Michael W. Farrell, Asst. U.S. Atty., Washington, D.C., were on the pleadings, for appellee.\nBefore MACK and PRYOR, Associate Judges, and YEAGLEY, Associate Judge, Retired."
+  },
+  "file_name": "1293-01",
+  "first_page_order": 1355,
+  "last_page_order": 1356
+}

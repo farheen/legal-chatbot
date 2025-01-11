@@ -1,0 +1,58 @@
+{
+  "id": 12488707,
+  "name": "Favreau v. Pallito",
+  "name_abbreviation": "Favreau v. Pallito",
+  "decision_date": "2016-07-13",
+  "docket_number": "15-418",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "d1f9dcfb737cf44d94c4c1bb3f62c6b4b97219688637d724b182b0257922f20b",
+    "simhash": "1:d233510de600c461",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Favreau\nv.\nPallito"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Favreau\nv.\nPallito\n15-418\nSupreme Court of Vermont.\nJuly 13, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReversed."
+  },
+  "file_name": "0343-14",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

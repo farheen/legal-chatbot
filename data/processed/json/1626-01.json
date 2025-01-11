@@ -1,0 +1,116 @@
+{
+  "id": 12166449,
+  "name": "In re Reynold E. Holmen",
+  "name_abbreviation": "In re Holmen",
+  "decision_date": "1965-07-08",
+  "docket_number": "No. 7308",
+  "first_page": "1626",
+  "last_page": "1630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1626"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 290"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 852"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "U.S. Patent No. 2,933,528",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    },
+    {
+      "cite": "306 F. 2d 494",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        256690,
+        12166163
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/306/0494-01",
+        "/ccpa/49-2/1301-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1301",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166163
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1301-01"
+      ]
+    },
+    {
+      "cite": "66 U.S.P.Q. 189",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 485,
+    "char_count": 8892,
+    "ocr_confidence": 0.522,
+    "pagerank": {
+      "raw": 1.840279755156001e-07,
+      "percentile": 0.722038620784455
+    },
+    "sha256": "7de59a7d63721d3f71478a60b0a682c036b9e99534df7fd96fc483751a92a747",
+    "simhash": "1:3c2c766b182d879c",
+    "word_count": 1439
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Reynold E. Holmen"
+    ],
+    "opinions": [
+      {
+        "text": "Martin, Judge,\ndelivered the opinion of the court:\nAppellant copied certain claims, in modified form, from a patent to Greenlee for the purposes of interference. Those modified claims appear as claims 52, 53, 59 and 60 in appellant\u2019s application, and were rejected by the examiner on the ground that the claims are of such scope as not to be supported by the disclosure. The issue thus is under 35 U.S.C. 112. In accordance with section 708.01(f) of the Manual of Patent Examining Procedure, appeal was taken to the board which affirmed the examiner. The remaining claims in the application are involved in interference, and thus are not before us.\nThe four claims on appeal define compositions of matter which are the amide reaction products of a bisphenolic acid with a polyamine. Claim 52 is representative:\n52. As a composition of matter an N-acylated amine produced by interacting alkylene amines Raving at least 2 amino groups as tbe sole amide forming groups and in which said amino groups contain only hydrocarbon substituents, and an acid having the formula:\nwherein X and Y are members of the group consisting of hydrogen and lower alkyl, said N-acylated amine having only one hydrogen atom of each of at least two of said amino groups replaced by the acyl group of said acid.\nWhile claim 52 calls for the alkylene amines having \u201cat least 2 amino groups * * *,\" claim 53 specifies \u201conly 2 amino groups * * *,\" Claims 59 and 60 are patterned similarly, differing only in the preamble.\nAppellant\u2019s specification in the main shows the production of the bisphenolic acid by the reaction of phenol with levulinic acid. There is no challenge to the sufficiency of support for that acid reactant. The specification continues with a showing of the applications to which the diphenolic acid may be put, and reads as follows:\nThe following four examples illustrate reactions of the product acid of Example I prepared from phenol, that is, y,7-bis(4-hydroxyphenyl) valeric acid Lthe bisphenolic acid], and the manner in which it and polymers obtained by reacting it with other substances may be cross-linked to infusible, insoluble resins. Some of these cross-linked formaldehyde condensates may be used as cation exchange resins.\n* * * * * * *\nExample XIII\nA highly insoluble polyamide which may be cross-linked to an infusible polymer was prepared by reacting the product of Example I with an equivalent amount of polyethylenimine at an elevated temperature. A small amount of xylene was added to aid reaction by removal of water. After 5 to 6 hours at the reflux temperature, a light amber resinous polyamide was obtained. Subsequent reaction with formaldehyde may be carried out to cross-link this polymer.\n*******\nA variety of other polyfunctional compounds are also suitable for reaction with the carboxylic acid radical of the bisphenolic acids of this Invention to produce cross-linkable resins including other diols such as ethylene glycol, diamines such as 13-diaminobutane, and amino alcohols such as N-butylethanol-amine.\nThe issue then is whether that disclosure, within the meaning of 35 USC 112, supports claims to products derived from alkylene amines having either \u201cat least 2 amino groups * * *,\" or \u201conly 2 amino groups * * *.\u201d We are in agreement with the examiner and the board that it does not. In so deciding we do not find it necessary to consider what the disclosure could support, but only whether it does support the present claims.\nThe examiner noted that \u201cthe sole working example of a[n] \u2018alkylene amine\u2019 is that given in example XIII.\u201d [Emphasis ours.] That example employs polyethylenimine, the structure of which is:\nEvidently X varies considerably in any given sample of polyethyl-enimine, it being a mixture of polyamines of the above structure. No defining indicia are given in example XIII such as boiling point, etc., which would pinpoint the value of X, i.e., the particular poly-ethylenimine, used therein. The examiner was of the view that:\n* * * This compound [polyethylenimine] possesses a \u201ccyclic group\u201d as one of Its functional groups whereas \u201calkylene amines\u201d do not have this group. Since the chemical nature of polyethyleneimine is different from alkyleneamines it does not serve as a representative example of the group. Ex parte Gunther, 66 U.S.P.Q. 189. Moreover, there is no support for the limitation \u201cat least 2 amino groups.\u201d\nAppellant argues that the terminal cyclic group is an amino group and cites literature tending to show that the examiner errs in stating that \u201cthe chemical nature of polyethyleneimine is different from alkyleneamines * * *.\u201d\nIt is not necessary to our decision to determine that issue, for, assum-\nin this art to be equivalent to an amino group, we do not think a single operative example enough to support claims as broad in scope as those here on appeal, claims 52 and 59, which call for \u201cat least 2 amino groups.\u201d We think the following reasoning of the examiner to be sound:\n* * * The claims call for the expression having \u201cat least 2 amino groups\u201d but no upper limit has been set. It would be sheer speculation to try to predict what would happen to the reaction, for instance, as the length of the chain increases and as more and more amino groups were added. * * * Furthermore, since there have been no limitations on the number of amine groups there is clearly no support for these claims. As the number of amine groups increases, the nature of the molecule would be changed and prediction as to operability would amount to sheer speculation.\nAppellant also relies on the reference to 1,3-diaminobutane to support claims 52 and 59 calling for \u201cat least 2 amino groups,\u201d as well as the sole and specific support for claims 53 and 60 calling for \u201conly 2 amino groups.\u201d The pertinent part of appellant\u2019s specification states:\nA variety of other polyfunctional compounds are also suitable for reaction with the carboxylic acid radical of the bisphenolic acids of this invention to produce cross-linkable resins including other diols such as ethylene glycol, diamines such as 1,3-diaminobutane, and amino alcohols such as N-butylethanol-amine.\nThe examiner was of the view that that language \u201cis too broad to be meaningful\u201d as support, and the board, on reconsideration, noted that \u201cthere is a reference to, but no description of the product of the reaction with \u2018diamines such as 1,3-diaminobutane\u2019.\u201d\nWe think that the reference to 1,3-diaminobutane as made here does not provide sufficient support for the claims. Even were we to assume such a reference to be a disclosure of an operative example, it alone could not support the language \u201calkylene amines having only 2 amino groups\u201d since 1,3-diaminobutane, having a four-carbon alkyl chain, is insufficient to support claims calling for alkyl chains of unlimited length. Thus claims 53 and 60 are not sufficiently supported.\nFurther, while a reaction product of the bisphenolic acid with 1,3-diaminobutane would be one of the invention compounds as claimed, there is no disclosure of such product or, necessarily, of its properties and use. Thus the suggestion of 1,3-diaminobutane as a reactant does not strengthen the disclosure of the polyethylenimine example to a degree sufficient to provide support for claims 52 and 59 calling for alkylene amines having \u201cat least 2 amino groups.\u201d\nAs we view the appealed claims, they fail to meet the requirements of 35 U.S.C. 112 in that they are broader than the invention described in the specification. In re Sus, 49 CCPA 1301, 306 F. 2d 494, 134 USPQ 301. Since the invention claimed is broader than the invention described in the written description, we need not decide whether the polyethylenimine is an alkylene amine, or whether the reference to 1,3-diaminobutane represents such disclosure as would be sufficient on which to base any claim.\nFor the foregoing reasons, the decision of the board is affirmed.\nU.S. Patent No. 2,933,528 entitled \u201cPolyamides of 4,4-Bis(4-Hydroxyplienyl) Pentanoie Acid\u201d issued April 19, 1960 on an application filed September 5, 1956, said therein to be a continuation-in-part of serial No. 505,552 filed May 2, 1955, now abandoned.\nSerial No. 502,742, filed April 20, 1955 for \u201cBisphenolic Substituted Carboxylic Acids and Esters.\u201d\nA polyamide reaction product, taking ethylene diamine as a typical alkylene amine, would have the structure:\nJournal of Organic Chemistry, Vol. 9 (1944) p. 509, and Marvel, An Introduction to Organic Chemistry of High Polymers, W. J. Wiley (1959) p. 51.",
+        "type": "majority",
+        "author": "Martin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Robert E. Granrud for appellant.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "(347 F. 2d 852; 146 USPQ 290)\nIn re Reynold E. Holmen\n(No. 7308)\nUnited States Court of Customs and Patent Appeals,\nJuly 8, 1965\nRobert E. Granrud for appellant.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument January 7, 1965 by Mr. Granrud and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1626-01",
+  "first_page_order": 950,
+  "last_page_order": 954
+}

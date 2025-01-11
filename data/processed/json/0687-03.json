@@ -1,0 +1,64 @@
+{
+  "id": 8001371,
+  "name": "Norma G. SWEET v. Morris SWEET",
+  "name_abbreviation": "Sweet v. Sweet",
+  "decision_date": "1981-07-16",
+  "docket_number": "No. 81-53-A",
+  "first_page": "687",
+  "last_page": "687",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "433 A.2d 687"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 331,
+    "ocr_confidence": 0.799,
+    "sha256": "60abdfcd1c485a53f17ed7f8278bd5cf73e6d8a1d733f2609763a2192ab032e4",
+    "simhash": "1:440e22b600402781",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T18:55:45.009890+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "Norma G. SWEET v. Morris SWEET."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe plaintiff\u2019s motion to affirm the order of the Family Court pursuant to Rule 16(g) is granted.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Howard I. Lipsey, Providence, for plaintiff.",
+      "Brosco & Brosco, A. J. Brosco, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Norma G. SWEET v. Morris SWEET.\nNo. 81-53-A.\nSupreme Court of Rhode Island.\nJuly 16, 1981.\nHoward I. Lipsey, Providence, for plaintiff.\nBrosco & Brosco, A. J. Brosco, Providence, for defendant."
+  },
+  "file_name": "0687-03",
+  "first_page_order": 741,
+  "last_page_order": 741
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6080816,
+  "name": "In re Gray",
+  "name_abbreviation": "In re Gray",
+  "decision_date": "1957-11-05",
+  "docket_number": "No. 6293",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1053"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 87,
+    "ocr_confidence": 0.341,
+    "sha256": "593fb9d85b37725728ccae1c48960d901775f84875a2cb27f06f9d718f9cba69",
+    "simhash": "1:483738dfa185de1b",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gray"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in rotary paint pump and agitator.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 5, 1957\nIn re Gray\n(No. 6293)."
+  },
+  "file_name": "1053-03",
+  "first_page_order": 383,
+  "last_page_order": 383
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501532,
+  "name": "COM. v. BROWN, A.",
+  "name_abbreviation": "Com. v. Brown",
+  "decision_date": "2018-07-05",
+  "docket_number": "40 MDA 2018",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "cf03d56f324497950cf286c072a6655f611ea81f8decabc7fd8d8a67008ce2e8",
+    "simhash": "1:9f974e3a8bf119a7",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBROWN, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBROWN, A.\n40 MDA 2018\nSuperior Court of Pennsylvania.\nJuly 5, 2018\nAffirmed"
+  },
+  "file_name": "0648-03",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

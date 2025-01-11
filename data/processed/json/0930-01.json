@@ -1,0 +1,209 @@
+{
+  "id": 11244159,
+  "name": "Ulysses G. AUGER, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee",
+  "name_abbreviation": "Auger v. District of Columbia",
+  "decision_date": "2000-08-03",
+  "docket_number": "Nos. 97-TX-479 to 97-TX-484 and 97-TX-518",
+  "first_page": "930",
+  "last_page": "934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "756 A.2d 930"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "343 F.2d 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3649745,
+        872042
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/343/0302-01"
+      ]
+    },
+    {
+      "cite": "120 U.S.App.D.C. 20",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3649745
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "350 A.2d 730",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064849
+      ],
+      "pin_cites": [
+        {
+          "page": "733-34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/350/0730-01"
+      ]
+    },
+    {
+      "cite": "411 A.2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11355567
+      ],
+      "pin_cites": [
+        {
+          "page": "614"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/411/0612-01"
+      ]
+    },
+    {
+      "cite": "647 A.2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7861479
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "83-4"
+        },
+        {
+          "page": "84",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "84",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/647/0079-01"
+      ]
+    },
+    {
+      "cite": "668 A.2d 801",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868903
+      ],
+      "pin_cites": [
+        {
+          "page": "806-07"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/0801-01"
+      ]
+    },
+    {
+      "cite": "741 A.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11654070
+      ],
+      "pin_cites": [
+        {
+          "page": "437"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/741/0427-01"
+      ]
+    },
+    {
+      "cite": "721 A.2d 968",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "965"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 613,
+    "char_count": 14471,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2388872864788642
+    },
+    "sha256": "4c44248da46f1452c7ca0a48dbedebeeb5554d1b9df483b6bb3e1b21178c581a",
+    "simhash": "1:8f6df3c051c86d6a",
+    "word_count": 2283
+  },
+  "last_updated": "2024-02-27T18:22:13.121452+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TERRY and WASHINGTON, Associate Judges, and MACK, Senior Judge."
+    ],
+    "parties": [
+      "Ulysses G. AUGER, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "WASHINGTON, Associate Judge:\nThis appeal arises from a dismissal by the Board of Real Property Assessments and Appeals (formerly known as the Board of Equalization and Review) (Board) of appellant Ulysses G. Auger\u2019s petitions challenging the Board\u2019s property tax assessments because the petitions were incomplete. After Auger\u2019s petitions were dismissed, he filed a complaint seeking judicial review of the property tax assessments in the Superior Court. The trial court dismissed Auger\u2019s complaint for lack of subject matter jurisdiction, finding that he had failed to exhaust all possible administrative remedies. The central issue on appeal is whether the trial court erred in dismissing Auger\u2019s complaints for lack of subject matter jurisdiction because he failed to exhaust his administrative remedies. We reverse and remand.\nI.\nAuger owns commercial real property in the District of Columbia. After receiving his proposed property assessments for the 1994 fiscal year, he petitioned for an administrative appeal with the Board challenging the amount of the assessments.\nOn May 27, 1993, the Board held a hearing on the administrative appeals. At the hearing, representatives of the District of Columbia Tax Assessor\u2019s Office requested dismissal of the appeals on the ground that the petitions were incomplete. Counsel for the Auger interests, acknowledged that he had mistakenly filed an incomplete set of documents with the Board for the 1994 fiscal year due to an oversight on his part. Because the filings were incomplete, the Board orally dismissed the petitions at the hearing, citing 9 DCMR \u00a7\u00a7 2009.4, 2009.5, and 2009.6 (1987). The Board memorialized the dismissals in written orders on the same date.\nAuger timely paid all of the real property taxes assessed upon the properties in question for the 1994 fiscal year. Thereafter, on September 80, 1994, Auger filed petitions in the Superior Court appealing the Board\u2019s decision and the assessments that were imposed. The District of Columbia moved to dismiss all of the petitions on jurisdictional grounds, alleging that Auger had failed to exhaust his administrative remedies. The trial court agreed and dismissed the appeal for lack of subject matter jurisdiction. Auger filed timely notices of appeal to this court.\nII.\n\u201cOn appeal, we apply in tax assessment cases the same standard of review applicable to civil cases generally: \u2018The trial court\u2019s factual findings are binding upon this court unless they are clearly erroneous; if the findings are acceptable, we will not disturb the court\u2019s judgment unless it is plainly wrong or without evidence to support it.\u2019 \u201d Square 345 Assoc. Ltd. Partnership v. District of Columbia, 721 A.2d 968, 965 (D.C.1998) (citations omitted). We review the trial court\u2019s conclusions of law de novo. Frederick v. United States, 741 A.2d 427, 437 (D.C.1999).\nIII.\nAuger argues that the Board\u2019s actions, in dismissing his petitions, were clearly erroneous and inconsistent with its own regulations because the Board (1) refused to accept the omitted documentation on the date of the hearing and (2) failed to identify \u201ca prescribed time period\u201d in which the omitted information could be filed to complete his petitions pursuant to 9 DCMR \u00a7 2009.9 (1987). Auger further contends that the Board\u2019s dismissal of the petitions for incomplete documentation was a final decision on the merits of the case, and that he was not required to request a rehearing under the Board\u2019s regulations. Thus, judicial review by the Superior Court was appropriate. Finally, Auger argues that even if a rehearing request was required, the Board waived any rehearing requirement by sending Auger notice that its decision was final and that he had the right to appeal from this adverse decision of the Board to the Superior Court. Therefore, Auger argues that he exhausted his administrative remedies and that the Superior Court erred in dismissing his appeal for lack of subject matter jurisdiction.\nThe District of Columbia disagrees and responds that the petitions submitted to the Board by Auger were admittedly incomplete and not in compliance with Board regulations. Therefore, the District argues that because Auger failed to request that he be allowed to provide the Board with the necessary documents to complete his petitions, he had not perfected an appeal to the Board, and the Board\u2019s dismissal of his petitions was justified. Further, the District submits that such a dismissal was administrative rather than a final adjudication on the merits, and therefore, the Superior Court lacked subject matter jurisdiction to hear the case. Finally, the District argues that Auger, in addition to failing to request an opportunity to submit the necessary documentation to complete his petitions, also failed to request a rehearing by the Board pursuant to 9 DCMR \u00a7\u00a7 2020.2 and 2020.3 (1987), after the petitions were dismissed, thus failing to exhaust his administrative remedies pri- or to filing suit in the Superior Court.\nDespite the parties\u2019 focus on the issue of jurisdiction based on a question of whether Auger had exhausted his administrative remedies, we believe the central question before the court in this case is whether the Board had the authority under 9 DCMR \u00a7 2009.9 of its regulations to dismiss Auger\u2019s petitions in the first instance, merely because they were incomplete, without prescribing a time period or otherwise allowing Auger the opportunity to supplement his petitions. Specifically, 9 DCMR \u00a7 2009.9 provides that:\nThe Board may, in its discretion, dismiss any petition which it deems incomplete or which has otherwise failed to comply with the rules; Provided, that the Board shall notify the petitioner(s) in what respect the petition is incomplete and shall allow the petitioner(s) to submit the necessary information within a prescribed time period.\nIt is undisputed that the Board failed to prescribe a time period within which Auger could submit the necessary information to cure his admittedly incomplete filing. However, the District argues that because Auger was represented by experienced counsel who is presumed to be familiar with the Board\u2019s regulations, counsel\u2019s failure to request leave to supplement his filing excuses the Board from its obligation to be in strict compliance with its own regulations. The District argues that this is especially true where as here the petitioner has the burden of establishing that his administrative remedies have been exhausted before filing suit in Superior Court.\nHowever, despite the District\u2019s argument, we have consistently held that \u201c[a]n agency is bound to follow its own regulations.\u201d Abdullah v. Roach, 668 A.2d 801, 806-07 (D.C.1995) (citations omitted); see also Abia-Okon v. District of Columbia Contract Appeals Bd., 647 A.2d 79, 83-4 (D.C.1994) (holding that the Board\u2019s dismissal of petitioner\u2019s claim violated the Board\u2019s rules that notice and opportunity for hearing must . precede dismissal); Smith v. District of Columbia Rental Accommodations Comm\u2019n, 411 A.2d 612, 614 (D.C.1980) (holding generally that an agency cannot fail to abide by its own regulations). This court has also articulated that \u201c[a]n administrative agency\u2019s power to impose sanctions extends only to those parties before the agency who have been afforded the required procedural guarantees with respect to the agency\u2019s proceedings.\u201d Abiar-Okon, 647 A.2d at 84 (citations omitted). In this case, because the District of Columbia concedes that the Board did not comply with its regulations when it failed to set a specific time for . submission of the missing documents, and-because the regulations do not allow the Board to dismiss a petition until the petitioner is given an opportunity to cure any deficiencies in the original fifing, we find the District\u2019s argument that the burden rests on petitioner to be unavailing.\nThe plain language of 9 DCMR \u00a7 2009.9 states that the Board may dismiss any petition in its discretion that is incomplete or does not conform with any of the rules. However, the regulation also provides that such a dismissal will occur, \u201cprovided that\u201d the Board inform the petitioner how the petition is incomplete and \u201callow the petitioner to submit the information within a prescribed time period.\u201d 9 DCMR \u00a7 2009.9. Thus, the clause \u201cprovided that\u201d qualifies and ultimately restricts the circumstances under which the Board may dismiss a petition. We are informed that the phrase \u201cprovided that\u201d \u201cordinarily ... signifies or expresses a condition ... limitation or qualification, or a restraint, modification ... to something which precedes.\u201d Black\u2019s Law DictionaRY 1224 (6th ed.1990). The language \u201cprovided that\u201d in 9 DCMR 2009.9 clearly indicates that the Board\u2019s discretionary dismissal power only arises after, and is conditioned on the fact that, a petitioner has been first allowed to submit any missing documents within a time period prescribed by the Board, and has failed to do so. The plain language of the regulation specifies that the Board\u2019s ability to dismiss an incomplete petition is restrained and limited by the occurrence of the two subsequent conditions in the regulations. Thus, under its regulations, the Board is not authorized to dismiss a petition merely because it is determined to be incomplete. Instead, the Board must inform the petitioner that the petition is incomplete, state the reasons why the petition is unacceptable, and provide a time frame within which the petitioner may supplement the petition in order to bring it into compliance with the Board\u2019s rules. It is only after the petitioner has failed to provide the information in the time frame set by the Board that the Board is then authorized to dismiss the petition.\nThis interpretation of the plain language of the 1987 version of 9 DCMR \u00a7 2009.9 is strengthened by a reading of the 1986 version, which, although semantically different, is substantively the same. In fact, in its brief, the District of Columbia initially relied on the 1986 version of 9 DCMR \u00a7 2009.9. It provides that:\nIf the petition is incomplete, the Board shall notify the petitioner in what re-spectes) it is incomplete. The Board may dismiss the petition if the petitioner fails to submit the necessary information within the time set by the Board in its notice, or to satisfactorily explain why the information cannot be submitted. [emphasis added.]\n9 DCMR \u00a7 2009.9 (emphasis added). Therefore, even prior to the 1987 version of the regulations, the Board was empowered to dismiss the petition only after the petitioner failed to submit the necessary information within the time frame set by the Board. The only difference between the 1986 version of 9 DCMR \u00a7 2009.9 and the 1987 version appears to be elimination of the language allowing for a satisfactory explanation as to why the information could not be submitted. Thus, both the 1986 version and the 1987 version mandate that the Board dismiss appeal petitions only after prescribing a time frame within which a petitioner may act to cure any deficiencies.\nThis interpretation of 9 DCMR \u00a7 2009.9 is further bolstered by the fact that the Board\u2019s regulations do not provide a mechanism for the reinstatement of a petition that has been dismissed because it was incomplete. Absent a process for reinstatement of a dismissed petition in the regulations, the District\u2019s contention that the Board may dismiss an incomplete petition, because any defects can be cured ex post facto, is neither persuasive nor consistent with its own regulations.\nIn this case, the Board informed Auger that his applications were incomplete at the hearing and dismissed the cases outright before Auger was given the opportunity to cure. Auger did not request the opportunity to supplement his petitions, and although the aggrieved party generally has the burden to exhaust his administrative remedies, see Malcolm Price, Inc. v. District Unemployment Compensation Bd., 350 A.2d 730, 733-34 (D.C.1976), here the Board was not authorized under its regulations to dismiss the incomplete petitions prior to the petitioner\u2019s failure to supplement the filing within a time period delineated by the Board to cure the defective petitions.\nThus, because the Board did not have the authority to dismiss the petitions for incompleteness before prescribing a time period for Auger to supplement his filings, the Board violated its own regulations and Auger was not \u201cafforded the required procedural guarantees with respect to the agency\u2019s proceedings\u201d that we have insisted upon before sanctions are imposed. See Abia-Okon, 647 A.2d at 84 (citations omitted). In light of the Board\u2019s actions, we reverse the trial court\u2019s order dismissing the appeals for failure to exhaust administrative remedies and remand the matter to the trial court for a trial de novo on appellants\u2019 challenge to their 1994 property tax assments.\nSo ordered.\n. This case involves the dismissal of seven petitions. Auger has a significant financial interest in five of the seven properties, Ulysses G. Auger for himself, and as general partner of Auger & Auger Associates L.P., Leila Associates, L.H. Auger, and Cataloubee, Inc. Auger has no financial interest in the two other properties that were consolidated for the purposes of this appeal, Barcelo Hotels USA, Inc. and T & L Hospitality.\n. We will not consider the argument raised by the District that a motion for rehearing was required for exhaustion of Auger\u2019s administrative remedies. The dismissal in this case was administrative in nature, and, despite the trial court\u2019s reliance on W.M.R. Watch Case Corp. v. F.T.C., 120 U.S.App.D.C. 20, 22, 343 F.2d 302, 304 (1965), we do not necessarily perceive anything mandatory about seeking a rehearing under the Board\u2019s regulations.",
+        "type": "majority",
+        "author": "WASHINGTON, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "James A. Barker, Jr., with whom Allen V. Farber, Steven G. Friedman and Brett D. Orlove, Washington, DC, were on the brief, for appellants.",
+      "Sheila Kaplan, Assistant Corporation Counsel, with whom Robert R. Rigsby, Acting Corporation Counsel, Charles L. Reischel, Deputy Corporation Counsel, and Lutz Alexander Prager, Assistant Deputy Corporation Counsel, were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Ulysses G. AUGER, et al., Appellants, v. DISTRICT OF COLUMBIA, Appellee.\nNos. 97-TX-479 to 97-TX-484 and 97-TX-518.\nDistrict of Columbia Court of Appeals.\nArgued June 21, 2000.\nDecided Aug. 3, 2000.\nAs Amended on Rehearing Sept. 27, 2000.\nJames A. Barker, Jr., with whom Allen V. Farber, Steven G. Friedman and Brett D. Orlove, Washington, DC, were on the brief, for appellants.\nSheila Kaplan, Assistant Corporation Counsel, with whom Robert R. Rigsby, Acting Corporation Counsel, Charles L. Reischel, Deputy Corporation Counsel, and Lutz Alexander Prager, Assistant Deputy Corporation Counsel, were on the brief, for appellee.\nBefore TERRY and WASHINGTON, Associate Judges, and MACK, Senior Judge."
+  },
+  "file_name": "0930-01",
+  "first_page_order": 964,
+  "last_page_order": 968
+}

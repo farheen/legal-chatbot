@@ -1,0 +1,59 @@
+{
+  "id": 12167612,
+  "name": "In re Ludwig Kraemer",
+  "name_abbreviation": "In re Kraemer",
+  "decision_date": "1965-01-05",
+  "docket_number": "No. 7569",
+  "first_page": "1837",
+  "last_page": "1837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1837"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 70,
+    "ocr_confidence": 0.539,
+    "sha256": "f15509d52a4c8d0ff50679a1af671e7d9339711c9c0bc820a2bda00e647b6074",
+    "simhash": "1:612927467043d2ea",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ludwig Kraemer"
+    ],
+    "opinions": [
+      {
+        "text": "Blind riveted joint.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 5, 1965\nIn re Ludwig Kraemer\n(No. 7569)."
+  },
+  "file_name": "1837-01",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

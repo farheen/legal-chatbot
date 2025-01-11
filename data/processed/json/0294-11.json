@@ -1,0 +1,58 @@
+{
+  "id": 12490436,
+  "name": "SMITH, T. v. PBPP",
+  "name_abbreviation": "Smith v. PBPP",
+  "decision_date": "2017-03-03",
+  "docket_number": "724 CD 2016",
+  "first_page": "294",
+  "last_page": "294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 125,
+    "sha256": "170d8a652efec05060d0bb9e3823e1d09659548fd94cc468fcd2053c9e493ae5",
+    "simhash": "1:3c45b3b584a85459",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SMITH, T.\nv.\nPBPP"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SMITH, T.\nv.\nPBPP\n724 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 3, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0294-11",
+  "first_page_order": 294,
+  "last_page_order": 294
+}

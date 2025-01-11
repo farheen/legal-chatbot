@@ -1,0 +1,58 @@
+{
+  "id": 12502016,
+  "name": "IN RE M.O.",
+  "name_abbreviation": "In re M.O.",
+  "decision_date": "2018-09-17",
+  "docket_number": "16-FS-148, 16-FS-149",
+  "first_page": "913",
+  "last_page": "913",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 913"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 135,
+    "sha256": "6d89bec4759903a0dddbbb8a1ac68b439320810efc52a6b5013cfbb82cc1306b",
+    "simhash": "1:6bd3f25801ad440a",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE M.O."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE M.O.\n16-FS-148, 16-FS-149\nDistrict of Columbia Court of Appeals.\nSeptember 17, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0913-03",
+  "first_page_order": 913,
+  "last_page_order": 913
+}

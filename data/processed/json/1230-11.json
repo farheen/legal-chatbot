@@ -1,0 +1,58 @@
+{
+  "id": 12488940,
+  "name": "IN RE C.H.",
+  "name_abbreviation": "In re C.H.",
+  "decision_date": "2016-11-04",
+  "docket_number": "16\u2013184",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "95895813a3bbcbd648f4196e947baea448f3e49412fc16a48b9511ea02569d0c",
+    "simhash": "1:68350a520d47e227",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE C.H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE C.H.\n16-184\nSupreme Court of Vermont.\nNovember 4, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1230-11",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

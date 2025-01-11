@@ -1,0 +1,58 @@
+{
+  "id": 12490598,
+  "name": "MCCREADY, S. v. PA TURNPIKE COMM",
+  "name_abbreviation": "Mccready v. Comm",
+  "decision_date": "2017-04-26",
+  "docket_number": "1762 CD 2016",
+  "first_page": "305",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 115,
+    "sha256": "85166432babb76ce404eab3e575cfd1e06b391397b7ec2460c87165f957376bd",
+    "simhash": "1:1c07a2b340207d40",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MCCREADY, S.\nv.\nPA TURNPIKE COMM"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MCCREADY, S.\nv.\nPA TURNPIKE COMM\n1762 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 26, 2017\nVacated/Remanded"
+  },
+  "file_name": "0305-13",
+  "first_page_order": 305,
+  "last_page_order": 305
+}

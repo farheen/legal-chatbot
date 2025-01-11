@@ -1,0 +1,62 @@
+{
+  "id": 12491908,
+  "name": "STATE of Connecticut v. Jahmal FULCHER",
+  "name_abbreviation": "State v. Fulcher",
+  "decision_date": "2018-01-30",
+  "docket_number": "No. 39326",
+  "first_page": "1260",
+  "last_page": "1260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "176 A.3d 1260"
+    },
+    {
+      "type": "parallel",
+      "cite": "179 Conn. App. 905"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 180,
+    "sha256": "5fcedcd8ff41e89b64485403704d1893105249d896f6f7738182db6f5a996448",
+    "simhash": "1:014f0e5b8a56367d",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:29.164680+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nJahmal FULCHER"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nJahmal FULCHER\nNo. 39326\nAppellate Court of Connecticut.\nArgued January 11, 2018\nOfficially released January 30, 2018"
+  },
+  "file_name": "1260-04",
+  "first_page_order": 1260,
+  "last_page_order": 1260
+}

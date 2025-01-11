@@ -1,0 +1,58 @@
+{
+  "id": 12486734,
+  "name": "Com. v. R. Vasquez",
+  "name_abbreviation": "Com. v. Vasquez",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1171 MDA 2015",
+  "first_page": "208",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "d931251d9d65d387e0dd9ba37432367d015f28bcb3d2a7043c9eadd40938f065",
+    "simhash": "1:940b4c00008a9851",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Vasquez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Vasquez\nNO. 1171 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0208-03",
+  "first_page_order": 208,
+  "last_page_order": 208
+}

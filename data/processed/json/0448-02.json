@@ -1,0 +1,81 @@
+{
+  "id": 12489519,
+  "name": "STATE of Connecticut v. Raymond MARTIN",
+  "name_abbreviation": "State v. Martin",
+  "decision_date": "2017-05-02",
+  "docket_number": "No. 38611",
+  "first_page": "448",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 A.3d 448"
+    },
+    {
+      "type": "parallel",
+      "cite": "172 Conn. App. 904"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "323 Conn. 801",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12488735
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a3d/151-2/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 307,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25779804150743924
+    },
+    "sha256": "137347d7b226d7bd854a7766ff16e5f9edce6464e05bcb03578646017e86a405",
+    "simhash": "1:adcb25a7cbfa2dff",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:34:52.528919+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nRaymond MARTIN"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment of the trial court's dismissal of the motion to correct an illegal sentence is affirmed. See State v. Delgado, 323 Conn. 801, 151 A.3d 345 (2016).",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nRaymond MARTIN\nNo. 38611\nAppellate Court of Connecticut.\nArgued April 10, 2017\nOfficially released May 2, 2017"
+  },
+  "file_name": "0448-02",
+  "first_page_order": 448,
+  "last_page_order": 448
+}

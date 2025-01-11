@@ -1,0 +1,58 @@
+{
+  "id": 12486436,
+  "name": "Com. v. S. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-03-04",
+  "docket_number": "NO. 2265 EDA 2015",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "7c3e41053ec1c3ac20477e034120f30ce051948879a2ff5da6d45017dc720814",
+    "simhash": "1:194184e900b50ff1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Smith\nNO. 2265 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 04, 2016\nAffirmed."
+  },
+  "file_name": "0189-11",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

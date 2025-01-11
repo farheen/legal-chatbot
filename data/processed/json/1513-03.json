@@ -1,0 +1,59 @@
+{
+  "id": 6092696,
+  "name": "In re Alexandre Korganoff",
+  "name_abbreviation": "In re Korganoff",
+  "decision_date": "1967-10-05",
+  "docket_number": "No. 7977",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 73,
+    "ocr_confidence": 0.506,
+    "sha256": "1ad15ed0117272010d2af8cfad059c63ff00b0e5e82ee1595ea3652c16ffa70a",
+    "simhash": "1:ee6f9dd18ba4347e",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Alexandre Korganoff"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Combustion engine-",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 5, 1967\nNo. 7977.\nIn re Alexandre Korganoff"
+  },
+  "file_name": "1513-03",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

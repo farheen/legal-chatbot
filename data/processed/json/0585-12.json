@@ -1,0 +1,58 @@
+{
+  "id": 12485791,
+  "name": "T. Stewart v. S. Roseberry",
+  "name_abbreviation": "Stewart v. Roseberry",
+  "decision_date": "2016-02-03",
+  "docket_number": "NO. 168 MDA 2015",
+  "first_page": "585",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 118,
+    "sha256": "6c91c90fe5b3162e65383c76aed094b3d2a44ad257c9d64fd24e1fd49e6e9d02",
+    "simhash": "1:90044b8b52283d10",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Stewart\nv.\nS. Roseberry"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Stewart\nv.\nS. Roseberry\nNO. 168 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 03, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0585-12",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

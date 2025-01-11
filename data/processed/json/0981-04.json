@@ -1,0 +1,62 @@
+{
+  "id": 12502145,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Anthony K. COLE, a/k/a Anthony K. Davis-Cole, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Cole",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-149 September Term 2018; 080911",
+  "first_page": "981",
+  "last_page": "981",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 981"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 398,
+    "sha256": "39685019dcaaee71b1a38d070635341d8808586cf699a726e32561dcabe4c2ed",
+    "simhash": "1:3c5e6921317acf28",
+    "word_count": 60
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nAnthony K. COLE, a/k/a Anthony K. Davis-Cole, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-003390-11 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nAnthony K. COLE, a/k/a Anthony K. Davis-Cole, Defendant-Petitioner.\nC-149 September Term 2018\n080911\nSupreme Court of New Jersey.\nOctober 5, 2018\nORDER"
+  },
+  "file_name": "0981-04",
+  "first_page_order": 981,
+  "last_page_order": 981
+}

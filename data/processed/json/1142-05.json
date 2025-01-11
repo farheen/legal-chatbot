@@ -1,0 +1,58 @@
+{
+  "id": 12488371,
+  "name": "Com. v. Gay, W.",
+  "name_abbreviation": "Com v. Gay",
+  "decision_date": "2016-05-10",
+  "docket_number": "2654 EDA 2015",
+  "first_page": "1142",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "ac1b360bf7257778d7ba47ac312cb8d3a3b221bbc4422904cf1c62cc275eebe8",
+    "simhash": "1:7940d37308bc2ffd",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGay, W."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGay, W.\n2654 EDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1142-05",
+  "first_page_order": 1142,
+  "last_page_order": 1142
+}

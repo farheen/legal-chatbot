@@ -1,0 +1,62 @@
+{
+  "id": 12039699,
+  "name": "Francis LUCAS v. HOWARD JOHNSON CO.",
+  "name_abbreviation": "Lucas v. Howard Johnson Co.",
+  "decision_date": "1984-06-14",
+  "docket_number": "No. 84-275-M.P.",
+  "first_page": "121",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "479 A.2d 121"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 242,
+    "ocr_confidence": 0.688,
+    "sha256": "be64c26527ead678d3103c5ccd86c56a7cfb59b2b55c963f100766c2eebb2911",
+    "simhash": "1:2860202c0e0229af",
+    "word_count": 37
+  },
+  "last_updated": "2023-07-14T17:13:51.115396+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francis LUCAS v. HOWARD JOHNSON CO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Raul L. Lovett, Providence, for petitioner.",
+      "Howard L. Feldman, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Francis LUCAS v. HOWARD JOHNSON CO.\nNo. 84-275-M.P.\nSupreme Court of Rhode Island.\nJune 14, 1984.\nRaul L. Lovett, Providence, for petitioner.\nHoward L. Feldman, Providence, for respondent."
+  },
+  "file_name": "0121-03",
+  "first_page_order": 175,
+  "last_page_order": 175
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486402,
+  "name": "Com. v. A. Theodoropoulos",
+  "name_abbreviation": "Com. v. Theodoropoulos",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 709 EDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "sha256": "9e1d29302d8c63728658a18b2321cddf2688cfed7c2a59448788d81d1396e749",
+    "simhash": "1:371346c3b29b1cd0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Theodoropoulos"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Theodoropoulos\nNO. 709 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nAffirmed."
+  },
+  "file_name": "0186-07",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7949807,
+  "name": "In the Matter of LORI K.",
+  "name_abbreviation": "In re Lori K.",
+  "decision_date": "1983-01-05",
+  "docket_number": "No. 83-606-M.P.",
+  "first_page": "222",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "470 A.2d 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 620,
+    "ocr_confidence": 0.745,
+    "sha256": "5a9a34cdf89f872ae3181486383ab092a489d596881e641fd90090dc125d9aba",
+    "simhash": "1:36bc3a380532629e",
+    "word_count": 96
+  },
+  "last_updated": "2023-07-14T18:34:15.263519+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of LORI K."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writs of prohibition and procedendo ad judicium are denied. The order entered in this court on December 8, 1983 vacating the Family Court\u2019s suspension of petitioner\u2019s visitation rights and providing for petitioner\u2019s supervised visitation with the minor child is continued until the issue of paternity is determined by the Family Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "William F. Reilly, Public Defender, Paula F. Rosin, Asst. Public Defender, for petitioner.",
+      "Thomas M. Bohan, Dept, for Children and Their Families, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of LORI K.\nNo. 83-606-M.P.\nSupreme Court of Rhode Island.\nJan. 5, 1983.\nWilliam F. Reilly, Public Defender, Paula F. Rosin, Asst. Public Defender, for petitioner.\nThomas M. Bohan, Dept, for Children and Their Families, Providence, for respondent."
+  },
+  "file_name": "0222-04",
+  "first_page_order": 282,
+  "last_page_order": 283
+}

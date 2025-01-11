@@ -1,0 +1,61 @@
+{
+  "id": 7952602,
+  "name": "STATE v. Guy LANOUE",
+  "name_abbreviation": "State v. Lanoue",
+  "decision_date": "1980-06-26",
+  "docket_number": "No. 77-315-M.P.",
+  "first_page": "313",
+  "last_page": "314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 A.2d 313"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 772,
+    "ocr_confidence": 0.796,
+    "sha256": "7620ae04e98ad1cec9a16fd7702ade8dde7b7b039b4739aaa0fa5e48e680c3e5",
+    "simhash": "1:f75e37c1cdf1e735",
+    "word_count": 128
+  },
+  "last_updated": "2023-07-14T20:43:12.101807+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Guy LANOUE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case comes before the court upon the state\u2019s motion to dismiss the petition for certiorari and the motion of counsel for the defendant to withdraw from the case. During the pendency of the foregoing motions, the defendant filed an affidavit in which he states that he has no objection to the granting of the motion of counsel to withdraw, and that he further has no objection to the dismissal of his petition for certiorari. Upon consideration thereof and following the presentation of oral argument, the motions to withdraw and dismiss the petition for certiorari are hereby granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Sp. Asst. Atty. Gen., for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Guy LANOUE.\nNo. 77-315-M.P.\nSupreme Court of Rhode Island.\nJune 26, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Sp. Asst. Atty. Gen., for plaintiff."
+  },
+  "file_name": "0313-03",
+  "first_page_order": 361,
+  "last_page_order": 362
+}

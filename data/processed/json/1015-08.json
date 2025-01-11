@@ -1,0 +1,59 @@
+{
+  "id": 6080850,
+  "name": "In re Flohr",
+  "name_abbreviation": "In re Flohr",
+  "decision_date": "1954-05-14",
+  "docket_number": "No. 6095",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 90,
+    "ocr_confidence": 0.434,
+    "sha256": "c80d87fdd9f520ce8af880ef68ee18381a4a60303bfd623021465b6b1f34e120",
+    "simhash": "1:49b43f1b7572fb17",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Flohr"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in wire brush and method of making same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 14, 1954\nIn re Flohr\n(No. 6095)."
+  },
+  "file_name": "1015-08",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12489750,
+  "name": "TORBIT v. BALTIMORE CITY POLICE DEPT.",
+  "name_abbreviation": "Torbit v. Balt. City Police Dept",
+  "decision_date": "2017-05-22",
+  "docket_number": "Pet. Docket No. 38, Sept. Term, 2017",
+  "first_page": "557",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 A.3d 557"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 30"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 159,
+    "sha256": "14a5751354272a9da63bd8406fb6dbb7f8c9d79d47e5948f1b83d53481e47b14",
+    "simhash": "1:234a52199dcd4b95",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.016011+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TORBIT\nv.\nBALTIMORE CITY POLICE DEPT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "TORBIT\nv.\nBALTIMORE CITY POLICE DEPT.\nPet. Docket No. 38, Sept. Term, 2017\nCourt of Appeals of Maryland.\nMay 22, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0557-04",
+  "first_page_order": 557,
+  "last_page_order": 557
+}

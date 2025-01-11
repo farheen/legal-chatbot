@@ -1,0 +1,64 @@
+{
+  "id": 12488164,
+  "name": "JACKSON, Jordan Nathaniel v. STATE of Maryland",
+  "name_abbreviation": "Jackson v. State",
+  "decision_date": "2016-12-15",
+  "docket_number": "Pet. Docket No. 435, Sept. Term, 2016",
+  "first_page": "821",
+  "last_page": "821",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 821"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 174,
+    "sha256": "c2db1f146a621948616e14eec0145b530799eb49e68f90afcd93dda6698a49d8",
+    "simhash": "1:2cf39691e1890450",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JACKSON, Jordan Nathaniel\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "JACKSON, Jordan Nathaniel\nv.\nSTATE of Maryland\nPet. Docket No. 435, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 15, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0821-03",
+  "first_page_order": 821,
+  "last_page_order": 821
+}

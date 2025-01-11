@@ -1,0 +1,63 @@
+{
+  "id": 9491795,
+  "name": "In the Matter of Lacy R. WHEELER, III. Petition for Reinstatement",
+  "name_abbreviation": "In re Wheeler",
+  "decision_date": "2001-06-28",
+  "docket_number": "No. 322 Disciplinary Docket No. 3",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 555,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7611114855420016
+    },
+    "sha256": "2174f07a1523733ff6747a59d8e6b4ca2a649904806375e8c9c18ca0029f8d63",
+    "simhash": "1:dc8bc67cf087f2f5",
+    "word_count": 89
+  },
+  "last_updated": "2023-07-14T17:48:11.218492+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Lacy R. WHEELER, III. Petition for Reinstatement."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 28th day of June, 2001, upon consideration of the Report and Recommendation of the Disciplinary Board of the Supreme Court of Pennsylvania dated April 26, 2001, the Petition for Reinstatement is denied.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Lacy R. WHEELER, III. Petition for Reinstatement.\nNo. 322 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJune 28, 2001."
+  },
+  "file_name": "0485-01",
+  "first_page_order": 527,
+  "last_page_order": 527
+}

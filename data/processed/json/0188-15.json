@@ -1,0 +1,58 @@
+{
+  "id": 12485283,
+  "name": "In re N.D.",
+  "name_abbreviation": "In re N.D.",
+  "decision_date": "2016-05-12",
+  "docket_number": "NO. 16-020",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 84,
+    "sha256": "c7a7266dc5b4e9e8ce5b8ea3f3684233a37860e0384cb2518f64b61609c3598c",
+    "simhash": "1:f8321e080406c0c0",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re N.D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re N.D.\nNO. 16-020\nSupreme Court of Vermont\nMay 12, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0188-15",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

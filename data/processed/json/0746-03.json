@@ -1,0 +1,62 @@
+{
+  "id": 7955948,
+  "name": "In re Advisory Opinion to J. Joseph GARRAHY, Governor",
+  "name_abbreviation": "In re Advisory Opinion to Garrahy",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 80-51-M.P.",
+  "first_page": "746",
+  "last_page": "746",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 559,
+    "ocr_confidence": 0.766,
+    "sha256": "f97db1c3185812d5a0c66f8cc37ca7edd150b3f45f1512153c5b86dae4eef490",
+    "simhash": "1:6c1977083848e01a",
+    "word_count": 94
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Advisory Opinion to J. Joseph GARRAHY, Governor."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motions of the Public Defender and Harris L. Berson for leave to file briefs as amicus curiae are granted. The attorney-general is also directed to file a brief in this case. All briefs shall be filed on or before April 28, 1980.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Sp. Asst. Atty. Gen., for plaintiff.",
+      "John A. MacFadyen III, Barbara Hurst, Asst. Public Defenders, Harris L. Berson, Providence, for amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "In re Advisory Opinion to J. Joseph GARRAHY, Governor.\nNo. 80-51-M.P.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nDennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Sp. Asst. Atty. Gen., for plaintiff.\nJohn A. MacFadyen III, Barbara Hurst, Asst. Public Defenders, Harris L. Berson, Providence, for amicus curiae."
+  },
+  "file_name": "0746-03",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

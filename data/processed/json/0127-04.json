@@ -1,0 +1,61 @@
+{
+  "id": 7888066,
+  "name": "In re Petition of John and Janice GRAY",
+  "name_abbreviation": "In re Gray",
+  "decision_date": "1986-07-17",
+  "docket_number": "No. DB 333",
+  "first_page": "127",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "512 A.2d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 574,
+    "ocr_confidence": 0.794,
+    "sha256": "a36a3c1be3ab08c6994fe9cbca83868e0558ce156d884a2c52787f7eaefe31c8",
+    "simhash": "1:1b5f08bf06474b86",
+    "word_count": 88
+  },
+  "last_updated": "2023-07-14T17:49:05.580112+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "In re Petition of John and Janice GRAY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThese matters came before the court on the petition of complainants John and Janice Gray to review the action of the Disciplinary Board dismissing their complaints against several respondent-attorneys.\nAfter carefully examining the Chief Disciplinary Counsel\u2019s files herein, we conclude that there is no reason to disturb the Board\u2019s decisions.\nAccordingly, the complainants\u2019 petition that the matters be reviewed, as prayed, is denied.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Petition of John and Janice GRAY.\nNo. DB 333.\nSupreme Court of Rhode Island.\nJuly 17, 1986."
+  },
+  "file_name": "0127-04",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

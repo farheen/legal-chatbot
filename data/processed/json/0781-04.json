@@ -1,0 +1,58 @@
+{
+  "id": 12487375,
+  "name": "Com. v. C. Greene",
+  "name_abbreviation": "Com. v. Greene",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 991 EDA 2014",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "dba6eaeff6da9507a51a53c28cb2e3fd3c1b9ee782bf0457dc67f56aebc7185d",
+    "simhash": "1:2bcaec8090203a04",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Greene"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Greene\nNO. 991 EDA 2014\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed."
+  },
+  "file_name": "0781-04",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

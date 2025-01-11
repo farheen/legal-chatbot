@@ -1,0 +1,63 @@
+{
+  "id": 7962324,
+  "name": "STATE v. Mark BURNS",
+  "name_abbreviation": "State v. Burns",
+  "decision_date": "1980-01-04",
+  "docket_number": "No. 79-520-C.A.",
+  "first_page": "135",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 324,
+    "ocr_confidence": 0.802,
+    "sha256": "35f14a5a458aad8919802d753f4ca15a230dc02bcbd059fd3bbf1b17677a8341",
+    "simhash": "1:b19a04cebb647cdf",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Mark BURNS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion to be appointed counsel for defendant is denied without prejudice to its being renewed after the record herein has been docketed in this court.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Mark BURNS.\nNo. 79-520-C.A.\nSupreme Court of Rhode Island.\nJan. 4, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff."
+  },
+  "file_name": "0135-03",
+  "first_page_order": 183,
+  "last_page_order": 183
+}

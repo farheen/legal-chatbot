@@ -1,0 +1,64 @@
+{
+  "id": 12490808,
+  "name": "PRINCE, James Edward v. STATE of Maryland",
+  "name_abbreviation": "Prince v. State",
+  "decision_date": "2017-08-25",
+  "docket_number": "Pet. Docket No. 191, Sept. Term, 2017",
+  "first_page": "64",
+  "last_page": "64",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "168 A.3d 64"
+    },
+    {
+      "type": "parallel",
+      "cite": "455 Md. 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 170,
+    "sha256": "8364dac8359402da142bec2e4a380bafb5498a33d709ef96f0a0c2d43970b15a",
+    "simhash": "1:07c64649461d5315",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.022556+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRINCE, James Edward\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "PRINCE, James Edward\nv.\nSTATE of Maryland\nPet. Docket No. 191, Sept. Term, 2017\nCourt of Appeals of Maryland.\nAugust 25, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0064-04",
+  "first_page_order": 64,
+  "last_page_order": 64
+}

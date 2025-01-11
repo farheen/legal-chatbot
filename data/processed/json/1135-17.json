@@ -1,0 +1,58 @@
+{
+  "id": 12488258,
+  "name": "Com. v. Hunter, R.",
+  "name_abbreviation": "Com v. Hunter",
+  "decision_date": "2016-05-04",
+  "docket_number": "1332 WDA 2015",
+  "first_page": "1135",
+  "last_page": "1135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "sha256": "88fd2f628d01cb0838930a295f5de9aa49b52084c499273398417550ff93ff3a",
+    "simhash": "1:d41a526b11adb0c1",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHunter, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHunter, R.\n1332 WDA 2015\nSuperior Court of Pennsylvania.\nMay 4, 2016\nVacated and Remanded."
+  },
+  "file_name": "1135-17",
+  "first_page_order": 1135,
+  "last_page_order": 1135
+}

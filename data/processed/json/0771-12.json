@@ -1,0 +1,58 @@
+{
+  "id": 12487217,
+  "name": "Com. v. M. Fagan",
+  "name_abbreviation": "Com. v. Fagan",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1130 WDA 2015",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "f2b3f6f2a0f99be51cf6d05d8e92068cf68401b791712cb3b7c9b18d6b4b9bdc",
+    "simhash": "1:33093e6752b08794",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Fagan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Fagan\nNO. 1130 WDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0771-12",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

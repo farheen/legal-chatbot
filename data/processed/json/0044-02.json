@@ -1,0 +1,83 @@
+{
+  "id": 12491823,
+  "name": "STATE of Connecticut v. Andre GILL",
+  "name_abbreviation": "State v. Gill",
+  "decision_date": "2017-12-14",
+  "docket_number": "",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "178 Conn. App. 43",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491528
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/173-2/0998-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 438,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578820232376482
+    },
+    "sha256": "f88cfdf4cf94f6ac4e375a81ce6bacd199fb8d3fb2342b14641512f7ce8def75",
+    "simhash": "1:349fa62a83b17cf4",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nAndre GILL"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 178 Conn. App. 43, 173 A.3d 998 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nAndre GILL\nSupreme Court of Connecticut.\nDecided December 14, 2017\nLisa J. Sleele, assigned counsel, in support of the petition.\nJennifer F. Miller, deputy assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 178 Conn. App. 43, 173 A.3d 998 (2017), is denied.\nKAHN, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0044-02",
+  "first_page_order": 44,
+  "last_page_order": 44
+}

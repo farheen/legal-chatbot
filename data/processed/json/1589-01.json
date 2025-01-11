@@ -1,0 +1,59 @@
+{
+  "id": 6083182,
+  "name": "In re Paul Stamberger",
+  "name_abbreviation": "In re Stamberger",
+  "decision_date": "1963-06-03",
+  "docket_number": "No. 7073",
+  "first_page": "1589",
+  "last_page": "1589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 79,
+    "ocr_confidence": 0.404,
+    "sha256": "bc0a43ac29ab7347a51a369ac833d543b0247fdd7456d9655d77bdbcc5a977c6",
+    "simhash": "1:c25924ceeda24c47",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Paul Stamberger"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in diaper inserts.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 3, 1963\nIn re Paul Stamberger\n(No. 7073)."
+  },
+  "file_name": "1589-01",
+  "first_page_order": 913,
+  "last_page_order": 913
+}

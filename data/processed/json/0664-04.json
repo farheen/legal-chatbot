@@ -1,0 +1,58 @@
+{
+  "id": 12501610,
+  "name": "In the MATTER OF: L.R.S., a Minor",
+  "name_abbreviation": "In re L.R.S.",
+  "decision_date": "2018-07-12",
+  "docket_number": "1625 MDA 2017",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 664"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 104,
+    "sha256": "e563aa5186596fe00020dae3244fbbab19ecd7e6146523ae34572be9fb23c13c",
+    "simhash": "1:3490811af1679fe0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF: L.R.S., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF: L.R.S., a Minor\n1625 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 12, 2018\nAffirmed"
+  },
+  "file_name": "0664-04",
+  "first_page_order": 664,
+  "last_page_order": 664
+}

@@ -1,0 +1,114 @@
+{
+  "id": 8050248,
+  "name": "WILMINGTON COUNTRY CLUB, a Delaware corporation, Petitioner-Below, Appellant, v. UNEMPLOYMENT INSURANCE APPEAL BOARD and Richard W. Lacey, Defendants-Below, Appellees",
+  "name_abbreviation": "Wilmington Country Club v. Unemployment Insurance Appeal Board",
+  "decision_date": "1973-01-16",
+  "docket_number": "",
+  "first_page": "289",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "301 A.2d 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "66 F.Supp. 105",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        622480
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/66/0105-01"
+      ]
+    },
+    {
+      "cite": "26 U.S.C. \u00a7\u00a7 3301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 3304",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 N.E.2d 500",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1944,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Ind.App. 383",
+      "category": "reporters:state",
+      "reporter": "Ind. App.",
+      "case_ids": [
+        1593155
+      ],
+      "year": 1944,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind-app/114/0383-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 293,
+    "char_count": 3707,
+    "ocr_confidence": 0.788,
+    "pagerank": {
+      "raw": 2.4571674979920133e-07,
+      "percentile": 0.8051511883511355
+    },
+    "sha256": "75d303b0f4907d477a9586abea6fb9bc92ddf0a678c402501f46ab286fed84fb",
+    "simhash": "1:b753bee342fc2578",
+    "word_count": 582
+  },
+  "last_updated": "2024-02-27T22:56:11.860391+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WOLCOTT, C. and CAREY and HERRMANN, JJ., sitting."
+    ],
+    "parties": [
+      "WILMINGTON COUNTRY CLUB, a Delaware corporation, Petitioner-Below, Appellant, v. UNEMPLOYMENT INSURANCE APPEAL BOARD and Richard W. Lacey, Defendants-Below, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "WOLCOTT, Chief Justice.\nThis is an appeal from the Superior Court\u2019s affirmance of the Unemployment Insurance Appeal Board\u2019s decision.\nThe appellant Wilmington Country Club maintained a list of available bartenders from which, when special occasions created a need, the Club would select additional bartenders for the occasion. The claimant, appellee, was employed in this manner on half a dozen occasions, earning a total of $77 over a period of a year. At no time was he a regular full or part-time employee of the Club.\nThe Superior Court held that claimant\u2019s sporadic work with the Club constituted \u201cemployment\u201d under the provisions of 19 Del.C. \u00a7 3302(10). It then concluded that since the Club was an employing unit under 19 Del.C. \u00a7 3341, its account was properly surcharged for the involuntary severance of claimant from his employment. In so holding, the Court expressly refused to consider the disqualification provisions found in 19 Del.C. \u00a7 3315.\nThe employer\u2019s rate of contribution to the account is directly related to the amount of benefits paid to its employees. Consequently, it is necessary to determine whether a claimant is properly eligible for benefits before an employer\u2019s account can be surcharged.\nEligibility for benefits is determined by 19 Del.C. \u00a7 3314; however, certain disqualifications from eligibility are provided in 19 Del.C. \u00a7 3315. Among them is 19 Del.C. \u00a7 3315(1) which disqualifies any employee who leaves his employment \u201cvoluntarily without good cause\u201d.\nThe nature of claimant\u2019s work for the Club was such that he left his employment voluntarily. When claimant accepted employment, he was aware that it was for a specific, limited duration. We think the acceptance of employment under these conditions amounted to voluntary termination of the employment at the expiration of the limited occasion. Furthermore, we think it is plain that such voluntary termination was without \u201cgood cause\u201d. See White v. Review Bd, 114 Ind.App. 383, 52 N.E.2d 500 (1944). Therefore, we conclude that claimant was ineligible for benefits.\nSince the claimant was ineligible for benefits, it follows that it was improper to surcharge the Club\u2019s account.\nThe Court below further erred in its application of 26 U.S.C. \u00a7 3304. This Federal statute pertains to certification of state unemployment compensation plans by the Secretary of Labor. Under the Federal Unemployment Tax Act, employers may receive credit for unemployment taxes paid into state plans certified by the Secretary. 26 U.S.C. \u00a7\u00a7 3301, 3302.\nThere is no doubt that the Delaware and Federal unemployment taxes are complementary. However, each was enacted by a distinct legislative body, and either tax can exist and function without the other. Quality Coal Co. v. United States, W.D.Ark., 66 F.Supp. 105 (1946). We feel, in this instance, that it is error to construe our statute on the basis of the independent legislative determination made by the Congress. Cf. Wilmington Housing Authority v. Nos. 401, 403, 405 E. Seventh St., Del.Supr., 195 A.2d392 (1963).\nBy reason of the foregoing, the judgment of the Superior Court is reversed.\nIn its Letter Opinion, the Court below wrote that \u201c[section 3304] does not conflict with any portion of the Delaware Unemployment Tax Act, and can be considered by the Board in construing our statutes.\u201d",
+        "type": "majority",
+        "author": "WOLCOTT, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "Theodore F. Sandstrom, Wilmington, for appellant.",
+      "Jay H. Conner, Wilmington, for appel-lees."
+    ],
+    "corrections": "",
+    "head_matter": "WILMINGTON COUNTRY CLUB, a Delaware corporation, Petitioner-Below, Appellant, v. UNEMPLOYMENT INSURANCE APPEAL BOARD and Richard W. Lacey, Defendants-Below, Appellees.\nSupreme Court of Delaware.\nJan. 16, 1973.\nReargument Denied Feb. 6, 1973.\nTheodore F. Sandstrom, Wilmington, for appellant.\nJay H. Conner, Wilmington, for appel-lees.\nWOLCOTT, C. and CAREY and HERRMANN, JJ., sitting."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 327,
+  "last_page_order": 328
+}

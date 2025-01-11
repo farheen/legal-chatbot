@@ -1,0 +1,58 @@
+{
+  "id": 12502013,
+  "name": "Trayvon M. THOMAS v. US",
+  "name_abbreviation": "Thomas v. United States",
+  "decision_date": "2018-09-11",
+  "docket_number": "16-CO-511",
+  "first_page": "912",
+  "last_page": "912",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 912"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "0589e11ad4ab6bc3ca45e4e0fddb7339456ab5809383b464d4aff2beb6748646",
+    "simhash": "1:64d7e1554188144b",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Trayvon M. THOMAS\nv.\nUS"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Trayvon M. THOMAS\nv.\nUS\n16-CO-511\nDistrict of Columbia Court of Appeals.\nSeptember 11, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0912-04",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

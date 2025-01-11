@@ -1,0 +1,64 @@
+{
+  "id": 12490295,
+  "name": "LUCAS v. WARD",
+  "name_abbreviation": "Lucas v. Ward",
+  "decision_date": "2017-07-28",
+  "docket_number": "Pet. Docket No. 113, Sept. Term, 2017",
+  "first_page": "466",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 466"
+    },
+    {
+      "type": "parallel",
+      "cite": "454 Md. 664"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 137,
+    "sha256": "4c90d9996cc82e652f1f7b6f7f2b1f15f635f31e14127a0b26454cda7b18113a",
+    "simhash": "1:2776d239d60bc381",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LUCAS\nv.\nWARD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "LUCAS\nv.\nWARD\nPet. Docket No. 113, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJuly 28, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0466-03",
+  "first_page_order": 466,
+  "last_page_order": 466
+}

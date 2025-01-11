@@ -1,0 +1,58 @@
+{
+  "id": 12487459,
+  "name": "Com. v. L. Bodle",
+  "name_abbreviation": "Com. v. Bodle",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 1234 MDA 2015",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 787"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "f91c7639d07c171200afc1d4bfce16f95ce6d6323b53a95c72a42ed283fbfd75",
+    "simhash": "1:08859e6119391520",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Bodle"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Bodle\nNO. 1234 MDA 2015\nSuperior Court of Pennsylvania.\nApril 20, 2016\nAffirmed."
+  },
+  "file_name": "0787-08",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486798,
+  "name": "Com. v. M. Ortiz",
+  "name_abbreviation": "Com. v. Ortiz",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1516 MDA 2014",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "20409d92040296ca7fee774d20243d9b5894ee61311cd6dc125bf8bc0dbd5468",
+    "simhash": "1:acdd4ff008238980",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Ortiz"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Ortiz\nNO. 1516 MDA 2014\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nReversed and Remanded."
+  },
+  "file_name": "0212-05",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

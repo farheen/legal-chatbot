@@ -1,0 +1,90 @@
+{
+  "id": 7350639,
+  "name": "David A. PIERCE v. Joseph I. CASANO and Dorothy P. Casano",
+  "name_abbreviation": "Pierce v. Casano",
+  "decision_date": "1993-05-20",
+  "docket_number": "No. 92-377-Appeal",
+  "first_page": "221",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "625 A.2d 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "568 A.2d 1387",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7363856
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/568/1387-01"
+      ]
+    },
+    {
+      "cite": "435 A.2d 317",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7980683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/435/0317-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 149,
+    "char_count": 1443,
+    "ocr_confidence": 0.726,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18940853308436129
+    },
+    "sha256": "1e21525802410d6422f9d302e628452f8edf88c16727d4bbdb1521cd5b2f11ff",
+    "simhash": "1:5cf9bc504c867f7e",
+    "word_count": 249
+  },
+  "last_updated": "2024-02-27T16:04:22.291718+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "FAY, C.J., did not participate."
+    ],
+    "parties": [
+      "David A. PIERCE v. Joseph I. CASANO and Dorothy P. Casano."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court for oral argument on May 18, 1993 pursuant to an order directing both parties to appear and show cause why the issues raised in this appeal should not be summarily decided.\nIn this case, the plaintiff had brought suit against the defendants for personal injury resulting from a motor vehicle accident. The case was tried before a jury in the Superior Court, and a verdict was rendered in favor of the defendants.\nAfter reviewing the memoranda filed by the parties and after hearing the arguments of counsel, we are of the opinion that cause has not been shown.\nWe are of the opinion that 1) the trial judge\u2019s rulings on the admissibility of evidence do not require reversal either individually or cumulatively; 2) the trial judge properly charged the jury with the applicable law (State v. D\u2019Alo, 435 A.2d 317 (R.I.1981), holding that a trial judge may charge the jury in his or her own words as long as the applicable law is stated); and 3) the exclusion of certain medical affidavits was not error in light of this court\u2019s holding in Cuddy v. Schiavonne, 568 A.2d 1387 (R.I.1990).\nFor these reasons, the plaintiff\u2019s appeal is denied and dismissed. The trial judge\u2019s order denying plaintiffs motion for a new trial is sustained.\nFAY, C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David A. PIERCE v. Joseph I. CASANO and Dorothy P. Casano.\nNo. 92-377-Appeal.\nSupreme Court of Rhode Island.\nMay 20, 1993."
+  },
+  "file_name": "0221-02",
+  "first_page_order": 293,
+  "last_page_order": 294
+}

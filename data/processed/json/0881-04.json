@@ -1,0 +1,61 @@
+{
+  "id": 8001044,
+  "name": "Raymond MARTINEAU v. John MORAN",
+  "name_abbreviation": "Martineau v. Moran",
+  "decision_date": "1982-04-29",
+  "docket_number": "No. 82-167-M.P.",
+  "first_page": "881",
+  "last_page": "882",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "445 A.2d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 383,
+    "ocr_confidence": 0.788,
+    "sha256": "ea783ef272fd5e10ba0bf0ddd04d035af7d4ce86193b8b5d354f9c97574ade5b",
+    "simhash": "1:7c16017f9ad14cb4",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T18:48:11.459249+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Raymond MARTINEAU v. John MORAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondent is directed to file his answer to the petition for writ of habeas corpus and therein to show cause, if any he has, why the writ should not issue as prayed, said answer to be made in compliance with the provisions of Supreme Court Rule 14.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Raymond Martineau, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Raymond MARTINEAU v. John MORAN.\nNo. 82-167-M.P.\nSupreme Court of Rhode Island.\nApril 29, 1982.\nRaymond Martineau, pro se."
+  },
+  "file_name": "0881-04",
+  "first_page_order": 939,
+  "last_page_order": 940
+}

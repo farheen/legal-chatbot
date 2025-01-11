@@ -1,0 +1,64 @@
+{
+  "id": 12488866,
+  "name": "STATE of Connecticut v. Steven D. NELSON",
+  "name_abbreviation": "State v. Nelson",
+  "decision_date": "2017-01-04",
+  "docket_number": "",
+  "first_page": "544",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 544"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 906"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 261,
+    "sha256": "7c0a244b69e6b28dc23211db04138baa4ee2fbe3f5e5b567bbba4727c7a70e3c",
+    "simhash": "1:a4df0c061a623735",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nSteven D. NELSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court (AC 37219) is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nSteven D. NELSON\nSupreme Court of Connecticut.\nDecided January 4, 2017\nSteven D. Nelson, self-represented, in support of the petition.\nThe defendant's petition for certification for appeal from the Appellate Court (AC 37219) is denied."
+  },
+  "file_name": "0544-04",
+  "first_page_order": 544,
+  "last_page_order": 545
+}

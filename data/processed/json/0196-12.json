@@ -1,0 +1,58 @@
+{
+  "id": 12486541,
+  "name": "E.M. v. D.Z.",
+  "name_abbreviation": "E.M. v. D.Z.",
+  "decision_date": "2016-03-10",
+  "docket_number": "NO. 2086 EDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 101,
+    "sha256": "d492e985ff92c70213a16c547531df05a39f570aed9aa1ef31d9d1f3a5aa6a2c",
+    "simhash": "1:5d5bd853cef5bdf4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.M.\nv.\nD.Z."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.M.\nv.\nD.Z.\nNO. 2086 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 10, 2016\nVacated and Remanded."
+  },
+  "file_name": "0196-12",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

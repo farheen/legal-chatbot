@@ -1,0 +1,58 @@
+{
+  "id": 12488329,
+  "name": "Com. v. Sistrunk, H.",
+  "name_abbreviation": "Com v. Sistrunk",
+  "decision_date": "2016-05-09",
+  "docket_number": "1731 EDA 2015",
+  "first_page": "1140",
+  "last_page": "1140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "50a1af957246ef8df9ba708de87c60559b170e0127f1ecc30cea41ee76c49528",
+    "simhash": "1:b80352e21daf9ba8",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSistrunk, H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSistrunk, H.\n1731 EDA 2015\nSuperior Court of Pennsylvania.\nMay 9, 2016\nAffirmed"
+  },
+  "file_name": "1140-11",
+  "first_page_order": 1140,
+  "last_page_order": 1140
+}

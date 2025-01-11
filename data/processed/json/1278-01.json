@@ -1,0 +1,253 @@
+{
+  "id": 9181532,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. James R. JOHNSON, Appellant",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2005-02-15",
+  "docket_number": "",
+  "first_page": "1278",
+  "last_page": "1283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "868 A.2d 1278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "720 A.2d 79",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11796393,
+        356250
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/720/0079-01",
+        "/pa/553/0485-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356250
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0485-01"
+      ]
+    },
+    {
+      "cite": "787 A.2d 312",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404512,
+        9454581
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "319-20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0344-01",
+        "/a2d/787/0312-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 344",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404512
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0344-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1702005,
+        11635951
+      ],
+      "weight": 2,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "333"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01",
+        "/a2d/724/0326-01"
+      ]
+    },
+    {
+      "cite": "555 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1702005
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/555/0299-01"
+      ]
+    },
+    {
+      "cite": "799 A.2d 136",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9411461
+      ],
+      "pin_cites": [
+        {
+          "page": "141"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/799/0136-01"
+      ]
+    },
+    {
+      "cite": "820 A.2d 728",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9312042
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/820/0728-01"
+      ]
+    },
+    {
+      "cite": "768 A.2d 1164",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11120397
+      ],
+      "pin_cites": [
+        {
+          "page": "1166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/768/1164-01"
+      ]
+    },
+    {
+      "cite": "732 A.2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        56873,
+        11549381
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0135-01",
+        "/a2d/732/0582-01"
+      ]
+    },
+    {
+      "cite": "557 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        56873
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/557/0135-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 646,
+    "char_count": 13188,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 1.9068414039980145e-07,
+      "percentile": 0.7310084487551205
+    },
+    "sha256": "adc1ff64aee7fad0a426f0cca653c668d3ead91a8ce9792d0cf084978a2557d2",
+    "simhash": "1:2763817a6d688152",
+    "word_count": 2128
+  },
+  "last_updated": "2024-02-27T18:54:33.983777+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: STEVENS, LALLY-GREEN, and POPOVICH, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. James R. JOHNSON, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSTEVENS, J.:\n\u00b6 1 Appellant, James R. Johnson, appeals the order entered on May 27, 2004, denying his petition for relief pursuant to the Post Conviction Relief Act (PCRA), 42 Pa.C.S.A. \u00a7\u00a7 9541-9546. On appeal, Appellant argues that his guilty plea is invalid on the basis that his plea counsel rendered ineffective assistance in advising him eon-cerning his eligibility for Motivational Boot Camp. See Motivational Boot Camp Act, 61 P.S. \u00a7\u00a7 1121-1129. We affirm.\n\u00b6 2 The PCRA court aptly summarizes the factual background and procedural history of this matter as follows.\nA Criminal Complaint was filed on May 1, 2002 charging [Appellant] with Rape (\u00a7 3121(a)(1) and (2) of the Crimes Code); Involuntary Deviate Sexual Intercourse (\u00a7 3123(a)(1), (2) and (7) of the Crimes Code); Statutory Sexual Assault (\u00a7 3122.1 of the Crimes Code); Sexual Assault (\u00a7 3124.1 of the Crimes Code); Aggravated Indecent Assault (\u00a7 3125(a)(1), (2), (3) and (8) of the Crimes Code); Indecent Assault (\u00a7 3126(a)(1), (2), (3) and (8) of the Crimes Code) and Corruption of Minors (\u00a7 6301(a) of the Crimes Code). The allegations of sexual assault were related to [Appellant] having various forms of sexual contact with S.H. (date of birth: 11/9/88), a female child, during the month of February 2002. S.H. was then 13 years of age while [Appellant] (date of birth: 10/20/81) was 20 years of age. [Appellant] was a reported friend of S.H.\u2019s relatives and came to know her in that regard. [Appellant] retained the services of Harold N. Fitzkee, Jr., Esquire to represent him throughout the proceedings.\nOn May 12, 2003 [Appellant] pled guilty to Statutory Sexual Assault (based upon vaginal sexual intercourse, \u00a7 3122.1 of the Crimes Code); Indecent Assault (general sexual touching, \u00a7 3126(a)(8) of the Crimes Code) and Corruption of Minors (sexual contact with a minor, \u00a7 6301(a) of the Crimes Code). Under the terms of [Appellant\u2019s] plea agreement the remaining charges of Rape, Involuntary Deviate Sexual Intercourse, Sexual Assault and Aggravated Indecent Assault were to be nol prosed [sic] and [Appellant] would receive a sentence of 2Hi to 5 years on the offense of Statutory Sexual Assault and concurrent sentences of 1 to 2 years on Indecent Assault and Corruption of Minors.\nOn that same date, namely May 12, 2003, [Appellant] was sentenced in accordance with the plea agreement and it was further stated:\nThe court further deems [Appellant] an appropriate candidate for boot camp at such time as he should otherwise become eligible for that in the State Correctional setting.\nThereafter on May 28, 2003, [Appellant] directed a letter to the court\u2019s chambers in which he represented that:\n\u201cI was forced to take the plea ... I respectfully ask that you consider taking my plea back and look my case over\u201d.\nIn response to that letter the Trial Court entered an Order on June 2, 2003 which provided in part:\nInasmuch as the referenced letter [from the Defendant] suggests that the Defendant\u2019s plea was not knowingly and voluntarily entered and suggests ineffective representation of Trial/Plea Counsel, we appoint the Public Defender\u2019s Office to further represent the Defendant. A representative of the Public Defender\u2019s Office shall meet with the Defendant to consider the Defendant\u2019s assertions and take appropriate action on his behalf.\nSee Trial Court\u2019s Order of June 2, 2003. Thereafter and due to a conflict in representation of [Appellant] within the Public Defender\u2019s Office the Trial Court appointed Ronald J. Gross, Esquire to represent [Appellant] by Order of June 12, 2003. On January 30, 2004, [Appellant] filed a pro se'Petition for Modification of Sentence Nunc Pro Tunc. After review of that motion, the trial court on January 30, 2004 refused that Petition observing:\nThe Petition is for Modification of Sentence imposed by this court on May 12, 2003. The Trial Court is without jurisdiction to modify, amend or change that sentence and accordingly all of the petitions are denied and refused.\nOn March 25, 2004, [Appellant] filed a pro se PCRA Petition asserting ineffectiveness of both . his trial/plea counsel, Harold N. Fitzkee, Jr., Esquire and subsequently appointed counsel, Ronald J. Gross, Esquire. The court appointed Frank C. Acuri, Esquire to represent [Appellant] in his PCRA filing, directing Attorney Acuri to file a Supplemental PCRA Petition setting forth any additional basis for PCRA relief. The court scheduled the matter for PCRA hearing on May 27, 2004 and a hearing was conducted thereon. At the conclusion of the hearing on May 27, 2004 the Trial Court entered its Order and decision denying [Appellant] PCRA relief. On June 1, 2004 [Appellant] filed an appeal to the Superior Court of Pennsylvania from the denial of PCRA relief.\nPCRA Court Opinion, 7/16/04, at 1-5.\n\u00b63 On appeal, Appellant raises one issue:\nDID APPELLANT RECEIVE INEFFECTIVE ASSISTANCE OF COUNSEL WHEN TRIAL COUNSEL MI-SADVISED HIM AS TO HIS BOOT CAMP ELIGIBILITY, THUS INDUCING HIM TO PLEAD GUILTY WITHOUT THE POSSIBILITY OF RECEIVING THE BENEFIT FOR WHICH HE HAD BARGAINED?\nAppellant\u2019s Brief, at 5.\n\u00b6 4 This Court\u2019s standard of review regarding an order denying a petition under the PCRA is whether the determination of the PCRA court is supported by the evidence of record and is free of legal error. Commonwealth v. Allen, 557 Pa. 135, 732 A.2d 582 (1999). The PCRA court\u2019s findings will not be disturbed unless there is no support for the findings in the certified record. Commonwealth v. Carr, 768 A.2d 1164, 1166 (Pa.Super.2001).\n\u00b6 5 This Court has recently addressed the question of whether a petitioner under the PCRA may properly allege that ineffective assistance of trial counsel resulted in an involuntary plea of guilt. See Commonwealth v. Lynch, 820 A.2d 728 (Pa.Super.2003). In Lynch, we explained that the PCRA will provide relief to an appellant if ineffective assistance of counsel caused him to enter an involuntary plea of guilt. We conduct our review of such a claim in accordance with the three-pronged ineffectiveness test under section 9543(a)(2)(ii) of the PCRA, 42 Pa.C.S.A. \u00a7 9543(a)(2)(ii). See Lynch at 732. \u201cThe voluntariness of [the] plea depends on whether counsel\u2019s advice was within the range of competence demanded of attorneys in criminal cases.\u201d Id. at 733 (quoting Commonwealth v. Hickman, 799 A.2d 136, 141 (Pa.Super.2002)).\n\u00b6 6 In order for Appellant to prevail on a claim of ineffective assistance of counsel, he must show, by a preponderance of the evidence, ineffective assistance of counsel which, in the circumstances of the particular case, so undermined the truth-determining process that no reliable adjudication of guilt or innocence could have taken place. Commonwealth v. Kimball, 555 Pa. 299, 724 A.2d 326, 333 (1999). Appellant must demonstrate: (1) the underlying claim is of arguable merit; (2) that counsel had no reasonable strategic basis for his or her action or inaction; and (3) but for the errors and omissions of counsel, there is a reasonable probability that the outcome of the proceedings would have been different. Id. The petitioner bears the burden of proving all three prongs of the test. Commonwealth v. Meadows, 567 Pa. 344, 787 A.2d 312, 319-20 (2001).\n\u00b6 7 Appellant claims that his plea counsel\u2019s ineffective assistance induced him to enter the plea agreement. Appellant asserts that both his plea counsel and the trial court should have been aware that he was statutorily ineligible for Boot Camp if he entered a guilty plea to statutory sexual assault, 18 Pa.C.S.A. \u00a7 3124.1, and indecent assault, 18 Pa.C.S.A. \u00a7 3125. See 61 P.S. \u00a7 1123. Appellant asserts that, although the Department of Corrections did not explain its determination that Appellant was ineligible for Boot Camp because of the nature of his offenses, \u201cit certainly can be argued that, as a lesser included offense of aggravated indecent assault, a conviction for indecent assault could be deemed to statutorily bar him from eligibility.\u201d Appellant\u2019s Brief, at 13.\n\u00b6 8 Appellant was not statutorily ineligible for Boot Camp. Appellant satisfied the term of confinement and age criteria set forth in the statute. See 61 P.S. \u00a7 1123. Further, Appellant was not sentenced for a violation of any of the enumerated offenses which make an inmate statutorily ineligible for Boot Camp; rather, he was sentenced for committing statutory sexual assault, 18 Pa.C.S.A. \u00a7 3122.1; indecent assault, 18 Pa.C.S.A. \u00a7 3126(a)(8), and corruption of minors, 18 Pa.C.S.A. \u00a7 6301(a). Thus, he was not rendered statutorily ineligible because of the offenses to which he pled guilty.\n\u00b6 9 After a careful review of the record in this matter we find that Appellant fails to establish that all three prongs of the Kimball test are met. The Motivational Boot Camp Act provides, inter alia, that the sentencing judge, in selecting inmates who are eligible for participation in this \u201calternative method\u201d of incarceration \u201cshall have the discretion to exclude a defendant from eligibility if the judge determines that the defendant would be inappropriate for placement in a motivational boot camp.\u201d 61 P.S. \u00a7 1124(b). Here, the sentencing judge found Appellant to be eligible for placement in Boot Camp. See N.T., 5/12/03, at 7. If an inmate is deemed eligible by a judge, however, the inmate must still be approved by the \u201cmotivational boot camp selection committee\u201d before he will be permitted to participate in the program. 61 P.S. \u00a7 1126(b). Thus, the Motivational Boot Camp Act makes clear that, after a common pleas court judge rules a defendant eligible for the Boot Camp program, it is within the Boot Camp Committee\u2019s discretion to accept or reject a defendant for the Boot Camp Program. See 61 P.S. \u00a7 1126(b). Ultimately, Appellant was not placed in the Boot Camp program, but neither Appellant\u2019s plea counsel nor the sentencing judge could have anticipated that decision. Appellant\u2019s plea counsel did not, therefore, render ineffective assistance in advising Appellant concerning his eligibility for Boot Camp under the Boot Camp Act.\n\u00b6 10 Also without merit is Appellant\u2019s claim that the PCRA hearing transcript shows both his prior counsel and the common pleas court to be unaware of a \u201cde facto\u201d Department of Corrections policy of automatically denying Boot Camp eligibility to inmates convicted of statutory sexual assault and indecent assault. Initially, we note that the record does not support Appellant\u2019s suggestion that, in determining acceptance of an eligible inmate into the Boot Camp Program, the Department of Corrections operates in any manner other than on a case-by-case basis.\n\u00b6 11 Nor does the record show any misunderstanding on the part of Attorney Gross with respect to how the Department of Corrections determines Boot Camp eligibility. Specifically, Attorney Gross testified that, when he became counsel at the post-sentencing stage, he advised Appellant that the ultimate decision on eligibility for Boot Camp is made by the Department of Corrections, regardless of the judge\u2019s eligibility recommendation or the neutral position of the District Attorney, and that there were no guarantees on Appellant\u2019s acceptance into the program. As such, Attorney Gross\u2019s advice properly described the Boot Camp eligibility and selection process, and the PCRA court found credible this testimony that he gave such advice to Appellant. This. Court will not disturb the PCRA court\u2019s credibility assessments and conclusions made thereon where the record supports the determinations. Commonwealth v. Abu-Jamal, 553 Pa. 485, 514, 720 A.2d 79, 93 (1998).\n\u00b6 12 Finally, the PCRA court states in its Opinion that, during the guilty plea colloquy, the court made certain that Appellant understood that he was merely a \u201ccandidate\u201d for Boot Camp and had received no assurances to the contrary, and that the Department of Corrections would make the ultimate determination on his acceptance. This advisement, too, accurately described the Department of Corrections\u2019 Boot Camp eligibility/selection process. Thus, we find that neither Appellant\u2019s post-sentencing counsel nor the common pleas court was under a misunderstanding concerning Appellant\u2019s eligibility for Boot Camp which has prejudiced Appellant in any' respect.\n\u00b6 13 Accordingly, based on our conclusions that Appellant has failed to show that his plea counsel rendered ineffective assistance of counsel, or that he was misled by his post-sentencing counsel or the common pleas court, we find that the PCRA court properly denied the petition for collateral relief.\n\u00b6 14 Order affirmed.\n. The allegations and charges related to vaginal sexual intercourse, digital penetration of S.H.\u2019s vagina and oral to genital contact [Appellant\u2019s] mouth to S.H.\u2019s vagina.\n. Attorney Fitzkee died on October 26, 2003, after the entry of [Appellant\u2019s] guilty plea and sentencing hearing had occurred on May 12, 2003.",
+        "type": "majority",
+        "author": "STEVENS, J.:"
+      }
+    ],
+    "attorneys": [
+      "Frank C. Arcuri, York, for appellant. Jeffrey F. Boyles, Asst. Dist. Atty., York, for Com., appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. James R. JOHNSON, Appellant.\nSuperior Court of Pennsylvania.\nSubmitted Jan. 10, 2005.\nFiled Feb. 15, 2005.\nFrank C. Arcuri, York, for appellant. Jeffrey F. Boyles, Asst. Dist. Atty., York, for Com., appellee.\nBEFORE: STEVENS, LALLY-GREEN, and POPOVICH, JJ."
+  },
+  "file_name": "1278-01",
+  "first_page_order": 1318,
+  "last_page_order": 1323
+}

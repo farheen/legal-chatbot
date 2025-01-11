@@ -1,0 +1,58 @@
+{
+  "id": 12487140,
+  "name": "Commonwealth v. Derrick Y. Thomas",
+  "name_abbreviation": "Commonwealth v. Thomas",
+  "decision_date": "2016-08-30",
+  "docket_number": "NO. 159 EAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "1fa2918ca951e89e255f8876258d007411dcd2a064667d12634f0cc25b5f5660",
+    "simhash": "1:789850289a0c0a38",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDerrick Y. Thomas"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDerrick Y. Thomas\nNO. 159 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 30, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-04",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

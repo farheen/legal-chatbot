@@ -1,0 +1,58 @@
+{
+  "id": 12488823,
+  "name": "STATE v. CHANCE",
+  "name_abbreviation": "State v. Chance",
+  "decision_date": "2016-09-16",
+  "docket_number": "15\u2013361",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "071654f84dbf67bb07ca5a974f5852d3f9950b2ae69fdceefcb3431d1834fc27",
+    "simhash": "1:7a770a51cb466241",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nCHANCE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nCHANCE\n15-361\nSupreme Court of Vermont.\nSeptember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0468-13",
+  "first_page_order": 468,
+  "last_page_order": 468
+}

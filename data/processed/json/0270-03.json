@@ -1,0 +1,62 @@
+{
+  "id": 7974754,
+  "name": "John J. PLAZIAK v. John J. MORAN",
+  "name_abbreviation": "Plaziak v. Moran",
+  "decision_date": "1983-03-03",
+  "docket_number": "No. 82-225-A",
+  "first_page": "270",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "457 A.2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 283,
+    "ocr_confidence": 0.77,
+    "sha256": "acd1406142188484d72854f9fea55aa29ec0f8fa08340f5d5d73208800f1ba34",
+    "simhash": "1:180e85a88a7003d3",
+    "word_count": 46
+  },
+  "last_updated": "2023-07-14T16:32:52.282199+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John J. PLAZIAK v. John J. MORAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe plaintiff\u2019s motion to affirm the judgment of the Superior Court pursuant to Rule 16(g) is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "C.V. Fay, Cranston, for plaintiff.",
+      "Stephen Robinson, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "John J. PLAZIAK v. John J. MORAN.\nNo. 82-225-A.\nSupreme Court of Rhode Island.\nMarch 3, 1983.\nC.V. Fay, Cranston, for plaintiff.\nStephen Robinson, Providence, for defendant."
+  },
+  "file_name": "0270-03",
+  "first_page_order": 316,
+  "last_page_order": 317
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488482,
+  "name": "Com. v. Allen, L.",
+  "name_abbreviation": "Com v. Allen",
+  "decision_date": "2016-05-17",
+  "docket_number": "3201 EDA 2015",
+  "first_page": "1149",
+  "last_page": "1149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1149"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "06cf9c91e9a639b1d108145798851b2ca5b878d7ca2c787a992aa9c0267a42b8",
+    "simhash": "1:97f376d3caad97f1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nAllen, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nAllen, L.\n3201 EDA 2015\nSuperior Court of Pennsylvania.\nMay 17, 2016\nAffirmed"
+  },
+  "file_name": "1149-05",
+  "first_page_order": 1149,
+  "last_page_order": 1149
+}

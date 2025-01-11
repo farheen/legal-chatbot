@@ -1,0 +1,58 @@
+{
+  "id": 12485912,
+  "name": "Com. v. S. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-02-11",
+  "docket_number": "NO. 975 MDA 2015",
+  "first_page": "592",
+  "last_page": "592",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "768c782ea351d55b5194ef465f4535d454696aaedd9c4ad7a9ec6cfd73424464",
+    "simhash": "1:b05f516948ac3c97",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Smith\nNO. 975 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 11, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0592-08",
+  "first_page_order": 592,
+  "last_page_order": 592
+}

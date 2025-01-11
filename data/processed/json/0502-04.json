@@ -1,0 +1,59 @@
+{
+  "id": 8403081,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Gary KOZLOWSKI, Petitioner",
+  "name_abbreviation": "Commonwealth v. Kozlowski",
+  "decision_date": "2006-10-18",
+  "docket_number": "No. 111 EM 2006",
+  "first_page": "502",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "911 A.2d 502"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 233,
+    "ocr_confidence": 0.7,
+    "sha256": "27ef0c5bdc32b50d8c6f762df02d3bf4137f435cc591d7189ce736e17cf5da8e",
+    "simhash": "1:c68542aab3af28e4",
+    "word_count": 36
+  },
+  "last_updated": "2023-07-14T16:40:19.422937+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Gary KOZLOWSKI, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of October, 2006, the Application for Relief is denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Gary KOZLOWSKI, Petitioner.\nNo. 111 EM 2006.\nSupreme Court of Pennsylvania.\nOct. 18, 2006."
+  },
+  "file_name": "0502-04",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

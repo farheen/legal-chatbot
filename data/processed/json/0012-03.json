@@ -1,0 +1,58 @@
+{
+  "id": 12485201,
+  "name": "Commonwealth v. Frank R. McNally",
+  "name_abbreviation": "Commonwealth v. McNally",
+  "decision_date": "2016-06-15",
+  "docket_number": "NO. 18 WAL 2016",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "ed9af99b841c7c71067fd1505d86c28a8b38d14ff306718c110b5e531b55d14b",
+    "simhash": "1:fc8f577929b32130",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nFrank R. McNally"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nFrank R. McNally\nNO. 18 WAL 2016\nSupreme Court of Pennsylvania\nJune 15, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0012-03",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

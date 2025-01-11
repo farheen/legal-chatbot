@@ -1,0 +1,59 @@
+{
+  "id": 7874284,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Roberto VARGAS, Respondent",
+  "name_abbreviation": "Commonwealth v. Vargas",
+  "decision_date": "1996-11-06",
+  "docket_number": "",
+  "first_page": "1206",
+  "last_page": "1207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "683 A.2d 1206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 494,
+    "ocr_confidence": 0.72,
+    "sha256": "47c6d1c539fd316626672bb101eeca72652b89ef3cc15e6e03794b904d812d1b",
+    "simhash": "1:fe6f011ea3a3af95",
+    "word_count": 76
+  },
+  "last_updated": "2023-07-14T22:44:18.359346+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Roberto VARGAS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of November, 1996, the Petition for Allowance of Appeal is GRANTED. This matter is REMANDED to the trial court for an evidentiary hearing to determine what type of clothing respondent wore at trial prior to defense counsel\u2019s request that respondent be permitted to change into clothing provided by his family. Jurisdiction is retained.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Roberto VARGAS, Respondent.\nSupreme Court of Pennsylvania.\nNov. 6, 1996."
+  },
+  "file_name": "1206-03",
+  "first_page_order": 1294,
+  "last_page_order": 1295
+}

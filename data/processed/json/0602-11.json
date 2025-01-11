@@ -1,0 +1,58 @@
+{
+  "id": 12486062,
+  "name": "D.A.C. v. J.E.H.",
+  "name_abbreviation": "D.A.C. v. J.E.H.",
+  "decision_date": "2016-02-23",
+  "docket_number": "NO. 1942 EDA 2015",
+  "first_page": "602",
+  "last_page": "602",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 602"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 109,
+    "sha256": "a62a1d5f26da4f3722c68e150973549ce4ebb204f5d20bb4ed21b8680246cee2",
+    "simhash": "1:ba1b6a292bd3aa85",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D.A.C.\nv.\nJ.E.H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "D.A.C.\nv.\nJ.E.H.\nNO. 1942 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 23, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0602-11",
+  "first_page_order": 602,
+  "last_page_order": 602
+}

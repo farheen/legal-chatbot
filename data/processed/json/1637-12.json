@@ -1,0 +1,59 @@
+{
+  "id": 6087393,
+  "name": "In re Walter Stohr",
+  "name_abbreviation": "In re Stohr",
+  "decision_date": "1966-12-08",
+  "docket_number": "No. 7704",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 91,
+    "ocr_confidence": 0.492,
+    "sha256": "63bee5e2d388621e609c41342446745a20fef151ec235a5d11da325f79f535f0",
+    "simhash": "1:a4c036503257230e",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Walter Stohr"
+    ],
+    "opinions": [
+      {
+        "text": "Antenna arrangement with conoidal radiators.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 8, 1966\nNo. 7704.\nIn re Walter Stohr"
+  },
+  "file_name": "1637-12",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

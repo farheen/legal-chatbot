@@ -1,0 +1,71 @@
+{
+  "id": 6094953,
+  "name": "In re Frederick K. Vreeland",
+  "name_abbreviation": "In re Vreeland",
+  "decision_date": "1930-04-14",
+  "docket_number": "No. 2259",
+  "first_page": "993",
+  "last_page": "996",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 993"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "58 App. D. C. 356",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 530,
+    "char_count": 10281,
+    "ocr_confidence": 0.449,
+    "sha256": "235704f8bbf5ef5c9e13307ff04c60c4f2be913b3bf0025bcea2db1da9b8f80a",
+    "simhash": "1:39bdb1363774c4d2",
+    "word_count": 1700
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot,. Associate Judges"
+    ],
+    "parties": [
+      "In re Frederick K. Vreeland"
+    ],
+    "opinions": [
+      {
+        "text": "Graham, Presiding Judge,\ndelivered the opinion of the court:\nFrederick K. Yreeland, the appellant, filed his application in the Patent Office on August 18, 1922, for a patent on alleged improvements in receiving systems for radio intelligence. His application contained 18 claims, all of which were rejected by the examiner, and,, afterward, by the Board of Appeals. Thirteen references were cited in rejecting the claims, the one principally relied on, however, being Hogan, 1363319, dated December 28, 1920.\nIt seems to be conceded here, in argument, that the principal point in issue is whether the Hogan patent, aforesaid, is an anticipation of the claims of appellant. As all the rejected claims involve this, question, claim 1 will be taken as illustrative of all. It follows:\n1. In a receiving' system for radio intelligence, a tuned circuit with associated collecting means, a second tuned circuit in operative relation with the first, reactances variable by similar increments in the two circuits, reactances in .the second circuit similar to the other reactances of the first circuit, including- the effective reactance introduced into the first \u00a1 circuit by the collecting-means, and means for similarly adjusting the variable reactances simultaneously.\nIt has been well known in the art for a considerable period that in a radio receiving system, better results are obtained when two-electrically tuned circuits are provided, one an antenna or collecting', grounded circuit, and another local circuit coupled thereto and resonant therewith. It is also well known that if these circuits' cam be tuned by a single means, the efficiency of the system is greatly increased. To accomplish these purposes the appellant discloses; an antenna, connected to a ground through an inductance or primary \u2022Coil L,. The adjustment for. f requency of this circuit is secured by a variable reactance or condenser Ci, which is shunted across the \u2022coil Li. This circuit is coupled to what is called a secondary circuit, which comprises an inductance coil L3 and a variable reactance or -condenser C2. The two reactances or condensers are mounted on \u2022the same shaft which is divided in the center by an insulator, and are manipulated by the same means. The reactances or condensers Ci and C2 are similarly variable, and the inductances Li and L2 have ratios the same as said reactances or condensers.\nThe appellant proposes to make the secondary circuit similar to the primary one by means of a compensating reactance, which may comprise a capacity C3 and an inductance L2, which are made in the same constant ratio to the capacity and inductance, respectively, \u2022of the antenna or other collecting means. The specifications of' appellant state:\nThe compensating reactance C3L3 is preferably made variable, so that it may be adapted to collectors having different characteristics, but once it has \u2022been set for a given collector it remains unchanged, and all adjustments for frequency are accomplished by means of the variable reactances C1C2.\nThe gist of the matter is found in these words, appearing in said specifications:\nIt will thus be seen that whatever the adjustment of the variable reactance CiC2 may be, both primary and secondary circuits will be in tune to the same frequency, and this frequency may be varied throughout the range of the apparatus without disturbing the similarity and precise equality of tune of the two circuits.\nThe Patent Office tribunals justify their rejection of these claims chiefly on the theory that Hogan, supra, teaches the same method as is here disclosed. It is claimed that, while some small differences in method may exist, the same principles are involved, and that the applicant here has invented nothing. In view of this, a careful examination of the Hogan patent is necessary.\nHogan, in his Figure 5, discloses a 4-circuit system, with a single adjustment for frequency. We are only concerned with the two circuits shown on the right of his drawing. However, all four circuits are independently variable to a slight extent by means of a frictional mechanical linkage in the means of connecting them, so that the angles of the condenser arms with respect to the horizontal links may be changed slightly. The first of the two circuits in question, the third in the drawing, includes the antenna 16, a variable inductance 17, a variable reactance or condenser 38, a fixed inductance 25, and the ground. The second, or fourth, includes a variable reactance or condenser, a fixed inductance 26 and a fixed capacity or condenser 43. This condenser 43 is inserted for the purpose of attempting to compensate for the capacity of the antenna 16 and the variable inductance 17. It is conceded that if this be-true, Hogan has anticipated the applicant in this field.\nIn this connection, counsel for the appellant argues:\nIt is a simple physical fact that a capacity such as 43 can not by any possible-means be made the counterpart of an inductance such as IT. A capacity has a positive or plus reactance, an inductance has a negative or minus-reactance. They are thus opposites.\nIf the capacity of the condenser 43 is made equal to the capacity of the antenna 16, as Hogan states, then there remains in the first circuit the loading coil IT which has no counterpart in the second circuit.\nIt is quite apparent that Hogan had in mind that these two tuned circuits should be equalized in inductance and capacity. This is the underlying principle involved in appellant\u2019s application and if we can discern from Hogan\u2019s patent, that he had an adequate conception of this problem and disclosed means to solve it which were the equivalent of applicant\u2019s, then the applicant can have no standing here.\nHogan, in various parts of his specifications, thus discloses his invention:\n* * * what is desired is to have the natural frequencies of the input and output circuits practically the same.\nThe action of the relay oscillator is the same both in Fig. 1 and Fig. 2. With the arrangement of Fig. 2, the single variable tuning principle may be extended to include adjustment of the antenna and closed receiving circuits simultaneously with the adjustment of wave length of the oscillator. I have found it convenient to arrange the apparatus in such a way that the open and clo\u00a1 cd receiving circuits remain in tune to a certain definite frequency, while at the same time varying them causes the oscillator to produce continuous sustained waves of a frequency slightly different from that to which the receiver itself is tuned. In this way, by a single motion, it becomes possible to \u201c pick up \u201d sustained waves or other signals anywhere within a large range of wave length, merely by moving a single handle or lever. Apparatus arranged to-operate in this way should preferably have a certain flexibility of adjustment,, so that after the preliminary tuning is done, it will be possible to adjust independently each of the several variables so that the absolute maximum of efficiency is obtained.\nUnder this equal capacity relation (and choosing condensers 36, 3T and 43, equal in capacity to the antenn\u00e1 16), if the inductances 9, 8, 25 and 26 are equalized, all four circuits will have the same variation in natural period when-the condensers are moved. * * *\nAnother mode of variation which can be used is by changing the condensers; 36, 3T and 43, or the coils 9, 8 or 26, by an amount which gives the desired; change in frequency.\nIt is obvious that there must be some flexibility in such a system-.. The appellant, in his application, makes this statement:\nThe secondary circuit is made similar to the primary or collecting circuit by means of a compensating reactance CaL8, which may comprise a capacity C*. and an inductance L3 which are made in the same constant ratio to the capacity and inductance respectively of the antenna or other collecting means. The compensating reactance C3L3, is preferably made variable, so that it may be adapted to collectors having different characteristics, but once it lias been set for a given collector it remains unchanged, and all adjustments for frequency are accomplished by means of the variable reactances C1C2.\nIt will be conceded that the condenser 43 in Hogan\u2019s patent may be made the equivalent of the capacity of his antenna 16. If there is. a variable inductance It in Ms third circuit and no compensating inductance in his fourth circuit, there is every reason to believe that his fixed inductance 26 in said fourth circuit would be made the equivalent of inductances 25 and 17 in the third circuit, which are in series. There is nothing in Hogan\u2019s disclosure inconsistent with this, and there is every reason to believe that this was the intention.\nWe are of opinion that the slight differences in construction between applicant\u2019s device and the Hogan disclosure do not constitute invention and that, therefore, the Board of Appeals disposed of this matter properly.\nA case in point is In re Goldsmith, 58 App. D. C. 356, 30 Fed. (2nd) 880. The court, speaking through Van Orsdel, associate justice, said:\nThe board, in briefly disposing of the ease, said: \u201cWe agree with the examiner that it would not amount to invention to substitute, for the transformers .and variable condensers \u25a0 of Alexanderson, another design of transformer in which the distributed capacity of tile coil plays a greater part in securing resonance, as in Iteisz. Nor would it involve invention to connect the secondaries of the transformers that they may be adjusted simultaneously by a single adjusting piece, in view of Fessenden, Hogan, Bradley, and the Prend\u00ed patent.\u201d\nA careful examination of the specifications and claims of the applicant, in the light of the prior art, convinces us that the decision of the board is right, and we deem it unnecessary to enter into any extended review of the case.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "Graham, Presiding Judge,"
+      }
+    ],
+    "attorneys": [
+      "William B. Greeley for appellant.",
+      "T. A. Hostetler (Howard S. Miller of counsel) for the Commissioner of . Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Frederick K. Vreeland\n(No. 2259)\nUnited States Court of Customs and Patent Appeals,\nApril 14, 1930\nWilliam B. Greeley for appellant.\nT. A. Hostetler (Howard S. Miller of counsel) for the Commissioner of . Patents.\n[Oral argument March 4, 1930, by Mr. Greeley and Mr. Miller]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot,. Associate Judges"
+  },
+  "file_name": "0993-01",
+  "first_page_order": 443,
+  "last_page_order": 446
+}

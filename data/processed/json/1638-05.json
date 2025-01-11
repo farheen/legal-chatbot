@@ -1,0 +1,59 @@
+{
+  "id": 6087632,
+  "name": "In re Joseph Fischer, et al.",
+  "name_abbreviation": "In re Fischer",
+  "decision_date": "1967-01-31",
+  "docket_number": "No. 7981",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 107,
+    "ocr_confidence": 0.488,
+    "sha256": "9ec68932b16b77a0698c5cbbd6b5133f8969ac2e421f1a0815037c79d86500be",
+    "simhash": "1:79edcf03ea4612c5",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Joseph Fischer, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Electrical relay and contact arrangement therefor,",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 31, 1967\nNo. 7981.\nIn re Joseph Fischer, et al."
+  },
+  "file_name": "1638-05",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

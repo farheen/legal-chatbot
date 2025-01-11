@@ -1,0 +1,58 @@
+{
+  "id": 12487350,
+  "name": "Com. v. L. Jones",
+  "name_abbreviation": "Com. v. Jones",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 1442 MDA 2014",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "10be7b982bcfaaeba11c885b9ec3905953249f91febac8648f1b37ff9122c1ef",
+    "simhash": "1:68c36ec9753b7981",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Jones"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Jones\nNO. 1442 MDA 2014\nSuperior Court of Pennsylvania.\nApril 13, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0779-09",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

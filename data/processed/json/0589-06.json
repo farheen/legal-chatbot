@@ -1,0 +1,58 @@
+{
+  "id": 12485865,
+  "name": "Com. v. G. Poplawski",
+  "name_abbreviation": "Com. v. Poplawski",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 289 MDA 2015",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 124,
+    "sha256": "330436eb3f733765b13a886ab7f62b3d79f2abfa045789223a1d40bdc90abcd0",
+    "simhash": "1:bd9fff8d76af0fe7",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. Poplawski"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. Poplawski\nNO. 289 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0589-06",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

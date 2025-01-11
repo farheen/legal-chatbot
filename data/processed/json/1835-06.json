@@ -1,0 +1,59 @@
+{
+  "id": 12167024,
+  "name": "In re Norris R. Watkins",
+  "name_abbreviation": "In re Watkins",
+  "decision_date": "1964-09-28",
+  "docket_number": "No. 7506",
+  "first_page": "1835",
+  "last_page": "1835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 46,
+    "ocr_confidence": 0.651,
+    "sha256": "e96276dbd28ef67795a0ab4cb0184bbee27376d15acb5e35f2904f3a46329cba",
+    "simhash": "1:80d201111cb00124",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Norris R. Watkins"
+    ],
+    "opinions": [
+      {
+        "text": "Aluminum.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Norris R. Watkins\n(No. 7506)."
+  },
+  "file_name": "1835-06",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

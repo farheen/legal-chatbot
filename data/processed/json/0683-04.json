@@ -1,0 +1,62 @@
+{
+  "id": 8000354,
+  "name": "Robert BROOKS v. William MACKENZIE",
+  "name_abbreviation": "Brooks v. Mackenzie",
+  "decision_date": "1981-07-09",
+  "docket_number": "No. 81-212-M.P.",
+  "first_page": "683",
+  "last_page": "684",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "433 A.2d 683"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 547,
+    "ocr_confidence": 0.813,
+    "sha256": "ae4504d312d2fb34061f4c412ccd88e4a5b3eef73c013765e9bf3f904055e2e1",
+    "simhash": "1:2c7b2825fe58244f",
+    "word_count": 85
+  },
+  "last_updated": "2023-07-14T18:55:45.009890+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert BROOKS v. William MACKENZIE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied without prejudice to defendant\u2019s seeking review of his conviction by petition for common law certiorari. If defendant seeks certiorari, he may at that time ask this court for release on personal recognizance pending a determination on the petition.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John A. O\u2019Neill, Jr., Providence, for petitioner.",
+      "Dennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Special Asst. Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Robert BROOKS v. William MACKENZIE.\nNo. 81-212-M.P.\nSupreme Court of Rhode Island.\nJuly 9, 1981.\nJohn A. O\u2019Neill, Jr., Providence, for petitioner.\nDennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Special Asst. Atty. Gen., for respondent."
+  },
+  "file_name": "0683-04",
+  "first_page_order": 737,
+  "last_page_order": 738
+}

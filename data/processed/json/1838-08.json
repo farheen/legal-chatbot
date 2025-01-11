@@ -1,0 +1,59 @@
+{
+  "id": 12167892,
+  "name": "In re Kurt Franck and Herbert A. Odle",
+  "name_abbreviation": "In re Franck",
+  "decision_date": "1965-03-29",
+  "docket_number": "No. 7379",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 76,
+    "ocr_confidence": 0.656,
+    "sha256": "9dc804dc6ae3d0a01a5e41731ab301309d19d965a600e255210c918a735c7722",
+    "simhash": "1:a0178211c09660e2",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kurt Franck and Herbert A. Odle"
+    ],
+    "opinions": [
+      {
+        "text": "Luminaire.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 29, 1965\nIn re Kurt Franck and Herbert A. Odle\n(No. 7379)."
+  },
+  "file_name": "1838-08",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

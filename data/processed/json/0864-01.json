@@ -1,0 +1,159 @@
+{
+  "id": 6094875,
+  "name": "In re James Fisher",
+  "name_abbreviation": "In re Fisher",
+  "decision_date": "1930-02-21",
+  "docket_number": "No. 2219",
+  "first_page": "864",
+  "last_page": "871",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "104 Fed. Rep. 802",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6728185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/104/0802-01"
+      ]
+    },
+    {
+      "cite": "94 Fed. Rep. 163",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6751237
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/94/0163-01"
+      ]
+    },
+    {
+      "cite": "220 U. S. 428",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3658194
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/220/0428-01"
+      ]
+    },
+    {
+      "cite": "21 Fed. Rep. (2d) 196",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1705665
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/21/0196-01"
+      ]
+    },
+    {
+      "cite": "88 Fed. Rep. 258",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6732625
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/88/0258-01"
+      ]
+    },
+    {
+      "cite": "4 Fed. Rep. (2d) 463",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1682646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/4/0463-01"
+      ]
+    },
+    {
+      "cite": "214 Fed. Rep. 937",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Fed. Rep. (2d) 388",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1723223
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/26/0388-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 800,
+    "char_count": 18462,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 1.2131747992851597e-07,
+      "percentile": 0.5964643112397673
+    },
+    "sha256": "123cb562355eb4fce62b00a5904f8f236103b20ff78dc7d984b1f8defdecab88",
+    "simhash": "1:c63f92b14a003a8a",
+    "word_count": 3150
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Leneoot, Associated Judges"
+    ],
+    "parties": [
+      "In re James Fisher"
+    ],
+    "opinions": [
+      {
+        "text": "Leneoot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals of the Patent Office, affirming that of the examiner rejecting the claims as defining 'nothing patentable over the prior art. The claims are two in number and read as follows:\n1. In apparatus of the character described, the combination with a three-roller mill and housing therefor, of an upper roller mounted in said housing above the upper roller of said mill, with means for simultaneously rotating all of said rollers, and means for directing the crushed solid material from the two upper rollers back between the upper roller of the mill and the two lower rollers, whereby three separate crushings are secured in a four-roller mill, substantially as and for the purposes described.\n2. In apparatus of the character described, the combination with a three-roller mill and housing therefor, of an upper roller mounted in said housing above the upper roller of said mill, with means for simultaneously rotating all of said rollers, means'for exerting a regulated pressure on the two upper rollers of said four-roller mill, and means for directing the crushed solid material from the two upper rollers back between the upper roller of the m'.ll and the two lower rollers, whereby three separate crushings are secured in a four-roller mill, substantially as and for the purposes described.\nAppellant\u2019s application discloses a roller mill used in manufacturing sugar, comprising four rollers mounted in a housing and all driven simultaneously by gearing in a direction-indicated upon the drawings. A curved deflector provides a means for directing the crushed solid material from the two upper rollers back between one of the tipper rollers and one of the two lower rollers. A turn plate then directs the crushed solid material to the space between one of the upper rollers and the other of the two lower rollers. The upper bearing block of the upper roller is pressed upon by a hydraulic, which is intended to limit the pressure on the roller axle and provide means for exerting a regulated pressure on the two upper rollers of the 4-roller mill.\nThe object of the invention is stated by appellant in his specification as follows:\nMy present invention relates to improvements in roller mills used in the manufacture of sugar, and is intended to provide a more efficient, more compact and cheaper construction than is now generally used in extracting juice from sugar cane or sorghum or the like.\nIn the manufacture of sugar from sugar cane, the most common practice is to pass the cane stalks through a pair of rollers known as crushers, which rollers are usually provided with roughened surfaces, either of zigzag fluted or other construction, and after extracting part of the juice from the crusher, which is carried off in the usual way, the crushed cane stalks are then fed to one or more three-roller mills, and with larger factories or Centrals, it is quite common to employ as many as twelve rollers, arranged in pyramidal form, one behind the other, in groups of three each, or four crushing mills, in addition to the crusher referred to.\nAs is well known in the art, each three-roller mill subjects the crushed stalks or bagasse to two separate crushings respectively between the upper and front rollers of- each mill, and then between the top and back rollers of each mill, the bagasse being- directed in the proper direction by the rotation of the rollers and by the usual well known turn plate.\nAccording to my present invention, I place an upper roller above the top roller of a three-roller mill and parallel therewith, thus constituting a four-roller mill, which, as will be hereinafter explained, will give three separate crushings for each four-roller mill. For instance, for three four-roller mills, nine crushings will be secured, whereas for the usual twelve-roller mills arranged in groups of three rollers, only eight crushings would be' had, and not only is the advantage of increased crushings secured, but also there is a decided saving in cost of construction, simplicity of driving, compactness of arrangement and reduced floor space, and other advantages, which will be hereinafter more fully described.\nThere is but one reference: Guy (British), 2416, issued in 1890. The specification of this patent covers six pages, accompanied by 23 sheets of drawings, containing 54 figures. Said specification, among other things, states:\nIn carrying- my invention into effect, I employ a central or driving roll, with other rolls arranged around its circumference, so as to be in contact, or approximately in contact therewith, and said rolls may or may not be unequally pitched around the central or driving roll. I may employ three, four, five, six, seven, or eight such rolls, and arrange them around the central or driving roll before mentioned in such a manner that the axes of the opposite rolls may be in the same plane, or otherwise, and in such arrangements I do not confine myself to an arbitrary base line, but may assume said base line at any angle most suitable for the feed and delivery of the cane in different cases of application. I may also add guide rolls, feed or delivery rolls, or crushing rolls to any part of the systems hereinbefore enumerated, for the purpose of diverting the feed, delivery, and course of the canes, and also to provide additional crushing pressures where expedient or desirable.\nThe Board of Appeals in its decision states:\nAppealed claim 1 appears to read fairly on Figure 27 and 1A of Guy except for the phrase \u201c means for directing the crushed solid material from the two upper rollers back between the upper roller of the mill and the two lower rollers.\u201d\nFigures 27 and 1A of Guy show by arrows the course of the feed as entering between the central and lower roll at the left. We agree with the examiner that there would be m invention in reversing the direction of rotation of the rollers therein reversing the direction of feed of the cane in Guy\u2019s machine, when it would fully meet the structure of the claim; also that there would he no invention in a partial bodily rotation of the three rollers a. 6. c. of Figure 27 about the central roller d in a clockwise direction so that h will take the position of a, the feed still starting between rollers 6 and a, which would fully satisfy the claim.\nThe examiner also rejects on Figure 21 in which the feed starts between rollers a and 5 as in appellant\u2019s device and follows the same course between rollers a, &, and a, i. This requires no change in the rotation of the rollers or the beginning of the feed but merely-the elimination of the additional rollers shown, in Figure 21, which we agree with the examiner would not involve invention.\nAppellant\u2019s sole contention is that the British reference is so incomplete and so inadequate a disclosure that it can not properly be held to be anticipatory of his claims.\nIn support of this contention he cites a number of authorities to the point that the rule as to anticipation by a foreign patent is very strict. Schuricht v. McNutt v. Willis, 26 Fed. Rep. (2d) 388; Permutit Co. v. Harvey Laundry Co. et al., 214 Fed. Rep. 937.\nIn Carson v. American Smelting & Refining Co., 4 Fed. Rep. (2d) 463, the Circuit Court of Appeals for the Ninth Circuit said:\nA foreign patent is to be measured as anticipatory, not by what might have been made out of it, but by what is clearly and definitely expressed in it. An American patent is not anticipated by a prior foreign patent unless the latter exhibits the invention in such full, cle^r and exact terms as to enable any person skilled in the art to practice it without the necessity of making experiments.\nIn Westinghouse Airbrake Company v. Great Northern Railway, 88 Fed. Rep. 258, the court said:\n* * * The prophetical suggestions in English patents of what can be done, when no one has ever tested by actual and hard experience and under the stress of competition the truth of these suggestions, or the practical difficulties in the way of their accomplishment, or even whether the suggestions are feasible, do not carry conviction of the truth of these frequent and vague statements.\nIn the case of Simplex Piston Ring Co. v. Hamilton, 21 Fed. Rep. (2d) 196, in which an English patent was cited as a reference to avoid the charge of infringement, the court said:\nThe Car-Lockwood patent is a foreign reference and must be taken for-exactly what it shows on its face and can not be reconstructed to anticipate-the patent in suit.\nHaving in mind the general principle declared in the cases cited1,, we proceed to a comparison of the disclosure of the cited reference with the disclosure in appellant\u2019s specification.\nThe British patent expresses two objects or purposes of the pat-entee, the first being essentially the same as that stated by appellant, and the second having to do with the removability of the rollers, with which we are not concerned. Appellant\u2019s basic idea is adding: another roller to the type of sugar mill in general use, to secure one additional crushing of the cane within the same space occupied by the ordinary mill. The Guy patent proposes to add one or more rollers to secure additional crushings of the cane, and also to economize in space required.\nWe take it there is no invention in the mere idea of adding additional rollers to an ordinary sugar mill. The invention, if any there be, consists in the means used and method of operation to secure the desired result.\nWe have already referred to the fact that the specification of the Guy patent consists of 6 j>ages of description, and 23 sheets of drawings, containing 54 figures. These various figures show a multitude of combinations of rollers, with varying points of feeding the cane to the rollers, and many different combinations of rotary motion of the rollers. There are so many of these combinations, so many of them clearly inoperable, that- we are inclined to agree with appellant that the patentee Guy had no conception at all of a combination of rollers, arid method of their operation', that would produce the result claimed by him.\nIt is a significant circumstance that in the large number of figures set out, comprising so many combinations of rollers and methods of operation, none of them disclose completely the plan of appellant. Guy apparently covered by his drawings every combination that he could think of, but he failed to think of the combination which appellant discovered, which happens to be one which apparently cures most of the defects in the combinations shown by Guj1\".\nOut of the 54 figures of the drawings of Guy, the tribunals of the Patent Office selected three which, in connection with the description in the Guy specification, are held to disclose the invention claimed by appellant. But it is admitted by the Board of Appeals that each of these three combinations would require change and adaptation to read on appellant\u2019s claims in connection with his specification and .drawings. The three so selected are figures 1A, 27, and 21\nFigures 1A and 27 of Guy are identical except as to the relative position of the outer rollers to the central roller. The point of feeding and rotary motion of the rollers are the same in each figure. Both are clearly inoperable for the reason that the bagasse Ayould not move in the direction specified without additional means being provided to give it motion between its leaving the rollers after one crushing to be taken up by the rollers to give it the next crushing. The space between the top .and back roller is too great for the motions of the top c\u2019enter and back roller to move the bagasse upwards from the back to the top roller.\nThe tribunals of the Patent Office apparently concede the imper-ativeness of the combinations shown in Figures 1A and 27, but hold that the same combination and result claimed by appellant would be secured by Guy if the point of feeding shown in said figures were changed from the front and central rollers to the central and top rollers, and rotary motion of the rollers reversed. These changes, they hold, would not involve invention. We may observe that in both figures Guy adopts the point of feeding and rotation of rollers employed in the ordinary 3-roller mill. While it may seem obvious now that a change in the point of feeding and reversing the motion of the rollers would produce the some combination and result claimed by appellant, it evidently was not obvious for nearly 40 years, the Guy patent being issued in 1890, for the examiner in his answer refers to the 3-roller mill as the \u201c standard mill.\u201d\nWhile drawings need not be accurate enough to be used as working drawings, we think we have, the right to assume that they do show the true positions and proportions of the parts of the devices which- they purport to delineate, so far as necessary to show invention. Walker on Patents (6th Ed.) sec. TT2. With this in mind, said Figures 1A and 21 of the Guy patent show that the two lower rollers in each figure are spaced so far apart that even if a turn plate is provided, as in appellant\u2019s specification, it is doubtful if the bagasse would be carried from one roller to the other without additional means of propulsion.\nThe tribunals of the Patent Office also rejected the application upon Figure 21 of Guy. This figure shows a combination of 11 rollers, providing 14 crushings of bagasse. The point of feeding is relatively the same, and the rotary motion of the rollers is in' the same direction, as in appellant\u2019s specification. The Board of Appeals holds that the elimination of seven rollers would result in appellant\u2019s combination. It is clear that this would involve an entire reconstruction of the mill, and even when so reconstructed, the position of the two lower rollers would be so far apart as to render it inoperative without additional means of moving the bagasse from one roller to another.\nIt is true that the Guy specification relates that \u201c Suitable appliances are provided for feeding, grinding, or leaching the cane,\u201d and \u201c In converting an existing mill of any type, I may also add feed, delivery, crushing, or guide rolls to the original rolls in order to carry out my invention.\u201d But this would involve experiments to determine the character and application of such appliances .or rolls, and we do not think that these recitals are sufficient to supply the elements necessary to constitute, with the disclosure shown by the drawings, anticipation of appellant\u2019s invention.\nLike the multitude of drawings employed by Guy to form a blanket covering what he deemed all possible combinations, the language of the recitals quoted seems to have a purpose of drawing within their scope every improvement in a mill consisting of more than three rollers, but without any conception upon his part of any practical contribution to the art. We think the disclosure in the Guy patent is so incomplete and inadequate, having in mind that the reference is a foreign patent, that it cannot be held that it anticipates appellant\u2019s invention.\nWith regard to whether the changes necessary to adapt Guy\u2019s disclosure to read upon appellant\u2019s specification constitute invention, it should be borne in mind that, as stated by the Supreme Court in Diamond Rubber Company v. Consolidated Tire Co., 220 U. S. 428, \u201c Knowledge after the event is always easy, and problems once solved present no difficulties, indeed, may be represented as never having had any * *\nThe Guy patent being the only reason assigned by the Board of Appeals for the rejection of appellant\u2019s application, we assume that but for such reference the claims would have been allowed.\nAs we are of the opinion that the Guy patent was not a valid reference, it follows that error was committed in rejecting the claims.\nClaim 2 differs from claim 1 only in the addition of the\u201dwords in said claim 2 \u2014 \u201cmeans for exerting a regulated pressure on the two upper rollers of said four-roller mill.\u201d Appellant in his specification concedes that the means referred to in the added language are well known in the art and do not constitute in themselves a part of his invention, but, having found that claim 1 should be allowed, claim 2 is allowable in combination with his invention covered by claim 1, for it is an element necessary for the successful operation of appellant\u2019s invention.\nOn September 17,1929, after appellant\u2019s appeal from the Board of Appeals had been perfected, a stipulation was entered into between counsel for appellant and counsel for the Commissioner of Patents that the affidavit of Ernest Wilkinson, appellant\u2019s counsel, might, subject to the approval of the court, be added to the record on file in the case, and such affidavit is found in the files in the case.\nTo the extent that this affidavit sets forth facts material to the issue here involved, not found in the record made in the Patent Office, it can not be and has not been considered by us. The law requires that we shall hear and determine appeals \u201c and review the decision appealed from in a summary way, on the evidence produced before the commissioner.\u201d (Italics ours.)\nTo the extent that the affidavit consists of arguments, which it does to a considerable degree, it is in the nature of a reply brief and should not have been filed without first securing the express permission of this court, on motion made therefore, which was not done in this case.\nFinally, even though we were not convinced that the Guy patent does not disclose appellant\u2019s invention, the very general character of the Guy disclosure, the multiplicity of combinations set out by him,, together with the lack of detail of means by which such combinations could be made operative, render it very doubtful, to say the least, whether Guy contributed anything to the art, or taught anything that was new or useful in its development. It has been held that the existence of doubt defeats anticipation. Badische Anilin, etc., Fabrik v. Kalle, 94 Fed. Rep. 163, affirmed 104 Fed. Rep. 802.\nFor the reasons stated, the decision of the Board of Appeals is reversed.",
+        "type": "majority",
+        "author": "Leneoot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Ernest Wilkinson for appellant.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re James Fisher\n(No. 2219)\nUnited States Court of Customs and Patent Appeals,\nFebruary 21, 1930\nErnest Wilkinson for appellant.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument January 15, 1930, by Mr. Wilkinson and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Leneoot, Associated Judges"
+  },
+  "file_name": "0864-01",
+  "first_page_order": 314,
+  "last_page_order": 321
+}

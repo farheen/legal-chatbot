@@ -1,0 +1,64 @@
+{
+  "id": 12492153,
+  "name": "BAILEY v. BERMAN",
+  "name_abbreviation": "Bailey v. Berman",
+  "decision_date": "2018-01-19",
+  "docket_number": "Pet. Docket No. 358, Sept. Term, 2017",
+  "first_page": "73",
+  "last_page": "73",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 A.3d 73"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 Md. 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 143,
+    "sha256": "b33b4cdd9de373c7477444577c4f7753561e4f81eed446484c796efe2a5d30d9",
+    "simhash": "1:a2fa0a151e095215",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:29.164649+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BAILEY\nv.\nBERMAN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BAILEY\nv.\nBERMAN\nPet. Docket No. 358, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJanuary 19, 2018\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0073-03",
+  "first_page_order": 73,
+  "last_page_order": 73
+}

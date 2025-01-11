@@ -1,0 +1,58 @@
+{
+  "id": 12487373,
+  "name": "Com. v. K. Knuckles",
+  "name_abbreviation": "Com. v. Knuckles",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 569 EDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "3714de723b36a19644f5db0e8cd04265eb3639325f4abacc0beef58df6327970",
+    "simhash": "1:3a89120198383bb0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Knuckles"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Knuckles\nNO. 569 EDA 2015\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed."
+  },
+  "file_name": "0781-02",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

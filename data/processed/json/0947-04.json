@@ -1,0 +1,64 @@
+{
+  "id": 12502088,
+  "name": "SCOTT, Dustin F. v. STATE of Maryland",
+  "name_abbreviation": "Scott v. State",
+  "decision_date": "2018-10-26",
+  "docket_number": "279, Sept. Term, 2018",
+  "first_page": "947",
+  "last_page": "947",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 947"
+    },
+    {
+      "type": "parallel",
+      "cite": "461 Md. 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "e6f8518c7d78a523aa242b10771f6c2e6722abc21740b84bf623f906b73ae9d9",
+    "simhash": "1:00cfda9c4a4512c5",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SCOTT, Dustin F.\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "SCOTT, Dustin F.\nv.\nSTATE of Maryland\n279, Sept. Term, 2018\nCourt of Appeals of Maryland.\nOctober 26, 2018\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0947-04",
+  "first_page_order": 947,
+  "last_page_order": 947
+}

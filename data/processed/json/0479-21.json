@@ -1,0 +1,58 @@
+{
+  "id": 12485637,
+  "name": "Commonwealth v. Deborah Anne Keeley",
+  "name_abbreviation": "Commonwealth v. Keeley",
+  "decision_date": "2016-06-08",
+  "docket_number": "NO. 143 MAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 151,
+    "sha256": "633b044c7ac6c230823852d3bb1b015ae7060415550b836f5debf6efe053d1ac",
+    "simhash": "1:dc2e566d80ad0451",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDeborah Anne Keeley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDeborah Anne Keeley\nNO. 143 MAL 2016\nSupreme Court of Pennsylvania\nJune 08, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-21",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

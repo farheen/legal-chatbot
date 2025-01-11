@@ -1,0 +1,58 @@
+{
+  "id": 12486017,
+  "name": "Com. v. R. Miller",
+  "name_abbreviation": "Com. v. Miller",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 650 MDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "5098e0453dd05e591acadf03104f8348f892aa559ed6f16fc3ae1cdb91aa93d3",
+    "simhash": "1:b50f77910ae28d54",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Miller"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Miller\nNO. 650 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0599-15",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488552,
+  "name": "In re: Z.A.S., a Minor",
+  "name_abbreviation": "In re Z.A.S.",
+  "decision_date": "2016-05-20",
+  "docket_number": "3391 EDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "a6aba26adb0c4c80e8a63c3a074b551c941415a8507e7a136fd389f0f79b9dc6",
+    "simhash": "1:3f11145852618fd0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: Z.A.S., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re: Z.A.S., a Minor\n3391 EDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1154-13",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

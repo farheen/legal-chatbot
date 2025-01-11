@@ -1,0 +1,59 @@
+{
+  "id": 12168088,
+  "name": "In re Voltron Products, Inc.",
+  "name_abbreviation": "In re Voltron Products, Inc.",
+  "decision_date": "1965-05-14",
+  "docket_number": "No. 7277",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 145,
+    "ocr_confidence": 0.604,
+    "sha256": "ef279eea1074914bd0b99364e2e80b20a2bbe168934ee62eca1138ad74e42aaa",
+    "simhash": "1:3da79c33692746e2",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Voltron Products, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Trademark for measuring and scientific appliances, namely, voltmeters, expanded scale voltmeters, etc.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Voltron Products, Inc.\n(No. 7277)."
+  },
+  "file_name": "1839-04",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485247,
+  "name": "Commonwealth v. Gregory Richard Spence",
+  "name_abbreviation": "Commonwealth v. Spence",
+  "decision_date": "2016-05-24",
+  "docket_number": "NO. 16 WAL 2016",
+  "first_page": "13",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 152,
+    "sha256": "1a6a9ff2d9c371a90b2615e6170a0fdd129a299f1604e30b3d93cab59ada633a",
+    "simhash": "1:5d8e56ffc8282540",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nGregory Richard Spence"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nGregory Richard Spence\nNO. 16 WAL 2016\nSupreme Court of Pennsylvania\nMay 24, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0013-16",
+  "first_page_order": 13,
+  "last_page_order": 13
+}

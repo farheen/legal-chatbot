@@ -1,0 +1,58 @@
+{
+  "id": 12487487,
+  "name": "Com. v. P. Tomsic",
+  "name_abbreviation": "Com. v. Tomsic",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 2061 EDA 2015",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "d225a34fc7509317eaa4a6db0219926e3b57f958952467391867cfd6fcddf974",
+    "simhash": "1:7d916f1a861603d1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nP. Tomsic"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nP. Tomsic\nNO. 2061 EDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed."
+  },
+  "file_name": "0789-05",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

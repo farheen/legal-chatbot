@@ -1,0 +1,58 @@
+{
+  "id": 12488559,
+  "name": "Com. v. Crespo, J.",
+  "name_abbreviation": "Com v. Crespo",
+  "decision_date": "2016-05-20",
+  "docket_number": "1308 EDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "06706f64ca66ab09665ed943d967fdbb6019e1898c91c4222e7916a8a4cf4948",
+    "simhash": "1:3952b09adfa89f40",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nCrespo, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nCrespo, J.\n1308 EDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nAffirmed"
+  },
+  "file_name": "1154-05",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

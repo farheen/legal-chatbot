@@ -1,0 +1,89 @@
+{
+  "id": 6085258,
+  "name": "In re Hardin Y. Fisher",
+  "name_abbreviation": "In re Fisher",
+  "decision_date": "1971-10-07",
+  "docket_number": "No. 8454",
+  "first_page": "1419",
+  "last_page": "1420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "58 C.C.P.A. 1419"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 U.S.P.Q. 602"
+    },
+    {
+      "type": "parallel",
+      "cite": "441 F.2d 664"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "58 CCPA 1192",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6085027
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/58-2/1192-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 234,
+    "char_count": 2802,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 1.0876724500284103e-07,
+      "percentile": 0.5648777206702013
+    },
+    "sha256": "d601d98544a8c5388b80576e862d2c422e488eb02b30a23ac8cfaf98c04cd4bb",
+    "simhash": "1:43ade7e304eedb1d",
+    "word_count": 471
+  },
+  "last_updated": "2024-02-27T17:45:50.180518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Almond, Baldwin, Lane, Associate Judges, and Ford, Judge, sitting by designation."
+    ],
+    "parties": [
+      "In re Hardin Y. Fisher"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam:\nThe Patent Office petitions for rehearing or, in the alternative-, vacation of our decision and remand \u201cfor consideration of the pertinent technical authorities.\u201d\nThe issue on which our decision of May 13, 1971, rests is obviousness under 35 USC 103. (58 CCPA 1192, 441 F. 2d 664, 169 USPQ 602.) That issue turned on whether appellant obtained u/nex'peeted results, particularly in reduction of the 'heat produced during operation of the motor. On the question of the expectedness of heat reduction, the prior art relied on by the Patent Office shed little if any light. In struggling with the question of the predictability of heat reduction by the structure claimed by appellant, and finding no help in the art of record, we referred to a textbook outside the record in which we found certain matter leading us to conclude in favor of unnredictability and hence unobviousness.\nThe Patent Office brief in support of its petition contests the validity of our reasoning and cites other parts of the textbook we relied on together with several additional authorities not of record in this application, on the basis of which it strongly urges that reduction of heat would have been entirely predictable to one of ordinary skill in the relevant art.\nWe do not consider that we should pass on the validity of the technical arguments in the solicitor\u2019s brief, based on these newly cited authorities, until (1) the examining branch of the Patent Office has done so and (2) appellant has been afforded an opportunity to consider these authorities and reply to their application against him. The case is not an appropriate one for a rehearing because the Patent Office now wishes to rely on several references not of record.\nAs to the Patent Office request for remand, we note it wishes to consider \u201cpertinent technical authorities,\u201d not now of record, first cited in its brief on the petition. As we have often pointed out, we pass only on rejections actually made and do not decree the issuance of patents. After our decision in an ex parte patent case, the Patent Office can always reopen prosecution and cite new references, in which limited sense our mandates amount to remands. However, in the unusual circumstances of this case we will explicity answer the petition by remanding the case to permit inclusion in the record of further evidence, by either the Patent Office or the applicant, on the issue of obviousness.",
+        "type": "majority",
+        "author": "Per Curiam:"
+      }
+    ],
+    "attorneys": [
+      "Lloyd L. Zichert {Kinder, Dorn \u00e9 Zichert), attorney of record, for appellant.",
+      "S. Wm. Oochran for the Commissioner of Patents. R. V. Luyo, of counsel."
+    ],
+    "corrections": "",
+    "head_matter": "441 F. 2d 664; 169 USPQ 602\nIn re Hardin Y. Fisher\n(No. 8454)\nUnited States Court of Customs and Patent Appeals,\nOctober 7, 1971\nLloyd L. Zichert {Kinder, Dorn \u00e9 Zichert), attorney of record, for appellant.\nS. Wm. Oochran for the Commissioner of Patents. R. V. Luyo, of counsel.\nBefore Rich, Almond, Baldwin, Lane, Associate Judges, and Ford, Judge, sitting by designation."
+  },
+  "file_name": "1419-01",
+  "first_page_order": 741,
+  "last_page_order": 742
+}

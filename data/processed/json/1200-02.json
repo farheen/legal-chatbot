@@ -1,0 +1,59 @@
+{
+  "id": 7290587,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Christopher POLLER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Poller",
+  "decision_date": "2010-08-12",
+  "docket_number": "No. 53 EM 2010",
+  "first_page": "1200",
+  "last_page": "1201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 1200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 307,
+    "ocr_confidence": 0.654,
+    "sha256": "da5051a6fb36f3024aabd87b52f265231d77a00eb4e49d161bf4032425570791",
+    "simhash": "1:84bf0f8371afaf30",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Christopher POLLER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of August, 2010, the \u201cPetition for Leave of Court Sought by Appellant Requesting an Extension of Time to File a PAA\u201d is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Christopher POLLER, Petitioner.\nNo. 53 EM 2010.\nSupreme Court of Pennsylvania.\nAug. 12, 2010."
+  },
+  "file_name": "1200-02",
+  "first_page_order": 1216,
+  "last_page_order": 1217
+}

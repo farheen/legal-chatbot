@@ -1,0 +1,259 @@
+{
+  "id": 12166839,
+  "name": "In re Jesse T. Dunn and Alex E. Brodhag, Jr.",
+  "name_abbreviation": "In re Dunn",
+  "decision_date": "1965-07-22",
+  "docket_number": "No. 7265",
+  "first_page": "1760",
+  "last_page": "1770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1760"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "349 F.2d 433"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "162 F. 2d 224",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1110268,
+        6081807
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/162/0224-01",
+        "/ccpa/34-2/1113-01"
+      ]
+    },
+    {
+      "cite": "34 CCPA 1113",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081807
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/34-2/1113-01"
+      ]
+    },
+    {
+      "cite": "331 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6092332,
+        132702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01",
+        "/f2d/331/0610-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1271",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092332
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01"
+      ]
+    },
+    {
+      "cite": "317 F. 2d 401",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081729,
+        165230
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1248-01",
+        "/f2d/317/0401-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1248",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081729
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1248-01"
+      ]
+    },
+    {
+      "cite": "312 F. 2d 821",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        186016,
+        6080228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/312/0821-01",
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 990",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080228
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "236 F. 2d 428",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080144,
+        430390
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/1007-01",
+        "/f2d/236/0428-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 1007",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080144
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1012"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/1007-01"
+      ]
+    },
+    {
+      "cite": "343 F. 2d 1018",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        872097,
+        12165351
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/343/1018-01",
+        "/ccpa/52-2/1307-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1307",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165351
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/52-2/1307-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1010,
+    "char_count": 25061,
+    "ocr_confidence": 0.533,
+    "pagerank": {
+      "raw": 2.1832369204007515e-07,
+      "percentile": 0.7729039415039255
+    },
+    "sha256": "a56ea534944ed9df3cf97cdf65adc0ab64bc82f1a7f7b68d36c10f66658d6e8d",
+    "simhash": "1:538c605631039ffd",
+    "word_count": 4052
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Jesse T. Dunn and Alex E. Brodhag, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Martin, Judge,\ndelivered the opinion of the court:\nAppellant Dunn with one Proops obtained a series of five patents for improvements in a classic synthesis of acrylic acid esters obtained by reaction of acetylene, carbon monoxide and an alcohol in the presence of novel catalysts. The catalysts of each patent are complexes obtained by admixture of a nickel halide and a phosphorus-containing compound. The patents differ only with respect to the phosphorus-containing compounds, and each patent claims the respective invention in Jepson-form process claims in which the recited improvement is the particular catalyst.\nAll five applications which later matured into the patents were filed on April 1, 1958. About four months later, on July 23, 1958, appellants Dunn and Brodhag filed the instant application serial No. 750,310 for \u201cImproved Acrylic Acid Ester Synthesis.\u201d\nThe invention of the instant application is directed to an improvement, as is evident from the Jepson form claims, of the acrylic acid ester synthesis of the five patents, which improvement consists in the use of an inert N-alkyl pyrrolidone as the solvent medium. The 22 claims on appeal recite the acetylene, carbon monoxide, and alcohol reactants along with the nickel halide-phosphorus-containing compound catalysts of the five patents in the preamble, followed by the phrase \u201cthe improvement which consists of using an inert N-alkyl pyrrolidone as solvent medium in said process.\u201d\nClaim 2, which is illustrative of those on appeal, reads as follows:\n2. In a process for the production of esters of acrylic acid by the interaction of a saturated monohydric aliphatic alcohol with acetylene and carbon monoxide in the presence of a catalyst complex of a nickel halide and an organic phosphorus-sulfur-containing acid containing a pentavalent phosphorus atom having a thiono radical attached to said phosphorus atom as represented by the general formula:\nwherein R\" represents a member selected from the group consisting of a hydrogen atom and a nickel atom; (n) is an integer having a value of 1 and 2; and X represents a member selected from the group consisting of R, R', RZ, and R'Z radicals in which R and R' singly are members selected from the group consisting of alkyl radicals containing up to about 22 carbon atoms, aryl radicals selected from the group consisting of a phenyl radical and a naphthyl radical, and trihydrocarbylsilanyl radicals; Z represents a member selected from the group consisting of an oxygen atom and an amido radical; and when taken together RZ and R'Z represent a cyclic dioxa nucleus ; the improvement which consists of using an inert N-alkyl pyrrolidone as solvent medium in said process.\nClaims 3-20 vary solely in the recitation of other phosphorous-sulfur-containing catalysts in their preambles, which catalysts are those of the five Dunn and Proops patents. Claims 22, 28, and 34, which depend from claim 2, recite specific N-alkyl pyrrolidones, N-methyl-pyrrolidone, N-hexylpyrrolidone, and N-(2-ethylhexyl) pyrrolidone, respectively.\nThe claims on appeal were finally rejected by the examiner as \u201cun-patentable over the claims'\u201d (emphasis supplied) of what were the then-copending applications which matured into the five patents, in view of the following patents:\nReppe et al. I, 2,806,040, Sept. 10,1957.\nReppe et al. II, 2,809,976, Oct. 15,1957.\nLautenschlager et al., 2,845,451, July 29, 1958, filed June 22, 1956 claiming priority on a German application filed June 23, 1955.\nReppe et al. IV (German), 944,789, June 21,1956.\nIt is acknowledged that the assignee of the instant application, although not recorded, is the same as that of the five patents to Dunn and Proops, and that this fact was known to the examiner. Thus the rejection as cast above is one which has been classically termed \u201cdouble patenting.\u201d The claims of an application are rejected over the claims of another application (or patent whose application was copending) which is commonly owned, even though there may be no identity of inventorship, when, as here, the claims so rejected fall within a penumbra of obviousness surrounding the other claims, as evidenced by other references cited of record. The latter practice of rejecting over claims in view of prior art has precedents in, for example, In re Ward, 43 CCPA 1007, 236 F. 2d 428, 111 USPQ 101; In re Simmons, 50 CCPA 990, 312 F. 2d 821, 136 USPQ 450; In re Eckel, 50 CCPA 1248, 317 F. 2d 401, 137 USPQ 563.\nIt was the examiner\u2019s view that the secondary references of Keppe and Lautenschlager:\n* * * clearly demonstrate that it is old to use N-alkylpyrrolidones as reaction solvents during synthesis of acrylate esters from acetylene, carbon monoxide and an alcohol. The claims of the cited copending applications are seen to differ from the claims of the instant application only with regard to the use of these solvents. * * *\nThat is, it was considered \u201cold\u201d to use the solvents in the reaction employing other catalysts. To the examiner the \u201cclaims of the instant application do not represent a patentable advance over the claimed process of the copending applications [now patents].\u201d In the examiner\u2019s answer that position was restated as:\n* * * The step of using conventional inert N-alkyl pyrrolidone as solvent medium in a process already patented to applicants is not seen to involve anv further invention for which another patent may be granted.\nWithin the context of this case it is clear that both the Patent Office and appellants view the addition of a solvent to the patented catalyzed process as involving that category of \u201cdouble patenting\u201d involving the obviousness of that solvent addition. In re Eckel, supra; In re Robeson, 51 CCPA 1271, 1275, 331 F. 2d 610, 141 USPQ 485. As the board stated:\n* * * The sole issue in the present case is whether it would be obvious or unobvious to use an N-alkylpyrrolidone solvent in the processes recited in the claims of the Dunn et al. patents. * * *\nAppellants devote a third of their brief under \u201cDiscussion\u201d to the topic of \u201cInvention claims are not obvious.\u201d\nAppellants filed a Rule 131 affidavit in an effort to antedate the five Dunn and Proops patents from consideration. The purpose of a Rule 131 affidavit is to presumptively establish a date of invention earlier than the effective date of a domestic patent, where the patent \u201csubstantially shows or describes but does not claim the rejected invention.\u201d However, a Rule 131 affidavit is clearly inappropriate to the facts here since the rejection was based on the claims rather than on the disclosure of the applications. In re Ward, 43 CCPA at 1012, 111 USPQ at 104. In our view the only remaining issue is whether the appealed claims cover non-obvious improvements of the processes as claimed in the five patents, in view of the four patents to Reppe or Lautenschlager.\nThe patents to Reppe and Lautenschlager all relate to a process for preparing acrylic acid esters by reacting acetylene, carbon monoxide and a saturated aliphatic monohydroxy alcohol in the presence of a nickel halide catalyst. Each of those four patents points out that the reaction is known, and each is primarily concerned with the improvement of its catalyst. Reppe I adds an activator, the precise composition of which is not important for purposes of this appeal. Reppe I teaches the following concerning the use of solvents and the advantages thereof:\n* * * Inert oxygen-containing organic solvents, as for example tetrahydro-furane and other ethers, esters or ketones, have already been used. The co-employment of such solvents is recommended especially because it renders pos-sifole an increase in the concentration of acetylene and carbon monoxide in the reaction liquid.\n* * * As solvents there may be mentioned in particular cyclic ethers, such as tetraliydrofurane and dioxane, and lower fatty ketones, such as acetone, which is preferably used in excess, and also in the case of the esters, also the corresponding alcohols. Other inert oxygen-containing acetylene-dissolving solvents which are preferably miscible with water, such as butyrolactone or N-methyl-pyrrolidone, are however also suitable in principle.\nEeppe II forms a catalyst complex from a nickel halide and a car-boxylic acid amide, specifically N-methyl-pyrrolidone, for use in the production of acrylic acid esters. The complex may be preformed or formed in situ. Eeppe II states:\n* * * For tile synthesis of the acrylic compounds, solutions of the complex compounds in the liquid initial materials can be used. It is, however, also possible to add during the synthesis of the acryiic compound solvents such as hydrocarbons, ether or carboxylic acid amides. Instead of using the separately manufactured complex compounds as catalysts, it is possible to make these compounds in situ by introducing the initial compounds, i.e., a nickel salt and a carboxylic acid amide, in the reaction vessel for the synthesis of the acrylic compounds. * * * If the complex catalysts are formed in situ, it is not necessary to use the initial materials in stoiehioinetrieal proportions. The molar relation of nickel to amide may be between 1 to 2 and 1 to 10, preferably between 1 to 3 and 1 to 6. * * *\nLautenschlager shows the basic process using other specific catalyst complexes of the nickel halide-organic compound type. Concerning solvents for the reaction, Lautenschlager states :\n* * * There may also be co-employed inert solvents, as for example tetrahydro-furane, acetone, dimethly formamide, N-methyl-pyrrolidone or butyrolactone, which render possible an increase in the concentration of acetylene and carbon monoxide in the reaction liquid. * * *\nEeppe IV, in the general acrylic acid ester process described above, uses a copper halide activator for the nickel halide catalyst component. Eeppe IV states:\nProm the publications of W. Reppe (Liebig\u2019s Annalen der Chemie, vol. 582, 1953, p. 11) it is known that an attempt has already been made to increase the effect of nickel bromide by addition of a supplementary metal, e.g., iron or bismuth. These attempts have however been abandoned in favor of the use of organic complex compounds of phosphorus, arsenic or antimony with carbonyl-forming metals as catalysts.\nIt has now been found that the activity of halides of carbonyl-forming metals can be improved very effectively and the difficulties mentioned in connection with preparation of acrylic acid esters can be avoided without the need to incorporate elements such as phosphorus, arsenic or antimony in the catalyst by using an excess of an inert oxygen-containing organic solvent, i.e. in an amount more than equal by weight to that of the alcohol or phenol, with addition of a copper halide. The process has the further advantage that with use of substantially less catalyst a greater yield is obtained.\n* * * * * * *\nAs solvents, cylic ethers such as tetrahydrofuran and dioxane are suitable as well as the aliphatic ketones of low* molecular weight, e.g. acetone and methylethyl ketone. Basically also other oxygen-containing inert solvents such as butyrolactone or methyl pyrrolidone are usable for carrying out the process. [Emphasis ours.]\nAdditionally, appellants\u2019 brief notes that the examples of Eeppe I, II, and Lautenschlager show the use of excess alcohol, one of the reactants, as a solvent medium.\nAbout the five Dunn and Proops patents, appellants state in their brief:\nThe primary references relied upon are the following five patents to Dunn and Proops as the named inventors and patentees. In none of said Dunn and Proops patents is there any disclosure whatsoever of the use of an N-alkyl pyrrolidone as the solvent in the process, nor is there any claim covering its use.\nIt is also pointed out in the brief that the solvent used in each of the five patents is \u201cexcess alcohol, one of the reactants.\u201d\nAppellants argue the none of the four patents to Eeppe or Lautenschlager shows a catalyst complex which contains a phosphorus atom, in contrast to the catalysts of the claimed process. Eeppe I, it is stated, specifically excludes phosphorus-containing compounds since it calls for a substituent element having an atomic number greater than that of phosphorus. It is also argued that Eeppe IV \u201cteaches away from the use of compounds containing the phosphorus atom.\u201d\nWe are not persuaded by those arguments since the patents to Eeppe and Lautenschlager indicate that phosphorus-containing catalysts are old in the art. In discussing the prior art, Lauten-schlager states \u201cit is already known to use for this reaction as catalysts complex compounds of nickel which contain besides halogen, phos-phonium, arsonium or stibonium compounds.\u201d [Emphasis ours.] The disclosure of Eeppe I is substantially identical (understandably so since the two were co-workers). The disclosure of Eeppe IV, above quoted, indicates that iron was attempted to be used as \u201csupplementary\u201d to a nickel bromide catalyst, but that such attempts have been \u201cabandoned in favor of the use of organic complex compounds of phosphorus, * * We cannot take as \u201cteaching away,\u201d the statements of Eeppe IV that prior difficulties, specifically stated to be formation of side products and slowness of reaction, \u201ccan be avoided without the need to incorporate elements such as phosphorus * * Such a teaching of an alternative or equivalent method does not teach away from the use of solvents with a phosphorus compound. Finally, with regard to the use of phosphorus compounds as a catalyst component, each of the five Dunn and Proops patents, as well as the instant application, states that the prior art catalyzed the reaction \u201cin the presence of a metal carbonyl, or other catalyst, for example, the complex triphenyl phosphine-mck&l halide compounds * * [Emphasis supplied.]\nWe think the above quoted passages make it abundantly clear that both solvents, specifically N-methylpyrrolidone, and phosphorus-containing compounds as catalyst components, are conventionally used in the specific reaction of the instant process. Both the Dunn and Proops process as claimed and the Beppe I and IV patents are stated by appellants to use excess alcohol, one of the reactants, as a solvent, and the latter patents teach the equivalence of such a solvent with, specifically, N-methy lpyrrolidone.\nAppellants also contend that the claimed processes produce an unexpected improvement in the total yield as well as a reduction in the amount of polymer, an unwanted side-produce when the monomer form is desired. Appellants rely primarily on a comparison of Example 1 with Example la. Example la is represented to differ from Example 1 by the omission of the N-methylpyrrolidone solvent. Omission of the solvent is stated to result in a reduction in yield from 93% to 20% and a monomer/polymer ratio drop from 7.5/1 to 5/1.\nWe cannot attach particular significance as showing non-obviousness to those examples since the procedures followed in the two examples do not have such correspondence (not considering the omission of the solvent) that the improved results can be traced, within a reasonable certainty, to the solvent alone. The nickel halide component of the catalysts is not the same in both, being nickel bromide in the solvent-containing example but nickel iodide in the non-solvent (lower yield) example. While the yield was lower even though the more reactive nickel iodide was used to offset the lack of solvent, we note that the reaction temperature was lowered and the time period shortened as well. The amounts of the two catalyst components are not the same in the two examples, and we have no information whether the relative proportions are the same or different. In the non-solvent example 925 grams of ethanol are used, while 230 grams are employed in the solvent-using example. We are not free to speculate whether that difference represents an excess of ethanol reactant to act as a solvent. There is no specific disclosure in the non-solvent example of the pressure nor of the amount of carbon monoxide or acetylene used.\nWhile we do not intend to slight the alleged improvements, we do not feel it an unreasonable burden on appellants to require comparative examples relied on for non-obviousness to be truly comparative. The cause and effect sought to be proven is lost here in the welter of unfixed variables.\nNevertheless we think that some improvement in yield and monomer/ polymer ratio is obtained, giving full faith to the statements of the disclosure. But we do not find such improvements unexpected if, indeed, they are traceable to the solvent, since the secondary references disclose that improvements are to be expected from the use of solvents. Eeppe IY (quoted above) indicates improvements in the reaction, using their particular catalysts, are obtained by the use of solvents. The improvements noted by Eeppe IY are: 1) an increased rate of reaction, which in a given period would be expected to result in a greater product yield, and 2) a reduction of side products, one of which is known to be the polymer form. Additionally, Eeppe I, who uses N-methylpyrrolidone solvent, teaches us a reason for improved results:\n* * * The co-employment of such solvents is recommended especially because it renders possible an increase in the concentration of acetylene and carbon monoxide [reactants] in the reaction liquid.\nAppellants also point to Examples 8 and 9 as showing the unexpected results in yield and monomer/polymer ratio. They state that the solvent \u201cwas omitted as shown in example 8.\u201d This appears to be in error since both Examples 8 and 9 call for 500 mis N-methylpyrroli-done solvent; a check of the copy of the record certified to us from the Patent Office confirms that fact. What appears omitted from Example 8 is the phosphorus-containing component of the catalyst, and it is thus not related to the issue. Similarly, we find Examples 10-12 are no support for appellants\u2019 position. Those examples show the addition of a phosphorus-containing compound to the catalyst-complex of Eeppe II gives improved results.\nThe teachings of the secondary references are more than merely adequate to show that the improved results shown by appellants are not clear and convincing proof of nonobviousness. Appellants have modified the processes of Dunn and Proops in an entirely conventional manner. By adding a conventional solvent they have followed the teachings of the art with not unexpected results. In re Lieser, 34 CCPA 1113, 162 F. 2d 224, 74 USPQ 104. We affirm the rejection of claims 2-20 and 22.\nWe do not reach the same result with respect to claims 28 and 34, which call for two specific N-alkyl-pyrrolidones, the N-hexyl and N-(2-ethylhexyl) derivatives. Neither of these is disclosed by the prior art. The four patents to Eeppe and Lautenschlager disclose, not the class of N-alkyl-pyrrolidones, but merely a single member, N-methyl-pyrrolidone. For ought the record shows, not only is the process using these two solvents novel, but there is no teaching in the art that they were ever considered equivalent to the N-methyl-pyrrolidone. The board erred in lumping the claims together without regard for the specific limitations of the claims as compared to the teachings of the art. We reverse the board as to claims 28 and 34.\nThe Motion to Remand\nAppellants at oral argument on December 8, 1964, stated that a terminal disclaimer had been filed in the Patent Office on September 14, 1964. The solicitor had no information about the disclaimer and was of the view that it was not a proper issue in the case. The court directed each party to file a memorandum detailing the facts and to answer several questions: 1) Whether a terminal disclaimer in fact was filed, 2) if so, whether the disclaimer is properly before the court, and 3) what would be the legal effect of the disclaimer. Additionally, at argument, appellants made a motion to remand the case for consideration of the disclaimer, which motion was renewed in their memorandum. Appellants have correctly noted that remand would be unnecessary if \u201cthe court is of the opinion that the appealed claims are indeed patentable to applicant without it on the present record.\u201d\nSubsequently, we received from the Patent Office a certified copy of the terminal disclaimer. Appellants\u2019 memorandum in response to the court\u2019s request notes that two disclaimers have been filed, the second after argument here. It merely differs from the first only in naming a specific date, December 27, 1977, the date of expiration of Dunn and Proops I and II patents, beyond which appellants\u2019 rights in any patent maturing from the instant application are disclaimed.\nIn response to our requests, it appears, first, that terminal disclaimers were indeed filed. Second, counsel disagree whether the disclaimer is before the court. We agree with the solicitor that it cannot be considered here since it is not part of the record in this appeal, nor was it passed on by the board.\nSince the range of types of situations in which terminal disclaimers can be effective to overcome double patenting rejections based on obviousness is not yet settled, we think it advisable to remand this application for consideration of the disclaimers on that issue. The motion to remand will be granted.\nThe rejection of claims 2-20 and 22 is affirmed, and that of 28 and 34 is reversed, and the case remanded for consideration of claims 2-20 and 22 in view of the disclaimer.\nThe five patents are: Dunn and Proops (I), 2,966,510; Dunn and Proops (II), 2,966,-511; Dunn and Proops (III), 2,967,882; Dunn and Proops (IV), 2,967,883; Dunn and Proops (V), 2,967,884.\nA type of claim to an improved combination in which known elements in the combination relationship are set forth in a \u201cpreamble\u201d followed by a detailed statement of the improvement in an element or elements. The practice of using such claims arose from the decision in Ex parte Jepson, 1917 C.D. 62, 243 O.G. 525. See Ellis, Patent Claims, (1949) Secs. 14, 178, 179, 197.\nFor example, claim 1 of U.S. Patent 2,966,511 (Dunn and Proops II) reads:\n1. In the manufacture of an acrylic acid ester by the inter action of acetylene with carbon monoxide and an alcohol at elevated temperature and under increased pressure, the improvement -which comprises carrying out the reaction in the presence of a catalyst complex combination of a nickel halide and an inorganic phosphorus compound selected from the group consisting of the phosphorus sulfides and the phosphorus selenides.\nThe corresponding phosphorus compounds in the other patents are : Organic trithiophos-phites (Dunn and Proops I), pentavalent phosphorus disulfides having a bise (phos-phorthio) disulfide radical (Dunn and Proops III), pentavalent organic phosphorous compounds having a thiono radical and a mercapto radical attached thereto and their nickel salts (Dunn and Proops IV), and pentavalent organic-thiono phosphorus compounds free of mercapto radicals (Dunn and Proops V).\nSee footnote 1, supra.\nThroughout the subsequent discussion of references we shall omit \u201cet al.\u201d\nRule 131 by its terms is applicable where the application is rejected on \u201creference to a domestic patent,\u201d and also on \u201creference to a foreign patent or to a printed publication.\u201d",
+        "type": "majority",
+        "author": "Martin, Judge,"
+      },
+      {
+        "text": "WoRi.ev. C.J.,\nconcurring in part and dissenting in part, with whom AlmoND, J., joins.\nI regret the necessity to repeat the views expressed in the dissenting opinion in In re Tanner, 52 CCPA 1307, 343 F. 2d 1018, 145 USPQ 345, that this court has no authority whatever, and the majority cites none, to direct the Patent Office to reopen prosecution to determine the effect, if any, of a terminal disclaimer. I again remind my colleagues that Congress has directed this court to restrict itself to \u201cthe evidence produced before the Patent Office,\u201d and to confine its decision \u201cto the points set forth in the reasons of appeal.\u201d 35 USC 144. Here, the proposed terminal disclaimer is not part of that evidence, is not in the record, is not mentioned in the reasons of appeal, and, as far as this court\u2019s jurisdiction is concerned, does not legally exist.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "WoRi.ev. C.J.,"
+      },
+      {
+        "text": "Smith, Judge,\ndissenting in part.\nWhile I agree with the majority opinion in its treatment of claims 28 and 34,1 do not agree with its affirmance of the rejection of claims 2-20 and 22. There is no question in my mind as to the basic authority of this court to remand the case to the Patent Office for consideration of the terminal disclaimer issue, but the remand seems to me to be futile in view of the rationale of the majority decision as to claims 2-20 and 22.",
+        "type": "dissent",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Louis G. Smith, Jr., Francis M. Fazio, Paul A. Rose for appellants.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "349 F. 2d 433; 146 USPQ 479\nIn re Jesse T. Dunn and Alex E. Brodhag, Jr.\n(No. 7265)\nUnited States Court of Customs and Patent Appeals,\nJuly 22, 1965\nLouis G. Smith, Jr., Francis M. Fazio, Paul A. Rose for appellants.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument December 8, 1964 by Mr. Fazio and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges\nPetition for rehearing denied October 12, 1905."
+  },
+  "file_name": "1760-01",
+  "first_page_order": 1084,
+  "last_page_order": 1094
+}

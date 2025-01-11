@@ -1,0 +1,58 @@
+{
+  "id": 12487317,
+  "name": "U.S. Bank v. A. Harlow",
+  "name_abbreviation": "U.S. Bank v. Harlow",
+  "decision_date": "2016-04-12",
+  "docket_number": "NO. 889 EDA 2015",
+  "first_page": "777",
+  "last_page": "777",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 777"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 98,
+    "sha256": "a608a0dd967d29beb552976d2ac5dcea5f6d34cc30abc1b107be86064f2e2d6a",
+    "simhash": "1:b11167a172a009e1",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "U.S. Bank\nv.\nA. Harlow"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "U.S. Bank\nv.\nA. Harlow\nNO. 889 EDA 2015\nSuperior Court of Pennsylvania.\nApril 12, 2016\nAffirmed."
+  },
+  "file_name": "0777-06",
+  "first_page_order": 777,
+  "last_page_order": 777
+}

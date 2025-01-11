@@ -1,0 +1,58 @@
+{
+  "id": 12487381,
+  "name": "Com. v. A. Dierolf",
+  "name_abbreviation": "Com. v. Dierolf",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 1243 MDA 2015",
+  "first_page": "782",
+  "last_page": "782",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 782"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "39df3af190cb4e84cae8df5f11e32d283eb7cbea3e2c067510b0be864fe86455",
+    "simhash": "1:29096781d09b1f80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Dierolf"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Dierolf\nNO. 1243 MDA 2015\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed."
+  },
+  "file_name": "0782-10",
+  "first_page_order": 782,
+  "last_page_order": 782
+}

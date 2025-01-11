@@ -1,0 +1,58 @@
+{
+  "id": 12487260,
+  "name": "Com. v. A. Irby",
+  "name_abbreviation": "Com. v. Irby",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 1558 WDA 2014",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 104,
+    "sha256": "d5192b2f5871016d0d345145f1b7136ae51ec7b7a4cd488e765e56688f2299e4",
+    "simhash": "1:c88364c897bb2fc0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Irby"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Irby\nNO. 1558 WDA 2014\nSuperior Court of Pennsylvania.\nApril 07, 2016\nVacated and Remanded."
+  },
+  "file_name": "0774-11",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486612,
+  "name": "Com. v. R. Stockton",
+  "name_abbreviation": "Com. v. Stockton",
+  "decision_date": "2016-03-16",
+  "docket_number": "NO. 661 EDA 2015",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "416cbdcbad2637939dff24b56c87b19be7a027e27367da1d82a5c39050894029",
+    "simhash": "1:350b778bd2aa9991",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Stockton"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Stockton\nNO. 661 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 16, 2016\nAffirmed."
+  },
+  "file_name": "0200-05",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

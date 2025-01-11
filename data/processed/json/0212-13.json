@@ -1,0 +1,58 @@
+{
+  "id": 12486791,
+  "name": "Com. v. R. Baker",
+  "name_abbreviation": "Com. v. Baker",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 381 WDA 2015",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "38397290788fac0f465353083fc86c1282db449946066765f9d1dd30ff485a8d",
+    "simhash": "1:941948c080b00589",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Baker"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Baker\nNO. 381 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed."
+  },
+  "file_name": "0212-13",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

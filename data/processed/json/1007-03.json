@@ -1,0 +1,97 @@
+{
+  "id": 12489070,
+  "name": "RETAINED REALTY, INC. v. Eileen M. LENAHAN et al.",
+  "name_abbreviation": "Retained Realty, Inc. v. Lenahan",
+  "decision_date": "2017-02-01",
+  "docket_number": "",
+  "first_page": "1007",
+  "last_page": "1007",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 A.3d 1007"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "150 A.3d 273",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12488101,
+        12488102
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/150-2/0273-01",
+        "/a3d/150-2/0273-02"
+      ]
+    },
+    {
+      "cite": "169 Conn. App. 902",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488099,
+        12488100,
+        12488102
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/150-2/0272-02",
+        "/a3d/150-2/0272-03",
+        "/a3d/150-2/0273-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 363,
+    "sha256": "738ccd759a9c4880188c02e5e36ddfda8633591d14c8184a60e7f72b07db9912",
+    "simhash": "1:202604a90761ed57",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T16:27:35.256947+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RETAINED REALTY, INC.\nv.\nEileen M. LENAHAN et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The named defendant's petition for certification for appeal from the Appellate Court, 169 Conn. App. 902, 150 A.3d 273 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "RETAINED REALTY, INC.\nv.\nEileen M. LENAHAN et al.\nSupreme Court of Connecticut.\nDecided February 1, 2017\nEileen M. Lenahan, self-represented, in support of the petition.\nTaryn D. Martin and Robert A. Zeigler, in opposition.\nThe named defendant's petition for certification for appeal from the Appellate Court, 169 Conn. App. 902, 150 A.3d 273 (2016), is denied."
+  },
+  "file_name": "1007-03",
+  "first_page_order": 1007,
+  "last_page_order": 1007
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12486857,
+  "name": "Conover v. Fisher",
+  "name_abbreviation": "Conover v. Fisher",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 204; Sept. Term, 2016",
+  "first_page": "707",
+  "last_page": "707",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 707"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 414"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 142,
+    "sha256": "1ab7385594ee0692f51a7ff8a4cdff04d78ede938da435f4a9a7abc54716c1b0",
+    "simhash": "1:2c6bc00450dd8210",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Conover\nv.\nFisher"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Conover\nv.\nFisher\nPet. Docket No. 204\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0707-02",
+  "first_page_order": 707,
+  "last_page_order": 707
+}

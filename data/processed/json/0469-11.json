@@ -1,0 +1,58 @@
+{
+  "id": 12488841,
+  "name": "DAY v. DOL",
+  "name_abbreviation": "Day v. DOL",
+  "decision_date": "2016-10-07",
+  "docket_number": "16\u2013131",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "9f498047eccd12896fe0016c0f9e59a29cef768a605720471a926c8e3e2f9e72",
+    "simhash": "1:18538431ae40ea45",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DAY\nv.\nDOL"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "DAY\nv.\nDOL\n16-131\nSupreme Court of Vermont.\nOctober 7, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0469-11",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

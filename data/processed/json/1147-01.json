@@ -1,0 +1,89 @@
+{
+  "id": 8017416,
+  "name": "Matthew E. DONAHUE, Appellant, v. DISTRICT OF COLUMBIA, Appellee",
+  "name_abbreviation": "Donahue v. District of Columbia",
+  "decision_date": "1977-01-25",
+  "docket_number": "No. 10940",
+  "first_page": "1147",
+  "last_page": "1148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "368 A.2d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "346 A.2d 740",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8072312
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "742",
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/346/0740-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 2900,
+    "ocr_confidence": 0.821,
+    "pagerank": {
+      "raw": 5.875742183396918e-08,
+      "percentile": 0.3683419380821044
+    },
+    "sha256": "8f350f783892ef111e16bdc2e8f2c8bcb642ca0b4cd20cdc173cf8fe2ae5ec75",
+    "simhash": "1:2d9299bc00199e4e",
+    "word_count": 464
+  },
+  "last_updated": "2024-02-27T23:10:53.000455+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NEWMAN, Chief Judge, and FICKLING and MACK, Associate Judges."
+    ],
+    "parties": [
+      "Matthew E. DONAHUE, Appellant, v. DISTRICT OF COLUMBIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nThis appeal challenges an order of the Tax Division of the Superior Court dismissing appellant\u2019s petition contesting an assessment of personal property taxes for fiscal year 1974 on the ground that the petition was not filed within six months after the date of assessment. We affirm the dismissal.\nThe trial judge found that a notice of assessment stating the amount of personal property taxes owed by appellant for fiscal year 1974 was mailed by the District of Columbia and received by the appellant no later than October 12, 1973, the date of appellant\u2019s first (of two) tax payment installments. Subsequently, on February 5, 1975 appellant filed a petition in the Tax Division appealing this assessment.\nThe appeal procedure for contesting the personal property tax assessment at issue is set out in D.C.Code 1973, \u00a7 47-2403, which provides in' pertinent part:\nAny person aggrieved by any assessment by the District of any personal-property . . . tax or taxes, or penalties thereon, may within six months after payment of the tax, together with penalties and interest assessed thereon, appeal from the assessment to the Superior Court of the District of Columbia. The mailing to the taxpayer of a statement of taxes due shall be considered notice of assessment .\nIn National Graduate University v. District of Columbia, D.C.App., 346 A.2d 740 (1975), we reviewed the legislative history of D.C.Code 1973, \u00a7 47-2403 and concluded \u201cthat the six month time requirement of [the statute] applies to appeals from assessments of allegedly exempt property and that the period begins to run from the mailing of the notice of assessment.\u201d Id. at 742 (footnote omitted). Furthermore, while the instant case does not present the issue of allegedly exempt property, we previously suggested, and now hold, \u201cthat the period for all appeals under \u00a7 47-2403 runs from the mailing of the assessment, the clause \u2018after payment . . .\u2019 to be read as \u2018provided payment has been made.\u2019 \u201d Id. at 743 n.7 (emphasis added).\nThus in light of our interpretation of D.C.Code 1973, \u00a7 47-2403 we must reject appellant\u2019s argument that the six-month period for filing an appeal does not commence until after payment of the tax. The petition in this case, having been filed more than six months after appellant received notice of the assessment, was properly dismissed for lack of jurisdiction.\nAccordingly the order of dismissal is\nAffirmed.\n. The second and final installment was paid by the appellant on September 13,1974.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Matthew E. Donahue, pro se.",
+      "John R. Risher, Jr., Corp. Counsel, Henry E. Wixon and Melvin J. Washington, Asst. Corp. Counsels, Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Matthew E. DONAHUE, Appellant, v. DISTRICT OF COLUMBIA, Appellee.\nNo. 10940.\nDistrict of Columbia Court of Appeals.\nSubmitted Dec. 15, 1976.\nDecided Jan. 25, 1977.\nMatthew E. Donahue, pro se.\nJohn R. Risher, Jr., Corp. Counsel, Henry E. Wixon and Melvin J. Washington, Asst. Corp. Counsels, Washington, D. C., for appellee.\nBefore NEWMAN, Chief Judge, and FICKLING and MACK, Associate Judges."
+  },
+  "file_name": "1147-01",
+  "first_page_order": 1199,
+  "last_page_order": 1200
+}

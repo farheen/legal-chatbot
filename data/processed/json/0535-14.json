@@ -1,0 +1,58 @@
+{
+  "id": 12489781,
+  "name": "IN RE O.K.",
+  "name_abbreviation": "In re O.K.",
+  "decision_date": "2017-05-30",
+  "docket_number": "17\u2013073",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 A.3d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 136,
+    "sha256": "b0ba5d642512f87cd67200c61db1034c6a0f5657a803492101ee1ab00b4c6621",
+    "simhash": "1:9cf32628acf4f6d5",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017834+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE O.K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE O.K.\n17-073\nSupreme Court of Vermont.\nMay 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0535-14",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

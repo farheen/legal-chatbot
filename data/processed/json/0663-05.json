@@ -1,0 +1,58 @@
+{
+  "id": 12501606,
+  "name": "COM. v. PARKER, V.",
+  "name_abbreviation": "Com. v. Parker",
+  "decision_date": "2018-07-11",
+  "docket_number": "1343 WDA 2016",
+  "first_page": "663",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 663"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 89,
+    "sha256": "9fe2fc45f335b27d9cfefb45633e421250ce51192f26422cf90ee4a3f5b48f64",
+    "simhash": "1:874f730b8ef79ff4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nPARKER, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nPARKER, V.\n1343 WDA 2016\nSuperior Court of Pennsylvania.\nJuly 11, 2018\nAffirmed"
+  },
+  "file_name": "0663-05",
+  "first_page_order": 663,
+  "last_page_order": 663
+}

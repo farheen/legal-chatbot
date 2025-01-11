@@ -1,0 +1,58 @@
+{
+  "id": 12486390,
+  "name": "Com. v. N. Carpenter",
+  "name_abbreviation": "Com. v. Carpenter",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 1058 EDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 109,
+    "sha256": "171d2078325b81b35c556485b07751b4c9b02a57a4c6233194806f816aa60cf6",
+    "simhash": "1:941d66d384861d92",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nN. Carpenter"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nN. Carpenter\nNO. 1058 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nVacated and Remanded."
+  },
+  "file_name": "0186-10",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7972425,
+  "name": "STATE v. Mark BURNS",
+  "name_abbreviation": "State v. Burns",
+  "decision_date": "1980-04-24",
+  "docket_number": "No. 79-520-C.A.",
+  "first_page": "1058",
+  "last_page": "1059",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 1058"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 307,
+    "ocr_confidence": 0.798,
+    "sha256": "fe21076cc80b20e691704f0d1dfa8de4703532ad7296d3387488bea114e38e37",
+    "simhash": "1:799f3c26abb74c7d",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Mark BURNS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion of John L. Cosentino that he be appointed to represent defendant in the prosecution of this appeal is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff.",
+      "John L. Cosentino, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Mark BURNS.\nNo. 79-520-C.A.\nSupreme Court of Rhode Island.\nApril 24, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff.\nJohn L. Cosentino, Providence, for defendant."
+  },
+  "file_name": "1058-04",
+  "first_page_order": 1112,
+  "last_page_order": 1113
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12485502,
+  "name": "State v. Clifford Jamieson",
+  "name_abbreviation": "State v. Jamieson",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-890 SEPT. TERM 2015, 077380",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 126,
+    "sha256": "b96494f378587e469dfdc03262da1d5c118ea806251e1131824076e4170f0a25",
+    "simhash": "1:95ee449b797b2d2e",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nClifford Jamieson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nClifford Jamieson\nNOS. C-890 SEPT. TERM 2015, 077380\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-25",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

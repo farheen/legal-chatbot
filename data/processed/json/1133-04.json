@@ -1,0 +1,58 @@
+{
+  "id": 12488234,
+  "name": "K.F. v. A.F.",
+  "name_abbreviation": "K.F. v. A.F.",
+  "decision_date": "2016-05-03",
+  "docket_number": "1693 MDA 2015",
+  "first_page": "1133",
+  "last_page": "1133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 81,
+    "sha256": "22b1e40bdba26ea76e6b488dd60561f690246f3bed87144ee8b0555273e7496c",
+    "simhash": "1:8c111409d62b94e5",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "K.F.\nv.\nA.F."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "K.F.\nv.\nA.F.\n1693 MDA 2015\nSuperior Court of Pennsylvania.\nMay 3, 2016\nAffirmed"
+  },
+  "file_name": "1133-04",
+  "first_page_order": 1133,
+  "last_page_order": 1133
+}

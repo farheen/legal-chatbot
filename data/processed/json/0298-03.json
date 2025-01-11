@@ -1,0 +1,89 @@
+{
+  "id": 8456047,
+  "name": "ESTATE of Louis A. HICKS v. DANA CORPORATION, et al. Appeal of Dana Corporation. Estate of Louis A. Hicks v. Dana Corporation, et al. Appeal of John Crane, Inc., f/k/a Crane Packing",
+  "name_abbreviation": "Estate of Hicks v. Dana Corp.",
+  "decision_date": "2006-09-27",
+  "docket_number": "Appeal Nos. 24 & 25 EAP 2005",
+  "first_page": "298",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "909 A.2d 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "763 A.2d 386",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1366907
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0565-01"
+      ]
+    },
+    {
+      "cite": "568 Pa. 565",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 2000,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 602,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20428314546523754
+    },
+    "sha256": "fea7c95d6795d675db2d8bb936e6b52562398ed61d3df6f32f3a502cddd9194e",
+    "simhash": "1:07159ab0471fb866",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T21:29:40.359248+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ESTATE of Louis A. HICKS v. DANA CORPORATION, et al. Appeal of Dana Corporation. Estate of Louis A. Hicks v. Dana Corporation, et al. Appeal of John Crane, Inc., f/k/a Crane Packing."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 27th day of September, 2006, it is hereby ordered that the Order of the Court of Common Pleas of Philadelphia County is affirmed as to the issue of the unconstitutionality of Act 57.\nAppellants\u2019 ancillary issues are transferred to the Superior Court. See Harrington v. Commonwealth, Dep\u2019t of Transp., 568 Pa. 565, 763 A.2d 386, 393 (2000).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ESTATE of Louis A. HICKS v. DANA CORPORATION, et al. Appeal of Dana Corporation. Estate of Louis A. Hicks v. Dana Corporation, et al. Appeal of John Crane, Inc., f/k/a Crane Packing.\nSupreme Court of Pennsylvania.\nSept. 27, 2006."
+  },
+  "file_name": "0298-03",
+  "first_page_order": 354,
+  "last_page_order": 355
+}

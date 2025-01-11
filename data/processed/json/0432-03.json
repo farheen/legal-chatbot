@@ -1,0 +1,59 @@
+{
+  "id": 11526987,
+  "name": "In the Matter of Alfred A. PORRO, Jr.",
+  "name_abbreviation": "In re Porro",
+  "decision_date": "2000-03-03",
+  "docket_number": "No. 566 Disciplinary Docket No. 3",
+  "first_page": "432",
+  "last_page": "433",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "749 A.2d 432"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 686,
+    "ocr_confidence": 0.693,
+    "sha256": "20b114e6617fdde3411a32e5cb972cbf72d91abdf5e73f241ef3712197c4a89e",
+    "simhash": "1:388e993920efa491",
+    "word_count": 123
+  },
+  "last_updated": "2023-07-14T18:00:33.427244+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Alfred A. PORRO, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 3rd day of March, 2000, a Rule having been entered by this Court on January 28, 2000, pursuant to Rule 214(d)(1), Pa.R.D.E., directing Alfred A. Porro, Jr., to show cause why he should not be placed on temporary suspension and no response thereto having been filed, it is hereby\nORDERED that the Rule is made absolute; Alfred A. Porro, Jr., is placed on temporary suspension and he shall comply with all the provisions of Rule 217, Pa. R.D.E.; and the matter is referred to the Disciplinary Board pursuant to Rule 214(f)(1), Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Alfred A. PORRO, Jr.\nNo. 566 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nMarch 3, 2000."
+  },
+  "file_name": "0432-03",
+  "first_page_order": 460,
+  "last_page_order": 461
+}

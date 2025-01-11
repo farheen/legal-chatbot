@@ -1,0 +1,59 @@
+{
+  "id": 6083214,
+  "name": "In re Percival D. Lowell",
+  "name_abbreviation": "In re Lowell",
+  "decision_date": "1931-11-02",
+  "docket_number": "No. 3006",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 118,
+    "ocr_confidence": 0.54,
+    "sha256": "7aa09f6807395988cfea51f3424b0d76a97a7bbc22fd788e37de57a8157a3ef6",
+    "simhash": "1:001333c4beb022a6",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Percival D. Lowell"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in radio-receiving apparatus with alternating power supply for same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Percival D. Lowell\n(No. 3006)."
+  },
+  "file_name": "1297-05",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

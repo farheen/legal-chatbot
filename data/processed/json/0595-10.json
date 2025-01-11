@@ -1,0 +1,58 @@
+{
+  "id": 12485947,
+  "name": "Com. v. T. Morrison",
+  "name_abbreviation": "Com. v. Morrison",
+  "decision_date": "2016-02-16",
+  "docket_number": "NO. 1382 MDA 2015",
+  "first_page": "595",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 112,
+    "sha256": "ac9c3093ee1782d084182cc52fe0caed276acce437eab3ca87b7d568c7d76bb7",
+    "simhash": "1:b58a76a9d4c8a461",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Morrison"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Morrison\nNO. 1382 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 16, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0595-10",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

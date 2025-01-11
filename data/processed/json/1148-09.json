@@ -1,0 +1,58 @@
+{
+  "id": 12488473,
+  "name": "Com. v. Williams, M.",
+  "name_abbreviation": "Com v. Williams",
+  "decision_date": "2016-05-16",
+  "docket_number": "2723 EDA 2015",
+  "first_page": "1148",
+  "last_page": "1148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "812c61cc888fad7f13e8b3f5e3351b9007be1a5dd60869b45e470da94f0c8eb4",
+    "simhash": "1:91c27273159995f2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nWilliams, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nWilliams, M.\n2723 EDA 2015\nSuperior Court of Pennsylvania.\nMay 16, 2016\nAffirmed"
+  },
+  "file_name": "1148-09",
+  "first_page_order": 1148,
+  "last_page_order": 1148
+}

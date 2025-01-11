@@ -1,0 +1,58 @@
+{
+  "id": 12486561,
+  "name": "Com. v. S. McCreary",
+  "name_abbreviation": "Com. v. McCreary",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 596 MDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "02648397498e9dc85149b8fa1ebf4702aa2e91c4383bb94e6eb7cb66ce8704f7",
+    "simhash": "1:304d66a418e1ac29",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. McCreary"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. McCreary\nNO. 596 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nQuashed."
+  },
+  "file_name": "0197-02",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

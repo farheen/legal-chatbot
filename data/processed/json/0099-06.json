@@ -1,0 +1,58 @@
+{
+  "id": 12485388,
+  "name": "Philadelphia Housing Authority v. Jenee Simmons",
+  "name_abbreviation": "Phila. Hous. Auth. v. Simmons",
+  "decision_date": "2016-06-14",
+  "docket_number": "NO. 935 CD 15",
+  "first_page": "99",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "fbf6ca36c740cac94b1a09b486576f6fdf09aca555cf889a3c447c4a75f5d533",
+    "simhash": "1:b05cd8424d2a51fd",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Philadelphia Housing Authority\nv.\nJenee Simmons"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Philadelphia Housing Authority\nv.\nJenee Simmons\nNO. 935 CD 15\nCommonwealth Court of Pennsylvania\nJune 14, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0099-06",
+  "first_page_order": 99,
+  "last_page_order": 99
+}

@@ -1,0 +1,92 @@
+{
+  "id": 6094819,
+  "name": "In re Semple S. Scott and Edgar A. Turner",
+  "name_abbreviation": "In re Scott",
+  "decision_date": "1930-02-06",
+  "docket_number": "No. 2245",
+  "first_page": "818",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 818"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "278 Fed. Rep. 395",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6738347,
+        4066908,
+        6738310,
+        4066231
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/278/0395-02",
+        "/f/278/0395-01"
+      ]
+    },
+    {
+      "cite": "51 App. D. C. 254",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        4066908,
+        4066231
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    }
+  ],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 2994,
+    "ocr_confidence": 0.469,
+    "sha256": "c0c1ea7ee0acc0aaa21e11b195732a95f8a94646d37471d3ae465fab6f3ed2bb",
+    "simhash": "1:8dcdae2a9385ae45",
+    "word_count": 498
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding.-Judge, and Bland, Hatfield,, Garrett, and Benroot,. Associate Judges"
+    ],
+    "parties": [
+      "In re Semple S. Scott and Edgar A. Turner"
+    ],
+    "opinions": [
+      {
+        "text": "Bland, Judge,\ndelivered the opinion of the court:\nAppellant has appealed to this court from a decision of the Commissioner of Patents, affirming the decision of the examiners in chief, which in turn affirmed the decision of the primary examiner, denying patentability to claims 9, 10, 11, 12, and 13, of which claims 9 and 10 are representative and follow:\n' 9. In combination, an automobile bumper comprising a horizontal bar and a plurality of upright shoes adjustably fastened thereto.\n10. An automobile bumper, comprising a bar, a plurality of upright bumper . 'shoes adapted to be fastened to the bar, and means for holding the bumper shoes in clamping engagement therewith.\nThe claims cover a bumper for automobiles which is made up of ' the usual horizontal spring bar extending across the front of the vehicle, the curved ends of which bar are secured to the spring ends, two vertically extending plates being adjustably attached to the horizontal portion of the bar. The plates are intended to prevent the bumper bar of one vehicle from passing above or below that of another when they are in slight collision. The vertically extending plates are intended to act so as to widen the area of contact of the bumper.\nThe claims were rejected upon the following references:\nHoffman, 1168213, January 11, 1916.\nOlson, 1180418, August 25, 1916.\nInterference 46142.\nIt is conceded in briefs and argument that if there is patentability-in the device, it rests in the adjustable feature of the uprights, that is, in the fact that they are so arranged' as to be moved along and adjusted to the horizontal bar at different places.\nThe adjustable feature was, by some of the patent tribunals, regarded as disclosed in the Olson reference. Whether it is or is not disclosed in any of the references, it is the position of the solicitor in this court, as was it the position of the Commissioner of Patents in his decision, that the adjustable feature of the vertical plates was .not regarded as being patentable since it disclosed no useful function, involving invention, not disclosed in the references. With this conclusion we agree.\nThe mere adjustability of the vertical pieces, we think, involves no invention. It would be the obvious thing for any mechanic to provide for adjustments of same, if deemed necessary. We can well understand how adjustability of certain portions of some mechanisms might involve invention, but this certainly is not such a case. In re Keller, 51 App. D. C. 254, 278 Fed. Rep. 395, 298 O. G. 867.\nThe decision of the Commissioner of Patents is affirmed.",
+        "type": "majority",
+        "author": "Bland, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Paul Carpenter (Ralph B. Stewart and Brendan MeCaivn of counsel) for appellants.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Semple S. Scott and Edgar A. Turner\n(No. 2245)\nUnited States Court of Customs and Patent Appeals,\nFebruary 6, 1930\nPaul Carpenter (Ralph B. Stewart and Brendan MeCaivn of counsel) for appellants.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument January 22, 1930, by Mr. McCann and Mr. Hostetler]\nBefore Graham, Presiding.-Judge, and Bland, Hatfield,, Garrett, and Benroot,. Associate Judges"
+  },
+  "file_name": "0818-01",
+  "first_page_order": 268,
+  "last_page_order": 269
+}

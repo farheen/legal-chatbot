@@ -1,0 +1,62 @@
+{
+  "id": 7991316,
+  "name": "Joanne DiLEONE v. Leonard DiLEONE",
+  "name_abbreviation": "DiLeone v. DiLeone",
+  "decision_date": "1982-03-18",
+  "docket_number": "No. 82-104-M.P.",
+  "first_page": "1346",
+  "last_page": "1346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "444 A.2d 1346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 359,
+    "ocr_confidence": 0.803,
+    "sha256": "286983cd74fd7ba2f038ed9f7a1622350a0c1fc70df11f736cdeaa724533fe94",
+    "simhash": "1:de2a446c8849665f",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T21:42:27.638083+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joanne DiLEONE v. Leonard DiLEONE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.\nThe partial stay entered in this matter on March 4, 1982 is vacated.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Alfred Factor, Kirshenbaum & Kirshen-baum, Providence, for plaintiff-respondent.",
+      "Leonard A. Kamaras, Providence, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Joanne DiLEONE v. Leonard DiLEONE.\nNo. 82-104-M.P.\nSupreme Court of Rhode Island.\nMarch 18, 1982.\nAlfred Factor, Kirshenbaum & Kirshen-baum, Providence, for plaintiff-respondent.\nLeonard A. Kamaras, Providence, for defendant-petitioner."
+  },
+  "file_name": "1346-02",
+  "first_page_order": 1380,
+  "last_page_order": 1380
+}

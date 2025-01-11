@@ -1,0 +1,59 @@
+{
+  "id": 6082727,
+  "name": "Ex parte Christopher Luckhaupt",
+  "name_abbreviation": "Ex parte Luckhaupt",
+  "decision_date": "1947-04-02",
+  "docket_number": "No. 5351",
+  "first_page": "1208",
+  "last_page": "1208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 126,
+    "ocr_confidence": 0.437,
+    "sha256": "a1d5fcfbf0685d0355a62749587cd3e5dc133522fa0a4754b3cbac646eded670",
+    "simhash": "1:121ac45aee651a60",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Christopher Luckhaupt"
+    ],
+    "opinions": [
+      {
+        "text": "Method and composition of matter for the treatment of porous cellulosic materials.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ex parte Christopher Luckhaupt\n(No. 5351)."
+  },
+  "file_name": "1208-06",
+  "first_page_order": 526,
+  "last_page_order": 526
+}

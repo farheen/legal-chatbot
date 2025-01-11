@@ -1,0 +1,61 @@
+{
+  "id": 11527054,
+  "name": "In the Matter of Dean Ian WEITZMAN",
+  "name_abbreviation": "In re Weitzman",
+  "decision_date": "2000-03-13",
+  "docket_number": "No. 563 Disciplinary Docket No. 3",
+  "first_page": "433",
+  "last_page": "433",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "749 A.2d 433"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 709,
+    "ocr_confidence": 0.66,
+    "sha256": "80ca5827b0231205e0abae596d27951e19a39be68d081f996b2d58d791d262db",
+    "simhash": "1:ca83f13fa0eba634",
+    "word_count": 123
+  },
+  "last_updated": "2023-07-14T18:00:33.427244+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice ZARPALA dissents."
+    ],
+    "parties": [
+      "In the Matter of Dean Ian WEITZMAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 13th day of March, 2000, a Rule having been entered by this Court on January 13, 2000, pursuant to Rule 214(d)(1), Pa.R.D.E., directing Dean Ian Weitzman to show cause why he should not be placed on temporary suspension and, upon consideration of the responses filed, it is hereby\nORDERED that the Rule is made absolute; Dean Ian Weitzman is placed on temporary suspension and he shall comply with all the provisions of Rule 217, Pa. R.D.E.; and the matter is referred to the Disciplinary Board pursuant to Rule 214(f)(1), Pa.R.D.E.\nJustice ZARPALA dissents.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Dean Ian WEITZMAN.\nNo. 563 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nMarch 13, 2000."
+  },
+  "file_name": "0433-02",
+  "first_page_order": 461,
+  "last_page_order": 461
+}

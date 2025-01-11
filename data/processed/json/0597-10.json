@@ -1,0 +1,58 @@
+{
+  "id": 12485979,
+  "name": "Wells Fargo Bank v. M. Golphin",
+  "name_abbreviation": "Wells Fargo Bank v. Golphin",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 1398 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 170,
+    "sha256": "b83a89db9c8a26e9de889b50c60f377397a2eef4b872362458fef93f62352e70",
+    "simhash": "1:ad11669093982da2",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells Fargo Bank\nv.\nM. Golphin"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wells Fargo Bank\nv.\nM. Golphin\nNO. 1398 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed.\nPetition for reargument denied April 19, 2016."
+  },
+  "file_name": "0597-10",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

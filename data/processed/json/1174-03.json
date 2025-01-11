@@ -1,0 +1,128 @@
+{
+  "id": 11452006,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Marvin Harold SHICK, Petitioner",
+  "name_abbreviation": "Commonwealth v. Shick",
+  "decision_date": "2002-08-07",
+  "docket_number": "",
+  "first_page": "1174",
+  "last_page": "1174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "803 A.2d 1174"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "785 A.2d 983",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        404546,
+        9461125
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0111-01",
+        "/a2d/785/0983-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 111",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404546
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0111-01"
+      ]
+    },
+    {
+      "cite": "790 A.2d 313",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9391008,
+        404520,
+        9390984,
+        9390967,
+        404509
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/790/0313-03",
+        "/pa/567/0667-01",
+        "/a2d/790/0313-02",
+        "/a2d/790/0313-01",
+        "/pa/567/0666-01"
+      ]
+    },
+    {
+      "cite": "567 Pa. 667",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404520,
+        404522
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/567/0667-01",
+        "/pa/567/0667-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 461,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2404893103806438
+    },
+    "sha256": "98838cc26b279c08927d15e56fe357b879b789a5f4d76de6648ddaec46dd6e23",
+    "simhash": "1:74b75b47817b0df2",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T16:12:26.817021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Marvin Harold SHICK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of August, 2002, the Petition for Allowance of Appeal is hereby GRANTED, the Order of the Superior Court is VACATED, and the matter is REMANDED for consideration in light of Commonwealth v. Roudybush, 567 Pa. 667, 790 A.2d 313 (2002), and Commonwealth v. Gleason, 567 Pa. 111, 785 A.2d 983 (2001).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Marvin Harold SHICK, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 7, 2002."
+  },
+  "file_name": "1174-03",
+  "first_page_order": 1228,
+  "last_page_order": 1228
+}

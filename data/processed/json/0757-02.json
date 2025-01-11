@@ -1,0 +1,64 @@
+{
+  "id": 12488898,
+  "name": "ENOW v. ARMSTRONG & CHERIS, CHTD.",
+  "name_abbreviation": "Enow v. Armstrong & Cheris, Chtd.",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 330, Sept. Term, 2016",
+  "first_page": "757",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 757"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 159,
+    "sha256": "65b72348e3bca992d319d7bc882ffde27cb48538aab5f3192f54be16530ffd1c",
+    "simhash": "1:00ee0221d4197e34",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ENOW\nv.\nARMSTRONG & CHERIS, CHTD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "ENOW\nv.\nARMSTRONG & CHERIS, CHTD.\nPet. Docket No. 330, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0757-02",
+  "first_page_order": 757,
+  "last_page_order": 757
+}

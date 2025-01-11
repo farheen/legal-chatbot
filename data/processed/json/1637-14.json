@@ -1,0 +1,59 @@
+{
+  "id": 6087438,
+  "name": "In re Richard B. Graver, et al.",
+  "name_abbreviation": "In re Graver",
+  "decision_date": "1966-12-13",
+  "docket_number": "No. 7746",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "ocr_confidence": 0.459,
+    "sha256": "6bb5421a68d3edb25041588a13ee13c9efbb5512d16997a076c5604a0c8ee43a",
+    "simhash": "1:0b9a042286cc6b38",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Richard B. Graver, et al."
+    ],
+    "opinions": [
+      {
+        "text": "'Polyesters, alkyds and products and system therefor, Method of improving.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 13, 1966\nNo. 7746.\nIn re Richard B. Graver, et al."
+  },
+  "file_name": "1637-14",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

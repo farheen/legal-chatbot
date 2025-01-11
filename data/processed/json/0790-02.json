@@ -1,0 +1,58 @@
+{
+  "id": 12487499,
+  "name": "Com. v. C. Carbone",
+  "name_abbreviation": "Com. v. Carbone",
+  "decision_date": "2016-04-25",
+  "docket_number": "NO. 3108 EDA 2014",
+  "first_page": "790",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 117,
+    "sha256": "6e5c7e93c103816084b5ac80fc4bf935403a201734f224d0191037419665ee1f",
+    "simhash": "1:6b523e6350b9dd24",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Carbone"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Carbone\nNO. 3108 EDA 2014\nSuperior Court of Pennsylvania.\nApril 25, 2016\nRemanded Jurisdiction Retained."
+  },
+  "file_name": "0790-02",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

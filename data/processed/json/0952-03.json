@@ -1,0 +1,59 @@
+{
+  "id": 9099264,
+  "name": "In the Matter of Gary FRIEDMANN",
+  "name_abbreviation": "In re Friedmann",
+  "decision_date": "2003-07-30",
+  "docket_number": "No. 838 Disciplinary Docket No. 3",
+  "first_page": "952",
+  "last_page": "953",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "830 A.2d 952"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 78,
+    "char_count": 812,
+    "ocr_confidence": 0.685,
+    "sha256": "8e1d7a4633a125003e6a3629b9ad9f6870a979e0df6a7111aa5ba4f0f3d20dc5",
+    "simhash": "1:f39a13aa51a125e8",
+    "word_count": 144
+  },
+  "last_updated": "2023-07-14T18:24:26.404666+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Gary FRIEDMANN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 30th day of July, 2003, Gary Friedmann having been suspended from the practice of law in the State of New Jersey for a period of three years by Order of the Supreme Court of New Jersey dated February 3, 2003; the said Gary Friedmann having been directed on May 19, 2003, to inform this Court of any claim he has that the imposition of the identical or comparable discipline in this Commonwealth would be unwarranted and the reasons therefor; and no response having been filed, it is\nORDERED that Gary Friedmann is suspended from the practice of law in this Commonwealth for a period of three years, and he shall comply with all the provisions of Rule 217, Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Gary FRIEDMANN.\nNo. 838 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJuly 30, 2003."
+  },
+  "file_name": "0952-03",
+  "first_page_order": 1000,
+  "last_page_order": 1001
+}

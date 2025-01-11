@@ -1,0 +1,59 @@
+{
+  "id": 6083424,
+  "name": "In re McKee Refrigerator Co.",
+  "name_abbreviation": "In re McKee Refrigerator Co.",
+  "decision_date": "1932-03-07",
+  "docket_number": "No. 2908",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 93,
+    "ocr_confidence": 0.539,
+    "sha256": "7c6e2cb7d1873c36ccfb3d08cf7c635100fb13867385dfadb19be541360de86b",
+    "simhash": "1:b0b5522196868c02",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re McKee Refrigerator Co."
+    ],
+    "opinions": [
+      {
+        "text": "Trade-mark for McKee Refrigerator Co.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MARCH 7, 1932\nIn re McKee Refrigerator Co.\n(No. 2908)."
+  },
+  "file_name": "1298-06",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

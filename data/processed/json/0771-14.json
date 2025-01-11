@@ -1,0 +1,58 @@
+{
+  "id": 12487219,
+  "name": "Com. v. O. Bradley",
+  "name_abbreviation": "Com. v. Bradley",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1339 WDA 2015",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "e65c45686fb192adfa7398f579659cea75bd3ed84908b20ddaede6512960b08b",
+    "simhash": "1:1b05464951240584",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nO. Bradley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nO. Bradley\nNO. 1339 WDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed."
+  },
+  "file_name": "0771-14",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

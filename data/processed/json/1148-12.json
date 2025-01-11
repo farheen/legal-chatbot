@@ -1,0 +1,58 @@
+{
+  "id": 12488459,
+  "name": "Com. v. Louis, O.",
+  "name_abbreviation": "Com v. Louis",
+  "decision_date": "2016-05-16",
+  "docket_number": "1125 MDA 2015",
+  "first_page": "1148",
+  "last_page": "1148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 95,
+    "sha256": "7dd7a39b4aca30b60714c79bcf4e3b6bc04df93c8eb425266210d2ceefa53da1",
+    "simhash": "1:11024bb113ad99e0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLouis, O."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLouis, O.\n1125 MDA 2015\nSuperior Court of Pennsylvania.\nMay 16, 2016\nVacated/Remanded"
+  },
+  "file_name": "1148-12",
+  "first_page_order": 1148,
+  "last_page_order": 1148
+}

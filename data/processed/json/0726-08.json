@@ -1,0 +1,58 @@
+{
+  "id": 12487144,
+  "name": "Commonwealth v. Coreik Wall",
+  "name_abbreviation": "Commonwealth v. Wall",
+  "decision_date": "2016-08-24",
+  "docket_number": "NO. 161 EAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "479cf4640a9cba93a0492e2225c306e9ed6ccf5395ce5a44a48b6516d1a07fe1",
+    "simhash": "1:5d8c4534baca29b6",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nCoreik Wall"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nCoreik Wall\nNO. 161 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 24, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-08",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

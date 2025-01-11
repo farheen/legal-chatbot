@@ -1,0 +1,58 @@
+{
+  "id": 12486021,
+  "name": "T. Sterling v. K. Lyman",
+  "name_abbreviation": "Sterling v. Lyman",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1231 EDA 2015",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 163,
+    "sha256": "a1b52b1f70aaf75a3104958c32154c215c70c772701307a685d166852ed4bba7",
+    "simhash": "1:a1557af302b70d96",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Sterling\nv.\nK. Lyman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Sterling\nv.\nK. Lyman\nNO. 1231 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed.\nPetition for reargument denied April 26, 2016."
+  },
+  "file_name": "0599-04",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6081506,
+  "name": "Holmes v. Getaz",
+  "name_abbreviation": "Holmes v. Getaz",
+  "decision_date": "1951-12-04",
+  "docket_number": "No. 5920",
+  "first_page": "1069",
+  "last_page": "1069",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 C.C.P.A. 1069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 80,
+    "ocr_confidence": 0.412,
+    "sha256": "d7059c7cca4d3a9a65558c7f618671d9ba76a5c71d04e865354968f402a0a4e0",
+    "simhash": "1:124f390032d0b4c0",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T17:22:55.380782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Holmes v. Getaz"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in knitting method and product thereof.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Holmes v. Getaz\n(No. 5920)."
+  },
+  "file_name": "1069-07",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

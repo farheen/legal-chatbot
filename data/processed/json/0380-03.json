@@ -1,0 +1,78 @@
+{
+  "id": 7278567,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Jay J. DRUSS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Druss",
+  "decision_date": "2011-09-26",
+  "docket_number": "",
+  "first_page": "380",
+  "last_page": "381",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 A.3d 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "17 A.3d 332",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4201192,
+        7281843,
+        7281806,
+        4201456
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/609/0502-01",
+        "/a3d/17/0332-02",
+        "/a3d/17/0332-01",
+        "/pa/609/0501-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 471,
+    "ocr_confidence": 0.71,
+    "sha256": "47ae6420f92c37cd3b9fdb672f20933b3525a6923ea924066bbd40abc65f826c",
+    "simhash": "1:3d3d27f5abc52dfa",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T23:16:38.125427+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Jay J. DRUSS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of September, the Petition for Allowance of Appeal is hereby GRANTED, and the decision of the Superior Court is VACATED. The matter is REMANDED to the Superior Court for consideration of Petitioner\u2019s sentencing claim in light of this Court\u2019s decision in Commonwealth v. Foster, 17 A.3d 332 (Pa.2011) (plurality).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Jay J. DRUSS, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 26, 2011."
+  },
+  "file_name": "0380-03",
+  "first_page_order": 426,
+  "last_page_order": 427
+}

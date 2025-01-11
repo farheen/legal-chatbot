@@ -1,0 +1,58 @@
+{
+  "id": 12486573,
+  "name": "Com. v. W. Mason",
+  "name_abbreviation": "Com. v. Mason",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 2483 EDA 2015",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "aabb55c6c18d67b1f0497e1c8682ce95521f219beeb498f8d9bbb75e9e593b88",
+    "simhash": "1:98132d01914c3480",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Mason"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Mason\nNO. 2483 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-14",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

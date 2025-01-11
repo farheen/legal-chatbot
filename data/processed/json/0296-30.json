@@ -1,0 +1,62 @@
+{
+  "id": 12485508,
+  "name": "State v. Travis G. Denny",
+  "name_abbreviation": "State v. Denny",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-886 SEPT. TERM 2015, 077365",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 124,
+    "sha256": "b81e6d903a29d0f4216fd785f5ea5dc8428c04e219f508d9296f7c55c9a3e366",
+    "simhash": "1:10bde1ec922803ae",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nTravis G. Denny"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nTravis G. Denny\nNOS. C-886 SEPT. TERM 2015, 077365\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-30",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

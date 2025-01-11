@@ -1,0 +1,928 @@
+{
+  "id": 11498984,
+  "name": "Michael T. KING, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent. Moonlighting Electric Co., and ITT Hartford Insurance Co., Intervenors",
+  "name_abbreviation": "King v. District of Columbia Department of Employment Services",
+  "decision_date": "1999-12-16",
+  "docket_number": "No. 98-AA-705",
+  "first_page": "460",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "742 A.2d 460"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "33 U.S.C. \u00a7\u00a7 901",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "683 A.2d 446",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863516
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/0446-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 837",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11901954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/701/0837-01"
+      ]
+    },
+    {
+      "cite": "52 A.2d 698",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 N.J.L. 470",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        143384,
+        143379
+      ],
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/135/0470-01",
+        "/njl/135/0470-02"
+      ]
+    },
+    {
+      "cite": "49 A.2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1946,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 N.J.L. 524",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        141478
+      ],
+      "year": 1946,
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/134/0524-01"
+      ]
+    },
+    {
+      "cite": "44 A.2d 688",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 N.J. Misc. 374",
+      "category": "reporters:state",
+      "reporter": "N.J. Misc.",
+      "case_ids": [
+        720856
+      ],
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-misc/23/0374-01"
+      ]
+    },
+    {
+      "cite": "85 A.2d 214",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 N.J.Super. 573",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        445709
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/16/0573-01"
+      ]
+    },
+    {
+      "cite": "80 A.2d 337",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 N.J.Super. 294",
+      "category": "reporters:state",
+      "reporter": "N.J. Super.",
+      "case_ids": [
+        444717
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj-super/13/0294-01"
+      ]
+    },
+    {
+      "cite": "436 F.2d 274",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2213553
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "276"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/436/0274-01"
+      ]
+    },
+    {
+      "cite": "141 U.S.App. D.C. 120",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 A.2d 567",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7916373
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "569"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/498/0567-01"
+      ]
+    },
+    {
+      "cite": "407 F.2d 307",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3581025,
+        2112390
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "313",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/407/0307-01"
+      ]
+    },
+    {
+      "cite": "132 U.S.App. D.C. 177",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3581025
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "183",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "531 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7883621
+      ],
+      "pin_cites": [
+        {
+          "page": "655"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/531/0651-01"
+      ]
+    },
+    {
+      "cite": "531 N.E.2d 174",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "176"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Ill.Dec. 41",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 1988,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Ill.App.3d 607",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        3589455
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/176/0607-01"
+      ]
+    },
+    {
+      "cite": "559 A.2d 84",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1389071
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/126/0188-01"
+      ]
+    },
+    {
+      "cite": "379 N.W.2d 368",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10632532
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "374-75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/379/0368-01"
+      ]
+    },
+    {
+      "cite": "20 Kan.App.2d 220",
+      "category": "reporters:state",
+      "reporter": "Kan. App. 2d",
+      "case_ids": [
+        373799
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1267-68"
+        },
+        {
+          "page": "1267-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan-app-2d/20/0220-01"
+      ]
+    },
+    {
+      "cite": "944 S.W.2d 340",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        11989769
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "342"
+        },
+        {
+          "page": "342"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/944/0340-01"
+      ]
+    },
+    {
+      "cite": "84 L.Ed. 478",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1939,
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 S.Ct. 83",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1939,
+      "opinion_index": 0
+    },
+    {
+      "cite": "308 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6155985,
+        6155945,
+        6155847,
+        6155895
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/308/0570-04",
+        "/us/308/0570-03",
+        "/us/308/0570-01",
+        "/us/308/0570-02"
+      ]
+    },
+    {
+      "cite": "102 F.2d 464",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1068987
+      ],
+      "pin_cites": [
+        {
+          "page": "466"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/102/0464-01"
+      ]
+    },
+    {
+      "cite": "564 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11358904
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1168"
+        },
+        {
+          "page": "1176"
+        },
+        {
+          "page": "1172-78"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/564/1167-01"
+      ]
+    },
+    {
+      "cite": "611 A.2d 548",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7937952
+      ],
+      "pin_cites": [
+        {
+          "page": "550"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/611/0548-01"
+      ]
+    },
+    {
+      "cite": "82 L.Ed. 569",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 S.Ct. 122",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "302 U.S. 736",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164640,
+        6164681,
+        6164514,
+        6164567
+      ],
+      "year": 1937,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/302/0736-03",
+        "/us/302/0736-04",
+        "/us/302/0736-01",
+        "/us/302/0736-02"
+      ]
+    },
+    {
+      "cite": "90 F.2d 387",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        978586
+      ],
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/90/0387-01"
+      ]
+    },
+    {
+      "cite": "67 U.S.App. D.C. 142",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1937,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "673 A.2d 205",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860703
+      ],
+      "pin_cites": [
+        {
+          "page": "207-08"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/673/0205-01"
+      ]
+    },
+    {
+      "cite": "704 A.2d 295",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11871393
+      ],
+      "pin_cites": [
+        {
+          "page": "297-99"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/704/0295-01"
+      ]
+    },
+    {
+      "cite": "72 L.Ed.2d 160",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 S.Ct. 1749",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1982,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 U.S. 904",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199204,
+        6197800,
+        6198185,
+        6197579,
+        6197997,
+        6198638,
+        6198418,
+        6198871,
+        6199418
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0904-08",
+        "/us/456/0904-02",
+        "/us/456/0904-04",
+        "/us/456/0904-01",
+        "/us/456/0904-03",
+        "/us/456/0904-06",
+        "/us/456/0904-05",
+        "/us/456/0904-07",
+        "/us/456/0904-09"
+      ]
+    },
+    {
+      "cite": "655 F.2d 264",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262176,
+        3535874
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "268"
+        },
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/655/0264-01",
+        "/us-app-dc/210/0151-01"
+      ]
+    },
+    {
+      "cite": "210 U.S.App. D .C. 151",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3535874
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "155"
+        },
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/210/0151-01"
+      ]
+    },
+    {
+      "cite": "675 A.2d 28",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7858768
+      ],
+      "pin_cites": [
+        {
+          "page": "29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/675/0028-01"
+      ]
+    },
+    {
+      "cite": "698 A.2d 430",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12006130
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "434"
+        },
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/698/0430-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 534",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11570373
+      ],
+      "pin_cites": [
+        {
+          "page": "539, 541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/737/0534-01"
+      ]
+    },
+    {
+      "cite": "704 A.2d 1196",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11883583
+      ],
+      "pin_cites": [
+        {
+          "page": "1199"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/704/1196-01"
+      ]
+    },
+    {
+      "cite": "660 A.2d 404",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871097
+      ],
+      "pin_cites": [
+        {
+          "page": "407"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/660/0404-01"
+      ]
+    },
+    {
+      "cite": "682 A.2d 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859597
+      ],
+      "pin_cites": [
+        {
+          "page": "182"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/682/0178-01"
+      ]
+    },
+    {
+      "cite": "590 A.2d 1043",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7375748
+      ],
+      "pin_cites": [
+        {
+          "page": "1046"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/590/1043-01"
+      ]
+    },
+    {
+      "cite": "683 A.2d 470",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863907
+      ],
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/0470-01"
+      ]
+    },
+    {
+      "cite": "484 A.2d 550",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7910497
+      ],
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/484/0550-01"
+      ]
+    },
+    {
+      "cite": "651 A.2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12257316
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "806"
+        },
+        {
+          "page": "806"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/651/0804-01"
+      ]
+    },
+    {
+      "cite": "700 A.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11902538
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "792"
+        },
+        {
+          "page": "791"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/700/0787-01"
+      ]
+    },
+    {
+      "cite": "482 A.2d 401",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7903872
+      ],
+      "pin_cites": [
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/482/0401-01"
+      ]
+    },
+    {
+      "cite": "724 A.2d 1212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11642287
+      ],
+      "pin_cites": [
+        {
+          "page": "1216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/724/1212-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1589,
+    "char_count": 48764,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 2.7430424798863204e-07,
+      "percentile": 0.8321029527204096
+    },
+    "sha256": "5be9a7fe1d21d63a6cceee260d318cdd2ebb0e270271196a82b12c640a5f1393",
+    "simhash": "1:a99643e8b355cde7",
+    "word_count": 8013
+  },
+  "last_updated": "2024-02-27T18:02:01.051786+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TERRY, FARRELL and GLICKMAN, Associate Judges."
+    ],
+    "parties": [
+      "Michael T. KING, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent. Moonlighting Electric Co., and ITT Hartford Insurance Co., Intervenors."
+    ],
+    "opinions": [
+      {
+        "text": "GLICKMAN, Associate Judge:\nPetitioner, Michael T. King, was temporarily disabled by acute back pain, which he suffered while working as an electrician at a job site in the District of Columbia. He filed a claim for benefits under the District of Columbia Workers\u2019 Compensation Act of 1979, as amended, D.C.Code \u00a7\u00a7 36-301 et seq. (1997) (hereinafter, the \u201cAct\u201d or the \u201cWCA\u201d). His claim was dismissed for lack of subject matter jurisdiction on the ground that his employment was not \u201cprincipally localized\u201d in the District.\nKing\u2019s petition for review of that decision calls upon us to analyze the coverage provision of the Act, D.C.Code \u00a7 36-303, as it was amended effective March 6, 1991. We are asked to decide how that statute applies to a case of cumulative traumatic injury arising out of employment that is carried on both inside and outside the District of Columbia. The answer to that question depends on how the \u201ctime of injury\u201d is fixed in a cumulative trauma case. We do not decide that legal question, however, because we find that respondent District of Columbia Department of Employment Services failed to make findings of material fact, while misapprehending and fading to construe the applicable law. We are therefore constrained to reverse the dismissal of King\u2019s claim and to remand for further proceedings. On remand, the Department needs to make a clear finding as to whether King\u2019s disability was in fact caused by his employment. If the Department does find that King sustained a job-related, cumulative traumatic injury to his back, then it must construe \u00a7 36-303 in order to articulate the rule under that statute for fixing the \u201ctime of injury\u201d in cumulative trauma cases. The Department must then apply that rule to the facts of King\u2019s case in order to determine whether his injury is covered by the WCA.\nI.\nPetitioner King began working for inter-venor Moonlighting Electric Company (\u201cMoonlighting\u201d) in July 1986 as a foreman and service electrician. King was hired in Maryland, where Moonlighting is headquartered; and he resided in that state at the time of the hearing. Most of King\u2019s jobs as an employee of Moonlighting were in Maryland, but he also worked from time to time at sites in other jurisdictions, including the District of Columbia.\nOn April 11, 1994, King was performing work on the second day of a job in the District of Columbia when he experienced back pain severe enough that he had to stop working. He did not return to work until August 31, 1994. King subsequently filed a claim under the WCA for temporary total disability benefits from April 11 through August 31, 1994, as well as for medical expenses. Moonlighting and its insurer, intervenor ITT Hartford, contested this claim. A hearing was held on April 12,1996.\nThe evidence before the hearing examiner established that King had a history of back problems and raised the issue of the relationship of those back problems to King\u2019s employment. The examiner found that the electrician position that King held with Moonlighting for some eight years did involve a degree of physical exertion, requiring King to lift at least sixty pounds, bend, climb ladders, carry material, stoop, crawl, and get into awkward positions. King testified that he first experienced back pain on the job in December 1993 while working in an electrical closet and that his symptoms progressively worsened over the next few months. He also testified that in the early 1980s he had seen a doctor for back pain, which medical records indicated was related to a tennis injury, and again in 1992 for back pain that lasted a couple of weeks. In his decision, the hearing examiner noted that King \u201cfirst sought treatment for back pain in 1984,\u201d approximately two years before he commenced his employment with Moonlighting. One of King\u2019s treating physicians classified King\u2019s problem as a degenerative disk disease with bulging disks that might at some future date require surgical intervention.\nKing claimed that on April 11, 1994, when his back pain made it impossible for him to continue working, he sustained an accidental, work-related injury which aggravated his preexisting back condition. He based this claim on his testimony that \u201cI was working, and the pain and irritation of lifting cable and stuff finally just had got to be too much for me to take.\u201d King offered no further evidence as to what (if any) activity or event on April 11 triggered the increased back pain that he experienced, or as to the nature of the work he was performing when he became disabled. In the absence of such evidence, King relied upon the presumption embodied in D.C.Code \u00a7 36-321(1) of a causal connection between his disability and a work-related event.\nIn opposition to King\u2019s claim, Moonlighting and ITT Hartford denied that King sustained an injury at work on April 11 and denied that his disability was work-related at all. They argued that the medical evidence showed that King had back problems that pre-dated his employment, and that he became disabled simply because his back condition degenerated naturally to the point where he was no longer able to work.\nIn his decision denying King\u2019s claim, the hearing examiner made no finding as to whether King\u2019s back injury and disability were, in fact, work-related, either because King sustained an aggravating injury on April 11 or because over time the physical exertion of his job subjected his back to cumulative trauma and consequent gradual injury. The examiner likewise made no finding as to the time of any work-related back injury that King may have sustained. Nor did the examiner make a finding as to when, if ever, King knew or should have known that his back pain was related to his work.\nThe hearing examiner found it unnecessary to resolve these and similar questions because he concluded as a threshold matter that King\u2019s claim was outside the coverage of the WCA. Ignoring King\u2019s claim that he suffered an aggravating injury on April 11, and assuming (without deciding) that King\u2019s disability resulted from a \u201ccumulative trauma,\u201d the examiner said that there was \u201cno definitive date of injury which would bring this matter within the ambit\u201d of the coverage provisions of D.C.Code \u00a7 36-303(a). The examiner did not explain how he arrived at this conclusion, but he apparently considered \u00a7 36-303(a) to be inapplicable because it provides that coverage partially depends on the time of the injury and whether the injury occurred inside or outside the District of Columbia.\nThe examiner thereupon stated (again, without explanation) that \u201cthe jurisdictional question herein is resolved pursuant to the pre-March 6, 1991 law,\u201d ie., the law in effect prior to the effective date of the last amendment of \u00a7 36-303. Under former \u00a7 36-303(a), an injury was covered by the WCA only if, \u201cat the time\u201d of the injury, the employment was \u201cprincipally localized in the District of Columbia,\u201d regardless of whether the injury occurred inside or outside the District. Applying the three-prong Hughes test, the examiner found that \u201cthe geographical contacts between claimant\u2019s employment relationship and the state of Maryland are more substantial, qualitatively and quantitatively, than those same contacts between claimant\u2019s employment relationship and any other jurisdiction.\u201d Accordingly, the examiner concluded that King was excluded from the coverage of the Act, inasmuch as his employment was not principally localized in the District of Columbia.\nOn review, the Director of the Department of Employment Services affirmed the hearing examiner\u2019s decision. Specifically approving the examiner\u2019s analysis of the coverage question, the Director stated:\nClaimant testified at the hearing that he had experienced back pain before April 11, 1994. Specifically, Claimant testified that his back pain began in December of 1993 but did not become disabling until April 11, 1994. This in the Director\u2019s opinion, and as correctly concluded by the Hearing Examiner, would make Claimant\u2019s injury a cumulative one in which there is no definitive date of injury. There being no definitive date of injury, the 1991 amendment to the Act would not [be] applicable in this matter. Therefore, the Hearing Examiner was correct in utilizing preexisting legislation as well as the interpretation established in the Hughes case in order to determine whether jurisdiction was conferred upon Claimant\u2019s injury.\nOn appeal, King argues that (1) he sustained an aggravating injury on April 11, 1994, in the District of Columbia, a factual issue which the hearing examiner failed to resolve, and (2) even if there was no identifiable injury on April 11 and his injury reasonably could be termed \u201ccumulative,\u201d the hearing examiner erred as a matter of law in failing to determine a \u201ctime of injury,\u201d which is a prerequisite to applying D.C.Code \u00a7 36-303(a). King argues that, for purposes of that statute, the hearing examiner and the Director should have ruled that he sustained his injury while at work in the District of Columbia, and therefore that his claim was covered by the WCA pursuant to subsection (a)(1). (King does not contend that his employment was principally localized within the District; rather, he contends that the locus of his employment was immaterial given that his injury occurred when he was in the District.) Moonlighting and ITT Hartford, on the other hand, ask us to affirm the denial of King\u2019s claim on the grounds that (1) King was not injured on April 11, and (2) medical testimony established that his disability was attributable to a natural progression of his longstanding back ailments that was unrelated to his employment.\nII.\nFor an administrative agency decision to \u201cpass muster\u201d under the District of Columbia Administrative Procedure Act (\u201cDCAPA\u201d), D.C.Code \u00a7\u00a7 1-1501 et seq. (1999),\n(1) the [agency\u2019s] decision must state findings of fact on each material, contested factual issue;\n(2) those findings must be based on substantial evidence; and\n(3) the conclusions of law must flow rationally from the findings.\nWashington Times v. District of Columbia Dep\u2019t of Employment Servs., 724 A.2d 1212, 1216 (D.C.1999) (quoting Perkins v. District of Columbia Dep\u2019t of Employment Servs., 482 A.2d 401, 402 (D.C.1984)).\nGiven the posture in which this case comes to us, we deem it appropriate to reemphasize that \u201c[t]he agency is required to make basic findings of fact on all material issues. Only then can this court determine upon review whether the agency\u2019s findings are supported by substantial evidence and whether those findings lead rationally to its conclusions of law.\u201d Brown v. District of Columbia Dep\u2019t of Employment Servs., 700 A.2d 787, 792 (D.C.1997) (citations omitted). \u201cIf the agency \u2018fails to make a finding on a material, contested issue of fact, this court cannot fill the gap by making its own determination from the record, but must remand the case for findings on that issue.\u2019 \u201d Mack v. District of Columbia Dep\u2019t of Employment Servs., 651 A.2d 804, 806 (D.C.1994) (quoting Colton v. District of Columbia Dep\u2019t of Employment Servs., 484 A.2d 550, 552 (D.C.1984)).\nWhere, as in this case, \u201cquestions of law are concerned, this court reviews the agency\u2019s rulings de novo....\u201d Washington Metro. Area Transit Auth. v. District of Columbia Dep\u2019t of Employment Servs., 683 A.2d 470, 472 (D.C.1996). To be sure, \u201c[a]n agency\u2019s interpretation of its own regulations or of the statute which it administers is generally entitled to great deference from this court. There is, however, a well-recognized exception to this rule. When the agency\u2019s decision is inconsistent with the applicable statute ... we owe it far less deference, if indeed we owe it any deference at all.\u201d Columbia Realty Venture v. District of Columbia Rental Hous. Comm\u2019n, 590 A.2d 1043, 1046 (D.C.1991) (citations omitted). \u201c[I]f the agency\u2019s decision is based upon a material misconception of the law, this court will reject it.\u201d Jerome Management, Inc. v. District of Columbia Rental Hous. Comm\u2019n, 682 A.2d 178, 182 (D.C.1996).\nNonetheless, where the meaning of a statute is unclear, we will \u201caccord considerable weight to its construction by the agency responsible for administering\u201d it. Harris v. District of Columbia Office of Worker\u2019s Compensation, 660 A.2d 404, 407 (D.C.1995). \u201c[O]rdinarily,\u201d therefore, \u201cthis court will not attempt to interpret the agency\u2019s statute until the agency itself has done so.\u201d Wahlne v. District of Columbia Dep\u2019t of Employment Servs., 704 A.2d 1196, 1199 (D.C.1997). Instead, we will remand to permit the agency to engage in the necessary analysis of the legislation it is charged with carrying out. See id.; see also Proctor v. District of Columbia Dep\u2019t of Employment Servs., 737 A.2d 534, 539, 541 (D.C.1999); Mushroom Transp. v. District of Columbia Dep\u2019t of Employment Servs., 698 A.2d 430, 434 (D.C.1997). In particular, a dispute over the coverage of the law \u2014 such as we have in the case now before us \u2014 \u201cis quintessential^ a decision for the [agency] to make in the first instance, involving, as it does, a situation where an agency is delegated broad authority to administer a statutory scheme.\u201d Taggart-Wilson v. District of Columbia, 675 A.2d 28, 29 (D.C.1996).\nWith these principles of appellate review in mind, we turn to the issues raised by the present petition for review.\nIII.\nWhen the Council originally enacted the District of Columbia Workers\u2019 Compensation Act of 1979, it provided in D.C.Code \u00a7 36-303 that an injured worker could recover benefits under the WCA only if the employment was \u201cprincipally localized in the District\u201d at the time the injury occurred, regardless of where the injury occurred. See supra note 3. This meant that employees who were injured on the job in the District of Columbia could not recover under D.C. law if their employment was principally localized outside the District when they sustained their injuries. See Hughes, 498 A.2d at 569-70 (Council made a deliberate choice in the 1979 Act in favor of narrowing workers\u2019 compensation coverage).\nIn 1991, the Council amended \u00a7 36-303 to broaden the coverage of the WCA so as to protect all employees who are injured on the job in the District, regardless of the principal locus of their employment. As explained in the legislative history of the amendment:\nThis section is amended to change the focus of entitlement of an injured worker to compensation, for an injury or death from the location where the employee\u2019s employment is \u201cprincipally localized\u201d to the location where the injury or death occurred. Forty-nine of fifty jurisdictions use a situs rule.... Thus, the recommended change states that the injury or death of an employee that occurs in the District while the employee is performing work is covered by the laws governing workers\u2019 compensation in the District.\nCOUNCIL OF THE DISTRICT OF COLUMBIA, REPORT on the District of Columbia Woricers\u2019 Compensation Equity Amendment Act of 1990, at 14-15 (1990). Subsection (a)(1) of the amended statute accomplishes the intended change by omitting the \u201cprincipally localized\u201d requirement for \u201c[t]he injury or death of an employee that occurs in the District of Columbia if the employee performed work for the employer, at the time of the injury or death, while in the District of Columbia.\u201d In contrast, for \u201c[t]he injury or death of an employee that occurs outside the District of Columbia,\u201d subsection (a)(2) preserves the pre-1991 statutory rule that there is coverage only \u201cif, at the time of the injury or death, the employment is localized principally i\u00f1 the District of Columbia.\u201d See supra note 2. Under either subsection, it is necessary to ascertain the \u201ctime of injury\u201d in order to determine if there is coverage under the Act.\nOn a literal reading, the hearing examiner\u2019s and Director\u2019s decisions conclude that because there was no \u201cdefinitive date of injury,\u201d coverage of King\u2019s claim was governed by a statute no longer in effect, ie., \u00a7 36-303 as it existed prior to the 1991 amendments. On the record of this case, that approach to the question of coverage of the WCA was plainly wrong. Neither the hearing examiner nor the Director explained why indefiniteness of the date of injury required them to evaluate King\u2019s claim under prior rather than current law, and \u2014 absent any finding that King knew or should have known prior to 1991 that he had a claim for an employment-related injury \u2014 we perceive no reason why it should. Nor, indeed, did resort to the pre-1991 law in lieu of current law obviate the need to fix a time of injury in order to determine coverage. By its express terms the former \u00a7 36-303(a) tied coverage to the principal locus of employment \u201cat the time of ... injury,\u201d see supra note 3, much as the current statute focuses on the time of injury.\nThe references to pre-1991 law in the agency decisions in this case may be misleading. The hearing examiner and the Director may have meant that where the injury is attributable to repeated work-related trauma occurring both inside and outside the District of Columbia over an extended period, the time (and hence also the place) of the injury is indefinite, and therefore subsection (a)(2) of current D.C.Code \u00a7 36-303 (which retains the \u201cprincipally localized\u201d requirement of prior law) governs the coverage question rather than subsection (a)(1). If so, that rationale overlooks the fact that under D.C.Code \u00a7 36-303(a), the question of coverage cannot be resolved without first determining the time (and place) of injury. It is necessary to make that determination in order to decide whether subsection (a)(1) or subsection (a)(2) governs coverage. (Moreover, if subsection (a)(2) governs coverage, it is also necessary to determine the time of injury for purposes of applying the \u201cprincipally localized\u201d test.) To say that the time of a cumulative trauma injury is \u201cindefinite\u201d does not automatically settle which subsection of \u00a7 36-303(a) governs coverage for such an injury where the employee suffered some of the trauma, and became disabled, while working in the District. Without having a rule for fixing the time of injury in such a case, we see no reason \u2014 and the hearing examiner and the Director offered none \u2014 why subsection (a)(2) rather than (a)(1) would necessarily apply to such a case.\nThus, we conclude that to determine whether King\u2019s back injury was covered by the WCA, the hearing examiner was required to make findings as to the time (and, consequently, the place) and manner of that injury. This was a mixed question of law and fact, implicating as it does the etiology of King\u2019s injury and the construction to be given the phrase \u201ctime of the injury\u201d as it appears in \u00a7 36-308. As we explain below, on the record of this case, it was incumbent upon the hearing examiner (and the Director) to decide the matter as follows. Initially, the examiner should have determined (which he did not) whether King sustained a discrete work-related injury on April 11, 1994 (the date he stopped working) that aggravated a pre-existing back condition and thereby disabled him. If so, then there is no uncertainty about the time or place of injury, and, under settled law, King\u2019s claim was covered under subsection (a)(1) of \u00a7 36-303. If, however, King did not sustain an aggravating injury on April 11, it was necessary for the hearing examiner to determine explicitly (which he did not do) whether King\u2019s back injury resulted from cumulative, work-related trauma, either alone or as a substantial contributing cause. If so, then King\u2019s claim was potentially covered because cumulative traumat-. ic injuries are compensable under the WCA. In that event, to determine whether King\u2019s claim was in fact covered, the hearing examiner would have had to construe \u00a7 36-303(a) and articulate the rule for determining time of injury in a cumulative trauma case. Once the examiner answered that question, he would have had to apply the rule to the facts of this case to determine when (and where) King was injured and whether subsection (a)(1) or (a)(2) of \u00a7 36-303 governs coverage.\nAggravation and Cumulative Trauma Injuries\n\u201cInjury\u201d is defined in the WCA to mean \u201caccidental injury or death arising out of and in the course of employment, and such occupational disease or infection as arises naturally out of such employment or as naturally or unavoidably results from such accidental injury, and includes an injury caused by the willful act of third persons directed against an employee because of his employment.\u201d D.C.Code \u00a7 36-301(12). It is well settled that \u201c \u2018an aggravation of a preexisting condition may constitute a compensable accidental injury under the Act.\u2019 \u201d Ferreira, 531 A.2d at 660 (quoting Wheatley, 132 U.S.App. D.C. at 182, 407 F.2d at 312). \u201cThe fact that other, nonemployment related factors may also have contributed to, or additionally aggravated [claimant\u2019s] malady, does not affect his right to compensation under the \u2018aggravation rule.\u2019 \u201d Hensley v. Washington Metro. Area Transit Auth., 210 U.S.App. D .C. 151, 155, 655 F.2d 264, 268 (1981), cert. denied, 456 U.S. 904, 102 S.Ct. 1749, 72 L.Ed.2d 160 (1982). \u2018\u201c[T]he cases almost invariably decide that the fact that the injury would not have resulted but for the pre-existing disease, or might just as well have been caused by a similar strain at home or at recreation, are both immaterial.\u2019 \u201d Id. (quoting Wheatley, 132 U.S.App. D.C. at 182 n. 11, 407 F.2d at 312 n. 11). The aggravation rule is embodied in D.C.Code \u00a7 36-308(6)(A), which provides that \u201c[i]f an employee receives an injury, which combined with a previous occupational or nonoccupational disability or physical impairment causes substantially greater disability or death, the liability of the employer shall be as if the subsequent injury alone caused the subsequent amount of disability ... \u201d; see also Washington Metro. Area Transit Auth. v. District of Columbia Dep\u2019t of Employment Servs., 704 A.2d 295, 297-99 (D.C.1997) (discussing the policies underlying \u00a7 36-308(6)); Daniel v. District of Columbia Dep\u2019t of Employment Servs., 673 A.2d 205, 207-08 (D.C.1996).\nThe difference between the typical case of a discrete accident causing an injury (including an aggravating injury) and a cumulative trauma case is merely that in the latter case it is not possible to identify a discrete event occurring at a particular date and time that causes (or aggravates) the injury. Instead, the cumulative traumatic injury becomes manifest only after the body\u2019s repeated exposure to individually minor traumas, insults, or harmful employment-related conditions. As with aggravating injury, it is settled that injury resulting from cumulative trauma in the workplace is compensa-ble under the WCA. See Ferreira, 531 A.2d at 656-57; Hamilton v. Giant Foods, Inc., H & AS No. 92-632A, OWC No. 228493, at 6 (February 28, 1994); Hensley, 210 U.S.App. D.C. at 157, 655 F.2d at 270; Hoage v. Royal Indem. Co., 67 U.S.App. D.C. 142, 145, 90 F.2d 387, 390 (1937), cert. denied, 302 U.S. 736, 58 S.Ct. 122, 82 L.Ed. 569 (1937).\nIf King did suffer a discrete accident while at work on April 11, 1994, which injured and disabled him by aggravating his preexisting back condition, then he was entitled to coverage under the WCA. For in that event his compensable injury occurred in the District while he was performing work there for his employer in the District \u2014 thereby bringing his injury within the scope of subsection (a)(1) of D.C.Code \u00a7 36-303. This is so even if the accident aggravated a preexisting condition that was caused by repeated on-the-job trauma. See D.C.Code \u00a7 36-308(6)(A). Alternatively, if King\u2019s back gave out on April 11, 1994, not because of a distinct, identifiable accident on that date, but rather as the culmination of cumulative trauma to which his employment had exposed him over an extended duration, then his injury was potentially com-pensable under the WCA. In that case, on the present record, compensability would turn on when (and therefore where) King\u2019s injury is deemed to have occurred (a question we address below).\nThe record evidence regarding what happened to King is sparse. Nonetheless, we think that King\u2019s testimony describing his back problems and his increased pain while working in the District on April 11, combined with the examiner\u2019s findings regarding the routine physical exertion involved in King\u2019s job, was sufficient to trigger the rebuttable presumption of coverage provided by D.C.Code \u00a7 36-321(1), based either on the premise of an aggravating injury at that time and place, or on the premise of cumulative work-related trauma culminating in disabling injury at that point. See supra note 1. To invoke the presumption, a claimant need only present some evidence of (1) a death or disability and (2) a work-related event which has the potential to result in or contribute to the death or disability. See Ferreira, 531 A.2d at 655. Since King was performing work-related duties when his pain became disabling, he was entitled to the benefit of the presumption, \u201cwhich operates to establish a causal connection between the disability and the work-related event, activity, or requirement.\u201d Id.\nOnce the presumption is triggered, the burden shifts to the employer to produce substantial evidence that the disability did not arise out of and in the course of the employment. See Brown, 700 A.2d at 791. \u201c[D]oubts as to whether the injury arose out of the employment are resolved in the claimant\u2019s favor.\u201d Baker v. District of Columbia Dep\u2019t of Employment Servs., 611 A.2d 548, 550 (D.C.1992).\nRelying on testimony from one of King\u2019s physicians, intervenors argue that King did not suffer an aggravating injury on April 11 and did not sustain cumulative work-related trauma. Intervenors contend that King\u2019s injury was not work-related, but rather was the product of a natural degeneration of a back condition attributable to a previous, non-work-related injury. The hearing examiner did not resolve this dispute. He did not make any findings, from the medical testimony or otherwise, regarding the medical nature of King\u2019s back condition or the work-relatedness of King\u2019s disability. He did not determine whether the medical evidence regarding the source of King\u2019s disability was substantial enough to rebut the statutory presumption of coverage. He did not determine whether King suffered a discrete, aggravating injury on April 11, 1994, while at work in the District. Although the examiner assumed that King attributed his disability to a cumulative trauma, he did not determine for a fact whether King actually sustained such trauma from his job. The Director likewise did not make these determinations in reviewing the examiner\u2019s decision.\nThese fact-intensive determinations, essential to resolving the coverage question in this case, turn in large measure on the evaluation of the medical testimony and evidence. We do not have the authority to examine this evidence and make our own conclusions. See Mack, 651 A.2d at 806. That factual inquiry is the responsibility of the hearing examiner. We must remand to the agency to make findings on these issues.\nCumulative Trauma and Time of Injury\nIf on remand the examiner finds that King did not suffer an aggravating injury on April 11, 1994, but that he did become disabled on that date as the result of cumulative work-related trauma, then coverage depends on the rule that is selected for fixing the time of injury in such a case for purposes of D.C.Code \u00a7 36-303(a). We recognize that a specific time of injury may be difficult to pinpoint for a cumulative trauma injury; however, given the statutory language, it is necessary to develop a consistent approach to that issue.\nIn this and other jurisdictions, courts and agencies have confronted the issue of specifying the time of injury in various contexts. Different rules have been proposed and adopted, with the choice depending in large part on the policies to be served and the costs and benefits attendant on each alternative \u2014 which we consider a strong reason in favor of directing the agency to grapple with the matter and to articulate a rule in the first instance.\nAccording to Professor Larson,\nThe practical problem of fixing a specific date for the accident has generally been handled by saying simply that the date of accident is the date on which disability manifests itself. Thus, in the Ptak[] case, the date of a gradually acquired sacroiliac strain was deemed to be the first moment the pain made it impossible to continue work, and in the Di Maria[] case, the date of accident for gradual loss of use of the hands was held to be the date on which this development finally prevented claimant from performing his work. However, for certain purposes the date of accident may be identified with the onset of pain occasioning medical attention, although the effect of the pain may have been merely to cause difficulty in working and not complete inability to work.\nA. LaRSOn, 3 Laeson\u2019s Workers\u2019 Compensation Law, \u00a7 50.05, at 50-9-10 (1999) (footnotes omitted). King argues that the time of injury in a cumulative trauma case should be fixed in accordance with the so-called \u201cmanifestation rule.\u201d There is case support for King\u2019s argument in this jurisdiction, though the precise question presented in this case has not been settled. Moreover, as the quoted passage reveals, there is no single \u201cmanifestation\u201d rule; rather, there are several variant rules.\nThe Department of Employment Services utilized a manifestation rule in at least one cumulative traumatic injury case prior to the 1991 amendment of D.C.Code \u00a7 36-303. In Franklin v. Blake Realty Co., H & AS No. 84-26, OWC No. 25856 (August 18, 1985), the claimant had sustained a cumulative traumatic injury to her shoulder and arm during June 1983, but that injury did not manifest itself in debilitating pain and discomfort until some time in July 1983. The employer had changed insurance carriers at the end of June, and so one of the issues in the case was which carrier was liable on the claim. That dispute turned on whether the date of injury was considered to be before or after the employer switched carriers. For this purpose the Director \u201cconclude[d] that the date of injury for a cumulative traumatic injury is the date on which the injury manifests itself. The date on which the injury manifests itself is (1) the date on which employee first sought medical attention for his painful symptoms, whether or not he ceased work or (2) the date of disability, whichever first occurred.\u201d Id. at 4.\nA few years later, in a case involving an occupational disease (hearing loss) caused by long-term exposure to noisy machinery, this court held that where the exposure occurred before the effective date of the WCA, but the employee did not become aware of the injury and its job-relatedness until after that date, the injury is presumptively covered by the WCA rather than by the Longshore and Harbor Workers\u2019 Compensation Act (\u201cLHWCA\u201d). Ra ilco Multi-Construction Co. v. Gardner, 564 A.2d 1167, 1168 (D.C.1989). Thus, the court adopted a rule that the time of injury is normally deemed to be when the employee is first aware of the injury and its relationship to the employment. In its focus on the extent of the employee\u2019s awareness, this is a different \u201cmanifestation\u201d rule from the rule that the Director announced in Franklin (which did not concern itself with the employee\u2019s state of mind). Our opinion in Railco cited Franklin as having previously adopted the manifestation rule for cumulative traumatic injury, without, however, remarking on the difference in the content of the Franklin rule. Railco, 564 A.2d at 1174 n. 21.\nThe Railco court adopted its version of a manifestation rule with a significant qualification. The court realized that (former) D.C.Code \u00a7 36-808 limited the jurisdiction of the WCA to cases in which, at the time of the injury, the employment was principally located in the District of Columbia. Some workers whose injuries did not become manifest until after the WCA took effect might be deprived of coverage entirely if the principal locus of their employment was outside the District at that time. To avoid a total loss of coverage, the court held that in such cases, if coverage would also be unavailable under any other state statute, the LHWCA would continue to apply. Railco, 564 A.2d at 1176.\nAlthough Franklin and Railco adopted a manifestation rule in one form or another for the purposes of choosing between two insurers or two statutory schemes, we do not think they definitively resolve the question presented in this case of how to fix the time of a cumulative traumatic injury for purposes of determining under D .C.Code \u00a7 36-303(a) whether the injury occurred in the District or outside the District. Neither Franklin nor Railco addressed that specific question. Both cases preceded the 1991 amendment of \u00a7 36-303(a), and hence did not purport to construe the precise statutory language now before us. Moreover, the court did not explain in Railco why its formulation of the manifestation rule differed from the agency\u2019s formulation in Franklin. Indeed, the court took no notice of the difference. For these reasons alone we would hesitate to treat Franklin or Railco as having decided the time of injury issue that is presented in the case now before us. Moreover, the issue addressed in Railco was a narrow one. Railco answered the specific question of which statute should apply where the claimant was last exposed to the harm that caused his occupational disease prior to the effective date of a new statute but the disease was not manifest until after that statute went into effect. In choosing a manifestation rule to answer that question, the court did not necessarily consider all the implications of such a rule in other factual contexts. We are not convinced, for example, that Railco necessarily would foreclose coverage under the WCA where the disease was manifest pri- or to the effective date of that Act but the last exposure occurred after that date. D.C.Code \u00a7 36-310 specifically provides that in the case of occupational diseases, \u201cliability for compensation rests with the employer of the last known exposure.\u201d This statutory provision would seem to imply that where the last exposure to a harmful working condition occurred after the effective date of the Act, the occupational disease should be covered by the Act even if that disease began manifesting itself before the Act took effect.\nThis latter possibility, which is not addressed in Railco, illustrates why it is appropriate that we not read the holding of that case too broadly. In cases such as Railco, involving a long period of latency between exposure to harmful working conditions and the manifestation of the resulting disease or injury, a manifestation rule serves the beneficent purposes of the WCA. See Railco, 564 A.2d at 1172-78 (quoting, inter alia, Judge Learned Hand\u2019s observation in Grain Handling Co. v. Sweeney, 102 F.2d 464, 466 (2d Cir.), cert. denied, 308 U.S. 570, 60 S.Ct. 83, 84 L.Ed. 478 (1939), that the LHWCA \u201cis not concerned with pathology, but with industrial disability; and a disease is no disease until it manifests itself.\u201d). But it is arguable that in other cases, such as where a cumulative traumatic injury becomes manifest long before it becomes totally disabling, and the employee continues to work in the interim, alternatives to the manifestation rule would better fulfill the goals of the WCA.\nThe potential drawbacks to a manifestation rule in such cases have persuaded courts in some other jurisdictions to adopt alternative rules for specifying the time of injury in cumulative trauma cases. The most common alternatives are the \u201clast exposure\u201d rule and the \u201clast day worked\u201d rule. See, e.g., Lawson v. Lear Seating Corp., 944 S.W.2d 340, 342 (Tenn.1997); Berry v. Boeing Military Airplanes, 20 Kan.App.2d 220, 885 P.2d 1261, 1267-68 (1994); McKeever Custom Cabinets and Lumberman\u2019s Mut. Cas. Co. v. Smith, 379 N.W.2d 368, 374-75 (Iowa 1985); Fidelity Mut. Life Ins. Co. v. Workmen\u2019s Compensation Appeal Bd., 126 Pa.Cmwlth. 188, 559 A.2d 84 (1989); Larson\u2019s WoRKers\u2019 Compensation, \u00a7 50.05, at 50-9-10. These cases fix the time of injury on the date when the employee is last exposed to the trauma or is last able to work. For instance, the courts in Lawson and Berry adopted a \u201clast day of work\u201d rule fixing the date of injury in cases of carpal tunnel syndrome caused by repetitive stress over a long period of time. Those courts reasoned as follows:\n[I]f we were to adopt either the date on which the injury \u201cmanifests itself\u2019 or the date on which the injury is \u201cdiagnosed,\u201d we would set a potential trap for the individual who, despite pain and discomfort, continues to work long after his or her carpal tunnel is \u201cdiagnosed\u201d or has \u201cmanifested itself.\u201d ... It seems to us that we should adopt the rule that causes the least potential prejudice and upholds the spirit of our Workers Compensation Act. We believe use of the last day of work accomplishes both of those purposes.\nLawson, 944 S.W.2d at 342 (quoting Berry, 885 P.2d at 1267-68). See also Oscar Mayer & Co. v. Industrial Comm\u2019n, 176 Ill.App.3d 607, 126 Ill.Dec. 41, 531 N.E.2d 174, 176 (1988) (\u201cBy their very nature, repetitive-trauma injuries may take years to develop to a point of severity precluding the employee from performing in the workplace. An employee who discovers the onset of symptoms and their relationship to the employment, but continues to work faithfully for a number of years without significant medical complications or lost working time, may well be prejudiced if the actual breakdown of the physical structure occurs beyond the period of limitation set by statute.\u201d).\nAdoption of a manifestation rule may have other drawbacks that might be weighed against its undoubted benefits. The rule that this court approved in Railco requires an evidentiary inquiry to determine when the employee first knew (or perhaps should have known \u2014 a point not clearly addressed in Railco) of the work-relatedness of her injury. For example, on remand in this case, if the hearing examiner finds that King sustained a work-related, cumulative traumatic injury to his back, adoption of a Railco manifestation rule will require the examiner to determine when King first knew (or should have known) that his job was causing him back pain. The need to pursue such a potentially time consuming and difficult factual inquiry might well be thought a disadvantage of the manifestation rule.\nWe make no judgment about the wisdom of adopting any particular time of injury rule with respect to the issue in this case. The choice of rule implicates many considerations bearing on the implementation of the WCA. The agency charged with administering the Act should make that choice in the first instance, after carefully analyzing the precedents discussed above \u2014 which, in this jurisdiction, plainly support, if they do not compel, adoption of some version of a manifestation rule \u2014 and the language, structure and purpose of the statute. See Mushroom Transp., 698 A.2d at 433.\nIV.\nOn remand, the Department of Employment Services should make the necessary findings of fact and conclusions of law consistent with the foregoing discussion. To summarize, the agency might approach its analysis through consideration of the following questions (though the agency is not confined to or bound by this framework):\n(1) Did King sustain a discrete injury on April 11,1994, which aggravated his preexisting condition?\n(2) If King did not sustain a discrete injury on April 11, 1994, did King\u2019s disability result from cumulative or gradual trauma related to his work?\n(3) In a case of a cumulative injury, how is the time of injury determined for purposes of D.C.Code \u00a7 36-303(a)? In other words, what rule should the agency and courts follow in finding a time of injury?\n(4) What was the time of injury in King\u2019s case? For example, if the time of injury was when King first became aware that his back pain was related to his job, when did that happen?\n(5) Based on the time of injury, where did King\u2019s injury occur? Is coverage determined under subsection (a)(1) of D.C.Code \u00a7 36-303 (because the injury occurred in the District of Columbia) or under subsection (a)(2) (because the injury occurred outside the District)?\n(6) If coverage is determined under subsection (a)(2), where was King\u2019s employment principally localized at the time of injury? As to this last question, we note that King has not challenged the examiner\u2019s application of the three-part Hughes test to the facts of his employment, except for the examiner\u2019s failure to determine the principal locus of his employment specifically with respect to the time of injury.\nWe leave it to the agency\u2019s discretion whether further testimony or evidence is necessary to enable it to address these questions.\nThe decisions of the Director and the hearing examiner are hereby reversed, and the case is remanded for further proceedings not inconsistent with this opinion.\n. Section 36-321(1) provides, in pertinent part, as follows: \"In any proceeding for the enforcement of a claim for compensation under this chapter it shall be presumed, in the absence of evidence to the contrary: (1) That the claim comes within the provisions of this chapter....\u201d This statutory presumption is \"designed to effectuate the humanitarian purposes of the statute\u201d and \"reflects a 'strong legislative policy favoring awards in arguable cases.\u2019 \u201d Ferreira v. District of Columbia Dep't of Employment Servs., 531 A.2d 651, 655 (D.C.1987) (quoting Wheatley v. Adler, 132 U.S.App. D.C. 177, 183, 407 F.2d 307, 313 (1968) (en banc)).\n. As amended effective March 6, 1991, D.C.Code \u00a7 36-303(8.) provides for coverage in pertinent part as follows:\n(a) Except as provided in subsections (a-1)through (a-3) of this section, this chapter shall apply to:\n(1) The injury or death of an employee that occurs in the District of Columbia if the employee performed work for the employer, at the time of the injury or death, while in the District of Columbia; and\n(2) The injury or death of an employee that occurs outside the District of Columbia if, at the time of the injury or death, the employment is localized principally in the District of Columbia.\n. Prior to March 6, 1991, D.C.Code \u00a7 36-303(a) read, in pertinent part, as follows:\nThis chapter shall apply in respect to the injury or death of an employee of an employer, as defined in paragraphs (9) and (10) of \u00a7 36-301, irrespective of the place where the injury or death occurs provided that at the time of such injuiy or death this employment is principally localized in the District of Columbia ....\n. In Hughes v. Washington Metro. Area Transit Auth., H & AS No. 83-60, OWC No. 7116 (March 6, 1984), aff'd sub nom. Hughes v. District of Columbia Dep\u2019t of Employment Servs., 498 A.2d 567 (D.C.1985), the Director of the Department of Employment Services articulated the following test for determining where a claimant\u2019s employment is \"principally localized\u201d:\n1) The place(s) of the employer's business office(s) or facilityfies) at which or from which the employee performs the principal service(s) for which he was hired; or\n2) If there is no such office or facility at which the employee works, the employee's residence, the place where the contract is made and the place of performance; or\n3) If neither (1) nor (2) is applicable, the employee\u2019s base of operations.\nId. at 569.\n. The opinion of the hearing examiner stated, \"In that there is no definitive date of injury which would bring this matter within the ambit of the amended Act, the jurisdictional question herein is resolved pursuant to the pre-March 6, 1991 law.\u201d The Director\u2019s opinion stated that \"the Hearing Examiner was correct in utilizing pre-existing legislation. ...\u201d\n. Before the agency and in his brief to this court, King asserted that he sustained an aggravating injury on April 11. At oral argument before this court, his counsel seemingly withdrew that claim in favor of arguing that a cumulative, work-related back injury manifested itself to King on that date. As explained supra, the hearing examiner made no findings on either assertion.\n. It is useful to distinguish between the terms \"accident\u201d and \"injury.\u201d The D.C. Circuit has described the difference in this way: \" \u2018Accident\u2019 refers to the event causing the harm, \u2018injury\u2019 to the harmful physical (in some instances, psychological) consequences of that event which need not occur or become obvious simultaneously with the event.\u201d Stancil v. Massey, 141 U.S.App. D.C. 120, 122, 436 F.2d 274, 276 (1970). Thus, the \"time of injury\u201d is not necessarily the date on which a particular accident occurred.\n. Cf. Currie v. Washington Hosp. Ctr., H & AS No. 93-441, OWC No. 246754 (June 12, 1995). In that case, the hearing examiner found that the claimant's employment as a nurse required her to \"reach, push, pull, bend, and lift weights in excess of twenty-five pounds (25 lbs.).\u201d The claimant suffered one work-related injury to her back, recovered from that injury, but \"intermittently complained of low back pain as a result of her employment duties _\u201d Id. Those complaints \"increased in severity\u201d and required her to return to her doctor, who determined that she was suffering from \u201cdegenerative arthritic changes of her low back and degenerative disc disease\u201d among other problems. Id. Those symptoms abated, but another work incident in January 1993 caused her significant back pain, and the hearing examiner found that \"claimant sustained an aggravation of her pre-existing degenerative disc disease\u201d which \"disabled her from performing in her usual employment.\u201d Id. at 3-4. The hearing examiner concluded that the January 1993 \"aggravation is an injury for purposes of the Act .... \u201d Id. at 7.\n. Ptak v. General Electric Co., 13 N.J.Super. 294, 80 A.2d 337, aff'd, 16 N.J.Super. 573, 85 A.2d 214 (1951).\n. Di Maria v. Curtiss Wright Corp., 23 N.J. Misc. 374, 44 A.2d 688 (1945), rev\u2019d on other grounds, 134 N.J.L. 524, 49 A.2d 243 (1946), aff'd, 135 N.J.L. 470, 52 A.2d 698 (1947).\n. The \"time of injury\u201d question is similar to the question of when the time begins to run for an injured employee to give notice or file a claim. The WCA addresses this latter question by explicitly adopting a \"discovery\u201d rule in D.C.Code \u00a7\u00a7 36-313 and -314. Those sections provide that the time for giving notice or filing a claim does not begin to run until the employee is aware, or by the exercise of reasonable diligence should have been aware, of a relationship between the injury and the employment. This discovery rule is a form of \"manifestation\" rule. This court has addressed the operation of the discovery rule under \u00a7\u00a7 36-313 and -314 in cases involving cumulative trauma injuries, see Jimenez v. District of Columbia Dep\u2019t of Employment Servs., 701 A.2d 837 (D.C.1997), and KOH Sys. v. District of Columbia Dep\u2019t of Employment Servs., 683 A.2d 446 (D.C.1996). We did not reach the separate question implicit in those cases of the time of injury itself.\n. The Director emphasized that the manifestation rule that he adopted was a variant of the rule, used in most jurisdictions, fixing the date of injury solely as the date on which the disability manifests itself:\n\"[T]he fact that the employee continued working after medical attention does not negate the fact of the employee\u2019s injury, whatever the degree of impairment.... In many instances an employee will seek medical attention for a diagnosable injury long before he ceases working. I see no rationale for setting the date of the injury coincidentally with the date of disability when it is apparent to the employee and doctor that the employee has suffered an injury requiring medical attention.\u201d\nFranklin, supra, at 4 & n. 2.\n. Prior to the effective date in July 1982 of the 1979 WCA, the Longshore and Harbor Workers\u2019 Compensation Act, 33 U.S.C. \u00a7\u00a7 901 et seq. (1982), furnished the statutory scheme of workers' compensation for private sector employees in the District of Columbia. See Railco, 564 A.2d at 1168 n. 4, 1170-71.",
+        "type": "majority",
+        "author": "GLICKMAN, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Benjamin T. Boscolo, Greenbelt, MD, for petitioner.",
+      "William R. Korth for intervenors.",
+      "Jo Anne Robinson, Principal Deputy Corporation Counsel, and Charles L. Reis-chel, Deputy Corporation Counsel, filed a statement in lieu of brief for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Michael T. KING, Petitioner, v. DISTRICT OF COLUMBIA DEPARTMENT OF EMPLOYMENT SERVICES, Respondent. Moonlighting Electric Co., and ITT Hartford Insurance Co., Intervenors.\nNo. 98-AA-705.\nDistrict of Columbia Court of Appeals.\nArgued Sept. 16, 1999.\nDecided Dec. 16, 1999.\nBenjamin T. Boscolo, Greenbelt, MD, for petitioner.\nWilliam R. Korth for intervenors.\nJo Anne Robinson, Principal Deputy Corporation Counsel, and Charles L. Reis-chel, Deputy Corporation Counsel, filed a statement in lieu of brief for respondent.\nBefore TERRY, FARRELL and GLICKMAN, Associate Judges."
+  },
+  "file_name": "0460-01",
+  "first_page_order": 506,
+  "last_page_order": 520
+}

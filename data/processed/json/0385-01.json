@@ -1,0 +1,63 @@
+{
+  "id": 9108637,
+  "name": "COMMONWEALTH ex. rel. Joseph B. SAMPLE v. Robert SHANNON, Superintendent, SCI-Frackville, Appeal of Joseph B. Sample",
+  "name_abbreviation": "Commonwealth ex rel. Sample v. Shannon",
+  "decision_date": "2003-05-21",
+  "docket_number": "",
+  "first_page": "385",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "827 A.2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 285,
+    "ocr_confidence": 0.656,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7599384422041486
+    },
+    "sha256": "4304bdd3bba8941f8f4bdb6b069eaf1c9d929cf9b99796b171cd8dc1838cb8cc",
+    "simhash": "1:66b344033ef8b5d5",
+    "word_count": 44
+  },
+  "last_updated": "2023-07-14T21:38:17.868338+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH ex. rel. Joseph B. SAMPLE v. Robert SHANNON, Superintendent, SCI-Frackville, Appeal of Joseph B. Sample."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of May, 2003, probable jurisdiction is noted and the order appealed is affirmed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH ex. rel. Joseph B. SAMPLE v. Robert SHANNON, Superintendent, SCI-Frackville, Appeal of Joseph B. Sample.\nSupreme Court of Pennsylvania.\nMay 21, 2003."
+  },
+  "file_name": "0385-01",
+  "first_page_order": 423,
+  "last_page_order": 423
+}

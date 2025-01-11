@@ -1,0 +1,82 @@
+{
+  "id": 12491842,
+  "name": "Jeffrey WILLIAMS v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Williams v. Comm'r of Corr.",
+  "decision_date": "2017-12-21",
+  "docket_number": "",
+  "first_page": "563",
+  "last_page": "563",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 563"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 990"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "177 Conn. App. 321",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491845
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/175-2/0565-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 466,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578839538521358
+    },
+    "sha256": "5a14b843f4615f9c7a84dc70a2e8e93159a394ea3f7e2cd4d549f8ea10b526f0",
+    "simhash": "1:3cbb532ebbe1edd6",
+    "word_count": 67
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey WILLIAMS\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Jeffrey Williams' petition for certification to appeal from the Appellate Court, 177 Conn. App. 321, --- A.3d ---- (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey WILLIAMS\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided December 21, 2017\nMichael W. Brown, assigned counsel, in support of the petition.\nTimothy J. Sugrue, assistant state's attorney, in opposition.\nThe petitioner Jeffrey Williams' petition for certification to appeal from the Appellate Court, 177 Conn. App. 321, --- A.3d ---- (2017), is denied.\nMullins, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0563-03",
+  "first_page_order": 563,
+  "last_page_order": 563
+}

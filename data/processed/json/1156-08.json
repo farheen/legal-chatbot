@@ -1,0 +1,59 @@
+{
+  "id": 6082492,
+  "name": "In re American Map Company, Inc.",
+  "name_abbreviation": "In re American Map Co.",
+  "decision_date": "1961-07-07",
+  "docket_number": "No. 6769",
+  "first_page": "1156",
+  "last_page": "1156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1156"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 90,
+    "ocr_confidence": 0.402,
+    "sha256": "f9c782470da7ea888b4f6a4287b1f40777831b553edf905001f7b1af195726c8",
+    "simhash": "1:cb0c44c681c80c6d",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re American Map Company, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Trademark for maps and atlases.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 7, 1961\nIn re American Map Company, Inc.\n(No. 6769)."
+  },
+  "file_name": "1156-08",
+  "first_page_order": 474,
+  "last_page_order": 474
+}

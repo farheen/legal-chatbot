@@ -1,0 +1,58 @@
+{
+  "id": 12486000,
+  "name": "Penn Wilco FCU v. A. McGahee",
+  "name_abbreviation": "Penn Wilco FCU v. McGahee",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 2091 MDA 2014",
+  "first_page": "598",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 121,
+    "sha256": "cef16119ac784c44c08fdd76aa1b3e3b4b126fe8692b3ad110fdaba1411c6487",
+    "simhash": "1:ad85f2ab88abe4e5",
+    "word_count": 19
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Penn Wilco FCU\nv.\nA. McGahee"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Penn Wilco FCU\nv.\nA. McGahee\nNO. 2091 MDA 2014\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0598-15",
+  "first_page_order": 598,
+  "last_page_order": 598
+}

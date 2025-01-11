@@ -1,0 +1,58 @@
+{
+  "id": 12488853,
+  "name": "STATE v. ABEL",
+  "name_abbreviation": "State v. Abel",
+  "decision_date": "2016-10-25",
+  "docket_number": "16\u2013363",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "d748b9791071a9981285a62f316ee1da510ac2e6c85d0ab690c1acb50b4968ce",
+    "simhash": "1:90538f20ccca7241",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nABEL"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nABEL\n16-363\nSupreme Court of Vermont.\nOctober 25, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0469-05",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

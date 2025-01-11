@@ -1,0 +1,58 @@
+{
+  "id": 12486393,
+  "name": "In Re: B.M.W., Minor Child",
+  "name_abbreviation": "In re B.M.W.",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 2560 EDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 103,
+    "sha256": "6bb468a55e7a9ae0a023a475bd0f593eba350fd9743e40ee2aae419650939523",
+    "simhash": "1:f73b7bb780c71caf",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: B.M.W., Minor Child"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: B.M.W., Minor Child\nNO. 2560 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nAffirmed."
+  },
+  "file_name": "0186-13",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

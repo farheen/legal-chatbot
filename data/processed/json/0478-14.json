@@ -1,0 +1,58 @@
+{
+  "id": 12485608,
+  "name": "Commonwealth v. Andre Henry",
+  "name_abbreviation": "Commonwealth v. Henry",
+  "decision_date": "2016-06-28",
+  "docket_number": "NO. 3 EAL 2016",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 226,
+    "sha256": "a504c79e27cae7da7b48b03b8b7d971f7e387c432e54798a9b7233766828ad72",
+    "simhash": "1:9dd6f2ecaaac115c",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAndre Henry"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAndre Henry\nNO. 3 EAL 2016\nSupreme Court of Pennsylvania\nJune 28, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0478-14",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

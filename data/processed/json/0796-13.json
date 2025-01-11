@@ -1,0 +1,58 @@
+{
+  "id": 12487580,
+  "name": "T. Harper v. D. Varner",
+  "name_abbreviation": "Harper v. Varner",
+  "decision_date": "2016-04-28",
+  "docket_number": "NO. 1250 WDA 2015",
+  "first_page": "796",
+  "last_page": "796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 796"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 99,
+    "sha256": "8747da788fcb0ae737be5a0894152a7747a1b8e74517e8eb35a691429f526ce1",
+    "simhash": "1:381c45e390bfae82",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Harper\nv.\nD. Varner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Harper\nv.\nD. Varner\nNO. 1250 WDA 2015\nSuperior Court of Pennsylvania.\nApril 28, 2016\nAffirmed."
+  },
+  "file_name": "0796-13",
+  "first_page_order": 796,
+  "last_page_order": 796
+}

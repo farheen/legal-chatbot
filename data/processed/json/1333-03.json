@@ -1,0 +1,79 @@
+{
+  "id": 7377801,
+  "name": "STATE v. David YARBOROUGH",
+  "name_abbreviation": "State v. Yarborough",
+  "decision_date": "1994-02-03",
+  "docket_number": "No. 93-366-C.A.",
+  "first_page": "1333",
+  "last_page": "1334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 A.2d 1333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "442 A.2d 900",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7973974
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/442/0900-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 154,
+    "char_count": 1577,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1895741798073942
+    },
+    "sha256": "fa4824e8c18b3c4a4c83c92479a4789211cc35470ad7edca49124ea9c3bf8221",
+    "simhash": "1:2497aef710172ca9",
+    "word_count": 259
+  },
+  "last_updated": "2024-02-27T17:56:39.653482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. David YARBOROUGH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before the court for oral argument January 27, 1994, pursuant to an order that had directed both parties to appear and show cause why the issues raised in this appeal should not be summarily decided.\nAfter hearing the arguments of counsel and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown.\nThe ruling of the trial justice admitting into evidence documentary records from the telephone company concerning certain calls made by the defendant constituted an abuse of discretion in light of the fact that such evidence had not been disclosed pursuant to requests made in accordance with Rule 16 of the Superior Court Rules of Criminal Procedure. Indeed, this evidence was not disclosed to counsel for the defendant until the jury was about to be impaneled. Even though this failure to disclose was not deliberate, we believe that allowing the state to present this evidence virtually without warning placed the defense at a significant disadvantage which could not be cured by a continuance within the period of the trial. See State v. Darcy, 442 A.2d 900 (R.I.1982). We further believe that this evidence was highly prejudicial to the defendant.\nConsequently the defendant\u2019s appeal is hereby sustained. The judgment of conviction is vacated. The papers in the ease may be remanded to the Superior Court with directions to grant the defendant a new trial.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Jeffrey Pine, Lauren Zurier, Aaron Weis-man.",
+      "Lauren D. Wilkens."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. David YARBOROUGH.\nNo. 93-366-C.A.\nSupreme Court of Rhode Island.\nFeb. 3, 1994.\nJeffrey Pine, Lauren Zurier, Aaron Weis-man.\nLauren D. Wilkens."
+  },
+  "file_name": "1333-03",
+  "first_page_order": 1407,
+  "last_page_order": 1408
+}

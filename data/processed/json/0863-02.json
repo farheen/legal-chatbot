@@ -1,0 +1,688 @@
+{
+  "id": 11333913,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Clifford SMITH, Appellant",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "1994-11-22",
+  "docket_number": "",
+  "first_page": "863",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "650 A.2d 863"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "90 L.Ed.2d 349",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 S.Ct. 1804",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "475 U.S. 1150",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6447736,
+        6447961,
+        6447853,
+        6447631
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/1150-02",
+        "/us/475/1150-04",
+        "/us/475/1150-03",
+        "/us/475/1150-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 425",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794001,
+        1793996
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0425-02",
+        "/pa/508/0425-01"
+      ]
+    },
+    {
+      "cite": "117 L.Ed.2d 432",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 1191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "525 Pa. 512",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823722
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0512-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 34",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822772
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "39"
+        },
+        {
+          "page": "1237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0034-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 175",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 215",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "498 U.S. 881",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6443882
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0881-01"
+      ]
+    },
+    {
+      "cite": "521 Pa. 188",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1817450
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/521/0188-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798703
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0001-01"
+      ]
+    },
+    {
+      "cite": "86 L.Ed.2d 231",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 2633",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "472 U.S. 320",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1985,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 L.Ed.2d 635",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1500",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "494 U.S. 1038",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5146,
+        5220,
+        4804,
+        5221,
+        5222,
+        5007,
+        5012,
+        5461,
+        4884,
+        4762,
+        5021,
+        5023
+      ],
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/494/1038-09",
+        "/us/494/1038-10",
+        "/us/494/1038-11",
+        "/us/494/1038-06",
+        "/us/494/1038-02",
+        "/us/494/1038-05",
+        "/us/494/1038-07",
+        "/us/494/1038-03",
+        "/us/494/1038-01",
+        "/us/494/1038-08",
+        "/us/494/1038-12",
+        "/us/494/1038-04"
+      ]
+    },
+    {
+      "cite": "520 Pa. 338",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815634
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "31"
+        },
+        {
+          "page": "347-48"
+        },
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0338-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217594
+      ],
+      "weight": 6,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "384"
+        },
+        {
+          "page": "1870"
+        },
+        {
+          "page": "400"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0367-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794009
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "390"
+        },
+        {
+          "page": "815"
+        },
+        {
+          "page": "390"
+        },
+        {
+          "page": "815"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0382-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 1072",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 1169",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0
+    },
+    {
+      "cite": "493 U.S. 1093",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11495046,
+        11495080,
+        11495018,
+        11495116,
+        11494999,
+        11494973
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/1093-04",
+        "/us/493/1093-05",
+        "/us/493/1093-03",
+        "/us/493/1093-06",
+        "/us/493/1093-02",
+        "/us/493/1093-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 236",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813556
+      ],
+      "weight": 4,
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0236-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12787
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0079-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed.2d 1010",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 962",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "479 U.S. 1070",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6547976,
+        6548013,
+        6548080,
+        6548116,
+        6548054,
+        6548185
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/1070-01",
+        "/us/479/1070-02",
+        "/us/479/1070-04",
+        "/us/479/1070-05",
+        "/us/479/1070-03",
+        "/us/479/1070-06"
+      ]
+    },
+    {
+      "cite": "511 Pa. 299",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798674
+      ],
+      "weight": 4,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0299-01"
+      ]
+    },
+    {
+      "cite": "504 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787724
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "where jury found at least one proper aggravating circumstance and no mitigating circumstances, sentence of death was not only supported by the evidence, but required"
+        },
+        {
+          "parenthetical": "where jury found at least one proper aggravating circumstance and no mitigating circumstances, sentence of death was not only supported by the evidence, but required"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0485-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed.2d 857",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 2202",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "481 U.S. 1059",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6385381,
+        6385194,
+        6385070,
+        6384849,
+        6384954
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/1059-05",
+        "/us/481/1059-04",
+        "/us/481/1059-03",
+        "/us/481/1059-01",
+        "/us/481/1059-02"
+      ]
+    },
+    {
+      "cite": "511 Pa. 490",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798743
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0490-01"
+      ]
+    },
+    {
+      "cite": "492 Pa. 558",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1767206
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "563"
+        },
+        {
+          "page": "1335"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/492/0558-01"
+      ]
+    },
+    {
+      "cite": "527 A.2d 973",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1806092
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "975"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "515 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1806001,
+        1806092
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "158-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/515/0153-01",
+        "/pa/515/0153-02"
+      ]
+    },
+    {
+      "cite": "94 L.Ed.2d 801",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 1617",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "480 U.S. 951",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131233,
+        1131426,
+        1131146,
+        1131316,
+        1131478,
+        1131161
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0951-01",
+        "/us/480/0951-05",
+        "/us/480/0951-06",
+        "/us/480/0951-03",
+        "/us/480/0951-02",
+        "/us/480/0951-04"
+      ]
+    },
+    {
+      "cite": "511 Pa. 343",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798720
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0343-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 820,
+    "char_count": 18335,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23983348063921872
+    },
+    "sha256": "cdc430231f853820756f7c453d720944a121f074b3fc398a92154d047060c4bb",
+    "simhash": "1:6101d79ae260cf96",
+    "word_count": 2916
+  },
+  "last_updated": "2024-02-27T19:00:02.522567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NIX, C.J., and FLAHERTY, ZAPPALA, PAPADAKOS, CAPPY, CASTILLE and MONTEMURO, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Clifford SMITH, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nNIX, Chief Justice.\nAppellant, Clifford Smith, appeals from the denial of his petition for relief filed under the Post Conviction Relief Act, 42 Pa.C.S. \u00a7\u00a7 9541-9546 (\u201cPCRA\u201d), in which he alleged ineffective assistance of trial counsel as well as constitutionally-based defects in his trial and sentence. For the reasons that follow, we affirm the Court of Common Pleas\u2019 denial of Appellant\u2019s petition.\nOn November 23, 1983, in a trial by jury, Appellant was found guilty of robbery, possession of instruments of crime, criminal conspiracy, and murder of the first degree. A separate sentencing hearing was held, and the jury sentenced Appellant to death. Appellant\u2019s conviction and sentence were affirmed following a direct appeal to this Court. Commonwealth v. Smith, 511 Pa. 343, 513 A.2d 1371 (1986), cert. denied, 480 U.S. 951, 107 S.Ct. 1617, 94 L.Ed.2d 801 (1987).\nAppellant subsequently filed a PCRA petition in the Court of Common Pleas, and his execution was stayed on October 18, 1991, pending the disposition of his petition. On May 20, 1992, the Court of Common Pleas issued an opinion and order denying Appellant\u2019s petition for relief and affirming the death sentence. Commonwealth v. Smith, No. 3120/1988 (C.P. Bucks County May 20, 1992). This appeal followed.\nIn order to prevail on a claim of ineffectiveness of counsel, Appellant must demonstrate: that the underlying claim has arguable merit; that the particular course chosen by counsel did not have some reasonable basis designed to effectuate Appellant\u2019s interests; and that he was prejudiced by counsel\u2019s action or inaction. Commonwealth v. Pierce, 515 Pa. 153, 158-59, 527 A.2d 973, 975 (1987). In addition, trial counsel can never be found ineffective for failing to raise a meritless claim. Commonwealth v. Pettus, 492 Pa. 558, 563, 424 A.2d 1332, 1335 (1981).\nAppellant first argues that trial counsel was ineffective for stipulating to an inaccurate prior criminal record at the penalty phase of his trial. Appellant submits that the discovery materials supplied to the defense erroneously indicated that he had two prior aggravated assault convictions which occurred in 1979 and 1982. He claims that the 1979 charge did not result in conviction, and therefore, trial counsel should not have stipulated that his record constituted a significant history of felony convictions for purposes of 42 Pa.C.S. \u00a7 9711(d)(9).\nThe trial court acknowledged that the prosecution had mistakenly included a 1979 aggravated assault conviction in Appellant\u2019s prior criminal history. Commonwealth v. Smith, No. 3120/1983, slip op. at 9. It also noted that the custodian of records for the Philadelphia County Court of Common Pleas testified that Appellant was convicted of robbery in 1978 and aggravated assault in 1982, both of which were felonies involving the threat or use of violence. Id. at 8. Thus, the court concluded that, despite the existence of an erroneous conviction for aggravated assault on his record, Appellant had a significant history of felony convictions involving the threat or use of violence. Id. Notwithstanding this conclusion, we find that Appellant\u2019s claim must fail because he has not met his burden of establishing prejudice.\nAt the penalty stage of Appellant\u2019s trial, the jury found two aggravating circumstances and no mitigating circumstances. Pursuant to 42 Pa.C.S. \u00a7 9711(c)(l)(iv), when the jury finds at least one aggravating circumstance and no mitigating circumstances, it is required to return a sentence of death. Assuming arguendo that the aggravating circumstance under 42 Pa.C.S. \u00a7 9711(d)(9) is invalidated, there still remains one aggravating circumstance which is fully supported by the evidence. The existence of this aggravating circumstance, and the absence of any mitigating circumstance, requires that the death sentence be imposed pursuant to 42 Pa.C.S. \u00a7 9711(c)(1)(iv), irrespective of the validity of the other aggravating circumstance under 42 Pa.C.S. \u00a7 9711(d)(9). See Commonwealth v. Christy, 511 Pa. 490, 515 A.2d 832 (1986), cert. denied, 481 U.S. 1059, 107 S.Ct. 2202, 95 L.Ed.2d 857 (1987). (where jury found one aggravating circumstance and no mitigating circumstances, sentence of death was upheld even though another aggravating circumstance found by the jury was held invalid); Commonwealth v. Beasley, 504 Pa. 485, 475 A.2d 730 (1984) (where jury found at least one proper aggravating circumstance and no mitigating circumstances, sentence of death was not only supported by the evidence, but required). Accordingly, we conclude that Appellant has failed to demonstrate that he was prejudiced by counsel\u2019s actions, and therefore, this claim of ineffectiveness must be rejected.\nAppellant next asserts that trial counsel was ineffective for failing to present sufficient evidence of mitigation during the penalty phase. He argues that additional testimony from members of Ms family would have presented mitigating evidence to the jury. Appellant also contends that trial counsel was ineffective for failing to call character witnesses to introduce evidence of his good character.\nIn response to charges that he failed to explore certain avenues of mitigation, trial counsel testified at the PCRA hearing that he believed exculpatory statements concerning specific instances of Appellant\u2019s conduct made by potential character witnesses may have revealed negative evidence relating to Appellant\u2019s reputation and prior criminal history. (N.T. 12/10/91, 141-42). In Commonwealth v. Peterkin, 511 Pa. 299, 513 A.2d 373 (1986), cert. denied, 479 U.S. 1070, 107 S.Ct. 962, 93 L.Ed.2d 1010 (1987), we noted that \u201c[although evidence of good character may not be rebutted by evidence of specific acts of misconduct, a character witness may be cross-examined regarding Ms knowledge of particular acts of misconduct by the defendant to test the accuracy of Ms testimony and the standard by wMch he measures reputation.\u201d Id. at 318, 513 A.2d at 382-83. We found that trial counsel in Peterkin had a reasonable basis for not pursuing potential character witnesses or presenting character evidence based upon Ms concern \u201cthat the potential harm from cross-examination of character witnesses outweighed the doubtful value of their testimony....\u201d Id. at 319, 513 A.2d at 383. In the instant case, trial counsel expressed a similar concern about presenting certain character witnesses at the sentencing hearing based on the negative effect that might have resulted. We conclude that counsel\u2019s decision not to present additional character testimony was reasonable in view of the circumstances, and therefore, he can not be deemed ineffective.\nAppellant next argues that trial counsel was ineffective for failing to explore the option of a guilty plea. In advancing this claim, Appellant submits that there have been no defendants in capital cases that have been sentenced to death after entering a guilty plea in the county in wMch he was tried. However, Appellant concedes, and the Commonwealth agrees, that he was never offered anything in exchange for a plea of guilty. Because there was no identifiable benefit from entering a guilty plea, it can not be said that Appellant is in a worse position than he otherwise would have been had he pled guilty. Moreover, Appellant\u2019s contention that a guilty plea might have resulted in a life sentence is pure speculation. Therefore, trial counsel\u2019s decision to proceed with a jury trial was a reasonable strategy, and we refuse to find him ineffective for pursuing such a course of action.\nIn Ms next allegation of ineffectiveness, Appellant claims that trial counsel should have asked prospective jurors during voir dire whether they would be prejudiced by the fact that he was black and the victims were wMte. Appellant cites Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986), and Commonwealth v. Hardcastle, 519 Pa. 236, 546 A.2d 1101 (1988), cert. denied, 493 U.S. 1093, 110 S.Ct. 1169, 107 L.Ed.2d 1072 (1990), but fails to explain how they are applicable to Ms claim of ineffectiveness. Furthermore, Appellant has not shown how he was prejudiced by this alleged deficiency. TMs Court will not consider abstract allegations of ineffectiveness; a specific factual predicate must be identified to demonstrate how a different course of action by trial counsel would have better served Appellant\u2019s interest. Commonwealth v. Forrest, 508 Pa. 382, 390, 498 A.2d 811, 815 (1985). Because Appellant has failed to meet Ms burden of demonstrating prejudice, tMs claim must be rejected.\nAppellant next claims that the jury instructions used in Ms trial violated the standard in Mills v. Maryland, 486 U.S. 367, 108 S.Ct. 1860, 100 L.Ed.2d 384 (1988). In Mills, the Umted States Supreme Court declared a sentencing scheme invalid where the jury could have believed that it was precluded from considering any mitigating evidence unless all twelve jurors agreed on the existence of a particular mitigating circumstance. 486 U.S. at 384, 108 S.Ct. at 1870, 100 L.Ed.2d at 400. In the instant case, Appellant contends that the verdict slip was misleading in such a way that the jury might have believed that unanimity was required in finding mitigating as well as aggravating circumstances. Although the verdict slip used in the instant case is missing from the record, its language has been preserved in the trial transcript:\nAs you retire to deliberate, you will be given another form of verdict slip upon which to record your verdict and findings, and it reads as follows: \u201cWe the jury unanimously sentence the defendant to \u2014 \u201d\u2014and then there is a place to check either death or life imprisonment. If life imprisonment is the unanimous finding, then, of course, you need not go on. But the second paragraph, which is in brackets, has the words: \u201cTo be used if the sentence is death,\u201d goes on to state: \u2018We the jury have found unanimously \u2014 \u201d\u2014and then\u2014 \u201c \u2014 at least one aggravating circumstance and no mitigating circumstance. The aggravating circumstance or circumstances are \u2014 \u201d\u2014and if you find that this is the result of a killing in the perpetration of a felony and/or a significant history of felony convictions, you should so fill that in. It then goes on to state: \u201cOne or more aggravating circumstances which outweigh any mitigating circumstances. The aggravating circumstance or circumstances are \u2014 \u201d\u2014and there again, if there would be a mitigating circumstance but it is outweighed by the aggravating circumstance, you fill in that aggravating circumstance or circumstances that you find unanimously to have been proven beyond a reasonable doubt.\n(N.T. 11/25/83, 429-30). We find that the language used in the verdict slip closely resembles that found in 42 Pa.C.S. \u00a7 9711(e)(1)(iv). Moreover, we have previously considered a claim identical to the one now raised by Appellant where the verdict slip contained the same language.\nIn Commonwealth v. Frey, 520 Pa. 338, 554 A.2d 27 (1989), cert. denied, 494 U.S. 1038, 110 S.Ct. 1500, 108 L.Ed.2d 635 (1990), this Court held that a verdict slip which followed the language in 42 Pa.C.S. \u00a7 9711(c)(1)(iv) did not imply a need for unanimity in determining the existence of mitigating circumstances. Id. at 346-47, 554 A.2d at 31. In rejecting the claim that the verdict slip did not comport with the standards articulated in Mills, we determined that \u201cindividual jurors were free to weigh whatever mitigating circumstances they perceived, regardless of whether other jurors agreed that those circumstances were established by the evidence. The perception of even one juror, alone, with regard to mitigating circumstances, would be sufficient to deny the unanimity required for a sentence of death.\u201d Id. at 347-48, 554 A.2d at 31. We find this reasoning equally applicable to the instant case and therefore reject Appellant\u2019s claim that the verdict slip given to the jury violated the dictates of Mills.\nAppellant next alleges ineffectiveness of trial counsel for failure to object to certain remarks made by the district attorney in his closing argument. Specifically, Appellant takes exception to the prosecution\u2019s statement that the sentence was not final and could be appealed. He also cites as improper the district attorney\u2019s reference that Appellant could be paroled from a life sentence. In support of this claim, Appellant relies on Caldwell v. Mississippi, 472 U.S. 320, 105 S.Ct. 2633, 86 L.Ed.2d 231 (1985), and Commonwealth v. Baker, 511 Pa. 1, 511 A.2d 777 (1986). In Caldwell, the United States Supreme Court held that a sentence of death entered in a state court is impermissible under the Eighth Amendment when the sentencing jury has been led to believe that the responsibility for determining the appropriateness of the death sentence lies with the appellate courts rather than the jury itself. In Baker, this Court applied the reasoning articulated in Caldwell to reverse a death sentence where the district attorney\u2019s comments attempted to minimize the jury\u2019s sense of responsibility for the death sentence as well as their expectations that such a sentence would ever be carried out.\nOur review of Appellant\u2019s claim is limited by the fact that closing arguments at the penalty phase were not transcribed, and consequently, are not part of the record in this case. At the PCRA hearing, defense counsel recalled stating in his closing argument that Appellant \u201cwould spend the rest of his life behind bars. He would never get out of prison.\u201d (N.T. 12/10/91, 124).\nIn Commonwealth v. Abu-Jamal, 521 Pa. 188, 555 A.2d 846 (1989), cert. denied, 498 U.S. 881, 111 S.Ct. 215, 112 L.Ed.2d 175 (1990), this Court held that prosecutorial comments at the penalty phase of a trial concerning the appellate process must be viewed in light of the circumstances of the particular case to determine if those comments created a risk that the jury\u2019s deliberations and death penalty sentence were tainted by impermissible considerations. Id. at 208, 555 A.2d at 855. Based on our review of defense counsel\u2019s testimony at the PCRA hearing, we find that the district attorney\u2019s comments were an appropriate response to the assertion by defense counsel that Appellant would never be released from prison under any circumstances. We therefore conclude that the district attorney\u2019s remarks concerning parole and the appeal process \u201cdid not lessen the jury\u2019s sense of responsibility as the ultimate arbiter of the sentence to be imposed.\u201d Commonwealth v. Beasley, 524 Pa. 34, 39, 568 A.2d 1235, 1237 (1990). Accordingly, counsel can not be deemed ineffective for failing to object to those comments of the district attorney in his closing argument.\nAppellant next contends that trial counsel was ineffective for failing to request certain points for charge. However, he does not indicate what specific points for charge should have been requested or how he was prejudiced by the charge that was given by the court. As stated previously, this Court will not consider abstract allegations of ineffectiveness; a petitioner seeking relief must demonstrate how he was prejudiced by counsel\u2019s action or omission. Commonwealth v. Forrest, 508 Pa. 382, 390, 498 A.2d 811, 815 (1985). Because Appellant has not alleged actual prejudice, this claim of ineffectiveness must be rejected.\nFinally, Appellant claims that Pennsylvania\u2019s death penalty statute is unconstitutional on its face and as applied. This claim is meritless; we have repeatedly and consistently upheld the constitutionality of the death penalty statute in this Commonwealth. See, e.g., Commonwealth v. Basemore, 525 Pa. 512, 582 A.2d 861 (1990), cert. denied, - U.S. -, 112 S.Ct. 1191, 117 L.Ed.2d 432 (1992); Commonwealth v. Hardcastle, 519 Pa. 236, 546 A.2d 1101 (1988), cert. denied, 493 U.S. 1093, 110 S.Ct. 1169, 107 L.Ed.2d 1072 (1990); Commonwealth v. Peterkin, 511 Pa. 299, 513 A.2d 373 (1986), cert. denied, 479 U.S. 1070, 107 S.Ct. 962, 93 L.Ed.2d 1010 (1987); Commonwealth v. Holcomb, 508 Pa. 425, 498 A.2d 833 (1985), cert. denied, 475 U.S. 1150, 106 S.Ct. 1804, 90 L.Ed.2d 349 (1986).\nHaving reviewed and disposed of all the claims raised in the instant appeal, we conclude that Appellant has failed to set forth any basis for relief under the Post Conviction Relief Act. Accordingly, the Order of the Court of Common Pleas is affirmed.\nMONTEMURO, J., is sitting by designation.\n. 18 Pa.C.S. \u00a7 3701.\n. 18 Pa.C.S. \u00a7 907.\n. 18 Pa.C.S. \u00a7 903.\n. 18 Pa.C.S. \u00a7 2502(a).\n. The aggravating circumstances were that Appellant \"committed a killing while in the perpetration of a felony,\" 42 Pa.C.S. \u00a7 9711(d)(6), and that Appellant had \"a significant history of felony convictions involving the use or threat of violence to the person,\u201d 42 Pa.C.S. \u00a7 9711(d)(9).\n. Appellant also argues under this claim that trial counsel was ineffective for failing to present psychological expert testimony as well as evidence of his prison record. However, with respect to the psychological testimony, there was no evidence that Appellant suffered from any type of psychological disorder. Moreover, Appellant has not identified any area of mitigation to which the expert would have testified and which defense counsel did not argue to the jury. Appellant's claim concerning the admission of his prison record is also meritless in that he has failed to specify what in that record could be used as evidence of mitigation.\n. 42 Pa.C.S. \u00a7 9711(c)(l)(iv) requires that \"the verdict must be a sentence of death if the jury unanimously finds at least one aggravating circumstance ... and no mitigating circumstance or if the jury unanimously finds one or more aggravating circumstances which outweigh any mitigating circumstances.\" Id.\n. A review of the PCRA transcript indicates that a transcript of the district attorney\u2019s closing argument was made available to at least one witness (defense counsel) at the PCRA hearing. However, this transcript does not appear in the record before this Court.",
+        "type": "majority",
+        "author": "NIX, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "John J. Fioravanti, Doylestown, for C. Smith.",
+      "Alan M. Rubenstein, Doylestown, for Com.",
+      "Robert A. Graci, Harrisburg, for Commonwealth/A.G."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Clifford SMITH, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted April 5, 1993.\nDecided Nov. 22, 1994.\nJohn J. Fioravanti, Doylestown, for C. Smith.\nAlan M. Rubenstein, Doylestown, for Com.\nRobert A. Graci, Harrisburg, for Commonwealth/A.G.\nBefore NIX, C.J., and FLAHERTY, ZAPPALA, PAPADAKOS, CAPPY, CASTILLE and MONTEMURO, JJ."
+  },
+  "file_name": "0863-02",
+  "first_page_order": 921,
+  "last_page_order": 927
+}

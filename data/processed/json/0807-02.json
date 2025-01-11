@@ -1,0 +1,111 @@
+{
+  "id": 7292932,
+  "name": "Lance W. MITCHELL, Petitioner v. STATE CIVIL SERVICE COMMISSION (Correctional Institution at Waynesburg, Department of Corrections), Respondents",
+  "name_abbreviation": "Mitchell v. State Civil Service Commission",
+  "decision_date": "2009-12-29",
+  "docket_number": "",
+  "first_page": "807",
+  "last_page": "808",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "986 A.2d 807"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "683 A.2d 278",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7861001,
+        466762
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/0278-01",
+        "/pa/546/0115-01"
+      ]
+    },
+    {
+      "cite": "546 Pa. 115",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        466762
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0115-01"
+      ]
+    },
+    {
+      "cite": "505 Pa. 8",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1788901
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/505/0008-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 679,
+    "ocr_confidence": 0.674,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18834051714984154
+    },
+    "sha256": "854a8c73120813e246ad6c78fa819e565cc337239cdfc1005ed5db035c0d78b9",
+    "simhash": "1:6daf32f50a238eb6",
+    "word_count": 111
+  },
+  "last_updated": "2024-02-27T16:04:39.922720+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lance W. MITCHELL, Petitioner v. STATE CIVIL SERVICE COMMISSION (Correctional Institution at Waynesburg, Department of Corrections), Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of December, 2009, the Petition for Allowance of Appeal is GRANTED, the order of the Commonwealth Court is VACATED, and the case is REMANDED to the Commonwealth Court in light of this Court\u2019s decision in Miller v. Unemployment Comp. Bd. of Review., 505 Pa. 8, 476 A.2d 364 (1984). See also Smith v. Bd. of Prob. & Parole, 546 Pa. 115, 683 A.2d 278, 282 (1996). The Commonwealth Court is directed to treat the petition for review as timely filed.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lance W. MITCHELL, Petitioner v. STATE CIVIL SERVICE COMMISSION (Correctional Institution at Waynesburg, Department of Corrections), Respondents.\nSupreme Court of Pennsylvania.\nDec. 29, 2009."
+  },
+  "file_name": "0807-02",
+  "first_page_order": 851,
+  "last_page_order": 852
+}

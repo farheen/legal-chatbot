@@ -1,0 +1,58 @@
+{
+  "id": 12490430,
+  "name": "BAKER, W. v. DEP",
+  "name_abbreviation": "Baker v. Dep",
+  "decision_date": "2017-03-02",
+  "docket_number": "633 CD 2016",
+  "first_page": "293",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 124,
+    "sha256": "1887bac4e42adfaf6ab89e0e2077236ec00965fe09dd11d1df276371e72e0e03",
+    "simhash": "1:2df5d2b180c89f48",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BAKER, W.\nv.\nDEP"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BAKER, W.\nv.\nDEP\n633 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 2, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0293-06",
+  "first_page_order": 293,
+  "last_page_order": 293
+}

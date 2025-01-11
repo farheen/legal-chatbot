@@ -1,0 +1,80 @@
+{
+  "id": 7951204,
+  "name": "Glenn F. GODDEN et al. v. TOWN OF CHARLESTOWN et al.",
+  "name_abbreviation": "Godden v. Town of Charlestown",
+  "decision_date": "1980-05-22",
+  "docket_number": "No. 80-19-Appeal",
+  "first_page": "307",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 A.2d 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "381 A.2d 1045",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3101656
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/119/0578-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1050,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2006433579718354
+    },
+    "sha256": "64d30314f4619afaa52a0ca47ac131c4dc40955f0c2b5efddd07f5f4169e67be",
+    "simhash": "1:0a1948fbd5b944f7",
+    "word_count": 176
+  },
+  "last_updated": "2024-02-27T22:06:12.650509+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glenn F. GODDEN et al. v. TOWN OF CHARLESTOWN et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendants\u2019 motion to affirm the judgment of the Superior Court pursuant to Rule 16(g) is denied for noneompliance with Supreme Court Rule 28. An examination of the record in this case reveals that the requirements of Super.R.Civ.P. 54(b) have not been satisfied. That rule permits the entry of a final judgment as to one or more but fewer than all the parties, but only after an express determination by the trial justice that there is no just reason for delay and an express direction that judgment may enter. Simmons v. State of Rhode Island, R.I., 381 A.2d 1045 (1978). Accordingly, this case is remanded to the Superior Court for further proceedings which may include, within the court\u2019s sound judicial discretion, the entry of judgment accompanied by a Rule 54(b) certificate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Hogan & Hogan, Thomas S. Hogan, Donald J. Packer, Providence, for plaintiffs.",
+      "John P. Toscano, Jr., Town Sol., Charles-town, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Glenn F. GODDEN et al. v. TOWN OF CHARLESTOWN et al.\nNo. 80-19-Appeal.\nSupreme Court of Rhode Island.\nMay 22, 1980.\nHogan & Hogan, Thomas S. Hogan, Donald J. Packer, Providence, for plaintiffs.\nJohn P. Toscano, Jr., Town Sol., Charles-town, for defendants."
+  },
+  "file_name": "0307-02",
+  "first_page_order": 355,
+  "last_page_order": 355
+}

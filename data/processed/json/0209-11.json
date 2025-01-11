@@ -1,0 +1,58 @@
+{
+  "id": 12486742,
+  "name": "B.C. v. J.M.C.",
+  "name_abbreviation": "B.C. v. J.M.C.",
+  "decision_date": "2016-03-24",
+  "docket_number": "NO. 3022 EDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 91,
+    "sha256": "6d7222b32d488febb5f81cd36503656a85e83077c1f7e6b212a48cd560e760bd",
+    "simhash": "1:3d1b2a059e449585",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B.C.\nv.\nJ.M.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "B.C.\nv.\nJ.M.C.\nNO. 3022 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 24, 2016\nAffirmed."
+  },
+  "file_name": "0209-11",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

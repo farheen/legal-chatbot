@@ -1,0 +1,62 @@
+{
+  "id": 12485560,
+  "name": "State v. Alexis Martinez",
+  "name_abbreviation": "State v. Martinez",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-921 SEPT. TERM 2015, 076745",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 124,
+    "sha256": "1230f540166829b1750512c25024629fd6bd8f5702d7368e331fe79c131fe32a",
+    "simhash": "1:1a606e1ff4262dbc",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nAlexis Martinez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nAlexis Martinez\nNOS. C-921 SEPT. TERM 2015, 076745\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-05",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

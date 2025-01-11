@@ -1,0 +1,58 @@
+{
+  "id": 12488389,
+  "name": "Wells Fargo v. Zipf, W",
+  "name_abbreviation": "Fargo v. Zipf",
+  "decision_date": "2016-05-10",
+  "docket_number": "1680 WDA 2014",
+  "first_page": "1143",
+  "last_page": "1143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "sha256": "60fd4a9780c98613bd584ddbc9f7e00595591c18bdc75ea589cd17661a46d5e7",
+    "simhash": "1:1984f7b88f2b0fe0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wells Fargo\nv.\nZipf, W"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wells Fargo\nv.\nZipf, W\n1680 WDA 2014\nSuperior Court of Pennsylvania.\nMay 10, 2016\nReversed/Remanded"
+  },
+  "file_name": "1143-07",
+  "first_page_order": 1143,
+  "last_page_order": 1143
+}

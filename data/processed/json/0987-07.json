@@ -1,0 +1,59 @@
+{
+  "id": 6081033,
+  "name": "In re Walter W. Kennedy",
+  "name_abbreviation": "In re Kennedy",
+  "decision_date": "1959-03-02",
+  "docket_number": "No. 6515",
+  "first_page": "987",
+  "last_page": "987",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 90,
+    "ocr_confidence": 0.399,
+    "sha256": "ac8a97772c17d8b3212c17be96eb2d91c8e770541efb597e061bda35a60d6b6d",
+    "simhash": "1:df05a908629affba",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Walter W. Kennedy"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in air distribution outlet.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 2, 1959\nIn re Walter W. Kennedy\n(No. 6515)."
+  },
+  "file_name": "0987-07",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

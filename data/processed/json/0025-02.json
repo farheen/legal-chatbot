@@ -1,0 +1,82 @@
+{
+  "id": 6812463,
+  "name": "Commonwealth vs. Lorraine Stefano",
+  "name_abbreviation": "Commonwealth v. Stefano",
+  "decision_date": "1988-02-08",
+  "docket_number": "",
+  "first_page": "25",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1988 Mass. App. Div. 25"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass. App. Div.",
+    "id": 15177,
+    "name": "Massachusetts Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "22 Mass. App. Ct. 230",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3990259
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass-app-ct/22/0230-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 173,
+    "char_count": 2186,
+    "ocr_confidence": 0.813,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1829668447851593
+    },
+    "sha256": "3b9b3ac1d141c19d6c7c58a06ae58e6e1fd471ac0ddb456d71792a8da9e36b54",
+    "simhash": "1:b004eb3e5d03f36f",
+    "word_count": 370
+  },
+  "last_updated": "2024-02-27T17:38:55.564117+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Lenhoff, McGuane & Dohoney, JJ."
+    ],
+    "parties": [
+      "Commonwealth vs. Lorraine Stefano"
+    ],
+    "opinions": [
+      {
+        "text": "Dohoney, J.\nThis action involves an appeal of a civil motor vehicle infraction from the Westfield Division.\nOn May 17, 1987, the petitioner was given a civil motor vehicle citation for violation of a red light. She requested a hearing before the Clerk-Magistrate. At the hearing she was found responsible and appealed to a justice. She was found responsible by the Justice on November 12,1987, and claimed an appeal to the Appellate Division.\nThe principal thrust of petitioner\u2019s argument is that other operators were responsible for the same offense at the same time. It appears that there was very heavy traffic in the City of Westfield at the time of the incident and that traffic was moving slowly. It may be that between one and three cars went through the same red light. The petitioner contends that she was the second of three cars; the officer contends that she was the second of two cars. The petitioner also argues that she was given a citation because of her sex. She alleges that the first vehicle was operated by a male and is uncertain as to the sex of the third operator. The officer contends that the petitioner was given a citation because she was the last vehicle through the red light and was the most \u201cblatant\u201d violator.\nThe petitioner here raises a valid issue of law in that motor vehicle citations or any other enforcement of the law must not be done in a sexually discriminatory manner. Commonwealth v. An Unnamed Defendant, 22 Mass. App. Ct. 230 (1986). However, the record and even her oral assertions utterly fail to support her allegation. Even if one were to accept her factual allegations, there is ample reason why a police officer would only apprehend the second violator of a red light either because this would be the more egregious violation or because of the difficulty of pursuing two vehicles in heavy traffic.\nThus, while the petitioner has raised a valid issue of law, she has failed to support the same factually.\nConsequently, the appeal is dismissed.",
+        "type": "majority",
+        "author": "Dohoney, J."
+      }
+    ],
+    "attorneys": [
+      "Police Officer Dennis Hall for the Commonwealth.",
+      "The petitioner appeared pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Commonwealth vs. Lorraine Stefano\nWestern District\nFebruary 8, 1988.\nPresent: Lenhoff, McGuane & Dohoney, JJ.\nPolice Officer Dennis Hall for the Commonwealth.\nThe petitioner appeared pro se."
+  },
+  "file_name": "0025-02",
+  "first_page_order": 33,
+  "last_page_order": 34
+}

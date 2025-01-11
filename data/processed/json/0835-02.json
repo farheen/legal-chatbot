@@ -1,0 +1,104 @@
+{
+  "id": 11718173,
+  "name": "STATE of Maine v. Jonathan LaDEW",
+  "name_abbreviation": "State v. LaDew",
+  "decision_date": "1988-07-07",
+  "docket_number": "",
+  "first_page": "835",
+  "last_page": "836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "543 A.2d 835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "247 A.2d 122",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8065985
+      ],
+      "pin_cites": [
+        {
+          "page": "123-24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/247/0122-01"
+      ]
+    },
+    {
+      "cite": "501 A.2d 803",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7908789
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/501/0803-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1197,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24282612615638982
+    },
+    "sha256": "b641f88ef7e892dc223c62016d57bbf5bd216fee78d12021eea1af746d7d3bd1",
+    "simhash": "1:66aacb2297b14bc3",
+    "word_count": 185
+  },
+  "last_updated": "2024-02-27T20:47:22.006376+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ.",
+      "All concurring."
+    ],
+    "parties": [
+      "STATE of Maine v. Jonathan LaDEW."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nJohn LaDew appeals from the judgment, revoking his probation and ordering his incarceration, entered by the Superior Court, Kennebec County, after a hearing on the State\u2019s motion seeking revocation for LaDew\u2019s alleged violation of the special conditions of his probation. 17-A.M.R.S.A. \u00a7 1205 (1983 & Supp.1987). Contrary to LaDew\u2019s contentions, after review of the record in the light most favorable to the trial court\u2019s ruling, we determine that the record supports the court\u2019s finding of a knowing and intelligent waiver of counsel by LaDew, State v. Walls, 501 A.2d 803, 805 (Me.1985), and that the court did not abuse its discretion by revoking LaDew\u2019s probation and ordering that he be incarcerated. 17-A M.R.S.A. \u00a7 1206(7-A) (Supp.1987); State v. Oliver, 247 A.2d 122, 123-24 (Me.1968).\nThe entry is: Judgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "James E. Tierney, Atty. Gen., Peter J. Brann (orally), Asst. Atty. Gen., Augusta, for plaintiff.",
+      "James R. Bushell (orally), Portland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Jonathan LaDEW.\nSupreme Judicial Court of Maine.\nArgued June 16, 1988.\nDecided July 7, 1988.\nJames E. Tierney, Atty. Gen., Peter J. Brann (orally), Asst. Atty. Gen., Augusta, for plaintiff.\nJames R. Bushell (orally), Portland, for defendant.\nBefore McKUSICK, C.J., and WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+  },
+  "file_name": "0835-02",
+  "first_page_order": 881,
+  "last_page_order": 882
+}

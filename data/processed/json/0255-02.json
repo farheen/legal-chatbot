@@ -1,0 +1,78 @@
+{
+  "id": 8210657,
+  "name": "Eleanor ABRAMS, Executrix of the Estate of Kenneth Abrams, Petitioner v. PNEUMO ABEX CORP., et al., Respondents; Marilyn Shaw, Executrix of the Estate of John Shaw, Petitioner v. A.W. Chesterton, Inc., et al., Respondents",
+  "name_abbreviation": "Abrams v. Pneumo Abex Corp.",
+  "decision_date": "2008-06-10",
+  "docket_number": "",
+  "first_page": "255",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "951 A.2d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "417 Pa.Super. 440",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        914285
+      ],
+      "weight": 2,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/417/0440-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 93,
+    "char_count": 811,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20149591732954314
+    },
+    "sha256": "40560cd4678be3431389d0cce35979cb3d916393ecb9ad973bdee069d70c2c2d",
+    "simhash": "1:f697e34c822a05f3",
+    "word_count": 129
+  },
+  "last_updated": "2024-02-27T19:29:08.612793+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eleanor ABRAMS, Executrix of the Estate of Kenneth Abrams, Petitioner v. PNEUMO ABEX CORP., et al., Respondents. Marilyn Shaw, Executrix of the Estate of John Shaw, Petitioner v. A.W. Chesterton, Inc., et al., Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of June, 2008, the Petition for Allowance of Appeal is GRANTED as to the following issue, which has been rephrased for clarity:\n(1) Does prior recovery of damages for increased risk and fear of developing cancer due to asbestos exposure, awarded under the one-disease rule, preclude a plaintiff from recovering damages for cancer that developed and was diagnosed after the separate disease rule was adopted in Marinari v. Asbestos Corporation, Ltd., 417 Pa.Super. 440, 612 A.2d 1021 (1992) (en bancp.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Eleanor ABRAMS, Executrix of the Estate of Kenneth Abrams, Petitioner v. PNEUMO ABEX CORP., et al., Respondents. Marilyn Shaw, Executrix of the Estate of John Shaw, Petitioner v. A.W. Chesterton, Inc., et al., Respondents.\nSupreme Court of Pennsylvania.\nJune 10, 2008."
+  },
+  "file_name": "0255-02",
+  "first_page_order": 297,
+  "last_page_order": 298
+}

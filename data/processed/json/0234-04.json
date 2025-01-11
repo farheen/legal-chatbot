@@ -1,0 +1,83 @@
+{
+  "id": 12489142,
+  "name": "STATE of Connecticut v. Alexander BARBER",
+  "name_abbreviation": "State v. Barber",
+  "decision_date": "2017-02-01",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 919"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 99",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489054
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/153-2/0715-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 292,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25777950760835866
+    },
+    "sha256": "e05909e4816a5c665fc3eba0d84755e5ee6aa5771951f23ee65f388b43903d86",
+    "simhash": "1:b44f0cb91381a5b7",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T16:27:02.537431+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nAlexander BARBER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 99, 153 A.3d 715 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nAlexander BARBER\nSupreme Court of Connecticut.\nDecided February 1, 2017\nDaniel J. Foster, assigned counsel, in support of the petition.\nThe defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 99, 153 A.3d 715 (2017), is denied."
+  },
+  "file_name": "0234-04",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487098,
+  "name": "Commonwealth v. James Hendel",
+  "name_abbreviation": "Commonwealth v. Hendel",
+  "decision_date": "2016-09-06",
+  "docket_number": "NO. 212 EAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "9481fd0a7293a257cc783971414342f9ca75a0217f6d75b4ac04b7efe28021b1",
+    "simhash": "1:7c8854e8ab2c8920",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJames Hendel"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJames Hendel\nNO. 212 EAL (2016)\nSupreme Court of Pennsylvania\nSeptember 06, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-03",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

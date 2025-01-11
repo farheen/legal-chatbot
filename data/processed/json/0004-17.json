@@ -1,0 +1,58 @@
+{
+  "id": 12484989,
+  "name": "Commonwealth v. Claude Winston",
+  "name_abbreviation": "Commonwealth v. Winston",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 662 EAL 2015",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 232,
+    "sha256": "cce626a327c4d233ad194e6b392f99a2f0cfaecfed36fcd0853dfd07184c2d5e",
+    "simhash": "1:3f5f36eca0af3f86",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nClaude Winston"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nClaude Winston\nNO. 662 EAL 2015\nSupreme Court of Pennsylvania\nApril 20, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0004-17",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

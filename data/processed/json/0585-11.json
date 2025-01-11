@@ -1,0 +1,58 @@
+{
+  "id": 12485790,
+  "name": "R. Walker v. Lancaster General",
+  "name_abbreviation": "Walker v. Lancaster Gen.",
+  "decision_date": "2016-02-03",
+  "docket_number": "NO. 2036 MDA 2014",
+  "first_page": "585",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 123,
+    "sha256": "56ea06dfe4dc61f681a2e2e0d75dedcd16c5bd9f9738514073a34c162b1081d5",
+    "simhash": "1:b414c180082838c0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. Walker\nv.\nLancaster General"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R. Walker\nv.\nLancaster General\nNO. 2036 MDA 2014\nSuperior Court of Pennsylvania.\nFebruary 03, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0585-11",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

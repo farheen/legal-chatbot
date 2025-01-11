@@ -1,0 +1,59 @@
+{
+  "id": 6083205,
+  "name": "In re Lester Kirschbraum",
+  "name_abbreviation": "In re Kirschbraum",
+  "decision_date": "1931-11-02",
+  "docket_number": "No. 2946",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 90,
+    "ocr_confidence": 0.543,
+    "sha256": "7bf87be3f2a2615f46a5474a5fe547b9076a8ff2b1fa8ce09c855fac200e5dc0",
+    "simhash": "1:c8c053b47d0c80e9",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Lester Kirschbraum"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in apparatus for cracking-petroleum oil.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Lester Kirschbraum\n(No. 2946)."
+  },
+  "file_name": "1297-03",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12488155,
+  "name": "BAKER, Melvin v. STATE of Maryland",
+  "name_abbreviation": "Baker v. State",
+  "decision_date": "2016-12-15",
+  "docket_number": "Pet. Docket No. 406, Sept. Term, 2016",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 665"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 162,
+    "sha256": "510d33a38b028edf3cdc3c8e18b8fb050fd81ebca7a85bd65feb4dbfe89eb8d7",
+    "simhash": "1:2d7a9651c1c90717",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BAKER, Melvin\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BAKER, Melvin\nv.\nSTATE of Maryland\nPet. Docket No. 406, Sept. Term, 2016\nCourt of Appeals of Maryland.\nDecember 15, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0819-02",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

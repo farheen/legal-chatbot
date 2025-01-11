@@ -1,0 +1,79 @@
+{
+  "id": 7290476,
+  "name": "In re G. Scott CHRISTENSON, Respondent",
+  "name_abbreviation": "In re Christenson",
+  "decision_date": "2010-06-03",
+  "docket_number": "No. 10-BG-234",
+  "first_page": "821",
+  "last_page": "822",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "996 A.2d 821"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 119,
+    "char_count": 1198,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1883152261000545
+    },
+    "sha256": "99d11e91d9f416d02d4f07a680f134f38e76556c4bf551f3c76a0e508ba1359d",
+    "simhash": "1:1d9260726bca6527",
+    "word_count": 197
+  },
+  "last_updated": "2024-02-27T20:41:37.706581+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before THOMPSON, Associate Judge; and NEBEKER and TERRY, Senior Judges."
+    ],
+    "parties": [
+      "In re G. Scott CHRISTENSON, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nOn consideration of the certified order of the California Supreme Court disbarring respondent from the practice of law in that jurisdiction, see In re Christenson, No. 08-N-13625 (Cal. Oct. 14, 2009) (en banc), this court\u2019s March 30, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, and the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that G. Scott Christenson, Esquire, is hereby disbarred from the practice of law in the District of Columbia. See In re Willingham, 900 A.2d 165 (D.C. 2006). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as he files an affidavit that fully complies with the requirements of D.C.Bar. R. XI, \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re G. Scott CHRISTENSON, Respondent.\nNo. 10-BG-234.\nDistrict of Columbia Court of Appeals.\nJune 3, 2010.\nBefore THOMPSON, Associate Judge; and NEBEKER and TERRY, Senior Judges."
+  },
+  "file_name": "0821-02",
+  "first_page_order": 879,
+  "last_page_order": 880
+}

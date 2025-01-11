@@ -1,0 +1,78 @@
+{
+  "id": 11160744,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. David DUNCAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Duncan",
+  "decision_date": "2000-11-16",
+  "docket_number": "",
+  "first_page": "1082",
+  "last_page": "1082",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "762 A.2d 1082"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "486 Pa. 32",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1757589
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/486/0032-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 620,
+    "ocr_confidence": 0.676,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23816832564369583
+    },
+    "sha256": "1e3e4307c54c83c773ee93a9af556f71994e0ffbd53febd05ba7b6f44fddd373",
+    "simhash": "1:50170eeee7e3ebe3",
+    "word_count": 104
+  },
+  "last_updated": "2024-02-27T21:11:12.491668+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. David DUNCAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 16th day of November, 2000, the Petition for Allowance of Appeal is hereby GRANTED, limited to the following issues:\na. Whether a bank customer\u2019s name and address fall within the scope of protection of Article 1, \u00a7 8 of the Pennsylvania Constitution as defined by this court in Commonwealth v. DeJohn, 486 Pa. 32, 403 A.2d 1283 (1979).\nb. Whether a bank customer may rely on the belief that privacy in his bank records pursuant to DeJohn extends to his name and address.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. David DUNCAN, Petitioner.\nSupreme Court of Pennsylvania.\nNov. 16, 2000."
+  },
+  "file_name": "1082-02",
+  "first_page_order": 1124,
+  "last_page_order": 1124
+}

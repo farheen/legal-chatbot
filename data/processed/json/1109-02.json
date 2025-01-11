@@ -1,0 +1,75 @@
+{
+  "id": 11633969,
+  "name": "COMMONWEALTH of Pennsylvania v. Antuan BRONSHTEIN",
+  "name_abbreviation": "Commonwealth v. Bronshtein",
+  "decision_date": "1999-04-16",
+  "docket_number": "",
+  "first_page": "1109",
+  "last_page": "1109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "727 A.2d 1109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "729 A.2d 1102",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        607136,
+        11626485
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0545-01",
+        "/a2d/729/1102-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 362,
+    "ocr_confidence": 0.692,
+    "sha256": "264365b6421f165663e3d26acb83c8e9ffeeb3b746aee8c892f8938c20049366",
+    "simhash": "1:c8aeb0ae73a33c14",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T17:47:37.398997+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Antuan BRONSHTEIN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 16th day of April, 1999, we DENY the Application for Stay of Execution. See, Commonwealth v. Antuan Bronshtein; Appeal of Maria Pogrebivsky and Karolina Benchluch, as Next Friends to Antuan Bronshtein, \u2014 Pa.-, 729 A.2d 1102 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania v. Antuan BRONSHTEIN.\nSupreme Court of Pennsylvania.\nApril 16, 1999."
+  },
+  "file_name": "1109-02",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

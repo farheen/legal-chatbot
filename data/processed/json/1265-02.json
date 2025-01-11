@@ -1,0 +1,82 @@
+{
+  "id": 7926833,
+  "name": "STATE of Maine v. Richard P. HASKELL",
+  "name_abbreviation": "State v. Haskell",
+  "decision_date": "1985-05-29",
+  "docket_number": "",
+  "first_page": "1265",
+  "last_page": "1266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "492 A.2d 1265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "406 A.2d 886",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8041894
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/406/0886-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 231,
+    "char_count": 2656,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20059818159282644
+    },
+    "sha256": "658847431ca689b92ce23692cc2bbaf5ec9cbea9cfde991eb94130a1a477fbc6",
+    "simhash": "1:5f3383b1c21c42cb",
+    "word_count": 441
+  },
+  "last_updated": "2024-02-27T22:50:22.790062+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, VIOLETTE, WATHEN and SCOLNIK, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Richard P. HASKELL."
+    ],
+    "opinions": [
+      {
+        "text": "ROBERTS, Justice.\nRichard P. Haskell appeals from his conviction in the Superior Court, York County, of impersonating a public servant, 17-A M.R.S.A. \u00a7 457 (1983). Because the record indicates that Haskell\u2019s fine of $100 was paid in full on the same day that it was imposed, we grant the State\u2019s motion to dismiss the appeal.\nHaskell argues, inter alia, that we should abandon prior case law because M.R.Crim.P. 38 is misleading and because dismissal would be inconsistent with 15 M.R.S.A. \u00a7 2115 (1980). We reject his contentions. Procedural rules are not designed to inform on all facets of the law. Reference to either Maine treatise on criminal practice would dispel any notion that Haskell could appeal after paying his fine. 3 Glassman, Maine Practice: Rules of Criminal Procedure Annotated \u00a7 38.2 at 326-7 (1967); 1 Cluchey & Seitzinger, Maine Criminal Practice \u00a7 38.3 at 38-6 (1985). Section 2115 was in effect and not found by us to be inconsistent with the rule of dismissal we applied in State v. Lewis, 406 A.2d 886 (Me.1979). Contrary to Has-kell\u2019s argument before us, there is no indication in Lewis that the conviction was anything other than criminal.\nHaskell argues further that the colloquy between his attorney and the presiding justice regarding the appointment of counsel on appeal demonstrates that his tender of $100 was not intended as payment of the fine. His argument is unavailing for two reasons. First, Haskell ignores the fact that in Lewis the notice of appeal had been entered before the fine was paid. Second, Haskell has made no effort to correct the Superior Court record to reflect a deposit of the fine rather than its payment.\nFinally, we note that the principle we apply is not one of waiver; therefore, the cases Haskell cites concerning waiver are inapposite.\nThe entry is:\nAppeal dismissed.\nAll concurring.\n. Section 2115 provides in pertinent part:\nIn any criminal case in the Superior Court any defendant aggrieved by a judgment, ruling or order may appeal therefrom to the law court within 10 days or such further time as may be granted by the court pursuant to a rule of court.\n. In State v. Lewis, 406 A.2d 886 (Me.1979), we held that voluntary payment of the fine after serving notice of appeal terminated the action and left nothing upon which an appeal might operate.",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      }
+    ],
+    "attorneys": [
+      "Gene Libby (orally), Dist. Atty., Alfred, for the State; David Gregory, Alfred, of counsel.",
+      "Lawrence C. Winger (orally), Portland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Richard P. HASKELL.\nSupreme Judicial Court of Maine.\nArgued May 6, 1985.\nDecided May 29, 1985.\nGene Libby (orally), Dist. Atty., Alfred, for the State; David Gregory, Alfred, of counsel.\nLawrence C. Winger (orally), Portland, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, VIOLETTE, WATHEN and SCOLNIK, JJ."
+  },
+  "file_name": "1265-02",
+  "first_page_order": 1311,
+  "last_page_order": 1312
+}

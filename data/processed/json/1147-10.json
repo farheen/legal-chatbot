@@ -1,0 +1,58 @@
+{
+  "id": 12488441,
+  "name": "Com. v. Baker, R.",
+  "name_abbreviation": "Com v. Baker",
+  "decision_date": "2016-05-13",
+  "docket_number": "704 WDA 2015",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "0207759df27d2fb8792af682739e89c24d10221c29f1ba72a2827f969b613c63",
+    "simhash": "1:d19177715ea187b1",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBaker, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBaker, R.\n704 WDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1147-10",
+  "first_page_order": 1147,
+  "last_page_order": 1147
+}

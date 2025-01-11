@@ -1,0 +1,58 @@
+{
+  "id": 12501884,
+  "name": "COM. v. BROOKS, S.",
+  "name_abbreviation": "Com. v. Brooks",
+  "decision_date": "2018-07-30",
+  "docket_number": "2440 EDA 2016",
+  "first_page": "718",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 718"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "c42e9fdc3e850dc14c7ae458af9cfd97bd32daf81c5eab7d02a0481c8d161d2b",
+    "simhash": "1:fed3a63a89ae5f24",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBROOKS, S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBROOKS, S.\n2440 EDA 2016\nSuperior Court of Pennsylvania.\nJuly 30, 2018\nAffirmed"
+  },
+  "file_name": "0718-03",
+  "first_page_order": 718,
+  "last_page_order": 718
+}

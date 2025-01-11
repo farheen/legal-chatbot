@@ -1,0 +1,61 @@
+{
+  "id": 8206466,
+  "name": "In re Michael T. JOYCE. Petition of Michael T. Joyce",
+  "name_abbreviation": "In re Joyce",
+  "decision_date": "2008-10-15",
+  "docket_number": "No. 141 EM 2008",
+  "first_page": "1041",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "958 A.2d 1041"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 315,
+    "ocr_confidence": 0.734,
+    "sha256": "7431e28fd41f5816bf36f1a6ca29254da2c73eefabad559c56c96d573dc9502f",
+    "simhash": "1:07b7d070abaa7ca7",
+    "word_count": 54
+  },
+  "last_updated": "2023-07-14T22:36:53.045426+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice McCAFFERY did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "In re Michael T. JOYCE. Petition of Michael T. Joyce."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 15th day of October, 2008, the Petition to Allow Subpoena of Judges is DENIED.\nJustice McCAFFERY did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Michael T. JOYCE. Petition of Michael T. Joyce.\nNo. 141 EM 2008.\nSupreme Court of Pennsylvania.\nOct. 15, 2008."
+  },
+  "file_name": "1041-02",
+  "first_page_order": 1071,
+  "last_page_order": 1071
+}

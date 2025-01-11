@@ -1,0 +1,59 @@
+{
+  "id": 12167776,
+  "name": "In re Samuel O'Brien Jones",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "1965-03-02",
+  "docket_number": "No. 7448",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 71,
+    "ocr_confidence": 0.668,
+    "sha256": "b7c2bd564260ed3aec9668cc25dcc1ee730cc302df0af9fe1cf62eb11289c1ad",
+    "simhash": "1:b2ccab1f8b3110e3",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Samuel O'Brien Jones"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Smoking article.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 2, 1965\nIn re Samuel O'Brien Jones\n(No. 7448)."
+  },
+  "file_name": "1838-02",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

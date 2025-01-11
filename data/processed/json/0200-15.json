@@ -1,0 +1,58 @@
+{
+  "id": 12486607,
+  "name": "Com. v. D. Davis",
+  "name_abbreviation": "Com. v. Davis",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 1424 WDA 2015",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "6468fb61a8a9de38df35ebc79fee02fb72a2c75193d3e06fc7e48c44fac4ec64",
+    "simhash": "1:5dc82c109020bc80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Davis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Davis\nNO. 1424 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nAffirmed."
+  },
+  "file_name": "0200-15",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487330,
+  "name": "Com. v. C. Clark",
+  "name_abbreviation": "Com. v. Clark",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 1092 EDA 2015",
+  "first_page": "778",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "54b3442f1f71b9564d527ad3850d265ec12aea15af159ce887963af14a6ed758",
+    "simhash": "1:280b273af0a09d80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Clark"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Clark\nNO. 1092 EDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0778-04",
+  "first_page_order": 778,
+  "last_page_order": 778
+}

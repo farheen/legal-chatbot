@@ -1,0 +1,79 @@
+{
+  "id": 7366012,
+  "name": "Eileen BENEDETTI v. ALLSTATE INSURANCE COMPANY; Elizabeth L. RAINONE and Ralph S. Rainone v. ALLSTATE INSURANCE COMPANY",
+  "name_abbreviation": "Benedetti v. Allstate Insurance Co.",
+  "decision_date": "1993-12-16",
+  "docket_number": "Nos. 93-167-Appeal, 93-335-Appeal",
+  "first_page": "729",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 A.2d 729"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "605 A.2d 1318",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939674
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/605/1318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 152,
+    "char_count": 1852,
+    "ocr_confidence": 0.653,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18951857811015238
+    },
+    "sha256": "a0cd3ac82d305cf7f5b5060c93817667d0a701f19470e035cdda0238ee12c8f4",
+    "simhash": "1:2015c94f65c2efb9",
+    "word_count": 289
+  },
+  "last_updated": "2024-02-27T17:56:39.653482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eileen BENEDETTI v. ALLSTATE INSURANCE COMPANY. Elizabeth L. RAINONE and Ralph S. Rainone v. ALLSTATE INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant in both these consolidated cases, Allstate Insurance Company (Allstate) appeals from two judgments entered in the Superior Court confirming arbitrators\u2019 awards which exceeded the policy limits by the amount of prejudgment interest. All parties appeared before this court December 10,1993 pursuant to orders that had consolidated these cases and directed the parties to appear and show cause why the cases should not be summarily decided.\nAfter hearing, the arguments of counsel and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown. We believe that these cases are controlled by our recent opinion in Allstate Ins. Co. v. Pogorilich, 605 A.2d 1318 (R.I.1992). In that case we held that the policy limits of an uninsured/underinsured automobile insurance policy may not be expanded to include prejudgment interest even though the injured party may be entitled to recover such prejudgment interest from the tort-feasor.\nIn the cases at bar, the policy limits were clearly set forth. The arbitrators had no authority by adding prejudgment interest to exceed those limits. Obviously the awards of the arbitrators would be effective in full as against the tort-feasor, however, in respect to Allstate the award including prejudgment interest may not exceed the policy limits set forth in each case.\nConsequently, the appeals of Allstate are sustained in each case. The judgment confirming the award is vacated. The papers in the case may be remanded to the Superior Court for entry .of a new judgment in accordance with this order.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "R. Kevin Horan, Pawtucket.",
+      "Philip Parsons, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Eileen BENEDETTI v. ALLSTATE INSURANCE COMPANY. Elizabeth L. RAINONE and Ralph S. Rainone v. ALLSTATE INSURANCE COMPANY.\nNos. 93-167-Appeal, 93-335-Appeal.\nSupreme Court of Rhode Island.\nDec. 16, 1993.\nR. Kevin Horan, Pawtucket.\nPhilip Parsons, Providence."
+  },
+  "file_name": "0729-02",
+  "first_page_order": 803,
+  "last_page_order": 804
+}

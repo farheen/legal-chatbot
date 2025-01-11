@@ -1,0 +1,58 @@
+{
+  "id": 12486644,
+  "name": "Com. v. H. Proctor",
+  "name_abbreviation": "Com. v. Proctor",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 338 EDA 2015",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "c5fe3d313352468f1a4ee784ba3ffd5d127dbbe53b6aea5e61f676b24c7c5a11",
+    "simhash": "1:9981e40182b21d91",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nH. Proctor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nH. Proctor\nNO. 338 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed."
+  },
+  "file_name": "0202-05",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

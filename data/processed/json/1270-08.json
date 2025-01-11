@@ -1,0 +1,59 @@
+{
+  "id": 6082287,
+  "name": "Ex parte Otto Isler",
+  "name_abbreviation": "Ex parte Isler",
+  "decision_date": "1945-05-08",
+  "docket_number": "No. 5048",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 C.C.P.A. 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 133,
+    "ocr_confidence": 0.435,
+    "sha256": "afb78c7d62061f938f8274f0feea836a314ff0bf1ab19ed8f3f0bc783ac0d5e7",
+    "simhash": "1:122dfb60255c0acc",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T22:03:11.359845+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Otto Isler"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in staple preparations of vitamin E and process for the manufacture thereof.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 8, 1945\nEx parte Otto Isler\n(No. 5048)."
+  },
+  "file_name": "1270-08",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

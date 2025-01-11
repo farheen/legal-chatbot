@@ -1,0 +1,64 @@
+{
+  "id": 11568216,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Martin David SMILEY, Appellant",
+  "name_abbreviation": "Commonwealth v. Smiley",
+  "decision_date": "1999-10-04",
+  "docket_number": "",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "737 A.2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 442,
+    "ocr_confidence": 0.683,
+    "sha256": "fbf5662231d6b912135eb6695b6a6343eaf88a490f298b582df35bebe9b3d116",
+    "simhash": "1:fe748f3eb10380f2",
+    "word_count": 65
+  },
+  "last_updated": "2023-07-14T20:11:27.119320+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Martin David SMILEY, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAppeal dismissed as having been improvidently granted.\nJustices ZAPPALA and SAYLOR dissent.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Joseph P. Burt, Erie, for Martin David Smiley.",
+      "Joseph P. Conti, Lisa M. Schlosser, Erie, for Com."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Martin David SMILEY, Appellant.\nSupreme Court of Pennsylvania.\nArgued Sept. 14, 1999.\nDecided Oct. 4, 1999.\nJoseph P. Burt, Erie, for Martin David Smiley.\nJoseph P. Conti, Lisa M. Schlosser, Erie, for Com.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "0250-02",
+  "first_page_order": 318,
+  "last_page_order": 318
+}

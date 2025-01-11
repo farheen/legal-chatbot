@@ -1,0 +1,58 @@
+{
+  "id": 12488309,
+  "name": "Com. v. Vazquez, J.",
+  "name_abbreviation": "Com v. Vazquez",
+  "decision_date": "2016-05-06",
+  "docket_number": "1241 EDA 2015",
+  "first_page": "1138",
+  "last_page": "1138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "c3d6b18f484fce7737e375e7c3366d481d253de4dad01049a5651117660b2ca0",
+    "simhash": "1:bd1876d95dcdbde9",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nVazquez, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nVazquez, J.\n1241 EDA 2015\nSuperior Court of Pennsylvania.\nMay 6, 2016\nAffirmed"
+  },
+  "file_name": "1138-05",
+  "first_page_order": 1138,
+  "last_page_order": 1138
+}

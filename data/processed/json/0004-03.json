@@ -1,0 +1,99 @@
+{
+  "id": 12490998,
+  "name": "STATE of Connecticut v. Geraldo TORRES",
+  "name_abbreviation": "State v. Torres",
+  "decision_date": "2017-10-04",
+  "docket_number": "",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 4"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "159 A.3d 1204",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12489597,
+        12489598,
+        12489599
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/159-2/1204-01",
+        "/a3d/159-2/1204-02",
+        "/a3d/159-2/1204-03"
+      ]
+    },
+    {
+      "cite": "173 Conn.App. 901",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489594,
+        12489595,
+        12489597
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/159-2/1203-01",
+        "/a3d/159-2/1203-02",
+        "/a3d/159-2/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 368,
+    "sha256": "28400d3135424b1db0fb16c44d21344a5d7e284df4a11045ff72b2c7a65b6b51",
+    "simhash": "1:a4eae77ca36274f7",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:34:53.168293+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nGeraldo TORRES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 173 Conn.App. 901, 159 A.3d 1204 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nGeraldo TORRES\nSupreme Court of Connecticut.\nDecided October 4, 2017\nLauren Weisfeld, chief of legal services, in support of the petition.\nToni M. Smith-Rosario, senior assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 173 Conn.App. 901, 159 A.3d 1204 (2017), is denied."
+  },
+  "file_name": "0004-03",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

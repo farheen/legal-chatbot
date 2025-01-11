@@ -1,0 +1,58 @@
+{
+  "id": 12501703,
+  "name": "IN RE: D.A.G., a Minor",
+  "name_abbreviation": "In re D.A.G.",
+  "decision_date": "2018-07-17",
+  "docket_number": "153 MDA 2018",
+  "first_page": "683",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 683"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 100,
+    "sha256": "03089b2a5e9665dff13d98d815fef372372ec8472a01c324cc690c2e33802e08",
+    "simhash": "1:eed054f2cab89daa",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: D.A.G., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE: D.A.G., a Minor\n153 MDA 2018\nSuperior Court of Pennsylvania.\nJuly 17, 2018\nVacated/Remanded"
+  },
+  "file_name": "0683-05",
+  "first_page_order": 683,
+  "last_page_order": 683
+}

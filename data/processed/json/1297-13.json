@@ -1,0 +1,59 @@
+{
+  "id": 6083294,
+  "name": "Mitchell & Baker v. Handschiegl",
+  "name_abbreviation": "Mitchell & Baker v. Handschiegl",
+  "decision_date": "1931-11-13",
+  "docket_number": "No. 2833",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 80,
+    "ocr_confidence": 0.51,
+    "sha256": "c144fd4e23b5f6e03db5235ca819f6e699bb7aac7456b5d9517c656c21c4f5b9",
+    "simhash": "1:c5ee14ce9177402b",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mitchell & Baker v. Handschiegl"
+    ],
+    "opinions": [
+      {
+        "text": "Method of making composite picture.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mitchell & Baker v. Handschiegl\n(No. 2833)."
+  },
+  "file_name": "1297-13",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

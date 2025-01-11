@@ -1,0 +1,58 @@
+{
+  "id": 12486432,
+  "name": "Com. v. R. Irving",
+  "name_abbreviation": "Com. v. Irving",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 1128 EDA 2015",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 116,
+    "sha256": "5e28fb94c6cb7eafd0bde4f7be31f329d43f6a0c0c83763d4bdaaa04d783b042",
+    "simhash": "1:d747f78500b759e9",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Irving"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Irving\nNO. 1128 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0188-07",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

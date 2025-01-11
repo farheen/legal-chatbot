@@ -1,0 +1,58 @@
+{
+  "id": 12485906,
+  "name": "Com. v. A. Perry",
+  "name_abbreviation": "Com. v. Perry",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 2469 EDA 2014",
+  "first_page": "592",
+  "last_page": "592",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "a521dec75a308bf787a381c71e4ab6618911e4325c0bd67f64d28fafa6bafc56",
+    "simhash": "1:680676bd849a6ed1",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Perry"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Perry\nNO. 2469 EDA 2014\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0592-02",
+  "first_page_order": 592,
+  "last_page_order": 592
+}

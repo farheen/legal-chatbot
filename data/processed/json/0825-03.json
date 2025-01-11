@@ -1,0 +1,58 @@
+{
+  "id": 12487611,
+  "name": "Leroy London v. Zoning Board of Adjustment",
+  "name_abbreviation": "London v. Zoning Bd. of Adjustment",
+  "decision_date": "2016-07-07",
+  "docket_number": "NO. 2256 CD 14",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 190,
+    "sha256": "91a41a97683541328143c394251fb60d1aa74d146f50d36155d26b57ad0807a3",
+    "simhash": "1:8c4bf46009881429",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leroy London\nv.\nZoning Board of Adjustment"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed in Part, Vacated in Part and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leroy London\nv.\nZoning Board of Adjustment\nNO. 2256 CD 14\nCommonwealth Court of Pennsylvania\nJuly 07, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0825-03",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

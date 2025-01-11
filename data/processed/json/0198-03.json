@@ -1,0 +1,58 @@
+{
+  "id": 12486579,
+  "name": "Com. v. R. Stewart",
+  "name_abbreviation": "Com. v. Stewart",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 3375 EDA 2014",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "5641b1d31b8f538942b9cfe39753ec1ad7b11da70b72a40437efd64ed74ab0d8",
+    "simhash": "1:1d51680584b09881",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Stewart"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Stewart\nNO. 3375 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nAffirmed."
+  },
+  "file_name": "0198-03",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

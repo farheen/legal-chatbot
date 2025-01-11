@@ -1,0 +1,62 @@
+{
+  "id": 11287761,
+  "name": "STATE v. Claire O'COIN",
+  "name_abbreviation": "State v. O'Coin",
+  "decision_date": "1980-03-13",
+  "docket_number": "No. 80-61-C.A.",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "414 A.2d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 420,
+    "ocr_confidence": 0.673,
+    "sha256": "0fcc93d4263e74fca036b2c558efb875c977d9dc5a0b0910f42167a06525aa18",
+    "simhash": "1:1d9a12917f717659",
+    "word_count": 65
+  },
+  "last_updated": "2023-07-14T14:31:03.934549+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Claire O'COIN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe state\u2019s motion for priority assignment is granted and this case is assigned to the May, 1980 calendar for oral argument.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Chief Appellate Division, Spec. Asst. Atty. Gen., for plaintiff.",
+      "McKinnon & Fortunato, Amy R. Tabor, Daniel V. McKinnon, Pawtucket, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Claire O'COIN.\nNo. 80-61-C.A.\nSupreme Court of Rhode Island.\nMarch 13, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Chief Appellate Division, Spec. Asst. Atty. Gen., for plaintiff.\nMcKinnon & Fortunato, Amy R. Tabor, Daniel V. McKinnon, Pawtucket, for defendant."
+  },
+  "file_name": "0192-03",
+  "first_page_order": 246,
+  "last_page_order": 246
+}

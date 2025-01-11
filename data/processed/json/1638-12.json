@@ -1,0 +1,59 @@
+{
+  "id": 6087745,
+  "name": "In re Elbert A. Sanford, et al.",
+  "name_abbreviation": "In re Sanford",
+  "decision_date": "1967-04-05",
+  "docket_number": "No. 7918",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 130,
+    "ocr_confidence": 0.489,
+    "sha256": "e143c23491ed21432a1e5414b8e809a760a43907987794626b993fda027f2b0d",
+    "simhash": "1:94ea5ddd85656edd",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Elbert A. Sanford, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Semicreptalline glass and method\" of applying the same to metallic bases.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 5, 1967\nNo. 7918.\nIn re Elbert A. Sanford, et al."
+  },
+  "file_name": "1638-12",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

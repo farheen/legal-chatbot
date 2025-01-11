@@ -1,0 +1,62 @@
+{
+  "id": 12485566,
+  "name": "State v. John R. Engle",
+  "name_abbreviation": "State v. Engle",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-1033 SEPT TERM 2014, 075823",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 122,
+    "sha256": "ecfb6c133710b2c012dee2883df9e548ab4b84db530e143c0d754b4a58603134",
+    "simhash": "1:3de40c7695482d28",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nJohn R. Engle"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nJohn R. Engle\nNOS. C-1033 SEPT TERM 2014, 075823\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-11",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486638,
+  "name": "Com. v. Q. Berry",
+  "name_abbreviation": "Com. v. Berry",
+  "decision_date": "2016-03-17",
+  "docket_number": "NO. 1042 WDA 2015",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "418eaa072382d5bbfc7ea0932a511372b7f53339c03c320682b6a7f1191cdb8f",
+    "simhash": "1:04196c2b102819c0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nQ. Berry"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nQ. Berry\nNO. 1042 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 17, 2016\nAffirmed."
+  },
+  "file_name": "0202-14",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

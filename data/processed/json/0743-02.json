@@ -1,0 +1,103 @@
+{
+  "id": 7925816,
+  "name": "STATE of Maine v. Daniel VAN SICKLE",
+  "name_abbreviation": "State v. Van Sickle",
+  "decision_date": "1986-09-24",
+  "docket_number": "",
+  "first_page": "743",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "515 A.2d 743"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "472 A.2d 1367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7994619
+      ],
+      "pin_cites": [
+        {
+          "page": "1372"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/472/1367-01"
+      ]
+    },
+    {
+      "cite": "485 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7906438
+      ],
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/485/0231-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 140,
+    "char_count": 1329,
+    "ocr_confidence": 0.755,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20059625097833889
+    },
+    "sha256": "36f1cdb57074abbb312917f87cef3ca7bb4891387118a8ccf0ed0878f842f5ae",
+    "simhash": "1:35ab12fc17810387",
+    "word_count": 208
+  },
+  "last_updated": "2024-02-27T17:16:27.982786+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN, GLASSMAN and SCOLNIK, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Daniel VAN SICKLE."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nDaniel Van Sickle appeals his conviction of operating a motor vehicle after suspension, 29 M.R.S.A. \u00a7 2184 (Supp. 1985-1986), and after revocation as an habitual offender, 29 M.R.S.A. \u00a7 2292 (Supp. 1985-1986), entered after a jury trial in the Superior Court (Kennebec County). Contrary to his first contention, it was not obvious error to allow the prosecutor to refer to the defendant as \u201ca convicted thief\u201d during argument, because the evidence showed that the defendant had been convicted for the theft offense of receiving stolen property, 17-A M.R.S.A. \u00a7\u00a7 351, 359. See State v. Hinds, 485 A.2d 231, 237 (Me.1984). Nor was it obvious error to allow the defendant, at the prosecutor\u2019s request, to stand next to a witness before the jury. The comparison was relevant and not unduly prejudicial. M.R.Evid. 403; see State v. Johnson 472 A.2d 1367, 1372 (Me.1984).\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "David S. Crook, Dist. Atty. Pamela Ames (orally), Asst. Dist. Atty., Augusta, for plaintiff.",
+      "Andrea Najar\u00edan (orally), Pierce, Atwood, Scribner, Allen, Smith & Lancaster, Augusta, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Daniel VAN SICKLE.\nSupreme Judicial Court of Maine.\nArgued Sept. 2, 1986.\nDecided Sept. 24, 1986.\nDavid S. Crook, Dist. Atty. Pamela Ames (orally), Asst. Dist. Atty., Augusta, for plaintiff.\nAndrea Najar\u00edan (orally), Pierce, Atwood, Scribner, Allen, Smith & Lancaster, Augusta, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN, GLASSMAN and SCOLNIK, JJ."
+  },
+  "file_name": "0743-02",
+  "first_page_order": 801,
+  "last_page_order": 802
+}

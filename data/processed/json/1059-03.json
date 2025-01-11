@@ -1,0 +1,58 @@
+{
+  "id": 12490161,
+  "name": "EOM, J. v. UCBR",
+  "name_abbreviation": "Eom v. UCBR",
+  "decision_date": "2017-01-31",
+  "docket_number": "350 CD 2016",
+  "first_page": "1059",
+  "last_page": "1059",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1059"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "6266a1d3350d116d093ef40a05f85c13a558736e0a00b72e6cdbd90d29e6e506",
+    "simhash": "1:5de1f3278ad917e9",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EOM, J.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "EOM, J.\nv.\nUCBR\n350 CD 2016\nCommonwealth Court of Pennsylvania.\nJanuary 31, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1059-03",
+  "first_page_order": 1059,
+  "last_page_order": 1059
+}

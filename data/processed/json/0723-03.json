@@ -1,0 +1,79 @@
+{
+  "id": 7290295,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Dusty Andrew GAUMER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Gaumer",
+  "decision_date": "2010-03-10",
+  "docket_number": "",
+  "first_page": "723",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "981 A.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4196398,
+        7294054
+      ],
+      "pin_cites": [
+        {
+          "page": "907"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/603/0046-01",
+        "/a2d/981/0902-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 598,
+    "ocr_confidence": 0.686,
+    "sha256": "98c195f3b0c8ee96dd85171e1e00c3f9b021ceb93d0c48afc1ad429ac7546e66",
+    "simhash": "1:57a14a4722fb4ca2",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Dusty Andrew GAUMER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of March, 2010, the Petition for Allowance of Appeal is hereby GRANTED. The order of the Superior Court is VACATED, and the matter REMANDED to the trial court for resentencing pursuant to Commonwealth v. Haag, 981 A.2d 902, 907 (Pa.2009) (if no conviction on previous \u00a7 3802 violation occurred before commission of subsequent violation, offender cannot be sentenced as recidivist on subsequent violation). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Dusty Andrew GAUMER, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 10, 2010."
+  },
+  "file_name": "0723-03",
+  "first_page_order": 765,
+  "last_page_order": 766
+}

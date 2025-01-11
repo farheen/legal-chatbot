@@ -1,0 +1,83 @@
+{
+  "id": 12491675,
+  "name": "IN RE CEANA R. et al.",
+  "name_abbreviation": "In re Ceana R.",
+  "decision_date": "2017-12-21",
+  "docket_number": "",
+  "first_page": "1244",
+  "last_page": "1244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 1244"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 991"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "177 Conn. App. 758",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491389
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/172-2/0870-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 441,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578789342544681
+    },
+    "sha256": "5ebfd759f42b39b2ddde7fc9f636ae070ed74ce744eb8901910e954ee1a8ae28",
+    "simhash": "1:b45e122a9e45e1d1",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE CEANA R. et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The respondent father's petition for certification to appeal from the Appellate Court, 177 Conn. App. 758, 172 A.3d 870 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE CEANA R. et al.\nSupreme Court of Connecticut.\nDecided December 21, 2017\nJohn C. Drapp III, assigned counsel, in support of the petition.\nDaniel M. Salton, assistant attorney general, in opposition.\nThe respondent father's petition for certification to appeal from the Appellate Court, 177 Conn. App. 758, 172 A.3d 870 (2017), is denied.\nD'AURIA and KAHN, Js., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "1244-04",
+  "first_page_order": 1244,
+  "last_page_order": 1244
+}

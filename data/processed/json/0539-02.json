@@ -1,0 +1,92 @@
+{
+  "id": 7351046,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Seifullah ABDUL-SALAAM, Petitioner",
+  "name_abbreviation": "Commonwealth v. Abdul-Salaam",
+  "decision_date": "1996-10-25",
+  "docket_number": "",
+  "first_page": "539",
+  "last_page": "539",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "684 A.2d 539"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "678 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11733985,
+        463594
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/678/0342-01",
+        "/pa/544/0514-01"
+      ]
+    },
+    {
+      "cite": "544 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        463594
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/544/0514-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 612,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18941297349768269
+    },
+    "sha256": "346071756cd3f6ed9c136014a00800e1c980f600838d844ce974c5a10634eeed",
+    "simhash": "1:c421236894cf453c",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T19:22:16.402098+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Seifullah ABDUL-SALAAM, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of October, 1996, upon consideration of petitioner\u2019s emergency motion for a stay of execution pending the filing and resolution of a petition for a writ of certiorari, IT IS HEREBY ORDERED that petitioner\u2019s application is GRANTED and his execution will be stayed pending action by the United States Supreme Court on his petition for writ of certiorari from this Court\u2019s ruling in Commonwealth v. Abdul-Salaam, 544 Pa. 514, 678 A.2d 342 (1996).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Seifullah ABDUL-SALAAM, Petitioner.\nSupreme Court of Pennsylvania.\nOct. 25, 1996."
+  },
+  "file_name": "0539-02",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

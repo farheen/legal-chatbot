@@ -1,0 +1,59 @@
+{
+  "id": 8189277,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Ali MARSH, Respondent",
+  "name_abbreviation": "Commonwealth v. Marsh",
+  "decision_date": "2008-11-17",
+  "docket_number": "",
+  "first_page": "51",
+  "last_page": "51",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "961 A.2d 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 102,
+    "char_count": 1105,
+    "ocr_confidence": 0.684,
+    "sha256": "a4ede783ddf4bc32f09f58ae202c2febbe4a16988ac3e5990999e77549842bcc",
+    "simhash": "1:f4164d3803e88fb3",
+    "word_count": 170
+  },
+  "last_updated": "2023-07-14T22:29:42.716980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Ali MARSH, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of November, 2008, the Petition for Allowance of Appeal is hereby GRANTED. The issues, as stated by Petitioner, are:\n(1) Did the Superior Court err by holding, in contradiction of the Rules of Criminal Procedure and this Court\u2019s precedent, that unsupported, vague statements in a defendant\u2019s motion to discover a confidential informant\u2019s identity satisfy his threshold burden to prove the materiality of his request to a potential defense and its reasonableness?\n(2) Did the Superior Court err by finding that under this Court\u2019s Payne and Carter decisions the confidential informant\u2019s identity was material to a mistaken identity defense where the defendant was arrested within one minute at the scene of the crime in the view of three officers?\n(3) Did the Superior Court err by balancing the Commonwealth\u2019s confidentiality privilege against [the] defendant\u2019s desire for disclosure where [the] defendant failed to meet his threshold burden of proof?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Ali MARSH, Respondent.\nSupreme Court of Pennsylvania.\nNov. 17, 2008."
+  },
+  "file_name": "0051-02",
+  "first_page_order": 97,
+  "last_page_order": 97
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6083009,
+  "name": "In re Hildebrand",
+  "name_abbreviation": "In re Hildebrand",
+  "decision_date": "1932-11-16",
+  "docket_number": "No. 3054",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 81,
+    "ocr_confidence": 0.538,
+    "sha256": "6f7dde795d62ec849e8e07aec3b8e70b63c933f7825864a22ca30ff10753105a",
+    "simhash": "1:46960c2642924631",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Hildebrand"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in cooling filters.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 16, 1932\nIn re Hildebrand\n(No. 3054). \u2014"
+  },
+  "file_name": "1227-10",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

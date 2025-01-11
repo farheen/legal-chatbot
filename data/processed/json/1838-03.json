@@ -1,0 +1,59 @@
+{
+  "id": 12167800,
+  "name": "In re Glenn R. Morton",
+  "name_abbreviation": "In re Morton",
+  "decision_date": "1965-03-04",
+  "docket_number": "No. 7541",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 120,
+    "ocr_confidence": 0.604,
+    "sha256": "e7e8a7c9ffe2e48b3137a01cbbddcced69e0be4fd4af5f2030814863653d8b65",
+    "simhash": "1:6b94e1e2f00fab39",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Glenn R. Morton"
+    ],
+    "opinions": [
+      {
+        "text": "Method of and means for producing dense articles from molten materials.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 4, 1965\nIn re Glenn R. Morton\n(No. 7541)."
+  },
+  "file_name": "1838-03",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

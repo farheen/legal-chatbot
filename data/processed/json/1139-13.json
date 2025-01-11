@@ -1,0 +1,58 @@
+{
+  "id": 12488317,
+  "name": "Com. v. Belcher, A.",
+  "name_abbreviation": "Com v. Belcher",
+  "decision_date": "2016-05-06",
+  "docket_number": "1177 WDA 2015",
+  "first_page": "1139",
+  "last_page": "1139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 119,
+    "sha256": "834b06de2df41aa29c6349b1672bba672aeb089bad1a6f9ad48a0defe794d2c6",
+    "simhash": "1:fc18644911e8b970",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBelcher, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBelcher, A.\n1177 WDA 2015\nSuperior Court of Pennsylvania.\nMay 6, 2016\nReargument Denied June 29, 2016\nQuashed"
+  },
+  "file_name": "1139-13",
+  "first_page_order": 1139,
+  "last_page_order": 1139
+}

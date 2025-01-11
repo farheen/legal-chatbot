@@ -1,0 +1,59 @@
+{
+  "id": 8160138,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Kerry McNEIL, Petitioner",
+  "name_abbreviation": "Commonwealth v. McNeil",
+  "decision_date": "2009-02-20",
+  "docket_number": "",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 286,
+    "ocr_confidence": 0.683,
+    "sha256": "6e51c57ac1a55a13b6b8c61dc06b0e70f8b78d20287199512d95b4f28ad54634",
+    "simhash": "1:5c2d0726c14309f6",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T18:01:30.821331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Kerry McNEIL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of February, 2009, the Petition for Allowance of Appeal is hereby DENIED. The Motion to Supplement Allocatur Petition is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Kerry McNEIL, Petitioner.\nSupreme Court of Pennsylvania.\nFeb. 20, 2009."
+  },
+  "file_name": "0550-03",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

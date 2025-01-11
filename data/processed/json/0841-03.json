@@ -1,0 +1,64 @@
+{
+  "id": 12489877,
+  "name": "FOGLE v. STOUFFER, Warden of the Roxbury Correctional Institution, et al.",
+  "name_abbreviation": "Fogle v. Stouffer",
+  "decision_date": "2017-06-21",
+  "docket_number": "Pet. Docket No. 30, Sept. Term, 2017",
+  "first_page": "841",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "162 A.3d 841"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 199,
+    "sha256": "20fcb0f2a60e27250480eded448b4c64c827d05b42d1be00e6ecf1ad3772f653",
+    "simhash": "1:17a63271c458c095",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T20:57:14.018929+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FOGLE\nv.\nSTOUFFER, Warden of the Roxbury Correctional Institution, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "FOGLE\nv.\nSTOUFFER, Warden of the Roxbury Correctional Institution, et al.\nPet. Docket No. 30, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJune 21, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0841-03",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

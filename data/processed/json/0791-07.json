@@ -1,0 +1,58 @@
+{
+  "id": 12490907,
+  "name": "IN RE A.M.",
+  "name_abbreviation": "In re A.M.",
+  "decision_date": "2017-07-24",
+  "docket_number": "17\u2013087",
+  "first_page": "791",
+  "last_page": "791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "9db441d9bcfa1c87447fa220f97c1dcceeb1d23e3e23221f3cbbd7429dd3f51f",
+    "simhash": "1:74356d10aa63c84e",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022672+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE A.M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE A.M.\n17-087\nSupreme Court of Vermont.\nJuly 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0791-07",
+  "first_page_order": 791,
+  "last_page_order": 791
+}

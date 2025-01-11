@@ -1,0 +1,792 @@
+{
+  "id": 11312430,
+  "name": "In re ESTATE OF John Francis BRAUN, Deceased. Appeal of Maurine BRAUN",
+  "name_abbreviation": "In re Estate of Braun",
+  "decision_date": "1994-11-14",
+  "docket_number": "",
+  "first_page": "73",
+  "last_page": "82",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "650 A.2d 73"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813569
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "379-380"
+        },
+        {
+          "page": "1193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0375-01"
+      ]
+    },
+    {
+      "cite": "391 Pa.Super. 175",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        477245
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "181"
+        },
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/391/0175-01"
+      ]
+    },
+    {
+      "cite": "281 Pa.Super. 69",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        152807
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "76-77"
+        },
+        {
+          "page": "1154-1155"
+        },
+        {
+          "page": "77"
+        },
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/281/0069-01"
+      ]
+    },
+    {
+      "cite": "108 Pa. 55",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        539281
+      ],
+      "year": 1884,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/108/0055-01"
+      ]
+    },
+    {
+      "cite": "99 A. 155",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "155"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 Pa. 541",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1025420
+      ],
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "543"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/254/0541-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 197",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772950
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "201-204",
+          "parenthetical": "citations omitted; emphasis in original"
+        },
+        {
+          "page": "614-615",
+          "parenthetical": "citations omitted; emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/496/0197-01"
+      ]
+    },
+    {
+      "cite": "76 Pa.Super. 292",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        8862987
+      ],
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "294"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/76/0292-01"
+      ]
+    },
+    {
+      "cite": "103 A.2d 445",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 Pa.Super. 173",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        720807
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "178"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/175/0173-01"
+      ]
+    },
+    {
+      "cite": "138 A.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "436"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 Pa. 584",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276865
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "586"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/391/0584-01"
+      ]
+    },
+    {
+      "cite": "389 Pa.Super. 430",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        474449
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "434",
+          "parenthetical": "any layperson choosing to represent herself in a legal proceeding must, to some reasonable extent, assume the risk that her lack of expertise and legal training will prove her undoing"
+        },
+        {
+          "page": "682",
+          "parenthetical": "any layperson choosing to represent herself in a legal proceeding must, to some reasonable extent, assume the risk that her lack of expertise and legal training will prove her undoing"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/389/0430-01"
+      ]
+    },
+    {
+      "cite": "326 Pa.Super. 14",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        601590
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "36"
+        },
+        {
+          "page": "595"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/326/0014-01"
+      ]
+    },
+    {
+      "cite": "87 A.2d 223",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "226",
+          "parenthetical": "party who illegally fails to pay a debt is liable to pay interest thereon at the statutory rate unless the parties expressly agree otherwise"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "369 Pa. 471",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1232400
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "473-474",
+          "parenthetical": "party who illegally fails to pay a debt is liable to pay interest thereon at the statutory rate unless the parties expressly agree otherwise"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/369/0471-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 121",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "121"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 Pa. 478",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1216492
+      ],
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/346/0478-01"
+      ]
+    },
+    {
+      "cite": "200 A. 238",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "243",
+          "parenthetical": "the duty of the executor is primarily one of payment, that is, of auditing and paying the expenses of burial and of conserving and distributing the assets of the estate to those who are legally entitled thereto"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 Pa.Super. 1",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        1010321
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "11",
+          "parenthetical": "the duty of the executor is primarily one of payment, that is, of auditing and paying the expenses of burial and of conserving and distributing the assets of the estate to those who are legally entitled thereto"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/132/0001-01"
+      ]
+    },
+    {
+      "cite": "369 Pa.Super. 213",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        686298
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "223",
+          "parenthetical": "in the event that a decedent's assets are insufficient to satisfy the claims of creditors, Pennsylvania law provides that the administrator may acquire control over the real property and the income derived from it to satisfy the creditors' claims"
+        },
+        {
+          "page": "130",
+          "parenthetical": "in the event that a decedent's assets are insufficient to satisfy the claims of creditors, Pennsylvania law provides that the administrator may acquire control over the real property and the income derived from it to satisfy the creditors' claims"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/369/0213-01"
+      ]
+    },
+    {
+      "cite": "271 Pa.Super. 559",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        133022
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "562",
+          "parenthetical": "funeral expenses are a charge which the law imposes upon the estate of the decedent"
+        },
+        {
+          "page": "396",
+          "parenthetical": "funeral expenses are a charge which the law imposes upon the estate of the decedent"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/271/0559-01"
+      ]
+    },
+    {
+      "cite": "218 A.2d 81",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "207 Pa.Super. 363",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        775173
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "366"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/207/0363-01"
+      ]
+    },
+    {
+      "cite": "153 A. 724",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "724",
+          "parenthetical": "usury arises between borrower and lender"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "302 Pa. 449",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1129088
+      ],
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "451",
+          "parenthetical": "usury arises between borrower and lender"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/302/0449-01"
+      ]
+    },
+    {
+      "cite": "420 Pa.Super. 137",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        920161
+      ],
+      "weight": 7,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "143"
+        },
+        {
+          "page": "20"
+        },
+        {
+          "page": "144-145"
+        },
+        {
+          "page": "21",
+          "parenthetical": "citations and emphasis omitted"
+        },
+        {
+          "page": "144"
+        },
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/420/0137-01"
+      ]
+    },
+    {
+      "cite": "388 Pa.Super. 474",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        472518
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "482"
+        },
+        {
+          "page": "1211"
+        },
+        {
+          "page": "483"
+        },
+        {
+          "page": "1211",
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/388/0474-01"
+      ]
+    },
+    {
+      "cite": "495 Pa. 93",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1770727
+      ],
+      "weight": 4,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "97"
+        },
+        {
+          "page": "969"
+        },
+        {
+          "page": "97"
+        },
+        {
+          "page": "970"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/495/0093-01"
+      ]
+    },
+    {
+      "cite": "499 Pa. 321",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1778906
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "323"
+        },
+        {
+          "page": "330"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/499/0321-01"
+      ]
+    },
+    {
+      "cite": "527 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1827735
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "67",
+          "parenthetical": "affirmative defense of illegality was not waived even though it was raised for the first time in post-trial motions"
+        },
+        {
+          "page": "495",
+          "parenthetical": "affirmative defense of illegality was not waived even though it was raised for the first time in post-trial motions"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/527/0059-01"
+      ]
+    },
+    {
+      "cite": "419 Pa.Super. 582",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        918221
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "585"
+        },
+        {
+          "page": "793"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/419/0582-01"
+      ]
+    },
+    {
+      "cite": "421 Pa.Super. 513",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        921925
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "520"
+        },
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/421/0513-01"
+      ]
+    },
+    {
+      "cite": "511 Pa. 475",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1798670
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "479-480",
+          "parenthetical": "citations and quotation marks omitted"
+        },
+        {
+          "page": "557",
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/511/0475-01"
+      ]
+    },
+    {
+      "cite": "486 A.2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1981,
+      "opinion_index": 1
+    },
+    {
+      "cite": "427 Pa.Super. 55",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        930840
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/427/0055-01"
+      ]
+    },
+    {
+      "cite": "496 Pa. 197",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1772950
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/496/0197-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1413,
+    "char_count": 35707,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2396813482175988
+    },
+    "sha256": "b6792cad429b6d450e5d0c279e0004a6c8ccf5843007fa69869c1d79fa8c0697",
+    "simhash": "1:e6aae9362f7647a8",
+    "word_count": 5917
+  },
+  "last_updated": "2024-02-27T19:00:02.522567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before KELLY, FORD ELLIOTT and BROSKY, JJ."
+    ],
+    "parties": [
+      "In re ESTATE OF John Francis BRAUN, Deceased. Appeal of Maurine BRAUN."
+    ],
+    "opinions": [
+      {
+        "text": "BROSKY, Judge.\nThis is an appeal from the final order of the Orphans\u2019 court denying appellant\u2019s petition to discharge a lien on her real property and directing her to pay appellee the sum of $4,534.32.\nAppellant presents the following issues for review: (1) whether the trial court erred in applying the interest rate set forth in a prior court order and decree, which provided for the payment of interest at a rate in excess of the maximum statutory rate; (2) whether an individual can waive application of the usury law by agreeing to an interest rate in excess of that provided by the statute; (3) whether the trial court erred in calculating the amount owed to appellee by providing for compound rather than simple interest; and (4) whether the trial court erred in computing the amount owed to appellee by permitting appellee to recover interest on the debt after the date on which appellant tendered a lesser sum in compromise of the parties\u2019 dispute. For the reasons set forth below, we affirm.\nBefore proceeding to address appellant\u2019s allegations of error, it is necessary to recount the relevant facts giving rise to this appeal. John Braun died testate on April 9, 1973. Mr. Braun\u2019s will directed his executor to pay his just debts and funeral expenses from assets of the estate. The will further devised the remainder of the estate to the decedent\u2019s wife, Maurine Braun, who is the appellant herein. Mr. Braun\u2019s estate consisted solely of a tract of realty which was valued in 1973 at $10,500.\nThe decedent\u2019s funeral expenses amounted to $1,316.00. When full payment was not made, appellee, Stewart Barnhill/Stewart Barnhill Funeral Home, filed a claim against the estate which was identified in the executor\u2019s account. Due to the illiquidity of the estate, the executor was unable to satisfy the claim absent a sale of the decedent\u2019s only asset. To avoid this result and preserve the land for the decedent\u2019s widow, the parties agreed that appellee\u2019s claim would become a charge against the realty. Accordingly, an adjudication and decree of distribution, dated July 1, 1975 as well as a separate order, dated June 20, 1975, were entered creating a lien on the property for the balance owed to appellee together with interest at a rate of eight percent (8%) per annum. The June order further provided for payment in the sum of $50.00 per month until the principal and interest accruing on the unpaid balance were paid in full. Following entry of the June order and final decree, appellant made four monthly payments in the sum of $50.00 upon the debt. Appellant made no further payments after October, 1975. Appellant likewise did not seek review of either the June order or the final adjudication and decree within the time period prescribed by law. The charge against the property was subsequently recorded and indexed as a lien on the estate in September, 1977.\nAppellant sold her property in March, 1992 at which time she tendered the sum of $2,574.24 in compromise of the debt owed to appellee. Appellee refused to accept appellant\u2019s offer of partial payment. As the parties were unable to settle their dispute, appellant filed a petition in October, 1993 requesting that the court compute the amount of the debt from July, 1975 using a rate of 6% simple interest and directing that the lien be discharged upon payment. By order entered on November 30, 1993 the trial court determined that appellant owed appellee the sum of $4,534.32 as of November 23, 1993 and provided that the lien would be discharged upon payment. Appellant thereafter appealed from the entry of this order.\nAs a preliminary matter, we note that appellant has failed to apprise us of the applicable scope and standard of review as mandated by Pa.R.A.P., 3518(a), 42 Pa. C.S.A. Appellee likewise has not supplied us with the standard and scope of review. Our independent research of this matter has disclosed the appropriate standard, which has been explicated by our Supreme Court as follows:\nThe standard of review of a decision of the Orphans\u2019 Court is to assure that the record is free from legal error and to determine if the chancellor\u2019s findings are supported by competent and adequate evidence and are not predicated upon capricious disbelief of competent and credible evidence.... [Moreover, the] chancellor, sitting as the trier of fact and viewing the witnesses] ha[s] the best opportunity to judge the credibility of and the weight to be assigned to th[e] testimony, and h[is] findings cannot be disturbed absent an abuse of discretion. Thus, while the [petitioner\u2019s] burden of proof is one of law, the reviewing court cannot reverse the chancellor\u2019s findings based merely upon its conclusion as to the weight to be given to ... [the] testimony, for that is within the sole province of the trier of fact.\nIn re: Estate of Cornell, 511 Pa. 475, 479-480, 515 A.2d 555, 557 (1986) (citations and quotation marks omitted). Accord Estate of Getz, 421 Pa.Super. 513, 520, 618 A.2d 456, 459 (1992); In re: Benson, 419 Pa.Super. 582, 585, 615 A.2d 792, 793 (1992). While our review of the Orphans\u2019 Court findings of fact is limited to considering whether they are supported by the record, we are not so restricted in reviewing the legal conclusions derived therefrom. Estate of Getz, supra. We will evaluate the decision of the Orphans\u2019 Court in accordance with these considerations.\nAppellant\u2019s first and second questions both concern the chancellor\u2019s decision to uphold the interest rate of eight percent (8%), as set forth in the 1975 order and decree. Because these issues are interrelated they will be addressed together. With respect to these matters, appellee contends that appellant is precluded from challenging the provisions of the 1975 order and decree and the interest rate specified therein pursuant to the provisions of the Probate, Estates and Fiduciaries Code (\u201cPEF Code\u201d), 20 Pa.C.S.A. \u00a7 3521 and res judicata principles. Appellant, however, responds that appellee has waived this claim because appellee failed to raise it in the lower court proceedings. Although appellee neither recited the words \u201cres judicata\u201d nor referenced the PEF Code, he asserted that the prior order and decree affixing the interest rate were final and that appellant\u2019s claims were waived by her failure to appeal therefrom. See Creditor\u2019s Brief in Opposition to Petition to Discharge Property from Lien, filed 11/22/93, at 2. This argument sufficiently apprised the lower court that appellant\u2019s attempt to challenge the pri- or order and decree was precluded by the finality principles which underlie both the PEF Code and the doctrine of res judicata. Appellee thus adequately preserved this matter for review. See, e.g., American Association of Meat Processors v. Casualty Reciprocal Exchange, 527 Pa. 59, 67, 588 A.2d 491, 495 (1991) (affirmative defense of illegality was not waived even though it was raised for the first time in post-trial motions).\nOur Supreme Court has recognized that an order confirming an account and ordering distribution of an estate becomes final when no appeal is timely filed therefrom. In re: Estate of Litostansky, 499 Pa. 321, 323, 453 A.2d 329, 330 (1982). The failure to appeal from a final order renders the doctrine of res judicata applicable. Id. Nevertheless, the PEF Code permits a beneficiary to file a petition to review any adjudication or decree of distribution within five years after the final confirmation of the account. 20 Pa.C.S.A. \u00a7 3521.\nAlthough the order and decree of distribution were entered in 1975, appellant did not file a petition challenging the interest rate set forth in the 1975 documents until 1993, well outside of the five year period prescribed by Section 3521. Review of the 1975 order and decree is thus statutorily precluded unless appellant can establish fraud. Estate of Thomas, 495 Pa. 93, 97, 432 A.2d 968, 969 (1981); In re Estate of Doerr, 388 Pa.Super. 474, 482, 565 A.2d 1207, 1211 (1989).\nTo warrant review of a distribution decree, the fraud alleged or proved must ... appear to have induced the distribution decree itself, or in the alternative, to have deterred an interested party from seeking review of the decree within the five year, period permitted by the statute. A cause of action arising from fraud is complete when the transaction has ended; the statute of limitations begins to run at once, unless discovery is prevented by active concealment. The party claiming fraud and seeking review is charged not only with ... what he actually knew at the time, but also with what he should have known through the exercise of reasonable diligence. Thus, in order to justify reconsideration of a distribution decree after the statute has run, a party must prove an intrinsic fraud which has prevented precisely one\u2019s exercise of the limited right of review which the statute grants.\nIn re Estate of Doerr, 388 Pa.Super. at 483, 565 A.2d at 1211 (citations and quotation marks omitted). Accord Estate of Thomas, 495 Pa. at 97, 432 A.2d at 970. Appellant has neither alleged nor proved intrinsic fraud sufficient to justify reopening of the 1975 order and decree of distribution. Under these circumstances, principles of finality preclude appellant from challenging the 1975 order and decree. Estate of Thomas, supra; In re: Estate of Doerr, supra; 20 Pa.C.S.A. \u00a7 3521.\nEven were we to permit appellant to collaterally attack the interest rate established in the 1975 orders and decree, she would not be entitled to any relief. In support of her argument that the interest rate in the order and decree is usurious, appellant refers us to the provisions of the Loan Interest and Protection Law (\u201cLIPL\u201d), 41 P.S. \u00a7 101-\u00a7 605 and the Judicial Code, 42 Pa.C.S.A. \u00a7 8101. The LIPL was designed to protect the citizenry of this Commonwealth from being exploited at the hands of unscrupulous individuals seeking to circumvent the law at the expense of unsuspecting borrowers who may have no other avenue to secure financial backing. Smith v. Mitchell, 420 Pa.Super. 137, 143, 616 A.2d 17, 20 (1992). By its own terms, the LIPL only governs transactions relating to the loan or use of money. 41 P.S. \u00a7 201 (fixing the maximum lawful rate of interest for the loan or use of money). See also 20 P.L.E. \u00a7 22 (1990) (usury contemplates the existence of a loan; when there is no loan, usury cannot arise), citing Seltzer v. Sokoloff, 302 Pa. 449, 451, 153 A. 724, 724 (1931) (usury arises between borrower and lender). The LIPL does not apply to a bona fide sale of goods on credit. Equipment Finance, Inc. v. Grannas, 207 Pa.Super. 363, 366, 218 A.2d 81, 82 (1966).\nAs applied here, the record reveals that appellant\u2019s financial obligation arose out of appellee\u2019s provision of funeral-related goods and services to appellant\u2019s decedent, which was presumably done at the behest of appellant. This transaction necessarily included provision of the decedent\u2019s casket and embalming services, as well as other associated burial materials, services and costs, such as rental of the funeral home for viewing of the decedent, rental of the funeral hearse or other costs of interment, in exchange for a monetary sum. The decedent\u2019s funeral bill thus became a just debt of the estate which had to be satisfied before the decedent\u2019s assets could be transferred to appellant, who was the sole beneficiary of her husband\u2019s estate. See Wright v. Allstate Insurance Co., 271 Pa.Super. 559, 562, 414 A.2d 395, 396 (1979) (funeral expenses are a charge which the law imposes upon the estate of the decedent); 20 Pa.C.S.A. \u00a7 3392 (providing that costs of the decedent\u2019s burial and funeral are to be paid prior to distribution of assets); Last Will and Testament of John Braun (directing executor to pay the just debts and funeral expenses out of the estate assets).\nWhen full payment was not made, appellee filed a claim against the estate as is permitted under the PEF Code, 20 Pa.C.S.A. \u00a7 3384. However, the decedent\u2019s estate was only comprised of a tract of land valued at $10,500. Due to the illiquidity of the estate, the executor was required to either sell the assets to satisfy this claim or enter into a compromise to ensure payment of the debt without a sale of the realty that would deprive the widow of possession of her home. Matter of Estate of Barilla, 369 Pa.Super. 213, 223, 535 A.2d 125, 130 (1987) (in the event that a decedent\u2019s assets are insufficient to satisfy the claims of creditors, Pennsylvania law provides that the administrator may acquire control over the real property and the income derived from it to satisfy the creditors\u2019 claims); Hodge v. Cameron, 132 Pa.Super. 1, 11, 200 A. 238, 243 (1938) (the duty of the executor is primarily one of payment, that is, of auditing and paying the expenses of burial and of conserving and distributing the assets of the estate to those who are legally entitled thereto).\nThe executor properly effectuated the intent of the decedent by choosing the latter course of action. As a result, the parties entered into an agreement which benefited appellant by permitting her to receive and retain her property, subject to a lien of charge, in exchange for her payment of the decedent\u2019s funeral costs. This agreement was subsequently approved by the Orphans\u2019 Court and was incorporated into the order and decree of distribution. After reviewing the events giving rise to appellant\u2019s obligation, we do not believe that the transaction falls within the scope of matters which the LIPL was designed to regulate as it involved the bona fide purchase of and payment for funerary goods and services, which became a just debt of the estate, rather than an agreement for the loan or use of money.\nAppellant also contends that the order and decree of distribution constituted a judgment which can only bear interest at the maximum statutory rate pursuant to 42 Pa. C.S.A. \u00a7 8101 (providing that a judgment for a specific sum of money shall bear interest at the lawful rate) and 41 P.S. \u00a7 202 (reference in any law or document to the legal rate of interest without specification of the applicable rate must be construed to refer to the rate of interest of six percent per annum). Our Supreme Court has recognized that a decree of distribution is like a judgment, and thus, interest thereon is incidental thereto. See Koleff Estate, 346 Pa. 478, 479, 31 A.2d 121, 121 (1943). With respect to the rate of interest, however, this court has observed:\nA review of the case law reveals that the trend of the courts has been to take an equitable approach in determining interest as an element of damages. The Pennsylvania courts have also adopted this approach, and in equity cases, the award and rate of interest allowed is at the discretion of the chancellor.... An examination of the cases dealing with the charge and allowance of interest will disclose many difficulties, but the decided trend of courts of law and courts of equity has been to break away from hard and fast rules and charge and allow interest in accordance with principles of equity, in order to accomplish justice in each particular case. Unless a ease be found, which is a conclusive precedent, the safest and at the same time the fairest way for a court is to decide questions pertaining to interest according to a plain and simple consideration of justice and fair dealing.\nSmith v. Mitchell, 420 Pa.Super. at 144-145, 616 A.2d at 21 (citations and emphasis omitted). Moreover, the courts of this Commonwealth have found that the parties may agree to a post-judgment interest rate in excess of that provided by statute. See, e.g., Miller v. City of Reading, 369 Pa. 471, 473-474, 87 A.2d 223, 226 (1952) (party who illegally fails to pay a debt is liable to pay interest thereon at the statutory rate unless the parties expressly agree otherwise); Smith v. Mitchell, 420 Pa.Super. at 144, 616 A.2d at 21 (quoting Daset Mining Corp. v. Industrial Fuels Corp., 326 Pa.Super. 14, 36, 473 A.2d 584, 595 (1984) and recognizing that in contracts concerning the payment of the sum of money at a rate higher or lower than the legal rate, they can agree to have the agreed upon interest rate continue after the debt becomes due; in the absence of an agreement, the interest rate fixed by law attaches); Cumberland Valley Cooperative Association v. Martin, 11 D. & C.4th 10, 12 (C.C.P. Cumberland County 1991) (specific intent of the parties prevails over the statutory rate; parties\u2019 agreement to pay post-judgment interest rate of 15% was upheld); Tierney v. Seidman, 19 Philadelphia County Reporter 267, 277 (1989) (legal rate of interest does not apply post-judgment where the agreement between the parties specifies a higher rate of 14.6%); Sicari v. Barua, 43 D. & C.3d 647, 649 (C.C.P. Somerset County 1986) (enforcing parties\u2019 agreement to pay post-judgment interest rate of 16.5%).\nAs we previously explained, appellee accommodated appellant and the executor of the decedent\u2019s estate by accepting a lien on appellant\u2019s land and a monthly repayment of the decedent\u2019s funeral expenses in lieu of full and immediate satisfaction by virtue of a sale of the decedent\u2019s assets. The terms of the parties\u2019 agreement were approved by the court and are reflected in the order and decree of distribution. See Order of June 20, 1975 and Adjudication and Decree of July 1, 1975. Pursuant to the agreement, appellant was obligated to pay the decedent\u2019s funeral costs of $1,316.00 plus interest at a rate of 8% per annum. Order of June 20, 1975 and Adjudication and Decree of July 1, 1975. Appellant further agreed to repay the principal balance and accrued interest in the sum of $50.00 per month until the debt was fully paid. Order of June 20, 1975. The record thus reflects that the parties expressly contracted for a post-judgment rate of interest in excess of the statutory rate, as they were permitted to do. Miller v. City of Reading, Smith v. Mitchell, Daset Mining Corp. v. Industrial Fuels Corp., Cumberland Valley Cooperative Association v. Martin, Tierney v. Seidman, and Sicari v. Barua, supra.\nAppellant cannot now be heard to complain that the agreement was unfair, unjust or unknowing because of any lack of legal representation or sophistication. See O\u2019Neill v. Checker Motors Corp., 389 Pa.Super. 430, 434, 567 A.2d 680, 682 (1989) (any layperson choosing to represent herself in a legal proceeding must, to some reasonable extent, assume the risk that her lack of expertise and legal training will prove her undoing). If appellant had concerns regarding the terms of the agreement, there is no evidence that she was prevented from consulting with legal counsel. In the alternative, appellant could have apprised the court of any inequities in the proposal, as appellant was afforded the opportunity to speak with the court at the audit hearing. See N.T. 6/20/75 at 2-3. Although appellant was technically unrepresented, the record reveals that the executor of the estate, who was an attorney, fulfilled his duties to both appellant and the estate by facilitating an agreement between the parties which enabled appellant to retain her property. The agreement thus inured to appellant\u2019s benefit, as the executor otherwise would have been required to sell the estate assets to satisfy the decedent\u2019s just debts. Matter of Estate of Barilla, supra.\nWe further note that the Orphans\u2019 Court is a court of equity powers, and in all matters within its jurisdiction, has full authority to grant relief as any chancellor. Webb Estate, 391 Pa. 584, 586, 138 A.2d 435, 436 (1958); Vought Estate, 175 Pa.Super. 173, 178, 103 A.2d 445, 448 (1954), allocatur denied. It is within the discretion of the Orphans\u2019 Court to ascertain the reasonableness of the decedent\u2019s funeral costs and expenses, in accordance with equitable principles, so that justice could be accomplished. Webb Estate, supra; Smith v. Mitchell, supra; Vought Estate, supra; Ennis\u2019 Estate, 76 Pa.Super. 292, 294 (1921). The chancellor thus had the power to provide for a lower interest rate in the event he found the rate proposed by the parties to be excessive or usurious. See Ennis\u2019 Estate, supra (affirming Orphans\u2019 Court\u2019s decree which awarded undertaker reasonable funeral expenses rather than full amount of his claim). By approving the agreement, the chancellor evidently deemed the interest rate to be reasonable, fair and just in light of the parties\u2019 circumstances, the proposed payment plan and the fact that the debt had not been paid for more than two years at the time the agreement was reached. As there is nothing in the record evidencing an error of law or abuse of discretion, there is no basis upon which to overturn his decision at this late date.\nAppellant next argues that the Orphans\u2019 court erroneously calculated the amount owed to appellee by awarding compound rather than simple interest. Contrary to appellant\u2019s assessment, the chancellor did not award compound interest to appellee. With regard to. this issue, our Supreme Court has stated:\nIt is generally true that the law of this Commonwealth frowns on an award of compound interest on a debt except where the parties agree to it or a statute expressly authorizes it. However, lawful interest from the time of obtaining the judgment is expressly allowed by statute to the judgment creditor in an action to enforce the judgment. In ... addressing the issue [of] whether to allow interest from the date of [an] arbitrator\u2019s award, [this Court] stated:\nThe award had the effect of a verdict fixing the loss, with compensation for detention in payment added, and interest on the total sum found due was thereafter allowable. Compound interest is not allowable but the addition to the total award here sued on did not controvert this rule, and is therefore not objectionable as constituting double compensation.\nClearly then, statutory and case law of this Commonwealth have long favored an award of interest in an action on a prior judgment even where that prior judgment included an award of interest.... Quite simply put, interest awarded as to the principal amount of the claim merges with the principal awarded and becomes thereby an integral part of the judgment....\nRalph Myers Contracting Corp. v. Commonwealth of Pennsylvania, Department of Transportation, 496 Pa. 197, 201-204, 436 A.2d 612, 614-615 (1981) (citations omitted; emphasis in original).\nThe record reflects that the Orphans\u2019 Court awarded appellee simple interest on the principal balance owed by appellant. See 1975 Order and Adjudication and Decree. The interest thus merged with the principal balance and became part thereof. Ralph Myers Contracting Corp. v. Commonwealth of Pennsylvania, Department of Transportation, supra. With each year that the debt remained unpaid, the principal balance necessarily had to be adjusted to include the amount of interest which had accrued thereon; to do otherwise would deprive appellee of the interest to which he was lawfully entitled pursuant to the directives of the Orphans\u2019 Court. The chancellor therefore correctly calculated the amount owed to appellee and did not improperly award compound interest.\nAppellant\u2019s final challenge pertains to the lower court\u2019s inclusion of interest from the time she ceased payments in October 1975 until the date of the award on November 23, 1993. Appellant contends that interest from March 2, 1992 onward should have been excluded because appellee refused appellant\u2019s offer to compromise the amount owed. Appellant thus believes that her tender offer and appellee\u2019s refusal thereof stopped the accrual of additional interest on the debt. With respect to this issue, this court has commented:\nThe Supreme Court in [McComack v. Sharples, 254 Pa. 541, 543, 99 A. 155, 155 (1916) ] ... stated:\nEven when no demand for payment has been made, it has been held that interest should be paid from the time when there should have been an accounting and payment. It is a sound principle, equally applicable in equity or at law, that one who retains money, after it is justly due and payable to another should pay interest for the detention.\nThis rule is applicable despite the fact that the creditor\u2019s demands were in excess of the amount due. As stated by Mr. Justice Trunkey, speaking for the Supreme Court in West Republic Mining Co. v. Jones & Laughlins, 108 Pa. 55[, 69] (1884):\nIn this state it seems to have been long understood that where it is the duty of the debtor to pay the sum he owes, and the creditor demands a greater sum, the debt- or can only reheve himself from liability by tendering payment of the debt. A bona fide dispute as to the amount of the indebtedness is no bar to the accruing of interest. If a tender of payment falls short of the sum found to be due at the time of tender, interest runs on the whole.\nGold & Company, Inc. v. Northeast Theater Corp., 281 Pa.Super. 69, 76-77, 421 A.2d 1151, 1154-1155 (1980).\nIn applying these principles, this court has repeatedly held that a party must offer a legally sufficient tender, i.e., the tender must include interest which has accrued on the obligation to the date of the tender, to stop the running of interest. Kessler v. Old Guard Mutual Insurance Co., 391 Pa.Super. 175, 181, 570 A.2d 569, 572 (1990); Gold & Company, Inc. v. Northeast Theater Corp., 281 Pa.Super. at 77, 421 A.2d at 1155. Where a legally sufficient tender is refused, the party must pay the tender into court. Kessler v. Old Guard Mutual Insurance Co. and Gold & Company, Inc. v. Northeast Theater Corp., supra.\nAppellant did not make a legally sufficient tender to appellee. Instead of tendering the full amount of the unpaid principal and the interest that had accrued thereon, which sum was in excess of $3,823.32, appellant only tendered $2,574.24, an amount substantially less than that which was owed. See Appellant\u2019s Petition to Discharge Property from Lien, filed 10/21/93, at paragraph 11 and Exhibit E (Letter from Maurine Braun\u2019s counsel, John Rodgers to Stewart Barnhill Funeral Home, dated February 3, 1992). Appellant also did not pay the tender into court once it was refused. Because appellant did not make a suitable tender, interest on the debt continued to accrue. Kessler v. Old Guard Mutual Insurance Co. and Gold & Company, Inc. v. Northeast Theater Corp., supra.\nAppellant additionally suggests that appellee should be precluded from recovering interest due to his failure to bring appropriate action to enforce the payment schedule decreed by the Orphans\u2019 Court. As previously indicated, the appellate courts have long recognized that interest accrues on a debt which is due and payable even when no demand for payment has been made. Fernandez v. Levin, 519 Pa. 375, 379-380, 548 A.2d 1191, 1193 (1988); Gold & Company, Inc. v. Northeast Theater Corp., supra. Appellee\u2019s lack of diligence in enforcing the 1975 order and decree thus did not prevent the accrual of interest.\nMoreover, appellee was not required to institute suit to enforce payment. Appellee\u2019s claim was protected by virtue of the charge on appellant\u2019s real estate until twenty years had elapsed. See 20 Pa.C.S.A. \u00a7 3554 (providing that a charge upon real property which has been recorded and indexed within twenty years after the payment or any part thereof becomes due shall remain on the real property for a period of twenty years from the time of indexing and no longer unless renewed for successive periods of twenty years). The charge in this case was duly recorded and indexed in September of 1977, almost two years after appellant had defaulted on her payments. Consequently, appellee was not required to take further action until 1997, at which time the charge would be irrecoverable unless renewed. The chancellor therefore properly included all of the interest, including that which accrued after appellant\u2019s compromise offer was rejected, in its order. Finding no error or abuse of discretion, we affirm.\nOrder affirmed.\nFORD ELLIOTT, J., files a dissenting statement.\n. Appellee credited these payments towards the principal instead of attributing a portion thereof to the interest which had accrued. Consequently, the principal balance remaining on the account was $1,116.00 as of October, 1975 when the last payment was made. After appellant defaulted on her payments, appellee began computing simple interest on the debt in accordance with the 1975 order and decree. Accrued interest was thus added to the principal balance at the end of each year to arrive at a new principal balance, such that by October 8, 1993, appellant owed appellee the sum of $4,459.53.\n. We will disregard this defect as it does not substantially preclude this court from engaging in effective and meaningful review of appellant\u2019s claims. See Pa.R.A.P., Rule 105(a), 42 Pa.C.S.A. (permitting the appellate courts to disregard the requirements or provisions of the appellate procedural rules except as otherwise provided in Rule 105(b)).\n. Appellant owed $3,823.32 as of October 8, 1991. See Appellant's Petition to Discharge Property from Lien, filed 10/21/93, Exhibit D (Letter from Stewart Barnhill Funeral Home to Maurine Braun, identifying the amount of the principal balance, payments made thereon, and interest which had accrued from 1973 through October 8, 1991). The debt thus had accrued additional interest by the time appellant tendered her offer in March, 1992.",
+        "type": "majority",
+        "author": "BROSKY, Judge."
+      },
+      {
+        "text": "FORD ELLIOTT, Judge,\ndissenting:\nWhile I find myself in complete agreement with the Majority\u2019s resolution of appellant\u2019s first two issues, pertaining to whether an interest rate of 8% may be assessed, I am unable to concur in the analysis on issue three, concerning whether the trial court erred in calculating the amount owed to ap-pellee by providing for compound rather than simple interest. I am of the opinion that compound interest was used to calculate the amount owed and that this was improper. Therefore, I must respectfully dissent.\nThis court has recently defined compound interest in Katzeff v. Fazio, 427 Pa.Super. 55, 628 A.2d 425 (1993). There we stated, \u201c... we note that interest is compounded when it is added to the principal, the result of which is treated as a new principal for calculating the interest due for the next term.\u201d Katzeff at 64, 628 A.2d at 430. We went on to observe in Katzeff that our law disapproves of compound interest and that we will only permit it when the parties have provided for it by agreement or a statute expressly authorizes it. I agree with both of those observations. However, I believe that instantly the Majority\u2019s opinion appears to allow the assessment of compound interest.\nAt page 15 of their opinion, the Majority state, \u2018With each year that the debt remained unpaid, the principal balance necessarily had to be adjusted to include the amount of interest which had accrued thereon; to do otherwise would deprive appellee of the interest to which he was lawfully entitled pursuant to the directives of the Orphans\u2019 Court.\u201d To me, this describes compound interest in its most classic sense.\nI believe that appellant is only entitled to simple interest each year on the original principal of $1,116. At an 8% rate, this amounts to adding $89.28 to the amount owed by appellee each year. After 18 years, the time at which our litigants currently stand, the amount owed would have swelled to $2,723.04. Only by compounding interest each year for 18 years does one arrive at the even greater sum of $4,459.56. This is precisely what was done below and is what the Majority have described in their opinion. Indeed, in its opinion dated February 11, 1994, the court below candidly admitted at page two that the interest here was compound.\nThe Majority recites Ralph Myers Contracting Corporation v. Commonwealth of Pennsylvania, Department of Transportation, 496 Pa. 197, 486 A.2d 612 (1981) in support of their position. From my reading of their opinion, the Majority appear to be interpreting Ralph Myers to embrace the concept that simple interest assessed each year merges with the principal and becomes the new principal upon which simple interest is calculated the next year. To me, this is simply another way of describing compound interest.\nMoreover, my interpretation of Ralph Myers differs. Rather, I believe that Ralph Myers merely holds that where the original judgment or award contains an interest component, it does not amount to the compounding of interest to allow simple interest to be assessed each term on the total amount of the judgment until full payment is made. However, Ralph Myers still called for the assessment of simple interest only upon that original award. Ralph Myers merely addressed the question of what constitutes the total award on which interest then accrues.\nThe Ralph Myers court adopted the analysis propounded by its appellant, which analogized to a revival of judgment situation. Quoting Fries v. Watson, 5 S. & R. 220, 222 (1819), the court stated:\nIn the first action of debt, the plaintiff would have recovered the amount of his original judgment, with interest. The principal and interest would then be thrown into one consolidated sum, which would form the amount of the judgment in the first action of debt. In the second action of debt, the recovery would be, of the amount of the sum recovered recovered in the first action of debt, with interest; and so, toties quoties. This is the principle contended for by the plaintiff. Nor is there any thing against equity in it. The payment of interest is occasioned by the default of the defendant. It is equitable, that he should pay interest on the whole sum detained from the plaintiff. And at each time when the plaintiff obtains judgment on a scire facias, the defendant, who makes default, detains from him the amount of the sum for which judgment was obtained.\nRalph Myers at 202, 436 A.2d at 615.\nUnder Ralph Myers, a plaintiff could effectively obtain a rudimentary form of compound interest through successive revivals of judgment. However, that is not the instant situation and I do not believe that the Ralph Myers court envisioned a case where each term\u2019s interest on a debt would be considered to merge with the principal. This would be tantamount to holding that compound interest may be awarded. Clearly, our law frowns on this and constrains me to voice the objection contained herein.\n. At page 2 of its opinion, dated February 11, 1994, the trial court adopts the reasoning in a \u201cBrief in Opposition to Petition to Discharge Property from Lien.\u201d That document urged that compound interest should be imposed because the parties had effectively agreed to it. In adopting this analysis, I believe that the court makes a combined finding of fact and conclusion of law with which I cannot agree. The only \"agreement\u201d here was in the form of a prior order of court, which stated, in pertinent part, \"Mrs. Braun is to pay $50.00 a month on the 10th of each succeeding month until the principal and interest are paid off in full, at the rate of 8% interest on the unpaid balance.\u201d The court below has interpreted \"unpaid balance\u201d to refer-to both principal and interest. I do not share that interpretation, but rather believe the \"agreement\u201d to be wholly ambiguous on this point. Thus, I would find no express agreement to pay compound interest.\n. Our total is calculated to the October 8, 1993 anniversary date. The amount in the order in question, $4,534.32, is apparently calculated to a later date.",
+        "type": "dissent",
+        "author": "FORD ELLIOTT, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Robert Modrak, Washington, for appellant.",
+      "Lucinda A. Bush, Washington, for Barnhill, participating party."
+    ],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF John Francis BRAUN, Deceased. Appeal of Maurine BRAUN.\nSuperior Court of Pennsylvania.\nArgued June 15, 1994.\nFiled Nov. 14, 1994.\nRobert Modrak, Washington, for appellant.\nLucinda A. Bush, Washington, for Barnhill, participating party.\nBefore KELLY, FORD ELLIOTT and BROSKY, JJ."
+  },
+  "file_name": "0073-01",
+  "first_page_order": 131,
+  "last_page_order": 140
+}

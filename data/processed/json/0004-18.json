@@ -1,0 +1,58 @@
+{
+  "id": 12484990,
+  "name": "Commonwealth v. Akim Pierre",
+  "name_abbreviation": "Commonwealth v. Pierre",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 770 MAL 2015",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 144,
+    "sha256": "fded09b5cce35d4bdd98533218aafae97cd621f8bc942ac0432aac1b213ea4bf",
+    "simhash": "1:348f1624012125b0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAkim Pierre"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAkim Pierre\nNO. 770 MAL 2015\nSupreme Court of Pennsylvania\nApril 20, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0004-18",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

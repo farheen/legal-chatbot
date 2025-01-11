@@ -1,0 +1,58 @@
+{
+  "id": 12490449,
+  "name": "Jason and Min LEE v. JPC GROUP",
+  "name_abbreviation": "Lee v. Group",
+  "decision_date": "2017-03-09",
+  "docket_number": "1000 CD 2016",
+  "first_page": "295",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "20f841ebb5948ab0d4ea4aa16d41e7641d25c05816e693dd37a5c7f11ac6bc08",
+    "simhash": "1:6d0c87b58068decb",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason and Min LEE\nv.\nJPC GROUP"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jason and Min LEE\nv.\nJPC GROUP\n1000 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 9, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0295-10",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

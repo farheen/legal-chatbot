@@ -1,0 +1,58 @@
+{
+  "id": 12501581,
+  "name": "COM. v. SMITH, L.",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2018-07-10",
+  "docket_number": "1944 WDA 2016",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 658"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "68193bd83ee2334e2a21676f914b5e24674b276862f975f9b57ed24d852f10ed",
+    "simhash": "1:175d02b29eeb9daf",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nSMITH, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nSMITH, L.\n1944 WDA 2016\nSuperior Court of Pennsylvania.\nJuly 10, 2018\nAffirmed"
+  },
+  "file_name": "0658-04",
+  "first_page_order": 658,
+  "last_page_order": 658
+}

@@ -1,0 +1,845 @@
+{
+  "id": 12045068,
+  "name": "COMMONWEALTH of Pennsylvania v. Richard L. WALKER, Appellant",
+  "name_abbreviation": "Commonwealth v. Walker",
+  "decision_date": "1995-09-29",
+  "docket_number": "",
+  "first_page": "301",
+  "last_page": "313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "502 U.S. 916",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6488709,
+        6488134,
+        6487943,
+        6488904,
+        6487721,
+        6488618,
+        6487627,
+        6488395,
+        6488297,
+        6488043,
+        6487814,
+        6487541,
+        6488214,
+        6488537,
+        6488478,
+        6488799
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0916-14",
+        "/us/502/0916-07",
+        "/us/502/0916-05",
+        "/us/502/0916-16",
+        "/us/502/0916-03",
+        "/us/502/0916-13",
+        "/us/502/0916-02",
+        "/us/502/0916-10",
+        "/us/502/0916-09",
+        "/us/502/0916-06",
+        "/us/502/0916-04",
+        "/us/502/0916-01",
+        "/us/502/0916-08",
+        "/us/502/0916-12",
+        "/us/502/0916-11",
+        "/us/502/0916-15"
+      ]
+    },
+    {
+      "cite": "267 Pa.Super. 504",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        125011
+      ],
+      "weight": 12,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "506-508"
+        },
+        {
+          "page": "25"
+        },
+        {
+          "page": "511-512"
+        },
+        {
+          "page": "28"
+        },
+        {
+          "page": "26"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/267/0504-01"
+      ]
+    },
+    {
+      "cite": "344 Pa.Super. 200",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        636987
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/344/0200-01"
+      ]
+    },
+    {
+      "cite": "389 Pa.Super. 365",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        474495
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "374",
+          "parenthetical": "\"A presentence report constitutes the record and speaks for itself. It is presumed to be valid and need not be supported by evidence unless and until it is challenged by the defendant.\""
+        },
+        {
+          "page": "336",
+          "parenthetical": "\"A presentence report constitutes the record and speaks for itself. It is presumed to be valid and need not be supported by evidence unless and until it is challenged by the defendant.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/389/0365-01"
+      ]
+    },
+    {
+      "cite": "519 Pa. 88",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1813590
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "100-102",
+          "parenthetical": "where presentence investigation report exists, it is presumed that sentencing court considered all relevant factors and weighed those factors in a meaningful fashion"
+        },
+        {
+          "page": "18",
+          "parenthetical": "where presentence investigation report exists, it is presumed that sentencing court considered all relevant factors and weighed those factors in a meaningful fashion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/519/0088-01"
+      ]
+    },
+    {
+      "cite": "320 Pa.Super. 231",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        588469
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "since defendant introduced photo identification by one eyewitness to crime, he could not claim error in its introduction"
+        },
+        {
+          "parenthetical": "since defendant introduced photo identification by one eyewitness to crime, he could not claim error in its introduction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/320/0231-01"
+      ]
+    },
+    {
+      "cite": "337 Pa.Super. 593",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        624038
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "trial court may not delegate to the county adult probation department the final determination as to any disputed amounts to be paid by defendant as restitution"
+        },
+        {
+          "parenthetical": "trial court may not delegate to the county adult probation department the final determination as to any disputed amounts to be paid by defendant as restitution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/337/0593-01"
+      ]
+    },
+    {
+      "cite": "629 A.2d 1377",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "535 Pa. 615",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "418 Pa.Super. 93",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        916900
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "99-100"
+        },
+        {
+          "page": "590"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/418/0093-01"
+      ]
+    },
+    {
+      "cite": "116 L.Ed.2d 261",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 320",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "590 A.2d 756",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 Pa. 616",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "393 Pa.Super. 277",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        877830
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "290-293",
+          "parenthetical": "a substantial question arises when appellant can show \"actions by the sentencing court inconsistent with the sentencing code or contrary to the fundamental norms underlying the sentencing process ... \""
+        },
+        {
+          "page": "617-18",
+          "parenthetical": "a substantial question arises when appellant can show \"actions by the sentencing court inconsistent with the sentencing code or contrary to the fundamental norms underlying the sentencing process ... \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/393/0277-01"
+      ]
+    },
+    {
+      "cite": "84 N.W.2d 833",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 2,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "838"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "349 Mich. 476",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1843093
+      ],
+      "year": 1957,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/349/0476-01"
+      ]
+    },
+    {
+      "cite": "319 Pa.Super. 351",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        92664
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "356-357"
+        },
+        {
+          "page": "197",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/319/0351-01"
+      ]
+    },
+    {
+      "cite": "374 Pa.Super. 510",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        698148
+      ],
+      "weight": 5,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "order of restitution requiring a defendant to make restitution for a loss which, according to the record, he did not cause, is illegal"
+        },
+        {
+          "parenthetical": "order of restitution requiring a defendant to make restitution for a loss which, according to the record, he did not cause, is illegal"
+        },
+        {
+          "page": "514"
+        },
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/374/0510-01"
+      ]
+    },
+    {
+      "cite": "317 Pa.Super. 362",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        89463
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "368-370"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "372-374"
+        },
+        {
+          "page": "368"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/317/0362-01"
+      ]
+    },
+    {
+      "cite": "533 Pa. 14",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1837511
+      ],
+      "weight": 4,
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/533/0014-01"
+      ]
+    },
+    {
+      "cite": "402 Pa.Super. 472",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        891690
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/402/0472-01"
+      ]
+    },
+    {
+      "cite": "367 Pa.Super. 267",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        682702
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "277-279",
+          "parenthetical": "Cirillo, J. concurring"
+        },
+        {
+          "page": "1144",
+          "parenthetical": "Cirillo, J. concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/367/0267-01"
+      ]
+    },
+    {
+      "cite": "575 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "appellants' allegation that it was illegal for the lower court to impose restitution which included the victim's pain and suffering raised a legal issue, and was not an appeal to the discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "525 Pa. 597",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1990,
+      "pin_cites": [
+        {
+          "parenthetical": "appellants' allegation that it was illegal for the lower court to impose restitution which included the victim's pain and suffering raised a legal issue, and was not an appeal to the discretionary aspects of sentencing"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "387 Pa.Super. 12",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        471262
+      ],
+      "weight": 4,
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/387/0012-01"
+      ]
+    },
+    {
+      "cite": "298 Pa.Super. 257",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        187868
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "parenthetical": "appellant raised a legal question regarding his sentence of restitution where appellant claimed that, because the victim was insured and received compensation from his insurer for the loss sustained, appellant could not properly be directed, as a part of his sentence, to make restitution"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/298/0257-01"
+      ]
+    },
+    {
+      "cite": "329 Pa.Super. 148",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        608840
+      ],
+      "weight": 10,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "parenthetical": "the legality of a sentence of restitution is not a waivable issue and therefore, we must address appellants' contention"
+        },
+        {
+          "parenthetical": "the legality of a sentence of restitution is not a waivable issue and therefore, we must address appellants' contention"
+        },
+        {
+          "page": "151-153"
+        },
+        {
+          "page": "7",
+          "parenthetical": "where appellant claims there is no statutory basis for a sentence of restitution for emotional or mental disturbance caused by his criminal conduct, appellant has raised a question as to the legality of the sentence"
+        },
+        {
+          "page": "155-157"
+        },
+        {
+          "page": "9",
+          "parenthetical": "since restitution is part of a criminal sentence, it must be supported by the record and the court must determine the loss or damages resulting from the defendant's conduct; the amount of compensation the defendant can afford to pay; and how such amount should be paid"
+        },
+        {
+          "page": "155-158"
+        },
+        {
+          "page": "9-10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/329/0148-01"
+      ]
+    },
+    {
+      "cite": "341 Pa.Super. 217",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        631046
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/341/0217-01"
+      ]
+    },
+    {
+      "cite": "341 Pa.Super. 468",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        631060
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "472-474"
+        },
+        {
+          "page": "1354"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/341/0468-01"
+      ]
+    },
+    {
+      "cite": "420 Pa.Super. 484",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        920153
+      ],
+      "weight": 6,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "490-494"
+        },
+        {
+          "page": "12-13"
+        },
+        {
+          "page": "491-492"
+        },
+        {
+          "page": "12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/420/0484-01"
+      ]
+    },
+    {
+      "cite": "341 Pa.Super. 261",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        631073
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/341/0261-01"
+      ]
+    },
+    {
+      "cite": "392 Pa.Super. 549",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        875831
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/392/0549-01"
+      ]
+    },
+    {
+      "cite": "405 Pa.Super. 452",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        896686
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/405/0452-01"
+      ]
+    },
+    {
+      "cite": "375 Pa.Super. 448",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        700078
+      ],
+      "weight": 2,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "454-456"
+        },
+        {
+          "page": "1009"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/375/0448-01"
+      ]
+    },
+    {
+      "cite": "513 Pa. 508",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1802565
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/513/0508-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 1200",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "537 Pa. 663",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "426 Pa.Super. 66",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        929920
+      ],
+      "weight": 4,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "75-77"
+        },
+        {
+          "page": "580"
+        },
+        {
+          "page": "82"
+        },
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/426/0066-01"
+      ]
+    },
+    {
+      "cite": "350 Pa.Super. 160",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        648140
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "162-170"
+        },
+        {
+          "page": "296-299"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/350/0160-01"
+      ]
+    },
+    {
+      "cite": "430 Pa.Super. 457",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        936474
+      ],
+      "weight": 5,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "462"
+        },
+        {
+          "page": "1150"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/430/0457-01"
+      ]
+    },
+    {
+      "cite": "430 Pa.Super. 457",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        936474
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/430/0457-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1380,
+    "char_count": 39668,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24523186486934181
+    },
+    "sha256": "1ce7c46dec6cf8d0281e766b8498da7f6b565b793316726476bf3360fd0cff65",
+    "simhash": "1:e0ee27924175cfbb",
+    "word_count": 6430
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before DEL SOLE, FORD ELLIOTT and BROSKY, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania v. Richard L. WALKER, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "FORD ELLIOTT, Judge:\nThis is an appeal from the judgment of sentence of January 25, 1994, entered in the Court of Common Pleas of Armstrong County. We affirm in part, vacate in part, and remand for resentencing.\nAppellant pled guilty to driving \u201cwhile under the influence of alcohol to a degree which renders the person incapable of safe driving[,]\u201d and driving \u201cwhile the amount of alcohol by weight in the blood of the person is 0.10% or greater[.]\u201d These charges arose from a two-car collision in which two occupants of the other vehicle were severely injured. Following the accident, the investigating officer, Chief Roofner of the Gilpin Township Police Department, noticed a strong odor of alcohol on appellant\u2019s breath, and asked appellant to submit to a blood alcohol test. Appellant agreed. The test revealed that appellant had a blood alcohol content of .348%.\nAt the sentencing hearing, appellant argued that he should not be sentenced under the enhanced sentencing guideline applicable when serious bodily injury is involved. In support of his argument, appellant relied upon this court\u2019s decision in Commonwealth v. Gallagher, 430 Pa.Super. 457, 634 A.2d 1147 (1993), for the proposition that in order to implement the enhanced sentencing guidelines under \u00a7 303.5, the court must find that the DUI violation was the cause of the resulting serious bodily injury. We agree with appellant\u2019s interpretation of the rule. It is in the application of this rule to the facts of the case before us that we disagree.\nWhen reviewing\u2019whether the evidence supports application of a sentencing enhancement provision, this court has held that a preponderance of the evidence standard is appropriate and does not violate due process, since the provision that allows for the enhancement is not an element of the crime charged. Commonwealth v. McKeithan, 350 Pa.Super. 160, 162-170, 504 A.2d 294, 296-299 (1986). While McKeithan addressed a weapons enhancement provision, we see no distinction in the case before the court, since causing serious bodily injury is not an element of the crime with which appellant was charged. The trial court was therefore required to find by a preponderance of the evidence that appellant\u2019s driving while intoxicated caused the victims\u2019 injuries. A review of the evidence before the court and the trial court\u2019s findings is, therefore, appropriate.\nAppellant maintained throughout the proceedings that the victims\u2019 car came into his lane of travel, and that, as it did so, appellant stopped his vehicle. (Notes of testimony, 1/25/94 at 27, Presentence Investigation Report [PIR], 11/17/93 at 4.) The probation officer who prepared the PIR, when asked for his assessment of appellant\u2019s version, stated:\nMy biggest problem with what Mr. Walker told me was that his'blood alcohol level was .348. It\u2019s difficult for me to determine if he really knew what was happening that day....\nNotes of testimony 1/25/94 at 28. In addition, the report from the Pennsylvania Highway Safety Program, appended to the PIR, indicates that a blood alcohol content [BAC] of .34% results in \u201can exhibition of major impairment of all physical and mental functions; irresponsible behavior; general feeling of euphoria; difficulty in standing, walking, talking, distorted perception and judgment. If BAC reaches .50% a coma develops and by .60% death can result.\u201d Clearly, there was evidence before the sentencing court that appellant\u2019s driving was impaired to a degree that rendered him incapable of operating his vehicle safely. Indeed, this is the precise language of 75 Pa.C.S.A. \u00a7 3731(a)(1), one of the sections of the Code to which appellant pled guilty. Section 3731(a)(1) provides:\n(a) Offense defined. \u2014 A person shall not drive, operate or be in actual physical control of the movement of any vehicle:\n(1) while under the influence of alcohol to a degree which renders the person incapable of safe driving.\nThus, by pleading guilty to this section, appellant has admitted that he was incapable of safe driving.\nIn addition, the PIR contains a statement from Officer Roofner, the first police officer to reach the scene of the accident, that \u201cit [was] his opinion that the victim\u2019s vehicle did cross the center line in an attempt to avoid a head on collision with the defendant\u2019s vehicle which was in the wrong lane.\u201d (PIR, 11/17/93 at 2.)\nThe PIR also includes the results of an interview between the probation officer conducting the presentencing investigation and Linda Colanduoni, the victim who suffered the worst injuries, including injuries to her head. According to the PIR, Ms. Colanduoni told the probation officer that as she and her husband and child came around the bend, \u201cthe [appellant\u2019s] car was in their lane-[T]he accident happened so fast that she does not know exactly what happened next however, her husband did try to avoid the collision .... [S]he places the blame for this accident solely on [appellant].\u201d (PIR, 11/17/93 at 2-3.) In addition, in a letter to the court from Ms. Colanduoni, appended to the PIR and made a part of the record, Ms. Colanduoni stated: \u201cOn July 15, 1992 my family and I were inolved [sic] in an accident caused by a drunk driver. His name is Richard Walker.... I will never forgive Mr. Walker for what he has done to my entire family_ The entire episode Mr. Walker caused is an outrage.... I feel for what he has caused me alone ... should cause him the fullest punishment the law allows.\u201d (PIR addendum, 1/15/93.) At the sentencing hearing, however, Ms. Colanduoni testified that she told the probation office she had no recollection as to how the accident occurred. (See notes of testimony, 1/25/94 at 17-18.) Ms. Colanduoni also indicated at the hearing that her memory of other events was deteriorating as a result of her head injuries. Id. It was, of course, within the province of the sentencing court to believe all, part, or none of Ms. Colanduoni\u2019s testimony. Commonwealth v. Hlatky, 426 Pa.Super. 66, 75-77, 626 A.2d 575, 580 (1993), alloc. denied, 537 Pa. 663, 644 A.2d 1200 (1994). It was, therefore, within the court\u2019s discretion to give more weight to Ms. Colanduoni\u2019s prior recollection of the accident than to her testimony at the sentencing hearing.\nBased upon the foregoing evidence before the court, the sentencing judge found as follows:\nI find that you [appellant] were intoxicated that night ... and that your intoxication caused your driving to be faulty, and that your driving was a substantial factor in the causing of this accident. I don\u2019t believe that it was the sole factor; that there are other factors. I\u2019m finding that it is a substantial factor.\nNotes of testimony, 1/25/94 at 73-74.\nThe facts in the instant ease are thus clearly distinguishable from the facts in Commonwealth v. Gallagher, supra. Gallagher pled guilty to Driving Under the Influence. He was then sentenced under the enhanced guidelines found at 204 Pa.Code \u00a7 303.5(b) to six to twenty-three months in prison because of the serious bodily injury sustained by a passenger in his car. In vacating the sentence and remanding for resentencing, this court held that, where Gallagher\u2019s blood alcohol content was .13 per cent, and where the trial judge stated that he \u201c[could] not make a definite finding as to what causation was as far as this accident was concerned,\u201d Gallagher, supra at 462, 634 A.2d at 1150, there was not enough evidence of record to find that Gallagher\u2019s drinking caused the accident.\nHaving found that the enhanced sentencing guidelines were appropriately applied by the trial court, we next address appellant\u2019s contention that he was improperly sentenced within the aggravated range of the enhanced guidelines. In order to challenge a discretionary aspect of his sentence, appellant must have met the requirements of Commonwealth v. Tuladziecki 513 Pa. 508, 522 A.2d 17 (1987), and Pa.R.A.P. Rule 2119(f). Although appellant failed to include a concise statement of the reasons for challenging the discretionary aspects of his sentence prior to addressing the merits of the claims, he did, however, include in his \u201cStatement of Questions Involved\u201d a \u201cPetition for Allowance of Appeal Relating to the Discretionary Aspects of Sentencing.\u201d Despite the fact that the Commonwealth failed to object to the lack of a concise statement, this court may still quash the appeal for non-compliance if it determines that its review of appellant\u2019s claim is significantly hampered by the lack of a concise statement. Commonwealth v. Smicklo, 375 Pa.Super. 448, 454-456, 544 A.2d 1005, 1009 (1988); Commonwealth v. Murphy, 405 Pa.Super. 452, 455 n. 5, 592 A.2d 750, 751 n. 5, (1991); Commonwealth v. Ousley, 392 Pa.Super. 549, 573 A.2d 599 (1990). It is clear in the ease before the court that appellant has raised at least one substantial question by challenging whether the same factors that triggered the enhancement guidelines in the first place can also be used to sentence in the aggravated range. As review on appeal is not substantially impaired, we shall address the merits of appellant\u2019s challenge.\nDiscretionary aspects of sentencing are reviewed on appeal for a manifest abuse of discretion. See Commonwealth v. White, 341 Pa.Super. 261, 491 A.2d 252 (1985). It is clear in the instant case that appellant has not demonstrated a manifest abuse of discretion on the part of the trial court. Appellant attempts to rely upon Commonwealth v. Moore, 420 Pa.Super. 484, 617 A.2d 8 (1992), which held that the same mitigating factor that determined a defendant\u2019s offense gravity score could not be used in deciding to sentence in the mitigating range. In Moore, the sentencing court not only gave defendant credit twice for the same mitigating factor, but also failed to take into account the numerous aggravating factors delineated in the PIR. Id. at 490-494, 617 A.2d at 12-13. As the Moore court stated:\n\u2018In determining whether a particular sentence is \u201cclearly unreasonable\u201d or \u201cunreasonable,\u201d the appellate court must consider the defendant\u2019s background and characteristics as well as the particular circumstances of the offense involved, the trial court\u2019s opportunity to observe the defendant, the pre-sentence investigation report, if any, the Sentencing Guidelines as promulgated by the Sentencing Commission, and the \u201cfindings\u201d upon which the trial court based its sentence.\u2019\nId. at 491-492, 617 A.2d at 12, quoting Commonwealth v. Drumgoole, 341 Pa.Super. 468, 472-474, 491 A.2d 1352, 1354 (1985). In the instant case, the trial court had before it a PIR that recommended a minimum sentence of six (6) months, the point of overlap between the standard and aggravated ranges. The trial court also found that appellant had seriously injured more than one person, and that the injuries to one of the victims were of a permanent and totally debilitating nature. These were two of the three reasons the trial court gave for sentencing in the aggravated range. The third reason was appellant\u2019s extraordinarily high blood alcohol content while operating a motor vehicle. (Notes of testimony, 1/25/94 at 74-75.)\nIn Commonwealth v. Duffy, 341 Pa.Super. 217, 491 A.2d 230 (1985), this court addressed the issue of whether a prior record, which was already taken into consideration in the sentencing guidelines by the prior record score, could also be used as a factor in sentencing appellant in the aggravated range. In deciding that the trial court had not abused its discretion, this court stated:\nIn this case, the sentencing judge did not rely solely on appellant\u2019s prior record in deciding to sentence him within the aggravated range.\nId. at 224, 491 A.2d at 233 (emphasis added). In the instant case, as in Duffy, the trial court did not rely solely upon the factors that were necessary to sentence appellant under \u00a7 303.5. The trial court articulated three valid reasons for sentencing in the aggravated range. The fact that there were also mitigating circumstances before the sentencing court, indicating that appellant had \u201cmended his ways\u201d since the accident, did not require the sentencing court to weigh those factors more heavily than the aggravating factors. As the sentencing judge stated to appellant during sentencing:\nIn [arriving at your sentence], I\u2019ve considered your age, your background. I\u2019ve considered all the things brought to my attention by virtue of the presentence investigation report and all its attachments. I\u2019ve also considered all of the evidence, testimony and otherwise, presented to me today.\nNotes of testimony, 1/25/94 at 72-73. It is clear that the sentencing court adequately and fairly considered all of the factors before it in determining appellant\u2019s sentence. As a result, we find no abuse of discretion.\nFinally, appellant argues that 1) restitution is not proper in a \u201cdrunk driving\u201d case; 2) restitution is not proper where there is insufficient evidence that the victim\u2019s injuries directly resulted from the crime; and/or 3) the trial court erred in requiring restitution without first determining the actual amount of the victim\u2019s loss. (Appellant\u2019s brief at 13-14.) We note first, that, while appellant couches his restitution issue as an appeal to the discretionary aspects of his sentence, this court has long held that challenges to the appropriateness of a sentence of restitution are generally challenges to the legality of the sentence. Commonwealth v. Balisteri, 329 Pa.Super. 148, 478 A.2d 5 (1984) (the legality of a sentence of restitution is not a waivable issue and therefore, we must address appellants\u2019 contention); Commonwealth v. Kerr, 298 Pa.Super. 257, 444 A.2d 758 (1982) (appellant raised a legal question regarding his sentence of restitution where appellant claimed that, because the victim was insured and received compensation from his insurer for the loss sustained, appellant could not properly be directed, as a part of his sentence, to make restitution); Commonwealth v. Cannon, 387 Pa.Super. 12, 563 A.2d 918 (1989), alloc, denied sub nom Commonwealth v. Reap, 525 Pa. 597, 575 A.2d 564 (1990) (appellants\u2019 allegation that it was illegal for the lower court to impose restitution which included the victim\u2019s pain and suffering raised a legal issue, and was not an appeal to the discretionary aspects of sentencing).\nWe note further, however, that, while challenges to the appropriateness of a sentence of restitution are challenges to the legality of the sentence, based upon the proposition that the court lacks jurisdiction to impose the sentence, Commonwealth v. Hartz, 367 Pa.Super. 267, 277-279, 532 A.2d 1139, 1144 (1987) (Cirillo, J. concurring); Commonwealth v. Harner, 402 Pa.Super. 472, 476 n. 8, 587 A.2d 347, 349 n. 8 (1991), reversed on other grounds, 533 Pa. 14, 617 A.2d 702 (1992), nevertheless, challenges alleging that a sentence of restitution is excessive under the circumstances have been held by this court to be challenges to the discretionary aspects of sentencing. Commonwealth v. Mathis, 317 Pa.Super. 362, 368-370, 464 A.2d 362, 366 (1983). We will, therefore, first determine which of appellant\u2019s restitution issues are challenges to the legality of the sentence.\nAppellant first claims that restitution does not apply to violations of the Motor Vehicle Code, and specifically to 75 Pa.C.S.A. \u00a7\u00a7 3731(a)(1) et seq. Such a claim is clearly a challenge to the legality of the sentence, since appellant is alleging that there is no statutory basis for a sentence of restitution. Balisteri, supra at 151-153, 478 A.2d at 7 (where appellant claims there is no statutory basis for a sentence of restitution for emotional or mental disturbance caused by his criminal conduct, appellant has raised a question as to the legality of the sentence). We must, therefore, address the merits of appellant\u2019s first claim.\nThis court has held on at least one prior occasion that restitution can be ordered in a situation such as the one presently before the court. Commonwealth v. Fuqua, 267 Pa.Super. 504, 407 A.2d 24 (1979). In Fuqua, this court was confronted with an order of restitution entered after Fuqua lost control of his ear and crashed into the victim\u2019s house. Fu-qua was found guilty of driving under the influence of alcohol following a non-jury trial during which Fuqua denied being intoxicated and testified that he had not crashed into the victim\u2019s house. Id. at 506-508, 407 A.2d at 25. As a result of Fuqua\u2019s conviction, the judge sentenced Fuqua to one year of probation, and ordered him to make restitution to the owner of the house. On appeal from the sentence of restitution, this court analyzed the applicability of 18 Pa.C.S.A. \u00a7 1106 et seq. to a violation of 75 Pa.C.S.A. \u00a7 3731(a)(1). Section 1106 provides in pertinent part:\n(a) General rule. \u2014 Upon conviction for any crime wherein property has been stolen ... or its value substantially decreased as a direct result of the crime, or wherein the victim suffered personal injury directly resulting from the crime, the offender may be sentenced to make restitution in addition to the punishment prescribed therefor.\n(b) Condition of probation or parole.\u2014 Whenever restitution has been ordered pursuant to subsection (a) and the offender has been placed on probation or parole, his compliance with such order may be made a condition of such probation or parole.\n18 Pa.C.S.A. \u00a7 1106(a), (b) (emphasis added). In addressing the applicability of \u00a7 1106 to a violation of the Motor Vehicle Code, Judge Spaeth in Fuqua relied upon the trial court\u2019s analysis:\n\u2018... The basis of the defendant\u2019s allegation is that driving under the influence of alcohol is not a crime punishable under Title 18. Rather, he argues, the crime is punishable under ... the Motor Vehicle Code. 75 Pa.C.S.A. 3731 deals with the offense of driving under the influence of alcohol. 3731(d) states:\n\u201cPenalty. Any person violating any of the provisions of this section is guilty of a misdemeanor of the third degree.\u201d\nImmediately following sub-section (d), the Code cross-references as follows:\n\u201cMisdemeanor of the third degree defined: See 18 Pa.C.S.A. Sec. 106.\u201d\nSection 106 simply defines Misdemeanor of the Third Degree. Nowhere in Title 75 is there a definition of a misdemeanor of the third degree or a punishment applicable thereto. Therefore it is clear that Title 75 defines the offense and Title 18 outlines the punishment. Thus, when Section 1106 defines a crime as an offense punishable under Title 18 and therefore, subject to an order for restitution, the Legislature has included driving under the influence of alcohol.\u2019\nFuqua, supra at 510 n. 10, 407 A.2d at 27 n. 10, quoting lower court opinion at 1-2. We find this logic persuasive.\nAppellant in the instant case next argues that for \u00a7 1106 to apply, there must be a determination of criminal responsibility for the injuries sustained. (Appellant\u2019s brief at 13.) Once again, we find that appellant poses a challenge to the legality of the sentence of restitution. Commonwealth v. Reed, 374 Pa.Super. 510, 543 A.2d 587 (1988) (order of restitution requiring a defendant to make restitution for a loss which, according to the record, he did not cause, is illegal). We must, therefore, address appellant\u2019s second restitution issue.\nWe note initially that appellant in Fuqua raised the same argument; he argued that, because the trial court had failed to make a finding on the record that the damage to the house was a direct result of appellant\u2019s crime of driving under the influence, a sentence of restitution was improper. Fuqua, supra at 511-512, 407 A.2d at 28. This court disagreed, however, and held that, where the evidence was clear that the order of restitution was for the damages to the victim\u2019s property, and where the lower court found that appellant did in fact collide with the house and cause the damage, the fact that the lower court failed to make a specific finding that the damage was a direct result of appellant\u2019s drunk driving did not warrant vacating the sentence and remanding for re-sentencing. Id.\nWe find the case before us controlled by our prior holding in Fuqua. Although the evidence relied upon by the trial court did not arise during trial because of appellant\u2019s guilty plea, nevertheless, in language quoted supra at the sentencing hearing, the court found that appellant's driving while under the influence was a substantial factor in causing the injuries to the victims. (Notes of testimony, 1/25/94 at 72-73.) Just as this finding of causation supports the sentencing court\u2019s decision to apply the enhanced sentencing guideline, it likewise supports the court's decision to impose restitution.\nWe find appellant\u2019s reliance upon Commonwealth v. Cooper, 319 Pa.Super. 351, 466 A.2d 195 (1983), and Commonwealth v. Harner, 533 Pa. 14, 617 A.2d 702 (1992), misplaced. In Cooper, a motorist struck and killed a young boy riding a bicycle. The motorist pled guilty, however, only to the lesser offense of leaving the scene of an accident. In deciding that restitution was improper, the court stated:\nIn other jurisdictions where this problem has arisen, it has been held that restitution is permissible only as to losses flowing from the conduct for which the defendant has been held criminally accountable.... In the Michigan case of People v. Becker, [349 Mich. 476, 84 N.W.2d 833 (1957) ], ... the defendant pled guilty to unlawfully leaving the scene of an accident involving personal injury to two pedestrians. As a condition to the probation imposed by the court, it was ordered that defendant make restitution ... to the injured pedestrians. On appeal the Supreme Court of Michigan describing the facts before it related that \u2018the criminal has been convicted of one charge, but his freedom from incarceration [i.e., the restitution condition attached to his probation] is related to another act, precedent in time, with respect to which neither criminal nor civil complaint has been made.\u2019 The court vacated the restitution holding that:\n[E]ven where imposition of the restitution requirement is held to be proper under the circumstances ... it can be imposed only as to loss caused by the very offense for which defendant [sic] was tried and convicted. As to other crimes or offenses there has been no fixing of his liability therefore in a constitutional sense.\nId. at 486, 84 N.W.2d at 838. The holding of the Becker court is grounded upon the rationale that a defendant is denied due process of law when the losses for which restitution has been imposed did not arise from the action for which defendant has been held criminally accountable. We share the constitutional concern of the Becker court as to the restitution before us, because appellant has not been held criminally accountable for the actions which resulted in the death of the accident victim.\nCooper, supra at 356-357, 466 A.2d at 197 (citations omitted) (emphasis in original).\nSupport for the Cooper holding is found in Hamer, supra, a case in which a wife was ordered to pay restitution to her ex-husband for expenses he incurred tracking down and reclaiming his children, after wife violated a custody order and removed the children from her ex-husband\u2019s home. In finding that wife could not be ordered to pay restitution, the Hamer court stated:\nBecause this section [\u00a7 1106] imposes restitution as part of a sentence, its penal character must not be overlooked and it would seem to us that restitution can be permitted under 18 Pa.C.S. \u00a7 1106 only as to losses for which the defendant has been held criminally accountable. This is in keeping with the well established principle that criminal statutes must be strictly construed. ...\nIn fact, the very words of the statute provide that it is applicable only upon conviction for a crime wherein property has been stolen, converted, unlawfully obtained or its value substantially decreased, or where the victim suffers personal injury directly resulting from a crime. No such crime has been committed here by Appellant. Unless the incidental costs Mr. Harrier expended to locate his children have been made part of a criminal proceeding for which Appellant was convicted, it seems dubious to us that due process would permit a court to determine that these are losses that can be passed on to Appellant, as a sentence, under a theory that they flowed as a direct result of the crime for which Appellant was convicted. ... [The superior court and the Commonwealth argue for] a strained reading of an otherwise straightforward statute which is directed at giving the trial court the ability to sentence a defendant for the damage caused by him in the commission of a crime. Thus, where one steals an automobile valued at $15,000 and during a high speed chase is involved in a wreck which damages the auto, reducing its value to $5,000, it would be appropriate, in addition to incarceration, upon conviction for theft, to require the defendant to pay the victim $10,000 for the loss of value to the auto. It is impossible to separate the actions of the theft from the damage done to the car and in this sense the decrease in value to the car is a direct result of the crime.\nId. at 19-20, 617 A.2d at 705.\nApplying the analyses of the Cooper and Hamer courts to the instant case, we find that it is impossible to separate appellant\u2019s driving under the influence from the injuries resulting to the victims. The sentencing court found appellant\u2019s criminal conduct, the drunk driving, to be a substantial factor in causing the victims\u2019 injuries, as required by Hamer. As a result, we find no abuse of discretion in the sentencing court\u2019s imposition of restitution.\nWe must next, therefore, address appellant\u2019s allegation that the sentencing court erred in imposing restitution without first determining the actual amount of the victims\u2019 loss. (Appellant\u2019s brief at 14.) We note first that, under the holding in Mathis, supra, challenges to appellant\u2019s ability to make restitutionary payments, and to the amount of restitution ordered as speculative, are challenges to the discretionary aspects of appellant\u2019s sentence. Id. at 372-374, 464 A.2d at 368. Nevertheless, in Reed, supra, this court, relying upon Balisteri, supra, held that an order of restitution that was not supported by the record was illegal. Reed, supra at 514, 543 A.2d at 589 (\u201cIn Commonwealth v. Balisteri, supra, this Court held that an order of restitution which was not supported by the record was illegal\u201d) Regardless which analysis we use, however, we note again that the Commonwealth failed to object to appellant\u2019s failure to comply with the requirements of Tuladziecki, supra.\nIn addition, we find that appellant has at least raised a substantial question, arguing as he does that the sentence of restitution was not supported by the record. Commonwealth v. McLaughlin, 393 Pa.Super. 277, 290-293, 574 A.2d 610, 617-18 (1990) (a substantial question arises when appellant can show \u201cactions by the sentencing court inconsistent with the sentencing code or contrary to the fundamental norms underlying the sentencing process ... \u201d), alloc. denied, 527 Pa. 616, 590 A.2d 756 (1991), cert. denied, 502 U.S. 916, 112 S.Ct. 320, 116 L.Ed.2d 261 (1991). Accord, Hlatky, supra at 82, 626 A.2d at 583; Commonwealth v. Jones, 418 Pa.Super. 93, 99-100, 613 A.2d 587, 590 (1992), alloc. denied, 535 Pa. 615, 629 A.2d 1377 (1993). In the instant case, the statute in question, \u00a7 1106, requires that the sentencing court \u201cconsider the extent of injury suffered by the victim and such other matters as it deems appropriate.\u201d 18 Pa.C.S.A. \u00a7 1106(c)(1). Since our review of this issue is not hampered by appellant\u2019s failure to file a concise statement of reasons for challenging the discretionary aspects of his sentence, see supra, we will address appellant\u2019s third argument regarding the sentence of restitution.\nAppellant argues, and we agree, that the sentencing court abused its discretion by failing to determine for itself the extent of the victims\u2019 losses. A careful review of the sentencing hearing transcript reveals that the sentencing court improperly relied upon the adult probation officer\u2019s findings as to the expenses for which the victims had not been compensated, in contravention of our holding in Commonwealth v. Kioske, 337 Pa.Super. 593, 487 A.2d 420 (1985) (trial court may not delegate to the county adult probation department the final determination as to any disputed amounts to be paid by defendant as restitution). In addition, we note the probation officer\u2019s admission on the record that he \u201cassumed\u201d the amount labeled, \u201cThis balance for physician services has not been paid,\u201d was the proper amount of restitution; there was no actual determination by that officer based upon his own review of the documents. (Notes of testimony, 1/25/94 at 30-31.) As a result, we find that the sentencing court failed to comply with the mandate of Hamer, swpra, that the sentencing court determine the amount of loss or damage caused, the amount of restitution appellant can afford to pay, and how it should be paid. Id. at 22-23, 617 A.2d at 707. See also Balisteri, supra at 155-157, 478 A.2d at 9 (since restitution is part of a criminal sentence, it must be supported by the record and the court must determine the loss or damages resulting from the defendant\u2019s conduct; the amount of compensation the defendant can afford to pay; and how such amount should be paid). The trial court must make sure that any award made is not speculative or excessive. Fuqua, supra, at 508-510, 407 A.2d at 26. Furthermore, the sentencing court may be required to apportion the victims\u2019 damages, having found that appellant was not the sole cause of the victims\u2019 injuries. Balisteri, supra at 155-158, 478 A.2d at 9-10 (where trial court found that defendant\u2019s conduct was a contributing factor in causing the harm, but gathered that other factors might also be involved, this court remanded for trial court to determine if apportionment were appropriate since no determination could be made from the record). Finally, the trial court must determine whether the amounts the victim was compensated by her medical insurance or appellant\u2019s automobile insurance were properly excluded from the restitution. See, for example, Commonwealth v. Kerr, 298 Pa.Super. 257, 444 A.2d 758 (1982); Commonwealth v. Cannon, 387 Pa.Super. 12, 563 A.2d 918 (1989).\nAs a result of the foregoing, judgment of sentence is affirmed in part and vacated in part, and this case is remanded for resen-tencing on the issue of restitution. Jurisdiction is relinquished.\nBROSKY, J. files a Concurring and Dissenting Opinion.\n. 75 Pa.C.S.A. \u00a7 3731(a)(1).\n. 75 Pa.C.S.A. \u00a7 3731(a)(4).\n. 42 Pa.C.S.A. \u00a7 9721, 204 Pa.Code 303.5 provides in pertinent part:\nDriving under the influence of alcohol or controlled substance ...\n(b) When one or more victims suffered serious bodily injury, the guideline sentence recommendations (in months) for convictions under 75 Pa.C.S. ... are as rouo'\nStandard Conviction Range 1st 4-6 2nd 7-9 3rd 9-11 4th/sub. 12 Aggravated Mitigated Range Range 6-8 2-4 9-11 5-7 11-12 7-9 12 9-12\n. The Presentence Investigation Report and all of its attachments, including the letters to the court from the victim and the report from the Pennsylvania Highway Safety Commission, were made a part of the record at the request of appellant\u2019s attorney. See notes of testimony, 1/25/94 at 18-19. Appellant is, therefore, estopped from challenging the admissibility of this evidence. Commonwealth v. O\u2019Bryant, 320 Pa.Super. 231, 467 A.2d 14 (1983) (since defendant introduced photo identification by one eyewitness to crime, he could not claim error in its introduction). As appellant could not challenge the PIR, having introduced it into evidence, the PIR is presumed to be valid. See Commonwealth v. Devers, 519 Pa. 88, 100-102, 546 A.2d 12, 18 (1988) (where presentence investigation report exists, it is presumed that sentencing court considered all relevant factors and weighed those factors in a meaningful fashion). See also Commonwealth v. Masip, 389 Pa.Super. 365, 374, 567 A.2d 331, 336 (1989) (\"A presentence report constitutes the record and speaks for itself. It is presumed to be valid and need not be supported by evidence unless and until it is challenged by the defendant.\u201d).\n. The opinion does not state whether Gallagher was charged under and pled guilty to both 75 Pa.C.S.A. \u00a7\u00a7 3731(a)(1) and (a)(4) as in the instant case, or to only one of them.\n. In order to sentence under \u00a7 303.5, the trial court only had to find that \u201cone or more victims suffered serious bodily injury.\u201d\n. Appellant's reliance on the dissent in Commonwealth v. Mills, 344 Pa.Super. 200, 496 A.2d 752 (1985), is, for obvious reasons, misplaced, and overlooks the holding of the majority, which refutes appellant\u2019s argument.\n. 75 Pa.C.S. \u00a7 3731(a)(1).\n. The Fuqua court found that restitution had been imposed as a direct sentence, as here, and not as a condition of probation; therefore, it did not address the distinction. Fuqua, supra at 509 n. 8, 407 A.2d at 26 n. 8.",
+        "type": "majority",
+        "author": "FORD ELLIOTT, Judge:"
+      },
+      {
+        "text": "BROSKY, Judge:\nconcurring and dissenting.\nI disagree with the majority\u2019s conclusion that the evidence supported application of the sentencing enhancement. For this reason I dissent from that portion of the opinion and order.\nThe sentencing guidelines at 204 Pa.Code \u00a7 303.5 provide sentencing ranges to be applied for a DUI conviction \u201cwhen one or more of the victims suffers serious bodily injury.\u201d However, in Commonwealth v. Gallagher, 430 Pa.Super. 457, 634 A.2d 1147 (1993), we indicated that implementation of this sentencing provision was dependent upon a finding that the DUI violation was the cause of the resulting serious bodily injury and vacated a sentence where the evidence was speculative as to the cause. In the present case there is no question that serious bodily injury was sustained, however, the evidence adduced at the sentencing proceedings was quite minimal and did not establish, with any degree of certainty, that appellant\u2019s intoxication caused the injuries sustained.\nAppellant maintained throughout the proceedings that the victim\u2019s car came into his lane of travel and that as it did so he stopped his vehicle within his lane at which time the victims\u2019 vehicle struck his. Despite his persistent challenge to the basic factual premise underlying the implementation of an enhanced sentence, the Commonwealth presented no actual testimonial evidence relating to who or what caused the accident in question. Instead, to carry its burden, the Commonwealth apparently relies upon a pre-sen-tence report, which, essentially, is total hearsay.\nThe pre-sentence investigation contains the opinion of the investigating officer, Chief Roofner, that the appellant crossed into the victim\u2019s lane of travel. However, the officer did not witness the collision and there is no indication in the report as to how this opinion was reached, and, of course, he did not appear at the sentencing to explain the basis of his \u201copinion.\u201d The report further contains a \u25a0version of events of one of the victims, Linda Colanduoni, indicating that as they came around the bend appellant\u2019s vehicle was in their lane of travel and that she \u201cplaces the blame for this accident solely on [appellant].\u201d Unlike Chief Roofner, Ms. Colanduoni did testify at the sentencing hearing. However, she indicated she had no recollection of the accident. Thus, the trustworthiness of this version of what transpired is totally negated by her own testimony at sentencing.\nUnfazed by the above the majority rehabilitates and supplements the Commonwealth\u2019s evidence in an attempt to make it appear to be sufficient. At pages 3 and 4 of their opinion they supply information relating to the extent of appellant\u2019s intoxication and the generally associated affects of that level of intoxication. The apparent purpose of this process is to allow the inference that since appellant was so drunk he must have caused the collision and his statements to the contrary cannot be trusted. Appellant\u2019s intoxication and interest are certainly proper factors to consider in the weighing of his testimony. However, the sentencing court never made a credibility assessment, and the mere fact that appellant was intoxicated does not mean that he caused the accident in question. Next, the majority attempts to rehabilitate Ms. Colanduoni\u2019s testimony by hypothesizing that as a result of the collision she had been gradually losing her memory of the accident so that at the time of sentencing she could not recall the accident at all. Thus, they argue, the version contained in the pre-sen-tence report should be credited above her sentencing testimony. This hypothesis is flawed, however, because Ms. Colanduoni never testified that she had been gradually losing her recollection. Her exact response at sentencing was \u201cI told him [the probation officer] that I have absolutely no recollection of the accident.... I don\u2019t remember anything that whole day, or weeks- \u2014 there\u2019s loads of things I don\u2019t remember.\u201d\nBy Ms. Colanduoni\u2019s own testimony she had no recollection of the accident at the time she spoke with the probation officer. She does not state that she had a recollection at the time of her interview with the probation department but then lost it sometime before the time of the sentencing when she testified. Additionally, no one else testified that Ms. Colanduoni had been suffering a gradual deterioration of memory, nor was that syndrome noted in the pre-sentence investigation despite listing the various medical consequences of the accident. As such, it is far more likely that the victim related to the probation officer her opinion and belief of what transpired, based upon assumption or what someone else told her, rather than what she personally recollected.\nAs such, although the majority suggests that the Commonwealth carried its burden with respect to applying the sentencing enhancement, in my opinion the evidence is rather minimal and inherently suspect. This is unfortunate because, in all likelihood a much stronger case could have been presented. After all, there were three occupants of the vehicle in question and only one was called to testify. Were they all incapable of remembering what transpired just preceding the accident? Chief Roofner could have been presented as well to explain his \u201copinion\u201d and how it was derived. Testimony regarding debris location and skid marks would have been especially helpful and, one would assume, must have been available. Yet the Commonwealth put no such evidence in. In consideration of Gallagher, and upon the record presented, I do not believe it was proper to sentence according to \u00a7 303.5. Thus, I dissent from that aspect of the decision.\n. My dissenting opinion should not be construed as leniency towards drunk drivers. If appellant in fact caused the accident in question I believe he would be fully deserving of the enhanced sentence imposed in this case. However, the Commonwealth should be made to prove the existence of the underlying elements of the enhanced sentence just as they are made to prove the elements of the offense in question and the fact that appellant has chosen to plead guilty to the offense of driving under the influence does not eliminate the Commonwealth's obligation to prove the additional elements necessary to impose the enhanced sentence.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "BROSKY, Judge:"
+      }
+    ],
+    "attorneys": [
+      "Thomas R. Ceraso, Greensburg, for appellant.",
+      "Bradley K. Hellein, Assistant District Attorney, Kittanning, for Commonwealth, ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania v. Richard L. WALKER, Appellant.\nSuperior Court of Pennsylvania.\nArgued Dee. 15, 1994.\nFiled Sept. 29, 1995.\nThomas R. Ceraso, Greensburg, for appellant.\nBradley K. Hellein, Assistant District Attorney, Kittanning, for Commonwealth, ap-pellee.\nBefore DEL SOLE, FORD ELLIOTT and BROSKY, JJ."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 357,
+  "last_page_order": 369
+}

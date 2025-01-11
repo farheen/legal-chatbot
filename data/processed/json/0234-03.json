@@ -1,0 +1,84 @@
+{
+  "id": 12490866,
+  "name": "C. Andrew RILEY v. The TRAVELERS HOME AND MARINE INSURANCE COMPANY",
+  "name_abbreviation": "Riley v. Travelers Home & Marine Ins. Co.",
+  "decision_date": "2017-09-13",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "326 Conn. 922"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "173 Conn.App. 422",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489933
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/163-2/1246-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 841,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578410942105119
+    },
+    "sha256": "48e4c9afcface7af9f041cc90ae7f9811ab4cde024be93d7406c7f4d3c4b9743",
+    "simhash": "1:a4ba1a29ae2d77f0",
+    "word_count": 135
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Andrew RILEY\nv.\nThe TRAVELERS HOME AND MARINE INSURANCE COMPANY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 173 Conn.App. 422, 163 A.3d 1246 (2017), is granted, limited to the following question:",
+      "\"Under the circumstances of this case, did the Appellate Court correctly hold that, by not resting at the end of the plaintiffs case-in-chief, but instead putting on evidence, the defendant waived its right on appeal to claim that the trial court should have granted its motion for a directed verdict pursuant to Practice Book \u00a7 16-37 ?\""
+    ],
+    "corrections": "",
+    "head_matter": "C. Andrew RILEY\nv.\nThe TRAVELERS HOME AND MARINE INSURANCE COMPANY\nSupreme Court of Connecticut.\nDecided September 13, 2017\nLinda L. Morkan and Daniel J. Sullivan, in support of the petition.\nProloy K. Das and Kristen L. Zaehhnger, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 173 Conn.App. 422, 163 A.3d 1246 (2017), is granted, limited to the following question:\n\"Under the circumstances of this case, did the Appellate Court correctly hold that, by not resting at the end of the plaintiffs case-in-chief, but instead putting on evidence, the defendant waived its right on appeal to claim that the trial court should have granted its motion for a directed verdict pursuant to Practice Book \u00a7 16-37 ?\"\nROGERS, C.J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0234-03",
+  "first_page_order": 234,
+  "last_page_order": 235
+}

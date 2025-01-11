@@ -1,0 +1,64 @@
+{
+  "id": 12492178,
+  "name": "SHUE v. MCAULEY",
+  "name_abbreviation": "Shue v. McAuley",
+  "decision_date": "2018-01-19",
+  "docket_number": "Pet. Docket No. 345, Sept. Term, 2017",
+  "first_page": "78",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 A.3d 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 Md. 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "320fb9d3fea4968a5c77e629a86ea0074e97a2ec8697967417b0835cd0aa1b95",
+    "simhash": "1:2cca0a2d7a19829d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:29.164649+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SHUE\nv.\nMCAULEY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "SHUE\nv.\nMCAULEY\nPet. Docket No. 345, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJanuary 19, 2018\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0078-04",
+  "first_page_order": 78,
+  "last_page_order": 78
+}

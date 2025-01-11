@@ -1,0 +1,84 @@
+{
+  "id": 12488742,
+  "name": "John DOE v. TOWN OF WEST HARTFORD et al.",
+  "name_abbreviation": "John Doe v. Town of W. Hartford",
+  "decision_date": "2016-11-08",
+  "docket_number": "",
+  "first_page": "384",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 936"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "168 Conn.App. 354",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12487769
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/147-2/1083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 101,
+    "char_count": 935,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25776193901652183
+    },
+    "sha256": "f647ea7835469ba9225b5cccf6a4116ad0f7c65822a9d6361a7b480329f2f2e2",
+    "simhash": "1:929b889dd6e8e17f",
+    "word_count": 153
+  },
+  "last_updated": "2024-02-27T18:34:50.591602+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE\nv.\nTOWN OF WEST HARTFORD et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendants' petition for certification for appeal from the Appellate Court, 168 Conn.App. 354, 147 A.3d 1083 (2016), is granted, limited to the following issues:",
+      "\"1. Did the Appellate Court properly reverse the trial court's grant of the defendants' motion for summary judgment on the basis of its determination that a genuine issue of material fact existed with respect to the availability of the savings statute, General Statutes \u00a7 52-593a ?"
+    ],
+    "corrections": "",
+    "head_matter": "John DOE\nv.\nTOWN OF WEST HARTFORD et al.\nSupreme Court of Connecticut.\nDecided November 8, 2016\nScott M. Karsten, Michael R. McPherson and Laura Pascale Zaino, in support of the petition.\nJosephine Smalls Miller, in opposition.\nThe defendants' petition for certification for appeal from the Appellate Court, 168 Conn.App. 354, 147 A.3d 1083 (2016), is granted, limited to the following issues:\n\"1. Did the Appellate Court properly reverse the trial court's grant of the defendants' motion for summary judgment on the basis of its determination that a genuine issue of material fact existed with respect to the availability of the savings statute, General Statutes \u00a7 52-593a ?\n\"2. Did the Appellate Court properly conclude that \u00a7 52-593a is available to save a cause of action despite the failure of the serving officer to endorse on the officer's return the date of delivery of the process to such officer pursuant to \u00a7 52-593a(b) ?\""
+  },
+  "file_name": "0384-03",
+  "first_page_order": 384,
+  "last_page_order": 385
+}

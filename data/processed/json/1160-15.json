@@ -1,0 +1,58 @@
+{
+  "id": 12488644,
+  "name": "Com. v. McQuade, J.",
+  "name_abbreviation": "Com v. Mcquade",
+  "decision_date": "2016-05-24",
+  "docket_number": "1413 WDA 2015",
+  "first_page": "1160",
+  "last_page": "1160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 97,
+    "sha256": "61f100f2295457f2c35c83798644690d1e51aea2f26cb554d750c23bea02e95e",
+    "simhash": "1:551212e919f18582",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMcQuade, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMcQuade, J.\n1413 WDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nVacated/Remanded"
+  },
+  "file_name": "1160-15",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

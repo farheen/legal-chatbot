@@ -1,0 +1,58 @@
+{
+  "id": 12484915,
+  "name": "Commonwealth v. Rafael Garcia",
+  "name_abbreviation": "Commonwealth v. Garcia",
+  "decision_date": "2016-05-10",
+  "docket_number": "NO. 24 EAL 2016",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "6b0f35353880758c2835eabb1546df0fd598728edb121783c4182b27bff38177",
+    "simhash": "1:548edc3c982000d8",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRafael Garcia"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRafael Garcia\nNO. 24 EAL 2016\nSupreme Court of Pennsylvania\nMay 10, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0002-04",
+  "first_page_order": 2,
+  "last_page_order": 2
+}

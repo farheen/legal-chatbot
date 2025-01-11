@@ -1,0 +1,58 @@
+{
+  "id": 12488365,
+  "name": "In the Interest of: A.L., A Minor Appeal of: A.B.",
+  "name_abbreviation": "In re A.L.",
+  "decision_date": "2016-05-10",
+  "docket_number": "1976 MDA 2015",
+  "first_page": "1142",
+  "last_page": "1142",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 119,
+    "sha256": "f3e49610a059c9c30302191bc7df29f78a53f56d6946723f960a01bd282ed6b2",
+    "simhash": "1:3012d92f7abb9dcc",
+    "word_count": 21
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: A.L., A Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: A.L., A Minor\nAppeal of: A.B.\n1976 MDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1142-15",
+  "first_page_order": 1142,
+  "last_page_order": 1142
+}

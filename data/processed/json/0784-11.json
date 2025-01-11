@@ -1,0 +1,58 @@
+{
+  "id": 12487409,
+  "name": "Com. v. M. Bucano",
+  "name_abbreviation": "Com. v. Bucano",
+  "decision_date": "2016-04-17",
+  "docket_number": "NO. 2278 EDA 2015",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 784"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "51e7ea6124bd6921e3717ce2052a252d6c507965b434caa395b083291cfe3bbf",
+    "simhash": "1:4e126743f9a42fe0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Bucano"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Bucano\nNO. 2278 EDA 2015\nSuperior Court of Pennsylvania.\nApril 17, 2016\nAffirmed."
+  },
+  "file_name": "0784-11",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

@@ -1,0 +1,63 @@
+{
+  "id": 7263173,
+  "name": "Benjamin SATCHELL, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent",
+  "name_abbreviation": "Satchell v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2009-04-02",
+  "docket_number": "No. 21 EM 2009",
+  "first_page": "1179",
+  "last_page": "1179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "969 A.2d 1179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 321,
+    "ocr_confidence": 0.685,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7661610084955541
+    },
+    "sha256": "378e9b53920aa0751e47941c7dfa7eeda720d55664c1e71e7dd295f40993ea6f",
+    "simhash": "1:5d27e3f6e3d1283f",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T21:12:07.030871+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Benjamin SATCHELL, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 2nd day of April, 2009, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Benjamin SATCHELL, Petitioner v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Respondent.\nNo. 21 EM 2009.\nSupreme Court of Pennsylvania.\nApril 2, 2009."
+  },
+  "file_name": "1179-01",
+  "first_page_order": 1207,
+  "last_page_order": 1207
+}

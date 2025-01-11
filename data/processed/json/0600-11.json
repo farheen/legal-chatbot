@@ -1,0 +1,58 @@
+{
+  "id": 12486028,
+  "name": "Com. v. V. Wright",
+  "name_abbreviation": "Com. v. Wright",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 2035 WDA 2014",
+  "first_page": "600",
+  "last_page": "600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 110,
+    "sha256": "baf62cab088e808750bb92d616b1ca3dc11d61653bb53d35fa83e8ade611ae36",
+    "simhash": "1:ad6f76b90baeac20",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nV. Wright"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nV. Wright\nNO. 2035 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0600-11",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

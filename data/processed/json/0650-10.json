@@ -1,0 +1,58 @@
+{
+  "id": 12489650,
+  "name": "STATE v. DURHAM",
+  "name_abbreviation": "State v. Durham",
+  "decision_date": "2017-02-09",
+  "docket_number": "16\u2013252",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "847e077221275d9f09a99f684d42aff1bb9c8faeeae8b98c01af09f54bb5b95d",
+    "simhash": "1:15573800cec05248",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nDURHAM"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nDURHAM\n16-252\nSupreme Court of Vermont.\nFebruary 9, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0650-10",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

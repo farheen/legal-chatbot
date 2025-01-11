@@ -1,0 +1,58 @@
+{
+  "id": 12485310,
+  "name": "Couture v. Pallito",
+  "name_abbreviation": "Couture v. Pallito",
+  "decision_date": "2016-05-25",
+  "docket_number": "NO. 16-176",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 90,
+    "sha256": "53c7581da29d5c29fd25e33b3651a3fe009aeb920537934007e87eefa0f816c6",
+    "simhash": "1:f0bf3601bca86cd8",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Couture\nv.\nPallito"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Couture\nv.\nPallito\nNO. 16-176\nSupreme Court of Vermont\nMay 25, 2016\nDisposition: Denied."
+  },
+  "file_name": "0189-21",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

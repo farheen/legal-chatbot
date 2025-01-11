@@ -1,0 +1,65 @@
+{
+  "id": 12491814,
+  "name": "LEONARD, L., Jr. v. NEWMAN, P.",
+  "name_abbreviation": "Leonard v. Newman",
+  "decision_date": "2017-07-17",
+  "docket_number": "1291 MDA 2016",
+  "first_page": "387",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 387"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 65.37",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 261,
+    "sha256": "6dd7ea0fc2fb389cbc7ce25b438038ca880713dc3ff96ae37248bdd216ab28d1",
+    "simhash": "1:451c35f08b3901c4",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LEONARD, L., Jr.\nv.\nNEWMAN, P."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LEONARD, L., Jr.\nv.\nNEWMAN, P.\n1291 MDA 2016\nSuperior Court of Pennsylvania.\nJuly 17, 2017\nUnpublished opinion of the Superior Court of Pennsylvania is governed by Section 65.37 of the Operating Procedures of the Superior Court, 210 Pa. Code \u00a7 65.37.\nQuashed."
+  },
+  "file_name": "0387-02",
+  "first_page_order": 387,
+  "last_page_order": 387
+}

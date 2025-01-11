@@ -1,0 +1,62 @@
+{
+  "id": 12485553,
+  "name": "State v. Antonio Mercedes",
+  "name_abbreviation": "State v. Mercedes",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-905 SEPT. TERM 2015, 076598",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 125,
+    "sha256": "def1e6721958f316d5fb39dc9fe75221f3eabba4723e99017279f25a761c9c1c",
+    "simhash": "1:3de806dbd91a24a6",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nAntonio Mercedes"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nAntonio Mercedes\nNOS. C-905 SEPT. TERM 2015, 076598\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-29",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

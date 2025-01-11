@@ -1,0 +1,58 @@
+{
+  "id": 12488522,
+  "name": "Com. v. Davis, R.",
+  "name_abbreviation": "Com v. Davis",
+  "decision_date": "2016-05-18",
+  "docket_number": "1541 WDA 2015",
+  "first_page": "1152",
+  "last_page": "1152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "12941ada30a8b39917033d5f2942c64817512da6b0589c31e9d56d0cc4f890b9",
+    "simhash": "1:9c1b6cddc2e205d9",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nDavis, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nDavis, R.\n1541 WDA 2015\nSuperior Court of Pennsylvania.\nMay 18, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1152-12",
+  "first_page_order": 1152,
+  "last_page_order": 1152
+}

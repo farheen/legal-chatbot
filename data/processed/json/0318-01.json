@@ -1,0 +1,109 @@
+{
+  "id": 11250238,
+  "name": "Emmett HARRIS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Harris v. State",
+  "decision_date": "1973-03-06",
+  "docket_number": "",
+  "first_page": "318",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "305 A.2d 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "287 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8073103
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/287/0671-01"
+      ]
+    },
+    {
+      "cite": "293 A.2d 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8045782
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "292-293"
+        },
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/293/0291-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 243,
+    "char_count": 3452,
+    "ocr_confidence": 0.761,
+    "pagerank": {
+      "raw": 2.7058321994394835e-07,
+      "percentile": 0.8288811432635648
+    },
+    "sha256": "724ac65932b8869914d55ac88ecc4f467c232433059570d112072d9b2296eb75",
+    "simhash": "1:8cdaad4c2967fdf3",
+    "word_count": 556
+  },
+  "last_updated": "2024-02-27T19:41:34.247497+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WOLCOTT, C. J., CAREY and HERRMANN, JJ."
+    ],
+    "parties": [
+      "Emmett HARRIS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HERRMANN, Justice:\nThis is an appeal from a post-conviction proceeding involving the competency of legal counsel in a rape case.\nI.\nUpon a prior appeal from the conviction itself, the defendant contended that his former counsel was so incompetent as trial attorney as to be \u201cinherently ineffective\u2019\u2019 in his representation of the defendant; that, therefore, he was deprived of the effective assistance of counsel in violation of his constitutional rights.\nThis Court declined to rule upon the issue being raised for the first time upon the direct appeal. After specifying the charges and delineating the applicable standards and tests to be applied, this Court stated that the issue could be pursued in a post-conviction proceeding in the Superior Court, wherein an evidentiary hearing could be had and specific findings as to each charge of incompetency could be made. See Harris v. State, Del.Supr., 293 A.2d 291, 292-293 (1972).\nThe defendant subsequently pursued the matter in a post-conviction proceeding in the Superior Court, under Superior Court Criminal Rule 35, Del.C.Ann. The Superior Court held an evidentiary hearing in which the defendant, his brother and his former attorney testified. Upon the conclusion of the hearing, the Trial Judge stated:\n\u201cI heard the trial of this case and I was satisfied before the jury ever returned a verdict that this man was guilty of the offense as charged beyond any reasonable doubt. I am still so satisfied,\n\u201cI have read and reread the transcript of the proceeding before me during the trial of this case, and applying the Maryland Rule as approved by the Supreme Court of this State, * * * I find very clearly that there was no incompetency or any negligence by Mr. * * * in the performance of his duty as the attorney for the defendant. Quite to the contrary, this Court feels that Mr. * * * did more than an adequate job m defending the petitioner as the testimony clearly shows on the record.\n\u201cThe motion under Rule 35 is hereby denied. * * *.\u201d\nThis appeal followed.\nII.\nThe determinative finding of the Trial Judge in this matter is his conclusion that \u201cthere was no incompetency or any negligence\u201d on the part of the defendant\u2019s former attorney. This finding meets the test this Court has prescribed: whether under all the circumstances \u201ctrial counsel was so incompetent that the accused was not afforded genuine and effective legal representation.\u201d 293 A.2d at 293.\nUpon a review of this nature, we will not disturb the findings of the Trial Judge, supported as they are by sufficient evidence, unless they are \u201cclearly wrong and the doing of justice requires their overturn.\u201d Levitt v. Bouvier, Del.Supr., 287 A.2d 671, 673 (1972).\nWe cannot so describe the findings of the Trial Judge here. He sat in the trial of the main case; and he heard the testimony in the post-conviction proceedings. We will not substitute our judgment for his in this matter.\nThe judgment below is affirmed.\nSuperior Court Criminal Rule 35 provides, inter alia, that any person sentenced may apply for post-conviction relief by challenging the judgment of conviction on constitutional grounds.",
+        "type": "majority",
+        "author": "HERRMANN, Justice:"
+      }
+    ],
+    "attorneys": [
+      "L. Vincent Ramunno, Wilmington, for defendant below, appellant.",
+      "H. Newton White, Deputy Atty. Gen., Georgetown, for plaintiff below, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Emmett HARRIS, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nSupreme Court of Delaware.\nMarch 6, 1973.\nL. Vincent Ramunno, Wilmington, for defendant below, appellant.\nH. Newton White, Deputy Atty. Gen., Georgetown, for plaintiff below, appellee.\nBefore WOLCOTT, C. J., CAREY and HERRMANN, JJ."
+  },
+  "file_name": "0318-01",
+  "first_page_order": 354,
+  "last_page_order": 355
+}

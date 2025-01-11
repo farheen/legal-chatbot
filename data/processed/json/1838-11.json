@@ -1,0 +1,59 @@
+{
+  "id": 12167972,
+  "name": "In re William Gold and Robert J. Kieber",
+  "name_abbreviation": "In re Gold",
+  "decision_date": "1965-04-08",
+  "docket_number": "No. 7594",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 78,
+    "ocr_confidence": 0.609,
+    "sha256": "d02d00547c0d425bee4e4df2d0efe3ef3c6bb8a382de8c9f909169c995184cf9",
+    "simhash": "1:95e96386703c360b",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William Gold and Robert J. Kieber"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Fermenta-tion process N.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re William Gold and Robert J. Kieber\n(No. 7594)."
+  },
+  "file_name": "1838-11",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

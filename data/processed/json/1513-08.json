@@ -1,0 +1,59 @@
+{
+  "id": 6092745,
+  "name": "In re Frithjof N. Hansen",
+  "name_abbreviation": "In re Hansen",
+  "decision_date": "1967-10-05",
+  "docket_number": "No. 8162",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "ocr_confidence": 0.441,
+    "sha256": "9a3983a021df800598124423a569d9bdaa34484a9438fe449b3dcbf28631d90e",
+    "simhash": "1:2840031f496b731a",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Frithjof N. Hansen"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Periodic low-pass filter and method of making same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8162.\nIn re Frithjof N. Hansen"
+  },
+  "file_name": "1513-08",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

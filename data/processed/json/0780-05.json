@@ -1,0 +1,58 @@
+{
+  "id": 12487361,
+  "name": "Com. v. A. Tansmore",
+  "name_abbreviation": "Com. v. Tansmore",
+  "decision_date": "2016-04-14",
+  "docket_number": "NO. 1641 EDA 2015",
+  "first_page": "780",
+  "last_page": "780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 780"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "24fc345f99a5a06e4af7bdad3189102d5b7b752376ef6d3571e949b354524dfb",
+    "simhash": "1:29922cf183b71f82",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Tansmore"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Tansmore\nNO. 1641 EDA 2015\nSuperior Court of Pennsylvania.\nApril 14, 2016\nAffirmed."
+  },
+  "file_name": "0780-05",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

@@ -1,0 +1,102 @@
+{
+  "id": 7291414,
+  "name": "Charles PARKER, Petitioner v. Hon. Judge Amanda COOPERMAN et al., Philadelphia Court of Common Pleas, Respondents",
+  "name_abbreviation": "Parker v. Cooperman",
+  "decision_date": "2010-06-10",
+  "docket_number": "No. 12 EM 2010",
+  "first_page": "1182",
+  "last_page": "1183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "995 A.2d 1182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation not permitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 508,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18832565141828733
+    },
+    "sha256": "02cc263d79957ef874524d7a2f03b33188d8cf879adf077aa664d555db5924fb",
+    "simhash": "1:3dbf073c42d53d31",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T16:20:39.741748+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles PARKER, Petitioner v. Hon. Judge Amanda COOPERMAN et al., Philadelphia Court of Common Pleas, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of June, 2010, the Application for Leave to File Original Process and the Petition for Writ of Mandamus are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation not permitted). The Prothonotary is directed to forward the filing to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Charles PARKER, Petitioner v. Hon. Judge Amanda COOPERMAN et al., Philadelphia Court of Common Pleas, Respondents.\nNo. 12 EM 2010.\nSupreme Court of Pennsylvania.\nJune 10, 2010."
+  },
+  "file_name": "1182-03",
+  "first_page_order": 1192,
+  "last_page_order": 1193
+}

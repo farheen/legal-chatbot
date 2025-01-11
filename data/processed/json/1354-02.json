@@ -1,0 +1,131 @@
+{
+  "id": 11870479,
+  "name": "John FROST v. CITY OF NEWPORT",
+  "name_abbreviation": "Frost v. City of Newport",
+  "decision_date": "1998-02-26",
+  "docket_number": "No. 97-245-Appeal",
+  "first_page": "1354",
+  "last_page": "1355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "706 A.2d 1354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "115 R.I. 332",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3118516
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "355-56"
+        },
+        {
+          "page": "137-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/115/0332-01"
+      ]
+    },
+    {
+      "cite": "120 R.I. 907",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8520765
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "911-12"
+        },
+        {
+          "page": "1175-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0907-01"
+      ]
+    },
+    {
+      "cite": "643 A.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868073
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/643/0817-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3139,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2437481876356498
+    },
+    "sha256": "27da5fe144d6d97100e7853b28512a86052c43a06a385a0602f7242dc69ca284",
+    "simhash": "1:105de191808361c0",
+    "word_count": 515
+  },
+  "last_updated": "2024-02-27T19:23:44.034746+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BOURCIER and GOLDBERG, JJ., did not participate."
+    ],
+    "parties": [
+      "John FROST v. CITY OF NEWPORT."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court for oral argument February 17, 1998, pursuant to an order that had directed both parties to appear in order to show cause why the issues raised by this appeal should not be summarily decided. After hearing the arguments of counsel and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown and that the issues' raised by this appeal should be decided at this time.\nThe plaintiff, John Frost, who has been employed by the city of Newport as a police officer for seventeen years has appealed from a judgment entered in the Superior Court denying his motion to vacate an arbitration award.\n\u25a0The plaintiff sought disability benefits pursuant to G.L. 1956 \u00a7 45-19-1 and in accordance with a collective bargaining agreement entered into between Lodge No. 8, Fraternal Order of Police and the city of Newport. Both the statute and the collective bargaining agreement provide for benefits to a police officer who is injured on duty. The plaintiff claimed a disability due to stress suffered in the line of duty.\nAfter the city of Newport denied plaintiffs petition for benefits, he filed a grievance which ultimately was referred to arbitration. The arbitrator in a detailed and carefully reasoned decision rendered an award in favor of the city of Newport. He found as a fact that plaintiff and his union failed to sustain the burden of proving that the stress experienced by plaintiff was the result of emotional strain and tension of greater dimension than the day-to-day emotional strain and tension which all employees experience. After carefully reviewing the facts, the arbitrator determined that plaintiff was not entitled to a disability pension as a result of stress suffered in the line of duty.\nA justice of the Superior Court declined to vacate this arbitration award after applying the limited judicial review authorized by our cases. R.I. Brotherhood of Correctional Officers v. State, 643 A.2d 817, 820 (R.I. 1994); Jacinto v. Egan, 120 R.I. 907, 911-12, 391 A.2d 1173, 1175-76 (1978); Belanger v. Matteson, 115 R.I. 332, 355-56, 346 A.2d 124, 137-38 (1975). These cases all stand for the principle that so long as an arbitrator\u2019s award draws its essence from the contract and is based upon a passably plausible interpretation of the contract and absent a completely irrational result, the courts have no authority to vacate the arbitrator\u2019s award.\nOur examination of the arbitrator\u2019s award in this case as well as the record to which it refers does not indicate a manifest disregard of the contractual provisions or a completely irrational result. Indeed, this careful and lengthy decision meets the standard of our cases and the justice of the Superior Court was clearly correct in declining to vacate this award.\nConsequently, the plaintiff\u2019s appeal is denied and dismissed, The judgment of the Superior Court is affirmed.\nBOURCIER and GOLDBERG, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Peter Leach, Providence.",
+      "Christopher J. Behan, Middletown."
+    ],
+    "corrections": "",
+    "head_matter": "John FROST v. CITY OF NEWPORT.\nNo. 97-245-Appeal.\nSupreme Court of Rhode Island.\nFeb. 26, 1998.\nPeter Leach, Providence.\nChristopher J. Behan, Middletown."
+  },
+  "file_name": "1354-02",
+  "first_page_order": 1412,
+  "last_page_order": 1413
+}

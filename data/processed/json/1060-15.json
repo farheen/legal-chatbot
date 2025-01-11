@@ -1,0 +1,58 @@
+{
+  "id": 12490174,
+  "name": "JONCAS, S. v. UCBR",
+  "name_abbreviation": "Joncas v. UCBR",
+  "decision_date": "2017-02-01",
+  "docket_number": "997 CD 2016",
+  "first_page": "1060",
+  "last_page": "1060",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 129,
+    "sha256": "455a1453bc6b8131e6d97437d8c6d73bebf3c255f2c2c19b8bfe2c3ce83cb94b",
+    "simhash": "1:6cc103b582d8fd58",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONCAS, S.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "JONCAS, S.\nv.\nUCBR\n997 CD 2016\nCommonwealth Court of Pennsylvania.\nFebruary 1, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1060-15",
+  "first_page_order": 1060,
+  "last_page_order": 1060
+}

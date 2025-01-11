@@ -1,0 +1,58 @@
+{
+  "id": 12488606,
+  "name": "Com. v. Schragger, B.",
+  "name_abbreviation": "Com v. Schragger",
+  "decision_date": "2016-05-24",
+  "docket_number": "2565 EDA 2015",
+  "first_page": "1157",
+  "last_page": "1157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 134,
+    "sha256": "b13d6d5bfd5a047b3d9f2fb374ab7b422db63ac442980eddc32b90e90e60c398",
+    "simhash": "1:351976dbdea01dab",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSchragger, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSchragger, B.\n2565 EDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1157-07",
+  "first_page_order": 1157,
+  "last_page_order": 1157
+}

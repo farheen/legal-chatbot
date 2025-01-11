@@ -1,0 +1,59 @@
+{
+  "id": 12168037,
+  "name": "In re Heinz W. Gumin and Helmut E. Weber",
+  "name_abbreviation": "In re Gumin",
+  "decision_date": "1965-05-03",
+  "docket_number": "No. 7651",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 99,
+    "ocr_confidence": 0.68,
+    "sha256": "5aacabe4574bcb4c2879c01f2f8a55326af7cdc000f78454ab1b9272e6e3b4e7",
+    "simhash": "1:5e42b87e6a0ba004",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Heinz W. Gumin and Helmut E. Weber"
+    ],
+    "opinions": [
+      {
+        "text": "Gate circuit with low-ohmic load.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 3, 1965\nIn re Heinz W. Gumin and Helmut E. Weber\n(No. 7651)."
+  },
+  "file_name": "1839-01",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

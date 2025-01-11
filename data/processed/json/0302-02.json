@@ -1,0 +1,252 @@
+{
+  "id": 8154364,
+  "name": "BROOKS et al. v. TRIGG",
+  "name_abbreviation": "Brooks v. Trigg",
+  "decision_date": "1947-02-06",
+  "docket_number": "No. 453",
+  "first_page": "302",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 A.2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "42 App.D.C. 407",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785449
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/42/0407-01"
+      ]
+    },
+    {
+      "cite": "2 Wall. 56",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        8299861
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/69/0056-01"
+      ]
+    },
+    {
+      "cite": "169 U.S. 295",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3597270
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/169/0295-01"
+      ]
+    },
+    {
+      "cite": "40 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8137954
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/40/0342-01"
+      ]
+    },
+    {
+      "cite": "263 U.S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141404
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/263/0291-01"
+      ]
+    },
+    {
+      "cite": "32 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1436188
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/32/0568-01"
+      ]
+    },
+    {
+      "cite": "31 U.S. 691",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1439697
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/31/0691-01"
+      ]
+    },
+    {
+      "cite": "144 F. 371",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6721169
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/144/0371-01"
+      ]
+    },
+    {
+      "cite": "339 Mo. 452",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8734460
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/339/0452-01"
+      ]
+    },
+    {
+      "cite": "59 App.D.C. 72",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 F.2d 968",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1756576
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/32/0968-01"
+      ]
+    },
+    {
+      "cite": "39 App.D.C. 516",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1820497
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/39/0516-01"
+      ]
+    },
+    {
+      "cite": "49 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8151616
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/49/0085-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156004
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0861-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 472,
+    "char_count": 8736,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20090283255896385
+    },
+    "sha256": "8dd308e6ae9b021ef52f8a16dd90cd193b252166d5014f0b57451cf9854b9467",
+    "simhash": "1:c7ea12657d8519ff",
+    "word_count": 1504
+  },
+  "last_updated": "2024-02-27T17:46:13.623536+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAYTON, Chief Judge, and HOOD and CLAGETT, Associate Judges."
+    ],
+    "parties": [
+      "BROOKS et al. v. TRIGG."
+    ],
+    "opinions": [
+      {
+        "text": "CLAGETT, Associate Judge.\nThis case is before as for the second time. The first appeal resulted from a suit by appellee as landlord brought against appellants for possession of an apartment on the ground that they had \u201cforcibly unlawfully entered and detained the premises without the consent of the owner.\u201d After trial judgment was entered for appellee with a stay of execution for thirty days. After the expiration of the stay and after a writ of execution had been ordered, appellants\u2019 present attorney appeared in the case for the first time and filed a motion to extend the stay of execution for sixty days. The only grounds stated for this motion were that appellants had offered to pay rent and that they had been unable to locate another place in which to live. The next day appellants amended their previous motion by asking that the stay of execution be extended \"indefinitely.\u201d As additional grounds for the motion, it was urged that the suit in question was not maintainable under Section 45 \u2014 1605(b) of the District of Columbia Emergency Rent Act, and further that the proceedings had been brought in violation of Rule 17 of the Municipal Court. On the same day, which was more than a month after entry of judgment for possession, appellants filed a motion to quash or set aside the judgment and to quash the writ of execution, giving the same grounds as had been stated for the motion to grant' an additional stay. These several motions were overruled by the trial court. Thereupon for the first time an appeal was noted to this court and a supersedeas bond was fixed. The statement of errors on that appeal merely recited that the trial court had erred in overruling the motion to quash the judgment and the writ of restitution and that the trial court had erred in \u201cnot allowing, the loss to fall on the plaintiff.\u201d\nOur Rule 23(a) provides that \u201cThe statement of proceedings and evidence shall include only such portion of the proceedings and evidence as is necessary fully and clearly to present the rulings of the trial court in which error is claimed.\u201d In accordance with such rule the trial judge certified a brief statement of proceedings and evidence in which it was recited that the suit was brought on the grounds of \u201cforcible entry and detainer.\u201d The statement then summarized some of the evidence at the trial, which, on its face, did not show the use'of any actual force either in the entry or detainer.\nIn due course appellee moved to dismiss the appeal on the grounds that the time for appeal had elapsed and that no appeal lies from an order refusing to quash or set aside a judgment. Answering this motion to dismiss the appeal appellants\u2019 counsel for the first time raised the question that the trial court had no jurisdiction over the action on the ground that there was no relationship of landlord and tenant between the parties and that there had been no showing in the trial court that appellants had either entered or detained possession of the premises by actual force or violence or by menaces or other actions legally equivalent to force. This question obviously was thus raised by appellants because of the brief recital of evidence contained in the trial court\u2019s statement of proceedings and evidence. Such recital was surplusage since it was not called for by any of the errors assigned by defendants. The recital may or may not have been a complete statement of the evidence.\nWe dismissed the appeal without opinion but upon the ground that it was filed too late and upon the further ground that the trial court had jurisdiction because the complaint stated a cause of action under the forcible entry and detainer statute. A complaint setting forth a substantial statutory cause of action presents a case within the jurisdiction of the court whether the claim ultimately is held good or bad.\nOur order dismissing the first appeal was issued and transmitted to the Municipal Court on July IS, 1946. Two days later appellee filed in the trial court a motion for judgment for damages on the supersedeas bond. Our mandate on the order dismissing the appeal was entered in the trial court on July 22, 1946. The motion for judgment on the supersedeas bond was continued until after the entry of our mandate and was heard and granted by the trial court on July 26, 1946. Judgment on the finding on the supersedeas bond and for possession was entered on August 1, appellants were actually evicted August 9, and on the latter date appellee filed a motion to assess the costs of eviction against the supersedeas bond. On August 12, more than 10 days after entry of judgment, appellants moved to vacate the judgment for damages against the supersedeas bond, and on August 23 the trial court overruled that motion and granted appellee\u2019s motion for judgment for the costs of eviction. On August 24, appellants filed a motion for rehearing, which was heard and denied by the trial court on August 29. It was not until September 5 that appellants filed the present appeal from the order denying the motion for a rehearing. Supersedeas was denied in the trial court on the present appeal, and we were not asked to fix supersedeas. A judgment of condemnation has been entered and executed on the .original supersedeas bond. Although the present appeal ostensibly is from the order denying the motion for a rehearing of the order denying the motion to vacate the judgment, the errors assigned by appellant all involve either the original judgment for possession or the later judgments assessing damages and costs against the supersedeas bond.\nThe mere statement of the nature of the appeal makes it necessary to dismiss it. The United States Court of Appeals for the District of Columbia has held and we have ruled on several occasions that an order denying a motion to set aside a' judgment is not an appealable order. This appeal was filed more than ten days after the judgment, and we have no authority to extend such time.\nWhile we have concluded that the appeal must be dismissed on the ground stated, we have nevertheless considered the errors assigned and have concluded they are without merit. The principal points raised are that the motion to assess damages against the supersedeas bond was filed before our mandate on the former appeal was entered in the trial court, and that the trial court therefore had no jurisdiction to proceed ; and that the trial court originally had no jurisdiction over the action. The latter point was disposed of on the former appeal. With respect to the first point, while it is true that the motion for judgment was filed before our mandate was sent to and entered in the trial court, it is also true that the motion was continued and the court did not act on it until several days after the entry of the mandate. No action by the trial court was required by the mandate except its filing. At the time the trial court acted,, therefore, it had complete jurisdiction. The authorities relied on by appellant, Gregg v. Forsyth, 2 Wall. 56, 17 L.Ed. 782 and Wilson v. Newburgh, 42 App.D.C. 407, do not hold otherwise, for in those cases the trial court acted before the mandate of the appellate court became effective.\nAppellants also urge various procedural grounds for reversal. In large part such grounds are not supported by the record, and in any event, appellants waived such points by not taking a timely appeal.\nAppeal dismissed.\nSection 45 \u2014 1605 (b) prohibits the bringing of a suit for possession by a \u201clandlord\u201d against a \u201ctenant\u201d except for certain specified reasons. Such prohibition obviously does not apply to a forcible entry and detainer action under D. C.Oode 1940,11 \u2014 735.\nThis rule requires that an action shall be prosecuted in the name of the real party in interest.\nWillis v. Eastern Trust & Banking Co., 169 U.S. 295, 18 S.Ct. 347, 42 L.Ed. 752; Thurston v. Anderson, D.C.Mun.App., 40 A.2d 342.\nBinderup v. Pathe Exchange, 263 U.S. 291, 305, 44 S.Ct. 96, 68 L.Ed. 308; Ex parte Watkins, 32 U.S. 568, 572, 8 L.Ed. 786; United States v. Arredondo, 31 U.S. 691, 709, 8 L.Ed. 547; Flannigan v. Chapman & Dewey Land Co., 8 Cir., 144 F. 371; State v. Ragland, 339 Mo. 452, 97 S.W.2d 113.\nInternational Bank v. Securities Corporation, 59 App.D.C. 72, 32 F.2d 968; Dante v. Bagby, 39 App.D.C. 516; Union Provision & Distributing Corporation v. Thomas J. Fisher & Co., Inc., D.C.MunApp., 49 A.2d 85, and cases cited-therein.\nCrowley v. Wood, D.C.Mun.App., 31 A.2d 861.",
+        "type": "majority",
+        "author": "CLAGETT, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Garfield C. Thompson, of Washington, D. C., for appellants.",
+      "Otho D. Branson, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "BROOKS et al. v. TRIGG.\nNo. 453.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 6, 1947.\nGarfield C. Thompson, of Washington, D. C., for appellants.\nOtho D. Branson, of Washington, D. C., for appellee.\nBefore CAYTON, Chief Judge, and HOOD and CLAGETT, Associate Judges."
+  },
+  "file_name": "0302-02",
+  "first_page_order": 334,
+  "last_page_order": 337
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490532,
+  "name": "LEWIS, S. v. UCBR",
+  "name_abbreviation": "Lewis v. Ucbr",
+  "decision_date": "2017-04-03",
+  "docket_number": "1718 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "ea2c7fea7536d537590101a56afb3b459fd38963f41f4def62a730d57a091ee9",
+    "simhash": "1:2de9eb358388e768",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LEWIS, S.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LEWIS, S.\nv.\nUCBR\n1718 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 3, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-08",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

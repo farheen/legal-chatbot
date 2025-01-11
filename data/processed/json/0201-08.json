@@ -1,0 +1,58 @@
+{
+  "id": 12486632,
+  "name": "Com. v. R. Chambers",
+  "name_abbreviation": "Com. v. Chambers",
+  "decision_date": "2016-03-17",
+  "docket_number": "NO. 880 WDA 2015",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "2a1b09fdc702a203b2fe88e8cbde4d6daced74af16b32af8b879909112c84928",
+    "simhash": "1:c4094682519b1cc0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Chambers"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Chambers\nNO. 880 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 17, 2016\nAffirmed."
+  },
+  "file_name": "0201-08",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

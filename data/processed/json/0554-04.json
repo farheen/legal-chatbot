@@ -1,0 +1,62 @@
+{
+  "id": 7944389,
+  "name": "STATE v. Robert W. KNIGHT",
+  "name_abbreviation": "State v. Knight",
+  "decision_date": "1980-08-28",
+  "docket_number": "No. 80-311-C.A.",
+  "first_page": "554",
+  "last_page": "555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "421 A.2d 554"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 341,
+    "ocr_confidence": 0.795,
+    "sha256": "3b62494919e45ba390e88119b9dd4a3eb4abd38e12225ff453e1eb57aa2e9251",
+    "simhash": "1:308e3e638f432053",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T22:42:48.767403+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Robert W. KNIGHT."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to dismiss is denied as premature. The defendant\u2019s motion for counsel fee is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., for plaintiff.",
+      "Irving Brodsky, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Robert W. KNIGHT.\nNo. 80-311-C.A.\nSupreme Court of Rhode Island.\nAug. 28, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., for plaintiff.\nIrving Brodsky, Providence, for defendant."
+  },
+  "file_name": "0554-04",
+  "first_page_order": 600,
+  "last_page_order": 601
+}

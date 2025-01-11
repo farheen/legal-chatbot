@@ -1,0 +1,59 @@
+{
+  "id": 8395590,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Dexter PITTS, Respondent",
+  "name_abbreviation": "Commonwealth v. Pitts",
+  "decision_date": "2008-02-13",
+  "docket_number": "",
+  "first_page": "893",
+  "last_page": "893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "942 A.2d 893"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 482,
+    "ocr_confidence": 0.634,
+    "sha256": "5d3a4396c0246fafbc75013c414c11b19ad96218059d36c5fe05735b59a5052d",
+    "simhash": "1:dc1bc39766c22923",
+    "word_count": 75
+  },
+  "last_updated": "2023-07-14T17:08:11.749639+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Dexter PITTS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of February, 2008, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by petitioner, is:\nDid the Superior Court err in creating new Turner requirements sua sponte in finding counsel\u2019s letter defective for failing to address issues that [respondent] never raised and that were not apparent from the record?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Dexter PITTS, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 13, 2008."
+  },
+  "file_name": "0893-02",
+  "first_page_order": 923,
+  "last_page_order": 923
+}

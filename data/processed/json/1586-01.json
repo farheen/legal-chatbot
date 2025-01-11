@@ -1,0 +1,104 @@
+{
+  "id": 12166276,
+  "name": "In re Emil Umbricht, Gerrit Steenhagen and Willard L. Johnson",
+  "name_abbreviation": "In re Umbricht",
+  "decision_date": "1965-07-01",
+  "docket_number": "No. 7419",
+  "first_page": "1586",
+  "last_page": "1593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1586"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 214"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 882"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "344 F. 2d 713",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12166561,
+        869627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1664-01",
+        "/f2d/344/0713-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1664",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166561
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1664-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 667,
+    "char_count": 11579,
+    "ocr_confidence": 0.517,
+    "pagerank": {
+      "raw": 1.3732758113084265e-07,
+      "percentile": 0.6387949644940689
+    },
+    "sha256": "6d42e80f5c1594da8cdf1f8488950b54c40b54b3fded9a32aae235dc1421f377",
+    "simhash": "1:01afbc58a5946d8c",
+    "word_count": 1973
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Emil Umbricht, Gerrit Steenhagen and Willard L. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nOn January 5, 1960, appellants filed application serial No. 594 for a patent on \u201cWashing Apparatus.\u201d The examiner rejected all five claims in the application as \u201cdefining no invention over\u201d certain prior art patents. This rejection was sustained by the Board of Appeals in a decision adhered to on reconsideration. When considered in the context of the factual situation presented by the record, it is apparent that such rejection was meant to be one for obviousness under 35 TT.S.C. 103; counsel for the solicitor and for appellants have so considered the rejection here and we shall proceed on that basis.\nThe invention, which is claimed both as a process and as apparatus, relates particularly to the problem of removing particles, such as dust or paint, from air. It also has broader applications, in that it can be used to provide intimate contact of a liquid and a gas for chemical reactions, etc. We think the invention is best understood by reference to the claims, which are quite descriptive, and to the drawings.\nFor ease of analysis parent process claim 1 has been broken down into its component elements as follows:\n1. An efficient and inexpensive method of washing a gas such as air to clean and purify it, said method comprising:\nI. the step of arranging a gas conduit with two opposite walls defining a generally vertical smooth serpentine or sinuous path having a plurality of reversals in curvature, said path being sufficiently curved\nA. so that there is no straightline opening through said conduit, and\nB. so that at each reversal one of said walls is vertically above and slightly overhangs the opposite one,\nII. the step of flowing a washing liquid from the top of said conduit down said opposite walls at a rate fast enough so that\nA. at each path reversal there is a curtain of said liquid dripping from the upper wall there to the lower wall and\nB. said walls are covered with a flowing sheet of said liquid, and\nIII. the step of blowing gas to be washed upward through said conduit at a high velocity\nA. to break up the curtain of liquid at each reversal into a turbulent scrubbing and washing spray,\nB. whereby there is provided a self-generated sequence of spray regions along said conduit where the entire flow of gas is\ni. intimately mixed with said washing liquid and\nii. foreign matter in said gas is removed and\niii. said conduit is self-cleaning\nMethod claims 4 and 5 depend from claim 1 and merely add the limitations that the walls be upwardly diverging and upwardly converging, respectively.\nClaims 2 and 3 define apparatus which may be used to carry out the process of claim 1. The main difference between these claims is that claim 2 requires the walls to be upwardly converging while claim 3 requires them to be upwardly diverging. In claim 2, quoted below, we have inserted reference numerals after the claimed elements as shown in appellants\u2019 Fig. 2, which is reproduced immediately following the claim:\n2. Apparatus for producing intimate contact between a gas and a liquid comprising first and second walls [14 and 16], means supporting said walls in upright, spaced serpentine face-to-face relationship, the adjacent inner surfaces of said walls each having successive smooth horizontally-extending convex and concave portions one above the other with the convex portions of each face positioned opposite a concave portion of the opposite face [e.g., the portions at radii R, and Rs from common center C], said surfaces being smoothly curved and free from abrupt discontinuities, at least part of the convex portions of each said surfaces extending into a region vertically above convex portions of the opposite surface of said walls, the inner surfaces of said walls converging toward each other from the bottom to the top, liquid supply means [trough 23, valve 24 and lip 26] arranged to deliver said liquid into the upper part of the space [10] between said walls at a rate greater than that required to maintain a continuous film of water over the inner surfaces of said walls whereby said liquid alternately flows from one of said surfaces to the other, and means [blower 12] forcing said gas upwardly through the space between said walls with sufficient velocity to break said liquid into a turbulent spray [represented diagrammatieally at 28, 30, 34, 36 and 38] as it flows from one of said surfaces to the other.\nAs appellants point out in their brief, the gist of the invention lies in coordinating the wall arrangement with the rate of liquid flow such that the walls are entirely covered with a flowing sheet of liquid and, at each wall reversal, a curtain of the liquid drips off from the upper to the lower of the walls. The rate of air flow is maintained at a velocity sufficient to break up the curtain of liquid into a turbulent scrubbing spray whereby foreign particles are removed from the air.\nIn rejecting the claims, the examiner relied upon the following prior art patents:\nMurray, 1,087,970, Feb. 24, 1914.\nPeters, 2,227,272. Dec. 31, 1940.\nRichardson, 2,231,088, Feb. 11, 1941.\nTeichner, 2,316,491, Apr. 13, 1943.\nSimmons, 2,485,849. Oct. 25, 1949.\nRichardson, 2,573,491, Oct. 30, 1951.\nRoss (Australian), 130,661, Dec. 15, 1948.\nSpecifically, the examiner found that claims 1-3 were obvious over \u201cany one of Simmons, Ross or Richardson 2,573,491 (taken with Richardson 2,231,088 mentioned therein) in view of Teichner and particularly with reference to Peters.\u201d Claims 4 and 5 were rejected over the same combination of references \u201cfurther in view of Murray.\u201d The board, however, appeared to feel that most of the references were unnecessary, and confined its discussion largely to Richardson \u2019491 and Teichner. We shall do the same, since we agree with the board that the subject matter defined in the appealed claims would have been obvious to one of ordinary skill in the art, in view of those references, at the time the invention was made.\nRichardson \u2019491 discloses apparatus for cooling warm, humid air in mines. Air is drawn by a fan through a washing tower and is then forced upwardly through a series of contactors in which it is brought in contact with an hygroscopic liquid. Fig. 2, reproduced below, show a vertical section of one of the contactors. The hygro-\nscopic liquid is sprayed at 16 upon both faces of horizontally-spaced sheets 14, which provide sinuous gas passages 15 therebetween. The sheets extend from one side wall to the other of the contactor chamber 8, and are supported thereby. The hygroscopic liquid flows as a film down each surface of each sheet, and drains from the bottoms of the sheets into collecting troughs 19, whence it is pumped through a cooling chamber and returned to the contactor via nozzle header 17. The air is said to pass through the contactors as a \u201chigh velocity stream\u201d and Richardson states that the sinuous sheets \u201care configured to provide a series of Yenturi-like passages which cause * * * a turbulent flow which eliminates any tendency of the air to follow a path that does not give adequate opportunity for it to impinge against the film of liquid water (or hygroscopic liquid) flowing downwardly along the surfaces of the sheets.\u201d The washing tower may contain sinuous sheets like those in the contactors, \u201cfor effecting efficient contact of the incoming air with the wash water.\u201d\nTeichner shows an air scrubber for a spray painting booth. Teich-ner\u2019s Fig. 1, reproduced below, is illustrative:\nA fan 26 draws air from spray booth 20, under the lower edge 34 of back wall 21, into a vertical passageway 31 past a restricted throat at 35, and then past a second restricted throat at 33. Water passes from spray header 37 down over member 32, around turn 33, where part of it \u201cwill drip off and fall straight down in a curtain of drops upon the portion 36 below.\u201d The rest of the water film \u201cruns on along the surface of the member 32 to its end, down the wall 21 and back over the portion 36, to drop off at the curve 35.\u201d In addition, a film of water runs down along the back of wall 21 until it falls off at 34. The water is collected in trough 22 and pumped back up to header 37. Regarding the nature of the water and air flow, Teichner states:\nThe water running down over the back wall follows the curve 34 more or less, but either falls oft before it has travelled very far on the curve or is tom off by the relatively powerful current of air passing under the curve. Likewise a goodly portion of the water running down over the portion 36 of the passage wall falls or is torn off by the air at the curve 35. The water thus coming off the curves 34 and 35 is more or less atomized and mixed with and carried along by the air current and washes the air with which it is mixed clean of both suspended paint spray and evaporated paint vehicle.\nThere are two main differences between the invention claimed by appellants and that disclosed by Richardson '491, both differences being essentially functional in nature. First, Richardson '491 does not suggest controlling the liquid flow rate so that a curtain of liquid would fall from sheet to sheet at the points where the sheets reverse themselves. Second, Richardson '491 says nothing about controlling the air velocity so that zones of \u201cwhirling spray\u201d would be created. In our view, however, Teichner clearly makes it obvious to one of ordinary skill in the art to utilize the concepts of a falling curtain of drops and a tearing up of that curtain into a turbulent spray by high-velocity air flow, in Richardson\u2019s structure. As the board put it:\nInsofar as the record goes, appellants have merely utilized the Richardson apparatus by adjusting fluid flow rates to practice the Teichner process therein, and in so doing, made no discovery of any unexpected result flowing from this different use of an old apparatus.\nWhile unexpected advantages are not essential to patentability, we think that, on the facts of the present case, it would have been so obvious to combine the teachings of Richardson and Teichner that only a very strong showing of unexpectedly improved results flowing from this combination would have rendered the claimed subject matter as a whole unobvious. We have examined the affidavit of Arnold, and agree with the board that it is not persuasive. It contains little more than a recitation of the differences between appellants\u2019 invention and the individual teachings of the references. It provides no factual basis from which to refute the legal conclusion of obviousness.\nIn our view, there is no significant difference between the method claims and the apparatus claims as regards the question of obviousness, since in this case they appear to be but alternative embodiments of the same inventive concept. We further see nothing of patentable significance in the limitations regarding convergence or divergence of the walls, and appellants have made no serious arguments in this \u2022connection.\nThe appealed decision is accordingly affirmed.\nThe board is to be commended for simplifying the examiner\u2019s somewhat complex rejections. Compare In re Herrick, 52 CCPA 1664, 344 F. 2d 713, 145 USPQ 400.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Truman S. Safford for appellants.",
+      "Clarence C. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 882; 146 USPQ 214\nIn re Emil Umbricht, Gerrit Steenhagen and Willard L. Johnson\n(No. 7419)\nUnited States Court of Customs and Patent Appeals,\nJuly 1, 1965\nTruman S. Safford for appellants.\nClarence C. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents.\n[Oral argument May 6, 1965 by Mr. Safford and Mr. Sears]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1586-01",
+  "first_page_order": 910,
+  "last_page_order": 917
+}

@@ -1,0 +1,117 @@
+{
+  "id": 9493678,
+  "name": "VALLEY HEATING & COOLING, INC. v. BERNARD/POCASSET INVESTMENT GROUP, L.L.C. d/b/a Pocasset Country Club",
+  "name_abbreviation": "Valley Heating & Cooling, Inc. v. Bernard/Pocasset Investment Group, L.L.C.",
+  "decision_date": "2001-09-18",
+  "docket_number": "No. 00-364-A",
+  "first_page": "647",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "122 R.I. 406",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        5544909
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/122/0406-01"
+      ]
+    },
+    {
+      "cite": "773 A.2d 864",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11092578
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/773/0864-01"
+      ]
+    },
+    {
+      "cite": "542 A.2d 662",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7875432
+      ],
+      "pin_cites": [
+        {
+          "page": "663-64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/542/0662-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 258,
+    "char_count": 3249,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21845057375931956
+    },
+    "sha256": "190348fdde34317fe0394c6469854120648bf07893ea9c7404fe0696ba85ea13",
+    "simhash": "1:70c8121fb4fb0cfc",
+    "word_count": 528
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "; Chief Justice WILLIAMS did not participate."
+    ],
+    "parties": [
+      "VALLEY HEATING & COOLING, INC. v. BERNARD/POCASSET INVESTMENT GROUP, L.L.C. d/b/a Pocasset Country Club."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant has appealed from the denial of its motion to vacate a default judgment entered against it in this mechanic\u2019s lien case. A single justice of this Court assigned this case to the Court\u2019s conference calendar for disposition without oral argument, in accordance with Rule 12A(3)(b) of the Supreme Court Rules of Appellate Procedure. On September 13, 2001 this Court reviewed the memoranda and other materials in the record. We shall proceed to decide this appeal without further briefing or argument.\nThe parties contracted to have the plaintiff install a heating and cooling system for the defendant\u2019s business enterprise known as the Pocasset Country Club in Portsmouth, Rhode Island. Pursuant to the contract, the defendant paid fifty percent of the contract price at the outset, with the remainder to be paid upon completion. Nine days after the project was completed, a fire destroyed the property. The plaintiff asserted a claim for the balance of the contract price, and filed a petition to enforce a mechanic\u2019s lien in accordance with G.L.1956 (1995 Reenactment) \u00a7 34-28-13. The defendant filed a timely objection, an answer, and a counterclaim alleging that it was the plaintiffs faulty workmanship that caused the fire.\nA hearing was scheduled a few weeks later, but the defendant failed to appear. In the defendant\u2019s absence, the hearing judge defaulted defendant and entered judgment against it for the balance due, plus interest and costs. Thereafter, the defendant moved to vacate the default judgment under Rule 60(b). A hearing was held on that motion, and the judge denied the defendant\u2019s request. The defendant filed a timely appeal.\nWe determine that the trial judge erred in denying the defendant\u2019s motion to vacate judgment under Rule 60(b)(4) of the Rules of Civil Procedure. The judgment should have been vacated because it was entered without the proper notice having been given to the defendant. Rule 55, which governs defaults, has two steps. Rule 55(a) provides for the entry of default, while Rule 55(b) provides for the entry of default judgment. See Naylor v. Marold, 542 A.2d 662, 663-64 (R.I.1988). Rule 55(b)(2) specifically provides that if the party against whom default judgment is sought has appeared in an action, that party \u201cshall be\u201d served with written notice at least ten days prior to a hearing on the application for default judgment. We have said that \u201cdefault judgments are void if the moving party does not comply with the requirements for providing notice of the pending entry of the default.\u201d Allstate Ins. Co. v. Lombardi, 773 A.2d 864, 869 (R.I.2001) (citing Medeiros v. Hilton Homes, Inc., 122 R.I. 406, 408 A.2d 598 (1979)). Because the defendant in this case had appeared and answered the case, it was entitled to proper notice before the entry of default judgment. Accordingly, we sustain the defendant\u2019s appeal, vacate the default judgment, and remand the matter for further proceedings.\n; Chief Justice WILLIAMS did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Joseph H. Scott, West Kingston.",
+      "Roger Ross, Jeffrey C. Schreck, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "VALLEY HEATING & COOLING, INC. v. BERNARD/POCASSET INVESTMENT GROUP, L.L.C. d/b/a Pocasset Country Club.\nNo. 00-364-A.\nSupreme Court of Rhode Island.\nSept. 18, 2001.\nJoseph H. Scott, West Kingston.\nRoger Ross, Jeffrey C. Schreck, Providence."
+  },
+  "file_name": "0647-02",
+  "first_page_order": 689,
+  "last_page_order": 690
+}

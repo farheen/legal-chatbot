@@ -1,0 +1,58 @@
+{
+  "id": 12501697,
+  "name": "COM. v. BECKETT, H.",
+  "name_abbreviation": "Com. v. Beckett",
+  "decision_date": "2018-07-17",
+  "docket_number": "1064 MDA 2017",
+  "first_page": "682",
+  "last_page": "682",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 682"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 127,
+    "sha256": "26be599f1409dd8a1c85c829044b5a1dbb9565b3001e756b5b286ad9aa2b8513",
+    "simhash": "1:30505f1b04b80dc4",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBECKETT, H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBECKETT, H.\n1064 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 17, 2018\nReargument Denied September 18, 2018\nAffirmed"
+  },
+  "file_name": "0682-04",
+  "first_page_order": 682,
+  "last_page_order": 682
+}

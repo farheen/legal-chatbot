@@ -1,0 +1,64 @@
+{
+  "id": 7943606,
+  "name": "UNITED STATES of America v. PUBLIC UTILITIES COMMISSION",
+  "name_abbreviation": "United States v. Public Utilities Commission",
+  "decision_date": "1979-12-20",
+  "docket_number": "No. 76-249-M.P.",
+  "first_page": "250",
+  "last_page": "251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 501,
+    "ocr_confidence": 0.736,
+    "sha256": "fa43cc4b23f4d2deb47dc04264645b35984961d308777626f4092f805bef6cf2",
+    "simhash": "1:30a64e6dfec55507",
+    "word_count": 76
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS and MURRAY, JJ., did not participate."
+    ],
+    "parties": [
+      "UNITED STATES of America v. PUBLIC UTILITIES COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion of the Coalition for Consumer Justice to participate in oral argument is denied.\nDORIS and MURRAY, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Lincoln C. Almond, Everett C. Sammarti-no, Carl I. Freedman, Rhode Island Legal Services, Inc., Providence, for Coalition for Consumer Justice.",
+      "Dennis J. Roberts II, Atty. Gen., R. Daniel Prentiss, Special Asst. Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America v. PUBLIC UTILITIES COMMISSION.\nNo. 76-249-M.P.\nSupreme Court of Rhode Island.\nDec. 20, 1979.\nLincoln C. Almond, Everett C. Sammarti-no, Carl I. Freedman, Rhode Island Legal Services, Inc., Providence, for Coalition for Consumer Justice.\nDennis J. Roberts II, Atty. Gen., R. Daniel Prentiss, Special Asst. Atty. Gen., for respondent."
+  },
+  "file_name": "0250-04",
+  "first_page_order": 306,
+  "last_page_order": 307
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487261,
+  "name": "Com. v. V. Cortlessa",
+  "name_abbreviation": "Com. v. Cortlessa",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 574 WDA 2015",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 96,
+    "sha256": "c92b5384a74fd56b3e8b0ef47653b37bf98e2467a71f16341505beff15cf6d55",
+    "simhash": "1:cc08550181310080",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nV. Cortlessa"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nV. Cortlessa\nNO. 574 WDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed."
+  },
+  "file_name": "0774-12",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490561,
+  "name": "SCOTT, J v. ZBA et al.",
+  "name_abbreviation": "Scott v. Zba",
+  "decision_date": "2017-04-13",
+  "docket_number": "358 CD 2015",
+  "first_page": "302",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "f71cd1b6414f86cf38a49e397f3f2c69c84b3d14f691f956393ac508c5ac1b09",
+    "simhash": "1:acc9ebf849ce7b00",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SCOTT, J\nv.\nZBA et al."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SCOTT, J\nv.\nZBA et al.\n358 CD 2015\nCommonwealth Court of Pennsylvania.\nApril 13, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0302-06",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

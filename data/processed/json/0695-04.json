@@ -1,0 +1,58 @@
+{
+  "id": 12501765,
+  "name": "COM. v. STALTER, J.",
+  "name_abbreviation": "Com. v. Stalter",
+  "decision_date": "2018-07-20",
+  "docket_number": "895 MDA 2017",
+  "first_page": "695",
+  "last_page": "695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "5c0fc6807cb928813e163b0e9dad189d6835faee24705702720cfa40585dd0b3",
+    "simhash": "1:d5cd543aee981ba4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nSTALTER, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nSTALTER, J.\n895 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nAffirmed"
+  },
+  "file_name": "0695-04",
+  "first_page_order": 695,
+  "last_page_order": 695
+}

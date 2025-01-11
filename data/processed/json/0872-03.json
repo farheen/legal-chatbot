@@ -1,0 +1,59 @@
+{
+  "id": 8348187,
+  "name": "John GREEN, Petitioner, v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Clerk of Quarter Sessions, Respondent",
+  "name_abbreviation": "Green v. Court of Common Pleas of Philadelphia County",
+  "decision_date": "2007-08-31",
+  "docket_number": "No. 92 EM 2007",
+  "first_page": "872",
+  "last_page": "872",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "932 A.2d 872"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 343,
+    "ocr_confidence": 0.679,
+    "sha256": "34f5768995286fb7c30145929e24fc6e37b1a08ef011f097773b6ef3f05bffac",
+    "simhash": "1:4035c3bec7d72e3d",
+    "word_count": 57
+  },
+  "last_updated": "2023-07-14T19:53:36.542748+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John GREEN, Petitioner, v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Clerk of Quarter Sessions, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of August, 2007, the Application for Leave to File Original Process is granted and the Petition for Writ of Mandamus is denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John GREEN, Petitioner, v. COURT OF COMMON PLEAS OF PHILADELPHIA COUNTY, Clerk of Quarter Sessions, Respondent.\nNo. 92 EM 2007.\nSupreme Court of Pennsylvania.\nAug. 31, 2007."
+  },
+  "file_name": "0872-03",
+  "first_page_order": 920,
+  "last_page_order": 920
+}

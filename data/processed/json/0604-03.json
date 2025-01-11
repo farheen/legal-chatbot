@@ -1,0 +1,83 @@
+{
+  "id": 9482430,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Dewhight A. HICKMAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hickman",
+  "decision_date": "2001-09-11",
+  "docket_number": "",
+  "first_page": "604",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "780 A.2d 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "773 A.2d 126",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11088768,
+        124682,
+        124714,
+        11088819
+      ],
+      "pin_cites": [
+        {
+          "page": "131"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/773/0126-01",
+        "/pa/565/0280-01",
+        "/pa/565/0279-01",
+        "/a2d/773/0126-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 93,
+    "char_count": 800,
+    "ocr_confidence": 0.667,
+    "sha256": "44d940861190c161f8caec24bd58432696f647c98b40a0d95c4c6ab9ff660c29",
+    "simhash": "1:ffbda68ec3332f6e",
+    "word_count": 125
+  },
+  "last_updated": "2024-02-27T20:17:19.657035+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Dewhight A. HICKMAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 11th day of September, 2001, the Petition for Alowance of Appeal is GRANTED, and the matter is VACATED and REMANDED to the Superior Court for consideration of the merits of petitioner\u2019s claim that plea counsel rendered ineffective assistance when he advised petitioner that he would be eligible to participate in the motivational boot camp program after serving two years of his four year minimum sentence. See Commonwealth ex. rel. Dadario v. Goldberg, 773 A.2d 126, 131 (Pa.2001) (ineffective assistance of counsel claims that arise from plea bargaining process are eligible for review under \u00a7 9543(a)(2)(ii) of Post Conviction Relief Act).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Dewhight A. HICKMAN, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 11, 2001."
+  },
+  "file_name": "0604-03",
+  "first_page_order": 632,
+  "last_page_order": 633
+}

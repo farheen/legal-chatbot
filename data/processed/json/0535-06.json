@@ -1,0 +1,58 @@
+{
+  "id": 12489793,
+  "name": "SNYDER v. SNYDER",
+  "name_abbreviation": "Snyder v. Snyder",
+  "decision_date": "2017-05-30",
+  "docket_number": "16\u2013404",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 A.3d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "579029b01bdebd591aa0cec8d278d7b6ac2d9c219d55253fa68e835982f8d588",
+    "simhash": "1:90356c00a1a8a058",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017834+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SNYDER\nv.\nSNYDER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SNYDER\nv.\nSNYDER\n16-404\nSupreme Court of Vermont.\nMay 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0535-06",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

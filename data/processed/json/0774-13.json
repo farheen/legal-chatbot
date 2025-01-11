@@ -1,0 +1,58 @@
+{
+  "id": 12487262,
+  "name": "Com. v. T. Zeller",
+  "name_abbreviation": "Com. v. Zeller",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 1135 WDA 2015",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "785e2f0a84178cb3fc5f2d9a165bdf8ddb9970a22b6d30aa911f114d90b8f65f",
+    "simhash": "1:e91ac48091391b80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Zeller"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Zeller\nNO. 1135 WDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed."
+  },
+  "file_name": "0774-13",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

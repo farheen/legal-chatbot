@@ -1,0 +1,58 @@
+{
+  "id": 12488995,
+  "name": "STATE v. RABTOY",
+  "name_abbreviation": "State v. Rabtoy",
+  "decision_date": "2016-12-05",
+  "docket_number": "16\u2013403",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "fe50820b19019423b7a37b04d0795cf1ab2c8a1bc2f3278f8f5a40e000d74e4d",
+    "simhash": "1:c0719500b8404041",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nRABTOY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nRABTOY\n16-403\nSupreme Court of Vermont.\nDecember 5, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-41",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

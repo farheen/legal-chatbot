@@ -1,0 +1,58 @@
+{
+  "id": 12486559,
+  "name": "Com. v. J. Nicholson",
+  "name_abbreviation": "Com. v. Nicholson",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 1555 WDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "cef6a536001cf3970ea08192aa910d426e8fe0c291f87663fc501d36f97ac098",
+    "simhash": "1:fc084c1048ac18e0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Nicholson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Nicholson\nNO. 1555 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nAffirmed."
+  },
+  "file_name": "0197-14",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

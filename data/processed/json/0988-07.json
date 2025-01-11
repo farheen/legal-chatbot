@@ -1,0 +1,59 @@
+{
+  "id": 6081347,
+  "name": "Emmet G. Stack v. John Randolph James",
+  "name_abbreviation": "Stack v. James",
+  "decision_date": "1959-07-07",
+  "docket_number": "No. 6559",
+  "first_page": "988",
+  "last_page": "988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 988"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 101,
+    "ocr_confidence": 0.516,
+    "sha256": "2c1925870eeb57214a13525058bedb6358e503d0b484752174b201146c05e2f4",
+    "simhash": "1:c8dc17b61db85e06",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emmet G. Stack v. John Randolph James"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in coreless flush doors.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 7, 1959\nEmmet G. Stack v. John Randolph James\n(No. 6559)."
+  },
+  "file_name": "0988-07",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

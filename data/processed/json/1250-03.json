@@ -1,0 +1,64 @@
+{
+  "id": 12492256,
+  "name": "RUDDY v. HOLLINS",
+  "name_abbreviation": "Ruddy v. Hollins",
+  "decision_date": "2018-02-16",
+  "docket_number": "Pet. Docket No. 389, Sept. Term, 2017",
+  "first_page": "1250",
+  "last_page": "1250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 A.3d 1250"
+    },
+    {
+      "type": "parallel",
+      "cite": "457 Md. 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 146,
+    "sha256": "c1348c3081766725fdb467b3202780dc634b93ea024f433a69dcd0659f00eba7",
+    "simhash": "1:364ac051e74cc1ac",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:29.410398+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RUDDY\nv.\nHOLLINS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed"
+    ],
+    "corrections": "",
+    "head_matter": "RUDDY\nv.\nHOLLINS\nPet. Docket No. 389, Sept. Term, 2017\nCourt of Appeals of Maryland.\nFebruary 16, 2018\nPetition for writ of certiorari dismissed"
+  },
+  "file_name": "1250-03",
+  "first_page_order": 1250,
+  "last_page_order": 1250
+}

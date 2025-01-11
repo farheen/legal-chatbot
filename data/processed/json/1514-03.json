@@ -1,0 +1,59 @@
+{
+  "id": 6092954,
+  "name": "In re Herbert F. Minter et al.",
+  "name_abbreviation": "In re Minter",
+  "decision_date": "1968-01-18",
+  "docket_number": "No. 8299",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 82,
+    "ocr_confidence": 0.565,
+    "sha256": "d1c960161e2baa6749438853f0def92a25263951f195c14b87573bccd6dc706a",
+    "simhash": "1:b490d93385e6da07",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Herbert F. Minter et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Electrical apparatus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 18, 1968\nNo. 8299.\nIn re Herbert F. Minter et al."
+  },
+  "file_name": "1514-03",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487472,
+  "name": "In the Interest of: C.D.B., a Minor",
+  "name_abbreviation": "In re Interest of C.D.B.",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 1236 EDA 2015",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 788"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 112,
+    "sha256": "155b5083e5d720fd04c4c37589a3b94586e30956def94beeff26e5f50623e7bd",
+    "simhash": "1:b41b57fbb5b198f1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: C.D.B., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: C.D.B., a Minor\nNO. 1236 EDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed."
+  },
+  "file_name": "0788-07",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

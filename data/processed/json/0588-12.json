@@ -1,0 +1,58 @@
+{
+  "id": 12485838,
+  "name": "Com. v. E. Hannold",
+  "name_abbreviation": "Com. v. Hannold",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 1089 WDA 2014",
+  "first_page": "588",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "a6cdd9f8a452c8e20d897e4e545abcc809674776ac3da4a0d3cf3a048df53b81",
+    "simhash": "1:a406c2a90a6be606",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Hannold"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Hannold\nNO. 1089 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0588-12",
+  "first_page_order": 588,
+  "last_page_order": 588
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487254,
+  "name": "Com. v. J. Gensiak",
+  "name_abbreviation": "Com. v. Gensiak",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 677 MDA 2015",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 116,
+    "sha256": "85b6927bf2e583fbaac5eaf919ff28a4321a4665c183cc0e142bbf52f3cc719a",
+    "simhash": "1:f9dfc78dd53b1ec2",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Gensiak"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Gensiak\nNO. 677 MDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed, Vacated and Remanded."
+  },
+  "file_name": "0773-05",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

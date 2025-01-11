@@ -1,0 +1,103 @@
+{
+  "id": 12491839,
+  "name": "Jermaine LITTLE v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Little v. Comm'r of Corr.",
+  "decision_date": "2017-12-21",
+  "docket_number": "",
+  "first_page": "562",
+  "last_page": "562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 562"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 990"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "949 A.2d 1092",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 2008,
+      "opinion_index": -1
+    },
+    {
+      "cite": "287 Conn. 509",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        5734708
+      ],
+      "year": 2008,
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn/287/0509-01"
+      ]
+    },
+    {
+      "cite": "177 Conn. App. 337",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491350
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/172-2/0325-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 792,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25788356772923826
+    },
+    "sha256": "4b890e6588cfd0e5aa4cfb9d51637226f4b459ad2d9402969027aa31b9e5a26a",
+    "simhash": "1:362cb168d0c9eed3",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jermaine LITTLE\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Jermaine Little's petition for certification to appeal from the Appellate Court, 177 Conn. App. 337, 172 A.3d 325 (2017), is granted, limited to the following issue:"
+    ],
+    "corrections": "",
+    "head_matter": "Jermaine LITTLE\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided December 21, 2017\nNaomi T. Fetterman, assigned counsel, in support of the petition.\nRita M. Shair, senior assistant state's attorney, Rocky Hill, in opposition.\nThe petitioner Jermaine Little's petition for certification to appeal from the Appellate Court, 177 Conn. App. 337, 172 A.3d 325 (2017), is granted, limited to the following issue:\n\"Did the Appellate Court correctly decline to apply State v. Salomon, 287 Conn. 509, 949 A.2d 1092 (2008), retroactively to allow collateral attacks on a kidnapping conviction when the defendant pleaded guilty to that charge, and, if not, is the petitioner entitled to relief?\"\nMULLINS, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0562-03",
+  "first_page_order": 562,
+  "last_page_order": 562
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488554,
+  "name": "R.T. v. J.T. v. C.V.",
+  "name_abbreviation": "R.T. v. J.T.",
+  "decision_date": "2016-05-19",
+  "docket_number": "1634 WDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "c3c80b2ba0f119da07611391c010b735dbd2b8a83761234d42a3b4dbdc48b3ef",
+    "simhash": "1:949a472b5cac97e0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.T.\nv.\nJ.T.\nv.\nC.V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R.T.\nv.\nJ.T.\nv.\nC.V.\n1634 WDA 2015\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1154-15",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

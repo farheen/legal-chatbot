@@ -1,0 +1,89 @@
+{
+  "id": 9156953,
+  "name": "Anthony SPINELLI, Petitioner, v. WORKERS' COMPENSATION APPEAL BOARD (THE VANGUARD GROUP), Respondent",
+  "name_abbreviation": "Spinelli v. Workers' Compensation Appeal Board",
+  "decision_date": "2004-09-21",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "858 A.2d 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "771 A.2d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        124695,
+        11105471
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0114-01",
+        "/a2d/771/1246-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1329400,
+        9240563
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0207-01",
+        "/a2d/851/0838-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 779,
+    "ocr_confidence": 0.656,
+    "sha256": "9262f802518f4241b7f9fa25156f78d48cf422a0c701646dfaa7bde3fb170f46",
+    "simhash": "1:3c0d506eb14a2efa",
+    "word_count": 121
+  },
+  "last_updated": "2024-02-27T18:24:07.316447+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony SPINELLI, Petitioner, v. WORKERS' COMPENSATION APPEAL BOARD (THE VANGUARD GROUP), Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 21st day of September, 2004, the Petition for Allowance of Appeal is granted. It is further ordered that the respective orders of the Commonwealth Court and the Workers\u2019 Compensation Appeal Board are vacated and that this case is remanded to the Commonwealth Court with instructions to remand this case to the Workers\u2019 Compensation Judge to reconsider the issue of notice under 77 P.S. \u00a7 631 in light of City of Philadelphia v. Workers\u2019 Compensation Appeal Board (Williams), 851 A.2d 838 (Pa.2004) and Sell v. Workers\u2019 Compensation Appeal Board (LNP Engineering), 565 Pa.114, 771 A.2d 1246 (2001).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Anthony SPINELLI, Petitioner, v. WORKERS' COMPENSATION APPEAL BOARD (THE VANGUARD GROUP), Respondent.\nSupreme Court of Pennsylvania.\nSept. 21, 2004."
+  },
+  "file_name": "0074-02",
+  "first_page_order": 124,
+  "last_page_order": 125
+}

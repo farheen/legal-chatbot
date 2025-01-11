@@ -1,0 +1,58 @@
+{
+  "id": 12490120,
+  "name": "CARTEGENA, I. v. PBPP",
+  "name_abbreviation": "Cartegena v. PBPP",
+  "decision_date": "2017-01-12",
+  "docket_number": "418 CD 2016",
+  "first_page": "1056",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1056"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 132,
+    "sha256": "405b3b94382bf556b6c77d91c2699e1a193b4424b0e7b4ce51723969343e8a0e",
+    "simhash": "1:45ede6a708c89e4c",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARTEGENA, I.\nv.\nPBPP"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CARTEGENA, I.\nv.\nPBPP\n418 CD 2016\nCommonwealth Court of Pennsylvania.\nJanuary 12, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1056-05",
+  "first_page_order": 1056,
+  "last_page_order": 1056
+}

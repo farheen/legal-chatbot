@@ -1,0 +1,58 @@
+{
+  "id": 12487303,
+  "name": "C. Levy v. R. Johnson",
+  "name_abbreviation": "Levy v. Johnson",
+  "decision_date": "2016-04-11",
+  "docket_number": "NO. 1016 EDA 2015",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 154,
+    "sha256": "abe27e0dfb6fb87c027683f0b9bef8a59778a318f145bd5360fafc72153807d1",
+    "simhash": "1:a981e77ff8ac09e2",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Levy\nv.\nR. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. Levy\nv.\nR. Johnson\nNO. 1016 EDA 2015\nSuperior Court of Pennsylvania.\nApril 11, 2016\nAffirmed.\n4 Petition for reargument denied June 8, 2016.\n--------"
+  },
+  "file_name": "0776-08",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501630,
+  "name": "COM. v. OTT, A.",
+  "name_abbreviation": "Com. v. Ott",
+  "decision_date": "2018-07-13",
+  "docket_number": "3995 EDA 2017",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 668"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "6409fec412991f029fe704eb997f6fe8598f7053afa50aac4b5f056e99121712",
+    "simhash": "1:9ef6862e27cb9fe4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nOTT, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nOTT, A.\n3995 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 13, 2018\nRemanded Jurisdiction Retained"
+  },
+  "file_name": "0668-04",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

@@ -1,0 +1,87 @@
+{
+  "id": 6811534,
+  "name": "Sippican/MRN Corporation vs. Franklin Clark",
+  "name_abbreviation": "Sippican/MRN Corp. v. Clark",
+  "decision_date": "1995-04-11",
+  "docket_number": "",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1995 Mass. App. Div. 47"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Mass. App. Div.",
+    "id": 15177,
+    "name": "Massachusetts Appellate Division"
+  },
+  "jurisdiction": {
+    "id": 4,
+    "name_long": "Massachusetts",
+    "name": "Mass."
+  },
+  "cites_to": [
+    {
+      "cite": "368 Mass. 174",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        307090
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "177-180"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/368/0174-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 151,
+    "char_count": 1642,
+    "ocr_confidence": 0.89,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18292552963512546
+    },
+    "sha256": "915b63a22bb2f595fe2bef99f7fda880c4410179f0929677dce86f441682c2e3",
+    "simhash": "1:e0ff4aaf2b20b6c3",
+    "word_count": 263
+  },
+  "last_updated": "2024-02-27T22:15:49.746046+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Present: Dolan, P,J., Martin & Welsh, JJ."
+    ],
+    "parties": [
+      "Sippican/MRN Corporation vs. Franklin Clark"
+    ],
+    "opinions": [
+      {
+        "text": "Dolan, P.J.\nThis is an action in which plaintiff seeks to appeal from the denial of its Dist./Mun. Cts. R. Civ. R, Rule 56 motion for summary judgment. We decline to review this interlocutory matter.\nPlaintiff brought this action to recover for nursing, medical and rehabilitation services provided by plaintiff to defendant at plaintiffs nursing health care center. After being served with process, defendant did not answer or otherwise appear to defend against plaintiffs claim. Plaintiff filed its motion for summary judgment which reads in part \u201cDefendant Franklin Clark, is an incompetent.\u201d The court denied the motion and plaintiff appealed.\nAn order denying a motion for summary judgment is an interlocutory order which is not subject to appellate review. Rollins Environmental Services, Inc. v. Superior Court, 368 Mass. 174, 177-180 (1975). An exception exists if the motion judge chooses to voluntarily report the ruling. Dist./Mun. Cts. R. A. D. A., Rule 5. In this case, the judge did not voluntarily report the ruling.\nReport dismissed.\nBecause no binding judgment can be rendered against an incompetent person unless that person has a guardian or a guardian ad litem acting on his behalf, plaintiff may avail itself of the provision of Dist./Mun. Cts. R. Civ. R, Rule 17(b) which provides for the appointment of a guardian ad litem who is compensated either out of the estate of the ward or by the plaintiff. G.L.c. 201, \u00a735.",
+        "type": "majority",
+        "author": "Dolan, P.J."
+      }
+    ],
+    "attorneys": [
+      "Anthony Ruggiero for the plaintiff.",
+      "No attorney representation for the defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Sippican/MRN Corporation vs. Franklin Clark\nSouthern District\nApril 11, 1995.\nPresent: Dolan, P,J., Martin & Welsh, JJ.\nAnthony Ruggiero for the plaintiff.\nNo attorney representation for the defendant."
+  },
+  "file_name": "0047-01",
+  "first_page_order": 53,
+  "last_page_order": 53
+}

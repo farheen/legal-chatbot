@@ -1,0 +1,64 @@
+{
+  "id": 7953329,
+  "name": "Larry TAYLOR v. John MORAN",
+  "name_abbreviation": "Taylor v. Moran",
+  "decision_date": "1982-07-29",
+  "docket_number": "No. 82-336-M.P.",
+  "first_page": "140",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "449 A.2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 265,
+    "ocr_confidence": 0.74,
+    "sha256": "407e9845f1af04ce17d6cd722bd82859f31af5980700137c5b5f1cdd649372e0",
+    "simhash": "1:74fe6a7dbce1645f",
+    "word_count": 44
+  },
+  "last_updated": "2023-07-14T19:02:12.719483+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER and SHEA, JJ., did not participate."
+    ],
+    "parties": [
+      "Larry TAYLOR v. John MORAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.\nWEISBERGER and SHEA, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Larry Taylor, pro se.",
+      "Dennis J. Roberts II, Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Larry TAYLOR v. John MORAN.\nNo. 82-336-M.P.\nSupreme Court of Rhode Island.\nJuly 29, 1982.\nLarry Taylor, pro se.\nDennis J. Roberts II, Atty. Gen., for respondent."
+  },
+  "file_name": "0140-04",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490453,
+  "name": "KERNS, S. v. THARP, T.",
+  "name_abbreviation": "Kerns v. Tharp",
+  "decision_date": "2017-03-08",
+  "docket_number": "669 CD 2016",
+  "first_page": "295",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "140f5677664fe0dd97cd7e6438e440281a8ee9bef47f073666fc962e79e71805",
+    "simhash": "1:2df1e23444c81c59",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KERNS, S.\nv.\nTHARP, T."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "KERNS, S.\nv.\nTHARP, T.\n669 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 8, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0295-14",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

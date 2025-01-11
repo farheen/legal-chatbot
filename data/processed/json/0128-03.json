@@ -1,0 +1,61 @@
+{
+  "id": 7888352,
+  "name": "R.I. DEPT. OF MENTAL HEALTH RETARDATION AND HOSPITALS v. John DOE",
+  "name_abbreviation": "R.I. Dept. of Mental Health Retardation & Hospitals v. Doe",
+  "decision_date": "1986-07-17",
+  "docket_number": "No. 86-302-M.P.",
+  "first_page": "128",
+  "last_page": "128",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "512 A.2d 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 296,
+    "ocr_confidence": 0.759,
+    "sha256": "8748b95667b6c0bbe62bb99a3f5d367a41a4e8755dad29bcbf93ae2330275cef",
+    "simhash": "1:df6a313dd8cbcfc5",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T17:49:05.580112+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "R.I. DEPT. OF MENTAL HEALTH RETARDATION AND HOSPITALS v. John DOE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is granted. The judgment of the District Court is stayed until further order of this court.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R.I. DEPT. OF MENTAL HEALTH RETARDATION AND HOSPITALS v. John DOE.\nNo. 86-302-M.P.\nSupreme Court of Rhode Island.\nJuly 17, 1986."
+  },
+  "file_name": "0128-03",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

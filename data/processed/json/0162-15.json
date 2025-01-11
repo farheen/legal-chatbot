@@ -1,0 +1,58 @@
+{
+  "id": 12486924,
+  "name": "Commonwealth v. Alfred Dill",
+  "name_abbreviation": "Commonwealth v. Dill",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 116 EAL (2016)",
+  "first_page": "162",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 133,
+    "sha256": "9175393038a6ebfa83ac67c94fb23e88665de1f3f5bf1d34ea4e3ff866f1f9a2",
+    "simhash": "1:dfcf5b7c9be298bc",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAlfred Dill"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAlfred Dill\nNO. 116 EAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0162-15",
+  "first_page_order": 162,
+  "last_page_order": 162
+}

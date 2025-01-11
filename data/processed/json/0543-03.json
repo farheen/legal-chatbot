@@ -1,0 +1,64 @@
+{
+  "id": 7975318,
+  "name": "John W. JORDAN et al. v. June J. KELLY et al.",
+  "name_abbreviation": "Jordan v. Kelly",
+  "decision_date": "1981-01-22",
+  "docket_number": "No. 79-504-A",
+  "first_page": "543",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "425 A.2d 543"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 308,
+    "ocr_confidence": 0.79,
+    "sha256": "936dcc3a0078c862369ab44d9f70b0eed577fee4b9729ad61a59769e26531529",
+    "simhash": "1:34e65639bd84302d",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T22:42:45.131159+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., did not participate."
+    ],
+    "parties": [
+      "John W. JORDAN et al. v. June J. KELLY et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition to reargue is denied.\nBEVILACQUA, C. J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Parmenter & Associates, William E. Par-menter, Providence, for plaintiffs.",
+      "Milton Bernstein, Providence, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "John W. JORDAN et al. v. June J. KELLY et al.\nNo. 79-504-A.\nSupreme Court of Rhode Island.\nJan. 22, 1981.\nParmenter & Associates, William E. Par-menter, Providence, for plaintiffs.\nMilton Bernstein, Providence, for defendants."
+  },
+  "file_name": "0543-03",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

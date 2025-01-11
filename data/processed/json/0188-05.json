@@ -1,0 +1,58 @@
+{
+  "id": 12486430,
+  "name": "Com. v. K. Rodgers",
+  "name_abbreviation": "Com. v. Rodgers",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 989 EDA 2015",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 102,
+    "sha256": "fa244162e9ec19e6870ef6f1019a758bceb689056d746e185654744d27960568",
+    "simhash": "1:de59d633f8079f89",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Rodgers"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Rodgers\nNO. 989 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAppeal dismissed."
+  },
+  "file_name": "0188-05",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

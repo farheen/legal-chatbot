@@ -1,0 +1,81 @@
+{
+  "id": 1279746,
+  "name": "Andrew D. Gwynne and Edwin S. Gwynne, Appellants, v. Katie Lloyd Gwynne, Appellee",
+  "name_abbreviation": "Gwynne v. Gwynne",
+  "decision_date": "1930-12-09",
+  "docket_number": "",
+  "first_page": "1439",
+  "last_page": "1439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1439"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "96 Fla. 306",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1248687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/96/0306-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 91,
+    "char_count": 860,
+    "ocr_confidence": 0.473,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.04830088549564086
+    },
+    "sha256": "f5033360bba890ae53a7925a224b9f4250673898ce7651979c084cc08b0a02eb",
+    "simhash": "1:dca32efd86c8ad3d",
+    "word_count": 150
+  },
+  "last_updated": "2024-02-27T19:39:14.952203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Terrell, C. J. and Ellis and Brown, J. J., concur."
+    ],
+    "parties": [
+      "Andrew D. Gwynne and Edwin S. Gwynne, Appellants, v. Katie Lloyd Gwynne, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam\nThis cause having heretofore been submitted to the Court upon the transcript of the record of the order herein, and briefs and argument of counsel for the respective parties and the record having been seen and inspected, and the Court being now advised of - its judgment to be given in the premises, it seems to the Court that there is no error in the said order. It is therefore considered, ordered, and decreed by the Court that the said order of the Circuit Court be, and the same is hereby affirmed. See memorandum decision in former appeal of same case, 96 Fla. 306, 117 So. R. 879.\nTerrell, C. J. and Ellis and Brown, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam"
+      }
+    ],
+    "attorneys": [
+      "Leitner & Leitner, for Appellant, Andrew D. Gwynne;",
+      "Stewart & Presson, for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew D. Gwynne and Edwin S. Gwynne, Appellants, v. Katie Lloyd Gwynne, Appellee.\nEn Banc.\nDecision filed December 9, 1930.\nLeitner & Leitner, for Appellant, Andrew D. Gwynne;\nStewart & Presson, for Appellee."
+  },
+  "file_name": "1439-01",
+  "first_page_order": 435,
+  "last_page_order": 435
+}

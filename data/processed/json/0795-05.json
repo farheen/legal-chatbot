@@ -1,0 +1,58 @@
+{
+  "id": 12487572,
+  "name": "Com. v. A. Dempsis",
+  "name_abbreviation": "Com. v. Dempsis",
+  "decision_date": "2016-04-27",
+  "docket_number": "NO. 3452 EDA 2014",
+  "first_page": "795",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 795"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "14175b43a7cf30d77bcd172206a2cd0bcebabfcff4a6765042be84172a58f977",
+    "simhash": "1:325666e980892e00",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Dempsis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Dempsis\nNO. 3452 EDA 2014\nSuperior Court of Pennsylvania.\nApril 27, 2016\nReversed and Remanded."
+  },
+  "file_name": "0795-05",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

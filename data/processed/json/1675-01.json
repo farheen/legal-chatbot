@@ -1,0 +1,290 @@
+{
+  "id": 12166603,
+  "name": "In re David Taub, Norman L. Wendler and Harry L. Slates",
+  "name_abbreviation": "In re Taub",
+  "decision_date": "1965-07-19",
+  "docket_number": "No. 7336",
+  "first_page": "1675",
+  "last_page": "1683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1675"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "348 F.2d 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "U.S. Patent No. 3,104",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    },
+    {
+      "cite": "244 F. 2d 316",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        408229,
+        6079462
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/244/0316-01",
+        "/ccpa/44-2/0904-01"
+      ]
+    },
+    {
+      "cite": "44 CCPA 904",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079462
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "907"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/44-2/0904-01"
+      ]
+    },
+    {
+      "cite": "25 USPQ 433",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 F. 2d 627",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082896,
+        953442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1313-01",
+        "/f2d/77/0627-01"
+      ]
+    },
+    {
+      "cite": "22 CCPA 1313",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082896
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1313-01"
+      ]
+    },
+    {
+      "cite": "29 USPQ 137",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 F. 2d 405",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081304,
+        935235
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/23-2/1057-01",
+        "/f2d/82/0405-01"
+      ]
+    },
+    {
+      "cite": "23 CCPA 1057",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081304
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/23-2/1057-01"
+      ]
+    },
+    {
+      "cite": "163 F. 2d 562",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1106090
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/163/0562-01"
+      ]
+    },
+    {
+      "cite": "35 CCPA 727",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077575
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/35-2/0727-01"
+      ]
+    },
+    {
+      "cite": "315 F. 2d 949",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081261,
+        172751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1163-01",
+        "/f2d/315/0949-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1163",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081261
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1163-01"
+      ]
+    },
+    {
+      "cite": "159 F. 2d 1019",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080060,
+        1123478
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/34-2/0920-01",
+        "/f2d/159/1019-01"
+      ]
+    },
+    {
+      "cite": "34 CCPA 920",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080060
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/34-2/0920-01"
+      ]
+    },
+    {
+      "cite": "118 USPQ 340",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6080727
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/1037-01"
+      ]
+    },
+    {
+      "cite": "145 USPQ 497",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 USPQ 429",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 USPQ 115",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 855,
+    "char_count": 21043,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 3.05034529403864e-07,
+      "percentile": 0.8559049195532249
+    },
+    "sha256": "c96949f84faef524e3c449ec258e689b014a9bf852db1a2d88db9be46263fb02",
+    "simhash": "1:9807746c6d09697c",
+    "word_count": 3401
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re David Taub, Norman L. Wendler and Harry L. Slates"
+    ],
+    "opinions": [
+      {
+        "text": "Martin, Judge,\ndelivered the opinion of the court:\nAppellants lost in interference a generic count that includes species of pharmaceutically active steroids which they now claim in an application serial No. 831,688, filed August 5, 1959 for \u201cSteroid Production.\u201d\nThe steroids of the present invention:\n* * * possess extremely high anti-inflammatory activity, * * * and are especially effective for the treatment of arthritis and related diseases since they can be administered for their cortisone-like action in extremely low dosage thereby minimizing undesired side effects. * * *\nThe steroids claimed are distinguished by the presence of a fluorine atom at the 9-position (in the a configuration) and also by a 16/3-methyl group. It is the former which will be our primary concern.\nThe claims on appeal are the only claims in the application and read as follows:\n1.A compound of the formula :\u2014\nwherein W is selected from the group consisting of keto and )3-hydroxy ; and R is selected from the group consisting of hydrogen and lower alkanoyl.\n2. 16yS-Methyl-9a-fluoro-ll]3, 17a,21-trihydroxy-l,4-pregnadiene-3,20-dione 21-lower alkanoate.\n3. 9a-Fliioro-ll/3,17a,21-trihydroxy-16]3-methyl-l,4-pregnadiene-3,20-dione.\n4. 9a-Fluoro-ll/3,17a,21-trihydroxy-16/3-methyl-l,4-pregnadiene-3,20-dione 21-acetate.\nAs can be seen, claim 1 is generic to a series of 9cc-fluoro-16/l-methy],l7-keto or hydroxy steroids in either the 21-ester or 21-alcohol form. Claim 2 is \u201csub-generic,\u201d specifying the 17-hydroxy form, thus a pregnadiene, but also broadly including- \u201clower\u201d alkyl esters in the 21-position. Claim 3 is specific to a 21-alcohol compound and claim 4 likewise is specific to a 21-acetate (ester) compound.\nThere is no controversy over the fact that appellants have adequately disclosed the claimed compounds in a parent application, of which the appealed application is a division. That parent application, serial No. 722,390 for \u201cSteroid Production,\u201d was filed March 19, 1958, and was involved in interference No. 89,880, instituted November 26, 1958. The other party to the interference, Rausser et al., was involved on the basis of their application serial No. 733,843 filed May 8, 1958. Only count 2 of the interference is pertinent here:\nCount 2\nA compound of the formula:\nwherein X is selected from the group consisting of hydrogen and halo; W is selected from the group consisting of keto and B-hydroxy ; and R is selected from the group consisting of hydrogen and lower alkanoyl.\nCount 1 related to A4 compounds as compared to the A14 diene compounds of the claims and has no bearing here. As can be seen from a comparison of count 2 and the appealed claims, the latter are encompassed by the count when X is halogen (halo).\nDuring the motion period of the interference, Rausser et al. brought a motion to shift the burden of proof based on their parent application serial No. 673,141 filed July 22, 1957. The party Taub et al. opposed that Rausser et al. motion on the ground that the compounds defined by the counts were not disclosed in the Rausser et al. parent application, serial No. 673,141. In particular, appellants pointed to the fact that the Rausser et al. parent application discloses the 9-hydrogen but not the 9a-fluoro species. The examiner, in granting the motion to shift stated:\n* * * Since it is well established that a disclosure of a single species of a generic count is sufficient to determine the issue of priority in an interference proceeding, a finding that Rausser parent application does in fact contain an adequate disclosure of any species within the scope of the present counts would dictate the granting of the motion to shift. Lawson et al v. Bruce et al, 1955 C.D. 205; McBurney v. Jones, 104 USPQ 115; Adamson v. Sperber et al, 106 USPQ 429.\n* * * * * * *\nIt is the judgment of the Examiner that the prior Rausser application Serial No. 673,141 supports species within the scope of the counts in issue. The 9-hydrogen species, together with an adequate statement of utility and method of preparation, are fully disclosed in said prior application. This constitutes a constructive reduction to practice of such species as of July 22, 1957, the filing date of Serial No. 673,141. Consequently, the reduction to practice of a single species under the generic count entitles the party Rausser to the benefit of his earlier filed application for contesting priority on the present generic counts, in accordance with the established practice as outlined for example, in Lawson et al v. Bruce et al, supra.\nThe benefit of the date of the parent application accorded Rausser et al. made them senior party. Priority subsequently was awarded Rausser et al. on the basis of that date, Taub v. Rausser, 145 USPQ 497 (Bd. Pat. Intf. 1964).\nThe party Taub et al. moved to declare a new interference on counts A, B and C which exactly correspond to claims 1-3 here on appeal. Rausser et al. opposed, arguing, in the words of the examiner, that the 9\u00ab-fluoro compounds are \u201cembraced by count 2 * * *,\" and that \u201cwhat differences there are between the fluoro and non-fluoro compounds amount to differences only in degree, since both types of compounds are anti-inflammatory compounds.\u201d The examiner accepted the views of Rausser et al. in his Decision on Motions stating:\nIt is the decision of the Examiner that the views of the party Rausser must prevail. There can be no quarrel with the position that proposed counts A, B and C read directly on count 2 of the interference and thus it is not seen how a patentable difference can be urged merely on the basis of alleged \u201coutstanding and valuable activities\u201d in the compounds of the proposed counts. Here again the 9a-fluoro compounds of proposed counts A, B and C would not sustain separate patents.\nBoth the decision to grant the motion to shift and the decision to deny the motion to institute another interference on the 9\u00ab-fluoro species alone were adhered to by the examiner in a decision on a Taub et al. Petition for Reconsideration (there being no appeal under Rule 244(d)). The examiner stated that it was \u201cimmaterial\u201d that Rausser et al. discloses only the 9-hydrogen species in their parent application, and noted again that \u201cthe 9-fluoro species is within the scope of the generic count,\u201d\nThe pertinent dates and support in the applications may be summarized thus:\nFiling date Serial No. Applicants Disclosure\nJuly 22, 1957 673, 141 Rausser et al. parent_ 9-hydrogen species only.\nMar. 19, 1958 722, 390 Taub et al. parent_ 9-hydrogen species and 9-halo species including 9a-fluoro.\nMay 8, 1958 733, 843 Rausser et al_ Do.\nAug. 5, 1959 831, 688 Taub et al, division (on appeal) Do.\nClaims 1-4 of the Taub et al. application on appeal were finally rejected:\n* * * as being unpatentable over the issue of interference No. 89,880, involving applicants\u2019 [appellants\u2019] parent application Serial No. 722,390. It is again pointed out that the claims read directly on count 2 of the interference. [Emphasis ours.]\nHowever, it appears from the record that previous rejections had stated that the claims were unpatentable over count 2. That, as we have noted for the past several years, is an ambiguous rejection, a source of much confusion, and may or may not, within the context of the particular case, satisfy 35 U.S.C. 132. In attempting to overcome that rejection appellants stated:\n* * * The specific 16/S-methyl-9a fluoro steroids defined in claims 1-4 possess outstanding activities above that possessed by the generic claim of 16/3-methyl compounds defined in Count 2 of said interference. It is planned to submit an affidavit very shortly setting forth the results of experiental studies demonstrating these outstanding and valuable activities. Upon the submission of this affidavit demonstrating patentable distinction between claims 1-4 and said Count 2 of Interference 89,880 it is planned to prosecute the subject matter of the instant claims in the present application. []\nIn response to that allegation of \u201coutstanding and valuable activities,\u201d the examiner in the final rejection noted first that the affidavit had not been submitted, and then stated:\n* * * the significance of such an affidavit is not seen since regardless of any showing of outstanding activity in the 9a-fluoro compounds, the claims herein are not patentable over the aforesaid interference count which equally embraces the 9a-flnoro compounds. See M.P.E.P. 709.01. * * * [Emphasis ours.]\nAs we interpret those comments, the examiner was stating that since the count dominates the fluoro species any affidavits as to properties would be irrelevant.\nAppellants filed notice of appeal and in a subsequent amendment submitted an affidavit of Sanford L. Steelman, which is said to show that the 9a-fluoro species has a \u201crelative systemic cortisone activity * * *\" of 3.4 times that of the 9-hydrogen species.\nThe examiner\u2019s answer again stated the claims were rejected as \u201cunpatentable over the issue of interference No. 89,880 * * *,\" since the 9a-fluoro species defined in the appealed claims \u201care within the scope of Count 2 * * * [and] therefore, a patentable distinction is not in evidence.\u201d The examiner noted the affidavit, but considered that the issue in furtherance of which it was presented, i.e. the unpatenta-bility over the count, to have been answered by the inter partes Decision on Motions in the interference. The examiner\u2019s answer reproduced a portion of the Decision which stated, inter alia:\n* * * the record herein does not establish patentable distinctness between the 9a-fluoro species of the appealed claims and the generic count. In this regard the Steelman affidavit, supra, is deemed irrelevant since the invention resides in the introduction of the 16-beta-methyl group and not in the 9-alpha-fluoro group. * * * [Emphasis ours.l\n* * * In the instant case the generic count was first filed while 9-fluoro species is within the scope of the \u25a0 generic count. Accordingly, the 9a-fluoro species of claims 1-4 and the existing genus will not sustain separate patents.\nHowever, as well as noting that the differences between the 9-fluoro and 9-hydrogen species \u201cappear to amount to differences in degree only * * *,\" the examiner seemed to require further tests since he quoted that portion of the Decision on Motions which stated:\n* * * It should further be noted that the Steelman affidavit fails to compare the 9a-fluoro species of claims 1-4 with the 9a-halo species within the scope of count 2. * * *\nAppellants responded by filing two additional affidavits of Steelman, the first of which apparently shows that the 9a-fluoro-16-methyl compound is 3 times more active than the desmethyl compound, 9a-fluoro-16-hydrogen steroid. The second affidavit compared the 9a-fluoro compound with the corresponding bromo compound, and found the fluoro compound to be 255 times more active. On remand, the examiner admitted the affidavits \u201cunder the provisions of Rule 195,\u201d but reaffirmed the rejection:\nThe newly presented affidavits purportedly \u201cestablish a non-obvious and patentable distinction between the 9a-fluoro species of appealed claims 1-4 and both the prior art 16-desmethyI steroid and other 9-halo species within the scope of count 2\u201d. Appellants therefore urge that under the doctrine of In re Ruff et al., 118 USPQ 340, they should be entitled to the 9a-fluoro species of the appealed claims in view of the Dr. Steelman affidavits and the fact that there was no \u201cart-recognized equivalence\u201d between the previously known 9a-fluoro steroids and their 9-hydrogen counterparts.\nThe Examiner fails to appreciate the significance of the newly presented affidavits since the primary issue in this appeal is not concerned with equivalency or non-equivalency of members of a Markush group but is rather directed to the fundamental proposition that a reference to a claimed species precludes a separate patent to that species. The In re Ruff decision is not seen to be in point since the present count of Int. No. S9,880 still includes the 9a-fluoro species defined in the appealed claims. Thus, there is no reason for a departure from the position taken in the Examiner\u2019s Answer that the generic count and the 9a-fluoro species within the scope of said count will not sustain separate patents.\nTo us the forgoing establishes that 1) appellants were faced with a rejection of the claims as \u201cunpatentable over\u201d count 2 of the interference. 2) appellants argued the \u201cunpatentable over\u201d rejection and submitted affidavits in an attempt to establish a \u201cpatentable distinction\u201d based on non-obviousness of the fluoro species over the hydrogen species, but 3) it became clear that the examiner assumed all species within the count to be \u201cprior art\u201d by virtue of the priority award. Although the examiner entered the affidavits, he considered them \u201cirrelevant\u201d and failed, in his own words, to \u201cappreciate the [ir] significance * * The boards in its initial decision and upon reconsideration, although discussing the affidavits did not, as we see it, make any new ground of rejection, either express or implied.\nIt is not clear whether the examiner and the board considered that count as \u201cprior art\u201d to be applied against the instant claims in a section 102(a) \u201canticipation\u201d rejection, since the examiner stated that \u201cthe claims read directly on count 2,\u201d or whether, since the claimed species is included within the count, they consider domination by the count to be the equivalent of specific claiming by the prior inventor. Insofar as the former interpretation of the rejection may have been meant, it is not correct, since \u201cprior art\u201d in the sense of section 102(g) cannot here be the basis of a section 102(a) rejection, the invention not being publicly \u201cknown or used.\u201d\nWe also do not agree with the rejection as based on the concept that domination by the count precludes the showing of a patentable distinction thereover. The examiner and the board treated every compound within the scope of count 2 as \u201cprior art,\u201d in the sense of section 102(g) as an \u201cinvention * * * made in this country by another,\u201d \u201cbefore the applicant\u2019s invention.\u201d We cannot agree with the assumption that in the factual situation above presented every compound within the count (in the sense that it would infringe the count) is \u201cprior art.\u201d The winning of priority on a broad count was based on evidence of priority with respect to only one species, wherein X was hydrogen, not halo or fluoro.\nBoth applications initially involved in the interference, the Rausser et al. continuation and the Taub et al. parent application, show adequate support for a generic count inclusive of both halogen and hydrogen at the 9-position. The problem arises from the fact that one may establish priority for a generic claim on the basis of a showing that he was prior as to a single species. See in re Kyrides, 34 CCPA 920, 159 F. 2d 1019, 73 USPQ 61.\nHere Rausser et al. was awarded priority on the basis of the disclosure of the hydrogen species in their parent application, being entitled to its filing date, July 22, 1957, as the date of conception and constructive reduction to practice. Since it has been adjudicated that Taub et al. did not meet their burden of proof showing they were the first inventors of the 9-hydrogen species, they cannot be said to be the first inventors thereof. However, no such determination as to the 9a-fluoro species was made. Since both parties in effect rest on their filing dates as to the 9a-fluoro species, the record indicates that Taub et al. are prior as to that species, their parent case being earlier than the Rausser et al. continuation case. Thus, within the fact pattern here, logic dictates that cmmt 2 cannot be the prior invention of another applicable against Taub et al. insofar as the 9a-f,uoro species is con cerned, under section 102(g). Thus the rejection must fall, and it becomes necessary to remand the case for a full consideration of the issue on which appellants attempted to join the Patent Office, the deter-mitation of whether the 9a-fluoro species is obvious over the 9-hydro-gen species of the count in view of appellants\u2019 affidavits.\nWe do not read In re Fenn, 50 CCPA 1163, 315 F. 2d 949, 137 USPQ 367; In re Boileau, 35 CCPA 727, 163 F. 2d 562, 75 USPQ 88; In re Cole, 23 CCPA 1057, 82 F. 2d 405, 29 USPQ 137, or In re Sola, 22 CCPA 1313, 77 F. 2d 627, 25 USPQ 433 to the contrary. Similarly, since the holding in In re Gregg, 44 CCPA 904, 907, 244 F. 2d 316, 113 USPQ 526, was founded on the fact that \u201cthere is no evidence to show completion of the invention covered by the appealed claims by appellant at any time prior to Coakwell\u2019s filing date,\u201d that is, \u201cthe Coakwell patent is a reference under section 102(e) * * *,\u201d we do not find that case to indicate a contrary result.\nFor the foregoing reasons the rejection of the claims on the interference count is reversed and the application is remanded for further proceedings not inconsistent herewith.\nSmith, J., concurs in the result.\nA third party, Agnello et al., abandoned their two involved applications and the interference was dissolved as to them.\nThe Rausser et al. application has issued as U.S. Patent No. 3,104.GIS on January 5, 1965.\nThe initial Decision on Motions is elated .Tune 30, 1961 and the Decision on Petition for Reconsideration is dated September 5. 1961.\nThose comments are from an amendment dated April 11. 1960. From the record it appears that the motions in the interference had already been filed, a letter from the Patent Interference Examiner, dated April 8, 1959, having set the expiration of the motion period as May 25, 1959. Thus it would appear that appellants, learning from the interference that Rausser et al. planned to rely on their parent case filed July 22, 1959, and that the Rausser et al. parent case supported only the hydrogen species, did two things. First, In the interference they opposed the motion of Rausser et al. to shift the burden of proof based on the Rausser et al. earlier parent case, and moved to declare a new interference on the 9a-fluoro species alone. Second, appellants filed on August 5, 1959, the instant application dividing out the 9a-fiuoro species.\nThe board, after affirming the \u2018\u2018unpatentable over\u2019\u2019 rejection of the examiner, stated that the \u201ccount of interference covers the 9-halo compounds, i.e., the 9a-fluoro * * * which Include the claimed compounds.\u201d The board then discussed the \"higher potency\u201d shown by the affidavits. The board stated that there was no basis for appellants\u2019 election of the bromo derivative as representative of the halo species, since \u201cchlorine most nearly approaches the fluorine in molecular weight and activity * * *.\u201d Without apparent support the board stated :\n* * * the relative activities are not unexpected in view of the relative molecular weights of the bromo and fluoro substituents and the expectation of the art with respect to the relative activities of the various 9a halogen derivatives. * * *\nIn response, appellants filed a request for reconsideration and an affidavit which showed that the 9a-fluoro is 8 times more active than the 9a-chloro derivative. Although the criticism of the bromo affidavit was first made by the board, the appellants\u2019 responding chloro affidavit was deemed by the board on reconsideration to be \u201cbelatedly presented os Rule 197(b) demonstrates,\u201d and was not accepted. The board\u2019s response to the petition was :\nAppellants\u2019 petition does not challenge our conclusion that the differences in activity between the various 9a-lialo compounds represented in the affidavits referred to our decision was not unexpected in view of the relative molecular weights of the 9a-halo substituents and the expectation of the art that the anti-inflammatory activities of these compounds would vary with their molecular weights in the manner shown. Appellants, instead, reiterate their contention, previously advanced, that we should go behind the count of the interference on which the appealed claims are rejected and consider the evidence of priority as to each of the specific compounds included in the interference count. We have discovered no precedent for such a piece-meal determination of priority on an ex parte basis or for the consideration of arguments which appear to be related to the issue of priority over which we have no jurisdiction.\nAppellants subsequently challenged the board\u2019s statements in full.\nSince claims \u201cread on\u201d things, not other claims, we construe the examiner\u2019s statement as saying the broad count \u201creads on\u201d the claimed species.",
+        "type": "majority",
+        "author": "Martin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Frank M. Nolan (Albert W. Rinehart, I. Louis Wolk, of counsel) for appellants.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "348 F. 2d 556; 146 USPQ 384\nIn re David Taub, Norman L. Wendler and Harry L. Slates\n(No. 7336)\nUnited States Court of Customs and Patent Appeals,\nJuly 19, 1965\nFrank M. Nolan (Albert W. Rinehart, I. Louis Wolk, of counsel) for appellants.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument May 3, 1965 by Mr. Nolan and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1675-01",
+  "first_page_order": 999,
+  "last_page_order": 1007
+}

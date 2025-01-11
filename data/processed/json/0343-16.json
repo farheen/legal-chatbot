@@ -1,0 +1,58 @@
+{
+  "id": 12488709,
+  "name": "Jackson v. Town of West Haven",
+  "name_abbreviation": "Jackson v. Town of W. Haven",
+  "decision_date": "2016-07-13",
+  "docket_number": "16-029",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 156,
+    "sha256": "94e8c25ce1d407ef51d73f8241e5091d0cfedea606991915b7bddcb0bea5bdfe",
+    "simhash": "1:58718735dc50e242",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson\nv.\nTown of West Haven"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jackson\nv.\nTown of West Haven\n16-029\nSupreme Court of Vermont.\nJuly 13, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0343-16",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

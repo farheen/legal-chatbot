@@ -1,0 +1,58 @@
+{
+  "id": 12488396,
+  "name": "Com. v. Vaughter, D.",
+  "name_abbreviation": "Com v. Vaughter",
+  "decision_date": "2016-05-11",
+  "docket_number": "2404 EDA 2015",
+  "first_page": "1144",
+  "last_page": "1144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "4007f4627ea7171794ad2f9a9221efac1d4049f4a23e5dfbc805d6f0ac50b8db",
+    "simhash": "1:78514e33b28d15b1",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nVaughter, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nVaughter, D.\n2404 EDA 2015\nSuperior Court of Pennsylvania.\nMay 11, 2016\nReargument Denied July 15, 2016\nAffirmed"
+  },
+  "file_name": "1144-14",
+  "first_page_order": 1144,
+  "last_page_order": 1144
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488223,
+  "name": "Com. v. Talley, V.",
+  "name_abbreviation": "Com v. Talley",
+  "decision_date": "2016-05-03",
+  "docket_number": "1784 EDA 2015",
+  "first_page": "1132",
+  "last_page": "1132",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 104,
+    "sha256": "727863689825f5b2e8eea4e731305ac40653410a773d1d18cd0b1c2177138a39",
+    "simhash": "1:5e4144d2baa89370",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nTalley, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nTalley, V.\n1784 EDA 2015\nSuperior Court of Pennsylvania.\nMay 3, 2016\nReversed/Vacated/Remanded"
+  },
+  "file_name": "1132-08",
+  "first_page_order": 1132,
+  "last_page_order": 1132
+}

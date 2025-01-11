@@ -1,0 +1,58 @@
+{
+  "id": 12487387,
+  "name": "Com. v. J. Escobar",
+  "name_abbreviation": "Com. v. Escobar",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 1451 EDA 2015",
+  "first_page": "782",
+  "last_page": "782",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 782"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "fb7525a8dae085f744d1fe28638a70bcf39af110592581ccb88a2c0e8cfd1702",
+    "simhash": "1:3853668509203fb0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Escobar"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Escobar\nNO. 1451 EDA 2015\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed."
+  },
+  "file_name": "0782-03",
+  "first_page_order": 782,
+  "last_page_order": 782
+}

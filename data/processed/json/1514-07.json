@@ -1,0 +1,59 @@
+{
+  "id": 6092993,
+  "name": "In re David Turner",
+  "name_abbreviation": "In re Turner",
+  "decision_date": "1968-03-04",
+  "docket_number": "No. 7514",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 83,
+    "ocr_confidence": 0.415,
+    "sha256": "f40c3b035320536a47e85e8417ac178fd88763670a9b1e57ec688787db264f56",
+    "simhash": "1:7532228b67168e40",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David Turner"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Product and process graft copolymers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 4, 1968\nNo. 7514.\nIn re David Turner"
+  },
+  "file_name": "1514-07",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

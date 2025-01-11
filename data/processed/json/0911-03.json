@@ -1,0 +1,58 @@
+{
+  "id": 12502008,
+  "name": "Tobi Alan MASON v. US",
+  "name_abbreviation": "Mason v. United States",
+  "decision_date": "2018-09-06",
+  "docket_number": "16-CM-346",
+  "first_page": "911",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 911"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "c35cd9f25c22753fc764e879607ff7643c7b02177ce0db3d61142653e4d2cd82",
+    "simhash": "1:6594524004c80440",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tobi Alan MASON\nv.\nUS"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tobi Alan MASON\nv.\nUS\n16-CM-346\nDistrict of Columbia Court of Appeals.\nSeptember 06, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0911-03",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

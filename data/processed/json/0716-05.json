@@ -1,0 +1,58 @@
+{
+  "id": 12501877,
+  "name": "COM. v. BENDER, C.",
+  "name_abbreviation": "Com. v. Bender",
+  "decision_date": "2018-07-27",
+  "docket_number": "1278 MDA 2017",
+  "first_page": "716",
+  "last_page": "716",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 716"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "8dbf2fd2aa1751d244c7724531ed8f792e0a610d3870d09440e0ac8586b7f48b",
+    "simhash": "1:9e52442b24918984",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBENDER, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBENDER, C.\n1278 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 27, 2018\nReargument Denied September 21, 2018\nAffirmed"
+  },
+  "file_name": "0716-05",
+  "first_page_order": 716,
+  "last_page_order": 716
+}

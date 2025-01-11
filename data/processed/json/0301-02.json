@@ -1,0 +1,58 @@
+{
+  "id": 12490541,
+  "name": "SHORT, H. v. BARKLEY, K., et al.",
+  "name_abbreviation": "Short v. Barkley",
+  "decision_date": "2017-04-12",
+  "docket_number": "438 MD 2016",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "fa1b0d09e6296ab28f125eb785e332f58b55ec451f03f6f46dafdf83fd5f4fa7",
+    "simhash": "1:2f2bc2b182e19701",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SHORT, H.\nv.\nBARKLEY, K., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Objections Sustained.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SHORT, H.\nv.\nBARKLEY, K., et al.\n438 MD 2016\nCommonwealth Court of Pennsylvania.\nApril 12, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0301-02",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

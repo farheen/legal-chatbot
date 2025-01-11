@@ -1,0 +1,62 @@
+{
+  "id": 12504662,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Nathan YATES, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Yates",
+  "decision_date": "2019-01-18",
+  "docket_number": "C-501 September Term 2018; 081697",
+  "first_page": "1212",
+  "last_page": "1212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 1212"
+    },
+    {
+      "type": "parallel",
+      "cite": "236 N.J. 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 367,
+    "sha256": "8b9a10e46e92c425403552af93fe60b21890181ff509afc359a213390f6911fa",
+    "simhash": "1:74322d355273ff28",
+    "word_count": 55
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nNathan YATES, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-003537-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nNathan YATES, Defendant-Petitioner.\nC-501 September Term 2018\n081697\nSupreme Court of New Jersey.\nJanuary 18, 2019\nORDER"
+  },
+  "file_name": "1212-03",
+  "first_page_order": 1212,
+  "last_page_order": 1212
+}

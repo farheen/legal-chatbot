@@ -1,0 +1,59 @@
+{
+  "id": 6082945,
+  "name": "In re Frantz",
+  "name_abbreviation": "In re Frantz",
+  "decision_date": "1932-11-03",
+  "docket_number": "No. 3021",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 84,
+    "ocr_confidence": 0.568,
+    "sha256": "1207cf54fac13c440dedc875e0f17ecf53be85d58475b5b2aa1e4447aca34c48",
+    "simhash": "1:48f07c8506a12821",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Frantz."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in recording thermometers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 3, 1932\nIn re Frantz.\n(No. 3021). \u2014"
+  },
+  "file_name": "1227-06",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

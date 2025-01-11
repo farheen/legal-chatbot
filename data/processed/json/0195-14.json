@@ -1,0 +1,58 @@
+{
+  "id": 12486529,
+  "name": "N. Long v. J. Long",
+  "name_abbreviation": "Long v. Long",
+  "decision_date": "2016-03-09",
+  "docket_number": "NO. 341 WDA 2015",
+  "first_page": "195",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "5bfdc569443412b352066834faf3833dbfc44792aa5a3cdee00494bd4687ab6b",
+    "simhash": "1:fc19e743d90bcd40",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "N. Long\nv.\nJ. Long"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "N. Long\nv.\nJ. Long\nNO. 341 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 09, 2016\nAffirmed."
+  },
+  "file_name": "0195-14",
+  "first_page_order": 195,
+  "last_page_order": 195
+}

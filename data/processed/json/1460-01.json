@@ -1,0 +1,85 @@
+{
+  "id": 6560369,
+  "name": "In re Wilfred V. N. Powelson and Warren Travell",
+  "name_abbreviation": "In re Powelson",
+  "decision_date": "1931-05-27",
+  "docket_number": "No. 2729",
+  "first_page": "1460",
+  "last_page": "1465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "18 C.C.P.A. 1460"
+    },
+    {
+      "type": "parallel",
+      "cite": "49 F.2d 832"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "40 F. (2d) 976",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1793113
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/40/0976-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 584,
+    "char_count": 14081,
+    "ocr_confidence": 0.473,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17678540331888076
+    },
+    "sha256": "70cbc5763ce1d18ea686469afa5bc9a6d565c6219927864bf35647608bd1c373",
+    "simhash": "1:9b4a0b8834936155",
+    "word_count": 2412
+  },
+  "last_updated": "2024-02-27T17:30:13.730023+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Geaham, Presiding Judge, and Bland, Hatmeld, Gabkett, and Lenkoot, Associate Judges"
+    ],
+    "parties": [
+      "In re Wilfred V. N. Powelson and Warren Travell"
+    ],
+    "opinions": [
+      {
+        "text": "Lenkoot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from a decision of the Board of Appeals of the United States Patent Office, affirming a decision of the examiner, rejecting claims 8, 29, 30, 42, and 43 of appellants\u2019 application, for lack of invention in view of the prior art.\nClaims 8, 29, and 42 are illustrative and.read as follows:\n8. In equipment for stabilizing a ship wholly immersed in a fluid medium, means to change the relation to each other of the points of incidence upon the ship of the static forces of buoyancy and gravity of the ship, and a controller therefor having actuating means comprising a fluid and a container for the fluid extending in the direction in which stability is to be maintained, said actuating means being responsive to the change in pressure of the fluid against walls of its container which is consequent upon a disturbance of stability, said static forces being considered in their relation as if the ship were stationary in its said fluid medium, and the said disturbance of stability being the occurrence of such a relation which differs from a predetermined normal.\n29. The art of conserving lifting gas in airships having lighter-than-air gas in containers, comprising the partial filling of the gas containers of an airship with lighter-than-air gas heated to a temperature higher than that of the surrounding atmosphere, previous to the launching of the airship at the start of a flight; the launching of the airship with its gas thus heated; and the heating and cooling of said gas during a flight of the airship, thereby increasing and decreasing the lifting power thereof.\n42. The art of conserving and preserving purity of lifting gas in airships having lighter-than-air gas in containers, comprising the partial filling of each of several containers of an airship with the gas; said gas, previous to the launching of the airship from its mooring, being at a temperature higher than that of the sourrounding atmosphere; the filling of remaining space in the several containers by collapsible receptacles containing air; the launching of the airship, with gas thus at higher temperature adjoining receptacles containing air; the removal of air from the receptacles, permitting expansion of the gas within its containers, upon decrease. of atmospheric pressure; the introduction of air and removal of air, to and from the receptacles during flight, for maintaining the gas containers fully inflated at all times; the maintaining of an excess of pressure of the gas over the air for preventing the infiltration of air through the coverings of the gas containers into the gas; and the lowering and raising of the temperature of said gas during flight for adapting its lifting power to the changes in weight of the ship.\nThe references are:\nKoskul, 1047247, December 17, 1912.\nAdam et al. (British), 4408, of 1911.\nOlmsted (British), 154457, of 1920.\nFinley, 1426370, August 22, 1922..\nFinley, 1426369, August 22, 1922.\nAnderson (British), 24199, of 1912.\nBoothby (British), 144001, of 1920.\nThe alleged invention relates to the control of lighter-than-air craft and is sufficiently described in the claims above quoted.\nClaim 8 is for an improvement in \u201c equipment for stabilizing \u201d an airship while in the air. It was rejected by the Patent Office tribunals upon the British patent to Adam. The board in its decision said:\nClaim 8 relates to the means for balancing the vessel as disclosed in Figure 51 of the drawing. The examiner has relied primarily on the patent to Adam et al. and in the brief the feature upon which appellant relies to distinguish over the balancing device of Adam et al. is the manner in which the fluid in the control tube is effective. In appellant\u2019s construction the fluid in tube 204 moves a float at the end of the tube for controlling a rheostat. The apparatus pumps the balancing fluid from one tank to the other. The liquid in the control tube of Adam merely makes contact at the ends of the tube for energizing the motor to drive in one direction or the other. Appellant points out that claim 8 calls for change in pressure of the fluid against the walls of the container. He states that this refers to the pressure against the float and that inasmuch as the tube of Adam has no float this claim does not read upon the structure of Adam. We do not consider that there is any patentable distinction in controlling a motor current from the differences in liquid level rather than from a float moved by the differences in position of the liquid. We regard one as the mechanical equivalent of the other. We have noted appellant\u2019s contention that the motor of Adam would be apt to overrun but in our opinion there would be no difficulty in providing a proper control for the motor so as to prevent this action if it is found objectionable.\nAppellants contend, and the solicitor for the Patent Office in his brief impliedly concedes, that claim 8 does not refer to the construction shown in Figures 51-53 of the drawings of appellants\u2019 application. The Patent Office tribunals clearly erred in this respect, but the solicitor contends that, conceding that claim 8 relates to the means for stabilizing a vessel as disclosed in Figures 54-59 of the drawings, it still is disclosed by the Adam specification. He further contends that the phrase in said claim, reading \u201c said actuating means being responsive to the change in pressure of the fluid against walls of its container,\u201d can not be considered as a structural difference over the reference Adam because, he contends, the phrase quoted is only a statement of how appellants\u2019 device works, rather titan a statement of any particular structure. We do not agree with, this contention; while the means and the pressure produce a function, it is, we think, structure that is de\u2019scribed and not the function produced by the structure.\nIn the case of In re Sagle, 17 C. C. P. A. (Patents) 1131, 40 F. (2d) 976, this court reversed a decision of the Board of Appeals of the Patent Office rejecting a claim, the material part of which read as follows:\n* \u215c \u215c and mean's for generating a feeding pressure in excess of the automatic pressure, said feed control means temp responsive to moli excess pressure to permit- the passage therethrough of a quantity of oil in excess of that permitted under the automatic pressure. (Italics not quoted.)\nWe are of the opinion that the phrase in claim 8 above quoted may be properly considered as an element of the claim.\nThe patent to Adam shows a mercury level, being a glass tube with upturned ends, containing mercury; this level tilts with the ship. When the ship is out of horizontal position, the mercury flows in the direction below the horizontal, coming in contact with a terminal, thereby starting a motor at full speed to change the position of the weights which are provided. The opening or closing of the contact is not dependent upon a change in the pressure of a fluid against the walls of its container, as specified in claim 8 of appellants\u2019 application, nor does the device contemplate or provide any arrangement for regulating the speed with which the weights may be shifted. The consequence is that Adam\u2019s device may result in causing a tilting in the opposite direction and make it difficult for the ship to speedily regain its equilibrium.\nThe device covered by claim 8 works upon an altogether different principle. It applies the principle of hydrostatic head, and provides for controller actuating means containing a liquid which has a substantial hydrostatic head or pressure against the walls in the \u25a0container. There is a tank located in the forward part of the ship, in an elevated position; said tank is connected by a tube with a \u2022cylinder, located toward the rear of said ship and at a lower elevation with respect to the aforementioned tank; within this cylinder is a piston, one face of which is toward the inlet of the tube and forms one of the walls of the cylinder container, while on the other side of the piston a spring is interposed. Into the tank and tube system above set forth is placed a fluid, with the result that there is a hydrostatic pressure exerted upon one face of the piston in the \u2022cylinder. The position of the piston within the cylinder depends upon the relative hydrostatic pressure on one side of the piston and the pressure exerted by the spring on the other side. When the level of the tank is raised, as by the nose of the ship tipping upward, the hydrostatic head of the system increases and the piston in the cylinder responds to said increase of pressure by moving within the cylinder and compressing the spring. This movement of the piston is transmitted, by means unnecessary here to detail, to a rheostat, causing the same to energize a corrective motor, the speed at which said motor will run depending upon the position of the rheostat, which in turn depends upon the extent of movement of the piston in the cylinder. In other words, the rapidity of operation of the corrective motor is proportionate to the degree of tipping of the ship, or, to state it another way, is responsive to the degree of change of hydrostatic pressure, so that it will run slowly if the deviation of the ship\u2019s bow be slight, and rapidly if the deviation be great. The reverse is true in case the bow is depressed, the hydrostatic pressure in this case being decreased, allowing the spring in the cylinder to move the piston in the opposite direction, resulting in the operation of the motor in the reverse direction.\nMere contact of the liquid with the piston and walls of the cylinder accomplishes nothing. The action of the device is dependent wholly upon hydrostatic pressure. In the Adam device, mere contact of the mercury with the terminal starts the motor and, as heretofore observed, at a constant speed, while in applicants\u2019 device the speed of the motor is dependent upon the degree of pressure of the liquid upon the walls of the container. We are clear that the Adam patent is not a proper reference for claim 8, and that said claim should be allowed.\nClaims 29, 30, 42, and 43 were rejected by the Board of Appeals as defining nothing patentable over the state of the art as shown by the references.\nIn view of the conclusion we have reached, it is necessary to discuss but one element, found in each of said claims, which element, we find, constitutes patentable invention. This is the element claimed for conserving lifting gas in airships having lighter-than-air gas in containers, comprising the partial filling of the said gas containers with lighter-than-air gas heated to a temperature higher than that of the surrounding atmosphere, previous to the launching of the airship at the start of a flight, and the launching of the ship with its gas thus heated.\nIt is the contention of appellants that, since a greater lifting power is necessary to raise an airship at the earth\u2019s surface than is necessary when the ship has reached an altitude suitable for flight, because of the difference in atmospheric pressure, his method of heating the gas before launching the ship, and its cooling when the ship has reached a flight altitude, results in a very substantial conservation of gas, a less amount of valuable gas being necessary for the voyage of a ship than would be required without such preheating of the gas.\nAppellants further contend that the method described also facilitates the landing of the airship, without loss of gas, for the reason that when the gas is cooled to atmospheric temperature the ship will not, upon landing, have the same buoyancy as when it was launched with the gas heated.\nWe agree with appellants in these contentions and, if not anticipated by the prior art, the claims should be allowed.\nThe Board of Appeals held that this feature of temperature control did not lend patentable distinction to the claims in view of the prior art. The examiner held that, in view of the references showing altitude control can be had by changing the temperature of the lifting gas, there is no apparent difference in operating an airship from the ground to a given altitude over operating it from one altitude to a higher one. We assume that it was upon this ground that the Board of Appeals held that the heat-control element of the claims did not constitute patentable invention.\nWe have carefully examined the references cited and find that none of them discloses or suggests appellants\u2019 method of heating the gas before the launching of the ship, requiring a less quantity for flight than would be necessary without such heating. We do not agree with the conclusions of the Patent Office tribunals that there is no difference between controlling altitude of a ship while in flight by means of changes in temperature and heating the gas upon the ground before the ship is launched, and we do not think that appellants\u2019 method described in the claims was obvious in view of the references.\nBy heating the gas before launching the ship, a less quantity is required in the flight than when the ship is launched inflated with gas at approximately atmospheric temperature, and the cooling of the gas facilitates landing because the ship would have less buoyancy because of such cooling than when launched with the gas heated.\nFor the reasons stated we are of the opinion that the heating element in said claims constitutes invention, and that the claims should be allowed. In view of this conclusion it is unnecessary to consider appellants\u2019 contention that other elements in the claims also render them patentable. .\nWe hold that all of the appealed claims are allowable and the decision of the Board of Appeals is reversed.",
+        "type": "majority",
+        "author": "Lenkoot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Everett E. Kent for appellants.",
+      "T. A. Hostetler (Howard 8. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "49 F. (2d) 832\nIn re Wilfred V. N. Powelson and Warren Travell\n(No. 2729)\nUnited States Court of Customs and Patent Appeals,\nMay 27, 1931\nEverett E. Kent for appellants.\nT. A. Hostetler (Howard 8. Miller of counsel) for the Commissioner of Patents.\n[Oral argument May 5, 1931, by Mr. Kent and Mr. Miller]\nBefore Geaham, Presiding Judge, and Bland, Hatmeld, Gabkett, and Lenkoot, Associate Judges"
+  },
+  "file_name": "1460-01",
+  "first_page_order": 778,
+  "last_page_order": 783
+}

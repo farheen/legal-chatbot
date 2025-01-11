@@ -1,0 +1,59 @@
+{
+  "id": 6087576,
+  "name": "In re Richard F. Dyer",
+  "name_abbreviation": "In re Dyer",
+  "decision_date": "1967-01-06",
+  "docket_number": "No. 7929",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 97,
+    "ocr_confidence": 0.508,
+    "sha256": "841edeccb5f9b3c77cbaa2f57522f6a970d9307782442445c827912269845782",
+    "simhash": "1:ff2adb3d2eceb515",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Richard F. Dyer"
+    ],
+    "opinions": [
+      {
+        "text": "Process and apparatus for manufacturing TF yarn.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 6, 1967\nNo. 7929.\nIn re Richard F. Dyer"
+  },
+  "file_name": "1638-01",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

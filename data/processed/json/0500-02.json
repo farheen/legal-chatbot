@@ -1,0 +1,61 @@
+{
+  "id": 7287034,
+  "name": "Jane DOE, Petitioner v. WYOMING VALLEY HEALTH CARE SYSTEM, INC., Respondent",
+  "name_abbreviation": "Doe v. Wyoming Valley Health Care System, Inc.",
+  "decision_date": "2010-10-19",
+  "docket_number": "",
+  "first_page": "500",
+  "last_page": "501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 500"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 125,
+    "char_count": 1163,
+    "ocr_confidence": 0.689,
+    "sha256": "b533d20a60e4ffcde9eb4a4b63de45a38bae4daee51444c8e4bfd7c28d831194",
+    "simhash": "1:15e5160ec2562be7",
+    "word_count": 182
+  },
+  "last_updated": "2023-07-14T16:58:44.861686+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice ORIE MELVIN did not participate in the consideration or decision of this matter."
+    ],
+    "parties": [
+      "Jane DOE, Petitioner v. WYOMING VALLEY HEALTH CARE SYSTEM, INC., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of October, 2010, the Petition for Allowance of Appeal is hereby GRANTED, LIMITED to issues a., b., c., and d. Allocatur is denied as to all remaining issues. The issues, rephrased for clarity, are:\n1. Whether a jury decides if the judicial privilege applies, or the trial court makes a threshold determination if the privilege applies with the jury deciding if the privilege was abused.\n2. Whether a party seeking to preserve an objection to a trial court\u2019s error of law must object to jury instructions that included the error, although the party repeatedly raised the issue in pre-trial motions.\n3. Whether petitioner\u2019s confidential information from her personnel record, was not material and pertinent, and thus not privileged for disclosure, at the NLRB hearing.\n4. Whether the Superior Court, contravening the appropriate standard of review, inappropriately accepted the testimony of respondent\u2019s agent.\nJustice ORIE MELVIN did not participate in the consideration or decision of this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jane DOE, Petitioner v. WYOMING VALLEY HEALTH CARE SYSTEM, INC., Respondent.\nSupreme Court of Pennsylvania.\nOct. 19, 2010."
+  },
+  "file_name": "0500-02",
+  "first_page_order": 546,
+  "last_page_order": 547
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12491695,
+  "name": "BROWN, Darius v. STATE of Maryland",
+  "name_abbreviation": "Brown v. State",
+  "decision_date": "2017-12-15",
+  "docket_number": "Pet. Docket No. 333, Sept. Term, 2017",
+  "first_page": "141",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 141"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 504"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 162,
+    "sha256": "b231992abf92c2b777512a712a611c559938f2a025d5ab4c4bd6227a80986fd4",
+    "simhash": "1:2bdb86d9b389c701",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:29.057506+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BROWN, Darius\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BROWN, Darius\nv.\nSTATE of Maryland\nPet. Docket No. 333, Sept. Term, 2017\nCourt of Appeals of Maryland.\nDecember 15, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0141-04",
+  "first_page_order": 141,
+  "last_page_order": 141
+}

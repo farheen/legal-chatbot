@@ -1,0 +1,58 @@
+{
+  "id": 12489657,
+  "name": "IN RE GUARDIANSHIP OF A.S.",
+  "name_abbreviation": "In re Guardianship A.S.",
+  "decision_date": "2017-02-13",
+  "docket_number": "17\u2013016",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 171,
+    "sha256": "6e64d540880adba80b922770ed6ab81618f04b3cdb68f4d986b4df3313d34b5d",
+    "simhash": "1:fd152d2064b63c54",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE GUARDIANSHIP OF A.S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE GUARDIANSHIP OF A.S.\n17-016\nSupreme Court of Vermont.\nFebruary 13, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReconsideration denied."
+  },
+  "file_name": "0650-04",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

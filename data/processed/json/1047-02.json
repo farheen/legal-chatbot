@@ -1,0 +1,103 @@
+{
+  "id": 7902597,
+  "name": "STATE of Maine v. James BENNETT",
+  "name_abbreviation": "State v. Bennett",
+  "decision_date": "1986-01-09",
+  "docket_number": "",
+  "first_page": "1047",
+  "last_page": "1048",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "502 A.2d 1047"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "467 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7958366
+      ],
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/467/0165-01"
+      ]
+    },
+    {
+      "cite": "410 A.2d 537",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7983809
+      ],
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/410/0537-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 196,
+    "char_count": 1972,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20055049541498365
+    },
+    "sha256": "32e8e965b6f48a69d6e0383abf96b56991ac1ca192b96e4c25c7eda83e5ad8a4",
+    "simhash": "1:46731622f225bb8d",
+    "word_count": 320
+  },
+  "last_updated": "2024-02-27T21:45:12.183864+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN, GLASSMAN and SCOLNIK, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. James BENNETT."
+    ],
+    "opinions": [
+      {
+        "text": "McKUSICK, Chief Justice.\nA Superior Court jury in Knox County found defendant James Bennett guilty of having committed, at about midnight on January 13, 1985, burglary of a locked and unoccupied building in Rockland used by a women\u2019s alcoholic counseling service. 17-A M.R.S.A. \u00a7 401 (1983). Responding to a call triggered by a silent alarm, the police found defendant with two companions hiding in the building. Evidence at trial showed that the building had been forcibly broken into and rummaged as if in a search for valuables.\nOn appeal defendant contends, solely on the basis of M.R.Evid. 403, that the presiding justice erred in admitting in evidence the 18-inch pinchbar that one of defendant\u2019s companions had in his possession when the police found the trio in the building. Plainly it was well within the scope of the court\u2019s discretion to rule that any danger of unfair prejudice did not outweigh the probative value of that physical exhibit. State v. Lagasse, 410 A.2d 537, 541 (Me.1980).\nDefendant also contends that the jury had before it insufficient evidence to convict him of burglary. In particular, he asserts that his intoxication at the time he entered the building raised a reasonable doubt as to the existence at that time of the required specific intent to commit theft therein. 17-A M.R.S.A. \u00a7 37 (1983). After reviewing the evidence presented at trial, however, we cannot say that no trier of fact could rationally find beyond a reasonable doubt every element of the crime of burglary with which defendant was charged. State v. Durgan, 467 A.2d 165, 166 (Me.1983).\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "McKUSICK, Chief Justice."
+      }
+    ],
+    "attorneys": [
+      "John R. Atwood, (orally), Dist. Atty., Rockland, for plaintiff.",
+      "Frederick M. Newcomb, III, Jane Surran Pyne, (orally), Rockland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. James BENNETT.\nSupreme Judicial Court of Maine.\nArgued Jan. 6, 1986.\nDecided Jan. 9, 1986.\nJohn R. Atwood, (orally), Dist. Atty., Rockland, for plaintiff.\nFrederick M. Newcomb, III, Jane Surran Pyne, (orally), Rockland, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, WATHEN, GLASSMAN and SCOLNIK, JJ."
+  },
+  "file_name": "1047-02",
+  "first_page_order": 1091,
+  "last_page_order": 1092
+}

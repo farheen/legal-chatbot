@@ -1,0 +1,58 @@
+{
+  "id": 12489636,
+  "name": "STATE v. PERRY",
+  "name_abbreviation": "State v. Perry",
+  "decision_date": "2017-01-06",
+  "docket_number": "16\u2013070",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "aac83fe8dfdef0c2efdd29bb84fb0dbabc7aff7c61d5a142f8851075b81f0a99",
+    "simhash": "1:c4313a028d87c05c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nPERRY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nPERRY\n16-070\nSupreme Court of Vermont.\nJanuary 6, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0649-18",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

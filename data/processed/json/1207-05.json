@@ -1,0 +1,59 @@
+{
+  "id": 6082527,
+  "name": "Ex parte Tolson E. Drummond et al.",
+  "name_abbreviation": "Ex parte Drummond",
+  "decision_date": "1947-01-03",
+  "docket_number": "No. 5344",
+  "first_page": "1207",
+  "last_page": "1207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 106,
+    "ocr_confidence": 0.535,
+    "sha256": "ca1a46e30daac1bd4063f2f4b676022ea9d4b63843c69769c743e46eb7d52ff0",
+    "simhash": "1:9e36ec2819175eee",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Tolson E. Drummond et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in wrinkle finish composition.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 3, 1947\nEx parte Tolson E. Drummond et al.\n(No. 5344)."
+  },
+  "file_name": "1207-05",
+  "first_page_order": 525,
+  "last_page_order": 525
+}

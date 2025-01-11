@@ -1,0 +1,58 @@
+{
+  "id": 12488442,
+  "name": "Com. v. Childs, T.",
+  "name_abbreviation": "Com v. Childs",
+  "decision_date": "2016-05-13",
+  "docket_number": "928 WDA 2015",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "7841b75eaf0d389c8c6b0ee4ad73bc7951fd02e15ceeff8683a0b006acda3a13",
+    "simhash": "1:904144695fa903f1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nChilds, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nChilds, T.\n928 WDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nAffirmed"
+  },
+  "file_name": "1147-11",
+  "first_page_order": 1147,
+  "last_page_order": 1147
+}

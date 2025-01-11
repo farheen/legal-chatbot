@@ -1,0 +1,68 @@
+{
+  "id": 6094837,
+  "name": "In re Hubert Dalton",
+  "name_abbreviation": "In re Dalton",
+  "decision_date": "1930-02-06",
+  "docket_number": "No. 2200",
+  "first_page": "826",
+  "last_page": "827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 826"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 230,
+    "char_count": 2803,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 5.843310912360784e-08,
+      "percentile": 0.3629532069244191
+    },
+    "sha256": "3b1a0d5f2cdf978cec87ca2231093dbfd1f4e27edf83966f57653df14931b6f9",
+    "simhash": "1:06ef342a86fe87f8",
+    "word_count": 471
+  },
+  "last_updated": "2023-07-14T15:51:07.530903+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield,' Garrett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "In re Hubert Dalton"
+    ],
+    "opinions": [
+      {
+        "text": "Garrett, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals of the Patent Office affirming the action of the examiner in refusing to allow claim for patent for \u201c the ornamental design for a casing for electric motors, as shown.\u201d\nThe design appears to be primarily intended for use in encasing small electric motors utilized for operating household mechanisms, such as sewing machines, washing machines, and the like.\nThe examiner rejected the application both upon the ground that the article did not present subject matter proper for design patent, and also that the design presented did not show invention over the disclosures embraced in patents to Gray and Kelley, the former being design patent No. 43036 and the latter mechanical patent No. 931620.\nThe board overruled the examiner as to the first ground of rejection but sustained the latter ground.\nThe drawings of the application show a casing of the usual type for enclosing the motor parts, having radiating ventilating openings arranged throughout a complete circle at one end of the casing and similar openings in the upper half of the other end. The gear covering at the latter end is of inverted V shape, the upper portion thereof being within the ventilating opening.\nIn one of the figures (3) of the patent to Gray there is a semicircular arrangement of openings in the upper half of the casing and the patent to Kelley shows the end members also provided with radial openings, those in one of the ends being V shaped.\nIt appears that openings in dynamo casings of this type-are essential as a matter of utilitarian consideration and in any design openings of some character must be provided for purposes of ventilation.\nWe are unable from our study of the drawings and specifications to see any such advance over the prior art as shown in the references as to justify our holding that the Board of Appeals was in error in its decision.\nIt may readily be conceded that applicant has produced a design which is quite distinguishable from those of the references, but it seems to us that the suggestions of the applicable reference features negative any real inventive art, or inventive accomplishment- on applicant\u2019s part. We can detect nothing showing that degree of originality which we think would have to be present to justify the granting of a patent as sought.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "Garrett, Judge,"
+      }
+    ],
+    "attorneys": [
+      "O. P. Goepcl (Mortimer G. Lyddmie of counsel) for appellant.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Hubert Dalton\n(No. 2200)\nUnited States Court of Customs and Patent Appeals,\nFebruary 6, 1930\nO. P. Goepcl (Mortimer G. Lyddmie of counsel) for appellant.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument January 9, 1930, by Mr. Lyddane and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield,' Garrett, and Lenroot, Associate Judges"
+  },
+  "file_name": "0826-01",
+  "first_page_order": 276,
+  "last_page_order": 277
+}

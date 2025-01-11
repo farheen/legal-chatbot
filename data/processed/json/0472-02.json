@@ -1,0 +1,59 @@
+{
+  "id": 7287690,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Adam ROSEN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rosen",
+  "decision_date": "2010-08-11",
+  "docket_number": "",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "2 A.3d 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 525,
+    "ocr_confidence": 0.679,
+    "sha256": "a35c1d4d0d76a7f0d7598c64734545329c6f4112a3bb4e916e15d33c8fdc636c",
+    "simhash": "1:30bf468a67e9ae6c",
+    "word_count": 82
+  },
+  "last_updated": "2023-07-14T21:40:41.647294+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Adam ROSEN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of August, 2010, the Petition for Allowance of Appeal is GRANTED. The issue, rephrased for clarity, is:\nWhether the limited Fifth Amendment waiver occasioned by a mental health defense in a defendant\u2019s first trial allows the Commonwealth to use the evidence obtained pursuant to such waiver as rebuttal in a subsequent trial where no mental health defense is presented.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Adam ROSEN, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 11, 2010."
+  },
+  "file_name": "0472-02",
+  "first_page_order": 502,
+  "last_page_order": 502
+}

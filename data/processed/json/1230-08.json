@@ -1,0 +1,58 @@
+{
+  "id": 12488959,
+  "name": "MANNING v. PALLITO",
+  "name_abbreviation": "Manning v. Pallito",
+  "decision_date": "2016-11-04",
+  "docket_number": "16\u2013225",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "7da8a1288e0fad40f435e672951a3a2d64c46739ca43e01599f1ca9e1947ee41",
+    "simhash": "1:d81503001a442222",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MANNING\nv.\nPALLITO"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MANNING\nv.\nPALLITO\n16-225\nSupreme Court of Vermont.\nNovember 4, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1230-08",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12491048,
+  "name": "Michael MARRANCA, Plaintiff-Movant, v. Valery LOYTSKER, Defendant.",
+  "name_abbreviation": "Marranca v. Loytsker",
+  "decision_date": "2017-09-22",
+  "docket_number": "078703; M\u2013105/106 September Term 2017",
+  "first_page": "939",
+  "last_page": "939",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 939"
+    },
+    {
+      "type": "parallel",
+      "cite": "230 N.J. 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 450,
+    "sha256": "cf4f33d79e66405f61111cea83a4f5e203034432293ce4e47ddb26e15391b214",
+    "simhash": "1:40cb6cfd40330d21",
+    "word_count": 69
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael MARRANCA, Plaintiff-Movant,\nv.\nValery LOYTSKER, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motions for leave to file a motion for reconsideration as within time (M-105) and file an overlength brief (M-106) are granted;\nand it is further\nORDERED that the motion for reconsideration of the Court's order denying the petition for certification (M-107) is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael MARRANCA, Plaintiff-Movant,\nv.\nValery LOYTSKER, Defendant.\n078703\nM-105/106 September Term 2017\nSupreme Court of New Jersey.\nSeptember 22, 2017\nORDER"
+  },
+  "file_name": "0939-03",
+  "first_page_order": 939,
+  "last_page_order": 939
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6081224,
+  "name": "In re Goercke",
+  "name_abbreviation": "In re Goercke",
+  "decision_date": "1958-06-18",
+  "docket_number": "No. 6417",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1054"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 113,
+    "ocr_confidence": 0.512,
+    "sha256": "6e74de7ef35d8b0db9ee3a66f2acd86c7844e0c8a5f8006e07aeeb7afbb78e14",
+    "simhash": "1:70400cd11fee64c4",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Goercke"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process for manufacturing activated cadium sulfide cells.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 18, 1958\nIn re Goercke\n(No. 6417)."
+  },
+  "file_name": "1054-05",
+  "first_page_order": 384,
+  "last_page_order": 384
+}

@@ -1,0 +1,108 @@
+{
+  "id": 7288690,
+  "name": "In re ESTATE OF Terry L. KENDALL, Deceased. Petition of Susan L. Kendall",
+  "name_abbreviation": "In re Estate of Kendall",
+  "decision_date": "2010-08-18",
+  "docket_number": "",
+  "first_page": "666",
+  "last_page": "666",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "3 A.3d 666"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "463 Pa. 109",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1708063
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/463/0109-01"
+      ]
+    },
+    {
+      "cite": "933 A.2d 57",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3250928,
+        8340526
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0601-01",
+        "/a2d/933/0057-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 601",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989490,
+        3991287
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0601-01",
+        "/pa/598/0601-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 112,
+    "char_count": 967,
+    "ocr_confidence": 0.652,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18829688526242264
+    },
+    "sha256": "1cb791658b5b07a11751b18253ac73ccbbeb8b77bdde4524ef07096571517ca6",
+    "simhash": "1:c9bd678063a9ae78",
+    "word_count": 167
+  },
+  "last_updated": "2024-02-27T20:00:02.725980+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ESTATE OF Terry L. KENDALL, Deceased. Petition of Susan L. Kendall."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 18th day of August, 2010, the Petition for Allowance of Appeal is GRANTED. The issues, as stated by Petitioner, are:\n1. Does an Orphans\u2019 Court Division Judge have \u201cinherent power,\u201d not possessed by judges in other divisions of the Court of Common Pleas, to sua sponte \u201ccorrect\u201d an alleged latent \u201cmistake\u201d in a final declaratory judgment order contrary to 42 Pa.C.S.A. \u00a7 5505 and the \u201cobvious and patent error\u201d rule enunciated by this Court in Commonwealth v. Holmes, 598 Pa. 601, 933 A.2d 57 (2007)?\n2. Do this Court\u2019s decades old plurality opinion in Estate of Bell, 463 Pa. 109, 343 A.2d 679 (1975) and 20 Pa. C.S.A. \u00a7 3521 give an Orphans\u2019 Court Division Judge the unfettered and unlimited right to revise, reverse and amend a final declaratory judgment order at any time without regard to 42 Pa.C.S.A. \u00a7 5505?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF Terry L. KENDALL, Deceased. Petition of Susan L. Kendall.\nSupreme Court of Pennsylvania.\nAug. 18, 2010."
+  },
+  "file_name": "0666-02",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

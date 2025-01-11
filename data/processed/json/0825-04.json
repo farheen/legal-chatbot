@@ -1,0 +1,58 @@
+{
+  "id": 12487612,
+  "name": "In Re: Petition for Appointment of Constable",
+  "name_abbreviation": "In re Petition for Appointment Constable",
+  "decision_date": "2016-07-06",
+  "docket_number": "NO. 1485 CD 15",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 154,
+    "sha256": "2f99c9c15b1a730afcb8e0af0b362c3ad52e7160fa383607c00c1fbe4e3ec671",
+    "simhash": "1:27cb969ccb98be2d",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: Petition for Appointment of Constable"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: Petition for Appointment of Constable\nNO. 1485 CD 15\nCommonwealth Court of Pennsylvania\nJuly 06, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0825-04",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

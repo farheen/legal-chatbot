@@ -1,0 +1,83 @@
+{
+  "id": 12489331,
+  "name": "STATE of Connecticut v. Junior JUMPP",
+  "name_abbreviation": "State v. Jumpp",
+  "decision_date": "2017-03-29",
+  "docket_number": "",
+  "first_page": "537",
+  "last_page": "537",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "156 A.3d 537"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 907"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 756",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489235
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/155-2/0822-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 349,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25778626475906513
+    },
+    "sha256": "aae03d28310b447f300c97f02925edc05e5f6ee954447ee84a44e1d09ff43c7d",
+    "simhash": "1:3487053ad32124f4",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:42:22.827056+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nJunior JUMPP"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 756, 155 A.3d 822 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nJunior JUMPP\nSupreme Court of Connecticut.\nDecided March 29, 2017\nRobert T. Rimmer, assigned counsel, in support of the petition.\nMelissa Patterson, assistant state's attorney, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 756, 155 A.3d 822 (2017), is denied."
+  },
+  "file_name": "0537-03",
+  "first_page_order": 537,
+  "last_page_order": 537
+}

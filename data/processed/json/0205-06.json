@@ -1,0 +1,58 @@
+{
+  "id": 12486690,
+  "name": "Com. v. J. Day",
+  "name_abbreviation": "Com. v. Day",
+  "decision_date": "2016-03-22",
+  "docket_number": "NO. 2198 EDA 2015",
+  "first_page": "205",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 91,
+    "sha256": "3d2cef5e0f2d6ce3e4166b2880a6c0b56b1c13737aaff58c0151383f747d3bb0",
+    "simhash": "1:3c1b7c9065a01b80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Day"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Day\nNO. 2198 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 22, 2016\nAffirmed."
+  },
+  "file_name": "0205-06",
+  "first_page_order": 205,
+  "last_page_order": 205
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486719,
+  "name": "Com. v. P. Adams",
+  "name_abbreviation": "Com. v. Adams",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 794 EDA 2015",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "88e44beb53248a87acf6796731c87c6d37a6479249b1694cf6d98db2cc3cfd87",
+    "simhash": "1:1d4046318286d890",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nP. Adams"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nP. Adams\nNO. 794 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0207-03",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

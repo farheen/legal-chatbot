@@ -1,0 +1,59 @@
+{
+  "id": 6083158,
+  "name": "In re Wilfried Voigt",
+  "name_abbreviation": "In re Voigt",
+  "decision_date": "1963-05-10",
+  "docket_number": "No. 7172",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 82,
+    "ocr_confidence": 0.472,
+    "sha256": "b8226c8f39eddcfff500fd3b224418a1930d9869aa7baba405cb7843d3427ca5",
+    "simhash": "1:d2409d26ad375637",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wilfried Voigt"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in an extrusion press.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 10, 1963\nIn re Wilfried Voigt\n(No. 7172)."
+  },
+  "file_name": "1588-12",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

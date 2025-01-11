@@ -1,0 +1,59 @@
+{
+  "id": 6081298,
+  "name": "In re Edward F. Harford",
+  "name_abbreviation": "In re Harford",
+  "decision_date": "1959-06-24",
+  "docket_number": "No. 6555",
+  "first_page": "988",
+  "last_page": "988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 988"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 113,
+    "ocr_confidence": 0.427,
+    "sha256": "fd6d9ddf65e7e89abaa297c34327f0a27c17b524a3c345e7bbf424aa540c8027",
+    "simhash": "1:cc6e4a3058ea3815",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Edward F. Harford"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in making paper from tetrafluoroethylene polymers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 24, 1959\nIn re Edward F. Harford\n(No. 6555)."
+  },
+  "file_name": "0988-06",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

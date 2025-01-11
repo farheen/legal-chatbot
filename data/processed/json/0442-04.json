@@ -1,0 +1,64 @@
+{
+  "id": 12489199,
+  "name": "PARKER, Toriano Mendell v. STATE of Maryland",
+  "name_abbreviation": "Parker v. State",
+  "decision_date": "2017-02-21",
+  "docket_number": "Pet. Docket No. 517, Sept. Term, 2016",
+  "first_page": "442",
+  "last_page": "442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 442"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 171,
+    "sha256": "29d7f6579123e35dce16eb3bda0a2d5e3be1a5c7f410f4a518579fe3cb468c13",
+    "simhash": "1:25630491d6c944b1",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.012355+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PARKER, Toriano Mendell\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "PARKER, Toriano Mendell\nv.\nSTATE of Maryland\nPet. Docket No. 517, Sept. Term, 2016\nCourt of Appeals of Maryland.\nFebruary 21, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0442-04",
+  "first_page_order": 442,
+  "last_page_order": 442
+}

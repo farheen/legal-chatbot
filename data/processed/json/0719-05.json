@@ -1,0 +1,58 @@
+{
+  "id": 12501892,
+  "name": "COM. v. GESKE, R.",
+  "name_abbreviation": "Com. v. Geske",
+  "decision_date": "2018-07-30",
+  "docket_number": "1417 MDA 2017",
+  "first_page": "719",
+  "last_page": "719",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "092043f09d77c3ef8ffe4053ab6c9ad47cc739f6262687f9b256d1dca35609af",
+    "simhash": "1:dc1d76bac4cc1f1d",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGESKE, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGESKE, R.\n1417 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 30, 2018\nAffirmed"
+  },
+  "file_name": "0719-05",
+  "first_page_order": 719,
+  "last_page_order": 719
+}

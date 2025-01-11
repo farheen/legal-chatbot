@@ -1,0 +1,59 @@
+{
+  "id": 11619321,
+  "name": "In the Matter of Terri Lynn McFIELD",
+  "name_abbreviation": "In re McField",
+  "decision_date": "1999-04-12",
+  "docket_number": "No. 127 DB 1998",
+  "first_page": "123",
+  "last_page": "123",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "727 A.2d 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 783,
+    "ocr_confidence": 0.729,
+    "sha256": "2efb53274abb13a40ca5d692a89a8e2fa2a1c82e36ce4eab34db03ffeac87593",
+    "simhash": "1:51a9e5ecb183defc",
+    "word_count": 131
+  },
+  "last_updated": "2023-07-14T16:27:16.725072+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Terri Lynn McFIELD."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 12th day of April, 1999, The Report and Recommendations of The Disciplinary Board of the Supreme Court of Pennsylvania dated March 8, 1999, are approved and IT IS ORDERED that TERRI LYNN McFIELD, who has been on inactive status, has never been suspended or disbarred, and has demonstrated that she has the moral qualifications, competency and learning in law required for admission to practice in the Commonwealth, shall be and is, hereby reinstated to active status as a member of the Bar of this Commonwealth. The expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement shall be paid by the Petitioner.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Terri Lynn McFIELD.\nNo. 127 DB 1998.\nSupreme Court of Pennsylvania.\nApril 12, 1999."
+  },
+  "file_name": "0123-02",
+  "first_page_order": 177,
+  "last_page_order": 177
+}

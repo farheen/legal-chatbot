@@ -1,0 +1,58 @@
+{
+  "id": 12487123,
+  "name": "Commonwealth v. Daniel Perkins",
+  "name_abbreviation": "Commonwealth v. Perkins",
+  "decision_date": "2016-08-24",
+  "docket_number": "NO. 178 EAL (2016)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 232,
+    "sha256": "67c5e48f53a638e3c34566743b87c21b99c4ccb0336ee5ac789db93192d71959",
+    "simhash": "1:3d3e7a10bacc68f4",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDaniel Perkins"
+    ],
+    "opinions": [
+      {
+        "text": "PETITION FOR ALLOWANCE OF APPEAL\nDenied.\n16 Justice MUNDY did not participate in the consideration or decision of this matter.\n--------",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDaniel Perkins\nNO. 178 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 24, 2016"
+  },
+  "file_name": "0725-08",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12491709,
+  "name": "JONES, Harry v. STATE of Maryland",
+  "name_abbreviation": "Jones v. State",
+  "decision_date": "2017-12-15",
+  "docket_number": "Pet. Docket No. 289, Sept. Term, 2017",
+  "first_page": "145",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 145"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 161,
+    "sha256": "ca3b4489320d8c74ba157c49a3c42ab895da8b8b567ca07ad887ae7241c7f7a8",
+    "simhash": "1:2be316f882984725",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:29.057506+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONES, Harry\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "JONES, Harry\nv.\nSTATE of Maryland\nPet. Docket No. 289, Sept. Term, 2017\nCourt of Appeals of Maryland.\nDecember 15, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0145-02",
+  "first_page_order": 145,
+  "last_page_order": 145
+}

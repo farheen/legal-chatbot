@@ -1,0 +1,59 @@
+{
+  "id": 6087766,
+  "name": "In re Emile Bechard",
+  "name_abbreviation": "In re Bechard",
+  "decision_date": "1967-04-25",
+  "docket_number": "No. 7795",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 91,
+    "ocr_confidence": 0.439,
+    "sha256": "6dd3a6008d56a9a982454eaf79c6f9cb33609ac9cbd0225fa5a22932869a411c",
+    "simhash": "1:00bb518b960889b2",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Emile Bechard"
+    ],
+    "opinions": [
+      {
+        "text": "Method and Means of Solid Liquid Preparation.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 25, 1967\nNo. 7795.\nIn re Emile Bechard"
+  },
+  "file_name": "1638-13",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487129,
+  "name": "Commonwealth v. Ronald Stockton",
+  "name_abbreviation": "Commonwealth v. Stockton",
+  "decision_date": "2016-08-17",
+  "docket_number": "NO. 160 EAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "ee2f68a1f9b3780569d715440d2c334545dbfb469e2d7af0286143d4619ce1b7",
+    "simhash": "1:7c0f5131b88e2ba9",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRonald Stockton"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRonald Stockton\nNO. 160 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 17, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-14",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

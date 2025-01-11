@@ -1,0 +1,58 @@
+{
+  "id": 12485814,
+  "name": "Com. v. F. Cristea",
+  "name_abbreviation": "Com. v. Cristea",
+  "decision_date": "2016-02-04",
+  "docket_number": "NO. 940 EDA 2015",
+  "first_page": "586",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "dc99d0f2d14660cc2b9f7be9e46d9aeeb0d71365b4b37c1f4e164003703f4167",
+    "simhash": "1:350b6eab96f08594",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nF. Cristea"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nF. Cristea\nNO. 940 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 04, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0586-04",
+  "first_page_order": 586,
+  "last_page_order": 586
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490521,
+  "name": "IN RE: Nomination Petition of Luiz GARCIA (Pearse)",
+  "name_abbreviation": "In re Nomination Petition Garcia",
+  "decision_date": "2017-03-30",
+  "docket_number": "315 CD 2017",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 159,
+    "sha256": "9c463e0d50ab338ff5e4510aaa4b3005bdda78c9e4eadda8e0a71d80d7cebc61",
+    "simhash": "1:29237236a1c81fd9",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: Nomination Petition of Luiz GARCIA (Pearse)"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE: Nomination Petition of Luiz GARCIA (Pearse)\n315 CD 2017\nCommonwealth Court of Pennsylvania.\nMarch 30, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-10",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

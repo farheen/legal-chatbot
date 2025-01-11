@@ -1,0 +1,103 @@
+{
+  "id": 7375673,
+  "name": "Joseph ROMANO et al. v. ALLSTATE INSURANCE CO.",
+  "name_abbreviation": "Romano v. Allstate Insurance",
+  "decision_date": "1994-02-24",
+  "docket_number": "No. 93-261-Appeal",
+  "first_page": "1056",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "638 A.2d 1056"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "603 A.2d 1119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939980
+      ],
+      "pin_cites": [
+        {
+          "page": "1123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/603/1119-01"
+      ]
+    },
+    {
+      "cite": "462 A.2d 359",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7950261
+      ],
+      "pin_cites": [
+        {
+          "page": "367"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/462/0359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 162,
+    "char_count": 1706,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18956742265668772
+    },
+    "sha256": "6b5303faafbcf3d75fff2d26fc056d4b3213724fcfcbc3db878dc043b5293b4e",
+    "simhash": "1:945a5579707005e6",
+    "word_count": 281
+  },
+  "last_updated": "2024-02-27T16:21:39.760501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, Acting C.J., did not participate."
+    ],
+    "parties": [
+      "Joseph ROMANO et al. v. ALLSTATE INSURANCE CO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a panel of the Supreme Court on February 15, 1994, pursuant to an order directing the plaintiffs to appear and to show cause why the issues raised in their appeal should not be summarily decided. The plaintiffs appealed the denial in Superior Court of their motion for a new trial and the entry of judgment in favor of Allstate Insurance Company.\nThe plaintiffs\u2019 son, a minor, was injured while riding his bicycle in South Kingstown, Rhode Island. After hearing the arguments of counsel and reviewing the memoranda submitted by the parties, we are of the opinion that cause has not been shown.\nWith respect to the errors claimed by plaintiffs, we are of the opinion that there is no evidence that the trial justice abused her discretion or was clearly wrong regarding the granting of a motion to view the scene of the accident, which is entirely discretionary with the court, or determining the relevancy of proffered information or testimony. State v. Austin, 462 A.2d 359, 367 (R.I.1983). The trial justice gave a series of standard instructions about general rules governing bicycles and motorized vehicles, and was not clearly in error in so doing. The trial justice correctly denied the motion for a new trial in light of her charge to the jury, the weight of the evidence, and the credibility of witnesses. International Depository, Inc. v. State, 603 A.2d 1119, 1123 (R.I.1992).\nThe plaintiffs\u2019 appeal is therefore denied and dismissed, and the judgment appealed from is affirmed.\nWEISBERGER, Acting C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Orando Andreoni.",
+      "Paul Anderson."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph ROMANO et al. v. ALLSTATE INSURANCE CO.\nNo. 93-261-Appeal.\nSupreme Court of Rhode Island.\nFeb. 24, 1994.\nOrando Andreoni.\nPaul Anderson."
+  },
+  "file_name": "1056-02",
+  "first_page_order": 1110,
+  "last_page_order": 1110
+}

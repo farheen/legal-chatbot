@@ -1,0 +1,58 @@
+{
+  "id": 12485795,
+  "name": "N.W. v. J.S.",
+  "name_abbreviation": "N.W. v. J.S.",
+  "decision_date": "2016-02-02",
+  "docket_number": "NO. 1014 WDA 2015",
+  "first_page": "585",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 117,
+    "sha256": "8a53949a9fcef383242612e75f18c724868bf61c4295362dd655c1a82b9b2415",
+    "simhash": "1:3956d403324f0d12",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "N.W.\nv.\nJ.S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "N.W.\nv.\nJ.S.\nNO. 1014 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 02, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0585-16",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

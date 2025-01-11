@@ -1,0 +1,75 @@
+{
+  "id": 7282952,
+  "name": "Roy ROBINSON, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee",
+  "name_abbreviation": "Robinson v. Pennsylvania Department of Probation & Parole",
+  "decision_date": "2011-05-24",
+  "docket_number": "No. 72 EAP 2010",
+  "first_page": "1188",
+  "last_page": "1188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 A.3d 1188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "20 A.3d 1178",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4202969,
+        7282738
+      ],
+      "year": 2011,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/610/0394-01",
+        "/a3d/20/1178-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 339,
+    "ocr_confidence": 0.677,
+    "sha256": "43409de22978670eae5865c7a90cc09a41a18e2bde3a7c673dc1588ae03ee188",
+    "simhash": "1:558a1ef347f019bb",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T20:04:28.646963+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roy ROBINSON, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of May, 2011, the order of the Commonwealth Court is AFFIRMED. See Poulson v. Pennsylvania Bd. of Probation and Parole, \u2014 Pa. -, 20 A.3d 1178 (2011).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Roy ROBINSON, Appellant v. PENNSYLVANIA DEPARTMENT OF PROBATION AND PAROLE, Appellee.\nNo. 72 EAP 2010.\nSupreme Court of Pennsylvania.\nMay 24, 2011."
+  },
+  "file_name": "1188-02",
+  "first_page_order": 1226,
+  "last_page_order": 1226
+}

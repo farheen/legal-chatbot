@@ -1,0 +1,58 @@
+{
+  "id": 12486417,
+  "name": "Com. v. I. Kinard",
+  "name_abbreviation": "Com. v. Kinard",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 120 EDA 2015",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "a8688fa2a41489ae8a35ccd7cdc06139e316600620cf90b49e6c528d231a4bec",
+    "simhash": "1:1c0b1601c9a30b81",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nI. Kinard"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nI. Kinard\nNO. 120 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed."
+  },
+  "file_name": "0187-06",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

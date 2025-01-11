@@ -1,0 +1,58 @@
+{
+  "id": 12490908,
+  "name": "IN RE H.P.",
+  "name_abbreviation": "In re H.P.",
+  "decision_date": "2017-07-24",
+  "docket_number": "17\u2013138",
+  "first_page": "791",
+  "last_page": "791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "55b2254355142443ab2f0404f42a3d334ed4b0b926a48176f24aec1cc06f5f2e",
+    "simhash": "1:34114d10a963f84c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022672+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE H.P."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE H.P.\n17-138\nSupreme Court of Vermont.\nJuly 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0791-08",
+  "first_page_order": 791,
+  "last_page_order": 791
+}

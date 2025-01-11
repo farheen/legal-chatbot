@@ -1,0 +1,58 @@
+{
+  "id": 12490622,
+  "name": "T.K., et al. v. DHS",
+  "name_abbreviation": "T.K. v. DHS",
+  "decision_date": "2017-05-08",
+  "docket_number": "1029 CD 2016",
+  "first_page": "306",
+  "last_page": "306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 126,
+    "sha256": "a0f475035d56917455650a49ffd5075ef937f4a28078c1706726ba6466d480d2",
+    "simhash": "1:1dfd22b58bf45e79",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T.K., et al.\nv.\nDHS"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T.K., et al.\nv.\nDHS\n1029 CD 2016\nCommonwealth Court of Pennsylvania.\nMay 8, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0306-06",
+  "first_page_order": 306,
+  "last_page_order": 306
+}

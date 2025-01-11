@@ -1,0 +1,62 @@
+{
+  "id": 12485546,
+  "name": "State v. Frederick J. Thomas",
+  "name_abbreviation": "State v. Thomas",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-896 SEPT. TERM 2015, 076939",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 128,
+    "sha256": "de7ac9d0f2d9871ce7630203218e3ce379982e81e9a28ba9986a44cf85a2164a",
+    "simhash": "1:00f2049418aa2036",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nFrederick J. Thomas"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nFrederick J. Thomas\nNOS. C-896 SEPT. TERM 2015, 076939\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-22",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

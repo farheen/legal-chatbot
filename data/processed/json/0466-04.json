@@ -1,0 +1,64 @@
+{
+  "id": 12490296,
+  "name": "LYNN v. LYNN",
+  "name_abbreviation": "Lynn v. Lynn",
+  "decision_date": "2017-07-28",
+  "docket_number": "Pet. Docket No. 107, Sept. Term, 2017",
+  "first_page": "466",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 466"
+    },
+    {
+      "type": "parallel",
+      "cite": "454 Md. 664"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 136,
+    "sha256": "71c6c48fc998fd78a37d7fa044bdc534ecd506f962c8ca0f6c9c7e30c536724f",
+    "simhash": "1:23f6d2185e494281",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LYNN\nv.\nLYNN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "LYNN\nv.\nLYNN\nPet. Docket No. 107, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJuly 28, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0466-04",
+  "first_page_order": 466,
+  "last_page_order": 466
+}

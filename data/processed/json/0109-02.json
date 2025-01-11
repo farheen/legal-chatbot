@@ -1,0 +1,62 @@
+{
+  "id": 12492026,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Carlia M. BRADY, Defendant-Movant.",
+  "name_abbreviation": "State v. Brady",
+  "decision_date": "2017-12-08",
+  "docket_number": "M\u2013428 September Term 2017; 080201",
+  "first_page": "109",
+  "last_page": "109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "177 A.3d 109"
+    },
+    {
+      "type": "parallel",
+      "cite": "231 N.J. 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 292,
+    "sha256": "a8dfdeb12ae7bbbe69c859af99e8b8e9b4953d16212652333526e4e84d306036",
+    "simhash": "1:1cc7683145654908",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nCarlia M. BRADY, Defendant-Movant."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motion for leave to appeal is denied; and it is further\nORDERED that the trial be conducted forthwith.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nCarlia M. BRADY, Defendant-Movant.\nM-428 September Term 2017\n080201\nSupreme Court of New Jersey.\nDecember 8, 2017\nORDER"
+  },
+  "file_name": "0109-02",
+  "first_page_order": 109,
+  "last_page_order": 109
+}

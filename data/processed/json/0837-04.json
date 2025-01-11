@@ -1,0 +1,64 @@
+{
+  "id": 12489862,
+  "name": "DOE v. ALTERNATIVE MEDICINE MARYLAND",
+  "name_abbreviation": "Doe v. Alt. Med. Md.",
+  "decision_date": "2017-06-09",
+  "docket_number": "Pet. Docket No. 148, Sept. Term, 2017",
+  "first_page": "837",
+  "last_page": "837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "162 A.3d 837"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "sha256": "82dd948811c316280c56f157d27317c14c99c35c8556c3728095c362d22c026b",
+    "simhash": "1:1cf79a79164c4bd4",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T20:57:14.018929+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DOE\nv.\nALTERNATIVE MEDICINE MARYLAND"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted. Transferred to the regular docket as No. 98, September Term, 2016."
+    ],
+    "corrections": "",
+    "head_matter": "DOE\nv.\nALTERNATIVE MEDICINE MARYLAND\nPet. Docket No. 148, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJune 9, 2017\nPetition for writ of certiorari granted. Transferred to the regular docket as No. 98, September Term, 2016."
+  },
+  "file_name": "0837-04",
+  "first_page_order": 837,
+  "last_page_order": 837
+}

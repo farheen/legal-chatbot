@@ -1,0 +1,890 @@
+{
+  "id": 11989370,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Wayne A. SMITH, Appellant",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "1997-05-20",
+  "docket_number": "No. 115 Capital Appeal Docket",
+  "first_page": "1086",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "694 A.2d 1086"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "449 U.S. 1113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11862430,
+        11862629,
+        11862342,
+        11862726,
+        11862506,
+        11862219,
+        11862254,
+        11862545,
+        11862397,
+        11862675,
+        11862836,
+        11862587,
+        11862781,
+        11862462
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/1113-05",
+        "/us/449/1113-10",
+        "/us/449/1113-03",
+        "/us/449/1113-12",
+        "/us/449/1113-07",
+        "/us/449/1113-01",
+        "/us/449/1113-02",
+        "/us/449/1113-08",
+        "/us/449/1113-04",
+        "/us/449/1113-11",
+        "/us/449/1113-14",
+        "/us/449/1113-09",
+        "/us/449/1113-13",
+        "/us/449/1113-06"
+      ]
+    },
+    {
+      "cite": "528 Pa. 125",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829784
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0125-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 296",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 360",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "504 Pa. 428",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787710
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0428-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176665
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "538",
+          "parenthetical": "citations omitted; emphasis added"
+        },
+        {
+          "page": "702",
+          "parenthetical": "citations omitted; emphasis added"
+        },
+        {
+          "page": "703",
+          "parenthetical": "citations omitted; emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0522-01"
+      ]
+    },
+    {
+      "cite": "465 Pa. 473",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1712634
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/465/0473-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 135",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822776
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "144-45",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "933",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0135-01"
+      ]
+    },
+    {
+      "cite": "688 A.2d 691",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357144,
+        468725,
+        7357045,
+        468629
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "696"
+        },
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/688/0691-02",
+        "/pa/547/0016-02",
+        "/a2d/688/0691-01",
+        "/pa/547/0017-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468629
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0017-01"
+      ]
+    },
+    {
+      "cite": "439 U.S. 357",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11330305
+      ],
+      "weight": 5,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "366-67"
+        },
+        {
+          "page": "588"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/0357-01"
+      ]
+    },
+    {
+      "cite": "534 Pa. 488",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1839680
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/534/0488-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841472
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0210-01"
+      ]
+    },
+    {
+      "cite": "83 L.Ed.2d 297",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.Ct. 361",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "469 U.S. 963",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12034269,
+        12034334
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0963-01",
+        "/us/469/0963-02"
+      ]
+    },
+    {
+      "cite": "504 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1787796
+      ],
+      "weight": 2,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/504/0455-01"
+      ]
+    },
+    {
+      "cite": "672 A.2d 293",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        461481,
+        7348286
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Stoyko, 504 Pa. 455, 475 A.2d 714 (1984); cert. denied, 469 U.S. 963, 105 S.Ct. 361, 83 L.Ed.2d 297 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0429-01",
+        "/a2d/672/0293-01"
+      ]
+    },
+    {
+      "cite": "543 Pa. 429",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        461481
+      ],
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Commonwealth v. Stoyko, 504 Pa. 455, 475 A.2d 714 (1984); cert. denied, 469 U.S. 963, 105 S.Ct. 361, 83 L.Ed.2d 297 (1984)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/543/0429-01"
+      ]
+    },
+    {
+      "cite": "644 A.2d 1167",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775520,
+        7881607
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1173-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0447-01",
+        "/a2d/644/1167-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 447",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775520
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "460"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0447-01"
+      ]
+    },
+    {
+      "cite": "532 Pa. 242",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1835927
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "252"
+        },
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/532/0242-01"
+      ]
+    },
+    {
+      "cite": "525 Pa. 147",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1823719
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "150"
+        },
+        {
+          "page": "1274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/525/0147-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 842",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 924",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "417 A.2d 128",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1763842,
+        1763787
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0456-01",
+        "/pa/490/0457-01"
+      ]
+    },
+    {
+      "cite": "490 Pa. 457",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763787
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0457-01"
+      ]
+    },
+    {
+      "cite": "309 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "453 Pa. 427",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        577561
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/453/0427-01"
+      ]
+    },
+    {
+      "cite": "490 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1763841
+      ],
+      "weight": 2,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/490/0380-01"
+      ]
+    },
+    {
+      "cite": "320 Pa.Super. 444",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        588480
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/320/0444-01"
+      ]
+    },
+    {
+      "cite": "252 A.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1921091
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/433/0487-01"
+      ]
+    },
+    {
+      "cite": "612 A.2d 1349",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1834385,
+        1834386
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0320-01",
+        "/pa/531/0322-01"
+      ]
+    },
+    {
+      "cite": "531 Pa. 322",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1834386
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0322-01"
+      ]
+    },
+    {
+      "cite": "638 A.2d 940",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7373922,
+        1843214
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/638/0940-01",
+        "/pa/536/0153-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 153",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843214
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0153-01"
+      ]
+    },
+    {
+      "cite": "426 Pa.Super. 555",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        929899
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/426/0555-01"
+      ]
+    },
+    {
+      "cite": "473 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1730281
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/473/0169-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 546",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1829826,
+        1829847
+      ],
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0546-01",
+        "/pa/528/0546-02"
+      ]
+    },
+    {
+      "cite": "639 A.2d 763",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1843170,
+        7863535
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "766"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0355-01",
+        "/a2d/639/0763-01"
+      ]
+    },
+    {
+      "cite": "536 Pa. 355",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1843170
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "361"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/536/0355-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1452",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 31",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 1236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6262746
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/1236-01"
+      ]
+    },
+    {
+      "cite": "77 L.Ed.2d 1327",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 S.Ct. 2444",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 970",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337770,
+        11337700
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0970-02",
+        "/us/461/0970-01"
+      ]
+    },
+    {
+      "cite": "500 Pa. 16",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1781169
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/500/0016-01"
+      ]
+    },
+    {
+      "cite": "391 Pa.Super. 436",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        477244
+      ],
+      "weight": 2,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "443-44"
+        },
+        {
+          "page": "450"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa-super/391/0436-01"
+      ]
+    },
+    {
+      "cite": "109 A. 234",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "238"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "265 Pa. 476",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1051838
+      ],
+      "year": 1920,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/265/0476-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 811",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866896,
+        7867043,
+        475500,
+        475501
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/645/0811-01",
+        "/a2d/645/0811-02",
+        "/pa/538/0002-01",
+        "/pa/538/0001-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 2",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475500
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "21"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/538/0002-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1480,
+    "char_count": 41951,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2449152440933815
+    },
+    "sha256": "797b608ce20f78e96d1cf57bcd6e523b78f26d74570fb1915d032802bc0f2c58",
+    "simhash": "1:2658f3be5204f1fa",
+    "word_count": 6783
+  },
+  "last_updated": "2024-02-27T20:57:17.445316+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ.",
+      "FLAHERTY, C.J., files a dissenting opinion in which ZAPPALA, J., joins.",
+      "ZAPPALA, J., joins this dissenting opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Wayne A. SMITH, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nCAPPY, Justice.\nThis is a direct appeal from judgment of sentence of death imposed on Appellant, Wayne A. Smith, by the Court of Common Pleas of Delaware County, Pennsylvania. For the reasons expressed in this opinion, we affirm Appellant\u2019s conviction and the judgment of sentence of death imposed on him.\nAppellant was charged with murder and related offenses in connection with the killing of Eileen Jones. The jury found Appellant guilty of first degree murder. After the penalty phase hearing, the jury concluded that the aggravating circumstance it found (Appellant\u2019s prior conviction of voluntary manslaughter) outweighed the mitigating circumstances it found (Appellant was suffering from mental or emotional disturbance at the time of the crime; Appellant had some remorse; and Appellant had an abusive childhood). The jury returned a verdict of death. Judgment of sentence of death was imposed on Appellant on May 22,1995.\nProceeding under new Pa.R.Crim.P. 1410 B(l)(c), Appellant elected not to file a post-sentence motion with the trial court. His issues on appeal to this court are enumerated in his Statement of Matters Complained of on Appeal, and are addressed in an opinion issued by the trial court pursuant to Pa. RApp.P.1925(a).\nIn all cases in which the death penalty is imposed, we must conduct an independent examination of the sufficiency of the evidence supporting the appellant\u2019s conviction. Commonwealth v. Zettlemoyer, 500 Pa. 16, 454 A.2d 937 (1982), cert. denied, 461 U.S. 970, 103 S.Ct. 2444, 77 L.Ed.2d 1327 (1983), reh'g denied, 463 U.S. 1236, 104 S.Ct. 31, 77 L.Ed.2d 1452 (1983). \u201cIn reviewing the sufficiency of the evidence, we must determine whether the evidence, and all reasonable inferences dedueible therefrom, viewed in the light most favorable to the Commonwealth as verdict-winner, are sufficient to establish all the elements of the offense(s) beyond a reasonable doubt.\u201d Commonwealth v. Hughes, 536 Pa. 355, 361, 639 A.2d 763, 766 (1994).\nIn a first degree murder case, the Commonwealth must prove that the defendant acted with a specific intent to MU. 18 Pa.C.S. \u00a7 2502(d). The Commonwealth must show that: 1) a human being was unlawfully MUed; 2) the defendant participated in the killing; and 3) the lulling was done in an intentional, deliberate, and premeditated manner. Commonwealth v. Mitchell, 528 Pa. 546, 599 A.2d 624 (1991). It is the specific intent to MU which distinguishes murder in the first degree from lesser grades of murder. Commonwealth v. Moore, 473 Pa. 169, 373 A.2d 1101 (1977).\nThe record reveals sufficient evidence upon which the jury could have found Appellant guilty of murder in the first degree. The evidence at trial was as foUows. Ms. Jones had been at Don\u2019s Bar in Eddystone, Delaware County, with her boyfriend, John Murray, from approximately 6:00 p.m. until 8:30 p.m. on November 18,1994. Upon leaving Don\u2019s Bar, the victim and John Murray visited with a friend, Helene Edwards, in the Sun Village area of Chester. Ms. Jones left Ms. Edwards\u2019 home, and, when Mr. Murray attempted to accompany her, she told him she was going to a friend\u2019s house. Mr. Murray last saw the victim at approximately 9:00 p.m. on November 18,1994, walking alone up Morton Avenue.\nAt approximately 10:30 p.m. on that same evening, Ms. Jones was accompanied by an African-American male when she arrived at the home of her Mend, Edna Love. The man who accompanied Ms. Jones wore stereo headphones and a baseball cap. Ms. Love did not invite Ms. Jones and her companion inside her home because Ms. Love was putting her baby to bed. Ms. Jones and her male companion left Ms. Love\u2019s house after a few minutes.\nAppellant approached his nephew, Michael Smith, at approximately 11:00 p.m. on November 18, 1994, asking permission to use Michael Smith\u2019s car to take a woman to a motel. Michael Smith observed the woman at the time this request was made and later identified the woman who accompanied the Appellant as Ms. Jones. Appellant did not appear to Michael Smith to be intoxicated or \u201chigh\u201d on drugs at the time he lent Appellant his car. Appellant later returned the car keys to Michael Smith at approximately 12:30 a.m. on November 19, 1994. On the afternoon of November 19, 1994, Appellant stated to his brother, Jeffrey Smith, that he had murdered Ms. Jones in Sun Village Park by choking her with his hands and with a belt.\nThe partially clothed body of Ms. Jones was discovered in Ridley Creek, in an area near the boundary between the City of Chester and the Borough of Eddystone in Delaware County, at approximately 10:00 a.m. on November 22, 1994. The Delaware County Medical Examiner determined that the cause of death was strangulation and that the manner of death was homicide.\nSubsequently, in Appellant\u2019s bedroom, police recovered headphones, a baseball cap, and several newpapers from which articles regarding the recovery of the victim\u2019s body had been removed. While in police custody, Appellant was advised of his Miranda rights, which he waived. Appellant then provided detectives with a tape-recorded statement, which was transcribed and admitted into evidence at trial. In this statement, Appellant stated that he had borrowed his nephew\u2019s car so that he could buy drugs, and that the victim had agreed to have sex with him in exchange for drugs. Appellant stated that he and the victim had gone to Sun Village Park. When Appellant attempted to have sex with the victim on the ground, he became concerned that she would accuse him of having raped her. Appellant then choked the victim to death, disposing of her body and her possessions in Ridley Creek.\nAfter reviewing the record in this matter, we find that the evidence was more than sufficient for the jury to conclude that Appellant had the specific intent to Mil Ms. Jones and that Appellant committed first degree murder. From the evidence, the jury could have concluded that: Ms. Jones was unlawfully killed; Appellant did the killing; and Appellant killed Ms. Jones in an intentional, deliberate, and premeditated manner.\nAppellant\u2019s first argument is that the trial judge erred in refusing to permit Appellant to present the testimony of Dr. George Woody, either in his case-in-cMef or on surrebuttal.\nAt trial, the defense intended to call two expert witnesses, Dr. George Woody and Dr. Perry Berman, who are both licensed psychiatrists, to support Appellant\u2019s argument that he was acting under a cocaine-induced toxic psychosis at the time of the killing, and, therefore, he was unable to form the specific intent to kill the victim. Appellant admitted his guilt to third degree murder of the victim, and urged that this cocaine-induced psychosis evidence would allow the jury to mitigate the charge of first degree murder to third degree murder on the basis of section 308 of the Crimes Code, 18 Pa.C.S. \u00a7 308. When the defense proceeded with its case-in-chief, however, Dr. Woody was not present; thus, the defense called Dr. Berman to the stand.\nDr. Berman testified as to the effects of cocaine ingestion on an individual and as to how the ingestion of cocaine would prevent an individual from forming the specific intent to kill. Dr. Berman testified that toxic psychosis, a condition that occurs due to cocaine intoxication, is a recognized psychiatric disorder in the Diagnostic and Statistical Manual, 4th Edition (DSM-4), which is relied upon by psychiatrists in diagnosing patients. Dr. Berman testified that toxic psychosis from cocaine intoxication can occur in individuals at varying dosage levels and cause hallucinations and delusions. Dr. Berman reviewed the autopsy reports and chemical analyses which were performed on the victim and interviewed Appellant. Dr. Berman opined that Appellant was suffering from a cocaine-induced psychotic disorder at the time that he strangled the victim to death. It was Dr. Berman\u2019s expert medical opinion that Appellant was unable to form the specific intent to kill the victim. On cross-examination by the prosecution, Dr. Berman explained that his opinion was based on his review of the autopsy reports performed on the victim, as well as his interview of Appellant, Appellant\u2019s statement, and the Affidavit of Probable Cause. Moreover, on cross-examination Dr. Berman testified that although he had no knowledge of the amount of cocaine Appellant ingested, the effect of a cocaine-induced psychotic experience is not determined by the amount of cocaine ingested by an individual but by an individual\u2019s usage of the drug over a period of time and the manner in which it is ingested. Additionally, on cross-examination, Dr. Berman explained how, from the psychiatric standpoint, Appellant could have been aware that he was physically strangling the victim yet unable to \u201cturn off\u2019 his psychosis. Dr. Berman testified on cross-examination that Appellant\u2019s ability to physically carry out his plans at the time of the killing did not affect his psychiatric opinion that Appellant was suffering from toxic psychosis.\nDr. Woody was not present in the courtroom at the completion of Dr. Berman\u2019s testimony. The defense informed the trial court that Dr. Woody would be \u201ctied up in Center City Philadelphia\u201d until after 5:00 p.m., and would come directly to the courtroom in Media. The defense requested that Dr. Woody be permitted to testify in the defense\u2019s case-in-chief, offering Dr. Woody as the author of the section in the DSM-4 dealing with cocaine and psychotic disorders, and as a psychiatrist and an expert in the effect of controlled substances, i.e., cocaine, on an individual\u2019s brain. The prosecution objected that Dr. Woody\u2019s proffered testimony would be cumulative of Dr. Berman\u2019s testimony concerning the DSM-4 and the effects of cocaine on Appellant. The trial judge sustained the prosecution\u2019s objection, and the defense reluctantly rested its case.\nThe trial judge then directed the Commonwealth to proceed with its rebuttal witness, Dr. Richard Cohn, who was qualified as an expert in the areas of forensic toxicology and pharmacology. Dr. Cohn testified that cocaine-induced psychosis is dosage dependent, in that the amount of cocaine ingested by an individual and entering the individual\u2019s blood stream is an important consideration as to whether a toxic psychosis would be produced. Dr. Cohn further testified that with a chronic cocaine user, it would take a higher dosage for him to be able to opine that the level would be consistent with a toxic psychosis. Dr. Cohn testified that, in view of the levels of cocaine and cocaine metabolites found in the victim\u2019s blood and urine, and, assuming that Appellant had consumed the same amount of cocaine as had the victim, it was impossible to conclude that Appellant had suffered a cocaine-induced toxic psychosis at the time of the killing. Additionally, Dr. Cohn opined that Appellant was not suffering from toxic psychosis at the time of the killing because he retained Ms physical abilities and recalled the events surrounding the killing with clarity. Dr. Cohn further opined that Appellant\u2019s specific intent to kill the victim was not affected by Ms ingestion of cocaine. Dr. Cohn testified on cross-examination that he was not familiar with the DSM-4, mainly because he is not a psycMatrist.\nAt the conclusion of Dr. Cohn\u2019s testimony, Dr. Woody was present in the courtroom, and the defense requested permission to reopen its case-in-cMef to call Dr. Woody as on direct examination as part of the defense\u2019s case-in-cMef. The defense\u2019s offer of proof for Dr. Woody\u2019s testimony on direct was that he would testify as to the state of scientific literature, with regard to the correlation of dosage of cocaine with psychotic behavior, and the diagnostic criteria for individuals suffering from the psychotic effects of cocaine. The prosecution objected on the ground that Dr. Woody\u2019s testimony as to the psycMatric effect of cocaine ingestion would be cumulative to Dr. Berman\u2019s testimony. The trial court sustained the prosecution\u2019s objection.\nThe defense also sought to offer Dr. Woody to rebut Dr. Cohn\u2019s testimony regarding the correlation between the dosage amount and toxic psychosis and to give psy-cMatric opmions as to the effects of cocaine on the human body. The Commonwealth objected on the basis that Dr. Berman had already given expert psycMatric testimony regarding the effects of cocaine on the body, and that the defense was not offering appropriate surrebuttal for toxicology testimony. The trial judge upheld the Commonwealth\u2019s objections.\nAppellant argues that the trial court erred when it refused to allow the defense to reopen its case-in-cMef to present Dr. Woody\u2019s testimony. While Appellant concedes that the proffered testimony of Dr. Woody would have overlapped with the testimony presented by Dr. Berman, Appellant contends that the defense had differing intents behind offering the two psyeMatrists\u2019 testimony: Dr. Woody\u2019s testimony was designed to acquaint the jury with toxic psychosis in general, and Dr. Berman\u2019s testimony then would have given the jury an understanding of how Appellant had succumbed to this psychosis.\nIt is within the trial court\u2019s discretion to allow either side to reopen its case, prior to judgment, to prevent a failure or miscarriage of justice. Commonwealth v. Flood, 426 Pa.Super. 555, 627 A.2d 1193 (1993). The admissibility of evidence is a matter solely within the discretion of the trial court. TMs court will reverse an evidentiary ruling only when a clear abuse of discretion has occurred. Commonwealth v. Johnson, 536 Pa. 153, 638 A.2d 940 (1994); Commonwealth v. Foy, 531 Pa. 322, 612 A.2d 1349 (1992); Laubach v. Haigh, 433 Pa. 487, 252 A.2d 682 (1969). The trial court may exclude evidence wMch is merely cumulative of other evidence. Burch v. Sears, Roebuck and Company, 320 Pa.Super. 444, 467 A.2d 615 (1983).\nAlthough the testimony of the psychiatric experts did not come into the case in the manner in wMch the defense had planned, we cannot rule that the trial court committed a clear abuse of discretion in refusing to allow the defense to reopen its case to permit Dr. Woody to testify on direct. As Dr. Berman was offered by the defense to testify in Dr. Woody\u2019s absence, Dr. Berman covered in his testimony the information wMch, apparently, the defense had planned for Dr. Woody to cover. Once Dr. Woody was present in the courtroom, after the defense had rested its case, there was nothing in the defense\u2019s offer of proof for Dr. Woody\u2019s testimony wMch would have shown his proffered testimony would not be merely cumulative of Dr. Ber-man\u2019s testimony regarding the effects of cocaine ingestion on an individual\u2019s brain. We thus find no clear abuse of discretion on the part of the trial court in refusing to permit the defense to reopen its case-in-cMef so that Dr. Woody could be called on direct.\nNor can we conclude that the trial court erred in refusing to allow Dr. Woody to testify on surrebuttal of Dr. Cohn\u2019s toxicological testimony. A party may produce evidence to rebut testimony which he or she has elicited from an opponent\u2019s witness on cross-examination. Commonwealth v. Smith, 490 Pa. 380, 416 A.2d 986 (1980); Commonwealth v. Hickman, 453 Pa. 427, 309 A.2d 564 (1973). Admission of rebuttal evidence is a matter within the sound discretion of the trial court. Commonwealth v. Miller, 490 Pa. 457, 417 A.2d 128 (1980), cert. denied, 449 U.S. 1113, 101 S.Ct. 924, 66 L.Ed.2d 842 (1981).\nThe offer for Dr. Woody\u2019s surrebuttal testimony which Appellant made at trial did not go to testimony which was brought out upon the defense\u2019s cross-examination of the prosecution\u2019s witness, Dr. Cohn. Dr. Cohn was unable to testify on cross-examination about the DSM-4, as he is not involved in the psychiatric field; he was familiar with pharmacology literature on toxic psychosis. Dr. Woody\u2019s expert psychiatric testimony would have been cumulative to the testimony of Dr. Berman regarding the psychiatric diagnosis of toxic psychosis in an individual. We find no abuse of the trial court\u2019s discretion in refusing to allow Dr. Woody to testify on surrebuttal.\nAppellant next argues that the trial judge erred when he deviated from section 8.308B of the Pennsylvania Suggested Standard Jury Instructions in charging the jury with regard to his drug defense. Appellant challenges the trial judge\u2019s inclusion, at the Commonwealth\u2019s request and over the objection of the defense, of the following language in his instruction: \u201c[t]o negate the intent necessary for conviction of murder in the first degree, a defendant must have been overwhelmed or overpowered by drugs to the point of losing his faculties, so as to be incapable of forming a specific intent.\u201d Appellant asserts that this included language, which we have held to be appropriate in matters where alcohol or drug intoxication is alleged, should not have been used in the instant matter, where a drug-induced toxic psychosis was alleged.\nWhen evaluating jury instructions, this court has stated:\n[t]he charge must be read as a whole to determine whether it was fair or prejudicial. The trial court has broad discretion in phrasing its instructions, and may choose its wording so long as the law is clearly, adequately, and accurately presented to the jury for its consideration. Commonwealth v. Prosdocimo, 525 Pa. 147, 150, 578 A.2d 1273, 1274 (1990). Furthermore, this Court \u201cwill not review a charge to the jury by focusing on one or two words taken out of the context within which they were spoken.\u201d Commonwealth v. Stokes, 532 Pa. 242, 252, 615 A.2d 704, 709 (1992).\nCommonwealth v. Griffin, 537 Pa. 447, 460, 644 A.2d 1167, 1173-74 (1994).\nHere, the trial court instructed the jury:\n[T]he general rule is that a voluntary drug condition is not a defense to a criminal charge. Generally speaking, a person who voluntarily used drugs cannot become so drugged that he or she, for that reason, [is] legally incapable of committing a crime. The general rule is subject to a qualification when the crime charged is first degree murder. The defendant is permitted to claim as a defense that he was so drugged at the time of the killing that he did not possess the specific intent to kill required for first degree murder.\nEvidence of a drug condition as negating intent necessary for a conviction of murder in the first degree has been submitted for your consideration. You may believe any, all, or none of the testimony offered at this trial. To negate the intent necessary for conviction of murder in the first degree, a defendant must have been overwhelmed or overpowered by drugs to the point of losing his faculties, so as to be incapable of forming a specific intent.\nNow the Commonwealth has the burden of disproving this defense. That is to say you cannot find the defendant guilty of first degree murder unless you are satisfied beyond a reasonable doubt that the defendant, despite any drug condition, was at the time capable of forming and did, in fact, form a specific intent to kill Eileen Jones; that is, a willful, deliberate, and premeditated design to kill her. Voluntary drug condition may reduce a crime of murder from first degree to third degree; however, voluntary drug condition is never a defense to a charge of third degree murder.\n(N.T. 5/18/95, pp. 121-123)\nAs Appellant recognizes, this court has stated that evidence of intoxication or drug use does not of itself negate otherwise sufficient evidence of specific intent. Commonwealth v. Wilson, 543 Pa. 429, 672 A.2d 293 (1996)(citing Commonwealth v. Stoyko, 504 Pa. 455, 475 A.2d 714 (1984); cert. denied, 469 U.S. 963, 105 S.Ct. 361, 83 L.Ed.2d 297 (1984)). The trial judge\u2019s challenged instruction in this matter reflected our decision in Wilson regarding a voluntary drug condition. In Wilson, supra, the defendant argued that there was insufficient evidence to convict him of first degree murder because of testimony of witnesses that the defendant had spent the evening of the killing smoking cocaine, and, therefore, in his drug intoxicated condition, it was impossible for him to form a specific intent to kill. Citing Commonwealth v. Edmiston, 535 Pa. 210, 634 A.2d 1078 (1993), we stated in Wilson that, as with a defendant claiming use of alcohol prevented him from forming a specific intent to kill, a defendant claiming use of drugs must also show he was overwhelmed or overpowered by the drugs to the point of losing control over his or her faculties. See also Commonwealth v. Marshall 534 Pa. 488, 633 A.2d 1100 (1993). The defendant in Wilson faded to introduce any evidence that his drug use before the killing in that matter caused him to lose control of his faculties.\nAppellant argues that the language included by the trial judge here, regarding a defendant being overwhelmed or overpowered by the drugs to the point of losing control over his faculties, may be appropriate in cases of alcohol intoxication but is inappropriate for a cocaine-induced toxic psychosis because, as Dr. Berman testified, such a psychosis impairs an individual\u2019s ability to think rationally but is not physically manifested in the same manner as an individual appearing drunk. Appellant does not suggest how the charge we have approved for drug intoxication is insufficient, and utterly fails to show what different analysis should be employed, in a matter where a drug-induced psychosis is alleged. The jury heard Dr. Berman\u2019s testimony regarding the effects of his alleged cocaine-induced psychosis, and the instructions as given here provided the jury with the proper means of analyzing that testimony and then determining if the evidence was sufficient to reduce Appellant\u2019s culpability in this case from first to third degree murder.\nThe trial judge\u2019s jury charge was appropriate, given the fact that the jury had heard Dr. Berman\u2019s theory. We therefore find no abuse of the trial judge\u2019s discretion in including the language challenged by Appellant in his jury instruction.\nFinally, Appellant contends that the trial court erred when it overruled Appellant\u2019s objection to the manner of assembling the jury pool. Prior to trial, Appellant asserted, in a motion challenging the assembling of the jury pool in his ease, that the manner of assembling jury panels in Delaware County was constitutionally infirm in that the resulting pools failed to reflect a fair and representative cross-section of African-Americans in the community. At a hearing on this motion before the trial judge, Appellant introduced the record from two other capital cases, Commonwealth v. Gease, (Delaware County Common Pleas Court Criminal Division No. 94-902), and Commonwealth v. Craver, (Delaware County Common Pleas Court Criminal Division No. 93-1902), in which arguments alleging that underrepresentation of African-Americans results from Delaware County\u2019s jury selection system were raised. The trial court denied Appellant\u2019s motion.\nAppellant challenges this ruling, arguing that the procedure used by Delaware County to assemble its jury pools is constitutionally infirm, in that the resultant panels are not a fair cross section of the community at large, and, accordingly, that his rights under the Sixth Amendment of the United States Constitution have been violated. We recently explained in our opinion in Commonwealth v. Craver:\nIn order to establish a prima facie violation of the requirement that the jury array fairly represent the community, a defendant must show that: (1) the group allegedly excluded is a distinctive group in the community; (2) the representation of this group in venires from which juries are selected is not fair and reasonable in relation to the number of such people in the community; and (3) this underrepresentation is due to systematic exclusion of the group in the jury selection process. Duren v. Missouri, 439 U.S. 357, 99 S.Ct. 664, 58 L.Ed.2d 579 (1979) \u201cSystematic\u201d means caused by or inherent in the system by which juries were selected. Id. at 366-67, 99 S.Ct. at [669-70] 58 L.Ed.2d at 588.\nCraver, 547 Pa. 17, 688 A.2d 691, 696 (1997).\nAppellant asserts that the first prong of Duren is satisfied here because the African-American population of Delaware County is a distinctive and significant portion of the County\u2019s populace. As to the second prong of Duren, Appellant relies upon an informal survey conducted by the Public Defender\u2019s Office between August of 1994 and January of 1995 and upon testimony by Dr. John Lamberth, who testified in the Gease matter as an expert in jury selection or composition. Dr. Lamberth\u2019s testimony in Gease was based upon the results of a survey conducted by the Public Defender\u2019s Office between August 15, 1994 and September 27, 1994. Dr. Lamberth\u2019s testimony in Gease was that these survey results show that the average number of African-Americans in the jury pool in Delaware County is well below the percentage of African-Americans in the population of Delaware County at large. Moreover, as to the third prong of Duren, Appellant points to testimony by Dr. Lam-berth that Delaware County\u2019s use of voter registration lists, as supplemented by a list of licensed drivers within Delaware County, to assemble jury pools results in systematic exclusion of African-Americans from the pools. In further support of this argument, Appellant points to Dr. Lamberth\u2019s testimony that there is a low response rate to juiy summonses in Delaware County, with no effort by Delaware County to follow-up on failures to respond to summonses.\nIn Craver, we rejected the argument by the appellant therein that the jury venire summoning procedures in Delaware County systematically produce panels of prospective jurors on which African-Americans are underrepresented. The appellant in Craver based his attack on Delaware County\u2019s jury selection procedure upon an informal survey conducted by employees of the Delaware County Public Defender, as well as upon expert testimony of Dr. Lamberth. Dr. Lamberth testified in Craver that the summoning procedures used in Delaware County result in significant underrepresentation of African-Americans. Dr. Lamberth based his conclusion, in part, on the Public Defender\u2019s informal survey.\nWe agreed with the trial court in Craver that the Public Defender\u2019s informal study was inherently flawed and was entitled to little weight. We further agreed in Craver with the trial court\u2019s rejection of Dr. Lam-berth\u2019s expert testimony for a number of reasons, including Dr. Lamberth\u2019s reliance for his opinion on this flawed Public Defender\u2019s informal survey and his reliance on inaccurate and irrelevant statistics. We thus held in Craver that the appellant therein failed to show that the representation of African-Americans in Delaware County jury arrays is not fair and reasonable.\nAdditionally, the appellant in Craver argued that the underrepresentation of African-Americans in the jury array he alleged was due to the systematic exclusion of that group by Delaware County\u2019s jury selection process, which employs voter registration lists and lists of licensed drivers. Addressing this argument, we explained in Craver:\nIt is well settled that \u201ca criminal defendant may not attack the racial composition of jury panels drawn from voter registration lists on the theory that blacks are underrepresented in voter lists.\u201d Commonwealth v. Henry, 524 Pa. 135, 144-45, 569 A.2d 929, 933 (1990) (citations omitted). In Commonwealth v. Jones, 465 Pa. 473, 350 A.2d 862 (1976), this court upheld Delaware County\u2019s method of using voter registration lists to create its jury array. Since that time, the county\u2019s jury pool has been made more inclusive by adding to the pool lists of those holding driver\u2019s licenses, as permitted by 42 Pa.C.S. \u00a7 4521. The United States Supreme Court likewise requires a showing of actual discriminatory practice to prevail on this issue. \u201cDefendants are not entitled to a jury of any particular composition, but the jury wheels, pools of names, panels or venires from which juries are drawn must not systematically exclude distinctive groups in the community and thereby fail to be reasonably representative thereof.\u201d Taylor v. Louisiana, 419 U.S. 522, 538, 95 S.Ct. 692, 702, 42 L.Ed.2d 690, 703 (1975) (citations omitted; emphasis added).\nCraver, 688 A.2d at 696. In Craver, we held that the jury array was summoned by Delaware County in a manner consistently held by this court to be fair and constitutional, and the appellant therein had failed to prove any discriminatory practices.\nAs in Craver, the informal study by the Public Defender\u2019s Office and Dr. Lamberth\u2019s expert testimony based on the Public Defender\u2019s data were appropriately accorded little weight by the trial court in the instant matter. We hold that the trial judge in the present case properly concluded that Appellant did not establish that African-Americans are underrepresented in the jury pools in Delaware County. Moreover, Appellant\u2019s attack on the selection process employed by Delaware County goes to the use of voter registration lists and lists of licensed drivers, which we found to be fair and constitutional in Craver. We likewise agree with the trial court that there is no evidence in the record to suggest that a disproportionate number of African-American potential jurors fail to respond to the jury summonses. The trial court, thus, properly concluded that Appellant failed to establish any systematic exclusion of African-Americans in the jury selection process.\nPursuant to 42 Pa.C.S \u00a7 9711(h)(3), we have the duty to affirm the sentence of death unless we determine that:\n(i) the sentence of death was the product of passion, prejudice or any other arbitrary factor;\n(ii) the evidence fads to support the finding of at least one aggravating circumstance specified in subsection (d); or\n(in) the sentence of death is excessive or disproportionate to the penalty imposed in similar eases, considering both the circumstances of the crime and the character and record of the defendant.\nUpon conducting this review, we find that the sentence imposed was not the product of passion, prejudice or any other arbitrary factor. Evidence was presented at the sentencing hearing, in the form of a stipulated Commonwealth Exhibit, that Appellant had previously been convicted of voluntary manslaughter. This evidence was sufficient to establish the aggravating circumstance found by the jury. 42 Pa.C.S. \u00a7 9711(d)(12).\nAdditionally, we have reviewed the sentencing data compiled by the Administrative Office of the Pennsylvania Courts in accordance with the requirements of Commonwealth v. Frey, 504 Pa. 428, 475 A.2d 700 (1984), cert. denied, 469 U.S. 963, 105 S.Ct. 360, 83 L.Ed.2d 296 (1984), and have performed an independent review of the cases involving the sentence of death to determine whether Appellant\u2019s sentence of death was proportional to the sentences imposed in similar cases, taldng into consideration both the circumstances of the offense and character and record of Appellant. After conducting this review in the present appeal, we find the sentence imposed upon Appellant to be not excessive or disproportionate to the sentence imposed upon defendants in similar cases.\nAccordingly, we affirm the conviction and judgment of sentence imposed upon Appellant, Wayne A. Smith, by the Court of Common Pleas of Delaware County.\nJudgment of sentence affirmed.\nFLAHERTY, C.J., files a dissenting opinion in which ZAPPALA, J., joins.\n. 18 Pa.C.S. \u00a7 2502(a).\n. 42 Pa.C.S. \u00a7 9711(d)(12).\n. 42 Pa.C.S. \u00a7 9711(e)(2).\n. 42Pa.C.S. \u00a7 9711(e)(8).\n. 42 Pa.C.S. \u00a7 9711(e)(8).\n. See Pa.R.Crim.P. 360 and 1410. Rule 1410, as it presently exists, was adopted in 1993, and is effective as to cases in which the determination of guilt occurred on or after January 1, 1994. Appellant herein was found guilty on May 19, 1995; thus, new Rule 1410 is effective as to him. New Rule 1410 B(l)(c) provides:\nc) Issues raised before or during trial shall be deemed preserved for appeal whether or not the defendant elects to file a post-sentence motion on those issues. (Emphasis added.)\nAs Appellant herein proceeded under this subsection, any issue raised before or during trial is deemed preserved for appeal.\n. 42 Pa.C.S. \u00a7\u00a7 722(4), 9711(h).\n. Section 2502 of the Crimes Code, 18 Pa.C.S. \u00a7 2502, provides in pertinent part:\n\u00a7 2502. Murder.\n(a) Murder of the first degree.\u2014A criminal homicide constitutes murder of the first degree when it is committed by an intentional killing.\n(d) Definitions.\u2014As used in this section the following phrases shall have the meanings given to them in this subsection:\n\u201cIntentional killing.\u201d Killing by means of poison, or by lying in wait, or by any other kind of willful, deliberate and premeditated killing.\n. Section 308 of the Crimes Code, 18 Pa.C.S. \u00a7 308, provides: Neither voluntary intoxication nor voluntary drugged condition is a defense to a criminal charge, nor may evidence of such conditions be introduced to negative the element of intent of the offense, except that evidence of such intoxication or drugged condition of the defendant may be offered by the defendant whenever it is relevant to reduce murder from a higher degree to a lower degree of murder.\n. Our esteemed colleagues in the dissent conclude that Dr. Woody's testimony should have been allowed under the defense\u2019s offer of proof that Dr. Woody would testify as to the state of the scientific literature on toxic psychosis. They believe that Dr. Woody\u2019s testimony would have refuted Dr. Cohn\u2019s testimony, specifically his opinion relating to the relationship between dosage and toxic psychosis, and the ramifications of Appellant\u2019s ability to recall his physical and mental activity at the time of the killing with regard to whether he was suffering from toxic psychosis. The dissent stresses that Dr. Cohn was a toxicologist, and not a psychiatrist, such that the jury needed to hear testimony from a psychiatrist, Dr. Woody, to rebut the psychiatric aspects of Dr. Cohn\u2019s opinion. Moreover, the dissent points to a question from the jury, regarding whether Dr. Cohn testified that he believed that Appellant could have possibly suffered a toxic psychosis at the time of the killing, as indicating the jury\u2019s need to have surrebuttal testimony from Dr. Woody on these points.\nWe respectfully cannot agree with the dissenting opinion. It overlooks the facts that Dr. Berman testified on cross-examination that the scientific literature does not agree upon or determine a specific amount of cocaine which would be adequate to produce a toxic psychosis, and that there are no studies on which he, as a psychiatric expert, could render a judgment on how much cocaine would be required to induce a toxic psychosis. Dr. Berman\u2019s testimony on cross-examination also was clear that as a psychiatrist, his opinion that Appellant suffered from a toxic psychosis at the time of the killing was not affected by Appellant\u2019s ability to recall with clarity his physical and mental activities at the time of the killing, because he believed Appellant would have been unable to \u201cturn off\" his body\u2019s response to the effect of the cocaine on his system.\nThus, with all due deference, we cannot agree that \"the information which Dr. Woody should have been permitted to present in surrebuttal was crucial to appellant's defense and integral to the concerns of the jury reflected in the questions submitted during deliberations.\" (Dissenting Opinion, Op. at p. 1097) The record reflects that the jury heard expert psychiatric testimony from Dr. Berman on the issues of whether the scientific literature supports a correlation between cocaine levels and toxic psychosis, and whether Appellant\u2019s ability to recall his physical and mental actions was indicative in any way of the presence of toxic psychosis.\n.Appellant seems to assert by implication that the Pennsylvania Suggested Standard Jury Instructions contain the verbiage required for a proper jury charge. Once again, we emphasize that this court has never adopted the Pennsylvania Suggested Standard Jury Instructions, which exist only as a reference material available to assist the trial judge and trial counsel in preparing a proper charge. Accordingly, strict adherence or non-adherence to any of the suggested charges is not necessarily dispositive of the issue of whether the jury charge is legal and proper. See, e.g., Commonwealth v. Tilley, 528 Pa. 125, 595 A.2d 575 (1991).\n. This court\u2019s decision regarding the defendant\u2019s appeal of his judgment of sentence of death in Commonwealth v. Craver, No. 98 Capital Appeal Docket, was issued by this court on January 14, 1997. A direct appeal in Commonwealth v. Gease, No. 116 Capital Appeal Docket, which does not raise any issue regarding the jury selection process in Delaware County, is currently pending before this court.\n. Dr. Lamberth, a social psychologist who compiles statistical data on jury compositions, was retained by the Delaware County Public Defender to review the jury selection procedures in Delaware County.\n. The Prothonotary of the Supreme Court is directed to transmit, within ninety (90) days, the full and complete record of the case sub judice to the Governor of Pennsylvania. 42 Pa.C.S. \u00a7 9711(i).",
+        "type": "majority",
+        "author": "CAPPY, Justice."
+      },
+      {
+        "text": "FLAHERTY, Chief Justice,\ndissenting.\nI dissent. I believe it was reversible error to exclude the testimony of Dr. George Woody, appellant\u2019s psychiatric expert surre-buttal witness. The proffered testimony, while it would have overlapped other testimony, was not merely cumulative of other evidence. Furthermore, we cannot assume that the excluded testimony, if Dr. Woody had presented it to the jury, would not have led to a different verdict. Thus, I would reverse and remand for a new trial pursuant to 42 Pa.C.S. \u00a7 9711(h)(3)(i).\nDr. Berman, a psychiatrist, testified during the defense case-in-ehief, expressing his opinion that appellant suffered from toxic psychosis at the time of the crime, preventing him from forming a specific intent to kill. He also testified that toxic psychosis was not dosage-related.\nIn rebuttal, the prosecution presented Dr. Richard Cohn, an expert in the areas of forensic toxicology and pharmacology but not a medical doctor. Dr. Cohn stated, contrary to Dr. Berman, that toxic psychosis was in fact dosage-related, that chronic drug abuse would create a tolerance to the psychosis, and that, in Dr. Cohn\u2019s opinion, appellant was not acting under a toxic psychosis at the time of the murder. The latter opinion was based partly on Dr. Cohn\u2019s observation that appellant appeared to be quite capable in his physical and mental capabilities around the time of the crime.\nThe defense then proffered the testimony of Dr. Woody, another psychiatrist, in surre-buttal, representing: \u201c[T]he testimony that Dr. Woody will be presenting is almost, if not, entirely in response to testimony presented by Dr. [Cohn] in Commonwealth\u2019s rebuttal. So I think it is proper surrebuttal. He\u2019ll be commenting on Dr. [Cohn\u2019s] account of the state of scientific knowledge.\u201d N.T., 5/18/95, at 6.\nI believe it was erroneous to reject Dr. Woody\u2019s testimony when it was offered to rebut the testimony of Dr. Cohn. Dr. Cohn was not a psychiatrist but a forensic toxicologist. His expertise was in relating quantitative dosages of drugs and alcohol to their effects on the human body. Dr. Woody\u2019s testimony would have directly refuted Dr. Cohn\u2019s contention that a correlation exists between cocaine levels and toxic psychosis. Dr. Woody would also have testified that the psychotic disorder induced by cocaine would not manifest itself in any physical manner. This would have been a direct contradiction of Dr. Cohn\u2019s statement that appellant\u2019s lack of physical impairment was a basis for concluding that he did not suffer from toxic psychosis. Thus Dr. Woody, appellant\u2019s psychiatric expert, would have testified that the testimony of Dr. Cohn, the Commonwealth\u2019s expert, was arguably incorrect in terms of the state of scientific knowledge in the field.\nIt would have been proper surrebuttal to present the testimony of Dr. Woody in contradiction of Dr. Cohn\u2019s testimony. See Commonwealth v. Ragan, 538 Pa. 2, 21, 645 A.2d 811, 820 (1994); Hoffman v. Berwind-White Coal Mining Co., 265 Pa. 476, 485, 109 A. 234, 238 (1920); Remy v. Michael D\u2019s Carpet Outlets, 391 Pa.Super. 436, 443-44, 571 A.2d 446, 450 (1990).\nThe core issue during the guilt phase of the trial was whether appellant had formed the specific intent to murder the victim. The proffered testimony of Dr. Woody had a direct bearing on that issue. The significance of the issue was manifested by a question sent out by the jury during its deliberations: \u201cDid Dr. Cohn say a toxic psychosis could have been possible in Wayne Smith\u2019s case?\u201d The question struck directly to the heart of the issue of appellant\u2019s level of culpability in the murder. In this trial there was no dispute that toxic psychosis would negate the ability to form a specific intent to kill; the only debate was whether or not appellant was suffering toxic psychosis at the time of the killing. The information which Dr. Woody should have been permitted to present in surrebuttal was crucial to appellant\u2019s defense and integral to the concerns of the jury reflected in the question submitted during deliberations.\nI therefore conclude that the trial court committed reversible error when it refused to permit Dr. Woody to testify in surrebuttal during the guilt phase of appellant\u2019s trial. I would reverse the judgment of sentence and remand for a new trial.\nZAPPALA, J., joins this dissenting opinion.",
+        "type": "dissent",
+        "author": "FLAHERTY, Chief Justice,"
+      }
+    ],
+    "attorneys": [
+      "Raymond Roger Williams, Media, William E. Ruane, Lansdowne, for W. Smith.",
+      "William H. Ryan, Robert A Graci, Harrisburg, William R. Toal, III, Media, for Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Wayne A. SMITH, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 18, 1996.\nDecided May 20, 1997.\nRaymond Roger Williams, Media, William E. Ruane, Lansdowne, for W. Smith.\nWilliam H. Ryan, Robert A Graci, Harrisburg, William R. Toal, III, Media, for Commonwealth.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "1086-02",
+  "first_page_order": 1150,
+  "last_page_order": 1161
+}

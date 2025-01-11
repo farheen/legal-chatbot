@@ -1,0 +1,59 @@
+{
+  "id": 8176683,
+  "name": "William PIERCE, Petitioner v. PENNSYLVANIA SUPERIOR COURT, Respondent",
+  "name_abbreviation": "Pierce v. Pennsylvania Superior Court",
+  "decision_date": "2008-07-25",
+  "docket_number": "",
+  "first_page": "571",
+  "last_page": "572",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "954 A.2d 571"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 318,
+    "ocr_confidence": 0.647,
+    "sha256": "cd67247c67721bb1377211fa1fc1101fb4f3317955fb293fd291cc2ce5d94822",
+    "simhash": "1:79b3503eb3e048fe",
+    "word_count": 50
+  },
+  "last_updated": "2023-07-14T22:31:02.427709+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William PIERCE, Petitioner v. PENNSYLVANIA SUPERIOR COURT, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of July, 2008, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Prohibition and the Application for Stay are DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William PIERCE, Petitioner v. PENNSYLVANIA SUPERIOR COURT, Respondent.\nSupreme Court of Pennsylvania.\nJuly 25, 2008."
+  },
+  "file_name": "0571-03",
+  "first_page_order": 613,
+  "last_page_order": 614
+}

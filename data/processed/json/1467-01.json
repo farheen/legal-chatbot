@@ -1,0 +1,242 @@
+{
+  "id": 12165918,
+  "name": "In re Nathaniel B. Ornitz",
+  "name_abbreviation": "In re Ornitz",
+  "decision_date": "1965-06-24",
+  "docket_number": "No. 7296",
+  "first_page": "1467",
+  "last_page": "1472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1467"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 38"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "9 USPQ 307",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 F. 2d 835",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1828476,
+        6559734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/49/0835-01",
+        "/ccpa/18-2/1393-01"
+      ]
+    },
+    {
+      "cite": "18 CCPA 1393",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6559734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/1393-01"
+      ]
+    },
+    {
+      "cite": "319 F. 2d 225",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        157955,
+        6082798
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/319/0225-01",
+        "/ccpa/50-2/1529-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1529",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082798
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1529-01"
+      ]
+    },
+    {
+      "cite": "312 F. 2d 821",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        186016,
+        6080228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/312/0821-01",
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 990",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080228
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "245 F. 2d 467",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        404155,
+        6080435
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/245/0467-01",
+        "/ccpa/44-2/1024-01"
+      ]
+    },
+    {
+      "cite": "44 CCPA 1024",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080435
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/44-2/1024-01"
+      ]
+    },
+    {
+      "cite": "156 F. 2d 551",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082507,
+        1135109
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/33-2/1236-01",
+        "/f2d/156/0551-01"
+      ]
+    },
+    {
+      "cite": "33 CCPA 1236",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082507
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/33-2/1236-01"
+      ]
+    },
+    {
+      "cite": "166 F. 2d 825",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1202011
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/166/0825-01"
+      ]
+    },
+    {
+      "cite": "35 CCPA 1000",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080529
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/35-2/1000-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 667,
+    "char_count": 13339,
+    "ocr_confidence": 0.537,
+    "pagerank": {
+      "raw": 1.2659219451060717e-07,
+      "percentile": 0.613582683778089
+    },
+    "sha256": "4f3d520ed3e8de31457ac9cd0aceb8b295d2e2b70e70fd892357183d91feca77",
+    "simhash": "1:20cf62dc95ec76e9",
+    "word_count": 2284
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Nathaniel B. Ornitz"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Judge,\ndelivered the opinion of the court:\nThis appeal is from the decision of the Patent Office Board of Appeals affirming the rejection of claims 1, 3, 5-7, 9, 13, and 14, all claims remaining in application serial No. 827,364, filed July 15, 1959, for \u201cMetal Casting.\u201d\nThe appealed application is a continuation-in-part of application serial No, 610,776, filed September 19, 1956, which issued as patent No. 2,897,557, on Aug. 4, 1959, 20 days after the filing of the application at bar. The applicant named in the patent is the appellant here, the patent having issued to his assignee, Blaw-Knox Company.\nThe following references are relied on:\nEdgar, 1,916,042, June 27, 1933.\nOrnitz, 2,897,557, Aug. 4, 1959.\nBritish, 479,933, Feb. 8, 1938.\n\u201cThe Journal of the Acoustical Society of America,\u201d Vol. 26, No. 5, Sept. 1954, pages 831-842. Page 833 pertinent.\nAll claims stand rejected on Ornitz in view of Edgar, British, and the Journal on the ground of double patenting, it being the Patent Office view that the differences between what is claimed in the appealed claims and what is claimed in the patent are not patentable differences in view of the prior art references, Ornitz obviously not being classifiable as a prior art reference.\nClaims 1, 6, 7, and 9 stand rejected also as unpatentable over the prior art. The examiner rejected claims 1, 5, and 6 on Edgar alone but the board reversed this rejection of claim 5 and added claims 7 and 9 under this rejection saying, \u201cit would appear that the failure to reject claims 7 and 9 on the art used was inadvertent.\u201d The board also used British and the Journal in conjunction with Edgar, commenting, \u201cOur different use of the art and different reasons do not cause the preceding to be a new ground of rejection,\u201d citing In re Christensen, 35 CCPA 1000, 166 F. 2d 825, 77 USPQ 108, and In re Cowles, 33 CCPA 1236, 156 F. 2d 551, 70 USPQ 419. While we are of the opinion that neither of the cited cases supports the board\u2019s view that it was not making a new rejection, not only in adding two claims but in adding two references, we dismiss the matter with this observation for the reason that appellant has not argued it in his brief. We therefore consider the ultimate rejection to be as made by the board rather than as made by the examiner. These 4 claims differ from the remaining claims in that the latter call for a \u201cfusible\u201d vibrator, as hereinafter described, whereas claims 1, 6, 7, and 9 refer only to \u201celongated\u201d members.\nThe invention relates to the casting of molten metal and is directed to the reduction of segregation and the amount of dissolved gases and porosity. These objects are accomplished by vibrating the molten metal in the mold just prior to its solidification by cooling. Fig. 2 of appellant\u2019s application drawings is as follows:\nThe description reads:\nReferring to the drawings, I have illustrated a cone 10 of a metal having a composition which is compatible with that of the molten mass in which it is to be used. The metal cone is threaded at the base thereof onto a magnetic transducer 11 of conventional construction connected to a conventional power source for the production of vibrations. The cone 10 is inserted in the bath 12 of molten metal so that the tip 13 of the cone 10 is slightly above the bottom of the mold 14. I have obtained excellent results by subjecting the cone 10 to vibrations at frequencies of about 18,000 cycles per second. The cone is of dimensions such that vibrations are transmitted to the molten mass throughout its entirety. As the molten mass cools, the continuous vibration through the conical transmitter causes the homogeneous distribution of materials throughout the mass. As the solidus 15 forms in the mold, the cone is withdraion by raising the transfer assembly 11 and the cone so that the tip 13 of the cone is always in molten metal 1% above the advancing solidus. [Emphasis ours.]\nIn all substantial respects, the above drawing is the same as the principal drawing of the Ornitz issued patent. The objects stated in the patent are the same as those stated in the application. The specifications contain much common subject matter. The principal difference is that the patent describes the vibrator cone as being gradually fused in the molten metal because its melting point is such as to promote that result; in the application at bar the vibrator is described as being dispersible in the molten bath by fusion or completely insoluble and the step of gradually withdrawing the vibrator as the \u201csolidus\u201d rises is added. It is this difference, which is included in all claims, upon which appellant relies to patenta-bly distinguish the appealed claims from the claims of the patent. The following claims illustrate typical claims of the application and of the patent:\nClaim 3 on appeal:\n3. The method of forming homogenous cast metal structures comprising the steps of pouring molten metal into a mold, inserting a fusible member of substantially the same composition as the metal mass into said molten mass, subjecting the metal member to vibrations and withdrawing the vibrating member as the mass solidifies so that the immersed length of the member changes inversely with the increasing solidification of the mass and the member remains above the solidus of the mass.\nClaim 4 of Ornitz patent:\n4. The method of forming homogeneous cast metal structures comprising the steps of pouring molten metal into a mold, inserting a fusible member of substantially the same composition as the metal mass into said molten mass and subjecting the metal member to vibrations until at least a portion of the mass is solidified.\nAppellant\u2019s attack on the double patenting rejection is short and to the point. We can be equally brief. His first point is that his issued patent, having been copending with the present application, can be used only for a rejection on the ground of double patenting and that such a rejection can be made only if the patent and this application claim the same invention. This is a reasonable error to make if one misapprehends the scope of the term \u201cdouble patenting.\u201d Because appellant does misapprehend it, he falls into the further error or arguing that prior art cannot be used in combination with his patent claims to determine whether the differences between them and the claims on appeal are only such differences as would be obvious to one of ordinary skill in the art. All of these matters have been settled by several cases in this court, contrary the appellant\u2019s views, as for example In re Ockert, 44 CCPA 1024, 245 F. 2d 467, 114 USPQ 330, In re Simmons, 50 CCPA 990, 312 F. 2d 821, 136 USPQ 450, and others cases therein cited. We are unable to distinguish this case from Simmons and appellant has not attempted to do so.\nAppellant argues that because of the reliance on prior art, \u201cThis rejection is obviously a Section 103 rejection that is being disguised as a double patenting rejection.\u201d He then argues that section 103 requires determination of patentability on the basis only of \u201cprior art\u201d available to the art at the time the present invention was made, thus excluding the effect of his own patent which is not \u201cprior art.\u201d This is an attempt to inject the section 103 prerequisite to patentability into a situation to which it has no applicability for the question here is not whether he may have made a patentable invention but whether in issuing his patent with the claims it contains he has exhausted whatever right to a patent on his invention, or inventions, he may have had. The writer went into a very similar situation in considerable detail in a concurring opinion in In re Zickendraht, 50 CCPA 1529, 319 F. 2d 225, 138 USPQ 22, wherein it was said:\n\"Double patenting\u2019\u2019 is a loose phrase meaning many different things. In addition to the pure sense of meaning two patents claiming the same invention, it has also for a long time included a second patent claiming an invention which differs from an already patented invention only in some unpatentable particular. It is only in the latter sense that we have double patenting here; and in that sense it assumes the existence of a second invention which, however, is unpatentable over the invention previously patented.\n* * * * * * *\n* * * it is clear that it has been a firmly established rule in this court for over thirty years that when an applicant takes out a patent on one of two or more copending applications on closely related inventions, he shall not be allowed claims in the other applications except on subject matter which is patentably different from the subject matter claimed in his patent. See, as one early case, In re Slepian, 18 CCPA 1393, 49 F. 2d 835, 9 USPQ 307.\nAs has often been made clear in other cases above cited, in determining whether there is a patentable difference, prior art may be considered, just as it is considered on a simple section 103 or \u201cobviousness\u201d rejection. That fact does not, however, convert a double patenting rejection into a simple section 103 rejection so as to exclude consideration of patents issued on applicant\u2019s own copending applications. We can, therefore, properly consider the Edgar, British and Journal prior art references together with the claims of the Omits patent, as we have done throughout the patent jurisdiction of this court. In doing this, appellant not having made any distinction between the several appealed claims on the double patenting rejection, we have only to consider whether adding to the method of his patent claims the vibrator withdrawing step of his appealed claims results in defining a method which is patentably different from the patent claims in the sense of being unobvious to one of ordinary skill in view of the prior art.\nEdgar discloses an ingot-casting process wherein a rotating stirrer is lowered into molten metal to a point near the bottom of the molten mass and withdraw^ progressively as the metal solidifies. British discloses vibrating molten metal at frequencies comparable to those in appellant\u2019s method, one or more quartz rods being dipper vertically into the melt. It is not expressly stated how deeply the rods dip. but it is stated that they are withdrawn after about \u2154 of the melt has solidified. The Journal describes a molten metal vibrating process in which the vibrators dip into the top molten portion of a continuously cast ingot which is steadily or progressively lowered away from the vibrators as casting of molten metal and its vibration proceeds at the top. The relative motion between vibrator and ingot is the same as it is in appellant\u2019s process, so that there is the same \u201cwithdrawing\u201d step called for by the claims.\nIn view of this prior art, we think it would be entirely obvious to one skilled in this art and familiar with the process claimed in the Ornitz patent to add thereto, or to modify the same, by withdrawing the vibrator as the metal solidifies upwardly from the bottom of the mold instead of leaving it in the melt until it freezes therein.\nWith respect to certain minor claim differences in addition to the withdrawing step, the board adequately dealt with them and appellant has not mentioned them on appeal.\nFor the foregoing reasons we approve of the board\u2019s affirmance of the examiner\u2019s double patenting rejection \u201con the ground of lack of patentable difference * * *.\u201d This disposes of all appealed claims and we see no need to further consider the additional rejection of claims 1, 6, 7, and 9.\nThe decision of the board is affirmed.\nIt is not clear to us and it is not explained in the specification why it is necessary to withdraw the vibrator if it melts away by fusion in the molten metal. This is what happens according to the patent disclosure\u2014\u201ca slow and continuous distribution of the cone itself into the mass as it is fused by the molten metal.\u201d And further, \u201cthe central surface portion which is the last to solidify is subject to vibration until the complete solidification occurs and the cone is fused or immobilized.\u201d That is to say, what is left of the cone. If one does not want what is left of a fusible cone to freeze into the ingot, it would seem obvious to withdraw it before that happened. It is interesting to note that the application contains the following passage which, is identical with a passage in the issued patent except for the bracketed words :\n\u201cThere are, however, instances where vibration may be interrupted [and the member withdrawn] prior to complete solidification. For example, where a homogenous outer surface alone is desired, the vibration may be interrupted as soon as solidification has proceeded to the required surface depth. Where only the reduction of gases is desired, vibration may be interrupted as soon as tlie desired reduction in the amount of gases is attained.\u201d\nWe can think of only two ways to interrupt vibration : (1) turn off the vibrator power; (2) pull out the vibrator.",
+        "type": "majority",
+        "author": "Rich, Judge,"
+      }
+    ],
+    "attorneys": [
+      "William A. Smith, Jr., Eugene F. Buell for appellant.",
+      "Clarence W. Moore (George C. Roeming, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 586; 146 USPQ 38\nIn re Nathaniel B. Ornitz\n(No. 7296)\nUnited States Court of Customs and Patent Appeals,\nJune 24, 1965\nWilliam A. Smith, Jr., Eugene F. Buell for appellant.\nClarence W. Moore (George C. Roeming, of counsel) for the Commissioner of Patents.\n[Oral argument January 5, 1965 by Mr. Buell and Mr. Roeming]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1467-01",
+  "first_page_order": 791,
+  "last_page_order": 796
+}

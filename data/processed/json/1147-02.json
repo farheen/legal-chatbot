@@ -1,0 +1,76 @@
+{
+  "id": 7291426,
+  "name": "William GILLARD, Respondent v. AIG INSURANCE COMPANY and AIG and the Insurance Company of the State of Pennsylvania and Key Auto Insurance Plan and AIG Claims Services, Petitioner",
+  "name_abbreviation": "Gillard v. AIG Insurance Co.",
+  "decision_date": "2010-03-16",
+  "docket_number": "",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "924 A.2d 1259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8309553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/924/1259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 721,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18832603754118482
+    },
+    "sha256": "418b13274855bd2132f082841e8c7c8af0696267485aabca5675f40c2a30fb9d",
+    "simhash": "1:2b1ff7212672c69c",
+    "word_count": 108
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William GILLARD, Respondent v. AIG INSURANCE COMPANY and AIG and the Insurance Company of the State of Pennsylvania and Key Auto Insurance Plan and AIG Claims Services, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of March, 2010, the Petition for Allowance of Appeal is GRANTED. The issues, paraphrased for clarity, are:\na. Whether the attorney-client privilege applies to communications from the attorney to the client.\nb. Whether the Superior Court erred in holding the attorney-client privilege applies only to confidential communications from the client to the attorney, pursuant to Nationwide Mutual Insurance Company v. Fleming, 924 A.2d 1259 (Pa.Super.2007).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William GILLARD, Respondent v. AIG INSURANCE COMPANY and AIG and the Insurance Company of the State of Pennsylvania and Key Auto Insurance Plan and AIG Claims Services, Petitioner.\nSupreme Court of Pennsylvania.\nMarch 16, 2010."
+  },
+  "file_name": "1147-02",
+  "first_page_order": 1189,
+  "last_page_order": 1189
+}

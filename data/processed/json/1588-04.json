@@ -1,0 +1,59 @@
+{
+  "id": 6083031,
+  "name": "George M. Adams v. John W. Firth",
+  "name_abbreviation": "Adams v. Firth",
+  "decision_date": "1963-01-08",
+  "docket_number": "No. 7093",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "ocr_confidence": 0.509,
+    "sha256": "8e496ac3cab03b953ee58a7c52d35a0300737600007846061ee8cc82a33faee9",
+    "simhash": "1:c104b0d847280200",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George M. Adams v. John W. Firth"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in\nmethod for producing food casing.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "George M. Adams v. John W. Firth\n(No. 7093)."
+  },
+  "file_name": "1588-04",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

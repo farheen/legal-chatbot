@@ -1,0 +1,58 @@
+{
+  "id": 12485777,
+  "name": "Com. v. K. Ashford",
+  "name_abbreviation": "Com. v. Ashford",
+  "decision_date": "2016-02-02",
+  "docket_number": "NO. 1349 MDA 2015",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "61f18fc2513383ff9974826b6e74d42d2d7edd549a8bda4fef91153273270640",
+    "simhash": "1:bd16c62cb82b45d0",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Ashford"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Ashford\nNO. 1349 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 02, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0584-14",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

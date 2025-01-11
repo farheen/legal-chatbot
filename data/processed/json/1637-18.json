@@ -1,0 +1,59 @@
+{
+  "id": 6087540,
+  "name": "In re Wolfgang Henning, et al.",
+  "name_abbreviation": "In re Henning",
+  "decision_date": "1967-01-05",
+  "docket_number": "No. 7823",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "ocr_confidence": 0.466,
+    "sha256": "1556ef348366bdb831ef783e48d0db35d4ea60a87a781b4da6d57086391ca842",
+    "simhash": "1:486111c1f3164082",
+    "word_count": 20
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wolfgang Henning, et al."
+    ],
+    "opinions": [
+      {
+        "text": "'Semiconductor elements having homogeneous metal layers provided upon crystals.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 5, 1967\nNo. 7823.\nIn re Wolfgang Henning, et al."
+  },
+  "file_name": "1637-18",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

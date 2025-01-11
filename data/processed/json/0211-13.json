@@ -1,0 +1,58 @@
+{
+  "id": 12486775,
+  "name": "Com. v. J. Logsdon",
+  "name_abbreviation": "Com. v. Logsdon",
+  "decision_date": "2016-03-29",
+  "docket_number": "NO. 1251 WDA 2015",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "27c93e5a83db815d7e6b38887804df8b7db49afa30e3a26cb41d1a81205f20eb",
+    "simhash": "1:109b6c9150a604a4",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Logsdon"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Logsdon\nNO. 1251 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 29, 2016\nAffirmed."
+  },
+  "file_name": "0211-13",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

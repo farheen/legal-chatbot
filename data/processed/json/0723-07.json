@@ -1,0 +1,58 @@
+{
+  "id": 12487080,
+  "name": "Commonwealth v. Donald Crooks",
+  "name_abbreviation": "Commonwealth v. Crooks",
+  "decision_date": "2016-08-24",
+  "docket_number": "NO. 186 WAL (2016)",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "6d1032cd3445676923d34977dfec221573963a7c57ba98ace78df1f430c25b57",
+    "simhash": "1:7dac0137bae92bf4",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDonald Crooks"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDonald Crooks\nNO. 186 WAL (2016)\nSupreme Court of Pennsylvania\nAugust 24, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0723-07",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

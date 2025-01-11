@@ -1,0 +1,58 @@
+{
+  "id": 12485836,
+  "name": "Com. v. J. Abel",
+  "name_abbreviation": "Com. v. Abel",
+  "decision_date": "2016-02-08",
+  "docket_number": "NO. 2340 EDA 2015",
+  "first_page": "588",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "3e74931d39b9ca4f6f0fc2305f1c28225fbfc2c38ae45705836b460508a285ba",
+    "simhash": "1:3f0f5c9142e32fd5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Abel"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Abel\nNO. 2340 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 08, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0588-10",
+  "first_page_order": 588,
+  "last_page_order": 588
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488846,
+  "name": "IN RE H.P.",
+  "name_abbreviation": "In re H.P.",
+  "decision_date": "2016-10-07",
+  "docket_number": "16\u2013209",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "1e543918ef95c0e75dbc42493c76267de3df561800407bc93fe3478a6b929385",
+    "simhash": "1:f8218320aa426646",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE H.P."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE H.P.\n16-209\nSupreme Court of Vermont.\nOctober 7, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed, reversed."
+  },
+  "file_name": "0469-16",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

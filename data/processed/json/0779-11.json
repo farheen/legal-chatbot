@@ -1,0 +1,58 @@
+{
+  "id": 12487337,
+  "name": "Com. v. B. Arndt",
+  "name_abbreviation": "Com. v. Arndt",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 804 MDA 2015",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "bc7c050c0afa394e202220bcaa8107711a6489fed7f78bdfba3acc8290895ad4",
+    "simhash": "1:000b1700f2a91180",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Arndt"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Arndt\nNO. 804 MDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0779-11",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

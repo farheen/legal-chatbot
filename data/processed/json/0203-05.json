@@ -1,0 +1,58 @@
+{
+  "id": 12486659,
+  "name": "Com. v. D. Sparks",
+  "name_abbreviation": "Com. v. Sparks",
+  "decision_date": "2016-03-21",
+  "docket_number": "NO. 900 EDA 2015",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "83ef918bcf0f7226355e72c5bf42c2e96e5c4e541f6d2676eadc5b70f2d00228",
+    "simhash": "1:9d1576a9cf218ccd",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Sparks"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Sparks\nNO. 900 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 21, 2016\nAffirmed."
+  },
+  "file_name": "0203-05",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488703,
+  "name": "McGee v. Gonyo",
+  "name_abbreviation": "Mcgee v. Gonyo",
+  "decision_date": "2016-07-21",
+  "docket_number": "14-270",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 150,
+    "sha256": "cfb5095ac859ff061061b87b481dd1702c243bd814c93cd6534c892d697f6a1b",
+    "simhash": "1:dc11fb8aaa4ad244",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McGee\nv.\nGonyo"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "McGee\nv.\nGonyo\n14-270\nSupreme Court of Vermont.\nJuly 21, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReargument denied."
+  },
+  "file_name": "0343-10",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

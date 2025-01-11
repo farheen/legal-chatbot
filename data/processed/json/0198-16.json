@@ -1,0 +1,58 @@
+{
+  "id": 12486575,
+  "name": "Com. v. T. Lewis",
+  "name_abbreviation": "Com. v. Lewis",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 1361 MDA 2015",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "4a70b6d68f72fe8ab7a72f900036cf17bc82ce05a0d20043d0f4c5b5f3905643",
+    "simhash": "1:9010044090f80c92",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Lewis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Lewis\nNO. 1361 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-16",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

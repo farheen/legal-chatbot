@@ -1,0 +1,59 @@
+{
+  "id": 6092891,
+  "name": "In re Ralph R. Calaceto",
+  "name_abbreviation": "In re Calaceto",
+  "decision_date": "1967-11-14",
+  "docket_number": "No. 8264",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 79,
+    "ocr_confidence": 0.523,
+    "sha256": "388f837431c966d25e907d9aa996274c214af95f8e5797f64e1de7484732ce2b",
+    "simhash": "1:76d30783dfd82c7b",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ralph R. Calaceto"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Gas treatment apparatus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 14, 1967\nNo. 8264.\nIn re Ralph R. Calaceto"
+  },
+  "file_name": "1513-17",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

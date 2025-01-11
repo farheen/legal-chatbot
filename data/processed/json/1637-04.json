@@ -1,0 +1,59 @@
+{
+  "id": 6087250,
+  "name": "In re Wilbur L. Ivey",
+  "name_abbreviation": "In re Ivey",
+  "decision_date": "1966-10-17",
+  "docket_number": "No. 7849",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 67,
+    "ocr_confidence": 0.482,
+    "sha256": "07b9b7b0ed63070b7c001fde2484fc3bc2f919cf852ac8945f3d1bffc45e8c80",
+    "simhash": "1:00e356810a003d88",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wilbur L. Ivey"
+    ],
+    "opinions": [
+      {
+        "text": "Cleaner and press.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 17, 1966\nNo. 7849.\nIn re Wilbur L. Ivey"
+  },
+  "file_name": "1637-04",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

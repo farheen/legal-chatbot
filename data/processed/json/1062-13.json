@@ -1,0 +1,58 @@
+{
+  "id": 12490202,
+  "name": "MARTINI v. DOT",
+  "name_abbreviation": "Martini v. DOT",
+  "decision_date": "2017-02-14",
+  "docket_number": "969 CD 2016",
+  "first_page": "1062",
+  "last_page": "1062",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1062"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 126,
+    "sha256": "3977240074965e4b0ec4808bc05e6145f0f4f9464c943ffdfc448b61279ca5e1",
+    "simhash": "1:24a16a214b481558",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MARTINI\nv.\nDOT"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MARTINI\nv.\nDOT\n969 CD 2016\nCommonwealth Court of Pennsylvania.\nFebruary 14, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1062-13",
+  "first_page_order": 1062,
+  "last_page_order": 1062
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6087784,
+  "name": "In re Arthur A. Hellbaum",
+  "name_abbreviation": "In re Hellbaum",
+  "decision_date": "1967-05-12",
+  "docket_number": "No. 8010",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "ocr_confidence": 0.454,
+    "sha256": "3c467e121e927c483ff1d0898781734a71661dce3e1dcb26b8aebf603aeb6788",
+    "simhash": "1:5442841e8412670d",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Arthur A. Hellbaum"
+    ],
+    "opinions": [
+      {
+        "text": "Fluorinated Carbohydrates and use for same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 12, 1967\nNo. 8010.\nIn re Arthur A. Hellbaum"
+  },
+  "file_name": "1638-14",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

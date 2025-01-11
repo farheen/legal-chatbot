@@ -1,0 +1,962 @@
+{
+  "id": 12041131,
+  "name": "CEVERN, INC., Appellant, v. Robert FERBISH, et al., Appellees",
+  "name_abbreviation": "Cevern, Inc. v. Ferbish",
+  "decision_date": "1995-09-21",
+  "docket_number": "No. 93-CV-216",
+  "first_page": "17",
+  "last_page": "30",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "433 A.2d 1093",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8012035
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1101"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/433/1093-01"
+      ]
+    },
+    {
+      "cite": "271 A.2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8070983
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "416"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/271/0412-01"
+      ]
+    },
+    {
+      "cite": "483 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7932879
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "note 8"
+        },
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/483/0636-01"
+      ]
+    },
+    {
+      "cite": "210 A.2d 841",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8093699
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/210/0841-01"
+      ]
+    },
+    {
+      "cite": "281 A.2d 429",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8076346
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/281/0429-01"
+      ]
+    },
+    {
+      "cite": "74 Stat. 815",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 A.2d 250",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7905859
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "254",
+          "parenthetical": "home improvement contractor, not registered as a retail seller, who entered into retail installment contract"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/484/0250-01"
+      ]
+    },
+    {
+      "cite": "495 A.2d 746",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7918978
+      ],
+      "pin_cites": [
+        {
+          "page": "748"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/495/0746-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360527
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/623/0619-01"
+      ]
+    },
+    {
+      "cite": "257 A.2d 476",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8089620
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "477-78"
+        },
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/257/0476-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046798
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "528"
+        },
+        {
+          "page": "529"
+        },
+        {
+          "page": "529"
+        },
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/317/0526-01"
+      ]
+    },
+    {
+      "cite": "407 A.2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7990612
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1078"
+        },
+        {
+          "page": "1077-78"
+        },
+        {
+          "page": "1080"
+        },
+        {
+          "page": "1079",
+          "parenthetical": "where \"a contract [is] made in violation of a licensing statute that is designed to protect the public ... the party violating the statute cannot collect monies due on a quasi-contractual basis\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/407/1073-01"
+      ]
+    },
+    {
+      "cite": "452 A.2d 971",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991580
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "971-72",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/452/0971-01"
+      ]
+    },
+    {
+      "cite": "524 A.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879204
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/524/0722-01"
+      ]
+    },
+    {
+      "cite": "555 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7885369
+      ],
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/555/0460-01"
+      ]
+    },
+    {
+      "cite": "584 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7389158
+      ],
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/584/0597-01"
+      ]
+    },
+    {
+      "cite": "651 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12257327
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/651/0808-01"
+      ]
+    },
+    {
+      "cite": "604 A.2d 428",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7936728
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "429-30",
+          "parenthetical": "citations, internal quotation marks, and footnotes omitted"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/604/0428-01"
+      ]
+    },
+    {
+      "cite": "131 A.2d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "213 Md. 119",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2217335
+      ],
+      "year": 1957,
+      "opinion_index": 1,
+      "case_paths": [
+        "/md/213/0119-01"
+      ]
+    },
+    {
+      "cite": "59 A.2d 514",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8153942
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "516"
+        },
+        {
+          "page": "note 3"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/59/0514-01"
+      ]
+    },
+    {
+      "cite": "130 U.S. 505",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3537902
+      ],
+      "weight": 3,
+      "year": 1889,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/130/0505-01"
+      ]
+    },
+    {
+      "cite": "14 D.C. (3 Mackey) 506",
+      "category": "reporters:state",
+      "reporter": "D.C.",
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "512-514",
+          "parenthetical": "holding contract under which real estate broker purported to act as agent for both buyer and seller \"utterly void\" because \"immoral, contrary to public policy, [and] calculated to create a breach of faith\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "104 A.2d 830",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8133952
+      ],
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "831-32"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/104/0830-01"
+      ]
+    },
+    {
+      "cite": "193 A.2d 427",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8111593
+      ],
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/193/0427-01"
+      ]
+    },
+    {
+      "cite": "423 A.2d 932",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7947655
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/423/0932-01"
+      ]
+    },
+    {
+      "cite": "186 A.2d 227",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8109347
+      ],
+      "pin_cites": [
+        {
+          "page": "229"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/186/0227-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 301",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11930307
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "304, 307"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/657/0301-01"
+      ]
+    },
+    {
+      "cite": "587 A.2d 195",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11936060
+      ],
+      "pin_cites": [
+        {
+          "page": "203"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/587/0195-01"
+      ]
+    },
+    {
+      "cite": "646 A.2d 1001",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12054406
+      ],
+      "pin_cites": [
+        {
+          "page": "1004"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/646/1001-01"
+      ]
+    },
+    {
+      "cite": "655 A.2d 850",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7870733
+      ],
+      "pin_cites": [
+        {
+          "page": "857-58"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/655/0850-01"
+      ]
+    },
+    {
+      "cite": "565 A.2d 615",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7353026
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "618"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/565/0615-01"
+      ]
+    },
+    {
+      "cite": "237 A.2d 834",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8088984
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "837"
+        },
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/237/0834-01"
+      ]
+    },
+    {
+      "cite": "120 Daily Wash.L.Rptr. 2645",
+      "category": "reporters:state",
+      "reporter": "Daily Wash. L. Rptr.",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "2645"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "271 A.2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8070983
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "416"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/271/0412-01"
+      ]
+    },
+    {
+      "cite": "483 A.2d 636",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7932879
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/483/0636-01"
+      ]
+    },
+    {
+      "cite": "210 A.2d 841",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8093699
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/210/0841-01"
+      ]
+    },
+    {
+      "cite": "281 A.2d 429",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8076346
+      ],
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/281/0429-01"
+      ]
+    },
+    {
+      "cite": "74 Stat. 815",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "495 A.2d 746",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7918978
+      ],
+      "pin_cites": [
+        {
+          "page": "748"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/495/0746-01"
+      ]
+    },
+    {
+      "cite": "623 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7360527
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "621-22"
+        },
+        {
+          "page": "621",
+          "parenthetical": "\"This jurisdiction has held consistently that a contract entered in violation of a licensing statute or regulation directed at protecting the public is void and unenforceable.\""
+        },
+        {
+          "page": "622",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/623/0619-01"
+      ]
+    },
+    {
+      "cite": "257 A.2d 476",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8089620
+      ],
+      "weight": 7,
+      "pin_cites": [
+        {
+          "page": "478"
+        },
+        {
+          "page": "476"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "478"
+        },
+        {
+          "page": "477"
+        },
+        {
+          "page": "478"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/257/0476-01"
+      ]
+    },
+    {
+      "cite": "317 A.2d 526",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046798
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "527"
+        },
+        {
+          "page": "528"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/317/0526-01"
+      ]
+    },
+    {
+      "cite": "407 A.2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7990612
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1076"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/407/1073-01"
+      ]
+    },
+    {
+      "cite": "452 A.2d 971",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7991580
+      ],
+      "year": 1982,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/452/0971-01"
+      ]
+    },
+    {
+      "cite": "524 A.2d 722",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879204
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/524/0722-01"
+      ]
+    },
+    {
+      "cite": "555 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7885369
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "462"
+        },
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/555/0460-01"
+      ]
+    },
+    {
+      "cite": "584 A.2d 597",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7389158
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/584/0597-01"
+      ]
+    },
+    {
+      "cite": "651 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12257327
+      ],
+      "pin_cites": [
+        {
+          "page": "810"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/651/0808-01"
+      ]
+    },
+    {
+      "cite": "604 A.2d 428",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7936728
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "429"
+        },
+        {
+          "page": "429, 432"
+        },
+        {
+          "page": "430"
+        },
+        {
+          "page": "429, 432"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/604/0428-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1785,
+    "char_count": 54954,
+    "ocr_confidence": 0.757,
+    "pagerank": {
+      "raw": 2.2735913267137247e-07,
+      "percentile": 0.784041077298329
+    },
+    "sha256": "ee477fb49ac821a6f80aec3453c38f859989cf157608dd7d95e9667e56dbb88a",
+    "simhash": "1:3a7772be5fb9460c",
+    "word_count": 8815
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before TERRY, FARRELL and RUIZ, Associate Judges."
+    ],
+    "parties": [
+      "CEVERN, INC., Appellant, v. Robert FERBISH, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion for the court by Associate Judge FARRELL.\nDissenting opinion by Associate Judge RUIZ at p. 24.\nFARRELL, Associate Judge:\nOnce again we confront the situation of a home improvement contractor who accepted progress payments without having obtained the required license to perform work. Once again our decisions compel us to affirm the trial court\u2019s determination, under the applicable regulations, that the contractor thereby forfeited the right to recover for work performed on either a contract or a quantum meruit theory. Our dissenting colleague invites us down a path we have long since rejected of deciding whether substantial compliance or equitable notions may substitute for the strict obedience to licensing which the legislature has commanded. We decline the invitation.\nI.\nCevern, Inc., the appellant, brought an action to establish a mechanic\u2019s lien on the home of appellees Robert Ferbish and Viola Stanton. Cevern sought to recoup a balance of $10,295.61 it said was owed to it for work performed under a home improvement contract with Thelma Ferbish, also an appellee, who allegedly acted as the owners\u2019 agent. Appellees counterclaimed, alleging that they had expended $43,600 to correct Cevern\u2019s work.\nOn August 24, 1992, the scheduled date of trial, counsel for appellees orally moved for summary judgment, asserting that Cevern was not licensed at the time it entered into the home improvement contract. The trial judge granted the motion the next day on the ground that \u201c[Cevern] was not a licensed contractor at the time it received payment on the home improvement contract ..., notwithstanding the fact that [Cevern] subsequently received a valid license before the work was completed.\u201d The judge also rejected Ce-vern\u2019s claim for recovery in quasi-contract. At appellees\u2019 request, he dismissed without prejudice their counterclaim. On September 3, 1992, Cevern moved for reconsideration of the judgment, which the trial judge denied. Also, pursuant to a request in appellees\u2019 opposition, the judge entered judgment in their favor for $14,000, the amount counsel for appellees stated they had paid to Cevern. (To do so, the judge on his own motion reinstated the counterclaim and deemed it amended to demand restitution).\nIn the trial court, the parties stipulated orally to the following facts:\n(1) Cevern was bonded and insured as of August 8, 1990, as required by District of Columbia regulations;\n(2) Cevern applied for a home improvement contractor license on August 14, 1990;\n(3) The Department of Consumer and Regulatory Affairs approved all of the required certifications for Cevern\u2019s application on August 20, 1990;\n(4) On August 24, 1990, the investigator for the Department of Consumer and Regulatory Affairs certified that Cevern met all regulatory requirements;\n(5) Cevern and the appellees entered into a home improvement contract on August 27, 1990;\n(6) Cevern received a $7,000 advance payment from appellees on August 31, 1990;\n(7) Cevern paid its licensing fee and was issued its home improvement license on September 5,1990.\nCounsel for appellees further represented, and Cevern did not appear to dispute, that appellees paid Cevern an additional $7,000 after September 5, 1990.\nIn entering judgment for appellees for $14,000 in restitution, the trial judge declared that, under this court\u2019s decisions, \u201ca contract made in violation of a licensing statute that is designed to protect the public will usually be considered void and unenforceable, and the party violating the statute cannot collect monies due on a quasi-contraetual basis.\u201d Therefore, since Cevern accepted an advance payment from appellees on August 31, 1990, in violation of 16 DCMR \u00a7 800.1, it could recover neither in contract nor in quantum meruit. The fact that Cevern acquired a license before completing the contracted-for work, and before receiving the balance of payment therefor, did not avail it. The judge explained:\n[TJhe purpose of licensing statutes would be frustrated if recovery were permitted for work performed without a license.... [T]h[is] rationale equally applies to situations where the contract is entered before the issuance of a license, or where some of the preliminary work is done before a license is issued, and a balance of the work is completed after the license has is-sued_ [Sjuch a \u201cstraddle\u201d arrangement would also run afoul of the underlying rationale for the statutory and regulatory scheme in this area of the law.\nII.\nIn Capital Constr. Co. v. Plaza West Coop. Ass\u2019n, 604 A.2d 428 (D.C.1992) (per curiam), this court stated:\nIn the District of Columbia it is a principle of long standing that an illegal contract, made in violation of a statutory prohibition designed for police or regulatory purposes, is void and confers no right upon the wrongdoer. This rule applies to a breach of 16 DCMR \u00a7 800.1, a prohibitory regulation enacted to protect the pub-lie.... Therefore, we have oft held that receipt of payment by an unlicensed contractor before completion of the work under the contract violates the home improvement regulations and renders the contract void and unenforceable, even on a quasi-contractual basis.\nId. at 429-30 (citations, internal quotation marks, and footnotes omitted). Our decisions rejecting any deviation from this rule span more than a quarter-century. See Marzullo v. Molineaux, 651 A.2d 808, 809-10 & n. 3 (D.C.1994); Nixon v. Hansford, 584 A.2d 597, 598 (D.C.1991); Billes v. Bailey, 555 A.2d 460, 462 (D.C.1989); Woodruff v. McConkey, 524 A.2d 722, 724 n. 1 (D.C.1987); Erwin v. Craft, 452 A.2d 971, 971-72 (D.C. 1982) (per curiam); Truitt v. Miller, 407 A.2d 1073, 1078 (D.C.1979); Bathroom Design Inst. v. Parker, 317 A.2d 526, 528 (D.C.1974); Miller v. Peoples Contractors, Ltd., 257 A.2d 476, 477-78 (D.C.1969); cf. Saul v. Rowan Heating & Air Conditioning, Inc., 623 A.2d 619, 621 (D.C.1993) (unlicensed refrigeration and air conditioning contractor); Jackson v. Holder, 495 A.2d 746, 748 (D.C.1985) (unlicensed master plumber); Family Constr. v. District of Columbia Dep\u2019t of Consumer & Regulatory Affairs, 484 A.2d 250, 254 (D.C. 1984) (home improvement contractor, not registered as a retail seller, who entered into retail installment contract).\nIn some, even most, of these cases we have been met with the plea (usually by way of a petition for rehearing en banc) that the nullification of a contract effected by receipt of advance payments alone is harsh and disproportionate, resulting in a windfall to consumers who received good value for their money and then were allowed to keep the money anyway. Our response uniformly has been rejection of this appeal, primarily for two reasons: first, because compliance with the licensing requirement by a qualified contractor is a simple administrative matter; and second, because anything but an unyielding rule would put temptation in the way of unqualified (and unscrupulous) contractors and invite recurrence of the same abuses that underlay enactment of the regulatory scheme. See, e.g., Bathroom Design Inst., 317 A.2d at 529. In short, potential unfair applications of the rule at the margins have not persuaded us to sacrifice the benefits of a clear-cut, unmistakable requirement, with equally clear consequences for noncompliance, in this area of consumer protection.\nCevern nevertheless offers two reasons why we should relieve it of the consequences of the rule. First, Cevern argues that it \u201call but\u201d complied with the regulation by meeting every one of the requirements for licensure except the act of paying for and receiving the license. Second, Cevern eventually \u2014 indeed, shortly after being certified by the Department investigator \u2014 did obtain the license, and argues that denying it payment for work performed thereafter is a reductio ad absur-dum of the rule barring even quasi-contractual recovery. We reject both contentions.\nA.\nAs to the first, Cevern\u2019s position as one who had met the bonding, insurance and other requirements for licensing, but had not been licensed when it accepted advance payment, distinguishes it only in degree but not kind from others who have felt the full impact of the nullification (\u201cvoid[ance]\u201d) rule. In Capital Constr. Co., for example, the court required the contractor to disgorge progress payments accepted after its license had lapsed or expired before completion of the work. One assumes, since the contractor still possessed the license at most a few months before it accepted progress payments, that at the time it violated the regulation it was in compliance with some if not all of the other licensing requisites; yet this was unavailing. Similarly, in Saul v. Rowan Heating & Air Conditioning, Inc., supra, it was \u201cundisputed that [the contractor] had no license to engage in the regulated activity at the time the work was performed, even though it appears that it may have met at least the eligibility requirements set forth in 17 DCMR \u00a7 305.1 [governing refrigeration and air conditioning licensing].\u201d 628 A.2d at 621. Specifically, we held that \u201c[a]lthough its president had an individual Master Mechanic\u2019s license [thus satisfying a key requirement of the regulation], this could not excuse Rowan, Inc., the contracting party, from obtaining the required license before engaging in the business.\u201d Id. at 621-22. Accordingly, the contractor could not recover for work performed \u201con either a contract or a quantum meruit theory.\u201d Id. at 620. While Ce-vern may have come closer than these contractors to complying with the regulation, the fact is that it did not do so, and our decisions specify the consequence.\nWe do not accept our dissenting colleague\u2019s distinction between meeting \u201cthe regulatory prerequisites for a license\u201d and obtaining the license itself, which she terms a \u201cbare licensing ... requirement ]\u201d designed solely to raise revenue. If revenue-raising were the only purpose for issuance of the license as such, much the same end could be achieved by a tax or professional fee. To the contrary, common sense suggests the regulatory importance of the certificate of license itself as the final, formal evidence that the contractor has met the licensing requirements. Others, most particularly but not only the homeowner contracted with, should be able to look to it for simple and sufficient proof of qualification under the regulations, rather than having to inquire of agency officials whether the contractor has substantially (or even wholly) completed the certification process.\nFurther, even if we agreed that the ultimate step of paying a fee to receive the license is a revenue-raising measure, the purpose of the home improvement licensing requirements as a whole is clearly regulatory. In this regard, the Restatement (Second) of CONTRACTS \u00a7 181 (1979), upon which the dissent relies, states in part as follows:\nIn deciding whether a party can enforce an agreement in spite of his failure to [obtain a license, to register or to comply with a similar requirement], courts distinguish between requirements that have a regulatory purpose and those that do not. The policy behind a requirement that has a regulatory purpose may be regarded as sufficiently substantial to preclude\u2019enforcement, while the policy behind one that is merely designed to raise revenue will not be. In determining whether a measure has a regulatory purpose, a court will consider the entire legislative scheme, including any relevant declaration of purpose.\nRestatement (Second) of CONTRACTS \u00a7 181 cmt. b (emphasis added). Thus, we will not view the final step of obtaining the license in abstraction from the \u201centire legislative scheme\u201d of home improvement licensure, whose regulatory purpose is unmistakable. The Board of Commissioners of the District of Columbia issued the order antedating the home improvement regulations under authority delegated to it by, among other statutes, the Home Improvement Business Act of 1960, Pub.L. No. 86-715, 74 Stat. 815 (current version at D.C.Code \u00a7\u00a7 2-501 to - 507 (1994)). See Commissioners\u2019 Order No. 61-563, \u00a7 1; 5Y DCRR \u00a7 1; Gilliam v. Travelers Indem. Co., 281 A.2d 429, 429 n. 1 (D.C.1971). Congress passed the 1960 Act \u201cbecause of evidence before it of widespread victimization of District of Columbia homeowners by unscrupulous home improvement contractors.\u201d Bathroom Design Inst., 317 A.2d at 529; see also Capital Constr. Co., 604 A.2d at 430; Truitt, supra, 407 A.2d at 1077-78; Gilliam, 281 A.2d at 431. The regulations are a unified set of requirements to address this problem, culminating in the issuance of a license, as the Restatement itself recognizes in discussing a similar, hypothetical legislative scheme:\nA, an unlicensed plumber, agrees to repair plumbing in B\u2019s home, for which B promises to pay A $1,000. A state statute, enacted to prevent the public from being victimized by incompetent plumbers and to protect the public health, requires persons doing plumbing to be licensed on the basis of an examination, the posting of a bond, and the payment of a fee, and makes violation a crime. A does the agreed work. A court may decide that the public policy against enforcement of B\u2019s promise outweighs the interest in its enforcement, and that B\u2019s promise is unenforceable on grounds of public policy.\nRestatement (Second) of Contracts \u00a7 181 cmt. c, illus. 2 (emphasis added; citations omitted).\nThe dissent also contends that, where the D.C.Council or an agency to which the Council has delegated authority intends for a professional\u2019s unlicensed status to bar it from enforcing a contract, the Council or agency expressly so provides. We regard this argument as simply foreclosed by our past decisions. Moreover, Restatement (Second) of Contracts \u00a7 178 cmt. b (1979) itself states that \u201c[ojnly infrequently does legislation, on grounds of public policy, provide that a [promise or other term of an agreement] is unenforceable. When a court reaches that conclusion, it usually does so ... although it [the legislation] says nothing explicitly about unenforceability.\u201d In other words, the fact that the legislature did not address whether failure to obtain a license precludes maintaining an action on the contract creates no inference either way. If anything, the fact that \u201cthe Council of the District of Columbia has not seen fit to modify the [home improvement] statutes or regulations^] in light of our longstanding interpretation[ ] thereof\u2019 prohibiting such recovery, Marzullo, 651 A.2d at 810 n. 3, suggests that the Council approves this interpretation.\nB.\nAppellant\u2019s more sympathetic argument is that, even though acceptance of an advance payment rendered the contract void, Cevern should be able to recover on a theory of unjust enrichment for the work performed after it obtained the license, when its qualification to do the work could no longer be questioned. The court has not yet considered this variation on the theme that quantum meruit should relieve the contractor of at least part of the consequences of accepting payment without a license before completing the job. And rejecting appellant\u2019s argument does convey somewhat the sense of branding the contractor thereafter with the mark of its original sin. However, the court has been insistent that quantum meruit recovery for performance in return for a promise unenforceable on public policy grounds is forbidden. Accepting Cevern\u2019s argument would run directly across the grain of these decisions. Moreover, the trial court aptly described this as a \u201cstraddle\u201d argument by Cevern, a term that highlights the potential mischief of an exception that would let a contractor attempt to prove that the bulk (or a substantial portion) of the work was done on one side of the line rather than the other.\nThe dissent cites Hoffheins v. Heslop, 210 A.2d 841 (D.C.1965), and Thompson v. Wolfrey, supra note 8, 483 A.2d 636, as support for its view that one who, during contractual performance, obtains a home improvement license may recover quantum meruit for work performed after the licensure. But Hoffheins and Thompson each held only that a person who lacks a home improvement license on the date he enters into.a contract, but who accepts no advance payment, may enforce the contract. See Hoffheins, 210 A.2d at 843 (\u201c[The predecessor regulation of 16 DCMR \u00a7 800.1] do[es] not apply where the contractor finances himself during the progress of the work. The absence of a license is relevant only where the contractor requires or accepts payment in advance of full completion of the contracted work\u201d); Thompson, supra note 8, 483 A.2d at 637 (since the contractor did not require or accept an advance payment, the trial court correctly ruled that the predecessor regulation of 16 DCMR \u00a7 800.1 \u201cdid not bar [the] appellee[\u2019s] ... recovery of the balance due under the oral contract\u201d). The difference is between a contractor who never violates the regulation and one who, like Cevern, does so but later attempts to purge himself of the violation and so collect progress payments. That may be a harsh but it is not an unreasonable distinction.\nFinally, the dissent invokes two putative exceptions from the rule against quantum meruit recovery in this context. First, it points out analogously that in William J. Davis, Inc. v. Slade, 271 A.2d 412, 416 (D.C. 1970), the court held that a landlord whose contract with a tenant is void because of violations of the housing regulations may still recover the reasonable value of the occupation of the premises. But the relation between Cevern and appellees is that of contractor and customer, not landlord and tenant; and Cevern violated the regulations governing home improvement work, not the housing regulations. This court has never applied Davis beyond the context of the housing code, and \u2014 given our consistent denial of recovery for quantum meruit to unlicensed contractors \u2014 we are unpersuaded to do so here.\nThe dissent also believes the general rule should not apply where \u201cdenial of restitution would cause a disproportionate forfeiture.\u201d Post at 28 (citing Restatement (Second) of Contracts \u00a7 197). The $24,295.61 which Ce-vern asserts it is being denied for the reasonable value of its services is no doubt a substantial sum, but the court has held that denial of $60,000 to a contractor \u201cis not, as a matter of law, too severe\u201d for the contractor\u2019s failure to obtain a license as in this case. Truitt, 407 A.2d at 1080. And the dissent concedes that even under its disproportionality theory Cevern could recover only the still smaller sum (smaller than $24,295.61) attributable to its work after September 5, 1990. Whatever the remaining harshness of the result dictated by our decisions, \u201cwe have determined that it effectuates the statutory purpose of \u2018protecting homeowners from fraudulent and unscrupulous practices in the home improvement industry.\u2019 \u201d Marzullo, 651 A.2d at 810 n. 3 (quoting Capital Constr. Co., supra, 604 A.2d at 430). Here, we are convinced, letting hard facts induce relaxation of the forfeiture rule would simply be to make bad law.\nThe judgment of the Superior Court is\nAffirmed.\n1. An advance payment is a \"payment ... in advance of the full completion of all work required to be performed under the contract ...\u201d 16 DCMR \u00a7 800.1 (1993).\n2. See 16 DCMR \u00a7 800.2 (\"The fee for a license as a home improvement contractor or home improvement salesperson shall be as that prescribed in the District license fee schedule approved by the Mayor\u201d).\n3. The parties disputed the extent of work performed prior to September 5. Cevern contended that it merely dug a ditch for some footings which later had to be changed due to the fault of the appellees; appellees maintained that Cevern erected a wall.\n.16 DCMR \u00a7 800.1 provides:\nNo person shall require or accept any payment for a home improvement contract in advance of the full completion of all work required to be performed under the contract, unless that person is licensed as a home improvement contractor or as a licensed salesperson employed by a licensed contractor in accordance with the provisions of this chapter.\n. The dissent reminds us that our task is \"not to lay down unyielding rules but to decide individual cases on their own merits.\" Post at 24. Of course we decide only the case before us, but given the rule established by our past decisions, we are not justified in sleuthing out tiny distinctions between cases to avoid a result we find unpalatable.\n. The contractor\u2019s license expired on December 31, 1988, and it continued to perform renovations until May or June of 1989, receiving progress payments in the meantime. See Capital Constr. Co., 604 A.2d at 429, 430 n. 3.\n7. Comment a to Restatement (Second) of Contracts \u00a7 178 points out that \u201c[t]he term 'legislation\u2019 is used here in the broadest sense to include any fixed text enacted by a body with authority to promulgate rules, including not only statutes, but constitutions and local ordinances, as well as administrative regulations issued pursuant to them.\u201d\n. This order was Commissioners\u2019 Order No. 61-563, 7 D.C.Reg. 225 (1961), reprinted in 5Y DCRR \u00a7\u00a7 1.1-4.15 (1970). See Thompson v. Wolfrey, 483 A.2d 636, 636 n. 1 (D.C.1984).\n. \"Complaints about this industry ranked second among all complaints filed with Better Business Bureaus throughout the country and the National Better Business Bureau estimated that fraudulent practices in the industry cost consumers from 500 million to 1 billion dollars annually.\u201d Bathroom Design Inst., 317 A.2d at 529 n. 8.\n. See Mantillo, 651 A.2d at 810 n. 3 (where an \"unlicensed contractor[ ] ... vio!ate[s] the regulations by accepting payment before the completion of a construction project,\" \"[ajny moneys paid may be recovered from the contractor, and no quantum meruit may be awarded\u201d); Truitt, 407 A.2d at 1079 (where \"a contract [is] made in violation of a licensing statute that is designed to protect the public ... the party violating the statute cannot collect monies due on a quasi-contractual basis\u201d); Bathroom Design Inst., 317 A.2d at 528 (\"[B]ecause the work was performed in contravention of [the predecessor regulation of 16 DCMR \u00a7 800.1, which was] designed for regulatory purposes in exercise of the police power, there was no equitable base upon which quasi-contractual recovery could be predicated\"); Miller, 257 A.2d at 478 (\"[S]ince ... appellee violated the [predecessor regulation of 16 DCMR \u00a7 800.1,] which w[as] designed for police or regulatory purposes,\" it \"cannot sue in quasi-contract for the value of its services\u201d).\n. See also Restatement (Second) of Contracts \u00a7 197 cmt. a (1979) (\"In general, if a court will not, on grounds of public policy, aid a promisee by enforcing the promise, it will not aid him by granting him restitution for performance that he has rendered in return for the unenforceable promise\u201d).\n. Here, as pointed out, supra note 3, the parties dispute how much work Cevern performed before September 5.\n. Cevern makes the procedural argument that the trial court entered summary judgment in violation of the ten-day notice provision of Super.Ct.Civ.R. 56(c) (1995). Even if this is so, in Tompkins v. Washington Hosp. Ctr., 433 A.2d 1093 (D.C.1981), we allowed for \u201csparing!] and careful[]\u201d application of harmless error analysis to such violations. Id. at 1101. Here Cevern has never contended that it was unable to introduce by stipulation all of the relevant facts. As it has not shown prejudice to its substantial rights, we may not reverse on this ground. D.C.Code \u00a7 11 \u2014 721 (e) (1995). For the same reason, we reject the argument that the untimeliness of ap-pellees' motion for summary judgment (filed well after the deadline established by the trial court for dispositive motions) precluded entry of summary judgment.",
+        "type": "majority",
+        "author": "FARRELL, Associate Judge:"
+      },
+      {
+        "text": "RUIZ, Associate Judge,\ndissenting:\nIt is undisputed that at the time Cevern and the homeowners entered into their contract and Cevern accepted an advance payment, Cevern had done everything necessary to obtain its home improvement contractor\u2019s license, except pay the requisite fee. Most of the work Cevern performed was done after it had obtained its license. Nevertheless, in the name of an \u201cunyielding rule\u201d of its own making, the majority holds that Cevern is entitled to nothing for the effort and resources it expended in performing the contract, even for work performed after it was licensed. To my mind, that unyielding rule not only leads to an unjust result in this case, but also is unnecessary to accomplish the regulatory purposes of the licensing requirement. I believe our job is not to lay down unyielding rules but to decide individual eases on their own merits. Therefore, I respectfully dissent.\nI can perceive no consumer protection interest to justify the forfeiture imposed by the majority. On the other hand, I can see a real interest to be protected on the side of the home improvement contractor in this case which, like many other such contractors, is a small business. To make one suffer a forfeiture in a particular case in the name of some theoretical protection for other consumers is precisely the sort of rigidity that gives government regulation a bad name. If the express language of the controlling statute or regulations, or our prior case law, required such result, our hands would be tied. But, notwithstanding the majority\u2019s assertion to the contrary, that is not the case here. Neither the applicable legislation nor prior case law compel the majority\u2019s result. Based on the record before us, I would allow Cevern to assert a claim under its contract with the homeowners or for restitution of the value of the benefit it conferred on them.\nI.\nThe majority agrees with the trial court\u2019s grant of summary judgment against Cevern, the home improvement contractor, because the trial court concluded that a \u201cstrict and absolute \u201d approach to the question of voidness was mandated by Miller v. Peoples Contractors, Ltd., 257 A.2d 476, 478 (D.C.1969), and its progeny. Cevern, Inc. v. Ferbish, 120 Daily Wash.L.Rptr. 2645, 2645 (D.C.Super.Ct. Nov. 18, 1992). I do not believe that we are so compelled. In Miller and subsequent cases, this court has held that an unlicensed home improvement contractor who accepts an advance payment on a contract in violation of 16 D.C.M.R. \u00a7 800.1 (1993) or its predecessor provisions cannot recover under the contract or in quasi-contract. See Capital Constr. Co. v. Plaza West Coop. Assn., 604 A.2d 428 (D.C.1992); Nixon v. Hansford, 584 A.2d 597 (D.C.1991); Billes v. Bailey, 555 A.2d 460 (D.C.1989); Woodruff v. McConkey, 524 A.2d 722 (D.C.1987); Erwin v. Craft, 452 A.2d 971 (D.C.1982); Truitt v. Miller, 407 A.2d 1073 (D.C.1979); Bathroom Design Inst. v. Parker, 317 A.2d 526 (D.C. 1974). The \u201cexposure of unlicensed contractors [that the rule creates] discourages unlicensed work and thereby protects the consumer.\u201d Billes, supra, 555 A.2d at 462.\nIn Miller, the contractor had applied for and been denied a license. 257 A.2d at 476. The contractor had also accepted a $3000 payment from the homeowner before it had completed the work. Id. at 477. The court held that \u201cthe Regulations \u2018 \u201cimply a prohibition\u201d so as \u201cto render the prohibited act void\u201d \u2019 \u201d and that consequently the contract must be declared void and unenforceable. Id. at 478 (quoting Brown v. Southall Realty Co., 237 A.2d 834, 837 (D.C.1968) (internal quotation omitted)). This court further found that the contractor \u201cviolated the Regulations which were designed for police or regulatory purposes. Therefore, it cannot sue in quasi-contract for the value of its services.\u201d Id. Similarly, this court has denied recovery for unlicensed work in actions by plumbers, Jackson v. Holder, 495 A.2d 746, 748 (D.C.1985), and refrigeration and air-conditioning mechanics. Saul v. Rowan Heating & Air Conditioning, 623 A.2d 619, 621-22 (D.C.1993).\nCevern\u2019s situation is distinguishable from Miller and its progeny, all of which involved contractors who accepted progress payments and then performed work without a license. In the instant ease, Cevern had done all that was necessary to qualify for the requisite license, except pay the licensing fee, before it entered into the contract and received any advance payments. Within ten days, Cevern had paid the fee and obtained the license. Cevern performed the bulk of the work called for by the contract after it had been issued the license.\nI believe those are distinctions with a difference. Therefore, I would hold that Ce-vern\u2019s contract is not void under our prior decisions as being entered into without the requisite license. Furthermore, even were the contract void, in light of the disproportionate forfeiture Cevern would suffer as the result of merely failing to pay the license fee, I believe that Cevern should be entitled to seek restitution for the work it performed.\nII.\nSince I do not read our decisions as precluding Cevern from recovering on the contract, I would follow the approach of the Second Restatement of Contracts, which is consistent with our decisions. Cf. Ellis v. James V. Hurson Assocs., 565 A.2d 615, 618 (D.C.1989) (following the Restatement of Contracts in the absence of \u201cany current well-developed doctrine in our jurisdiction\u201d). The restatement states a general rule regarding the unenforceability of contracts on grounds of public policy:\n(1) A promise or other term of an agreement is unenforceable on grounds of public policy if legislation provides that it is unenforceable or the interest in its enforcement is clearly outweighed by a public policy against the enforcement of such terms.\n(2) In weighing the interest in the enforcement of a term, account is taken of\n(a) the parties\u2019 justified expectations,\n(b) any forfeiture that would result if enforcement were denied, and\n(c) any special public interest in the enforcement of the particular term.\n(3) In weighing the public policy against enforcement of a term, account is taken of\n(a) the strength of that policy as manifested by legislation or judicial decisions,\n(b) the likelihood that a refusal to enforce the term will further that policy,\n(c) the seriousness of any misconduct involved and the extent to which it was deliberate, and\n(d)the directness of the connection between that misconduct and the term.\nRestatement (Second) of ContRacts \u00a7 178 (1979).\nUnder the Restatement approach, only if the license requirement has a regulatory purpose does the absence of a license make a promise unenforceable. Id., \u00a7 181 & cmt. b; see also Dunn, supra note 3,104 A.2d at 831-32 (holding statute that prohibited use of title of \u201carchitect\u201d without license, but not the practice of architecture, not regulatory because it does not protect the public; therefore person using title without license was not barred from recovery under contract for architectural services); cf., e.g., Saul, supra, 623 A.2d at 621 (\u201cThis jurisdiction has held consistently that a contract entered in violation of a licensing statute or regulation directed at protecting the public is void and unenforceable.\u201d) (emphasis added). In particular, a license requirement that is designed to raise revenue does not preclude enforcement of an agreement made by one who has failed to pay for a required license. Restatement (Second) of Contracts \u00a7 181 illus. 1; cf. Dunn, supra note 3, 104 A.2d at 831.\nThe home improvement regulations implement the Home Improvement Business Bonding Act, Pub.L. No. 86-716, 74 Stat. 815 (Sept. 6, 1960), D.C.Code \u00a7\u00a7 2-501 to -507 (1994). In Gilliam v. Travelers Indemnity Co., 281 A.2d 429, 431 (D.C.1971), we observed that the Act was adopted \u201cbecause of a growing pattern of complaints from homeowners in the District who had been victimized by unscrupulous home improvement contractors.\u201d Thus, the Act and the regulations should be given such effect as is necessary to provide protection for homeowners from such unscrupulous contractors.\nThe home improvement regulations do not by their terms require that contracts entered into without a license be deemed void in their entirety. The majority contends that our prior decisions prevent us from even considering the fact that there is no express provision in the regulations barring recovery. Ante at 23. I disagree. Murphy, supra note 3, which predates the Miller line of cases, makes highly relevant the fact that the home improvement regulations expressly void only contract provisions that are contrary to the regulations, but do not provide for voiding an entire contract:\nIt should be noted that [one section of the statute regulating real estate brokers] expressly requires that a broker suing for a commission must allege and prove that he was duly licensed. There is a great difference between [that section, and another relied upon by the defendant to bar the broker\u2019s action for a commission]. One, which covers licenses, prescribes punitive measures which may be invoked by the Real Estate Commission, and also bars a suit for commission by the broker unless he alleges and proves that he was duly licensed. The other, with which we are here concerned, sets out sixteen acts (including offering property for sale without the written consent of the owner) which shall constitute grounds for suspension or revocation of a license. The section says no more than that. It does not say that a broker who offers property for sale without the owner\u2019s written consent shall lose his right to a commission. We think we have no right to read such additional punitive provision into the section.\n59 A.2d at 516.\nI also do not agree with the majority\u2019s reliance on legislative inaction since Miller, ante at 22. Our past decisions never dealt with a case such as this in which the consumer protection purpose of the statute had been fully satisfied. There is no reason for the Council to have undertaken to legislate in anticipation of today\u2019s opinion.\nIn the present case, the parties stipulated that Cevern had met the regulatory prerequisites for a license before it entered into the home improvement contract. Therefore, it was conceded that at all material times, Ce-vern was bonded in the amount of $5000, had liability insurance in the amount of $50,000 for personal injury and $10,000 for property damage, had authorized the Mayor to serve as its agent for service of process, and had been determined by the Department of Consumer and Regulatory Affairs to be trustworthy. 16 D.C.M.R. \u00a7\u00a7 802, 803, 804.1, 801.2, 805, 813.2 (1993). In short, Cevern had fully satisfied the requirements adopted by Congress in the Home Improvement Business Bonding Act and by the District in regulations promulgated to protect homeowners. The only requirement not met by Cevern at the time it entered into the contract and accepted the advance payment was the license fee requirement \u2014 and that was accomplished a few days later. Hence, unlike our prior decisions, there is no regulatory policy purpose to be served in declaring the contract void and denying Cevern the benefit of its bargain.\nThis result would not leave the public without a remedy for Cevern\u2019s failure to pay the required licensing fee. The Act and the regulations provide criminal and civil penalties for any infraction of the regulations. 16 D.C.M.R. \u00a7\u00a7 800.6, 800.7 (1993). This court should not imply a private remedy for nonpayment of the fee, by declaring the contract void, in the name of furthering a regulatory purpose where the regulations expressly provide other avenues for enforcement. See Twyman v. Johnson, 655 A.2d 850, 857-58 (D.C.1995) (declining to imply private cause of action for retaliation by a landlord prohibited by the Rental Housing Act); Albertie v. Louis & Alexander Corp., 646 A.2d 1001, 1004 (D.C.1994) (declining to imply private cause of action for injury caused by proprietor\u2019s violation of statute requiring abutting landowners to remove snow from sidewalks). This principle is particularly applicable in the present case, where the homeowners were in no way harmed by Cevern\u2019s failure to pay timely the licensing fee and would gain a windfall, while Cevern would suffer a substantial forfeiture.\nThis court does not lightly infer a forfeiture for failure to comply with licensing requirements. See Beard v. Goodyear Tire & Rubber Co., 587 A.2d 195, 203 (D.C.1991). In similar contexts, the legislature has specifically provided that there shall be no forfeiture for failure to comply with such bare licensing or registration requirements. See, e.g., D.C.Code \u00a7 29-397 (1991) (providing that corporation shall not lose any right of action solely because of its dissolution, regardless of cause, including failure to pay franchise tax); D.C.Code \u00a7 29-399.20(b) (1991) (providing that a foreign corporation\u2019s failure to obtain certificate of authority to do business in the District of Columbia shall not impair the validity of any contract of the corporation). On the other hand, the legislature has specifically required that a real estate broker plead licensure as a prerequisite to bringing an action for compensation arising from performance of professional activities. D.C.Code \u00a7 45-1926(c) (1990); RDP Dev. Corp. v. Schwartz, 657 A.2d 301, 304, 307 (D.C.1995). In the case of home improvement contractors, the legislature has not expressed a definite preference regarding the appropriate treatment of the contracts of one who fails to pay a licensing fee. I think that a specific provision requiring a forfeiture should be required where the violation relates solely to government revenue or fees. Because the home improvements regulations do not prescribe any forfeiture for the failure to comply with the District\u2019s fee'requirements, I would not imply one.\nIII.\nI agree with the majority\u2019s acknowledgment that whether Cevern is entitled to restitution is a question of first impression. Ante at 22. Unlike the majority, however, I would hold that even were the contract void, on the record before us Cevern is not barred from seeking restitution for the benefit it conferred on the homeowners while it was licensed. Although the general rule is that restitution is unavailable where a contract is void because of a violation of public policy, there is an exception where the denial of restitution would cause a disproportionate forfeiture. Restatement (Second) of Contracts \u00a7 197 (1979). As explained in the comment to section 197, \u201cthe rule [denying restitution] is subject to [an] exception ... in favor of a party who would otherwise suffer a forfeiture that is disproportionate to the contravention of public policy involved.\u201d Id. cmt. b. The holdings in Miller, supra, and its progeny are not to the contrary. Although the opinion in Miller is not crystal clear, it appears that the public policy invoked by the court in denying quasi-contract recovery was the failure to have a license while performing the work, not only the acceptance of an advance payment. The court recited the regulatory requirements of the act, 257 A.2d at 477, and made its holding after a discussion of the confused nature of the evidence regarding the content of the contracts and the amount and quality of work done. Id. at 478. In reaching its holding, the court relied on a case involving a claim for work performed without a regulatory license. Id. (citing Kirschner v. Klavik, 186 A.2d 227, 229 (D.C.1962) (applying Maryland law)). But see Highpoint Townhouses, Inc. v. Rapp, 423 A.2d 932, 935 n. 4 (D.C.1980) (\u201cThe home improvement cases concern regulations that explicitly prohibit advance payment to an unlicensed contractor.\u201d). Miller should be read consistent with a prior opinion of this court, Hoffheins v. Heslop, 210 A.2d 841 (D.C.1965), in which we held that where an unlicensed contractor did not accept advance payments under a home improvement contract, the contractor was entitled to recover. Read together, Hoffheins and Miller stand for the proposition that the threat to the public justifying a forfeiture comes from those contractors who first take the homeowner\u2019s money and then proceed to perform work without a license \u2014 the situation in Miller. On the other hand, a contractor who performs without a license, but also without advance payment \u2014 the situation in Hoffheins \u2014 cannot walk away with the homeowner\u2019s money after inadequate performance. Similarly, a contractor who performs while licensed can, by the virtue of the bonding and responsibility requirements, be trusted to perform adequately, despite having received an advance payment prior to licen-sure \u2014 the situation here. If the unlicensed contractor in Hoffheins could recover under a contract for work performed without a license, it makes little sense to bar a licensed contractor from recovering the value of a benefit it conferred while licensed. Thus, it is only the contractor who while unlicensed both receives an advance payment and performs who is barred from recovering restitution for the benefit it conferred while not licensed. See Billes, supra, 555 A.2d at 462.\nThe holding in William J. Davis, Inc. v. Slade, 271 A.2d 412 (D.C.1970), supports that view. William J. Davis, Inc. holds that where a lease agreement is void under Brown v. Southall Realty Co., 237 A.2d 834, 837 (D.C.1968), because of housing code violations, the landlord is nevertheless entitled to recover the reasonable value of the use of the premises. The rationale is that Sout-hall Realty converted the tenancy for years to a tenancy by sufferance, which is a \u201clegal\u201d tenancy. William J. Davis, Inc., supra, 271 A.2d at 416. In other words, the law has recognized that the relationship between the owner of property and its occupant is one from which an obligation of payment for a benefit conferred may properly be implied in law, even though a contract between them is void. Similarly, since Cevern did nothing unlawful when it performed construction work while licensed, it should not be barred from seeking restitution of whatever benefit it conferred on the homeowners while licensed even assuming the contract under which it performed the work turned out to be void.\nIV.\nIn sum, I would hold that on the record before us, the fact that Cevern had not yet been issued a license when it entered into the home improvement contract and accepted an advance payment does not bar Cevern from bringing an action on the contract, or alternatively, for restitution for the work performed after the license was issued. In light of the present posture of the case, I do not address whether Cevern is in fact entitled to contract damages or restitution, or what the measure of its recovery would be; those matters should be decided on remand on the basis of a fuller factual record and in light of legal arguments not yet made in either this court or the trial court.\n. 16 D.C.M.R. \u00a7 800.1 (1993) provides:\nNo person shall require or accept any payment for a home improvement contract in advance of the full completion of all work required to be performed under the contract, unless that person is licensed as a home improvement contractor or as a licensed salesperson employed by a licensed contractor in accordance with the provisions of this chapter.\n. The majority suggests that Cevern\u2019s situation is different from our prior decisions \"only in degree, not kind\u201d and relies particularly on Capital Construction, supra, and Saul, supra. Ante at 20-21. Its reliance is misplaced.\nBased on what it assumes were the facts in Capital Construction, supra, the majority suggests that Cevern and Capital Construction are in similar positions. In Capital Construction, the contractor entered into the contract, performed part of the contract, and received progress payments while it had a license. 604 A.2d at 429. During the course of its performance, it allowed its license to lapse for unexplained reasons. Id. For all we know, the license may not have been renewed because Capital Construction had been found irresponsible.\nAfter its license lapsed, Capital Construction accepted further progress payments of a disputed amount. Id. at 429, 432. The contractor\u2019s principal contention on appeal was that the contract did not fall within the regulatory definition of \"home improvement\u201d contract. Id. at 430. Hence, the only question presented was whether the contractor could recover under the contract for work performed while not licensed, after accepting advance payments while not licensed. The question of whether the contractor was entitled to restitution for work performed while it was licensed was not raised. In fact, there was apparently no counterclaim for the amount of the progress payments made after the license lapsed. See id. at 429, 432 (reciting that court granted summary judgment in favor of the homeowner, but observing that amount of the progress payments was irrelevant to the case).\nIn Saul, we did say that the contractor, Rowan, Inc., appeared to meet some of the regulatory requirements. We were also careful, however, to point out that Rowan, Inc. had failed to meet several other requirements for the license and that the facts stated did not establish an adequate substitute:\nThe requirement that the contracting party obtain the license affords significant protections to the public. First, it assures that no one will engage in the business without supervision by qualified mechanics. Second, the regulations require the contractor to furnish and keep in force a bond, and any person aggrieved by the contractor\u2019s violation of any law or regulation relating to the licensed business has the right to bring suit against the surety on the bond, in addition to the right to sue the contractor.... There is no similar requirement for one holding a license which only entitles the licensee to supervise or perform the work pursuant to [the regulations]. Thus, we perceive a clear distinction between Mr. Rowan's individual license and the type of license which Rowan, Inc. was required to obtain before contracting or performing the work involved. Therefore, Rowan, Inc. did not meet the regulatory licensing requirement and was not entitled to prevail.\nSaul, 623 A.2d at 622 (emphasis added) (citations omitted). Thus, the circumstances presented in Saul were substantially different than those in the present case.\n. Although we have not expressly relied on section 178 specifically or chapter 8 generally, prior decisions of this court appear to be consistent with the Restatement approach. See Saul, supra, 623 A.2d at 621; Cook v. James E. Griffith, Inc., 193 A.2d 427, 428 (D.C.1963) (holding that licensed plumbing corporation entitled to recover on contract notwithstanding technical violation of regulatory supervision requirement); Dunn v. Finlayson, 104 A.2d 830, 831-32 (D.C. 1954) (holding statute that prohibited use of title of \u201carchitect\u201d without license but not the practice of architecture not regulatory because it does not protect the public; therefore person using title without license was not barred from recovery under contract for architectural services); Sunderland v. Kilboum, 14 D.C. (3 Mackey) 506, 512-514 (1888) (holding contract under which real estate broker purported to act as agent for both buyer and seller \"utterly void\u201d because \"immoral, contrary to public policy, [and] calculated to create a breach of faith\u201d), off d in pertinent part, 130 U.S. 505, 9 S.Ct. 594, 32 L.Ed. 1005 (1889); cf. Murphy v. Mallos, 59 A.2d 514, 516 (D.C.1948) (holding that where statute required proof of license as element of broker\u2019s recovery, statutory violations by licensed broker would not bar broker\u2019s recovery where statute only provided for suspension or revocation of license).\n. Section 181 is a special case of the general rule stated by section 178.\nThe majority relies upon illustration 2 to \u00a7 181 cmt. c of the Restatement to support its view that failure to pay a licensing fee required by a regulation means that any contract by an unlicensed contractor is void. Ante at 21-22. Its reliance is misplaced for several reasons. First, the illustration does not state the reason for the lack of licensure, only that one of the conditions of licen-sure is payment of a fee. Moreover, the illustration itself says only that the \"court may decide that the public policy against enforcement of B\u2019s promise [to pay for the work] outweighs the interest in its enforcement,\u201d not that it must. (Emphasis added.)\nFurthermore, the reporter's notes to the illustration upon which the majority relies cite as contrary analogous authority our decision in Murphy, supra note 3. In Murphy the court declined to forfeit a broker\u2019s commission because the broker had sold the house without first obtaining a listing in writing. In determining that no forfeiture was required, the court observed that the violation was one for which certain sanctions were provided, but that a bar from recovery of a commission was not among them, although that sanction was specifically available for other violations. Similarly, in the present case, the regulations do not provide for any forfeiture for a contractor\u2019s failure to pay its licensing fee.\n. The home improvement regulations are substantially derived from Commissioners\u2019 Order No. 61-863 (May 11, 1961), 5Y D.C.R.R. \u00a7\u00a7 1.1-4.15 (1970). Thompson v. Wolfrey, 483 A.2d 636, 636 n. 1 (D.C. 1984). The Commissioners promulgated Order No. 61-863 after Congress enacted the Home Improvement Business Bonding Act.\n. The home improvement regulations expressly declare void any provision of a contract that purports to waive any requirement of the home improvement regulations. 16 D.C.M.R. \u00a7 800.5. In the context of an advance payment term, \u00a7 800.5 could arguably mean that a contractor that has failed only to pay its licensing fee could not assert as a defense to performance the failure of a homeowner to make an advance payment. No such defense is asserted by Cevern, which has allegedly made full performance.\n. The majority suggests that the actual licensing certificate is an important document that permits persons, such as homeowners, to ascertain the contractor's qualifications. Ante at 20-21. That argument does not make sense to me. I can conceive that it may be in the contractor's interest to have the license in the event that a prospective customer requests proof of responsibility. Were a homeowner concerned about a contractor\u2019s licensing status before entering into a contract, the contractor could use it as proof. If a contractor in Cevern\u2019s situation were to reply that it was \"all but licensed,\u201d either the homeowner could disbelieve the assertion and not enter into the contract, or believe it and enter into it. Either the contractor was lying or he was telling the truth. If he was telling the truth, then the homeowner is protected and no harm accrues to him. If he was lying, the homeowner won\u2019t be liable to the contractor and may in fact get restitution of the advance. In either case, the homeowner is fully protected.\n. It should be noted that the statute imposes substantial regulatory requirements upon applicants for and holders of brokers\u2019 licenses. D.C.Code \u00a7\u00a7 45-1927, 45-1936 (1990).\n. The other authorities the majority relies on for its assertion that \"the court has been insistent that quantum meruit recovery for performance in return for a promise unenforceable on public policy grounds is forbidden,\" ante at 22 & note 10, are also distinguishable.\nIn Marzullo v. Molineaux, 651 A.2d 808, 810 (D.C.1994), we said, \"[T]he sole issue on appeal is whether the trial court erred in ruling that a license was required because the agreement between the parties, to renovate a row house into a two-family dwelling, was a \u2018home improvement contract\u2019 within the meaning of the regulations.\"\nThe trial court took special note of appellees' testimony that they specifically desired to hire a home improvement contractor licensed in the District of Columbia, and that they were misled and deceived into believing that appellants were a licensed home improvement contractor. The court subsequently referred to Marzullo\u2019s misrepresentations as to his status as a licensed contractor as negating any possibility of applying any exception for incidental violations, citing Schloss v. Davis, 213 Md. 119, 131 A.2d 287, 291 (1957).\nId. at 809 n. 2.\nTherefore, nothing approaching the restitution question presented by Cevern was argued to or decided by the Marzullo court.\nIn Truitt, supra, the contractor had allegedly relied upon the statement of an employee of the District of Columbia Licensing Division that it did not need a license to do tire work it was doing. 407 A.2d at 1076. The contractor did not apply for or receive a license until after the litigation commenced. Id. Thus, Truitt was not in the same shoes as Cevern.\nIn Bathroom Design, supra, neither the facts nor even the dicta reached the present case. In Bathroom Design, the contractor obtained a bond, but not a license. 317 A.2d at 527. (The opinion does not disclose why the contractor did not obtain a license.) It then failed to waterproof the homeowner\u2019s basement, as it had agreed, and subsequently became defunct. Id. The homeowners sued the surety on the bond and the trial court awarded them the amount of the contract. Id. at 528. The surety contended that it was liable only for the (lesser) amount necessary to make good on the promise. \"The crux of [the surety\u2019s] argument on measurement of damages is that this is essentially an action for breach of contract. It is not. The contract was void and unenforceable, and because the work was performed in contravention of regulations designed for regulatory purposes in exercise of the police power, there was no equitable base upon which quasi-contractual recovery could be predicated.\" Id. (emphasis added) (citations omitted).\n. Similarly, in Thompson v. Wolfrey, 483 A.2d 636, 637 (D.C.1984) this court, relying on Hoff-heins, held that an unlicensed contractor who did not accept advance payments was entitled to recover for work performed under an oral home improvement contract.\n. Interestingly, in holding a contract calling for advance payment to an unlicensed home improvement contractor void as contrary to public policy, the court in Miller, supra, relied principally on Southall Realty.\n. The court in William J. Davis, Inc. allowed restitution, notwithstanding its recognition that the general rule is that one claiming under a void contract cannot recover in quasi-contract either. 271 A.2d at 416 & nn. 16 & 17 (citing Restatement (First) of Contracts \u00a7 598 (stating the general rule that restitution is unavailable if performance made under a contract is void for violation of public policy), Miller, supra, and Kir-schner, supra).",
+        "type": "dissent",
+        "author": "RUIZ, Associate Judge,"
+      }
+    ],
+    "attorneys": [
+      "Curt S. Hansen, Washington, DC, for appellant.",
+      "Quentin W. Banks, Washington, DC, for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "CEVERN, INC., Appellant, v. Robert FERBISH, et al., Appellees.\nNo. 93-CV-216.\nDistrict of Columbia Court of Appeals.\nArgued Dec. 21, 1994.\nDecided Sept. 21, 1995.\nCurt S. Hansen, Washington, DC, for appellant.\nQuentin W. Banks, Washington, DC, for appellees.\nBefore TERRY, FARRELL and RUIZ, Associate Judges."
+  },
+  "file_name": "0017-01",
+  "first_page_order": 73,
+  "last_page_order": 86
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490510,
+  "name": "MURPHY, M v. WCAB (UPPER DARBY TWP)",
+  "name_abbreviation": "Murphy v. Wcab",
+  "decision_date": "2017-03-28",
+  "docket_number": "1208 CD 2016",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "6d5f82992c71fa509e2165411af6960d44ad0edebabe569ad1d112392410f566",
+    "simhash": "1:cd21eb8700c85c49",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MURPHY, M\nv.\nWCAB (UPPER DARBY TWP)"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MURPHY, M\nv.\nWCAB (UPPER DARBY TWP)\n1208 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 28, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0299-14",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

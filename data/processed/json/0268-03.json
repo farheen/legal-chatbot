@@ -1,0 +1,62 @@
+{
+  "id": 7974002,
+  "name": "James FINNEGAN v. MEMORIAL HOSPITAL et al.",
+  "name_abbreviation": "Finnegan v. Memorial Hospital",
+  "decision_date": "1983-02-25",
+  "docket_number": "No. 82-280-A",
+  "first_page": "268",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "457 A.2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 319,
+    "ocr_confidence": 0.769,
+    "sha256": "5af531b35d5c15b6536a93f66fe33851115bce3895ae35e47d667d79f4ce4967",
+    "simhash": "1:585a2016cb7974c3",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T16:32:52.282199+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James FINNEGAN v. MEMORIAL HOSPITAL et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendants\u2019 motion to affirm the judgment of the Superior Court pursuant to\u2019 Rule 16(g) is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John F. McBurney, Pawtucket, for plaintiff.",
+      "David W. Carroll, Joseph A. Kelly, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "James FINNEGAN v. MEMORIAL HOSPITAL et al.\nNo. 82-280-A.\nSupreme Court of Rhode Island.\nFeb. 25, 1983.\nJohn F. McBurney, Pawtucket, for plaintiff.\nDavid W. Carroll, Joseph A. Kelly, Providence, for defendant."
+  },
+  "file_name": "0268-03",
+  "first_page_order": 314,
+  "last_page_order": 314
+}

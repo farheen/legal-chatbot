@@ -1,0 +1,58 @@
+{
+  "id": 12484999,
+  "name": "Commonwealth v. Gregory Stevens",
+  "name_abbreviation": "Commonwealth v. Stevens",
+  "decision_date": "2016-05-04",
+  "docket_number": "NO. 26 MAL 2016",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 228,
+    "sha256": "5460bf72ad6b62bf34c1dccfd905810cbb3844e57197bca67f1e6ed28ed2b1a5",
+    "simhash": "1:8d3e764ea3a611f4",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nGregory Stevens"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nGregory Stevens\nNO. 26 MAL 2016\nSupreme Court of Pennsylvania\nMay 04, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0004-08",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

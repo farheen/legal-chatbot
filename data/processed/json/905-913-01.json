@@ -1,0 +1,86 @@
+{
+  "id": 8471486,
+  "name": "Charles A. TRIMMER v. WORKERS' COMPENSATION APPEAL BOARD (MONAGHAN TOWNSHIP). Petition of Monaghan Township",
+  "name_abbreviation": "Trimmer v. Workers' Compensation Appeal Board",
+  "decision_date": "2006-08-03",
+  "docket_number": "Appeal No. 58 MAL 2006",
+  "first_page": "905-913",
+  "last_page": "914",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "905 A.2d 913"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "531 Pa. 287",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1834345
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that determination of facts and credibility are solely within the province of the Workers' Compensation Judge"
+        },
+        {
+          "parenthetical": "holding that determination of facts and credibility are solely within the province of the Workers' Compensation Judge"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/531/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 857,
+    "ocr_confidence": 0.639,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20468529246299688
+    },
+    "sha256": "bd4adc7e122b6e9cf277ca90911a48e046d432e7fd3cb0bbce38ace1a53bb4ea",
+    "simhash": "1:108eadfed0ab43ea",
+    "word_count": 128
+  },
+  "last_updated": "2024-02-27T23:08:39.222690+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles A. TRIMMER v. WORKERS\u2019 COMPENSATION APPEAL BOARD (MONAGHAN TOWNSHIP). Petition of Monaghan Township."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of August, 2006, the Petition for Allowance of Appeal is granted. Additionally, as this Court finds that the Commonwealth Court substituted its determination of the facts of this matter and the credibility of the witnesses for the Workers\u2019 Compensation Judge\u2019s proper assessments, the judgment of the Commonwealth Court is reversed, and the determination of the Workers\u2019 Compensation Judge as affirmed by the Workers\u2019 Compensation Appeal Board is reinstated. See Bethenergy Mines, Inc. v. W.C.A.B. (Skirpan), 531 Pa. 287, 612 A.2d 434 (1992) (holding that determination of facts and credibility are solely within the province of the Workers\u2019 Compensation Judge).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Charles A. TRIMMER v. WORKERS\u2019 COMPENSATION APPEAL BOARD (MONAGHAN TOWNSHIP). Petition of Monaghan Township.\nSupreme Court of Pennsylvania.\nAug. 3, 2006."
+  },
+  "file_name": "905-913-01",
+  "first_page_order": 949,
+  "last_page_order": 950
+}

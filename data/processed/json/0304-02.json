@@ -1,0 +1,94 @@
+{
+  "id": 11525258,
+  "name": "James A. NEWBREY, Respondent, v. The TOWNSHIP AND SCHOOL DISTRICT OF UPPER ST. CLAIR and Douglas A. Watkins, Township Manager, Petitioner",
+  "name_abbreviation": "Newbrey v. Township & School District of Upper St. Clair",
+  "decision_date": "2000-05-17",
+  "docket_number": "",
+  "first_page": "304",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "750 A.2d 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "746 A.2d 566",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11471274,
+        11471322,
+        95818,
+        95750
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0566-01",
+        "/a2d/746/0566-02",
+        "/pa/560/0453-02",
+        "/pa/560/0453-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95818,
+        95750
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0453-02",
+        "/pa/560/0453-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 415,
+    "ocr_confidence": 0.662,
+    "sha256": "51fffe0c0fb3a807c89e37ae2c44e45e76270b5295c65d29ad2d842516204d53",
+    "simhash": "1:d9b8933697a32ff3",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T19:50:14.102154+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James A. NEWBREY, Respondent, v. The TOWNSHIP AND SCHOOL DISTRICT OF UPPER ST. CLAIR and Douglas A. Watkins, Township Manager, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 17th day of May, 2000, the Petition for Allowance of Appeal is GRANTED and the order of the Commonwealth Court is REVERSED. See Marchlen v. Township of Mt. Lebanon, 560 Pa. 453, 746 A.2d 566 (2000).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "James A. NEWBREY, Respondent, v. The TOWNSHIP AND SCHOOL DISTRICT OF UPPER ST. CLAIR and Douglas A. Watkins, Township Manager, Petitioner.\nSupreme Court of Pennsylvania.\nMay 17, 2000."
+  },
+  "file_name": "0304-02",
+  "first_page_order": 352,
+  "last_page_order": 352
+}

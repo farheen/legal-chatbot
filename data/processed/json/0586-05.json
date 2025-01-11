@@ -1,0 +1,58 @@
+{
+  "id": 12485815,
+  "name": "In Re: Estate of Leonard J. Smolsky, Deceased",
+  "name_abbreviation": "In re Estate of Smolsky",
+  "decision_date": "2016-02-04",
+  "docket_number": "NO. 2182 EDA 2015",
+  "first_page": "586",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 138,
+    "sha256": "ca1bb59920839f0447e8f2693d37962c33c48c9c4c8629f1531b45e355f0d94f",
+    "simhash": "1:a101d67d4b4240cc",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: Estate of Leonard J. Smolsky, Deceased"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: Estate of Leonard J. Smolsky, Deceased\nNO. 2182 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 04, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0586-05",
+  "first_page_order": 586,
+  "last_page_order": 586
+}

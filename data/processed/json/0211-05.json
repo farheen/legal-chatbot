@@ -1,0 +1,58 @@
+{
+  "id": 12486783,
+  "name": "Com. v. A. Washington",
+  "name_abbreviation": "Com. v. Washington",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 2991 EDA 2014",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 98,
+    "sha256": "14d3e3a9adc49fb38302e6efc70445f91e7741ad849b7f8016a8f46c6a4bc461",
+    "simhash": "1:e4124e888c8a3e01",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Washington"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Washington\nNO. 2991 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed."
+  },
+  "file_name": "0211-05",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

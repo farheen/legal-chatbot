@@ -1,0 +1,169 @@
+{
+  "id": 6082799,
+  "name": "In re Herthel",
+  "name_abbreviation": "In re Herthel",
+  "decision_date": "1939-06-26",
+  "docket_number": "No. 4173",
+  "first_page": "1423",
+  "last_page": "1430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 C.C.P.A. 1423"
+    },
+    {
+      "type": "parallel",
+      "cite": "104 F.2d 824"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "33 U. S. P. Q. 518",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 Fed. 43",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6741841
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/196/0043-01"
+      ]
+    },
+    {
+      "cite": "47 F. (2d) 748",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 U. S. 580",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3495872
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/105/0580-01"
+      ]
+    },
+    {
+      "cite": "92 U. S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/92/0347-01"
+      ]
+    },
+    {
+      "cite": "70 F (2d) 906",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082004,
+        269622
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/21-2/1112-01",
+        "/f2d/70/0906-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3492558
+      ],
+      "pin_cites": [
+        {
+          "page": "318"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/104/0310-01"
+      ]
+    },
+    {
+      "cite": "47 F. (2d) 743",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1835171
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/47/0743-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 735,
+    "char_count": 18344,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1733651266927145
+    },
+    "sha256": "d17b13a52b8635dca01a04d9fe7d5d1d59978b6e0e6821d423276163f401afbd",
+    "simhash": "1:b543b0bb0e15c3cc",
+    "word_count": 3136
+  },
+  "last_updated": "2024-02-27T22:14:37.962341+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "In re Herthel"
+    ],
+    "opinions": [
+      {
+        "text": "LeNkoot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from a decision of the Board of Appeals of the United States Patent Office affirming a decision of the examiner rejecting claims numbered 1 to 4, inclusive, of appellant\u2019s application for patent as aggregative.\nOriginally there were five claims involved, all of which were rejected as aggregative and also upon the ground that they lacked patentability over certain patents cited by the examiner. The Board of Appeals reversed the examiner with respect to claim 5, holding that it was not aggregative, and as to all of the claims it disagreed with the examiner in his holding that they lacked patentability over the cited prior art. If affirmed the examiner, however, as above stated, as to the claims here involved being aggregative, and that is the only issue before us upon this appeal.\nClaim 1 is illustrative of the claims before us and reads as follows;\n1. In the manufacture of motor fuel gasoline, the improvement which comprises heating a stream of higher boiling petroleum oil to a moderate cracking temperature under a substantial superatmospheric pressure and subjecting said higher boiling oil to said moderate cracking temperature for a period of time sufficient to effect moderate cracking of said higher boiling oil, separating the composite hot oil products of this heating operation into a vapor stream and a liquid stream and separately heating each of said separated streams to high cracking temperatures under maintained superatmospheric pressure, reducing the pressure on the composite hot oil products of each of these heating operations and simultaneously cooling them to temperatures at which substantial cracking ceases, separating the expanded and cooled products into tar fractions and vapor fractions and recovering gasoline fractions from these vapor fractions.\nThe alleged invention is concisely described by the Board of Appeals in its decision as follows:\nThe disclosure relates to a process of heating higher boiling petroleum oil to a moderate cracking temperature under substantial pressure, separating the oil products from this step into a vapor stream and a liquid stream and separately heating the vapor stream and the liquid stream to high cracking temperatures under maintained superatmospheric pressure. After being subjected to these high cracking temperatures and pressures, the pressure on each of these products is reduced and the product simultaneously cooled to temperatures at which substantial cracking ceases. The cooled products from these two cracking steps are then separated into tar fractions and vapor fractions and gasoline fractions are recovered from the vapor fractions.\nIt was held by the Patent Office tribunals that the claims were aggregative because there is no coaction between the secondary vapor cracking step and the residue cracking step. This appellant concedes, but he claims that the first cracking reaction which occurs in tbe primary coil is an important factor in determining the chemical composition of the vapor fraction which passes into one heating coil and the chemical composition of the liquid fraction which passes into another coil; that the temperature and pressure prevailing in the primary separator determine the boiling range of the vapor fraction and also of the liquid fraction; that the final gasoline products resulting from the vapor cracking step and the residue cracking steps are produced from the initial charging stock which enters the primary cracking zone; that the gasoline finally produced is directly affected by the chemical reaction which occurs in the primary cracking zone and the further chemical reaction which occurs in the secondary cracking zones; that the -entire process is a single invention, and that to eliminate one of the secondary cracking zones from the claims would result in a failure to describe and claim the invention which appellant has made, and that only by combining the two secondary cracking steps in the claims would appellant\u2019s invention have any utility.\nWe are clear that there is coaction between the primary cracking step and the secondary vapor cracking step, and coaction between the primary cracking step and the secondary residue cracking step, but there is no coaction between the two said secondary cracking steps, although both are necessary to accomplish the object of the invention, viz., to secure a larger quantity of gasoline from high boiling petroleum oil than had been possible by the teachings of the prior art.\nTherefore the question before us for determination is, does the failure of two elements of the claims to coact with each other render the claims aggregative.\nBefore directly passing upon this question we think, it important to determine whether upon the record before us, in view of the decision of the board, we must.assume that the appealed claims involve invention, assuming for the moment that they are not aggre-gative. As hereinbefore stated, the examiner rejected the claims upon two grounds, viz., aggregation and lack of patentability over the cited prior art, but the Board of Appeals did not agree with the latter ground of rejection. After discussing in detail two of the references, the patents to Gard et al. and to Mekler, the board stated:\nIt is considered that these two patents do not disclose applicant\u2019s process as claimed and do not furnish even in combination with the subsidiary patents an anticipation of the processes claimed, * * *.\nWe construe this language of the board as holding, in effect, that each of the involved claims would be patentable over the references were it not for the fact that they are subject, in the board\u2019s opinion, to the rule of aggregation, and for that reason alone they are not allowable. It will be noted that the language quoted is sufficiently broad to cover all of the references cited by the examiner.\nSeven patents were cited by the examiner against the involved claims, but only four are contained in the record before us, evidently upon the theory that the question of patentability over the references was not involved in this appeal. It is interesting to note, in passing, that the claims of each of the four patents found in the record are as much subject to the charge of aggregation as are the involved claims. This is important, however, only as tending to show that where invention is present the rule of aggregation is not applied by the Patent Office.\nThe Solicitor for the Patent Office contends in his brief that there has been no holding by the board that any of the appealed claims involves invention. While this is literally true, it is only because the board sustained their rejection by the examiner upon the ground of aggregation. We think it very clear from the board\u2019s decision that each of the involved claims would have been found allowable if not subject to the rule of aggregation.\nThis brings us to the consideration of the question of whether the involved claims should be held to be aggregative.\nAs was said by us in the case of In re Hueber & Horton, 21 C. C. P. A. (Patents) 1112, 70 F (2d) 906, \u201cThe distinction between a patentable combination and an aggregation has been the subject of much discussion by the courts, and is oftentimes a troublesome question.\u201d\nIn the leading case of Reckendorfer v. Faber, 92 U. S. 347, involving the patentability of a lead pencil having a piece of rubber attached to one end thereof, the court said:\nThe combination, to be patentable, must produce a different force or effect, or result in the combined forces or processes, from that given by their separate parts. There must be a new result produced by their union; if not so, it is only an aggregation of separate elements. * * * .\nIn the case at bar it seems clear to us that the combination of elements set forth in the claims produces a result different from that produced by their separate elements.\nIn the case of Loom Company v. Higgins, 105 U. S. 580, the court said:\nIt is further argued, however, that, supposing the devices to be sufficiently described, they do not show any invention; and that the combination set forth in the fifth claim is a mere aggregation of old devices, already well knowin; and therefore it is not patentable. This argument would be sound if the combination claimed by Webster was an obvious one for attaining the advantages proposed, \u2014 one which would occur to any mechanic skilled in the art. But it is plain from the evidence, and from the very fact that it \u25a0was not sooner adopted and used, that it did not, for years, occur in this light to even the most skilful persons. It may have been under their very eyes, they may almost be said to have stumbled over it; but they certainly failed to see it, to estimate its value, and to bring it into notice. Who was the first to see it, to understand its value, to give it shape and form, to bring it into notice and urge its adoption, is a question to which we shall shortly give our attention. At this point we are constrained to say that we cannot yield our assent to the argument, that the combination of the different parts or elements for attaining the object in view was so obvious as to merit no title to invention. Now that it has succeeded, it may seem very plain to any one that he could have done it as well. _ This is often the ease with inventions of the greatest merit. It may be laid down, as a, general rule, though perhaps not an invariable one, that if a new combination and, arrangement of known elements produce a neto and beneficial result, never attained before, it is evidence of invention. * * * [Last italics supplied.]\nThe case of Sachs et al. v. Hartford, Electric Supply Co., 47 F. (2d) 748, decided by the Circuit Court of Appeals, Second Circuit, involved the patentability of certain devices for housing electrical switches. In the opinion by L. Hand, Circuit Judge, it was stated:\nWe have not dealt with the defendant\u2019s argument that the first patent is for an \u201caggregation.\u201d Frankly, we are unable to attach a definite meaning to that word. The notion that the parts of an invention must co-operate is certainly very persisting in the patent law, and it must correspond to some underlying idea. So far as it means that the whole complex claimed must be a unit in use, each part of which shall be necessary to the common result, we can understand it. So far as it rests upon an implied reference to mechanics, that is, that each part must give or take a strain, it seems to us a false lead. The test is more practical than that, because inventions are to answer human needs, and the elements may be mechanically inert. The co-operation of the means necessary to create an invention is to ho measured by the purpose to be fulfilled, not by the interaction of the parts. Each factor must indeed be a condition to that result, but the .whole may be a mere assemblage; the co-operation between them all may be no more than their necessary presence in a unit which shall answer a single purpose. Therefore, we can find little advantage in a discussion of what is or what is not an \u201caggregation.\u201d * * *\nSee also Burdett-Rowntree Mfg. Co. v. Standard Plunger Elevator Co., 196 Fed. 43; Ex parte Hutchinson, 33 U. S. P. Q. 518 (a decision of the Board of Appeals of the Patent Office).\nIt is our opinion that each of the involved claims constitutes more than an aggregation of elements; that is, there is coaction between several of the elements of each of the claims, and the mere fact that the two secondary cracking steps do not coact with each other, although contributing to the unitary result, does not warrant a holding that the claims are aggregative.\nIt seems to us that appellant\u2019s process as claimed must, on the record before us, be presumed to have advanced the art of production of gasoline from high boiling petroleum oil, and in view of the holding of the Board of Appeals (as we construe it) that the claims would be allowable if not aggregative, we do not think that appellant should be deprived of a patent upon the mere fact that the two secondary cracking steps do not coact with each other. They do each coact with the primary cracking step, and we think that this is sufficient -to prevent a holding that the claims are aggregative.\nIt is our opinion that every element found in each of the claims is necessary to describe appellant\u2019s complete invention.\nFor the reasons stated herein, the decision of the Board of Appeals is reversed, in so far as the claims before us are concerned.\nGarrett, Presiding Judge, dissents.",
+        "type": "majority",
+        "author": "LeNkoot, Judge,"
+      },
+      {
+        "text": "DISSENTING OPINION\nBland, Judge:\nThe majority in effect holds that we must assume that the counts at bar involve invention, and that the decision of the board is to that effect. I think we must assume that the hoard, agreeable to the express finding of the examiner, found that there was no invention, and for reasons presently stated I am not willing to reverse the decision of the board.\nI find the following in the majority opinion:\n* * * It is interesting to note, in passing, that the claims of each of the four patents found in the record are as much subject to the charge of aggregation as are the involved claims. This is important, however, only as tending to show that where invention is present the rule of aggregation is not applied liy the Patent Office. [Italics mine.]\nAs I read the italicized portion of this statement, it is to the effect. that where the Patent Office finds invention it does not find aggregation and vice versa. Since it has fou/nd aggregation, it foliotes that it also fowxd that there was no irvoention. I think it is unfortunate that the board did not more definitely point out that to assemble or put together two methods, neither one of which, if standing alone, was inventive and which did not coact with each other, did not amount to invention. The better rejection in cases like this is that there was lack of invention and, after all, the reason aggregative claims are not allowed is because it does not require invention to aggregate or assemble things which in the assembly do not coact together to perform an unexpected or new result.\nThe majority says \u201cthe combination of elements set forth in the claims produces a result different from that produced by their separate elements.\u201d Any aggregation will produce results of the same character, that is to say, by assembling a bread cutter and a bread wrapper, unquestionably more bread can be cut and wrapped than if separate machines were employed. But, it does not follow that the skilled mechanic who assembled them invented anything in doing so. He merely took advantage of what was already known and as a mechanic put the two machines together. With a lead pencil with a rubber on it one could do more writing and erasing than he could with a separate pencil and a separate rubber, but the soundness of the holding of the Supreme Court that putting the rubber on the pencil did not amount to invention has ceased to be questioned.\nGranting for the sake of argument that appellant by the combination of two methods, neither of which is inventive, can produce more gasoline with one apparatus in a given length of time, I think the results which flow therefrom do not necessarily suggest invention. Moreover, it is my view that it is very dangerous in an opinion of this character to attempt to lay down a hard and fast definition of what is not an aggregation when applied to patent claims. It is rarely that courts attempt to do anything more than to say what an aggregation is. The Circuit Court of Appeals in Sachs et al. v. Hartford Electric Supply Co., 47 F. (2d) 743, stated that it was unable to attach a definite meaning to the word \u201caggregation.\u201d\nI quote the following! language from the majority opinion in the instant case:\nIt is our opinion that each of the involved claims constitutes more than an aggregation of elements; that is, there is eoaetidn between several of the elements of each of the claims, and the mere fact that the two secondary cracking steps do not coact with each other, although contributing to the unitary result, does not warrant a holding that the claims are aggregative. [Italics mine.]\nIs it safe to say in effect that the claims do not define an aggregation if \u201cthere is coaction between several of the elements of each of the claims?\u201d [Italics mine.] See Pickering v. McCullough, 104 U. S. 310, 318. The claim might be a combination claim in which novelty rested solely in the fact that two separate machines each performing its old function were put together and each of them described in such manner as to indicate coaction between various elements of one of the machines, and yet we have no coaction with the elements of the other machine, and yet that character of structure would respond to the language \u201cthere is coaction between several of the elements of each of the claims.\u201d\nWhile the two systems have a common primary cracking zone, it is not contended anywhere that if the two systems were divided each would be patentable. It is only in the combination of the two systems that appellant claims to have disclosed an invention. Moreover, it is my view that in the instant case, since the appellant relies upon his combination to constitute the invention disclosed it would make no difference if each of the processes were separately patentable. He might be entitled to patent on each of two separate processes but not on the combination of two processes under such circumstances as are at bar.\nThe mere fact that the board found that the cited prior art did not anticipate the process claimed either singly or- in combination does not require a holding that for this reason the claims are patentable. More precisely the question is \u2014 in view of the prior art, was it inventive to do what appellant has done.\nI think the decision of the board should be affirmed.",
+        "type": "dissent",
+        "author": "Bland, Judge:"
+      }
+    ],
+    "attorneys": [
+      "Pennie, Davis, Marvin it Fdmonds (Raymond F. Adams, Louis D. Forward, and Clarence M. Fisher of counsel) for appellant.",
+      "R. F. Whitehead (Hotoard 8. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "104 F. (2d) 824\nIn re Herthel\n(No. 4173)\nUnited States Court of Customs and Patent Appeals,\nJune 26, 1939\nPennie, Davis, Marvin it Fdmonds (Raymond F. Adams, Louis D. Forward, and Clarence M. Fisher of counsel) for appellant.\nR. F. Whitehead (Hotoard 8. Miller of counsel) for the Commissioner of Patents.\n[Oral argument May 11, 1939, by Mr. Forward and Mr. Miller]\nBefore Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+  },
+  "file_name": "1423-01",
+  "first_page_order": 741,
+  "last_page_order": 748
+}

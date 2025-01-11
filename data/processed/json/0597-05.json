@@ -1,0 +1,58 @@
+{
+  "id": 12485990,
+  "name": "R. Mracek v. R. Curley",
+  "name_abbreviation": "Mracek v. Curley",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 803 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 114,
+    "sha256": "256fb90a19b4e55534ba39a8913aef94bdb3fc0ecb9f4a97e941e9848f2a86f4",
+    "simhash": "1:35c5e2b381901d81",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. Mracek\nv.\nR. Curley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R. Mracek\nv.\nR. Curley\nNO. 803 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0597-05",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

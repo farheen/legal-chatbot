@@ -1,0 +1,62 @@
+{
+  "id": 7957285,
+  "name": "In the Matter of SHANE S.",
+  "name_abbreviation": "In re Shane S.",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 80-136-M.P.",
+  "first_page": "749",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 749"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 242,
+    "ocr_confidence": 0.767,
+    "sha256": "dd25cb8c8f4aec11c595c684dc4aa04e8788dd99820715d78cf29e5a45a641fe",
+    "simhash": "1:782251b553520819",
+    "word_count": 39
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of SHANE S."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied as moot.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "James Murray, Pawtucket, for petitioner.",
+      "Thomas L. McDonald, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of SHANE S.\nNo. 80-136-M.P.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nJames Murray, Pawtucket, for petitioner.\nThomas L. McDonald, Providence, for respondent."
+  },
+  "file_name": "0749-04",
+  "first_page_order": 803,
+  "last_page_order": 804
+}

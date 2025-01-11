@@ -1,0 +1,59 @@
+{
+  "id": 6083463,
+  "name": "In re Lewis C. Karrick",
+  "name_abbreviation": "In re Karrick",
+  "decision_date": "1932-04-29",
+  "docket_number": "No. 3117",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 167,
+    "ocr_confidence": 0.504,
+    "sha256": "c333a4ee8d1042088069916ddbdcb502cf6ae8545d32e8a6a8e9cfbdca8ac03f",
+    "simhash": "1:70caa3e0b9c84629",
+    "word_count": 26
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Lewis C. Karrick"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in continuous processes for the treatment of coal, oil, shale, lignite, and other oil yielding or producing substances.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Lewis C. Karrick\n(No. 3117)."
+  },
+  "file_name": "1298-10",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

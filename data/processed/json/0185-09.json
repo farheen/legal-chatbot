@@ -1,0 +1,58 @@
+{
+  "id": 12486389,
+  "name": "Com. v. J. Trimmer",
+  "name_abbreviation": "Com. v. Trimmer",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 1150 MDA 2015",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "3f32ee4fedf5f2d068e43d22dcd16c43fa213f53d684896d9e7c0ff6c4a892fa",
+    "simhash": "1:1c1f944098801f82",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Trimmer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Trimmer\nNO. 1150 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed."
+  },
+  "file_name": "0185-09",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

@@ -1,0 +1,59 @@
+{
+  "id": 9200058,
+  "name": "In the Matter of John P. GROSS",
+  "name_abbreviation": "In re Gross",
+  "decision_date": "2004-07-29",
+  "docket_number": "No. 918 Disciplinary Docket No. 3",
+  "first_page": "42",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "856 A.2d 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 751,
+    "ocr_confidence": 0.642,
+    "sha256": "fd1822d346a19ff5fa7e37a5be00935daed57ddc8dfb3241139241ffcf054119",
+    "simhash": "1:b2ba2123c2b72f68",
+    "word_count": 136
+  },
+  "last_updated": "2023-07-14T16:18:47.338969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of John P. GROSS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of July, 2004, John P. Gross having been disbarred from the practice of law in the State of New Jersey by Order of the Supreme Court of New Jersey dated January 21, 2004; the said John P. Gross having been directed on May 6, 2004, to inform this Court of any claim he has that the imposition of the identical or comparable discipline in this Commonwealth would be unwarranted and the reasons therefor; and no response having been filed, it is\nORDERED that John P. Gross is disbarred from the practice of law in this Commonwealth, and he shall comply with all the provisions of Rule 217, Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of John P. GROSS.\nNo. 918 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJuly 29, 2004."
+  },
+  "file_name": "0042-03",
+  "first_page_order": 76,
+  "last_page_order": 77
+}

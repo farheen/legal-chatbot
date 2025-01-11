@@ -1,0 +1,194 @@
+{
+  "id": 12166629,
+  "name": "In re John D. Sutherland, Jr.",
+  "name_abbreviation": "In re Sutherland",
+  "decision_date": "1965-07-22",
+  "docket_number": "No. 7299",
+  "first_page": "1683",
+  "last_page": "1693",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1683"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 1009"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "327 F. 2d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        121210,
+        6092284
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/327/1005-01",
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1180",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092284
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "312 F. 2d 821",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        186016,
+        6080228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/312/0821-01",
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 990",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080228
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0990-01"
+      ]
+    },
+    {
+      "cite": "348 F. 2d 974",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12166816,
+        857579
+      ],
+      "pin_cites": [
+        {
+          "page": "7445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1747-01",
+        "/f2d/348/0974-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1747",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166816
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1747-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 926",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079403
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0926-01"
+      ]
+    },
+    {
+      "cite": "1 Fed. 722",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3718434
+      ],
+      "year": 1880,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/1/0722-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1003,
+    "char_count": 27595,
+    "ocr_confidence": 0.521,
+    "pagerank": {
+      "raw": 2.9282988294553563e-07,
+      "percentile": 0.8471569191871804
+    },
+    "sha256": "796d99597815747def27c9bd4cd34b3bae3716feda235a2aac11fd98db088022",
+    "simhash": "1:30bde1cea38a3585",
+    "word_count": 4472
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re John D. Sutherland, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Judge,\ndelivered the opinion of the court:\nThis appeal is from the decision of the Patent Office Board of Appeals affirming the examiner\u2019s rejection of claims 57-70 of application serial No. 679,849, filed August 23, 1957, for \u201cTreatment of Synthetic Rubber Latex.\u201d Only claims 57-60 have been appealed.\nThere were two grounds of rejection of record, the first of which was double patenting over the claims of an application by Carpenter, now patent No. 2,993,020, assigned to the same assignee as the present application, Copolymer Rubber & Chemical Corporation, of Baton Rouge, Louisiana. This is the only rejection sustained by the board, the other rejection that the claims are misdescriptive having been reversed.\nThe instant application and the Carpenter apjffication were tiled on the same day. They were prepared by the same attorneys for the same corporation and contain much common subject matter in their specifications. The drawings, a process flowsheet, appear to be identical. Both applications relate to the process of \"agglomerating\u201d synthetic rubber latex, which we are admonished is not to be confused with \u201ccoagulation\u201d of latex. The latter produces solid rubber from the liquid latex whereas the former has for its purpose an increase in the size of the minute particles of rubbery material suspended in liquid latex to give the latex more desirable properties. More specifically, in the making of foam rubber articles, fore example, it is desirable to have a latex with a high total solids content but low viscosity. Whereas increasing solids content normally increases viscosity, this can be avoided by agglomerating the latex. Another matter of concern is the creation of \u201cprefloc\u201d during processing and storage, defined as being an irreversible coagulation which gums up the machinery and requires cleaning of it. Mechanical stability of the latex is also desired.\nAt the time both Sutherland and Carpenter, who apparently worked together, made their respective inventions, it appears that there was already known an agglomeration process which involved the steps of freezing and thawing. The following paragraph from appellant\u2019s specification describes it and an almost identical paragraph appears in Carpenter\u2019s patent:\nOne of the more satisfactory low temperature processes for the agglomeration of low solids synthetic rubber latex is one in which a specific low solids GR-S latex is agglomerated by reducing the pH with carbon dioxide and then subjecting the latex to a freezing action for a short period of time at a temperature only moderately below the apparent freezing point of the latex [+28\u00b0 F.], such as at about 10\u00b0 F. The agglomerated GR-S latex thus produced may be concentrated to produce a high solids latex of reasonable viscosity. If it is desired to further agglomerate the latex and to further improve the viscosity characteristics, the once frozen and thawed concentration latex is refrozen and reconcentrated.\nIn both the application and the patent there then follows another paragraph pointing out certain shortcomings in the known freeze-thaw process such as undesirably high viscosity, instability resulting in undesirable amounts of prefloc, and inability to uniformly control the viscosity.\nFrom this background, again with much common disclosure, the application and the patent proceed to the description of two different inventions, each having as its ultimate objective improvement in the agglomeration process. Carpenter\u2019s invention has to do with the Wending of different 1 atices in the agglomeration process and is thus explained succinctly in appellant\u2019s brief:\nCarpenter patent No. 2,993,020 discloses an improved process for enlarging the average particle size of synthetic rubber latex blends by steps including freezing and thawing. Carpenter\u2019s inventive concept is entirely different from that of the appellant\u2019s. Carpenter made the surprising discovery that a latex Mend prepared from frozen and thawed agglomerated synthetic rubber latex having a relatively large average particle size and synthetic rubber latex having a relatively small average particle size exhibited enhanced mechanical stability characteristics. He also further discovered that when such a latex Mend is frozen and thawed in the freeze-thaw agglomeration process, prefloc formation may be reduced very markedly. [Emphasis ours.]\nWith this statement in mind, now would be a good time to read claim 1 of Carpenter\u2019s patent to see what invention is there being claimed, and how. Patent claims 1-4 are relied on to support the sole rejection on the ground of double patenting and it will suffice to consider claim 1, which reads:\n1. In a process for enlarging the average particle size of synthetic rubber latex wherein the latex is agglomerated by steps including freezing and thawing in which prefloc is formed, the improvement which comprises reducing prefloc formation hy freezing and thawing a synthetic rubber latex Mend comprising frozen and thawed agglomerated synthetic rubber latex and synthetic rubber latex having a smaller average particle size than the frozen and thawed agglomerated latex, each 100 parts of the latex 6lend containing 5-85 parts of the frozen and thawed agglomerated latex and 95-15 parts of the latex having a smaller average particle size when calculated by weight on a dry solids basis, the synthetic rubber latex being selected from latices of the group consisting of latices of rubbery homopolymers of conjugated diolefins and latices of rubbery copoly-mers of conjugated diolefins and monoethylenically unsaturated monomers. [Emphasis ours.]\nSutherland\u2019s invention was based on a discovery with respect to the temperature used in freezing the latex in the old freeze-thaw agglomeration process. Apparently the art had taught that in such a process, to quote the application, \u201cin order to prevent irreversible coagulation, the latex must be subcooled to a temperature only moderately below its freezing point, i.e., to a temperature only moderately below 28\u00b0 F. It was further taught that temperatures as high as \u20146\u00b0 F. always caused irreversible coagulation of the latex and thus were to be avoided.\u201d The freezing in this known process, as well as in practicing either appellant\u2019s or Carpenter\u2019s inventions, takes place on a rotating drum through which coolant is circulated and which dips into a tank of latex, the frozen film being stripped after about half a revolution out of the bath by a doctor blade. The specification continues:\nIn accordance with these teachings, the freezer drum 65 was operated in such a manner that the collected latex film 70 was subcooled at the time of removal by scraper 71 to a temperature only moderately below the freezing point of the latex, such as about 10\u00b0 F. Under these conditions it was extremely difficult to operate the freezer drum 65 and associated apparatus. For example, the collected latex film 70 was found to cling so tenaciously to the freezer drum surface 68 that excessive power requirements were necessary to drive the freezer drum 65. Also, the freezer drum 65 rotated with an uneven, jerking motion which caused the scraper 71 to gouge into the drum surface 68, as well as causing metal fatigue and eventual failure.\nAppellant\u2019s invention, in a nutshell, was the discovery that he could solve the foregoing problems, in defiance of the teaching of the art about temperatures, by subcooling to temperatures of \u201410\u00b0 F. or down as low as \u201440\u00b0 F. This had the effect of embrittling the film on the drum and facilitating its removal and, surprisingly, did not result in coagulation. The specification says:\nUsually superior results will be obtained when a major portion of the collected latex film 70 is subcooled to a temperature between about \u201410\u00b0 F. and \u201427\u00b0 F. Extremely good results can generally be obtained with the outside surface of the film at a temperature of about \u201417\u00b0 F.\nThis being Sutherland\u2019s invention, let us now consider how he claims it. The shortest claim is claim 58, reading:\n58. In a process for agglomerating latex of a rubbery copolymer of styrene and butadiene wherein the average particle size is enlarged in the resultant agglomerated latex by steps including freezing and thawing, the improvement comprising subcooling the frozen latex to a temperature between about \u201410\u00b0 F. and \u201440\u00b0 F. [Emphasis ours.]\nThe other three claims are in the same \u201cJepson\u201d form, all name the same temperature range, and vary from one another in how they describe the latex and in other ways immaterial to this discussion.\nThe situation, therefore, is that applications for two distinct improvements on an old agglomeration process, invented by different inventors, assigned to the same assignee, and filed on the same day were before the same examiner. The record shows that at one point he had rejected each application on the claims of the other, a \u201ccross re jection of the claims of the present application and those of application Serial No. 679,933,\u201d now the Carpenter patent. This was withdrawn, and the claims of the Carpenter application allowed, whereupon, in a second final rejection, the examiner made the rejection now before us. Taking into account the stated views of the examiner, the two opinions of the board, and the brief of the solicitor, the only one who has attempted to rationalize a holding of \u201cdouble patenting\u201d in this case on policy grounds is the examiner, who said in his answer before the board (bracketed comments being being ours) :\nThe common assignee lias exclusive rights to the invention called for in the allowed claims of the copending application for seventeen years from its issue date as a patent. It is an axiomatic principle of patent law that after this period the public should be allowed to practice this invention. [Thus far we can agree, assuming that what the examiner means is that the public should be free of a monopoly on Carpenter\u2019s invention when his patent expires.] The public should be allowed to increase the particle size of a synthetic rubber latex by freezing such latex at any temperature below its freezing point. [We see no reason why this should be so, the examiner states none, and we wholly disagree with this statement.] However, if the common assignee were to receive a patent to the invention instantly claimed, the public would be precluded from practicing the invention of the allowed application [Carpenter jjatent] at the specific freezing temperature range of between \u201410\u00b0 F. to \u201440\u00b0 F. for the life of the second issued patent. Clearly, this would be an improper extension of the common assignee\u2019s monopoly.\nIn our view, clearly it would not.\nOne of the factors in this case which appears to have confused the issues and obscured the principles involved is that the Sutherland and Carpenter applications were prepared simultaneously and, since each inventor\u2019s contribution is an improvement on the same old process, they have the same base invention in common; but not only that, Sutherland\u2019s invention is an improvement which can be used in conjunction with Carpenter\u2019s blending technique and Carpenter\u2019s invention can also be used in conjunction with the old process as modified by Sutherland\u2019s temperature discovery, but neither invention is necessarily so used. However, it appears to be the case that the \u201cbest mode\u201d of practicing each of these two improvement inventions is in conjunction with the other and the inventions are more or less so described in the respective specifications, in compliance with 35 U.S.C. 112. Consequently, when one reads Carpenter\u2019s specification\u2014which is not a \u201creference\u201d or \u201cprior art\u201d in this case\u2014one there finds recommended the use of freezing temperatures right in the middle of Sutherland\u2019s claimed range. For an interesting old case holding both patents valid in a somewhat similar situation, see McMillan v. Rees, 1 Fed. 722 (C.C. W.D. Pa., 1880).\nThe examiner seems to have been led astray by these considerations. He looked at the claims of the patent and of the application and said there are only two differences between them. The first, he said, is that the Carpenter claims call for a latex blend whereas applicant\u2019s call for latex broadly; latex is an apt description of a latex blend. He appeared to consider that, notwithstanding this difference, the claims are \u201csubstantially identical\u201d because \u201clatex\u201d is a term commonly used to include both a single latex as well as blends.\nNext, the examiner noted the fact that Carpenter\u2019s claims call broadly for \u201cfreezing\u201d the latex whereas Sutherland specifies the low t emperature range, which is the gist of his invention. \u201cFreezing,\u201d said the examiner, \"reads on the specific range of temperatures of the instant claim and, thus, with no remaining differences between the claims, claim 57 must be unpatentable over claim 65 [patent claim 1] of the commonly assigned application.\u201d [Our emphasis.] The board agreed. This we regard as a total non sequitur.\nWe consider this to be wholly wrong reasoning as applied to these claims. It fails to see the distinction between what claims define as the invention and what they may broadly describe as its background or the milieu in which it operates. It is quite true that Carpenter's claims are so drafted that one using his blending process would infringe them regardless of the temperatures used in freezing. It is also quite true that appellant\u2019s claims are so drafted that one using his supercooling invention would infringe them whether or not using Carpenter\u2019s latex blending process. But this does not mean that Carpenter\u2019s claims grant any monopoly of \u201cfreezing\u201d broadly; they grant monopoly only on a process which incorporates his blending invention and thus do they protect that invention, regardless of the temperature used to freeze. Vice versa,. Sutherland\u2019s claims monopolize only a process wherein his temperature range is used, regardless of the kind of latex employed. Carpenter\u2019s patent claims give him no patent monopoly (right to exclude others from using, 35 U.S.C. 154) of the process described in his claims, or of any feature thereof such as the \u201cfreezing\u201d step, unless his blending invention is employed. If blending be omitted from a process, none of his claims would be infringed.\nThere is nothing obscure about the claims involved. They are admirably drafted to comply with 35 U.S.C. 112 in that they clearly point out and distinctly claim what Sutherland and Carpenter each invented. The Jepson form of claim is such as clearly to point out the old milieu, namely the process for \u201cagglomerating\u201d synthetic rubber latex by the steps of freezing and thawing. This was no part of what either applicant invented\u2014it may be assumed to be in the public domain. When we look to the subject matter claimed by Carpenter, following the words \u201cthe improvement,\u201d we see clearly that it is the improvement on the old freeze-thaw process residing in the use of blends. Looking to what Sutherland says in his claims is his own invention, we see clearly that he has improved on the old process in the use of freezing temperatures from \u201410\u00b0 F. down to \u201440\u00b0 F.\nSince we see no identic monopoly, no domination by one inventor\u2019s claims of the other\u2019s invention, no attempt to monopolize an obvious improvement on what has already been patented to the same assignee, we see no \u201cdouble patenting.\u201d The examiner was clearly wrong in imagining \u201can improper extension\u201d of the patent monopoly on Carpenter\u2019s invention by reason of Sutherland\u2019s claims.\nWe should say something further about the matter of obvious improvement. What is claimed in the Carpenter patent is an improvement on the old freeze-thaw process, found to be patentable by the Patent Office in granting the Carpenter patent. Appellant\u2019s claimed invention can be regarded as what it is, realistically, either as an improvement on the same old process or an improvement on that old process as improved by Carpenter, depending on whether Carpenter made his invention before Sutherland made his. We do not know who invented first and we consider it irrelevant to the double patenting-issue.\nThe examiner, so far as the record shows, never contended that the invention of the appealed claims is an obvious improvement, either of the prior art process or of that process as Carpenter improved it and as already patented to the common assignee. We have quoted his reasoning above and it seemed to be his only idea that the public should be free to use Sutherland\u2019s invention when Carpenter\u2019s patent expired because Carpenter\u2019s claim term \u201cfreezing\u201d reads on freezing at any temperature, but he never contended Sutherland had made an obvious invention. On the basis of his reasoning, supra, he held the patent and application claims \u201csubstantially identical.\u201d The board said nothing whatever about obviousness but in its first opinion did make the following remark:\nThe temperature range recited in the claims is not critical, as is apparent from page 17 of the specifications, lines 9 to 13. It is noted that the temperature range encompasses a large part of that used [disclosed'] in the patent which indicates in Example II a temperature as low as \u201422\u00b0 F. No good reason is seen why the temperature range patentably distinguishes from the cooling step of Carpenter. [Emphasis ours.]\nChallenged by petition for rehearing with using Carpenter\u2019s specification, which is not prior art, in affirming the rejection, the board responded, saying:\nAppellant argues the freezing temperature [range] of \u201410 to \u201440\u00b0 F. is critical. While the claims of Carpenter do not specify the temperature of freezing, the disclosure of Carpenter shows such temperatures within the range appellant states as critical. It is considered proper to look to- the patent specification to determine the scope of the term \u201cfreezing\u201d in the patent claims, In re Greenlee, 42 CCPA 926, 1955 C.D. 238, 697, O.G. 556. 22[2] F. (2d) 739, 106 USPQ 104. [Emphasis ours.]\nWe think that here the board has overstepped the bounds in the manner in which it used matters disclosed in the specification to support the \u201cdouble patenting\u201d rejection. We have already made clear that the Carpenter specification incorporates much of appellant\u2019s invention, including use of temperatures constituting the essence thereof. The \u201cscope\u201d of the term \u201cfreezing\u201d in Carpenter\u2019s claims is not what we are concerned with but rather, what invention his claims define. The Greenlee case, cited, was one in which the court found the difference between patent and application claims directed to heat-hardening, catalyst-containing synthetic resins to be a difference only of scope, and sustained a double patenting rejection on the ground that the same invention was being claimed. The difference in scope was with respect only to the catalysts claimed and the court further held that \u201ctwo inventive concepts are not involved in the present case.\u201d The inapplicability of that decision to a case involving the distinct concepts of blending and of low temperature is apparent. The claims in the two Greenlee patents relied on called for \u201cboron trifluoride catalysts\u201d and the application claim called for a catalyst which was \u201can addition product of boron trifluoride and an amine.\u201d The court found the latter to be \u201can unpatentable species of the catalyst recited in the patent claims\u201d and that nothing other than a difference in scope was involved. For further observations on the Greenlee case and on the illegality of using disclosure from the copending case in support of the double patenting rejection, see our recent opinion in In re Baird, Jr., 52 CCPA 1747, 348 F. 2d 974, 7445, 146 USPQ 579.\nWe are not clear as to what the board meant by its observation that the claimed temperatures of appellant\u2019s claims are not \u201ccritical.\u201d Appellant justifiably disputed that contention. Apparently the board, judging from the cited reference to Sutherland\u2019s specification, had in mind that it makes no critical difference whether a temperature is used within the range \u201410\u00b0 to \u201440\u00b0 F. The board seems to us to have been struggling with the idea of some \u201ccritical\u201d difference between the \u201cfreezing\u201d mentioned in Carpenter\u2019s claims and Sutherland\u2019s claimed temperature range in a quest for a patentable distinction and failed to see it because it read into Carpenter's \u201cfreezing\u201d step Carpenter\u2019s disclosure of Sutherland\u2019s invention. This it cannot do.\nFollowing this lead, the solicitor\u2019s brief argues at length about \u201ccriticality\u201d and the lack of it in appellant\u2019s invention as claimed, which argument we reject as not germane to any issue properly before us. The brief goes further, however, and forthrightly argues that Sutherland's claimed invention \u201cwas a wholly and clearly obvious expedient for one skilled in the art to employ * * We recognize that this type of double patenting situation often comes here on an issue of the obviousness of what is claimed in an application with respect to an invention already claimed in a patent. We had such a situation in In re Simmons, 50 CCPA 990, 312 F. 2d 821, 136 USPQ 450. The double patenting rejection there, which we affirmed, was based on the obviousness of an improvement on an already patented Simmons paint spray apparatus in view of other cited 'prior art which made the improvement obvious. Simmons\u2019 patent was copending with his application and was not itself \u201cprior art.\u201d We do not have such a case here by reason of the nature of the rejections as made below. We find no indication in the rejections before us that appellant\u2019s invention was considered to be obvious. No prior art whatever is relied on. In the words of the examiner\u2019s rejection, his conclusion was that Carpenter\u2019s claims \u201ccall for a process substantially identical to the instant claims * * [Our emphasis.] The examiner\u2019s erroneous reasoning was:\nSince the term \"freezing\u201d [in Carpenter\u2019s claims] reads on the specific freezing range of temperatures cited here, the instant claims ar held to be unpatentable over the claims of the noted commonly assigned application [now patent].\nThe board made no different or new rejection and since we do not have in the case a rejection based on a contention of obviousness, we must regard the solicitor\u2019s contentions that the appealed claims are directed to an obvious invention as misplaced. The Patent Office cannot raise new grounds of rejection in this court.\nPerhaps the examiner should have based his double patenting rejection on the obviousness of using the Sutherland low temperatures in the claimed, process of Carpenter, but he did not and, if the board meant to do so, it certainly failed so to express itself. We therefore will not go into the obviousness question. By not doing so we do not mean to imply that unobviousness is not a statutory prerequisite (35 U.S.C. 103) to the patentability of Sutherland\u2019s invention. But we can consider that question only if it has been raised in such manner in the Patent Office as clearly to apprise the applicant of the rejection he must meet. 35 U.S.C. 132. Nor is obviousness invariably involved in \u201cdouble patenting\u201d rejections. Claims relied on in such rejections often disclose or name the very thing being claimed. Furthermore, the words of such claims cannot be treated as \u201cprior art,\u201d In re Sarett, 51 CCPA 1180, 327 F. 2d 1005, 140 USPQ 474, but are looked to solely for the purpose of determining what has already been patented. They are not treated as prior art for the simple reason they are no more \u201cprior art\u201d under the statute than the specification. The issues raised here are whether the claims are \u201csubstantially identical\u201d and whether there will be \u201can improper extension of the common assignee\u2019s monopoly.\u201d It is beyond our jurisdiction as a court of review to consider an issue not raised below and obviousness is such an issue.\nTo summarize the principal contention of the Patent Office and our reasons for disagreeing with it, the argument is that there are two principal differences between Carpenter\u2019s and appellant\u2019s claims: (1) latex vs. latex blend and (2) freezing broadly vs. freezing at \u201410\u00b0 to \u201440\u00b0 F.; that notwithstanding these differences, the claims are \u201csubstantially identical\u201d and they do not \u201cpatentably differentiate.\u201d We think this is neither a proper analysis of the situation nor a proper statement of the issue which is, rather, whether the Carpenter claims and appellant\u2019s claims are directed to different inventions. We find that Carpenter claims the blending of lattices in the freeze-thaw process whereas appellant claims an entirely unrelated discovery of unexpected advantages in using very low temperatures in the freezing step of the same old process. Though the two inventions relate to the same basic process and even though they are capable of conjoint use, they are independent and distinct inventions. Either can be used without the other. They are even less related than the inventions in-volvd in In re Sarett, supra, a case very much like the present in many aspects, in which we reversed a double patenting rejection, and which we feel supports our holding herein. That too was a common assignee case involving separate inventorship and inventions used together.\nThe decision of the board is reversed.\nStringham, \u201cDouble Patenting,\u201d (1933), Chap. II.\nThat a single process can be envisaged which would infringe both Carpenter\u2019s and Sutherland's claims because it employs \"both inventions is no indication that the patent and application claims read on the same invention in the sense, for example, that specific and generic claims may do so.\nSee discussion of obviousness, infra.\nIt occurs to us that much of the difficulty in this case in its progress through the Patent Office might have been avoided if the solicitors had taken more pains to point out in the two specifications, as well as in the claims, who invented what\u2014if Carpenter had expressly stated what parts of liis disclosure constituted the invention of Sutherland and if Sutherland\u2019s specification had pointed out that in part he was disclosing contemporaneous inventions of Carpenter. Neither application seems to make any reference to the other, yet, as we have indicated, the two applications contain descriptions of the same flow sheet as embodying the invention of both applicants. Each uses the other\u2019s invention as part of his \u201cbest mode\u201d of carrying out his invention. At the same time, the Patent Office could have improved matters by enforcing its Pule 71(b) requiring that \u201cThe specification must set forth the precise invention for which a patent is solicited, in such manner as to distinguish it from other inventions and from what is old.\u201d [Emphasis ours.] Both of these applications were in the hands of the same examiners.",
+        "type": "majority",
+        "author": "Rich, Judge,"
+      },
+      {
+        "text": "Woklet, Chief Judge,\ndissenting.\nI find no error whatever in the unanimous conclusion of the examiner and board, presumably better versed in this field than are we, that there is no patentable distinction between the respective claims of Sutherland and Carpenter. I respectfully suggest that to hold otherwise would constitute an unlawful extension of monopoly, a result Congress has historically sought to prevent.",
+        "type": "dissent",
+        "author": "Woklet, Chief Judge,"
+      }
+    ],
+    "attorneys": [
+      "James J. Shanley, L. S. Van Landingham, Jr., for appellant.",
+      "Clarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 1009; 146 USPQ 485\nIn re John D. Sutherland, Jr.\n(No. 7299)\nUnited States Court of Customs and Patent Appeals,\nJuly 22, 1965\nJames J. Shanley, L. S. Van Landingham, Jr., for appellant.\nClarence W. Moore (J. E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument January 5, 1965 by Mr. Landingham, Jr., and Mr. Armore]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1683-01",
+  "first_page_order": 1007,
+  "last_page_order": 1017
+}

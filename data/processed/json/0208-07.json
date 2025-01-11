@@ -1,0 +1,58 @@
+{
+  "id": 12486738,
+  "name": "Com. v. N. Wolfe",
+  "name_abbreviation": "Com. v. Wolfe",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1709 MDA 2015",
+  "first_page": "208",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "348129b971721dc73779c58e2fb0e855f4c2e77a1b0f2c2c257f0602195d0d2d",
+    "simhash": "1:9403de01cc8a9483",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nN. Wolfe"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nN. Wolfe\nNO. 1709 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0208-07",
+  "first_page_order": 208,
+  "last_page_order": 208
+}

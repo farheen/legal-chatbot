@@ -1,0 +1,62 @@
+{
+  "id": 12504666,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Jarrell C. BELLE, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Belle",
+  "decision_date": "2019-01-18",
+  "docket_number": "C-508 September Term 2018; 081937",
+  "first_page": "1213",
+  "last_page": "1213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 1213"
+    },
+    {
+      "type": "parallel",
+      "cite": "236 N.J. 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 371,
+    "sha256": "6216a4860163d3e897732cfe67080c28ba61d15c42b7ab015923c260df00fc7e",
+    "simhash": "1:547e25b5917bdfa8",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nJarrell C. BELLE, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-002465-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nJarrell C. BELLE, Defendant-Petitioner.\nC-508 September Term 2018\n081937\nSupreme Court of New Jersey.\nJanuary 18, 2019\nORDER"
+  },
+  "file_name": "1213-04",
+  "first_page_order": 1213,
+  "last_page_order": 1213
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490602,
+  "name": "IN RE: Nom Petition of N ALEXANDROFF (Price)",
+  "name_abbreviation": "In re Nom Petition N Alexandroff",
+  "decision_date": "2017-04-24",
+  "docket_number": "399 CD 2017",
+  "first_page": "305",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 118,
+    "sha256": "2be1168f2a9b6f8deb890fd17595c857906cf0278d81b152022ddf5bde59cc21",
+    "simhash": "1:94b13fe3a1007410",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: Nom Petition of N ALEXANDROFF (Price)"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE: Nom Petition of N ALEXANDROFF (Price)\n399 CD 2017\nCommonwealth Court of Pennsylvania.\nApril 24, 2017\nAffirmed"
+  },
+  "file_name": "0305-17",
+  "first_page_order": 305,
+  "last_page_order": 305
+}

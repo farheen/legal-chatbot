@@ -1,0 +1,89 @@
+{
+  "id": 12489505,
+  "name": "STATE of Connecticut v. Clarence Malcolm PATTERSON",
+  "name_abbreviation": "State v. Patterson",
+  "decision_date": "2017-04-05",
+  "docket_number": "",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 A.3d 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "156 A.3d 66",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12489337
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/156-2/0066-01"
+      ]
+    },
+    {
+      "cite": "170 Conn. App. 76",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "year": 2017,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 452,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577972692616442
+    },
+    "sha256": "223e56e19f0a2163aabdddb26503b80935201c615a94814595061197c6d7ab09",
+    "simhash": "1:74af962a93e355f5",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:34:52.528919+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nClarence Malcolm PATTERSON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 76, 156 A.3d 66 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nClarence Malcolm PATTERSON\nSupreme Court of Connecticut.\nDecided April 5, 2017\nHeather Clark, assigned counsel, in support of the petition.\nMitchell S. Brody, senior assistant state's attorney, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 170 Conn. App. 76, 156 A.3d 66 (2017), is denied.\nROBINSON, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0320-02",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

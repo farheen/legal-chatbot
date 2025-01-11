@@ -1,0 +1,58 @@
+{
+  "id": 12488208,
+  "name": "Com. v. Morroni, J.",
+  "name_abbreviation": "Com v. Morroni",
+  "decision_date": "2016-05-02",
+  "docket_number": "1293 MDA 2015",
+  "first_page": "1131",
+  "last_page": "1131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 129,
+    "sha256": "60b436a5cde8e65a4b18d796e37e820808fd902ed22c7f4d83803ccb6a2ccc01",
+    "simhash": "1:7443f49892bb15a0",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMorroni, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMorroni, J.\n1293 MDA 2015\nSuperior Court of Pennsylvania.\nMay 2, 2016\nReargument Denied June 30, 2016\nAffirmed/Reversed"
+  },
+  "file_name": "1131-09",
+  "first_page_order": 1131,
+  "last_page_order": 1131
+}

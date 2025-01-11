@@ -1,0 +1,216 @@
+{
+  "id": 8046057,
+  "name": "Jay DORBOLO, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee",
+  "name_abbreviation": "Dorbolo v. State",
+  "decision_date": "1979-07-18",
+  "docket_number": "",
+  "first_page": "106",
+  "last_page": "109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "405 A.2d 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "394 U.S. 731",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179959
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "739"
+        },
+        {
+          "page": "1424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/394/0731-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "431 U.S. 181",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2180
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "188"
+        },
+        {
+          "page": "1819"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0181-01"
+      ]
+    },
+    {
+      "cite": "99 S.Ct. 1755",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1780286
+      ],
+      "weight": 4,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1757-1758"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0369-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 6,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464"
+        },
+        {
+          "page": "1023"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166688
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "1764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0478-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 5,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "1625, 1628"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "401 A.2d 943",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8053829
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/401/0943-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 608,
+    "char_count": 10647,
+    "ocr_confidence": 0.805,
+    "pagerank": {
+      "raw": 5.729666333438332e-08,
+      "percentile": 0.3591831029531065
+    },
+    "sha256": "2d5b8001b141909c01d7487ad1bbe012ab8d03bbc46fb4d01a40fcd8bbac19c6",
+    "simhash": "1:fa33460475c3a017",
+    "word_count": 1801
+  },
+  "last_updated": "2024-02-27T22:14:23.256652+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McNEILLY, QUILLEN and HORSEY, JJ."
+    ],
+    "parties": [
+      "Jay DORBOLO, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "McNEILLY, Justice:\nDefendant, Jay Dorbolo, appeals his Superior Court jury convictions of two charges of felony theft and one charge of conspiracy, contending that the Trial Court erred in admitting inculpatory oral statements made by defendant without a sufficient showing of a knowing and intelligent waiver of his right to remain silent and his right to the assistance of counsel during interrogation.\nI\nPrior to trial defendant moved to suppress the inculpatory oral statements made by him after informing the interrogating officers that he wished to remain silent and to have the Public Defender present during questioning. Following an evidentiary suppression hearing held outside the presence of the jury, the Trial Judge, announcing his ruling from the bench, denied the motion with the following observations:\n\u201cTo sum it all up, I credit the testimony of Officer Rees. After being advised of his rights, and he admits that that happened, that he was aware of his rights, he said, \u201cI\u2019m willing to talk to you, but I won\u2019t sign a statement until I consult with a lawyer.\u201d I make this finding in part because of my assessment of the Defendant\u2019s demeanor. He is like Miss Campo, young, but is very much unlike her in personality and in form of sophistication. He strikes me as glib and flip. He is a person who was aware that he was wanted for this charge for three months, or at least two months. I think he said three months. He was making arrangements on his own to make sure that he had bail when the time came for him to be placed in custody. I don\u2019t think he was intimidated at all. I think, frankly, he just outfoxed himself a little. I think he was playing games with the police. I don\u2019t know whether he thought in his own mind that only a written statement could be used, and not an oral statement. There is no point in trying to figure out what was going on in his own mind. I think he was playing games, thought he was helping himself, and it turns out he made some admissions. Under the circumstances, I find no reason to suppress those admissions.\nWhile it is a red light and a danger signal when one hears that there was any mention of a lawyer, one looks closely. I don\u2019t believe this is the situation where the police just ignored an absolute request for a lawyer, but rather happened as Officer Rees said it happened. I don\u2019t think this is a case where there was a slick officer taking advantage of an ignorant defendant who is under pressure, but simply the defendant decided that he would talk for his own reasons, but that he wouldn\u2019t sign any statements until he talked to a lawyer.\nThe question comes down to what was the obligation of the officers. I think they have no affirmative obligation to cease questioning at that point because the Defendant indicated a willingness to talk. The Defendant admits that he knew that he had been advised of his rights, understood them. There was no statement on his part that he was misled in any way. The rights say nothing about written statements, but really are slanted, I would submit, more towards oral statements. So the Defendant was probably caught in his own sophistication in that area. I think the case is distinguishable from the ones that are cited by the defendant, where there was a request to see a lawyer and a very different kind of defendant and police officers used some kind of a ruse to get the defendant to talk in spite of that request. So on the factual basis, the motion to suppress the incriminating statements is denied. Of course, if there is testimony on the issue, I will instruct the jury appropriately, if there is dispute in the trial itself as to whether any admission was actually made. I will allow them to ultimately find that fact.\u201d\nII\nThe threshold question in this appeal is whether defendant knowingly and voluntarily waived his right to remain silent and his right to counsel. The Trial Judge found the defendant had made a knowing and voluntary waiver, and thereafter he submitted the issue to the jury. See State v. Rooks, Del.Supr., 401 A.2d 943 (1979).\nUnder Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966) the requirements of warnings and waiver of rights became a fundamental mandate of the Fifth Amendment privilege against self incrimination. The giving and understanding of the Miranda warnings is not in dispute.\nThe sole issue before this Court is that of waiver:\n\u201cThe warning of the right to remain silent must be accompanied by the explanation that anything said can and will be used against the individual in court. This warning is needed in order to make him aware not only of the privilege, but also of the consequences of foregoing it. It is only through an awareness of these consequences that there can be any assurance of real understanding and intelligent exercise of the privilege.\u201d\n******\n\u201cIf the interrogation continues without the presence of an attorney and a statement is taken, a heavy burden rests on the government to demonstrate that the defendant knowingly and intelligently waived his privilege against self-incrimination and his right to retained or appointed counsel. Escobedo v. State of Illinois, 378 U.S. 478, 490 n.14, 84 S.Ct. 1758, 1764, 12 L.Ed.2d 977. This Court has always set high standards of proof for the waiver of constitutional rights, Johnson v. Zerbst, 304 U.S. 458, 58 S.Ct. 1019, 82 L.Ed. 1461 (1938), and we re-assert these standards as applied to in-custody interrogation. Since the State is responsible for establishing the isolated circumstances under which the interrogation takes place and has the only means of making available corroborated evidence of warnings given during incommunicado interrogation, the burden is rightly on its shoulders.\u201d Miranda, supra, 86 S.Ct. at 1625, 1628.\nIn the recent opinion of North Carolina v. Butler, - U.S. -, 99 S.Ct. 1755, 60 L.Ed.2d 286 (1979), the Court held that an explicit statement of waiver is not invariably necessary to support a finding that a defendant has waived his Miranda rights.\n\u201cThe courts must presume that a defendant did not waive his rights; the prosecution\u2019s burden is great; but in at least some cases waiver can be inferred from the actions and words of the person interrogated.\u201d\n******\n\u201cEven when the right so fundamental as that to counsel at trial is involved, the question of waiver must be determined on \u2018the particular facts and circumstances surrounding that case, including the background, experience, and conduct of the accused.\u2019 Johnson v. Zerbst, 304 U.S. 458, 464, 58 S.Ct. 1019, 1023, 82 L.Ed. 1461. See also United States v. Washington, 431 U.S. 181, 188, 97 S.Ct. 1814, 1819, 52 L.Ed.2d 238; Schneckloth v. Bustamonte, 412 U.S. 218, 93 S.Ct. 2041, 36 L.Ed.2d 854; Frazier v. Cupp, 394 U.S. 731, 739, 89 S.Ct. 1420, 1424, 22 L.Ed.2d 684.\u201d 99 S.Ct. at 1757-1758.\nDefendant places great emphasis upon that portion of the Trial Judge\u2019s ruling from the bench which states:\n\u201cI think, frankly, he just outfoxed himself a little. I think he was playing games with the police. I don\u2019t know whether he thought in his own mind that only a written statement could be used, and not an oral statement. There is no point in trying to figure out what was going on in his own mind. I think he was playing games, thought he made helping himself, and it turns out he made some admissions.\u201d\nTaken out of context that statement does raise a red flag requiring this. Court to carefully scrutinize the suppression record to find either support or the absence of support for the Trial Judge\u2019s ultimate conclusion and denial of defendant\u2019s motion to suppress. We are satisfied from our review of the record that there was substantial evidence before the Trial Judge sufficient to bear the State\u2019s heavy burden of establishing a knowing waiver.\nThe defendant was informed, inter alia, by his Miranda warnings that- \u201c[ajnything you say can and will be used against you in a Court of law.\u201d He denies that any of his statements were incriminating because he was merely playing games with the police to lead them on when they confronted him with names and addresses pertaining to multiple burglaries in New Castle County. When asked why he continued to talk to the police in spite of his desire to remain silent and to have counsel present during any interrogation, he stated that he was stalling for time until a public defender could be present to counsel him. He also stated that he was following the pattern of someone he knew who, charged with multiple burglaries, had done the same thing successfully. The record clearly indicates that what defendant said was volunteered. The record is equally as clear in revealing that what defendant said was intended as a stall to lead the officers on without incriminating himself. The pitfall in his attempted subterfuge was that he talked too much.\nDefendant is not the ordinary eighteen year old innocent youth unaware of or unlearned in the field of criminal law. As a juvenile, defendant had been incarcerated as an incorrigible in the Delaware Youth Center. He escaped but was apprehended and reincarcerated within eight hours. In addition, he had been arrested for shoplifting and burglary. Defendant\u2019s personality and demeanor expressed during the suppression hearing is clearly and accurately stated by the Trial Judge. Defendant\u2019s self-assurance is also expressed in his taking over the role of advocate from his defense attorney while extensively cross-examining Detective Moss.\nUnder the totality of the circumstances, including defendant\u2019s background, experience and conduct, we are satisfied that the State has met its heavy burden of establishing waiver under the rules of Miranda, supra, and Butler, supra.\n******\nAFFIRMED.\nDetective Moss testified that defendant was advised under Miranda:\n\u201cYou have a right to remain silent. Anything you say can and will be used against you in a Court of law. You have the right to talk to a lawyer and have him present with you while you are being questioned. If you cannot afford a lawyer, one will be appointed for you before any questioning, if you wish one. If at any time during this interview you wish to discontinue your statement, you have a right to do so. Do you understand these rights I have explained to you?\u201d",
+        "type": "majority",
+        "author": "McNEILLY, Justice:"
+      }
+    ],
+    "attorneys": [
+      "Richard E. Fairbanks, Jr., Asst. Public Defender, Wilmington, for defendant below, appellant.",
+      "James A. Natalie, Jr., Deputy Atty. Gen., Wilmington, for plaintiff below, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Jay DORBOLO, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.\nSupreme Court of Delaware.\nSubmitted June 22, 1979.\nDecided July 18, 1979.\nRichard E. Fairbanks, Jr., Asst. Public Defender, Wilmington, for defendant below, appellant.\nJames A. Natalie, Jr., Deputy Atty. Gen., Wilmington, for plaintiff below, appellee.\nBefore McNEILLY, QUILLEN and HORSEY, JJ."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 170,
+  "last_page_order": 173
+}

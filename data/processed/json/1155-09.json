@@ -1,0 +1,59 @@
+{
+  "id": 6082243,
+  "name": "In re Werner Schmitt and Robert Purrmann",
+  "name_abbreviation": "In re Schmitt",
+  "decision_date": "1961-01-09",
+  "docket_number": "No. 6642",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "48 C.C.P.A. 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "ocr_confidence": 0.46,
+    "sha256": "2abbbf3e52660f7f461e1f51f4c0c3b29223d637224a0de764ef0142738caabc",
+    "simhash": "1:33029212c46c7b22",
+    "word_count": 23
+  },
+  "last_updated": "2023-07-14T22:03:12.646002+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Werner Schmitt and Robert Purrmann"
+    ],
+    "opinions": [
+      {
+        "text": "Self hardening composition of matter and a method of making same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 9, 1961\nIn re Werner Schmitt and Robert Purrmann\n(No. 6642)."
+  },
+  "file_name": "1155-09",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

@@ -1,0 +1,89 @@
+{
+  "id": 8354831,
+  "name": "Irwin A. POPOWSKY, Consumer Advocate, Respondent, v. PENNSYLVANIA PUBLIC UTILITY COMMISSION, Petitioner",
+  "name_abbreviation": "Popowsky v. Pennsylvania Public Utility Commission",
+  "decision_date": "2007-07-24",
+  "docket_number": "",
+  "first_page": "635",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "295 A.2d 825",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "828"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 Pa. 136",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1945614
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/449/0136-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 136,
+    "char_count": 1648,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2028768858724968
+    },
+    "sha256": "92d043737f1750dd5ae4de3f4270a3278de84ed8500a9c3da61eea155c5d1edc",
+    "simhash": "1:3a83ac5ddfd6aa36",
+    "word_count": 239
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Irwin A. POPOWSKY, Consumer Advocate, Respondent, v. PENNSYLVANIA PUBLIC UTILITY COMMISSION, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of July, 2007, the Petition for Allowance of Appeal is hereby GRANTED. The issues, as stated by petitioner are:\n1. Did the Commonwealth Court depart from accepted judicial practice or abuse its discretion when the court incorrectly concluded that the Commission\u2019s Merger Order, which approved the Verizon/MCI merger, failed to conduct a Pennsylvania-specific analysis of the merger\u2019s competitive impact in Pennsylvania?\n2. Compounding its fundamental factual error, did the Commonwealth Court depart from accepted judicial practice or abuse its discretion by failing to apply the \u201csubstantial evidence\u201d standard of judicial review of Commission decisions when it re-weighted the evidence to reach a conclusion contrary to the conclusion reached by the Commission?\n3. Did the Commonwealth Court depart from accepted judicial practice or abuse its discretion by unilaterally reinterpreting and expanding this Honorable Court\u2019s holding in the City of York v. Pa. Public Utility Commission, 449 Pa. 136, 295 A.2d 825, 828 (1972), which requires that a merger approved by the Commission demonstrate that the merger \u201cwill affirmatively promote the service, accommodation, convenience, or safety of the public in some substantial way\u201d for application to utilities operating under Chapter 30 price-cap regulation and, in effect, suggesting that merger conditions must include specific and current short-term rate concessions as conditions to the affected parties?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Irwin A. POPOWSKY, Consumer Advocate, Respondent, v. PENNSYLVANIA PUBLIC UTILITY COMMISSION, Petitioner.\nSupreme Court of Pennsylvania.\nJuly 24, 2007."
+  },
+  "file_name": "0635-03",
+  "first_page_order": 683,
+  "last_page_order": 684
+}

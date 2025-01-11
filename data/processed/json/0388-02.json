@@ -1,0 +1,521 @@
+{
+  "id": 9423822,
+  "name": "Daniel FANNING v. Sanford DAVNE, M.D., Donald Myers, M.D. and Thomas Jefferson University Hospital Appeal of Sanford Davne, M.D",
+  "name_abbreviation": "Fanning v. Davne",
+  "decision_date": "2002-02-22",
+  "docket_number": "",
+  "first_page": "388",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "795 A.2d 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "742 A.2d 1160",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "774 A.2d 1246",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11092296,
+        124744,
+        11092340,
+        124768
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/1246-01",
+        "/pa/565/0463-01",
+        "/a2d/774/1246-02",
+        "/pa/565/0464-01"
+      ]
+    },
+    {
+      "cite": "565 Pa. 464",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        124768
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/565/0464-01"
+      ]
+    },
+    {
+      "cite": "739 A.2d 200",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11563274
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/739/0200-01"
+      ]
+    },
+    {
+      "cite": "710 A.2d 1142",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11844026,
+        507790,
+        11843918
+      ],
+      "pin_cites": [
+        {
+          "page": "1143"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/710/1142-02",
+        "/pa/551/0437-01",
+        "/a2d/710/1142-01"
+      ]
+    },
+    {
+      "cite": "602 A.2d 860",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "529 Pa. 650",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 Pa.Super. 101",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        891680
+      ],
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "428",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/402/0101-01"
+      ]
+    },
+    {
+      "cite": "2001 WL 1602971",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that in Pennsylvania, lack of informed consent claims utilize a battery standard; that is, a physician commits battery where the patient does not consent to the procedure on his person, thus constituting a harmful or offensive contact"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "789 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9399333
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that in Pennsylvania, lack of informed consent claims utilize a battery standard; that is, a physician commits battery where the patient does not consent to the procedure on his person, thus constituting a harmful or offensive contact"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/789/0232-01"
+      ]
+    },
+    {
+      "cite": "783 A.2d 815",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9472027
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "824"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/783/0815-01"
+      ]
+    },
+    {
+      "cite": "176 F.R.D. 158",
+      "category": "reporters:specialty",
+      "reporter": "F.R.D.",
+      "case_ids": [
+        103435
+      ],
+      "pin_cites": [
+        {
+          "page": "186"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/frd/176/0158-01"
+      ]
+    },
+    {
+      "cite": "765 A.2d 1144",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11077672
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/765/1144-01"
+      ]
+    },
+    {
+      "cite": "744 A.2d 285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11486583
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "286"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/0285-01"
+      ]
+    },
+    {
+      "cite": "658 A.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7864928,
+        472143
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "343",
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/658/0341-01",
+        "/pa/540/0409-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 409",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472143
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "412",
+          "parenthetical": "citations and quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0409-01"
+      ]
+    },
+    {
+      "cite": "743 A.2d 494",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11488814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/743/0494-01"
+      ]
+    },
+    {
+      "cite": "774 A.2d 1262",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11092467
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1265"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/774/1262-01"
+      ]
+    },
+    {
+      "cite": "711 A.2d 458",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        507875,
+        11821015
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "461"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0496-01",
+        "/a2d/711/0458-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 496",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507875
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "501-502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0496-01"
+      ]
+    },
+    {
+      "cite": "753 A.2d 264",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11206297
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/753/0264-01"
+      ]
+    },
+    {
+      "cite": "742 A.2d 1082",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11502702
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1084"
+        },
+        {
+          "page": "1085"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/742/1082-01"
+      ]
+    },
+    {
+      "cite": "606 A.2d 902",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "530 Pa. 633",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "599 A.2d 647",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1829808,
+        1829780,
+        903261
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/528/0593-01",
+        "/pa/528/0592-01",
+        "/pa-super/410/0146-01"
+      ]
+    },
+    {
+      "cite": "410 Pa.Super. 146",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        903261
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/410/0146-01"
+      ]
+    },
+    {
+      "cite": "422 Pa.Super. 556",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        923448
+      ],
+      "weight": 2,
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/422/0556-01"
+      ]
+    },
+    {
+      "cite": "657 A.2d 511",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        717944,
+        11932309
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/441/0281-01",
+        "/a2d/657/0511-01"
+      ]
+    },
+    {
+      "cite": "441 Pa.Super. 281",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        717944
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/441/0281-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1118,
+    "char_count": 26351,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.947487136851577e-08,
+      "percentile": 0.31052235091698394
+    },
+    "sha256": "5eeb9911ab38880e2cc0193a33c9ba2835c2f50db655b8492ccb231b528c4a68",
+    "simhash": "1:ad6a9e547d1a82e5",
+    "word_count": 4189
+  },
+  "last_updated": "2024-02-27T20:54:19.083056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before JOHNSON, JOYCE and BECK, JJ."
+    ],
+    "parties": [
+      "Daniel FANNING v. Sanford DAVNE, M.D., Donald Myers, M.D. and Thomas Jefferson University Hospital Appeal of Sanford Davne, M.D."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY JOYCE, J.\n\u00b6 1 Sanford Davne, M.D. (Appellant), appeals from the July 13, 1999 orders that denied his motions for post-trial relief and granted Daniel Fanning\u2019s (Appellee) petition for delay damages following a jury verdict in favor of Appellee. For the reasons set forth below, we affirm. The relevant facts and procedural history of this case are as follows.\n\u00b62 On October 7, 1987, Appellee, who was working as an electrician for Carr Electric, injured his back while standing on a scaffold that moved suddenly. Ap-pellee sought medical treatment and underwent spinal decompression and fusion surgeries in 1988 and 1989, but he still suffered back and leg pain. In July of 1990, Appellee was referred to Appellant, who specialized in spinal surgeries. In July of 1990, Appellant performed spinal decompression surgery on Appellee.\n\u00b6 3 In January of 1991, Appellee continued to have pain, and sought further treatment with Appellant. Appellant performed spinal fusion surgery on Appellee, during which he implanted pedicle plates and screws.\n\u00b6 4 Appellee, however, continued to endure back and leg pain, and Appellant and Appellee discussed further treatment options. These options included: removal of the plates and screws with implantation of new plates and screws; an interbody fusion; an anterior fusion; or the implantation of a bone growth stimulator. Appel-lee testified he informed Appellant of his desire to have the pedicle screws and plates removed, feeling that they were the source of the increased pain.\n\u00b6 5 Appellee testified that it was his understanding and desire that no plates or screws be implanted after the removal of the plates and screws already in his spine. N.T. Trial, 03/08/1999, at 107. Prior to the 1993 surgery, Appellant discussed consent-to-surgery forms with Appellee. Appellee questioned the language in the consent forms that referenced implanting plates and screws. Appellee testified that Appellant assured him the only implantation that would be considered was a bone growth stimulator. N.T. Trial, 03/08/1999, at 112. However, it was Appellee\u2019s understanding that there would be two surgeries; one to remove the plates and screws, and if necessary, a subsequent surgery to perform an interbody fusion and implant a bone growth stimulator.\n\u00b6 6 Appellant thereafter performed surgery on Appellee in April of 1993. Appel-lee was subsequently informed that Appellant had in fact implanted new screws and plates into Appellee\u2019s spine. Appellee testified that this procedure was performed without his consent. N.T. Trial, 08/08/1999, at 114.\n\u00b6 7 Appellee initiated the instant medical malpractice action by writ of summons on September 22, 1994. In Appellee\u2019s complaint, filed June 28,1995, Appellee alleged Appellant was negligent in his decision to perform the spinal fusion surgery and implant the screws and plates, in addition to proceeding with a surgical procedure without Appellee\u2019s informed consent. The case proceeded to a jury trial March 8, 1999, before the Honorable Gary S. Glazer. The trial was held over five days, from March 8, 1999 to March 12,1999. At the close of the proceedings, the jury returned a verdict in favor of Appellee in the amount of $100,000.00.\n\u00b6 8 Appellant filed post-trial motions, and Appellees petitioned for delay damages. In an order filed July 13, 1999, the trial court granted Appellee\u2019s petition for delay damages adding $32,477.00 to the $100,000.00 for a total verdict of $132,477.00; this order was filed concurrently with the trial court\u2019s July 13, 1999 order that denied Appellant\u2019s post-trial motions and ordered the entry of judgment in favor of Appellee. Thereafter, Appellant timely filed the instant appeal.\n\u00b69 At the outset, this Court must determine if we have jurisdiction over the instant appeal. \u201cGenerally, an appeal will only be permitted from a final order unless otherwise permitted by statute or rule of court.\u201d Johnston the Florist, Inc. v. TEDCO Constr. Corp., 441 Pa.Super. 281, 657 A.2d 511, 514 (1995). An appeal from an order denying post-trial motions is interlocutory. Id.; Pa.R.A.P. 301(a), (c), and (d). An appeal to this Court can only he from judgments entered subsequent to the trial court\u2019s disposition of post-verdict motions, not from the order denying post-trial motions. Id.\n\u00b6 10 However, in Bonavitacola v. Cluver, 422 Pa.Super. 556, 619 A.2d 1363 (1993), a panel of this Court allowed an appeal to proceed, despite the fact that there was no judgment entered, in the interests of judicial economy. The reasoning behind this decision was that if the order from which an appeal is taken \u201cwas clearly intended to be a final pronouncement on the matters discussed in the opinion [accompanying the order], ... the appeal is properly before us and ... we have jurisdiction to address the parties\u2019 claims.\u201d Bonavitacola, supra (quoting Murphy v. Murphy, 410 Pa.Super. 146, 599 A.2d 647, 650 (1991), appeal denied, 530 Pa. 633, 606 A.2d 902 (1992)).\n\u00b6 11 As our Court explained in Bonavi-tacola, \u201c[t]he rationale behind treating this appeal as one from an entered judgment is to allow the appeal which is in progress to proceed, economizing judicial resources. Were we to quash an appeal from an order which, except for the entry of judgment, is otherwise final, we would expend judicial resources in the decision to quash, one of the parties would inevitably praecipe the prothonotary to enter judgment, and a subsequent appeal would be permitted to follow.\u201d Id. at 1367 (internal citations and quotation marks omitted).\n\u00b6 12 Nevertheless, \u201cthe law of this Commonwealth has long recognized that the entry of judgment is a jurisdictional matter. The requirement that judgment be docketed is jurisdictional. Moreover, the entry of judgment is a prerequisite to our exercise of jurisdiction. On the other hand there are some instances wherein a party has failed to enter judgment and our appellate courts may regard as done that which ought to have been done.\u201d Johnston, supra at 514-515 (internal citations and quotation marks omitted). Pursuant to Johnston, supra, we will consider this appeal as being properly before our Court.\n\u00b6 13 Appellant presents the following issues for our consideration:\nWHETHER JUDGMENT NOTWITHSTANDING THE VERDICT SHOULD HAVE BEEN ENTERED ON THE INFORMED CONSENT ISSUE BECAUSE THE EVIDENCE DEMONSTRATED THAT [APPELLEE] SIGNED A CONSENT FORM WHICH AUTHORIZED THE USE OF PEDI-CLE PLATES AND SCREWS AND THE VERDICT WAS CLEARLY AGAINST THE WEIGHT OF THE EVIDENCE?\nWHETHER THE TRIAL COURT ERRED BY PERMITTING [APPEL-LEE] TO CROSS EXAMINE [APPELLANT] CONCERNING A FINANCIAL INTEREST IN ACROMED CORPORATION WHEN SUCH TESTIMONY WAS NOT PROPER IMPEACHMENT, WAS HIGHLY PREJUDICIAL, AND WAS IN VIOLATION OF A COURT ORDER ISSUED BY THE HONORABLE LOUIS C. BECH-TLE?\nWHETHER THE JURY VERDICT SHOULD HAVE BEEN MOLDED TO ZERO ($0.00) WHEN THE PLAIN LANGUAGE OF THE PENNSYLVANIA PROPERTY AND CASUALTY INSURANCE GUARANTY ACT, 40 P.S. \u00a7 991.1801 ET. SEQ\u201e AND CASE LAW INTERPRETING THAT ACT, CLEARLY STATE THAT [APPEL-LEE\u2019S] AWARD MUST BE OFFSET BY PAYMENTS RECEIVED FROM OTHER INSURANCE THAT SOUGHT TO PROTECT [APPELLEE] AGAINST THE SAME RISK AS WAS COVERED BY THE INSOLVENT INSURER?\nBrief for the Appellant, at 4.\n\u00b6 14 We will first address Appellant\u2019s issue regarding the denial of his motion for judgment notwithstanding the verdict (JNOV). \u2018When reviewing a motion for judgment notwithstanding the verdict, the evidence must be viewed in the light most favorable to the verdict winner, who must be given the benefit of every reasonable inference of fact. Any conflict in the evidence must be resolved in the verdict winner\u2019s favor.\u201d Kiker v. Pennsylvania Financial Responsibility Assigned Claims Plan, 742 A.2d 1082, 1084 (Pa.Super.1999) (internal citations omitted). There are two bases upon which JNOV can be entered: one, \u201cthe movant is entitled to a judgment as a matter of law, and/or two, the evidence was such that no two reasonable minds could disagree that the outcome should have been rendered in favor of the movant.\u201d Id. at 1085. We will reverse the trial court only upon a finding of an abuse of discretion or error of law that controlled the outcome of the case. Id.\n\u00b6 15 As noted above, a party moving for JNOV (i.e., challenging the sufficiency of the evidence) avers that the evidence and all inferences drawn therefrom, when viewed in the light most favorable to the verdict winner, is insufficient to sustain the verdict. See Kiker, supra. However, the argument portion of Appellant\u2019s brief, while correctly stating the standard for granting a JNOV, never develops any argument on this point. Instead, Appellant focuses his argument toward the assertion that the verdict was against the weight of the evidence and requires a new trial. Consequently, Appellant\u2019s claim that the lower court erred in denying his motion for JNOV is waived for failing to develop any argument. See B & L Asphalt Industries, Inc. v. Fusco, 753 A.2d 264 (Pa.Super.2000) (failure to properly develop argument in appellate brief constitutes waiver). Therefore, we will proceed with an analysis of Appellant\u2019s weight of the evidence claim and demand for a new trial.\nIt is well settled that the grant of a new trial is a matter within the discretion of the trial court. Martin v. Evans, 551 Pa. 496, 501-502, 711 A.2d 458, 461 (1998). \u201cA new trial will be granted on the grounds that the verdict is against the weight of the evidence where the verdict is so contrary to the evidence it shocks one\u2019s sense of justice.\u201d Cangemi ex rel. Estate of Cangemi v. Cone, 774 A.2d 1262, 1265 (Pa.Super.2001). \u201cAn appellant is not entitled to a new trial where the evidence is conflicting and the finder of fact could have decided either way.\u201d Id. Our standard of review of the denial of a motion for a new trial is not different from the grant of a new trial. Livelsberger v. Kreider, 743 A.2d 494 (Pa.Super.1999). Our standard of review of an order denying a motion for a new trial is to decide whether the trial court committed an error of law that controlled the outcome of the case or committed an abuse of discretion. Cangemi, supra.\nAn abuse of discretion is not merely an error of judgment, but if in reaching a conclusion the law is overridden or misapplied, or the judgment exercised is manifestly unreasonable, or [the judgment is] the result of partiality, prejudice, bias or ill-will, as shown by the evidence of record, discretion is abused. We emphasize that an abuse of discretion may not be found merely because the appellate court might have reached a different conclusion, but requires a showing of manifest unreasonableness, or partiality, prejudice, bias, or ill-will, or such lack of support as to be clearly erroneous.\nPaden v. Baker Concrete Construction Co., Inc., 540 Pa. 409, 412, 658 A.2d 341, 343 (1995) (citations and quotation marks omitted).\n\u00b6 16 Appellant bases his demand for a new trial on a \u201cweight of the evidence\u201d argument. This Court has recognized that a weight of the evidence challenge concedes that there was evidence sufficient to sustain the verdict, but the verdict was against the weight of the evidence. Armbruster v. Horowitz, 744 A.2d 285, 286 (Pa.Super.1999). We may not substitute our judgment for that of the trial court, we must only decide whether the trial court abused its discretion. Id. Credibility issues are determined by the jury, and this Court rarely overturns the factual findings of a jury that are based on determinations of credibility, because we are confined to review a cold record. Id.; see also, Commonwealth v. Burns, 765 A.2d 1144 (Pa.Super.2000). With these principles in mind, we find no abuse of discretion in the trial court\u2019s denial of Appellant\u2019s motion for a new trial.\n\u00b6 17 In this case there was extensive testimony and numerous exhibits. The testimony of the witnesses conflicted as to a central issue on this appeal: did Appellee give his informed consent for the 1993 surgery? Introduced at trial were the consent forms signed by Appellee, which Appellant claimed were thoroughly explained. N.T. Trial, 03/10/1999 at 167-176. However, Appellee\u2019s testimony revealed that he never consented to implantation of plates and screws at the 1993 surgery. N.T. Trial, 03/08/1999 at 115, 193-209.\n\u00b6 18 In order for the jury to reach a determination as to whether or not Appel-lee gave his informed consent to the 1993 surgery, they had to sift through this conflicting testimony. Where the parties present conflicting testimony, there is a credibility issue to be determined by the jury. Martin, supra.\n\u00b6 19 The evidence in this matter predominantly consisted of the testimony of witnesses, and the weight of that evidence rested on determinations of credibility. As we are a court of review, we will not disturb factual findings based upon determinations of credibility. Armbruster, supra. Therefore, because the trial court\u2019s conclusions were based on the jury\u2019s determinations of credibility, and because we find the trial court\u2019s decision was not so contrary to the evidence as to shock one\u2019s sense of justice, we will not disturb the trial court\u2019s decision. With respect to this issue, we find clear support in the record and further find no abuse of discretion.\n\u00b6 20 Appellant next avers that during cross-examination of Appellant, counsel for Appellee was improperly permitted to suggest Appellant had a financial interest in AcroMed Corporation, causing him to utilize these devices in order to achieve personal financial gain. Appellant claims this was prejudicial and violated an earlier court order issued by Judge Louis C. Bechtle. Conversely, Appellee argues that the evidence regarding Appellant\u2019s financial interest in AcroMed was in no way precluded by Judge Bechtle\u2019s order. Since both parties claim Judge Bechtle\u2019s order is dispositive, we will look to the order itself.\n\u00b6 21 The relevant portion of Judge Bech-tle\u2019s order is reproduced verbatim below:\n6. All Settlement Class Members who are AcroMed Orthopedic Bone Screw Recipients (or whose claims rest on the implantation of AcroMed Orthopedic Bone Screws) are permanently BARRED and ENJOINED from initiating, asserting, or prosecuting any actions presenting Settled Claims against any party. Settlement Class Members who are AcroMed Orthopedic Bone Screw Recipients (or whose claims rest on the implantation of AcroMed Orthopedic Bone Screws) may not initiate, assert, or prosecute Orthopedic Bone Screw related claims, unless:\n(a) the claim is in the nature of a claim for alleged independent medical malpractice against any physician who treated the Settlement Class Member or any institution at which the Settlement Class Member was treated based upon medical care rendered to the Settlement Class Member; and\n(b) the claim does not (I)[sic] rest in whole or in part on any product liability-related theory of recovery, including without limitation design or manufaetur-ing defect, the regulatory status of any AcroMed Orthopedic Bone Screw, or alleged failure to warn, nondisclosure, or inaccurate or incomplete disclosure, of the regulatory status of any AeroMed Orthopedic Bone Screw or (ii) have as an element of the claim financial relationships with AeroMed and/or an alleged conflict of interest based upon any such financial relationship (impeachment shall not be considered an element of a claim).\nIn re Orthopedic Bone Screw Products Liability Litigation, 176 F.R.D. 158, 186 (E.D.Pa.1997).\n1122 We agree with Appellee. Judge Bechtle\u2019s order was not violated by the trial court permitting cross-examination regarding Appellant\u2019s financial interest in AeroMed. First, the order does not in any form prohibit the offering of evidence; it prohibits certain claims. Second, the language clearly permits claims of medical malpractice and lack of informed consent, which are the issues in the instant case. Next, the order only prohibits the assertion of claims that have as an essential element a financial relationship between the physician and AeroMed. However, this case is a medical malpractice and lack of informed consent action that does not require proof of a financial interest as an essential element. See Rauch v. Mike-Mayer, 783 A.2d 815, 824 (Pa.Super.2001) (stating the essential elements required to prove medical malpractice); and see Bey v. Sacks, 789 A.2d 232, 2001 WL 1602971 (Pa.Super. December 14, 2001) (holding that in Pennsylvania, lack of informed consent claims utilize a battery standard; that is, a physician commits battery where the patient does not consent to the procedure on his person, thus constituting a harmful or offensive contact).\n\u00b6 23 As stated above, questions referring to Appellant\u2019s financial interest in AeroMed were specifically contemplated and permitted by Judge Bechtle\u2019s order. In the instant case, the trial court permitted Appellee to refer to Appellant\u2019s financial interest on cross-examination only, limited to impeachment and motive. N.T. Trial, 03/08/1999, at 2-12.\n\u00b624 Appellant argues it was error for the trial court to allow reference to his stock options and further claims that Ap-pellee\u2019s cross-examination was improper impeachment because: \u201cthe evidence of [Appellant\u2019s] financial interest in AeroMed was offered not to establish that [Appellant] testified falsely, but to suggest a financial motive for the surgery.\u201d Brief for Appellant, at 29. Appellant\u2019s argument is flawed.\n\u00b6 25 Appellee cross-examined Appellant with respect to his position on the AeroMed advisory panel and his stock options in Acromed. Appellant was asked on cross-examination if the stock options would become more valuable if more AeroMed pedicle plate and screw devices were sold and implanted. N.T. 03/11/1999 at 39. Appellee also inquired as to Appellant\u2019s exclusive use of the AeroMed devices. Id. 21. Appellant objected and Judge Glazer allowed the questioning on this subject for the limited purpose of impeachment, as it was relevant to show Appellant had a motive to implant AeroMed devices. Id. at 45.\n\u00b626 Appellant claims that Appellees use of this line of questioning regarding his financial interest in AeroMed as evidence of motive is an essential element of medical malpractice and lack of informed consent, thus violative of Judge Bechtle\u2019s order. Brief for Appellant, at 31. We cannot agree because financial interest and motive are not elements of either medical malpractice (negligence) or lack of informed consent (battery) claims. See Rauch, supra and Bey, supra. Again, this line of questioning did not violate Judge Bechtle\u2019s order. Furthermore, \u201c[questions [concerning] the admission and exclusion of evidence are -within the sound discretion of the trial court and -will not be reversed on appeal absent an abuse of discretion. The basic requisite for the admissibility of any evidence in a case is that it be competent and relevant.\u201d Moran v. G. & W.H. Corson, Inc., 402 Pa.Super. 101, 586 A.2d 416, 428 (1991) (en banc), appeal denied, 529 Pa. 650, 602 A.2d 860 (1992) (citations and quotation marks omitted). Evidence is relevant if it logically tends to establish a material fact in the case, makes the fact at issue more or less probable, or supports a reasonable inference or presumption about the existence of a material fact. Kraus v. Taylor, 710 A.2d 1142, 1143 (Pa.Super.1998).\n\u00b6 27 In the case at bar, the cross examination and resultant answers tended to disprove Appellant\u2019s assertion that the plates and screws were medically indicated following informed consent (N.T. Trial, 03/09/1999, at 173; and 13/10/1999, at 166-180). Instead, Appellee showed that Appellant\u2019s financial interest in promoting the use of the AcroMed devices was his motivation for implantation. Therefore, the subject matter was relevant, and the cross necessary for impeachment.\n\u00b6 28 Appellant\u2019s final question for our consideration presents an issue concerning the Pennsylvania Property and Casualty Insurance Guaranty Association (PPCIGA) (40 P.S. \u00a7\u00a7 991.1801-991.1820.) and the non-duplication of recovery provisions of \u00a7 991.1817. Specifically, Appellant claims that the verdict should be molded to zero to reflect an offset of the monies paid-out on Appellee\u2019s behalf through other insurance protecting Appellee from the same risk.\n\u00b6 29 The non-duplication of recovery provision reads:\n[a]ny person having a claim under an insurance policy shall be required to exhaust first his right under such policy. For purposes of this section, a claim under an insurance policy shall include a claim under any kind of insurance, whether it is a first-party or third-party claim, and shall include, without limitation, accident and health insurance, worker\u2019s compensation, Blue Cross and Blue Shield and all other coverages except for policies of an insolvent insurer. Any amount payable on a covered claim under this act shall be reduced by the amount of any recovery under other insurance.\n40 P.S. \u00a7 991.1817(b). PPICGA\u2019s limit of liability is $300,000.00 per claimant for covered claims. See 40 P.S. \u00a7 991.1803(b)(l)(i)(B). It is Appellant\u2019s position the jury award of $100,000.00 should be offset by the amount already received by Appellee, and the award molded to zero. It is undisputed that Appellee received more than $300,000.00 from his employer\u2019s Workers\u2019 Compensation carrier. It is also undisputed that the amounts paid out on behalf of Appellee were for lost wages and medical bills.\n\u00b6 30 Both parties cite McCarthy v. Bainbridge, M.D., 739 A.2d 200 (Pa.Super.1999), aff'd, 565 Pa. 464, 774 A.2d 1246 (2001), as support for their respective positions regarding the non-duplication of recovery provision of 40 P.S. \u00a7 991.1817. In McCarthy, the plaintiff (the McCarthys) initiated a suit for medical malpractice in the death of David McCarthy. Id. at 201. The parties reached a negotiated settlement in the amount of $950,000.00; $750,000.00 to be paid by Medical Professional Liability Catastrophe Fund, which is not in dispute, and $200,000.00 to be paid by the defendant physician\u2019s professional liability insurer. Id. PPCIGA was triggered to act due to the insolvency of the defendant physician\u2019s insurer. Id. PPCI-GA refused to honor the McCarthy\u2019s claim of $200,000.00 since the decedent had a life insurance policy providing a benefit of $584,216.84 that had already been paid to the McCarthys. Id. PPCIGA\u2019s position was that under the non-duplication of recovery provision of 40 P.S. \u00a7 991.1817, the $200,000.00 claim against PPCIGA was entirely offset by the life insurance proceeds the McCarthys had received. Id. Therefore, PPCIGA contended that it was not required to make any contribution toward payment of the negotiated settlement. Id.\n\u00b6 31 In resolving McCarthy, this Court interpreted the language of \u00a7 991.1817 and held the only reasonable reading was to require that the claim to be offset must be for the same loss as the claim asserted against the insolvent insurer. Id. at 203. We further held that life insurance and casualty insurance protected against different risks and losses. Id.\n\u00b6 32 This reasoning supports Appellee\u2019s position. The damages awarded to Appel-lee in the instant case were for pain and suffering, not for the medical bills or wage loss, which were concededly covered by other insurance. See Brief for Appellant, at 26, and see Brief for Appellee, at 23. No other insurance covered the loss for which Appellee sought compensation: the increased pain and suffering due to Appellant\u2019s actions. Therefore the non-duplication provision does not apply. See generally McCarthy, supra. The jury\u2019s award was for the pain and suffering claim that Appellee established; it was not for medical bills or lost wages.\n\u00b6 33 For all of the reasons stated above, we find no error in the trial court\u2019s denial of Appellant\u2019s motion for JNOV or a new trial, we find no error in the trial court admitting questions and testimony regarding Appellant\u2019s financial interest in AcroMed, and we find that the non-duplication provision of 40 P.S. \u00a7 991.1817 is not applicable to the instant case. Therefore, the July 13, 1999 orders of the trial court, which denied Appellant\u2019s post-trial motions, granted Appellee\u2019s petition for delay damages, and directed the entry of judgment, are affirmed.\n\u00b6 34 Orders affirmed.\n. The pedicle plates and screws were manu-factored by AcroMed Corporation.\n. Appellee subsequently consulted another surgeon who removed the plates and screws. Appellee testified that since the removal of the plates and screws his quality of life has improved. N.T. Trial, 03/08/1999, at 125.\n. Appellant was covered under a professional liability insurance policy with Physicians Insurance Company at the time of the 1993 surgery. Because Physicians Insurance Company became insolvent, Pennsylvania Property and Casualty Guaranty Insurance Association (PPCGIA) became guarantor of the claim made against the insolvent insurer pursuant to 40 P.S. \u00a7\u00a7 991.1801 \u2014 991.1820. It should be noted however that PPCGIA does not assume all obligations of an insolvent insurer. See 40 P.S. \u00a7 991.1808.\n. Despite the language of the order, our review of the record reveals that judgment was not entered in this case.\n. For ease of discussion, we will address Appellant\u2019s issues in reverse order from the manner in which they were presented in the brief.\n. It is undisputed this order applies to Appel-lee as he is a class member.\n. The trial court noted that Judge Victor Di-Nubile's ruling in Schultheis v. Sanford H. Davne, et al., 35 Phil. Co. Rptr. 546, Philadelphia County Court of Common Pleas, February Term 1993, at No. 1851, clearly permitted the evidence of Appellant\u2019s financial interest in AcroMed. N.T. Trial, 03/08/1999, at 7. The trial court in the instant case stated Judge DiNubile is a judge of coordinate jurisdiction and his determination would not be overruled. Id. Furthermore, the Schultheis decision was affirmed ... by our Court in Schultheis v. Davne, 742 A.2d 1160 (Pa.Super.1999) (unpublished memorandum).",
+        "type": "majority",
+        "author": "OPINION BY JOYCE, J."
+      }
+    ],
+    "attorneys": [
+      "Mary G. Walsh, Blue Bell, for appellant.",
+      "Michael D. Fishbein, Philadelphia, for Fanning."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel FANNING v. Sanford DAVNE, M.D., Donald Myers, M.D. and Thomas Jefferson University Hospital Appeal of Sanford Davne, M.D.\nSuperior Court of Pennsylvania.\nArgued Nov. 29, 2001.\nFiled Feb. 22, 2002.\nReargument Denied April 30, 2002.\nMary G. Walsh, Blue Bell, for appellant.\nMichael D. Fishbein, Philadelphia, for Fanning.\nBefore JOHNSON, JOYCE and BECK, JJ."
+  },
+  "file_name": "0388-02",
+  "first_page_order": 428,
+  "last_page_order": 437
+}

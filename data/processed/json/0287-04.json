@@ -1,0 +1,84 @@
+{
+  "id": 12484949,
+  "name": "In re NATALIE S.",
+  "name_abbreviation": "In re Natalie S.",
+  "decision_date": "2016-06-15",
+  "docket_number": "",
+  "first_page": "287",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "321 Conn. 928"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Conn.App. 604",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12485150
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/139-2/0824-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576785364706591
+    },
+    "sha256": "30c9515c544cf64a435f153f15f8a9ff746faf88db671e91ef3fa31572c01e3b",
+    "simhash": "1:bc9e23479fc1a714",
+    "word_count": 100
+  },
+  "last_updated": "2024-02-27T16:21:08.929688+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re NATALIE S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition by the respondent mother for certification for appeal from the Appellate Court, 165 Conn.App. 604, 139 A.3d 824 (2016), is granted, limited to the following issue:",
+      "\"Did the Appellate Court correctly determine that continuing reunification efforts for the respondent mother were not required because temporary guardianship had been placed with the father?\""
+    ],
+    "corrections": "",
+    "head_matter": "In re NATALIE S.\nSupreme Court of Connecticut.\nDecided June 15, 2016.\nMichael S. Taylor, Hartford, and Marina L. Green, in support of the petition.\nBenjamin Zivyon, assistant attorney general, in opposition.\nThe petition by the respondent mother for certification for appeal from the Appellate Court, 165 Conn.App. 604, 139 A.3d 824 (2016), is granted, limited to the following issue:\n\"Did the Appellate Court correctly determine that continuing reunification efforts for the respondent mother were not required because temporary guardianship had been placed with the father?\"\nROBINSON, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0287-04",
+  "first_page_order": 287,
+  "last_page_order": 288
+}

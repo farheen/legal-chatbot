@@ -1,0 +1,58 @@
+{
+  "id": 12485154,
+  "name": "David Johnson v. Washington Metropolitan Area Transit Authority",
+  "name_abbreviation": "Johnson v. Wash. Metro. Area Transit Auth.",
+  "decision_date": "2016-04-26",
+  "docket_number": "NO. 15-CV-990",
+  "first_page": "902",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 A.3d 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 160,
+    "sha256": "84dda3adb793099379a700e79342f043d20e4f67ff30bdf89511c961c1bebefe",
+    "simhash": "1:71e23a012c61d812",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994047+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Johnson\nv.\nWashington Metropolitan Area Transit Authority"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David Johnson\nv.\nWashington Metropolitan Area Transit Authority\nNO. 15-CV-990\nDistrict of Columbia Court of Appeals\nApril 26, 2016\nBeck\nDisposition: Affirmed."
+  },
+  "file_name": "0902-13",
+  "first_page_order": 902,
+  "last_page_order": 902
+}

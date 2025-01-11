@@ -1,0 +1,58 @@
+{
+  "id": 12489543,
+  "name": "STATE v. PARKER",
+  "name_abbreviation": "State v. Parker",
+  "decision_date": "2017-03-20",
+  "docket_number": "17\u2013072",
+  "first_page": "1097",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1097"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 153,
+    "sha256": "ca4b6fab4cf88806be9bb9813515b5bc513512d910ced893bfe83792e4675fce",
+    "simhash": "1:dc119e13c8f5ca04",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nPARKER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nPARKER\n17-072\nSupreme Court of Vermont.\nMarch 20, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed; reversed."
+  },
+  "file_name": "1097-14",
+  "first_page_order": 1097,
+  "last_page_order": 1097
+}

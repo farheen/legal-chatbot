@@ -1,0 +1,58 @@
+{
+  "id": 12486635,
+  "name": "Com. v. M. Hoy",
+  "name_abbreviation": "Com. v. Hoy",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 471 MDA 2015",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 112,
+    "sha256": "46682d703fef39fa7e1e8a4e7358ac6f0daae07596db260239066081274c6b16",
+    "simhash": "1:515f5d0dc3fe9dec",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Hoy"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Hoy\nNO. 471 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed, Reversed and Vacated."
+  },
+  "file_name": "0202-11",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

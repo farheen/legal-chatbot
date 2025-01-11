@@ -1,0 +1,58 @@
+{
+  "id": 12486403,
+  "name": "J. Deleon v. D. Spillane",
+  "name_abbreviation": "Deleon v. Spillane",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 734 EDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "sha256": "6ff8163a010e39e868ceb3d556125ae8b1412970ecf123f97a7a6ff01855b342",
+    "simhash": "1:fd3967b5906b1d9a",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Deleon\nv.\nD. Spillane"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J. Deleon\nv.\nD. Spillane\nNO. 734 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nAffirmed."
+  },
+  "file_name": "0186-08",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

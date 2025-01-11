@@ -1,0 +1,59 @@
+{
+  "id": 6092833,
+  "name": "In re Karl Hass et al.",
+  "name_abbreviation": "In re Hass",
+  "decision_date": "1967-10-30",
+  "docket_number": "No. 8122",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 127,
+    "ocr_confidence": 0.435,
+    "sha256": "9e9b792cd1ba050fc3a86d39fc897dbe52d3ddc3d2de8160fee8503df4e940ee",
+    "simhash": "1:57a46f1485f72248",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Karl Hass et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Process for the manufacture of sintered products from refactory or highly refactory oxides.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8122.\nIn re Karl Hass et al."
+  },
+  "file_name": "1513-14",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

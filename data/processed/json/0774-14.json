@@ -1,0 +1,58 @@
+{
+  "id": 12487263,
+  "name": "Com. v. T. Galloway",
+  "name_abbreviation": "Com. v. Galloway",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 1193 WDA 2015",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "18c93b73c548ff3e689e18d38d22d4406a3adffc0e4df345b2ad128b23b37067",
+    "simhash": "1:e89a8688959b1982",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Galloway"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Galloway\nNO. 1193 WDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed.\n1 Petition for reargument denied June 15, 2016.\n--------"
+  },
+  "file_name": "0774-14",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

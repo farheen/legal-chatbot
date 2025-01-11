@@ -1,0 +1,58 @@
+{
+  "id": 12486942,
+  "name": "Commonwealth v. Robert William Jordan",
+  "name_abbreviation": "Commonwealth v. Jordan",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 220 MAL (2016)",
+  "first_page": "163",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "f7cb45a0490957303467f63fe4fd14258752c583c02d141c45842d99e76dd7a7",
+    "simhash": "1:9c1e52b8c3c18856",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRobert William Jordan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRobert William Jordan\nNO. 220 MAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0163-16",
+  "first_page_order": 163,
+  "last_page_order": 163
+}

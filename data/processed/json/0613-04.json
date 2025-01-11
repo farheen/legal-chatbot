@@ -1,0 +1,64 @@
+{
+  "id": 12491251,
+  "name": "BATES, William v. STATE of Maryland",
+  "name_abbreviation": "Bates v. State",
+  "decision_date": "2017-10-20",
+  "docket_number": "Pet. Docket No. 238, Sept. Term, 2017",
+  "first_page": "613",
+  "last_page": "613",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 613"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 165,
+    "sha256": "bb27358fa5ed831cf2eabe6841a3d5791fd9487e7b036b9181e77eb3e37f3b67",
+    "simhash": "1:3b6f8a48d75d516d",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:26.959830+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BATES, William\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "BATES, William\nv.\nSTATE of Maryland\nPet. Docket No. 238, Sept. Term, 2017\nCourt of Appeals of Maryland.\nOctober 20, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0613-04",
+  "first_page_order": 613,
+  "last_page_order": 613
+}

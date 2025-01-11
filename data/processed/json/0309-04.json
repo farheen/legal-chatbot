@@ -1,0 +1,58 @@
+{
+  "id": 12490664,
+  "name": "HOLMES, A. v. UCBR",
+  "name_abbreviation": "Holmes v. Ucbr",
+  "decision_date": "2017-05-24",
+  "docket_number": "1329 CD 2016",
+  "first_page": "309",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 309"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 138,
+    "sha256": "a7ee8dae6bfa95f3e5f76a34bb2192b58375da5139e13b8c1aa4d263e6b933f1",
+    "simhash": "1:40d512278fb81d5a",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HOLMES, A.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Vacated and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "HOLMES, A.\nv.\nUCBR\n1329 CD 2016\nCommonwealth Court of Pennsylvania.\nMay 24, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0309-04",
+  "first_page_order": 309,
+  "last_page_order": 309
+}

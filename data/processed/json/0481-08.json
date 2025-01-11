@@ -1,0 +1,58 @@
+{
+  "id": 12485681,
+  "name": "Commonwealth v. Vaughn Rico Wright",
+  "name_abbreviation": "Commonwealth v. Wright",
+  "decision_date": "2016-06-28",
+  "docket_number": "NO. 98 WAL 2016",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "8dd255277e14da642bf7af58c1ccf7620372eea394c553b187421bec2c51dab9",
+    "simhash": "1:9d8f476519b03151",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nVaughn Rico Wright"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nVaughn Rico Wright\nNO. 98 WAL 2016\nSupreme Court of Pennsylvania\nJune 28, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0481-08",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

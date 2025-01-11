@@ -1,0 +1,58 @@
+{
+  "id": 12487266,
+  "name": "Com. v. B. Elisha",
+  "name_abbreviation": "Com. v. Elisha",
+  "decision_date": "2016-04-08",
+  "docket_number": "NO. 1937 EDA 2014",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "d1e0ac49f30076373e637c9a5f36b3c758e47a57f178a2a7ed1c0ddb4a00f762",
+    "simhash": "1:0d44fce194a1b996",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Elisha"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Elisha\nNO. 1937 EDA 2014\nSuperior Court of Pennsylvania.\nApril 08, 2016\nVacated and Remanded."
+  },
+  "file_name": "0774-02",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

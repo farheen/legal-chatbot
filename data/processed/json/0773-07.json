@@ -1,0 +1,58 @@
+{
+  "id": 12487256,
+  "name": "Com. v. V. Parker",
+  "name_abbreviation": "Com. v. Parker",
+  "decision_date": "2016-04-06",
+  "docket_number": "NO. 826 MDA 2015",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "sha256": "245d41fbfe4f4edb78f579d923bd63ac0180ceceea112c95f48ed4a48d2e9414",
+    "simhash": "1:2cc77709803e3580",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nV. Parker"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nV. Parker\nNO. 826 MDA 2015\nSuperior Court of Pennsylvania.\nApril 06, 2016\nAffirmed."
+  },
+  "file_name": "0773-07",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

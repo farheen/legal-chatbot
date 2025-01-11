@@ -1,0 +1,58 @@
+{
+  "id": 12485287,
+  "name": "State v. Tuliper",
+  "name_abbreviation": "State v. Tuliper",
+  "decision_date": "2016-05-09",
+  "docket_number": "NO. 16-144",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 91,
+    "sha256": "114170799a4919e85eb4964c28c32aaf28c7a84881f762a5d577696374ba3d5b",
+    "simhash": "1:a07f182984c4aee5",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nTuliper"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nTuliper\nNO. 16-144\nSupreme Court of Vermont\nMay 09, 2016\nDisposition: Dismissed."
+  },
+  "file_name": "0188-19",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

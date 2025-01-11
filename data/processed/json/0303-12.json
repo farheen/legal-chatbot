@@ -1,0 +1,58 @@
+{
+  "id": 12490568,
+  "name": "ROBINSON, R. v. UCBR",
+  "name_abbreviation": "Robinson v. Ucbr",
+  "decision_date": "2017-04-18",
+  "docket_number": "263 CD 2016",
+  "first_page": "303",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 129,
+    "sha256": "7f49899876991286e65662d3e56d313e809dfaf84c6b6eec9035bf26a8511b20",
+    "simhash": "1:2d2dabe789843e41",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROBINSON, R.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ROBINSON, R.\nv.\nUCBR\n263 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 18, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0303-12",
+  "first_page_order": 303,
+  "last_page_order": 303
+}

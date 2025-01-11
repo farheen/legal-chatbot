@@ -1,0 +1,90 @@
+{
+  "id": 11297852,
+  "name": "Lauri PIRHONEN, et al. v. Philip M. GREENE, et al.",
+  "name_abbreviation": "Pirhonen v. Greene",
+  "decision_date": "1994-04-14",
+  "docket_number": "No. 93-509-A",
+  "first_page": "1325",
+  "last_page": "1326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "641 A.2d 1325"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "558 A.2d 632",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "634"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "558 A.2d 212",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11310867
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/558/0212-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 132,
+    "char_count": 1373,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23951840435484847
+    },
+    "sha256": "a731c2c33439bd22209669cacf9f19f0e10f8fb9eac87c61cec72661da8ca69c",
+    "simhash": "1:54b9255d77728c2a",
+    "word_count": 227
+  },
+  "last_updated": "2024-02-27T18:44:38.564096+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lauri PIRHONEN, et al. v. Philip M. GREENE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before this court on April 4, 1994, pursuant to an order requiring the plaintiff to appear and to show cause why his appeal should not be summarily decided.\nThe plaintiff, John Flynn, substituted upon the death of the original plaintiff, appeals from a Superior Court order denying his motion to set aside a default judgment, partial summary judgment and an award of damages under rules 55(c) and 60(b) of the Superior Court Rules of Civil Procedure. After hearing the arguments of counsel and reviewing the memoranda submitted by the parties, this court concludes that cause has not been shown.\nA motion to vacate a default judgment is addressed to the sound discretion of the trial justice, and his or her rulings will not be disturbed absent a showing of abuse of discretion. Forcier v. Fortier, 558 A.2d 212 (R.I.1989). The plaintiff has failed to show excusable neglect, fraud, misrepresentation or otherwise good cause. See generally Pari v. Pari, 558 A.2d 632, 634 (R.I.1989). Consequently the trial justice did not abuse his discretion in denying the motion to vacate the default judgment.\nThe plaintiffs appeal is therefore denied and dismissed, and the judgment appealed from is affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "H. Jefferson Melish.",
+      "Patrick McKinney."
+    ],
+    "corrections": "",
+    "head_matter": "Lauri PIRHONEN, et al. v. Philip M. GREENE, et al.\nNo. 93-509-A.\nSupreme Court of Rhode Island.\nApril 14, 1994.\nH. Jefferson Melish.\nPatrick McKinney."
+  },
+  "file_name": "1325-02",
+  "first_page_order": 1407,
+  "last_page_order": 1408
+}

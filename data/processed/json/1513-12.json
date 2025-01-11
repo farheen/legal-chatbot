@@ -1,0 +1,59 @@
+{
+  "id": 6092800,
+  "name": "In re Robert Ernst",
+  "name_abbreviation": "In re Ernst",
+  "decision_date": "1967-10-20",
+  "docket_number": "No. 8134",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 88,
+    "ocr_confidence": 0.547,
+    "sha256": "4bacdb3bbcd8e8fc441a1520bb62da9acb4343140447eba532f956e498cafbf2",
+    "simhash": "1:372213e67947ac3e",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert Ernst"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Compositions including acyclic surfactant sulfobetaines.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8134.\nIn re Robert Ernst"
+  },
+  "file_name": "1513-12",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

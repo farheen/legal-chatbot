@@ -1,0 +1,58 @@
+{
+  "id": 12485962,
+  "name": "Com. v. S. Kennedy",
+  "name_abbreviation": "Com. v. Kennedy",
+  "decision_date": "2016-02-17",
+  "docket_number": "NO. 315 MDA 2015",
+  "first_page": "596",
+  "last_page": "596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "1b471c1c9b450e9fc0c851bb0bdf6fdf3e2f668afc28ef4f4a4c73d6b6a0e72b",
+    "simhash": "1:b81a75c10faa0d45",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Kennedy"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Kennedy\nNO. 315 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 17, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0596-10",
+  "first_page_order": 596,
+  "last_page_order": 596
+}

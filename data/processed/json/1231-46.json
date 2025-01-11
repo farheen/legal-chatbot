@@ -1,0 +1,58 @@
+{
+  "id": 12489000,
+  "name": "IN RE CORNELIUS",
+  "name_abbreviation": "In re Cornelius",
+  "decision_date": "2016-11-30",
+  "docket_number": "16\u2013406",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "1bdfd4146946129bda23c69920ce142d4fe65a6988e1e689feacb09c9fde9a43",
+    "simhash": "1:7c190d03c1805663",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE CORNELIUS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE CORNELIUS\n16-406\nSupreme Court of Vermont.\nNovember 30, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "1231-46",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

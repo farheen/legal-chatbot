@@ -1,0 +1,59 @@
+{
+  "id": 6082976,
+  "name": "In re H. Jean Hanson",
+  "name_abbreviation": "In re Hanson",
+  "decision_date": "1962-12-03",
+  "docket_number": "No. 6877",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 87,
+    "ocr_confidence": 0.379,
+    "sha256": "3d467761802fb7c2941a0112bdab2015939d7683c79bad69cc3ea62e7be7a2f2",
+    "simhash": "1:4b5107da155e5dd5",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re H. Jean Hanson"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in a cultural method for spirochaetales.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re H. Jean Hanson\n(No. 6877)."
+  },
+  "file_name": "1587-10",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

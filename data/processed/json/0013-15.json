@@ -1,0 +1,58 @@
+{
+  "id": 12485246,
+  "name": "Commonwealth v. Devon O. Shealey",
+  "name_abbreviation": "Commonwealth v. Shealey",
+  "decision_date": "2016-05-31",
+  "docket_number": "NO. 441 WAL 2015",
+  "first_page": "13",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 147,
+    "sha256": "1900309d6ebfe69cb843689e35eddf69dc07718158e04e16f9a2fe5368b37a1e",
+    "simhash": "1:96ded2ad18291290",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDevon O. Shealey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDevon O. Shealey\nNO. 441 WAL 2015\nSupreme Court of Pennsylvania\nMay 31, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0013-15",
+  "first_page_order": 13,
+  "last_page_order": 13
+}

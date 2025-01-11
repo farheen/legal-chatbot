@@ -1,0 +1,59 @@
+{
+  "id": 6083132,
+  "name": "In re Good",
+  "name_abbreviation": "In re Good",
+  "decision_date": "1933-05-02",
+  "docket_number": "No. 3134",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 82,
+    "ocr_confidence": 0.548,
+    "sha256": "46ebd6f281a98e254ebc9a518521b3ee62334942ced79b52df73a8c68df6117e",
+    "simhash": "1:9bd5f000011ce629",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Good"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in electrically ignited burners.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 2, 1933\nIn re Good\n(No. 3134). \u2014"
+  },
+  "file_name": "1228-06",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

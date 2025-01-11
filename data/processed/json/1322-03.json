@@ -1,0 +1,83 @@
+{
+  "id": 7954859,
+  "name": "Louis V. JACKVONY, Jr. et al. v. Anthony MONAFO et al.",
+  "name_abbreviation": "Jackvony v. Monafo",
+  "decision_date": "1981-02-11",
+  "docket_number": "No. 80-505-M.P.",
+  "first_page": "1322",
+  "last_page": "1322",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "426 A.2d 1322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "425 A.2d 86",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7943839,
+        7943858,
+        7943814,
+        7943887
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/425/0086-02",
+        "/a2d/425/0086-03",
+        "/a2d/425/0086-01",
+        "/a2d/425/0086-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 435,
+    "ocr_confidence": 0.826,
+    "sha256": "a4bb5a1ec2dd023c628faad719cd9265efa722fe98facaf854ea8430b3b574cf",
+    "simhash": "1:456f32149a90d887",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T18:20:10.942154+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., did not participate."
+    ],
+    "parties": [
+      "Louis V. JACKVONY, Jr. et al. v. Anthony MONAFO et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petitioners\u2019 motion that we reconsider their petition for writ of certiorari and petitioners\u2019 request for oral argument are both denied. R.I., 425 A.2d 86.\nBEVILACQUA, C. J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "William A. Gosz, Providence, for plaintiffs-respondents.",
+      "Timothy D. O\u2019Hara, Warren, for defendants-petitioners."
+    ],
+    "corrections": "",
+    "head_matter": "Louis V. JACKVONY, Jr. et al. v. Anthony MONAFO et al.\nNo. 80-505-M.P.\nSupreme Court of Rhode Island.\nFeb. 11, 1981.\nWilliam A. Gosz, Providence, for plaintiffs-respondents.\nTimothy D. O\u2019Hara, Warren, for defendants-petitioners."
+  },
+  "file_name": "1322-03",
+  "first_page_order": 1366,
+  "last_page_order": 1366
+}

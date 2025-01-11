@@ -1,0 +1,58 @@
+{
+  "id": 12487143,
+  "name": "Commonwealth v. Devin Smith",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "2016-08-25",
+  "docket_number": "NO. 146 EAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "4b359755032bc1a803f9bb5fc4053cb663e1566e375ac8d8ae1cda7d7c782ba4",
+    "simhash": "1:7c885c693afe08b5",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nDevin Smith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nDevin Smith\nNO. 146 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 25, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-07",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

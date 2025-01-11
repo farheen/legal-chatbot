@@ -1,0 +1,58 @@
+{
+  "id": 12487271,
+  "name": "Com. v. A. Cedeno",
+  "name_abbreviation": "Com. v. Cedeno",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 1710 MDA 2015",
+  "first_page": "774",
+  "last_page": "774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "a008a9f0805c1e51aa1f0cbef064b0331248881dc36f361f7e932ef3050ab351",
+    "simhash": "1:ed00278d97a30680",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Cedeno"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Cedeno\nNO. 1710 MDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0774-07",
+  "first_page_order": 774,
+  "last_page_order": 774
+}

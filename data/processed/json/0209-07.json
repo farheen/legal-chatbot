@@ -1,0 +1,58 @@
+{
+  "id": 12486754,
+  "name": "Com. v. G. Carson",
+  "name_abbreviation": "Com. v. Carson",
+  "decision_date": "2016-03-28",
+  "docket_number": "NO. 1139 MDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "56c890599fd348685f9e2acfa5a8de01a6b242aac601b4e57619cacfead38788",
+    "simhash": "1:864c1704c1cb1c04",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. Carson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. Carson\nNO. 1139 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 28, 2016\nAffirmed."
+  },
+  "file_name": "0209-07",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

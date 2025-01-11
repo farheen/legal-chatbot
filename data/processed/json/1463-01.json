@@ -1,0 +1,316 @@
+{
+  "id": 6092647,
+  "name": "In re James R. Johnson",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "1968-05-16",
+  "docket_number": "No. 7956",
+  "first_page": "1463",
+  "last_page": "1468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1463"
+    },
+    {
+      "type": "parallel",
+      "cite": "157 U.S.P.Q. 620"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "394 F.2d 591",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2153770
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f2d/394/0591-01"
+      ]
+    },
+    {
+      "cite": "300 F.2d 945",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        241152,
+        12165194
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/300/0945-01",
+        "/ccpa/49-2/1015-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1015",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165194
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1015-01"
+      ]
+    },
+    {
+      "cite": "189 F.2d 261",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        483796,
+        6084373
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/189/0261-01",
+        "/ccpa/38-2/1119-01"
+      ]
+    },
+    {
+      "cite": "38 CCPA 1119",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6084373
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/38-2/1119-01"
+      ]
+    },
+    {
+      "cite": "173 F.2d 993",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1178644
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/173/0993-01"
+      ]
+    },
+    {
+      "cite": "36 CCPA 1013",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080264
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/36-2/1013-01"
+      ]
+    },
+    {
+      "cite": "37 USPQ 209",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 F.2d 264",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1002400,
+        6080757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/95/0264-01",
+        "/ccpa/25-2/1000-01"
+      ]
+    },
+    {
+      "cite": "25 CCPA 1000",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/25-2/1000-01"
+      ]
+    },
+    {
+      "cite": "9 USPQ 255",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 F.2d 936",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6558496,
+        1832203
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/1262-01",
+        "/f2d/48/0936-01"
+      ]
+    },
+    {
+      "cite": "18 CCPA 1262",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6558496
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/1262-01"
+      ]
+    },
+    {
+      "cite": "4 USPQ 342",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 F.2d 623",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1773652
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/37/0623-01"
+      ]
+    },
+    {
+      "cite": "17 CCPA 810",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6094812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/17-2/0810-01"
+      ]
+    },
+    {
+      "cite": "345 F.2d 1020",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12165715,
+        866691
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1409-01",
+        "/f2d/345/1020-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1409",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165715
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1409-01"
+      ]
+    },
+    {
+      "cite": "48 USPQ 542",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 F.2d 565",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        476690,
+        6079786
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/117/0565-01",
+        "/ccpa/28-2/0932-01"
+      ]
+    },
+    {
+      "cite": "28 CCPA 932",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079786
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/28-2/0932-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 593,
+    "char_count": 11078,
+    "ocr_confidence": 0.44,
+    "pagerank": {
+      "raw": 7.992525497520758e-08,
+      "percentile": 0.46389133111621567
+    },
+    "sha256": "acade7439a531b4ed161121f46d45963d27f2c2d88226956283a5dde7837d562",
+    "simhash": "1:8143a0135045821c",
+    "word_count": 1803
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick."
+    ],
+    "parties": [
+      "In re James R. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "Almond, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Patent Office Board of Appeals affirming the rejection of all of the product claims in appellant\u2019s application entitled \u201cStructural Articles and Method of Making.\u201d\nThe invention relates to sintered metal or ceramic articles of thin wall section being characterized by having at least one corrugated web number permanently bonded along ridges of the corrugation to a sheet member so as to form channels. The resultant structures are used in high temperature applications such as heat exchangers, catalyst supports, and turbine blades.\nFigures 4 and 5 of the application show a simplified illustration of the structural features of the invention.\nThe corrugated films 40 of the illustrated structure are separated from each other by, and sinter-welded to, thin plates members 41. The weld zone 42 is illustrated in Figure 5, and it will be observed that the zone is barely detectable, being essentially free of any demarcation line or juncture between corrugated films 40 and plates 41, indicating that the corrugated film and plate are well fused or coalesced together.\nThe articles of this invention are made by depositing a film of plasticized raw material mix containing the sinterable particles and plasticizing ingredients. The film is corrugated on standard corrugating apparatus, and is subsequently heated mildly to impart a degree of permanency to the corrugations in the green film. Where permanent bonds are to be subsequently formed, the corrugations are painted with glue media comprising the basic raw material mix diluted with a solvent, and the corrugated sheet is assembled into the final structure. Once the structure is dried, a temporary bond is formed between the ridges and the sheet member by the glue media, and this temporary bond is converted into a permanent weld when the structure is heated to sintering temperatures. Claims directed to the method have been allowed.\nThe Board of Appeals divided the article claims into two groups subject to different grounds of rejection. We shall accordingly consider each group separately.\nThe first group consists of claims 1, 2, 4, 5, 6, 7, 18, 14, 21, 22 and 24. Claim 1 is illustrative of this group and is reproduced below in outline form for convenience of analysis:\nA fired ceramic structural- article having a high surface area in relation to its size, and comprising at least one ceramic sheet member and at least one thin corrugated web of ceramic having an amplitude of corrugations at least as great as the thickness of said web, said corrugated web being no greater than 50 mils thick and being permanently ceramically bonded to said sheet member in a non-separable manner along at least a portion of some of the ridges on one side of said corrugated web so as to provide at least one set of aligned passages defined by grooves of said corrugated web between adjacent ridges permanently bonded to said sheet member, said article being formed by a process involving ceramically firing to rigidity a self-supporting green ceramic structure of like configuration having firm temporary bonds of green ceramic corresponding in location to said permanent ceramic bonds in said structural article, said green ceramic structure comprising materials convertible into said fired ceramic structural article by said ceramic firing, and said firm temporary bonds of said green ceramic structure being unified continuous material paths of green ceramic material between parts of said green structure so temporarily bonded.\nThis claim, and the others grouped with it, define the article in substantial detail by means of structural description. The board, in fact, found the recitation of structural relationships, apart from the process recitations, to be adequate to distinguish over the prior art. and reversed the examiner\u2019s prior art rejection.\nHowever, the board did not feel that the claims were sufficiently clear to meet the requirements of 35 USC 112. Noting that the claims were composed in substantial part of process limitations, the board concluded:\nThe claims purport to define the article and we share the Examiner\u2019s view that they include confusing recitations of procedural character which obscures such definition.\nWe note at the outset that neither the examiner nor the board considered that the mere presence of process limitations was sufficient in itself to justify rejection of the claims. In fact the examiner in his answer correctly conceded that process limitations are not foreclosed in article claims under proper circumstances. In re Moeller, 28 CCPA 932, 117 F.2d 565, 48 USPQ 542. We therefore turn to the question of whether the inclusion of process limitations in these claims tends to obscure the claimed invention so that the claims cannot be said to distinctly point out and claim the invention.\nThe organization of all the claims in the group is the same as that of claim 1 above. A relatively detailed description of the physical structure of the article appears first, followed by a description of the process steps which were carried out in order to create the article. The solicitor stated in his brief, and we agree, that \u201c[t]he first portion of each claim in the group is a complete definition of the product in terms of the structure of the product.\u201d The process recitations which the board found objectionable are not interspersed with article recitations in such a way as to obscure the invention or as to make uncertain the scope of the monopoly being claimed. They are rather physically set apart from the article recitations, relate clearly to the process steps which have been used to produce the article defined in the structural recitations, and in no way confuse the structural description of that article.\nIt appears to us that the first portion of these claims defines an article in structural terms with adequate clarity to meet the requirements of 35 USC 112. We do not see why the addition of further limitations defining the process of producing the article should be automatically fatal to the claims any more than the addition of further structural limitations would be. Since we do not agree with the board that the process limitations in these claims in any way tend to obscure or confuse the structure of the article, we reverse the decision of the board as to claims 1, 2, 4, 5, 6, 7,13,14, 21, 22 and 24.\nThe second group consists of claims 3, 8, 12, 15, 16, 25 and 26. Claim 3 is reproduced in outline form as illustrative of this group:\n3. An article having [a] non-ductile multiple-webbed ceramic structural component formed by sintering a green structural component having like configuration, said green structural component being formed of thin relatively-flexible green sheets of sinterable inorganic particles, at least a portion of said sheets being essentially uniformly thick and corrugated with alternating ridges and grooves of essentially uniform periodicity on each side of said sheets, the corrugated sheets of said green structural component being no greater than 50 mils thick and being firmly temporarily bonded along ridges of corrugations to other green sheets of said green structural component so as to form a plurality of passages suitable for the passage of fluid media, said temporary bonds being green unified continuous material paths of sinterable inorganic particles between parts of said green structural component temporarily bonded, the strength of said temporary bonds being sufficient to maintain the temporarily bonded parts of said green structural component together and prevent relative displacement thereof during handling of said green structural component preliminary to sintering the. same, and said temporary bonds further being converted to permanent inseparable bonds during the sintering of said green structural component.\nThis group of claims is characterized by being devoid of significant structural description of the final article, but relies upon process recitations to describe the ultimate article. The claims are thus product-by-process claims as that term is generally used.\nThe board refused to give weight to the process recitations in considering/the patentability of the claims. While recognizing that product-by-process claims are permitted where the process produces characteristics which cannot be otherwise defined, the board felt that such claims were improper in this case, noting that appellant had not alleged that the articles are incapable of structural definition. The board therefore ignored the process recitations of the claims and found the meager structural recitations to be obvious in view of the prior art.\nAppellant attempts to rely solely upon process limitations in his claims to show patentability. We approve of the board\u2019s position. As we said in In re Stephens, 52 CCPA 1409, 345 F.2d 1020, 145 USPQ 656:\nWe think it well settled that the presence of process limitations in product claims, which product [claim] does not otherwise patentably distinguish over the prior art, cannot impart patentability to that product. \u215c \u215c \u215c\nThis court has repeatedly held that a claim for an article capable of such definition must define the article by its structure and not by the process of making it. In re Butler, 17 CCPA 810, 37 F.2d 623, 4 USPQ 342; In re Grupe, 18 CCPA 1262, 48 F.2d 936, 9 USPQ 255; In re McKee, 25 CCPA 1000, 95 F.2d 264, 37 USPQ 209; In re Moeller, supra; In re Shortell, 36 CCPA 1013, 173 F.2d 993, 81 USPQ 359; In re Lifton, 38 CCPA 1119, 189 F.2d 261, 89 USPQ 641. Since the articles involved in this case are clearly capable of structural definition, which appellant has not denied, the patenta-bility of the claims must be determined solely on the basis of the recited structure, exclusive of the process recitations. In re Dilnot, 49 CCPA 1015, 300 F.2d 945, 133 USPQ, 289; In re Stephens, supra. We agree with the board that the meager structure recited in the claims is obvious in view of the references. We need not discuss the teachings of those references since appellant does not contend that the recited structure of those claims, absent the process limitations, defines an invention patentable over the art.\nWe affirm the board\u2019s rejection of claims 3, 8, 12,15,16, 25 and 26, but reverse the rejection of claims 1, 2, 4, 5, 6, Y, 13,14, 21, 22 and 24. The decision of the board is accordingly modifsd.\nKirkpatrick, J., took no part in the decision of this case.\nSerial No. 331,649 filed December 17, 1963. There are several allowed process claims.",
+        "type": "majority",
+        "author": "Almond, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Robert 0. Baker (Carpenter, Kinney & Coulter, of counsel) for appellant. Joseph Behimmel (Fred W. Sherlmg, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "394 F.2d 591; 157 USPQ 620\nIn re James R. Johnson\n(No. 7956)\nUnited States Court of Customs and Patent Appeals,\nMay 16, 1968\nRobert 0. Baker (Carpenter, Kinney & Coulter, of counsel) for appellant. Joseph Behimmel (Fred W. Sherlmg, of counsel) for the Commissioner of Patents.\n[Oral argument April 4, 1968 by Mr. Baker and Mr. Sherllng.]\nBefore Worley, Chief Judge, and Judges Rich, Smith, Almond, Kirkpatrick.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1463-01",
+  "first_page_order": 803,
+  "last_page_order": 808
+}

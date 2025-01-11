@@ -1,0 +1,102 @@
+{
+  "id": 8109216,
+  "name": "Herman B. SANDLER and The Fanher Corporation, Appellants, v. Frederick H. DENSTON, Appellee",
+  "name_abbreviation": "Sandler v. Denston",
+  "decision_date": "1962-08-02",
+  "docket_number": "No. 3015",
+  "first_page": "392",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "183 A.2d 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "80 A.2d 282",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8144124
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/80/0282-01"
+      ]
+    },
+    {
+      "cite": "61 A.2d 36",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8150694
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "37"
+        },
+        {
+          "page": "note 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/61/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 220,
+    "char_count": 2889,
+    "ocr_confidence": 0.692,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20080533652734195
+    },
+    "sha256": "12ea977c5a94a7cf11227f05a4d817e7ce4d5f3bcca47c98d0791471c469a308",
+    "simhash": "1:03deda753e767952",
+    "word_count": 471
+  },
+  "last_updated": "2024-02-27T20:42:00.520794+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HOOD, Chief Judge, and QUINN and MYERS, Associate Judges."
+    ],
+    "parties": [
+      "Herman B. SANDLER and The Fanher Corporation, Appellants, v. Frederick H. DENSTON, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "MYERS, Associate Judge.\nAppellee, a real estate broker, brought an action against the owner of property for a commission allegedly due him. From a judgment in his favor, the vendors have appealed.\nAppellee, a licensed real estate broker, alleged that appellants had given him an exclusive listing to sell their property for a period of ninety days but permitted another broker to make a sale of the same property within that period. Appellants admitted that the property had been sold through another broker, but denied having given appellee an exclusive listing. The trial judge resolved this issue of fact in favor of appellee and there is substantial evidence in the record to support his conclusion.\nAppellants contend there was no consideration for the exclusive listing agreement, but appellee\u2019s employees testified that they sought purchasers and showed the property to at least three interested persons. We have held previously that when a broker uses reasonable efforts to locate a purchaser, this constitutes consideration to effect a mutual contract. We have no basis for finding that the trial court\u2019s conclusion that appellee\u2019s efforts were reasonable was wrong.\nIn determining the amount of damages to be awarded appellee, the trial judge multiplied the minimum price of $13,000 which appeared on the listing agreement by the usual and customary real estate commission of 5% and allowed appellee $650 as commission on the sale. The measure of damages in these cases is usually the rate of commission multiplied by the actual sales price for the property, because the minimum price set on the listing contract is often merely a figure used for bargaining rather than the final sale price that the vendor expects to receive. The record does not reveal the actual figure for which the property was sold, so we cannot say that the measure of damages used by the trial judge was plainly wrong. It must be presumed that if the property had in fact been sold at a lesser price than $13,000, appellant Sandler, who testified at the trial, would have brought that fact to the attention of the court in mitigation of damages.\nFinding no error in the record that would justify a reversal of the trial court\u2019s findings and conclusions, the judgment is\nAffirmed.\n. Appellant Sandler was the duly authorized agent for appellant corporation, owner of the property here involved.\n. Dixon v. Dodd, D.C.Mun.App., 80 A.2d 282; McManus v. Newcomb, D.C.Mun.App., 61 A.2d 36, 37.\n. McManus v. Newcomb, supra, note 2.",
+        "type": "majority",
+        "author": "MYERS, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Jack A. Hillman, Washington, D. C., for appellants.",
+      "Hugh A. M. Shafer, Jr., Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Herman B. SANDLER and The Fanher Corporation, Appellants, v. Frederick H. DENSTON, Appellee.\nNo. 3015.\nMunicipal Court of Appeals for the District of Columbia,\nSubmitted July 2, 1962.\nDecided Aug. 2, 1962.\nJack A. Hillman, Washington, D. C., for appellants.\nHugh A. M. Shafer, Jr., Washington, D. C., for appellee.\nBefore HOOD, Chief Judge, and QUINN and MYERS, Associate Judges."
+  },
+  "file_name": "0392-01",
+  "first_page_order": 424,
+  "last_page_order": 425
+}

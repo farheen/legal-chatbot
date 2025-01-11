@@ -1,0 +1,64 @@
+{
+  "id": 7944335,
+  "name": "John MARSDEN v. PEERLESS INSURANCE COMPANY",
+  "name_abbreviation": "Marsden v. Peerless Insurance Co.",
+  "decision_date": "1980-01-24",
+  "docket_number": "No. 79-443-A",
+  "first_page": "258",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 338,
+    "ocr_confidence": 0.746,
+    "sha256": "3c7692a93a1696422dba6dc30089457521ea807e32b46a733927241142bc7bbb",
+    "simhash": "1:700a2c7e13439801",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "John MARSDEN v. PEERLESS INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to dismiss this appeal as premature is granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Joseph A. Capineri, Pawtucket, for plaintiff. .",
+      "Gunning, LaFazia & Gnys, Inc., Lincoln C. Almond, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "John MARSDEN v. PEERLESS INSURANCE COMPANY.\nNo. 79-443-A.\nSupreme Court of Rhode Island.\nJan. 24, 1980.\nJoseph A. Capineri, Pawtucket, for plaintiff. .\nGunning, LaFazia & Gnys, Inc., Lincoln C. Almond, Providence, for defendant."
+  },
+  "file_name": "0258-04",
+  "first_page_order": 314,
+  "last_page_order": 315
+}

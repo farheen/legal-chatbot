@@ -1,0 +1,59 @@
+{
+  "id": 9492418,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Reginald Anthony HALL, Petitioner",
+  "name_abbreviation": "Commonwealth v. Hall",
+  "decision_date": "2001-09-19",
+  "docket_number": "",
+  "first_page": "490",
+  "last_page": "491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 589,
+    "ocr_confidence": 0.685,
+    "sha256": "e1471cae3e08b0e2d7428b51048336e0b38b10c9e2e3a14b43b4d59b109872ff",
+    "simhash": "1:cc3f10fcd2dfbe96",
+    "word_count": 89
+  },
+  "last_updated": "2023-07-14T17:48:11.218492+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Reginald Anthony HALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 19th day of September, 2001, the petition for allowance of appeal is GRANTED, but LIMITED to the following two issues:\n1. Whether an instruction which connects intent to inflict serious bodily injury with use of an unlicensed firearm is viola-tive of the due process clause of the Pennsylvania and United States Constitutions.\n2. Whether the evidence was sufficient to demonstrate specific intent to inflict serious bodily injury.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Reginald Anthony HALL, Petitioner.\nSupreme Court of Pennsylvania.\nSept. 19, 2001."
+  },
+  "file_name": "0490-03",
+  "first_page_order": 532,
+  "last_page_order": 533
+}

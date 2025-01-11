@@ -1,0 +1,62 @@
+{
+  "id": 7942788,
+  "name": "In the Matter of RONALD",
+  "name_abbreviation": "In re Ronald",
+  "decision_date": "1980-12-18",
+  "docket_number": "No. 80-565-M.P.",
+  "first_page": "243",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "424 A.2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 432,
+    "ocr_confidence": 0.794,
+    "sha256": "3907b423100f14822658f8b2b24e4a4de3d2a5ba67dcaa43f9049923651f01e1",
+    "simhash": "1:e91ed41611c2cc67",
+    "word_count": 67
+  },
+  "last_updated": "2023-07-14T20:20:40.051442+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of RONALD."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nSince jeopardy has attached in this case, we decline to review the correctness of the challenged evidentiary ruling.\nThe petition for writ of certiorari is denied and the stay previously entered herein is hereby vacated.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Gerald M. Brenner, Asst. City Sol., Woon-.socket, for petitioner.",
+      "Paula Rosin, Asst. Public Defender, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of RONALD.\nNo. 80-565-M.P.\nSupreme Court of Rhode Island.\nDec. 18, 1980.\nGerald M. Brenner, Asst. City Sol., Woon-.socket, for petitioner.\nPaula Rosin, Asst. Public Defender, for respondent."
+  },
+  "file_name": "0243-02",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

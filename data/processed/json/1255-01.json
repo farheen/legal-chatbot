@@ -1,0 +1,198 @@
+{
+  "id": 9141444,
+  "name": "HARRISBURG AREA COMMUNITY COLLEGE, Petitioner, v. PENNSYLVANIA STATE EMPLOYEES' RETIREMENT SYSTEM, Respondent",
+  "name_abbreviation": "Harrisburg Area Community College v. Pennsylvania State Employees' Retirement System",
+  "decision_date": "2003-04-29",
+  "docket_number": "",
+  "first_page": "1255",
+  "last_page": "1261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "821 A.2d 1255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "626 A.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1447084
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-commw/156/0083-01"
+      ]
+    },
+    {
+      "cite": "691 A2d 1016",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11916512
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/1016-01"
+      ]
+    },
+    {
+      "cite": "241 A.2d 745",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "430 Pa. 66",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1915717
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/430/0066-01"
+      ]
+    },
+    {
+      "cite": "122 A.2d 77",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1956,
+      "opinion_index": 0
+    },
+    {
+      "cite": "385 Pa. 119",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1267071
+      ],
+      "year": 1956,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/385/0119-01"
+      ]
+    },
+    {
+      "cite": "481 A.2d 696",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "799 A.2d 946",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9415989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/799/0946-01"
+      ]
+    },
+    {
+      "cite": "815 A.2d 1043",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "795 A.2d 463",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9424513
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/795/0463-01"
+      ]
+    },
+    {
+      "cite": "745 A.2d 704",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11480808
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/745/0704-01"
+      ]
+    },
+    {
+      "cite": "4 Pa. Code \u00a7 245.7",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 661,
+    "char_count": 18386,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 1.5003537043101245e-07,
+      "percentile": 0.66554227678911
+    },
+    "sha256": "de5cc0dc450f25517434e7e767514e22e0ecc70e2f300ca4231472e19bb8b6ce",
+    "simhash": "1:dd5385ca7f93b9c4",
+    "word_count": 2888
+  },
+  "last_updated": "2024-02-27T22:09:24.899331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: COLINS, President Judge, SIMPSON, Judge, and MIRARCHI, Senior Judge."
+    ],
+    "parties": [
+      "HARRISBURG AREA COMMUNITY COLLEGE, Petitioner, v. PENNSYLVANIA STATE EMPLOYEES\u2019 RETIREMENT SYSTEM, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION BY\nSenior Judge MIRARCHI.\n\u25a0 The Harrisburg Area Community College (HACC) appeals from an order of the State Employees\u2019 Retirement Board (Board) directing the HACC to remit to the State Employees\u2019 Retirement System (Retirement System) payment of contributions for its current employees\u2019 purchase of credit for their previous uncredited state service. The ultimate issue on appeal is whether the HACC is required to pay contributions for its current employees\u2019 purchase of credit for their previous service rendered to various state agencies under the State Employees\u2019 Retirement Code (Retirement Code), as amended, 71 Pa.C.S. \u00a7 5101 \u2014 5956, and the regulations promulgated thereunder. We affirm.\nUnder Section 5102 of the Retirement Code, 71. Pa.C.S. \u00a7 5102, the HACC\u2019s employees are eligible to become \u201cactive members\u201d of the Retirement System as \u201cState employees\u201d which is defined to include, inter alia, \u201cany officer or employee of ... [cjommunity colleges.\u201d Section 1913-A of the Public School Code of 1949, as amended, added by Section 1 of the Act of July 1, 1985, 24 P.S. \u00a7 19-1913-A, also provides that \u201c[a]ll ... employes of the community colleges in the Commonwealth shall be eligible for inclusion in ... the Pennsylvania State Employees\u2019 Retirement System.:.. \u201d Section 5303 of the Retirement Code, 71 Pa.C.S. \u00a7 5303, allows every, active member of the Retirement System to purchase credit for \u201cprevious state service\u201d which is defined as \u201c[s]ervice rendered as a State employee prior to his most recent entrance in the system.\u201d Section 5102 of the Retirement Code.\nIn 1998 and 1999, Judy Blazi, Dorothy Gilloway and Kenneth Zimmerman became active members of the Retirement System when they were employed by the HACC. In 1999 and 2002, they purchased credit for their previous uncredited state service rendered to the Department of Education; the Department of Health and Welfare and the State Police; and the Pennsylvania Historical and Museum Commission, respectively. The Retirement System then sent the HACC invoices for the employer\u2019s contributions for its employees\u2019 purchase of credit in the amount of $7837.92. The HACC refused to pay the amount in the invoices and appealed to the Appeals Committee of the Retirement System. After the Appeals Committee denied the appeal, the HACC appealed to the Board.\nTo support its appeal, the HACC relied on 4 Pa.Code \u00a7 245.7(b), which provides that \u201cthe Board will bill for the appropriate employer\u2019s contribution, by itemized invoice, that agency in which an employe is currently employed for previously uncredited State service.\u201d The HACC argued that the HACC is not an \u201cagency\u201d under Section 245.7(b) and that it was not, therefore, required to pay the employer\u2019s contributions for its current employees\u2019 purchase of the previous state service. In so arguing, however, the HACC did not dispute its obligation to pay the employer\u2019s contributions to the retirement benefit funds for the service rendered by its current employees to the HACC.\nAfter a hearing, the hearing examiner found, inter alia, that the HACC receives less than one third of its operating funds from the Commonwealth\u2019s General Fund and that the majority of the HACC\u2019s funds are provided by the twenty-two sponsoring school districts and students\u2019 tuition payment. The hearing examiner concluded that the HACC is not \u201can agency\u201d under 4 Pa. Code \u00a7 245.7 required to pay contributions for the purchase of credit for the previous state service. In support, the hearing examiner stated that unlike other state agencies folly funded by the Commonwealth\u2019s General Fund, the HACC cannot request additional funds to cover the \u201cbuy back\u201d provisions of the Retirement Code, and that it would be therefore unfair, absurd and unreasonable to require the HACC to pay contributions for its current employees\u2019 purchase of the previous service rendered to other state agencies. The hearing examiner further concluded that even if the HACC is considered an agency under 4 Pa. Code \u00a7 245.7(b), the Retirement System lacks statutory authority to enforce the HACC\u2019s obligations, and upon the HACC\u2019s refusal to make the required contributions, the Retirement System can only reduce the employees\u2019 retirement benefits. The hearing examiner accordingly recommended that the Board sustain the HACC\u2019s appeal. The Retirement System then filed exceptions to the hearing examiner\u2019s recommendation.\nRejecting the hearing examiner\u2019s recommendation, the Board concluded that the HACC is an agency under 4 Pa.Code \u00a7 245.7(b). The Board reasoned that the HACC should not be allowed to pick and choose the provisions of the Retirement Code that best suit its needs, by acknowledging -the status of its current employees as the state employees and members of the Retirement System and then denying its obligations to make contributions for their purchase of the previous state service; the HACC\u2019s position would result in unfair consequences of reduction of its current employees\u2019 retirement benefits; and, the Retirement System has an enforcement mechanism to collect the employer\u2019s contributions. The Board accordingly ordered the HACC to remit the contributions for its employees\u2019 purchase of the previous state service to the Retirement System. The HACC\u2019s appeal to this Court followed.\nOn appeal, the HACC reiterates its contentions that it is not an \u201cagency\u201d under 4 Pa.Code \u00a7 245.7(b); therefore, it is not required to pay the employer\u2019s contributions for its current employees\u2019 purchase of credit for the previous state service; it is unfair to require the HACC receiving only one third of its operating funds from the Commonwealth to pay contributions for the previous service purchase; and, even if the HACC is considered an \u201cagency\u201d under 4 Pa.Code \u00a7 245.7(b), the only remedy under the Retirement Code upon its failure to make the required contributions is reduction of the employees\u2019 retirement benefits.\nTo support the contention that the HACC is not an agency under 4 Pa.Code \u00a7 245.7(b), the HACC relies on Section 2 of the Reorganization Act of 1955, Act of April 7, 1955, P.L. 38, 71 P.S. \u00a7 750-2, which defines an \u201cagency\u201d as establishment in the executive or administrative branch of the State Government. The HACC asserts that it cannot be considered a \u201cstate\u201d agency because it was created and operated by local sponsors, the twenty-two school districts and the municipalities, pursuant to the Public School Code of 1949, Act of March 10, 1949, P.L. 30, as amended, 24 P.S. \u00a7\u00a7 1-[ XXX-XX-XXXX ], not by a state government unit.\nAt the outset, it must be noted that as an agency charged with execution and application of the retirement statute, the Board is entitled to considerable deference in its construction of the retirement statute and the regulations promulgated thereunder. Burris v. State Employes\u2019 Retirement Board, 745 A.2d 704 (Pa.Cmwlth.2000). Consequently, the Board\u2019s interpretation of the retirement statute and regulations may not be overturned, unless it is clearly erroneous. Id.\nIt is well established that provisions of a statute must be construed with reference to the context in which they appear. Fairview Township v. Fairview Township Police Ass\u2019n, 795 A.2d 463 (Pa.Cmwlth.2002), appeal granted, \u2014 Pa. -, 815 A.2d 1043 (2003). A word in a statute or regulations, therefore, may have different meanings depending on the context in which it appears. Id. Further, statutes or parts of statutes are in pari mate-ria when they relate to the same persons or things or to the same class of persons or things; therefore, they must be construed together as one statute, if possible. Section 1932 of the Statutory Construction Act of 1972,1 Pa.C.S. \u00a7 1932; City of Erie v. Workers\u2019 Compensation Appeal Board (Annunziata), 799 A.2d 946 (Pa.Cmwlth.2002).\nConsequently, to determine the meaning of the term \u201cagency\u201d in 4 Pa.Code \u00a7 245.7(b) and resolve the ultimate issue of whether the HACC has a statutory duty to pay contributions for its employees\u2019 previous state service purchase, we must review not only Section 245.7 but also the applicable provisions of the Retirement Code under which Section 245.7 was promulgated, rather than focusing on the isolated term in Section 245.7(b) relied on by the HACC.\nThe regulations at 4 Pa.Code \u00a7 245.7 promulgated in 1976 under the Retirement Code provide:\n\u00a7 245.7. Contributions by the Commonwealth and other employers.\n(a) In the event an employer fails to make the payments necessary to build up the employer reserves for the payment benefits to its employes, under sections 5507 and 5508 of the code (relating to contributions by the Commonwealth and other employers; and actuarial cost method), then the benefits to which such employe would otherwise be entitled, but for the deficiency of the required reserves, shall be reduced in accordance with section 5509(c) of the code (relating to appropriations and assessments by the Commonwealth) for those deficiencies occurring subsequent to March 1,1974.\n(b) In the event an employe becomes a member of the System sometime after beginning employment and elects to purchase his previously uncredited service, the Board will bill for the appropriate employer\u2019s contribution, by itemized invoice, that agency in which an employe is currently employed for previously uncredited State service rendered after March 1, 1974. The amount of an employer\u2019s contribution will be determined on the basis of the employe\u2019s earnings and the total employer\u2019s contribution rate in effect at the time service was rendered, together with valuation interest of 5.5% compounded annually to the date of purchase. (Emphasis added.)\nUnder Section 1924 of the Statutory Construction Act of 1972, 1 Pa.C.S. \u00a7 1924, the headings prefixed to titles, sections and. other divisions of a statute may be used to aid in construing the statute. Fairmount Ins. Co. v. Insurance Department, 85 Pa.Cmwlth. 131, 481 A.2d 696 (1984). Under its heading, Section 245.7 applies to \u201cthe Commonwealth and other employers.\u201d Subsection (a) of Section 245.7 provides that retirement benefits of \u201cemployes\u201d shall be reduced by the amount of the unpaid \u201cemployer\u2019s\u201d contributions. Subsection (b) then requires the Board to bill \u201cthat agency in which an employee is currently employed\u201d for \u201cemployer\u2019s\u201d contribution for purchase of credit for previous uncredited service by \u201can employe.\u201d The use of terms, \u201cemployer\u201d and \u201cemploye,\u201d in the heading of Section 245.7 and throughout subsections (a) and (b) clearly indicates that the isolated word \u201cagency\u201d in subsection (b) was intended to mean an \u201cemployer\u201d currently employing active members of the Retirement System who have purchased the previous uncredited service pursuant to the applicable provisions of the Retirement Code.\nMoreover, Section 245.7(b) merely requires the Board to bill the employer employing active members of the Retirement System for the employer\u2019s contributions for the active members\u2019 previous state service purchase in the amount to be determined using the formula set forth therein. The employers\u2019 obligations to pay the contributions to the employees\u2019 retirement benefit funds are set forth in Section 5507(a) of the Retirement Code, 71 Pa.C.S. \u00a7 5507(a), which provides in relevant part:\n\u00a7 5507. Contributions by the Commonwealth and other employers\n(a) Contributions on behalf of active members. \u2014 The Commonwealth and other employers whose employees are members of the system shall make contributions to the fund on behalf of all active members in such amounts as shall be certified by the board as necessary to provide, together with the members\u2019 total accumulated deductions, annuity reserves on account of prospective annuities other than those provided in section 5708 (relating to supplemental annuities) in accordance with the. actuarial cost method provided in section 5508(a), (b), (c), (d) and (f) (relating to actuarial cost method). - (Emphasis added.)\nAfter setting forth the formula for computing the employer\u2019s contribution rate in Section 5508, 71 Pa.C.S. \u00a7 5508, the Retirement Code provides for appropriations and assessments of the retirement funds in Section 5509, 71 Pa.C.S. \u00a7 5509 in relevant part:\n(a) Annual submission of budget.\u2014 The board shall prepare and submit annually an itemized budget consisting of the amounts necessary to be appropriated by the Commonwealth out of the General Fund and special operating funds and the amounts to be assessed the other employers required to meet the obligations accruing during the fiscal period beginning the first day of July of the following year. (Emphasis added.)\n(c) Contributions from funds other than General Funds. \u2014 The amounts assessed other employers who are required to make the necessary contributions out of funds other than the General Funds shall be paid by such employers into the fund in accordance with requisitions presented by the board. The General Fund of the Commonwealth shall not be held liable to appropriate the moneys required to build up the reserves necessary for the payment of benefits to employees of such other employers. In case any such other employer shall fail to provide the moneys necessary for such purpose, then the service of such members for such period for which money is not so provided shall be credited and pickup contributions with respect to such members shall continue to be credited to the members\u2019 savings account. The annuity to which such member is entitled to shall be determined as actuarially equivalent to the present value of the maximum single life annuity of each such member reduced by the amount of employer contributions payable on account and attributable to his compensation during such service. (Emphasis added.)\nIn requiring the employers to make contributions to the employees\u2019 retirement benefits, Section 5507 of the Retirement Code does not distinguish among the employers fully funded by the Commonwealth and those only partially funded by the Commonwealth. Moreover, the HACC does not dispute that the HACC is required under Section 5507 of the Retirement Code to pay contributions for the HACC\u2019s current employees\u2019 retirement benefits for their service rendered to the HACC and that any state agencies employing the HACC\u2019s former employees must pay the contributions for their purchase of credit for the previous service rendered to the HACC.\nIt is fundamental that an administrative agency is authorized to prescribe rules and regulations only to the extent of carrying into effect the will of the Legislature as expressed in a statute. Commonwealth v. DiMeglio, 385 Pa. 119, 122 A.2d 77 (1956). The regulations, therefore, may not broaden the scope of a proscription in the statute or impose requirements not plainly expressed in the statute. Firemen\u2019s Relief Ass\u2019n of Washington v. Minehart, 430 Pa. 66, 241 A.2d 745 (1968). The interpretation of 4 Pa.Code \u00a7 245.7(b) urged by the HACC would result in overriding the unambiguous provisions of the Retirement Code requiring the employers to pay the contributions to their employees\u2019 retirement benefit funds.\nIn addition, it is well established that the retirement system must be liberally administered in favor of its members. Beardsley v. State Employes\u2019 Retirement Board, 691 A2d 1016 (Pa.Cmwlth.1997). The mere fact that Section 5509(c) of the Retirement Code mandates reduction of the retirement benefits upon the employers\u2019 failure to pay the required contributions does not excuse the HACC\u2019s refusal to acknowledge its obligations under Section 5507(a) of the Retirement Code to \u201cmake contributions to the fund on behalf of all active members in such amounts as shall be certified by the board.\u201d Under the position taken by the HACC, its employees would unfairly suffer reduction of retirement benefits upon its failure to make the required contributions.\nWe conclude, therefore, that the HACC is required under the Retirement Code to pay the contributions for its employees\u2019 previous state service purchase, that the word \u201cagency\u201d in 4 Pa Code \u00a7 245.7(b) was intended to mean an \u201cemployer\u201d currently employing active members of the Retirement System who have elected to purchase credit for the previous uncredited state service, and that Section 245.7(b) merely sets forth the Board\u2019s duty to bill the employers for the contributions for the purchase of credit for the previous uncredited state service in the amount to be determined based on the formula set forth therein. Hence, the Board properly ordered the HACC to remit the contributions for its employees\u2019 purchase of credit for the previous state service to the Retirement System.\nAccordingly, the order of the Board is affirmed.\nORDER\nAND NOW, this 29th day of April, 2003, the order of the State Employees\u2019 Retirement Board in the above-captioned matter is affirmed.\n. The amount of the invoices included $57.16 for the HACC\u2019s contributions for Zimmerman\u2019s retirement benefits for his service rendered to the HACC as its current employee.\n. This Court\u2019s review of the Board's final adjudication is limited to determining whether the adjudication is supported by substantial evidence, whether it accords with law, or whether constitutional rights were violated. Miller v. State Employes\u2019 Retirement System, 156 Pa.Cmwlth. 83, 626 A.2d 679 (1993).\n. The provisions of the Statutory Construction Act of 1972 are applicable in construing the provisions of the regulations. 1 Pa.C.S. \u00a7 1502(a)(1)(ii).\n. In including employees of the Pennsylvania State University in the definition of \u201cstate employees,\u201d Section 5102 of the Retirement Code specifically provides that \u201cthe university shall be totally responsible for all employer contributions under section 5507,\u201d as the HACC points out. However, the fact that the definition in Section 5102 does not contain similar language for the State-owned educational institutions, community colleges and other state agencies does not affect the employer\u2019s general obligations to pay contributions clearly set forth in Section 5507 of the Retirement Code.",
+        "type": "majority",
+        "author": "Senior Judge MIRARCHI."
+      }
+    ],
+    "attorneys": [
+      "Elizabeth A. Magusehak, Hazleton, for petitioner.",
+      "Brian E. McDonough, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "HARRISBURG AREA COMMUNITY COLLEGE, Petitioner, v. PENNSYLVANIA STATE EMPLOYEES\u2019 RETIREMENT SYSTEM, Respondent.\nCommonwealth Court of Pennsylvania.\nArgued Dec. 2, 2002.\nDecided April 29, 2003.\nElizabeth A. Magusehak, Hazleton, for petitioner.\nBrian E. McDonough, Harrisburg, for respondent.\nBEFORE: COLINS, President Judge, SIMPSON, Judge, and MIRARCHI, Senior Judge."
+  },
+  "file_name": "1255-01",
+  "first_page_order": 1299,
+  "last_page_order": 1305
+}

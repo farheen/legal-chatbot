@@ -1,0 +1,92 @@
+{
+  "id": 9378773,
+  "name": "Joseph P. WERLEY, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee",
+  "name_abbreviation": "Werley v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2004-07-01",
+  "docket_number": "",
+  "first_page": "1012",
+  "last_page": "1012",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "853 A.2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "838 A.2d 684",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9299288,
+        16713
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/838/0684-01",
+        "/pa/576/0059-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 59",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16713
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 281,
+    "ocr_confidence": 0.678,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2170387153845649
+    },
+    "sha256": "7fc1dd433dbbd5e8fc96bbbb017ae9beccea93add8e130be9c45dd662f1626d0",
+    "simhash": "1:8dffcf1cd5e93453",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T19:46:11.377435+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph P. WERLEY, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 1st day of July, 2004, the order appealed is affirmed. See Finnegan v. PBPP, 576 Pa. 59, 838 A.2d 684 (2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Joseph P. WERLEY, Appellant, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellee.\nSupreme Court of Pennsylvania.\nJuly 1, 2004."
+  },
+  "file_name": "1012-03",
+  "first_page_order": 1050,
+  "last_page_order": 1050
+}

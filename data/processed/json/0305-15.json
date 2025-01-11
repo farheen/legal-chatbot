@@ -1,0 +1,58 @@
+{
+  "id": 12490600,
+  "name": "IN RE: Nom. Petition of B. GRIMAUD (Brier)",
+  "name_abbreviation": "In re Nom. Petition Grimaud",
+  "decision_date": "2017-04-25",
+  "docket_number": "418 CD 2017",
+  "first_page": "305",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 151,
+    "sha256": "27c7b6efeeb7d8ef367300a3a9b294a6daeabfe46e66ae0cf3304497d7ea7c99",
+    "simhash": "1:5c21be73c9c85500",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: Nom. Petition of B. GRIMAUD (Brier)"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE: Nom. Petition of B. GRIMAUD (Brier)\n418 CD 2017\nCommonwealth Court of Pennsylvania.\nApril 25, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0305-15",
+  "first_page_order": 305,
+  "last_page_order": 305
+}

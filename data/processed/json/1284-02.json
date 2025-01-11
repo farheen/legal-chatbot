@@ -1,0 +1,153 @@
+{
+  "id": 7290546,
+  "name": "In re David E. PARKER, Respondent",
+  "name_abbreviation": "In re Parker",
+  "decision_date": "2010-11-04",
+  "docket_number": "No. 10-BG-651",
+  "first_page": "1284",
+  "last_page": "1285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "6 A.3d 1284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "Registration No. 279919,",
+      "category": "laws:admin_filing",
+      "reporter": "Registration",
+      "opinion_index": -1
+    },
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    },
+    {
+      "cite": "910 A.2d 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8447270
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/910/0291-01"
+      ]
+    },
+    {
+      "cite": "885 N.Y.S.2d 658",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        3947529,
+        3956979,
+        3956797
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/66/1497-03",
+        "/ad3d/66/1496-01",
+        "/ad3d/66/1497-01"
+      ]
+    },
+    {
+      "cite": "66 A.D.3d 1497",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3956833,
+        3956677,
+        3947529,
+        3957936,
+        3949532,
+        3956797
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad3d/66/1497-06",
+        "/ad3d/66/1497-02",
+        "/ad3d/66/1497-03",
+        "/ad3d/66/1497-04",
+        "/ad3d/66/1497-05",
+        "/ad3d/66/1497-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 154,
+    "char_count": 1572,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831638446874702
+    },
+    "sha256": "52ff6812ce26330b72ac4f3966cddf05d83a26b4daf48f1c8bab288515e2147a",
+    "simhash": "1:083635426eeb4527",
+    "word_count": 258
+  },
+  "last_updated": "2024-02-27T18:18:38.373658+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REID, Associate Judge, TERRY and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re David E. PARKER, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order of the Supreme Court of the State of New York, see In re Parker, 66 A.D.3d 1497, 885 N.Y.S.2d 658 (2009), this court\u2019s June 22, 2010, order suspending respondent pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent has failed to file either a response to this court\u2019s order to show cause or the affidavit required by D.C. Bar R. XI \u00a7 14(g), it is\nORDERED that David E. Parker, Esquire, is hereby suspended from the practice of law in the District of Columbia for a period of five years with a fitness requirement. See In re Goldman, 910 A.2d 291 (D.C.2006)(imposition of a fitness requirement is identical reciprocal discipline for resignations proffered while bar disciplinary matters are pending); and In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (re-buttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s suspension will not begin to run until such time as he files an affidavit that fully complies with the requirements of D.C.Bar. R. XI \u00a7 14(g).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re David E. PARKER, Respondent.\nNo. 10-BG-651.\nDistrict of Columbia Court of Appeals.\nFiled Nov. 4, 2010.\nBar Registration No. 279919, BDN: 455-09.\nBefore REID, Associate Judge, TERRY and KING, Senior Judges."
+  },
+  "file_name": "1284-02",
+  "first_page_order": 1330,
+  "last_page_order": 1331
+}

@@ -1,0 +1,152 @@
+{
+  "id": 9240460,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Dante OVERBY, Petitioner",
+  "name_abbreviation": "Commonwealth v. Overby",
+  "decision_date": "2004-06-08",
+  "docket_number": "",
+  "first_page": "837",
+  "last_page": "838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "851 A.2d 837"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "736 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838560,
+        11575941
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01",
+        "/a2d/736/0564-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838560
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204502
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0648-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "719 A.2d 306",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11673960,
+        356264,
+        11673876,
+        356262
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/719/0306-02",
+        "/pa/553/0414-01",
+        "/a2d/719/0306-01",
+        "/pa/553/0415-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 415",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356262
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0415-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 139,
+    "char_count": 1309,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21579636496181823
+    },
+    "sha256": "93b7a0148e23758d88078686db341236ff7492210095f616a8df7a57a78f6929",
+    "simhash": "1:54255336c5a8b330",
+    "word_count": 216
+  },
+  "last_updated": "2024-02-27T17:22:24.795530+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Dante OVERBY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of June 2004, the Petitions for Allowance of Appeal are GRANTED. The parties are directed to address the following questions of law, which are subsumed within the grant:\nWhether a criminal defendant is denied his right to a direct appeal, in violation of Article V, Section 9 of the Pennsylvania Constitution, where he is afforded review by an appellate court, which enters judgment on his appeal, but where that court does not reach the merits of any of his claims because they were waived by virtue of counsel\u2019s failure to comply with an issue preservation rule?\nWhether a criminal defendant is constructively denied his constitutional right to counsel, such that prejudice may be presumed, where direct appeal counsel fails to timely comply with a trial court\u2019s order to file a Pa.R.A.P.1925(b) statement, which leads to all claims being deemed waived on direct appeal under Commonwealth v. Lord, 553 Pa. 415, 719 A.2d 306 (1998)? See Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984); United States v. Cronic, 466 U.S. 648, 104 S.Ct. 2039, 80 L.Ed.2d 657 (1984); Commonwealth v. Lantzy, 558 Pa. 214, 736 A.2d 564 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Dante OVERBY, Petitioner.\nSupreme Court of Pennsylvania.\nJune 8, 2004."
+  },
+  "file_name": "0837-03",
+  "first_page_order": 879,
+  "last_page_order": 880
+}

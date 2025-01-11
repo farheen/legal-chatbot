@@ -1,0 +1,58 @@
+{
+  "id": 12485631,
+  "name": "Commonwealth v. Marquis Jackson",
+  "name_abbreviation": "Commonwealth v. Jackson",
+  "decision_date": "2016-06-22",
+  "docket_number": "NO. 66 EAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 146,
+    "sha256": "83989c2817f69783ad26404ea7023de0ba41945e6374f33fd970e378a238692b",
+    "simhash": "1:948e5660982d1058",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMarquis Jackson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMarquis Jackson\nNO. 66 EAL 2016\nSupreme Court of Pennsylvania\nJune 22, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-16",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

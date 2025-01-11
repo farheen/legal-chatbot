@@ -1,0 +1,58 @@
+{
+  "id": 12484957,
+  "name": "Commonwealth v. Michelle Long",
+  "name_abbreviation": "Commonwealth v. Long",
+  "decision_date": "2016-05-10",
+  "docket_number": "NO. 27 MAL 2016",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 226,
+    "sha256": "d465234bcca67c3e88e328204b9a22813011ac9d398101c9c868bd503bee38fb",
+    "simhash": "1:b512da64a2273cfc",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMichelle Long"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMichelle Long\nNO. 27 MAL 2016\nSupreme Court of Pennsylvania\nMay 10, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0003-11",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

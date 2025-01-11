@@ -1,0 +1,58 @@
+{
+  "id": 12489553,
+  "name": "IN RE WAITE",
+  "name_abbreviation": "In re Waite",
+  "decision_date": "2017-03-24",
+  "docket_number": "16\u2013329",
+  "first_page": "1097",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1097"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "afdf1e55840ed4792bbe09a54b8fe21c637826ec32166bad6e0b94b9a58049e4",
+    "simhash": "1:3e51091036c1f840",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE WAITE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE WAITE\n16-329\nSupreme Court of Vermont.\nMarch 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1097-06",
+  "first_page_order": 1097,
+  "last_page_order": 1097
+}

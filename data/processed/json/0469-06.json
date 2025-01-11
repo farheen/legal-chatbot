@@ -1,0 +1,58 @@
+{
+  "id": 12488854,
+  "name": "IN RE S.S.",
+  "name_abbreviation": "In re S.S.",
+  "decision_date": "2016-10-25",
+  "docket_number": "16\u2013365",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "5f5e9e1ffda8930d984ccf6592238c76a0fb0d9603672f56b44b65a796b5a880",
+    "simhash": "1:d0ff0f235ce8fe41",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE S.S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE S.S.\n16-365\nSupreme Court of Vermont.\nOctober 25, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0469-06",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

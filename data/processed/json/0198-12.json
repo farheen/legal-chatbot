@@ -1,0 +1,58 @@
+{
+  "id": 12486571,
+  "name": "P. Pressley v. C. Starkey",
+  "name_abbreviation": "Pressley v. Starkey",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 630 EDA 2015",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 101,
+    "sha256": "dafa83334a8dd63ee0fc0dbaf9d7c354d8037c6c920bdf07392f98d6ee149340",
+    "simhash": "1:b19127668df29784",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P. Pressley\nv.\nC. Starkey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "P. Pressley\nv.\nC. Starkey\nNO. 630 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-12",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

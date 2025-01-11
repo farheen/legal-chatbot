@@ -1,0 +1,58 @@
+{
+  "id": 12486756,
+  "name": "D. Spuck v. Progress Newspaper",
+  "name_abbreviation": "Spuck v. Progress Newspaper",
+  "decision_date": "2016-03-28",
+  "docket_number": "NO. 1495 WDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 107,
+    "sha256": "251473e677ce700075ad7c7e4fa77139e28da12d3afca0bc85ebd79daf1d9bcf",
+    "simhash": "1:195d66e348cb9c90",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. Spuck\nv.\nProgress Newspaper"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "D. Spuck\nv.\nProgress Newspaper\nNO. 1495 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 28, 2016\nAffirmed."
+  },
+  "file_name": "0209-09",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501679,
+  "name": "COM. v. TRUSTY, G.",
+  "name_abbreviation": "Com. v. Trusty",
+  "decision_date": "2018-07-17",
+  "docket_number": "1629 EDA 2017",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 678"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "e4eb82f65c2107b9d3c5fe13807a4ba4ac86dc924be4212c3e4bd84e1024a739",
+    "simhash": "1:9db6767dc1bcdef4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nTRUSTY, G."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nTRUSTY, G.\n1629 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 17, 2018\nAffirmed"
+  },
+  "file_name": "0678-04",
+  "first_page_order": 678,
+  "last_page_order": 678
+}

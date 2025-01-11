@@ -1,0 +1,79 @@
+{
+  "id": 8004364,
+  "name": "W. Edward WOOD v. B. Albert FORD et al.",
+  "name_abbreviation": "Wood v. Ford",
+  "decision_date": "1981-03-19",
+  "docket_number": "No. 80-424-M.P.",
+  "first_page": "1332",
+  "last_page": "1333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "427 A.2d 1332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "425 A.2d 529",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7974064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/425/0529-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 648,
+    "ocr_confidence": 0.79,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20071208784759265
+    },
+    "sha256": "38784e703a1aed371666c302a3d70ff893904cead0c400215e9f98fd1828be78",
+    "simhash": "1:5cb3d05d324038cb",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T16:29:20.438457+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. Edward WOOD v. B. Albert FORD et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPursuant to our ruling in Rohrer, Director of Administration v. Ford et al., 425 A.2d 529 (R.I.1981) the petition for writ of certiorari in this case is hereby granted, the decision and judgment of the Superior Court are quashed and the case is returned to the Superior Court for reconsideration in the light of Rohrer.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Sean O. Coffey, Chief Legal Counsel, Dept, of Environmental Management, Providence, for petitioner.",
+      "Dennis J. Roberts II, Atty. Gen., John S. Foley, Special Asst. Atty. Gen., Frank Ca-prio, Providence, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "W. Edward WOOD v. B. Albert FORD et al.\nNo. 80-424-M.P.\nSupreme Court of Rhode Island.\nMarch 19, 1981.\nSean O. Coffey, Chief Legal Counsel, Dept, of Environmental Management, Providence, for petitioner.\nDennis J. Roberts II, Atty. Gen., John S. Foley, Special Asst. Atty. Gen., Frank Ca-prio, Providence, for respondents."
+  },
+  "file_name": "1332-03",
+  "first_page_order": 1396,
+  "last_page_order": 1397
+}

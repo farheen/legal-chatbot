@@ -1,0 +1,95 @@
+{
+  "id": 7282495,
+  "name": "In re Jeffrey L. STREET, Respondent",
+  "name_abbreviation": "In re Street",
+  "decision_date": "2011-06-23",
+  "docket_number": "No. 11-BG-304",
+  "first_page": "1004",
+  "last_page": "1005",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "21 A.3d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "900 A.2d 165",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8412234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/900/0165-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8347738
+      ],
+      "pin_cites": [
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/930/0194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 124,
+    "char_count": 1293,
+    "ocr_confidence": 0.729,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1882463031628485
+    },
+    "sha256": "5db7f152596f267a3b6c3eaee917bbddbeb8582daca2012e0d704f5c5a06ebb5",
+    "simhash": "1:9d7c0549e2c2446a",
+    "word_count": 210
+  },
+  "last_updated": "2024-02-27T19:59:19.850177+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before BLACKBURNE-RIGSBY, Associate Judge, TERRY and FARRELL, Senior Judges."
+    ],
+    "parties": [
+      "In re Jeffrey L. STREET, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM\nOn consideration of the certified order of the Supreme Court of the State of Oregon accepting the stipulation for discipline and suspending respondent from the practice of law in that jurisdiction for a period of one year, but with eight months stayed pending completion of a two year probationary period, this court\u2019s April 5, 2011, order directing him to show cause why identical reciprocal discipline should not be imposed, the statement of Bar Counsel regarding reciprocal discipline, and it appearing that respondent filed his affidavit as required by D.C. Bar R. XI, \u00a7 14(g), it is\nORDERED that, Jeffrey L. Street, Esquire, is hereby suspended for a period of one year, nunc pro tunc to April 5, 2011, eight months of the suspension is hereby stayed and respondent shall serve a two year probationary period subject to the terms imposed by the state of Oregon. See In re Fuller, 930 A.2d 194, 198 (D.C.2007) and In re Willingham, 900 A.2d 165 (D.C.2006) (rebuttable presumption of identical reciprocal discipline applies to all cases in which the respondent does not participate).",
+        "type": "majority",
+        "author": "PER CURIAM"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jeffrey L. STREET, Respondent.\nNo. 11-BG-304.\nDistrict of Columbia Court of Appeals.\nFiled June 23, 2011.\nBefore BLACKBURNE-RIGSBY, Associate Judge, TERRY and FARRELL, Senior Judges."
+  },
+  "file_name": "1004-02",
+  "first_page_order": 1038,
+  "last_page_order": 1039
+}

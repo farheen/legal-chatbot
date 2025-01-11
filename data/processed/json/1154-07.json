@@ -1,0 +1,58 @@
+{
+  "id": 12488561,
+  "name": "Com. v. White, W.",
+  "name_abbreviation": "Com v. White",
+  "decision_date": "2016-05-20",
+  "docket_number": "2486 EDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "1d2c33c7a08365cf97ee91513ab842a8599a5b6f19632c6906090c6f5f79edd1",
+    "simhash": "1:37181498d3e09ff7",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nWhite, W."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nWhite, W.\n2486 EDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1154-07",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

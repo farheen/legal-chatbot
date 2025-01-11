@@ -1,0 +1,58 @@
+{
+  "id": 12485743,
+  "name": "Com. v. G. McFarland",
+  "name_abbreviation": "Com. v. McFarland",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 1026 MDA 2015",
+  "first_page": "582",
+  "last_page": "582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "e5b8993236858b6b2863af437221e3664cfe2880a2ef0411da9e7f91bd3973eb",
+    "simhash": "1:2d1c7f8546c32de4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. McFarland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. McFarland\nNO. 1026 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0582-13",
+  "first_page_order": 582,
+  "last_page_order": 582
+}

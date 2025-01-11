@@ -1,0 +1,80 @@
+{
+  "id": 7963937,
+  "name": "Harold A. JOOVELEGIAN v. Albert O. ASHUKIAN et al.",
+  "name_abbreviation": "Joovelegian v. Ashukian",
+  "decision_date": "1981-11-19",
+  "docket_number": "No. 79-426-A",
+  "first_page": "1304",
+  "last_page": "1304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 1304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "431 A.2d 416",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7964349
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/431/0416-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 470,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20065918901063343
+    },
+    "sha256": "62325228d85d1bedd0efd3813dc8d4e13fedb205d28a693d89a55b5b691e6ca9",
+    "simhash": "1:351ec09dc569c4a7",
+    "word_count": 77
+  },
+  "last_updated": "2024-02-27T20:24:54.472867+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harold A. JOOVELEGIAN v. Albert O. ASHUKIAN et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe plaintiff\u2019s motion to remand is granted and this case is hereby remanded to the Superior Court for reconsideration in light of this court\u2019s opinion in Pin Pin H. Su v. Kemper Insurance Companies et al, R.I., 431 A.2d 416 (1981).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Arthur G. Capaldi, Coventry, for plaintiff.",
+      "Gunning, LaFazia & Gnys, Inc., Richard T. Linn, Providence, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Harold A. JOOVELEGIAN v. Albert O. ASHUKIAN et al.\nNo. 79-426-A.\nSupreme Court of Rhode Island.\nNov. 19, 1981.\nArthur G. Capaldi, Coventry, for plaintiff.\nGunning, LaFazia & Gnys, Inc., Richard T. Linn, Providence, for defendants."
+  },
+  "file_name": "1304-03",
+  "first_page_order": 1352,
+  "last_page_order": 1352
+}

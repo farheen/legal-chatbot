@@ -1,0 +1,64 @@
+{
+  "id": 12490976,
+  "name": "JONES, Troy v. STATE of Maryland",
+  "name_abbreviation": "Jones v. State",
+  "decision_date": "2017-09-22",
+  "docket_number": "Pet. Docket No. 231, Sept. Term, 2017",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 161,
+    "sha256": "b16da41174a96c5e7b19e548d387a3d05528ecec91ffec286db0800aeff1f144",
+    "simhash": "1:a56b1218e6474335",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:26.796983+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONES, Troy\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "JONES, Troy\nv.\nSTATE of Maryland\nPet. Docket No. 231, Sept. Term, 2017\nCourt of Appeals of Maryland.\nSeptember 22, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0296-03",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

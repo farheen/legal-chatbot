@@ -1,0 +1,710 @@
+{
+  "id": 6082853,
+  "name": "In re Michael Mojzesz Szwarc",
+  "name_abbreviation": "In re Szwarc",
+  "decision_date": "1963-06-28",
+  "docket_number": "No. 6462; No. 7000",
+  "first_page": "1571",
+  "last_page": "1585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1571"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 U.S.P.Q. 208"
+    },
+    {
+      "type": "parallel",
+      "cite": "319 F.2d 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "324 U.S. 154",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6154729
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0154-01"
+      ]
+    },
+    {
+      "cite": "152 F. 2d 225",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1258539
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/152/0225-01"
+      ]
+    },
+    {
+      "cite": "147 F. 2d 63",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1261136
+      ],
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/147/0063-01"
+      ]
+    },
+    {
+      "cite": "71 App. D.C. 195",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "247 F. 2d 953",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077248,
+        397575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0714-01",
+        "/f2d/247/0953-01"
+      ]
+    },
+    {
+      "cite": "45 CCPA 714",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077248
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0714-01"
+      ]
+    },
+    {
+      "cite": "135 F. 986",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 F. 2d 382",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        67232
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/229/0382-01"
+      ]
+    },
+    {
+      "cite": "274 U.S. 225",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        81086
+      ],
+      "pin_cites": [
+        {
+          "page": "235-236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/274/0225-01"
+      ]
+    },
+    {
+      "cite": "70 F. (2d) 668",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        269684
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/70/0668-01"
+      ]
+    },
+    {
+      "cite": "291 U.S. 35",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1497950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/291/0035-01"
+      ]
+    },
+    {
+      "cite": "60 F. (2d) 340",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        915288
+      ],
+      "pin_cites": [
+        {
+          "page": "342, 344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/60/0340-01"
+      ]
+    },
+    {
+      "cite": "300 U.S. 7",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 F. 2d 558",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079995,
+        177804
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0964-01",
+        "/f2d/314/0558-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 964",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079995
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0964-01"
+      ]
+    },
+    {
+      "cite": "280 F. 2d 172",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081400,
+        2017279
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/1031-01",
+        "/f2d/280/0172-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 1031",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081400
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/1031-01"
+      ]
+    },
+    {
+      "cite": "157 U.S. 683",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3583993
+      ],
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/157/0683-01"
+      ]
+    },
+    {
+      "cite": "312 F. 2d 930",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079961,
+        185754
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0954-01",
+        "/f2d/312/0930-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 954",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079961
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0954-01"
+      ]
+    },
+    {
+      "cite": "320 U.S. 661",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6143736
+      ],
+      "pin_cites": [
+        {
+          "page": "671"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/320/0661-01"
+      ]
+    },
+    {
+      "cite": "168 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6136182
+      ],
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/168/0001-01"
+      ]
+    },
+    {
+      "cite": "94 U.S. 606",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645723
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0606-01"
+      ]
+    },
+    {
+      "cite": "94 U.S. 351",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5646801
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "353"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0351-01"
+      ]
+    },
+    {
+      "cite": "333 U.S. 591",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158777
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "598"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/333/0591-01"
+      ]
+    },
+    {
+      "cite": "280 F. 2d 436",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082154,
+        2017348
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/1167-01",
+        "/f2d/280/0436-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 1167",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082154
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/1167-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 978",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6263968,
+        6264547,
+        6266232,
+        6265668,
+        6264275,
+        6265142,
+        6265400,
+        6265948
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/356/0978-01",
+        "/us/356/0978-03",
+        "/us/356/0978-08",
+        "/us/356/0978-06",
+        "/us/356/0978-02",
+        "/us/356/0978-04",
+        "/us/356/0978-05",
+        "/us/356/0978-07"
+      ]
+    },
+    {
+      "cite": "355 U.S. 955",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6367298,
+        6366697,
+        6367503,
+        6367667,
+        6367097,
+        6366906
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/355/0955-04",
+        "/us/355/0955-01",
+        "/us/355/0955-05",
+        "/us/355/0955-06",
+        "/us/355/0955-03",
+        "/us/355/0955-02"
+      ]
+    },
+    {
+      "cite": "114 USPQ 94",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "247 F. 2d 800",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        397581
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/247/0800-01"
+      ]
+    },
+    {
+      "cite": "182 F. 2d 216",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1242434,
+        6084326
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/182/0216-01",
+        "/ccpa/37-2/1032-01"
+      ]
+    },
+    {
+      "cite": "37 CCPA 1032",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6084326
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/37-2/1032-01"
+      ]
+    },
+    {
+      "cite": "121 F. 2d 897",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        463228
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/121/0897-01"
+      ]
+    },
+    {
+      "cite": "74 App. D.C. 123",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "300 U.S. 5",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        336796
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/300/0005-01"
+      ]
+    },
+    {
+      "cite": "855 U.S. 955",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "101 App. D.C. 214",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "314 F. 2d 558",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079995,
+        177804
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/50-2/0964-01",
+        "/f2d/314/0558-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 964",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079995
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/50-2/0964-01"
+      ]
+    },
+    {
+      "cite": "168 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6136182
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/168/0001-01"
+      ]
+    },
+    {
+      "cite": "333 U.S. 591",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158777
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/333/0591-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 978",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6263968,
+        6264547,
+        6266232,
+        6265668,
+        6264275,
+        6265142,
+        6265400,
+        6265948
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/356/0978-01",
+        "/us/356/0978-03",
+        "/us/356/0978-08",
+        "/us/356/0978-06",
+        "/us/356/0978-02",
+        "/us/356/0978-04",
+        "/us/356/0978-05",
+        "/us/356/0978-07"
+      ]
+    },
+    {
+      "cite": "114 USPQ 94",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "247 F. 2d 800",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        397581
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/247/0800-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1252,
+    "char_count": 37670,
+    "ocr_confidence": 0.445,
+    "pagerank": {
+      "raw": 3.4413019296749316e-07,
+      "percentile": 0.8796771549229317
+    },
+    "sha256": "d0360938865d9faa4bf14d6674142deda58baae1794547b52d54ed1f0ebf57d0",
+    "simhash": "1:95afe0e8abd12159",
+    "word_count": 6412
+  },
+  "last_updated": "2024-02-28T00:04:51.562281+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Michael Mojzesz Szwarc"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nAppellant b,as appealed the rejection of 3 product and 8 process claims in his application for patent on certain polymers and processes for the production thereof. The rejection is based on appellant\u2019s British Patent which issued more than one year prior to the filing date of the appealed application. 35 U.S.C. 102(b). The primary issue in this case arises under 35 U.S.C. 120 and requires a determination of whether the present application is entitled to the benefit of the filing date of an earlier U.S. application for patent filed by appellant, the filing date of which is early enough to avoid the statutory bar of 35 U.S.C. 102(b).\nHistory of Present Proceedings\nThe rather complicated fact situation presented by th,e two consolidated appeals may be summarized as follows:\n1. Appellant, Szwarc, on Sept. 19, 1947, filed a British, application which relates to the same subject matter as the presently appealed application.\n2. A U.S. application, Ser. No. 48,339, identical with said British application, was filed on Sept. 8, 1948. |(Hereafter termed the \u201cparent\u201d application.)\n3. On Mar. 7, 1951 the reference British patent, No. 650,947, was issued on the said British application.\n4. The present application, Ser. No. 306,940, was filed on Aug. 28, 1952, as a \u201ccontinuation-in-part\u201d of what appellant asserts to be his parent application, Ser. No. 48,339.\n5. Claims 42-47, 49, 50 and 52 of the \u201cparent\u201d U.S. application, Ser. No. 48,339, were finally rejected by the examiner as \u201clacking utility\u201d. These claims were amended after final rejection in accordance with Rule 116 of the Bules of Practice of the U.S. Patent Office and became claims 54 (a process claim) and 55 (a product claim) which were appealed to the Board of Appeals.\n6. The Board of Appeals, relying upon our decision in In re Brenmer et ail., 37 CCPA 1032, 182 F. 2d 216, 86 USPQ 74, affirmed the examiner\u2019s rejection of claims 54 and 55 of the \u201cparent\u201d application.\n7. After the Board had affirmed the examiner\u2019s rejection of said claims 54 and 55, a civil action against the Commissioner under 35 U.S.C. 145 was filed by Petrocarbon Ltd., the then assignee of appellant Szwarc. The District Court, D.C., in an unreported Memorandum Decision, ruled in favor of the Patent Office, Petrocarbon Ltd. v. Watson.\n8. The District Court\u2019s decision in Petrocarbon Ltd. v. Watson was affirmed by the Court of Appeals, D.C., 247 F. 2d 800, 114 USPQ 94. (Certiorari denied, 355 U.S. 955; Petition for Rehearing denied, 356 U.S. 978.)\n9. The claims of the present application stand rejected under 35 U.S.C. 102(b) as being barred by the said British Patent 650,947 issued to Szwarc more than a year prior to Aug. 28, 1952, the filing date of the presently appealed application. Benefit of the filing date of the \u201cparent\u201d application under 35 U.S.C. 120 was denied by the examiner, which action was affirmed by the Board of Appeals. In a decision upon reconsideration, the board held the decision in Petrocarbon Ltd. v. Watson to be res judicata on the question of whether the parent application disclosed the invention as required by the first paragraph of 35 U.S.C. 112, and held that this prevented appellant from avoiding the present rejection by recourse to 35 U.S.C. 120.\n10. In our initial consideration of this case, in Appeal No. PA 6462, we noted that while the appealed decision was based on res judicata, the record did not disclose the necessary identity or privity of parties between the present appellant Beware and Petrocarbon Ltd., the party in interest in the prior litigation. We therefore remanded the case to the Patent Office \u201cfor a factual determination as to the relationship, if any, between the parties involved in the Petrocarbon case and the party in interest here involved\u201d. In re Szwarc, 47 CCPA 1167, 280 F. 2d 436, 126 USPQ 404.\n11. The Board of Appeals, in a decision dated Oct. 13, 1961, set forth facts of record in the Patent Office which it found sufficient to show identity or privity of the parties Szwarc and Petrocarbon Ltd,, and denied appellant\u2019s requested remand to the primary examiner. Szwarc\u2019s Request for Reconsideration and his Petition to the Commissioner were both denied.\n12. The board decision dated Oct.' 13, 1961 was appealed and became our Appeal No. PA 7000. We granted Szwarc\u2019s Petition for Rehearing in PA 6462 and both appeals were consolidated for reargument and decision.\nPatent Appeal 6J\u00a1.62\nThe issue presented by PA 6462 is whether under 35 U.S.G. 120 the present application is entitled to the benefit of filing date of appellant\u2019s earlier U.S. application. It is the position of the board and solicitor that the decision in Petrocarbon Ltd. v. Watson, supra, is res judicata on this issue.\nThe Parties\nThe first requirement of res judicata is that the second suit must involve the same parties or their privies. Commissioner v. Sunnen, 333 U.S. 591. In the case at bar, we obviously do not have the same parties as those before the court in Petrocarbon Ltd. v. Watson, supra. Since the record in PA 6462 was silent as to any relationship establishing privity between the parties,, we remanded the same to the board for a factual determination of the relationship upon which the finding of res judicata could properly be based. In re Szwarc, 47 CCPA 1167, 280 F. 2d 436, 126 USPQ, 404. While there still remains some doubt as to whether the information presented by the Board of Appeals on Remand sufficiently establishes privity of the parties, Petrocarbon Ltd. and Szwarc, which warrants application of res judicata, we need not here pass on this matter in view of the concession made at oral argument by appellant\u2019s attorney that the M. W. Kellogg Company was the party in interest in Petrocarbon Ltd. v. Watson, supra, and is the party in interest here.\nThe Issues\nThe second requirement of res judicata is identity of issues. If the second action between the same parties or privies is upon the same claim or demand, the judgment in the prior action operates as an absolute bar to relitiga/tion not only of those matters actually determined in the prior suit but also any other matter which might have been acted upon in the prior suit. Cromwell v. County of Sac, 94 U.S. 351. This aspect of the doctrine of res judicata, sometimes called res judicata by bar or merger, differs from the second aspect of res judicata, estoppel by judgment. If the second action is upon a different claim or demand, an estoppel by judgment, more limited in its scope than res judicata by bar, operates as an estoppel only as to those matters upon which a determination or final verdict was actually rendered. Cromwell v. County of Sac, supra. Because the distinction between res judicata by bar and estoppel by judgment is often a source of confusion, the definitive statements of the Supreme Court in Commissioner v. Sunnen, supra, at pages 597-598, are here quoted at some length:\nIt is first necessary to understand something of the recognized meaning and scope of res judicata, a doctrine judicial in origin. The general rule of res judicata applies to repetitious suits involving the same cause of action. It is rests upon considerations of economy of judicial time and public policy favoring the establishment of certainty in legal relations. The rule provides that when a court of competent jurisdiction has entered a final judgment on the merits of a cause of action, the parties to the suit and their privies are thereafter bound \u201cnot only as to every matter which was offered and received to sustain or defeat the claim or demand, but as to any other admissible matter which might have been offered for that purpose.\u201d * * *\nBut where the second action between the same parties is upon a different cause or demand, the principle of res judicata is applied much more narrowly. In this situation, the judgment in the prior action operates as an estoppel, not as to matters which might have been litigated and determined, but \u201conly as to those matters in issue or points controverted, upon the determination of which the finding or verdict was rendered.\u201d Cromwell v. County of Sac, supra, 353. And see Russell v. Place, 94 U.S. 606; Southern Pacific R. Co. v. United States, 168 U.S. 1, 48; Mercoid Corp. v. Mid-Continent Co., 320 U.S. 661, 671. Since the cause of action involved in the second proceeding is not swallowed by the judgment in the prior suit, the parties are free to litigate points which were not at issue in the first proceeding, even though such points might have been tendered and decided at that time. But matters which were actually litigated and determined in the first proceeding cannot later be relitigated. Once a party has fought out a matter in litigation with the other party, he cannot later renew that duel. Jn this sense, res judicata is usually and more accurately referred to as estoppel by judgment, or collateral estoppel. * * *\nHaving in mind the above stated distinction between res judicata by bar and estoppel by judgment or collateral estoppel and applying it to the present case, we find that the present record presents a different cause or demand than the cause or demand litigated in the Petrocarbon case.\nAs stated in the Memorandum Decision of the District Court in the Petrooarbon case, \u201cThe sole issue is whether the specification meets the requirements of Section 112 of Title 35 for a written description of the manner of using the invention.\u201d The \u201cinvention\u201d in the above quoted statement is the invention defined in claims 54 and 55 of the parent application, No. 48,339.\nStated another way, the \u201ccause or demand\u201d presented for adjudication in Petrooarbon was whether the applicant was entitled in the application there in issue to the allowance of claims 54 and 55. In the present appeal, PA 6462, this issue is not before us. The sole issue here is whether the present application is entitled under 35 U.S.C. 120 to the benefit of the filing date of the parent application. The \u201ccause or demand\u201d presented here is whether the eleven appealed claims of the present application should be allowed. The issue, cause or demand of the present case thus is not the same issue, cause or demand which was litigated in the Petrooarbon case. See In re Fried, 50 CCPA 954, 312 F. 2d 930, 136 USPQ 429. Therefore, we hold that res judicata by bar does not apply. We must therefore determine here whether the second aspect of res judicata, estoppel by judgment or collateral estoppel, is applicable.\nWhere, as here, the second action between the same parties is upon a different cause or demand, the judgment in the prior action operates as an estoppel only to those matters in issue upon which a determination or verdict was rendered. Cromwell v. County of Sac, supra. The determination of precisely what matters were actually decided in the Petrooarbon case gives real meaning to the observation of the Supreme Court in Last Chance Mining Company v. Tyler Mining Company, 157 U.S. 683, 687, that:\n* * * The law in respect to estoppel by judgment is well settled, and the only difficulty lies in the application of the law to the facts. * * *\nThe specific issue under 35 U.S.C. 120 which requires decision in this appeal is whether the invention claimed in the present appealed claims is \u201c* * * disclosed in the manner provided by the first paragraph of 'Section 112 of this title in an application previously filed in the United States by the same inventor * * *\u201d so as to allow the present application to have the benefit of the filing date of the previously filed parent application which was the application in issue in the Petrooarbon case. It is the position of the Board of Appeals and the solicitor here that this question must be answered in the negative because the Petrooarbon case finally determined that the invention claimed therein was not \u201cdisclosed in the manner provided by the first paragraph of Section 112.\u201d\nAs we recently held in the case of In re Fried, supra, the position of the Patent Office requires us to determine, by comparing the appealed claims and the claims rejected in the parent case, whether \u201cthe invention\u201d of the appealed claims is the same or is different from \u201cthe invention\u201d in the prior rejected claims. Only after such a comparison can it be decided if estoppel by judgment or collateral estoppel prevents us from making a determination of whether, under 35 U.S.C. 120, the appealed claims are entitled to the benefit of the filing date of the earlier filed parent application. As pointed out in In re Fried, supra, the summary application of collateral estoppel, without such an analysis and comparison, can lead to the improper denial to an applicant of the benefit of an earlier filing date under 35 U.S.C. 120.\nClaim 54 rejected in the parent case was a process claim while claim 55 was a product claim for \u201cThe solid polymer produced by the process of claim 54.\u201d Of the eleven claims in the present application on appeal, claims 36, 38 and 39 are product claims of varying scope and the remainder are process claims.\nThe product of claim 55 is produced by the process of claim 54 which is as follows:\n54. A process for the production of a solid polymer of high thermal stability which is resistant to sulfuric acid and insoluble in many organic solvents, which comprises heating hydrocarbon vapors consisting essentially of paraxylene at a temperature of about 860\u00b0 O for a period of from about 0.3 to 0.4 second and under a pressure of from about 8 to 10 mm- of mercury, cooling the resulting vapors to a temperature at which a solid polymer is deposited which does not soften even when heated to about 270\u00b0 O, and recovering the said solid polymer.\nThe District Court, in its Memorandum Decision, made no distinction between the process and the product claims but merely stated that the sole issue was whether the specification meets the requirements of 35 U.S.C. 112. In finding that claims 54 and 55 were properly rejected, Judge McGuire quoted from In re Bremner et al., 37 CCPA 1032, 182 F. 2d 216, 86 USPQ 74, upon which the board had relied. In the decision in the Court of Appeals, D.C., 247 F. 2d 800, 114 USPQ 94, appellant took the position that the specification did in fact meet the requirements of 35 U.S.C. 112 within the \u201crule of In re Brerrmer\u201d because the application stated how to make a film from the solid polymers and mentioned its thermal stability and resistance to various solvents of the polymers. In rejecting the appellant\u2019s argument that the word \u201cfilm\u201d itself was a sufficient indication to a person of ordinary skill in the art of how to use the invention, the court stated:\n* * * Although the specification does say that the \u201cpolymers obtained in the above examples were useful\u201d because they had great thermal stability and resisted various fluids, it is not apparent from the face of the specification how utility could in fact be achieved. The examples indicate that the polymer forms a \u201cfilm\u201d ; but they do not indicate whether or not this film adheres to the object on which it forms, whether it falls off in the form of a powder, whether it is detachable in the form of a film-like substance (similar perhaps to cellophane), whether the film of polymer is useful as such, whether it would have to be subjected to further processing before it could form a useful object or fluid, and so on. Some such further indication, it seems to us, should have been given to enable readers of the application to understand how the product is to be used. If the specification had indicated a particular use for the film, and if the question before us was whether the language used was sufficient to explain this use to one skilled in the art, then testimony of experts might well have been received. But the present specification, while indicating useful properties of the new polymers (heat and acid resistance), makes no such statement as to the film, or explains how the film is to be uesd. Since the word \u201cfilm\u201d by itself does not connote a particular use, the specification is defective as a matter of law.\nThus, the question decided in the Petrocarbon case, as related to product claim 55, was that the specification was not sufficient under 35 U.S.C. 112 to teach a person of ordinary skill in the art how to use the invention so defined.\nIn comparing the product defined in claim 55 with the three product claims in the present application, we note that appealed claim 39 calls for \u201cthe solid polymerization product of the pyrolyzed vapors of para-xylene * * * having a crystal structure, having a softening point about 300\u00b0 C, and and being insoluble in many organic solvents at ordinary temperatures.\u201d This polymer as defined in claim 39 is made from the identical starting material, para-xylene, as the polymer product called for in rejected claim 55 of the parent application. Being the same polymer in each case, the description of its properties in the claims does not distinguish the polymers of claim 39 from the polymers of said claim 55. Appealed claim 38 specifies that the starting material be 1,4-dimethyl naphthalene (instead of para-xylene as in claim 39). Appealed claim 36 states that the starting materials are \u201cselected from the class consisting of polymethyl benzenes and polymethyl naphthalenes having from 2 to 6 methyl groups substituted in the nucleus with two of the methyl groups being in the 1,4-positions of one ring.\u201d While claims 36 and 38 are broader in scope than rejected claim 55 of the parent application in that they define a larger group of products from which to select the starting materials, the resultant polymers are inclusive of the product of said rejected claim 55. Therefore, the prior adjudication in the Petro-carbon case that the specification of the parent application did not satisfy the first paragraph of 35 U.S.C. 112, decided the identical question which must be here resolved in determining whether the products of claims 36, 38 and 39 were \u201cdisclosed in the manner provided by the first paragraph of Section 112 of this title\u201d in the parent application in order to get the benefit of the earlier filing date under 35 U.S.C. 120. We think that the principle of collateral estoppel prevents our independent determination of this issue as to the appealed product claims 36, 38 and 39. However, as indicated in In re John A. Nelson and Anthony C. Shabica, 47 CCPA 1031, 280 F. 2d 172, 126 USPQ 242, we disagree on the merits with the result reached in Petrocarbon Ltd. v. Watson. In thus affirming the rejection of product claims 36, 38 and 39, we do so not on the merits but solely and only for the reason that we feel bound by the doctrine of collateral estoppel not to permit relitigation of this issue.\nAs previously pointed out, the District Court and the Court of Appeals, D.C., made no distinction between the rejected 'prod/act claim 55 and the rejected process claim 54 in finding that the specification was insufficient under 35 U.S.C. 112. Implicit in this finding is the reliance by both courts on the decision of this court in In re Bremner, supra. The Bremner decision has been frequently relied upon by the Patent Office as support for the position that unless the specification discloses the \u201cutility\u201d of the product required by 35 U.S.C. 101 and tells \u201chow to use\u201d the product under 35 U.S.C. 112, a process for making the disclosed product must be rejected on both statutory bases. This position appears to have been derived from this court\u2019s statement in Bremner that:\nIt was never intended that a patent he granted upon a product, or a process producing a product, unless such product be useful. [Emphasis added.]\nIn. onr recent decision in In re Wilke and Pfohl, 50 CCPA 964, 314 F. 2d 558, 136 USPQ 435, we Rad occasion to review the above quoted \u201crule of Bremner\u201d and concluded that there was no statutory basis for such a rule. In the Wilke and Pfohl case, we held that, under the requirements of 35 U.S.C. 112, it was sufficient if the specification disclosed to a person of ordinary skill in the art the steps of how to carry out the claimed process. Thus, the so-called \u201crule of Bremner as applied to process claims, no longer exists in this court.\nWe are therefore faced with a situation in which we are asked to apply the doctrine of collateral estoppel to the appealed process claims because the Petrocarhon decision refused process claim 54 in the parent case by reliance upon the so-called \u201crule of Bremner\u201d which has now been overruled by this court in its application to process claims.\nA similar problem was resolved by the Supreme Court in Blair v. Commissioner, 300 U.S. 7. There, a prior adjudication had held that the 1923 income of a trust was taxable income to the petitioner since, under state law, the trust was a spendthrift trust. Later a state court held the trust not to be a spendthrift trust. In a second proceeding, covering tax years 1924 through 1929, the Commissioner argued that the judgment relating to income in 1923 \u201cis conclusive in this proceeding as res judicata.\u201d In refusing to apply collateral estoppel in this situation where the law upon which the prior adjudication rested had been changed, the court stated:\nIt is not necessary to review the respective contentions upon this point, as we think that the ruling in the Tait case is not applicable. That ruling and the reasoning which underlies it apply where in the subsequent proceeding, although relating to a different tax year, the questions presented upon the facts and the law are essentially the same. Tait v. Western Maryland, Ry. Co., supra, pp. 624, 626. Here, after the decision in the first proceeding, the opinion and decree of the state court created a new situation. The determination of petitioner\u2019s liability for the year 1923 had been rested entirely upon the local law. Commissioner v. Blair, 60 F. (2d) 340, 342, 344. The supervening decision of the state court interpreting that law in direct relation to this trust cannot justly be ignored in the present proceeding so far as it is found that the local law is determinative of any material point in controversy. Compare Freuler v. Helvering, 291 U.S. 35; Hubbett v. Helvering, 70 F. (2d) 668.\nIn Commissioner v. Sunnen, supra, the Supreme Court again warned against the application of collateral estoppel where there had been a modification of the legal principles which had controlled the decision in the prior suit. The Court stated:\n* * * A taxpayer may secure a judicial determination of a particular tax matter, a matter which may recur without substantial variation for some years thereafter. But a, subsequent modification of the significant facts or a change or development in the controlling legal principles may make that determination obsolete or erroneous, at least for future purposes. If such a determination is then perpetuated each succeeding year as to the taxpayer involved in the original litigation, he is accorded a tax treatment different from that given to other taxpayers of the same class. As a result, there are inequalities in the administration of the revenue laws, discriminatory distinctions in tax liability, and a fertile basis for litigious confusion. Compare United States v. Stone & Downer Co., 274 U.S. 225, 235-236. Such consequences, however, are neither necessitated nor justified by the principle of collateral estoppel. That principle is designed to prevent repetitious lawsuits over matters which have once been decided and which have remained substantially static, factually and legally. It is not meant to create vested rights in decisions that have become obsolete or erroneous with time, thereby causing inequities among taxpayers. [Emphasis added.] * * * But the intervening decision need not necessarily be that of a state court,, as it was in the Blair case. While such a state court decision may be considered as having changed the facts for federal tax litigation purposes, a modification or growth in legal principles as enunciated in intervening decisions of this Court may also effect a significant change in the situation. Tax inequality can result as readily from neglecting legal modulations by this Court as from disregarding factual changes wrought by state courts. In either event, the supervening decision cannot justly be ignored by blind reliance upon the rule of collateral estoppel. * * *\nIt is clear to us tRat there has been \u201ca modification of the controlling-legal principles\u201d as to the proper interpretation of 35 U.S.C. 112 as applied to process claims since the Bremner decision in 1950. It is equally clear that the courts in Petrocarbon Ltd. v. Watson, (1) in making no distinction between the process and product claims insofar as the requirements of 35 U.S.C. 112 are concerned, (2) in citing and quoting the Bremner case, and (3) in limiting their discussions to the lack of disclosed utility for the product (the film of the solid polymers) , relied on the \u201crule of Bremner\u201d to find that the process claim 54 was properly rejected. Therefore, the situation before us as to the appealed process claims presents a recognized exception to the doctrine of collateral estoppel. Blair v. Commissioner, supra, Commissioner v. Sunnen, supra, Mandel v. Commissioner of Internal Revenue, 229 F. 2d 382, Henrickson v. Seward et al., 135 F. 986. We are, therefore, free to proceed to a determination on the merits of the issue as to whether the present application, insofar as the process claims are concerned, is entitled under 35 U.S.C. 120 to the benefit of the filing date of the parent application.\nAs stated in In re Wilke and Pfohl, supra, a specification which teaches those skilled in the art how to use the process, i.e., by disclosing the manipulative steps of the process, the required operating conditions and the starting materials so that the process may be used by a person skilled in the art, meets the requirements of 35 U.S.C. 112. It is not necessary to specify the intended uses for the product produced therein. It is our opinion that the specification of the parent application here does in fact sufficiently disclose the invention of the appealed process claims so that a person skilled in the art could use or follow the claimed process.\nAppealed process claims 1 and 2 are the broadest in specifying that the starting materials be selected from a class consisting of (1) poly-methyl benzenes and (2) polymethyl naphthalenes, each having from two to six methyl groups substituted in the nucleus with two of these groups in the 1,4 positions in one ring. As support in the parent specification, we find the following:\n(1) The invention consists in a process for the production of a polymer in which the vapour of an aromatic hydrocarbon consisting of from 1 to 4 benzene nuclei with two methyl groups substituted in the para positions of one benzene nucleus * * *.\nand\n(2) The invention also consists of a process for the production of a polymer in which the vapour of 1,4 dimethyl naphthalene is pyrolysed * * *.\nAppealed process claims 3, 4, 5 and 13 specify the starting material to be \u201c1,4 dimethyl naphthalene\u201d. Appealed process claim 9 specifies \u201cp-xylene\u201d as the starting material. All these starting materials are specifically disclosed in the parent specification.\nAll of the appealed process claims specify reaction temperatures within the ranges of 700-1000\u00b0 C. This limitation is clearly shown in the parent specification. All the appealed claims specify the reaction time to be \u201cnot more than one second\u201d which is also disclosed in the specification of the parent application. We also find the claimed pressure ranges and temperatures at which the solid polymers are cooled for deposit to be disclosed in the parent specification.\nAll of the above constitutes a disclosure in the parent case of the process in the manner required by the first paragraph of 35 U.S.C. 112. It is our conclusion, therefore, that the process claims 1-3, 5, 6, 9,13 and 14 of the present appeal were disclosed in the earlier filed application \u201cin the manner provided by the first paragraph of Section 112\u201d of Title 35 of the U.S. Code and that applicant is therefore entitled to the benefit of the filing date of the parent application under the provisions of 35 U.S.C. 120. Therefore, the effective date of filing the application on the process claims is the filing date of the parent application. This avoids the rejection under 35 U.S.C. 102(b) and the rejection of the process claims by the Board of Appeals is reversed.\nPA 7000\nThe remaining question raised by appellant in PA 7000 arises from the refusal of the Board of Appeals and the Commissioner to remand the case to the Primary Examiner for his consideration after it was remanded by this court for the purposes stated in our prior opinion, In re Sewarc, supra. We think it is entirely within the discretion of the Board of Appeals and the Commissioner to determine the proper tribunal within the Patent Office to make the determination requested. See In re Jewett et al., 45 CCPA 714, 247 F. 2d 953, 115 USPQ 134.\nIn summary, we afjvrm the rejection of product claims 36, 38 and 39, but reverse the rejection of process claims 1-3, 5, 6, 9, 13 and 14.\nSer. No. 306,940, filed August 28, 1952.\nSer. No. 48,339, filed. September 8, 1948.\nThe record before us presents on its face an incomplete chain of title between the M. W. Kellogg Co., and Petrocarbon Ltd., the party plaintiff in the Petrocarbon case. The party in interest here, as shown by the \u201cstatement of facts shown by the record in the Patent Office\u201d, is the assignee of a third party, Petrocarbon Developments, Limited of London, England, whose title was acquired from a \u201cliquidator\u201d of Petrocarbon Limited who appears to have been the party in interest before the court in the Petrocarbon ease. There is, therefore, no evidence before this court from which we can determine factually whether there is such privity between M. W. Kellogg Company and Petrocarbon Limited, as to warrant the application of res judicata. However, we will not attempt to reconcile these facts with the admission made by appellant\u2019s counsel. We are mindful, however, of the admonition in Bussell v. Place, 94 U.S. 606, 610, \u201cIf upon the face of a record anything is left to conjecture as to what was necessarily involved and decided, there Is no estoppel in it when pleaded, and nothing conclusive in it when offered as evidence.\u201d However, we tate the admission of appellant\u2019s counsel to be based on facts not of record before us and as such to remove the element of conjecture from the case.\nClaims 1-3, 5, 6, 9, 13, 14, 36, 38 and 39.\nThe unreported decision of the District Court, filed June 21, 1956, by Judge McGuire, is repeated below, omitting a footnote, \u201cFindings of Fact\u201d and \u201cConclusions of Law\u201d.\nMemorandum\nThis is an action against the Commissioner of Patents under Section 145 of Title 35, U.S.C. Unlike the usual case under this section, however, there Is no issue of patenta-bility. \u00a1The sole Issue is whether the specification meets the requirements of Section 112 of Title 35 for a written; description of the manner of using the Invention,\nThe Board of Appeals relied upon the case of In Re Bremner, Taylor and Jones, 182 F. 2d 216, to support Its holding. There, the Court stated :\n\u201cIt Is our view that no \u2018hard and fast' ruling properly may be made fixing the extent of the disclosure of utility necessary in an application, but we feel certain that the law requires that there be in the application an assertion of utility and an indication of the use or uses intended, [sic].\u201d\nThe question, It would appear, is a close one. However, as was said In Abbot v. Coe, 71 App. D.C. 195, 197 \u201c \u2018While the judgment of Patent Office officials is not absolutely binding on the Courts, It Is entitled to great weight, and is to be overcome by clear proof of mistake.\u2019 \u201d\nFinding, therefore, no \"clear proof of mistake,\u201d the Court concludes the ruling of the Patent Office should) remain, as a consequence, undisturbed.\nOrder accordingly.\n\u201cUtility\u201d aa required by 35 U.S.C. 101 and a showing of \u201chow to use\u201d the invention as required by the first paragraph of 35 U.S.C. 112 should not be confused as has often been done by courts, including this court in In re Bremner, supra. See In re John A. Nelson and Anthony C. Shabica, 47 CCPA 1031, 280 F. 2d 172, 126 USPQ 242.\nAfter an independent and complete restudy of the entire Petrocarljoti record1 and briefs, we reiterate what was said in the Nelson case:\n\u201c* * # our own reading of the specification leads us to the conclusion that anyone skilled in the plastics art, knowing all' of the chemical and physical properties given for the film, would know of many possible uses for the polymers and how to use them.\u201d\n\"Res judicata3\u2019 as used here means, more precisely, estoppel by judgment or collateral estoppel, since the \u201ccause or demand\u2019* in the two proceedings were for different taxable years. See Commissioner v. Sunnen, 333 U.S. 591, 598.\nIt Is also Interesting to note that the present patent laws of Title 35, Including 35 U.S.C. 112, were passed In 1952, and made effective January 1, 1953, over two years after the Bremner decision of May 9, 1950.\nSee also Pelham Hall Co. v. Hasset, 147 F. 2d 63, 68; Commissioner of Internal Revenue v. Arundel-Brooks Concrete Corporation, 152 F. 2d 225, 227; State Farm Insurance Co. v. Duel, 324 U.S. 154, 162. See also 2 Freeman on Judgments (5th Ed, 1925), Sec. 713.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      },
+      {
+        "text": "Worley, Chief Judge\ndissenting, with whom MaRtin, J., joins.\nThe controlling issue here is whether Petrocarbon Ltd. v. Watson is res judicata of the instant appeal. Clearly it is. In Petrocarbon the U.S. Court of Appeals for the District of Columbia Circuit held that appellant\u2019s parent application, upon which he must rely to prevail here, was fatally defective as a matter of law. We are urged to hold, in effect, that the same application is not fatally defective.\nI am aware of no authority, statutory or judicial, which would allow this court to nullify the decision of a sister court of compentent jurisdiction. I fail to see any relevance of Blair v. Commissioner or Commissioner v. Sunnen to the facts here, nor am I able to see how Wilke & Pfohl, decided in 1963, can possibly provide any support for setting aside Petroearbon, decided in 1957, and which remains unmodified.\nTo me this is a clear case of res judicata. In United States v. Munsingwear, the Supreme Court cited as the classic statement of the rule of res judicata, the following from Southern Pacific R. Co. v. United States, 168 U.S. 1, 48-49:\nThe general principle announced in numerous eases is that a right, question or fact distinctly put in issue and directly determined by a court of competent jurisdiction, as a ground of recovery, cannot be disputed in a subsequent suit between the same parties or their privies; and even if the second suit is for a different cause of action, the right, question or fact once so determined must, as between the same parties or their privies, be taken as conclusively established, so long as the judgment in the first suit remains unmodified.\nThat decision is subsequent to Sunnen, upon which the majority relies so heavily, and far more applicable to the instant controversy.\nClosely paralleling this case is Hemphill v. Coe. There the Court of Appeals was asked to hold operative an alleged invention which this court had previously held inoperative. In refusing to do so the Court of Appeals stated: \u201cAppellant seeks really to redetermine the question which the Court of Customs and Patent Appeals has concluded.\u201d We have the reverse situation here \u2014 appellant would have' us \u201credeterminethe same question which the Court of Appeals has; \u201cconcluded.\u201d\nClearly Szwarc and Petrocarbon are privy and the invention and the issue, i.e., the sufficiency of the Petrocarbon application in law are the same. Initially appellant elected to go to the District Court, which was his privilege, rather than seek review in this court. He has had his day in court, including two unsuccessful attempts to obtain review by the Supreme Court. He now seeks a second day in court, urging us to set what would be an intolerable precedent of legal chaos and uncertainty by reviewing, indeed by reversing, a question which has already been decided by a court of competent jurisdiction. That we cannot do.\nI would affirm P.A. 6462 as to all claims, and would dismiss P.A. 7000 as not involving an appealable question.\n101 App. D.C. 214, 247 F. 2d 800, 114 USPQ 94, cert. denied, 855 U.S. 955, petition for rehearing denied 356 U.S. 978.\nThe Szwarc application was held not to include an adequate description of the manner of using the invention as required byi 35 U.S.C. 112.\n300 U.S. 5.\n333 U.S. 591.\n50 CCPA 964, 314 F. 2d 558, 136 USPG 435.\n340 U.S. 36.\n74 App. D.C. 123, 121 F. 2d 897.\nAlthough the appealed claims here are different in number and language from those In Petrocarbon, they obviously define the same product and process and could be allowed only if we held, contrary to Petrocarbon, that the parent application includes a description of the product and process that is adequate under 35 U.S.C. 112.\nSupra, note 1.",
+        "type": "dissent",
+        "author": "Worley, Chief Judge"
+      }
+    ],
+    "attorneys": [
+      "Cruzan Alexander (James D. Stice, of counsel) for appellant.",
+      "Clarence W. Moore {Joseph, Schimmel, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "319 F. 2d 277; 138 USPQ 208\nIn re Michael Mojzesz Szwarc\n(No. 6462)\n(No. 7000)\nUnited States Court of Customs and Patent Appeals,\nJune 28, 1963\nCruzan Alexander (James D. Stice, of counsel) for appellant.\nClarence W. Moore {Joseph, Schimmel, of counsel) for the Commissioner of Patents.\n[Oral argument March 4,1963, by Mr. Stice, Mr. Alexander and Mr. Schimmel]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1571-01",
+  "first_page_order": 895,
+  "last_page_order": 909
+}

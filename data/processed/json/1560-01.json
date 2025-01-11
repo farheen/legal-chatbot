@@ -1,0 +1,250 @@
+{
+  "id": 6087202,
+  "name": "In re Karl Ziegler, Heinz Breil, Erhard Holzkamp and Heinz Martin",
+  "name_abbreviation": "In re Ziegler",
+  "decision_date": "1966-07-28",
+  "docket_number": "No. 7613",
+  "first_page": "1560",
+  "last_page": "1565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1560"
+    },
+    {
+      "type": "parallel",
+      "cite": "150 U.S.P.Q. 551"
+    },
+    {
+      "type": "parallel",
+      "cite": "363 F.2d 885"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "319 F. 2d 539",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        157834,
+        6091652
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/319/0539-01",
+        "/ccpa/51-2/0726-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 726",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091652
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0726-01"
+      ]
+    },
+    {
+      "cite": "255 F. 2d 935",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080328,
+        681781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0979-01",
+        "/f2d/255/0935-01"
+      ]
+    },
+    {
+      "cite": "45 CCPA 979",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080328
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0979-01"
+      ]
+    },
+    {
+      "cite": "59 USPQ 495",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 U.S. 760",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6156147,
+        6156253,
+        6156182,
+        6156215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/320/0760-01",
+        "/us/320/0760-04",
+        "/us/320/0760-02",
+        "/us/320/0760-03"
+      ]
+    },
+    {
+      "cite": "58 USPQ 50",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 F. 2d 275",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3668465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/136/0275-01"
+      ]
+    },
+    {
+      "cite": "148 USPQ 689",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "383 U.S. 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172438
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0519-01"
+      ]
+    },
+    {
+      "cite": "50 USPQ 131",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 F. 2d 514",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        463120,
+        6082423
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/121/0514-01",
+        "/ccpa/28-2/1336-01"
+      ]
+    },
+    {
+      "cite": "28 CCPA 1336",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082423
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/28-2/1336-01"
+      ]
+    },
+    {
+      "cite": "261 F. 2d 601",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077705,
+        441342
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0733-01",
+        "/f2d/261/0601-01"
+      ]
+    },
+    {
+      "cite": "46 CCPA 733",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077705
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/46-2/0733-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 622,
+    "char_count": 11583,
+    "ocr_confidence": 0.423,
+    "pagerank": {
+      "raw": 7.031324996443159e-08,
+      "percentile": 0.4241644976212899
+    },
+    "sha256": "38a06cf4fc70f29c04bde6dfbed1c8eb8f3ee5dea3fbffe1f232060c8beb6556",
+    "simhash": "1:95aff08e3ad49638",
+    "word_count": 1889
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick"
+    ],
+    "parties": [
+      "In re Karl Ziegler, Heinz Breil, Erhard Holzkamp and Heinz Martin"
+    ],
+    "opinions": [
+      {
+        "text": "Almond, Judge,\ndelivered the opinion of the court :\nThis is an appeal from the decision of the Patent Office Board of Appeals affirming the rejection of claims 1-8 in appellants\u2019 application entitled \u201cPurification of Olefin Polymers.\u201d No claim has been allowed.\nAppellants\u2019 invention relates to the purification of polyethylene, obtained by polymerization using a \u201cZiegler\u201d catalyst, by washing with a Ci-C4 alkanol. When polymerizing ethylene utilizing a \u201cZiegler\u201d catalyst, a certain portion of the catalyst component may be retained in the polyethylene as an impurity. In accordance with the invention, this is washed out with the lower alcohol.\nClaims 1-8 stand rejected as fully met (35 U.S.C. 102) by Anderson et al. (Anderson), United States patent No. 3,012,023, filed January 25, 1955, issued December 5,1961, tbe patent from which the rejected claims were copied in order to provoke an interference.\nClaims 1 and 7 are illustrative and read:\n1. In a process for preparing normally solid polyethylene by polymerizing ethylene in an inert hydrocarbon liquid medium and in the presence of an initiator which supplies groups having an element of the class consisting of titanium and zirconium attached directly to the polymer, said initiator being the product obtained by admixing a component containing a member of the class consisting of titanium and zirconium, attached to a group of the class consisting of -oxy-hydroearbon and -halide, with a second component having -hydrocarbon attached directly to metal, said metal being of the class consisting of alkali metals, alkaline earth metals and aluminum, the improvement which comprises removing such groups from the polymer molecule by reaction with an alkanol having from 1 to 4 carbon atoms per molecule.\n7. In a process for preparing hydrocarbon polymers by polymerization in the presence of an initiator which supplies metal-containing groups to the polymer, said initiator being the product obtained by admixing a component containing a member of the class consisting of titanium and zirconium, attached to a group of the class consisting of -oxyhydrocarbon and -balicle, with a second component having -hydrocarbon attached directly to metal, said metal being of the class consisting of alkali metals, alkaline earth metals and aluminum, the improvement which comprises removing such groups from the polymer molecule by means of a reactant which is capable of splitting metal-hydrocarbon bonds, said metal being a member of the class consisting of titanium and zirconium, said reactant being of the class consisting of oxygen, water, and alcohols of the formula OnH2\u201ewOH wherein n is a number from 1 to 4 inclusive.\nAppellants rely on their application serial No. 469,059 (hereinafter \u2019059), filed November 15, 1954, having an alleged convention date of November 17, 1953 for compliance with the requirements of Rule 204(b). The \u2019059 application discloses washing polyethylene with methanol to remove the catalyst component. It was the examiner\u2019s position that the disclosure of methanol alone was insufficient to support the generic claims copied from Anderson and thus appellants were not entitled to the benefit, under 35 U.S.C. 120, of the filing date of the \u2019059 application as to such generic claims. That being so, the examiner held the claims unpatentable over Anderson and further stated that an interference with that patent was not in order since appellants had not met the requirements of Rules 201 (b) and 205(a) that the copied claims be \u201callowable\u201d or \u201cpatentable\u201d in the application before an interference is instituted. This court\u2019s decision in In re Rogoff, 46 CCPA 733, 261 F. 2d 601, 120 USPQ 185, was cited as authority for the examiner\u2019s position.\nAt the same time, the examiner acknowledged that appellants\u2019 showing of an earlier date for species within the genus of the patent \u25a0claims effectively met the requirements of Pule 204(b) with respect to a prima facie showing, undoubtedly on the basis of the well settled proposition, set out in Kyrides v. Andersen, 28 CCPA 1336, 121 F. 2d 514, 50 USPQ 131, that proof of priority as to a single species is enough to defeat an opposing interferant once an interference reaches the stage that only questions of priority and questions ancillary thereto can be considered.\nThe Board of Appeals affirmed the examiner on the authority of In re Germassmer, supra. Appellants seek to distinguish Rogoff and Gemassmer by contending that Rules 201(b) and 205(a) \u201c* * * must be interpreted to read that save for the patent with which interference is sought the claim should otherwise be allowable to the applicant.\u201d Unless this gloss is placed on Rule 205(a), according to appellants, a ridiculous situation exists whereby an interference could never be declared between a patent and a later filed application. Appellants state their position this way:\n* * * [T]lie Examiner\u2019s position reducto ad absurdum could be stated:\na \u2014 A claim must be allowable to an applicant before it can be put in interference with a patent.\nb \u2014 A claim copied from a patent for interference purposes is not and cannot be allowable to an applicant unless or until he has been successful in the interference sought with the patentee.\nc \u2014 As the instant applicants have not yet been successful in interference with the patent, the claim at this time is not allowable to them,\nd \u2014 Thus the interference cannot be declared.\nWe cannot agree with appellants\u2019 interpretation of Rules 201(b) and 205(a) or that any impossible or unreasonable burden is being placed on appellants. In requiring that claims copied from a patent be patentable in tbe application, Rules 201(b) and 205(a) are manifestly calling only for a showing that the claims are patentable to appellants on the record without regard to the inter partes question of priority which can be determined only through interference proceedings. Appellants appear to argue that the patentability requirement of 201(b) and 205(a) encompasses a consideration of 35 U.S.C. 102(g) but such is clearly incorrect. The Patent Office has long required that claims be patentable to the parties before an interference will be instituted. This practice was favorably commented upon by the Supreme Court in Brenner v. Manson, 383 U.S. 519, 528 n. 12, 148 USPQ 689, 693 n. 12. The order of establishing patentability and priority is, we think, clearly within the rule making powers of the Commissioner as granted by 35 U.S.C. 6. See Geophysical Development Corp. v. Coe, 136 F. 2d 275, 58 USPQ 50, cert. den. 320 U.S. 760, 59 USPQ 495. Certainly it is not unreasonable nor contrary to statute to spare a patentee the task of defending an interference, * * * a complicated and frequently lengthy factual inquiry,\u201d Brenner v. Manson, supra, until the potential adverse party has shown that the claims on which he seeks to be involved in interference will be allowable to him if he prevails in the interference.\nAs the case comes to us, the only issue to be decided is the propriety of the rejection of the appealed claims under 35 U.S.C. 102(e) in view of Anderson. On the record, appellants\u2019 \u2019059 application shows priority with respect to Anderson\u2019s filing date only as to the methanol species. Appellants do not even assert that the disclosure of the methanol species in their \u2019059 application entitles them to the benefit under section 120 of its filing date for the generic claims in issue. Accordingly, we must affirm the board\u2019s decision that the claims in issue are unpatentable over the disclosure of Anderson under 35 U.S.C. 102(e). Our decision, however, is not to be interpreted as ruling appellants are barred from obtaining an interference with Anderson if they present claims which can meet the strictures of Rule 205(a) as well as the other pertinent rules and appropriate practices developed thereunder. See Tolle v. Starkey, 45 CCPA 979, 255 F. 2d 935, 118 USPQ 292; M.P.E.P. \u00a7 1101.02.\nSmith, J., concurs in the result.\nK. Ziegler, A. Breil, E. Holzkamp, and H. Martin, Ser. No. 218,527 filed August 22, 1962.\nAll claims are generic as to the recited alkanol.\nRules 201(b) and 2105(a), at the time in question here, read in pertinent part as follows:\n201 (b) An Interference * * * will be * * * declared between pending applications for patent * * * and unexpired original * * * patents, of different parties, when such applications and patents contain claims for substantially the same invention which are allowable in all of the applications involved, in accordance with the provisions of the regulations in this part.\n205'(a) Before an interference will be declared with a patent, the applicant must present in his application, copies of all the claims of the patent which also define his invention and such claims must be patentable in the application. * * *\nRule 204 (b), at the time in question here, read as follows:\nWhen the filing date or effective filing date of an applicant is subsequent to the filing date of a patentee, the applicant, before an interference will be declared, shall file an affidavit that he made the invention in controversy in this country, before the filing date of the patentee, or that his acts in this country with respect to the invention were sufficient under the law to establish priority of invention relative to the filing date of the patentee; and, when required, the applicant shall file an affidavit (of the nature specified in [Rule] 131 setting forth facts which would prima facie entitle him to an award, of priority relative to the filing date of the patentee.\nConcerning that proposition, we stated in In re Gemassmer, 51 CCPA 726, 319 F. 2d 539, 138 USPQ 229:\nIn interferences, our consideration is limited to priority of invention and matters ancillary thereto and the question of patentability is not before us. No interference is in progress in connection with the present ex parte appeal and the issue is simply whether the Latourette et al. patent has been overcome as a reference. * * *\nIt is true that the basis for the holding of unpatentability in Rogoff was improper broadening of claims in a reissue application rather than nonpatentability over the patent with which interference was being sought, but that difference has no effect on the principal involved. Moreover, Gemassmer involved a situation directly analogous to the present since the rejection there was on the basis of anticipation of the claims by the very patent with which interference was sought on the basis that an application antedating that patent\u2019s filing date did not provide adequate disclosure to support the appealed claims.\nThe date of the \u2019059 application being earlier than Anderson\u2019s filing date, there is no need here to consider the still earlier filed foreign application of appellants although its existence has not been overlooked.",
+        "type": "majority",
+        "author": "Almond, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Burgess, Dmklage & Sprung, Arnold, Sprung for appellants.",
+      "Joseph Schimmel (Raymond JS. Martin, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "363 F. 2d 885; 150 USPQ 551\nIn re Karl Ziegler, Heinz Breil, Erhard Holzkamp and Heinz Martin\n(No. 7613)\nUnited States Court of Customs and Patent Appeals,\nJuly 28, 1966\nBurgess, Dmklage & Sprung, Arnold, Sprung for appellants.\nJoseph Schimmel (Raymond JS. Martin, of counsel) for the Commissioner of Patents.\n[Oral argument February 11, 1966 by Mr. Sprung and Mr. Martin]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick\nPetition for rehearing denied October 6,1968.\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Chief Judge Worley, pursuant to provisions of Section 294(d), Title 28, United States Code."
+  },
+  "file_name": "1560-01",
+  "first_page_order": 882,
+  "last_page_order": 887
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487087,
+  "name": "Commonwealth v. Nathan Haynes",
+  "name_abbreviation": "Commonwealth v. Haynes",
+  "decision_date": "2016-08-18",
+  "docket_number": "NO. 147 WAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "67b2405d5e12646cbf6a61084f3d80cbdd7abaf36d5eed044a4f22a07df1620f",
+    "simhash": "1:bc8e551192ac8839",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nNathan Haynes"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nNathan Haynes\nNO. 147 WAL (2016)\nSupreme Court of Pennsylvania\nAugust 18, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-14",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

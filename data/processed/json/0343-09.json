@@ -1,0 +1,58 @@
+{
+  "id": 12488724,
+  "name": "In re O.C.",
+  "name_abbreviation": "In re O.C.",
+  "decision_date": "2016-07-25",
+  "docket_number": "16-096",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "c328242c7b0b68aee91491d0a2676a7f1faff157d861b9731d61307a5983c164",
+    "simhash": "1:d8116f484ae8ce60",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re O.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re O.C.\n16-096\nSupreme Court of Vermont.\nJuly 25, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nRemanded."
+  },
+  "file_name": "0343-09",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

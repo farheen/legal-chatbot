@@ -1,0 +1,59 @@
+{
+  "id": 6082612,
+  "name": "Ex parte James O. Hendricks et al.",
+  "name_abbreviation": "Ex parte Hendricks",
+  "decision_date": "1947-02-07",
+  "docket_number": "No. 5291",
+  "first_page": "1207",
+  "last_page": "1207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 100,
+    "ocr_confidence": 0.444,
+    "sha256": "af77cb0737f21f0f3e6d30a71991f583c71b2bc3b3f2e54a243e1cf998a364ed",
+    "simhash": "1:99e92b6bd3f13b13",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte James O. Hendricks et al."
+    ],
+    "opinions": [
+      {
+        "text": "Water-dispersed adhesives and method of making same.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ex parte James O. Hendricks et al.\n(No. 5291)."
+  },
+  "file_name": "1207-10",
+  "first_page_order": 525,
+  "last_page_order": 525
+}

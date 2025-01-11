@@ -1,0 +1,58 @@
+{
+  "id": 12487348,
+  "name": "Z.L. v. E.G.",
+  "name_abbreviation": "Z.L. v. E.G.",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 2311 EDA 2015",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "901c71b23bd7411885469a531ef92166e75f35c223632e160cda119d863881ed",
+    "simhash": "1:3a0367f1b0e01da3",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Z.L.\nv.\nE.G."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Z.L.\nv.\nE.G.\nNO. 2311 EDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0779-07",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

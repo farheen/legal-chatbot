@@ -1,0 +1,83 @@
+{
+  "id": 12490865,
+  "name": "SUNTECH OF CONNECTICUT, INC. v. LAWRENCE BRUNOLI, INC., et al.",
+  "name_abbreviation": "Suntech of Conn., Inc. v. Lawrence Brunoli, Inc.",
+  "decision_date": "2017-09-13",
+  "docket_number": "",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "326 Conn. 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "173 Conn.App. 321",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490000
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/164-2/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 861,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578409011490631
+    },
+    "sha256": "38caa95896d4840a4f08cec62d6475aa768467f504384d1fcf06e5d67973b7ce",
+    "simhash": "1:cebbb82e94575cc2",
+    "word_count": 128
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUNTECH OF CONNECTICUT, INC.\nv.\nLAWRENCE BRUNOLI, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiffs petition for certification to appeal from the Appellate Court, 173 Conn.App. 321, 164 A.3d 36 (2017), is granted, limited to the following question:"
+    ],
+    "corrections": "",
+    "head_matter": "SUNTECH OF CONNECTICUT, INC.\nv.\nLAWRENCE BRUNOLI, INC., et al.\nSupreme Court of Connecticut.\nDecided September 13, 2017\nLawrence G. Rosenthal and Denise P. Lucchio, in support of the petition.\nMargaret F. Rattigan, in opposition.\nThe plaintiffs petition for certification to appeal from the Appellate Court, 173 Conn.App. 321, 164 A.3d 36 (2017), is granted, limited to the following question:\n\"Did the Appellate Court properly conclude that the plaintiff failed to prove that the trial court committed harmful error when it precluded the plaintiffs fact witness, Rick Cianfaglione, from testifying as to his observations and perceptions, not permitting the plaintiffs counsel to make an offer of proof, and disregarding Ciafaglione's deposition transcript?\"\nMcDONALD and D'AURIA, Js., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0234-02",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

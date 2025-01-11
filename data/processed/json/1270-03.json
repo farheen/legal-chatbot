@@ -1,0 +1,83 @@
+{
+  "id": 12489124,
+  "name": "Lacey PEDRINI v. Eleanor KILTONIC",
+  "name_abbreviation": "Pedrini v. Kiltonic",
+  "decision_date": "2017-03-15",
+  "docket_number": "",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "155 A.3d 1270"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 903"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 343",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489076
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/154-2/1037-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 265,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577787353625636
+    },
+    "sha256": "3bda8a13ff1d117249117a3dccbd31e25c9563ed7469bf1c7ed3ec82f45d3225",
+    "simhash": "1:f44f480d1a6bc432",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T16:27:02.537431+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lacey PEDRINI\nv.\nEleanor KILTONIC"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiffs petition for certification for appeal from the Appellate Court, 170 Conn. App. 343, 154 A.3d 1037 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lacey PEDRINI\nv.\nEleanor KILTONIC\nSupreme Court of Connecticut.\nDecided March 15, 2017\nJ. Xavier Pryor, in support of the petition.\nThe plaintiffs petition for certification for appeal from the Appellate Court, 170 Conn. App. 343, 154 A.3d 1037 (2017), is denied."
+  },
+  "file_name": "1270-03",
+  "first_page_order": 1270,
+  "last_page_order": 1270
+}

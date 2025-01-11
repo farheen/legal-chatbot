@@ -1,0 +1,58 @@
+{
+  "id": 12486394,
+  "name": "Com. v. P. Butler",
+  "name_abbreviation": "Com. v. Butler",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 760 WDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "12725a7e0a77e7df00871f71debab11729e86cf9b00a8798b070da4871076736",
+    "simhash": "1:04dfdc47b8c416c4",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nP. Butler"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nP. Butler\nNO. 760 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed."
+  },
+  "file_name": "0186-14",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

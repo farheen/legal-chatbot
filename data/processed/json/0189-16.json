@@ -1,0 +1,58 @@
+{
+  "id": 12485304,
+  "name": "In re W.B.",
+  "name_abbreviation": "In re W.B.",
+  "decision_date": "2016-06-09",
+  "docket_number": "NO. 16-045",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "cd645b09d4b21b6012fc0f8bb15dbcd88c861488c9cb0eb85887aff3dac945b5",
+    "simhash": "1:0a13d0228a686af0",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re W.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re W.B.\nNO. 16-045\nSupreme Court of Vermont\nJune 09, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0189-16",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

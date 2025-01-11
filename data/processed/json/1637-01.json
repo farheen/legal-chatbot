@@ -1,0 +1,104 @@
+{
+  "id": 12166486,
+  "name": "In re Barney J. Magerlein and William P. Schneider",
+  "name_abbreviation": "In re Magerlein",
+  "decision_date": "1965-06-14",
+  "docket_number": "No. 7148",
+  "first_page": "1637",
+  "last_page": "1641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1637"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 U.S.P.Q. 683"
+    },
+    {
+      "type": "parallel",
+      "cite": "346 F.2d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "328 F. 2d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        438986,
+        6092138
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/328/1005-01",
+        "/ccpa/51-2/1059-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1059",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092138
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 559,
+    "char_count": 10085,
+    "ocr_confidence": 0.55,
+    "pagerank": {
+      "raw": 7.952188794766446e-08,
+      "percentile": 0.46274242243466707
+    },
+    "sha256": "f98aebb703eddd64197872345bab68198b198a4a56946b0ebce22ae66f00f06e",
+    "simhash": "1:c88455ddb72a170c",
+    "word_count": 1492
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Barney J. Magerlein and William P. Schneider"
+    ],
+    "opinions": [
+      {
+        "text": "Martin, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals which affirmed the examiner\u2019s rejection of claims 1, 3-6 and 8-16 of appellants\u2019 application for \u201cOrganic Compounds and Process.\u201d\nThe appealed claims are directed to certain 16-hydroxy steroids. As the result of an amendment filed during prosecution of the application before the Patent Office, all claims now specify the alpha (a) orientation for the 16-hydroxy substituent. Claim 1 is representative:\n1. A compound of the following formula:\nwherein X is selected from the group consisting of the carbonyl radical and the /3-hydroxymethylene radical, R and R1 are selected from the group consisting of hydrogen and the acyl radical of a hydrocarbon carboxylic acid containing from 1 to 12 carbon atoms, inclusive, and wherein, when R is acyl, R1 is acyl.\nThe relationship of the 16-hydroxy substituent to the steroid nucleus can be represented diagrammatically as:\nThe dotted line used to illustrate the bond joining the hydroxy sub-stituent (R = H) to the steroid nucleus in claim 1 above is a convention adopted by steroid chemists to denote that the hydroxy group has the a orientation or configuration.\nThe examiner initially rejected the claims as based on insufficient disclosure, noting that neither the specification nor claims as filed disclosed whether the 16-hydroxy substituent is \u00ab or \u00a13 oriented. In response, appellants amended the specification and claims to indicate that the hydroxy substituent had the a orientation. The examiner then rejected the claims as containing new matter. One of the ap-pellanfs submitted an affidavit under Rule 132 in support of the propriety of their amendment. The affidavit attempts to compare compounds assertedly produced by appellants\u2019 disclosed process with a compound having known 16a configuration referred to as the Bernstein et al. compound. The affidavit reads in part:\nTHAT, he has studied and is familiar with the work of Bernstein et al. [ J. Am. Chem. Soc., 81, 1689 (1959)] on 16a-hydroxylated steroids and is in agreement with reported structures;\nTHAT, he knows of no facts or principles of structural chemistry which are inconsistent [sic] with the 16a-configuration of Bernstein\u2019s compound, 11/3,17adihydroxy-16a,21-diacetoxy-1,4-pregnadiene-3,20-dione;\nTHAT, he has reproduced Bernstein\u2019s identical compound, 11/3,17a-dihydroxy-16a,21-diacetoxy-1,4-pregnadiene-3,20-dione;\nTHAT, he made the structural assignment of llftl6a-dihydroxy-21-acetoxy-4,17(20)-pregnadiene-3-one on the basis of the above considerations and the following chemical reactions which were carried out by him and under his direction:\n*******\nThe affidavit continues with a flow sheet and detailed description of the reactions carried out. The analytical comparative data was listed in preparation 3 of the affidavit:\n* * * Recrystallization from ethyl acetate gave ll/3,17a-dihydroxy-16a,21-diace-toxy, l,4-pregnadiene-3,20-dione (IV) melting at 162-165\u00b0 C. (solvated), max. 3440, 1743, 1665, 1625, 1610, 1237, 1050 cnr1.\nBernstein et al., J. Am. Chem. Soc., 81,1689 (1959) discloses 11/3,17a-dihydroxy-16a,21-diacetoxy-1,4-pregnadiene-3,20-dione melting at 161-163\u00b0 C., max. 3458, 1748, 1668, 1632, 1612-(shoulder), 1234, 1060 cm-'.[]\n*******\nThe affidavit concluded:\nTHAT, the 11/3,17a-dihydroxy-16a,21-diacetoxy-1,4-pregnadiene-3,20-dione (IV) prepared in Preparation 3, above, was identical in melting point and infrared analysis to a sample of 11/3,17a-dihydroxy-16a,21-diacetoxy-1,4-pregnadiene-3,20;-dione known to be identical with the 11/3.17a-dihydroxy-16a,21-diacetoxy-l,4-pregnadiene-3,20-dione reported by Bernstein et al., J. Am. Chem. Soc., 81, 1689 (1959) ;\nTHAT, from the above experimental data it is his opinion and belief that the introduction of a 16-hydroxyl group via the selenium dioxide process of Preparations 1 and 5, above, and Examples 1 and 4 of application Serial No. 776,437, is inherently productive of compounds containing the 16a-eonfiguration;\nTHAT, in the above series of chemical reactions, Preparations 1 through 5* and in the chemical transformations of application Serial No. 776,437, Examples 1 through 6, there are no conditions which would lead to the epimerization of the 16-substituent and therefore the 16-position in all instances has the a-configuration;\n*******\nAppellants urge that our decision in In re Nathan, 51 CCPA 1059, 328 F. 2d 1005, 140 USPQ 601, is dispositive of the issue in this case. There, the appellants found themselves in a similar predicament when the examiner and board refused to recognize an amendment and affidavit establishing the orientation of a 2-halo substituent in a steroid molecule as inherently a. We said in Nathan:\nIt seems to us that the issue here is whether appellants\u2019 identification of their 2-halo steroids in their original disclosure is adequate to identify the claimed .subject matter and whether there is sufficient evidence in the record to show the alpha orientation to be an inherent characteristic of the subject matter so Identified. If the answers are in the affirmative then appellants\u2019 amendment specifying the alpha orientation for the 2-halo substituent is not new matter but rather is merely a statement of an inherent property of the steroids as disclosed in appellants\u2019 original disclosure.\nWe think that statement is equally applicable to the factual situation here. On the first point, we are satisfied that appellants\u2019 original disclosure adequately identifies the claimed subject matter. The disclosure is specifically directed to a class of 16-hydroxy steroid compounds, no question being presented as to the nomenclature employed to identify the compounds aside from the orientation of the hydroxy group at the 16-position of the steroid nucleus. There appears no reason to doubt that one skilled in the art following the teaching of the application would be able to produce those compounds and identify them as 16-hydroxy steroids.\nThe remaining question is whether there is sufficient evidence in the record to show the a orientation to be an inherent characteristic of the subject matter so identified. Appellants rely on their Hule 132 affidavit to establish inherency. In particular, appellants state that the affidavit comparison of the melting points and infra-red analyses of the compound of preparation 3, supra, and Bernstein\u2019s 11/3,17a-dihydroxy-16a,21-diacetoxy-l,4-pregnadiene-3,20-dione compound of known 16a-hydroxy configuration establishes inherence of the 16a-hy-droxy in their compounds. Appellants further rely in part on comparative paper chromatographic analyses of other compounds prepared in the affidavit.\nThe issue of whether the synthesis routes and comparative data shown in the affidavit are sufficient to establish inherency of the 16a-hydroxy configuration as produced by the disclosed process from the disclosed reactants was not considered by the board, nor is it discussed to any great extent in appellants\u2019 brief here. In its decision, rendered prior to this court\u2019s opinion in Nathan, the board apparently thought it unnecessary to consider the merits of the affidavit since \u201cit was based on the work of another subsequent to the filing date of the application.\u201d For the reasons stated in Nathan we do not consider the board\u2019s position to be sound.\nUnder the circumstances, however, we do not think it is appropriate for us to consider the sufficiency of the affidavit without the benefit of the views of the Patent Office and appellants on the technical questions presented therein. Thus we clo not decide the question of whether the affidavit process and, for example, the comparative melting point data and infra-red analysis of the affidavit are sufficient to establish the inherency of the 16a orientation as opposed to 16/3 orientation. Nor do we decide whether other process routes or additional analytical data, such as optical rotation, might be required. Accordingly we are obliged to reverse and remand this case for further proceedings in the Patent Office not inconsistent herewith.\nSerial No. 776,437, filed Nov. 26, 1958.\nSaturated carbon atom C,6 is bonded to carbon atoms C,B and C17, to the hydroxy sub-stituent, and to a hydrogen atom. Appellants point out that because of the relation of the valence bond angles of saturated carbon atoms, one of the hydrogen or hydroxy sub-stituents attached to C,\u201e will project toward one side of the approximate plane of the steroid nucleus and the other substituent toward the other side of that plane. The substituent which projects toward the opposite side from methyl groups C18 and C10 is said to have the a orientation, whereas the group projecting toward the same side of the nucleus as the methyl groups is said to have fi orientation.\nOne of appellants\u2019 claimed compounds, corresponding to Example 1 of the specification.\nThe record does not show what technique Bernstein employed to introduce the 16a-hydroxy group into the steroid nucleus. Bernstein dehydrogenated 11/1,16a,17a,21-tetra-hydroxy-4-pregnene-3,20-dione (16a-hydroxy hydrocortisone) to give 11/1,16a,17a, 21-tetra-hydroxy-l,4-pregnadiene-3,20-dione (16a-hydroxy prednisolone). He obtained 16a,21-diace-toxy-11/J,l7a-dihydroxy-1,4-pregnadiene-3,20-dione upon acetylation. In addition to the melting point (161\u2014163\u00b0 C) and infra-red analysis given for that compound supra, Bernstein apparently obtained the same compound, having a melting point of 217-219\u00b0 C, max. of 3422, 1742, 1710, 1662, 1625, 1602, 1232 and 1046 cm.-1, and optical rotation of + 70\u00b0, in a run employing larger quantities of starting materials.",
+        "type": "majority",
+        "author": "Martin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Eugene O. Retter, Gerard A. Blaufarb, for appellants.",
+      "Clarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "346 F. 2d 609; 145 USPQ 683\nIn re Barney J. Magerlein and William P. Schneider\n(No. 7148)\nUnited States Court of Customs and Patent Appeals,\nJune 14, 1965\nEugene O. Retter, Gerard A. Blaufarb, for appellants.\nClarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents.\n[Oral argument April 7, 1965, by Mr. Blaufarb and Mr. Martin]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1637-01",
+  "first_page_order": 961,
+  "last_page_order": 965
+}

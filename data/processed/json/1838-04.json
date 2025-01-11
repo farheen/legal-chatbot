@@ -1,0 +1,59 @@
+{
+  "id": 12167816,
+  "name": "In re Peter A. Howell",
+  "name_abbreviation": "In re Howell",
+  "decision_date": "1965-03-04",
+  "docket_number": "No. 7556",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 84,
+    "ocr_confidence": 0.617,
+    "sha256": "e2a788855eff014e0c34ded2c58d2a68c54efdb606d2f3dc6022cdba0a8798f5",
+    "simhash": "1:471f997bd1c99a6b",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Peter A. Howell"
+    ],
+    "opinions": [
+      {
+        "text": "Process for producing molecular sieve adsorbents.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Peter A. Howell\n(No. 7556)."
+  },
+  "file_name": "1838-04",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

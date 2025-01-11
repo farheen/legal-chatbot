@@ -1,0 +1,84 @@
+{
+  "id": 12489069,
+  "name": "MEADOWBROOK CENTER, INC. v. Robert BUCHMAN",
+  "name_abbreviation": "Meadowbrook Ctr., Inc. v. Buchman",
+  "decision_date": "2017-02-01",
+  "docket_number": "",
+  "first_page": "1007",
+  "last_page": "1007",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "154 A.3d 1007"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 918"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn. App. 527",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488753
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/151-2/0404-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 72,
+    "char_count": 621,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25777622556372976
+    },
+    "sha256": "e354753f47b5c4232b0e2eba6438f4eff98771614a7aedf53e065b804db0bf91",
+    "simhash": "1:a43eac888ae1e595",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T16:27:35.256947+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MEADOWBROOK CENTER, INC.\nv.\nRobert BUCHMAN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiff's petition for certification for appeal from the Appellate Court, 169 Conn. App. 527, 151 A.3d 404 (2016), is granted, limited to the following issue:",
+      "\"Did the Appellate Court properly rule that the time limitation contained in the rules of practice governing motions for attorney's fees in Practice Book \u00a7 11-21 is directory and not mandatory?\""
+    ],
+    "corrections": "",
+    "head_matter": "MEADOWBROOK CENTER, INC.\nv.\nRobert BUCHMAN\nSupreme Court of Connecticut.\nDecided February 1, 2017\nDaniel J. Klau, in support of the petition.\nJuri E. Taalman, in opposition.\nThe plaintiff's petition for certification for appeal from the Appellate Court, 169 Conn. App. 527, 151 A.3d 404 (2016), is granted, limited to the following issue:\n\"Did the Appellate Court properly rule that the time limitation contained in the rules of practice governing motions for attorney's fees in Practice Book \u00a7 11-21 is directory and not mandatory?\"\nPALMER, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "1007-02",
+  "first_page_order": 1007,
+  "last_page_order": 1007
+}

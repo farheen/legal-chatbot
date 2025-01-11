@@ -1,0 +1,63 @@
+{
+  "id": 9099142,
+  "name": "In the Matter of Lacy R. WHEELER, III",
+  "name_abbreviation": "In re Wheeler",
+  "decision_date": "2003-07-29",
+  "docket_number": "No. 322 Disciplinary Docket No. 3",
+  "first_page": "950",
+  "last_page": "951",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "830 A.2d 950"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 526,
+    "ocr_confidence": 0.679,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7608763067440116
+    },
+    "sha256": "178b20e8975d0b6ac04a6dfd423faca9e152892bd8d45032f0d73ba9f2298a4c",
+    "simhash": "1:5c3a46eac481dff4",
+    "word_count": 86
+  },
+  "last_updated": "2023-07-14T18:24:26.404666+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Lacy R. WHEELER, III."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 29th day of July, 2003, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated May 2, 2003, the Petition for Reinstatement is GRANTED.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Lacy R. WHEELER, III.\nNo. 322 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJuly 29, 2003."
+  },
+  "file_name": "0950-01",
+  "first_page_order": 998,
+  "last_page_order": 999
+}

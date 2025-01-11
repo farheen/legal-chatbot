@@ -1,0 +1,58 @@
+{
+  "id": 12486960,
+  "name": "Commonwealth v. Miguel Rodriguez",
+  "name_abbreviation": "Commonwealth v. Rodriguez",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 125 EAL (2016)",
+  "first_page": "164",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "ba5902516ccac9f7fdfcb0fb749a765fa178cf8249f9ced32ac68f3c410eb2d5",
+    "simhash": "1:dd8f51b88ae7881d",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMiguel Rodriguez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMiguel Rodriguez\nNO. 125 EAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0164-16",
+  "first_page_order": 164,
+  "last_page_order": 164
+}

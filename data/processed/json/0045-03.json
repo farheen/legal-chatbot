@@ -1,0 +1,83 @@
+{
+  "id": 12491827,
+  "name": "The BANK OF NEW YORK MELLON, Trustee v. Jeffrey J. MAURO et al.",
+  "name_abbreviation": "Bank of N.Y. Mellon v. Mauro",
+  "decision_date": "2017-12-14",
+  "docket_number": "",
+  "first_page": "45",
+  "last_page": "45",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 45"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 986"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "177 Conn. App. 295",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491347
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/172-2/0303-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 329,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25788240936054574
+    },
+    "sha256": "6c6ec9d5231859d4a18d82588d83a54cac670ba0956e2f460cac9ddfdae3a0dd",
+    "simhash": "1:8a8b5a09cee06366",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The BANK OF NEW YORK MELLON, Trustee\nv.\nJeffrey J. MAURO et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendants' petition for certification to appeal from the Appellate Court, 177 Conn. App. 295, 172 A.3d 303 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "The BANK OF NEW YORK MELLON, Trustee\nv.\nJeffrey J. MAURO et al.\nSupreme Court of Connecticut.\nDecided December 14, 2017\nKenneth A. Volre, in support of the petition.\nZachary Grendi, in opposition.\nThe defendants' petition for certification to appeal from the Appellate Court, 177 Conn. App. 295, 172 A.3d 303 (2017), is denied."
+  },
+  "file_name": "0045-03",
+  "first_page_order": 45,
+  "last_page_order": 45
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486984,
+  "name": "Commonwealth v. Joshua Yingling",
+  "name_abbreviation": "Commonwealth v. Yingling",
+  "decision_date": "2016-08-02",
+  "docket_number": "NO. 62 WAL (2016)",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "ca8a002d61f7e4a77ef06dafe7bd757dfb6fdf774e02ae38fec72a94d79f9419",
+    "simhash": "1:78ad54b098d48910",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJoshua Yingling"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJoshua Yingling\nNO. 62 WAL (2016)\nSupreme Court of Pennsylvania\nAugust 02, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0165-06",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

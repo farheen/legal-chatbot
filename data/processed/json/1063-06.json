@@ -1,0 +1,58 @@
+{
+  "id": 12490221,
+  "name": "A.,C. v. DHS",
+  "name_abbreviation": "A. v. DHS",
+  "decision_date": "2017-02-24",
+  "docket_number": "1050 CD 2016",
+  "first_page": "1063",
+  "last_page": "1063",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "d13975827a30464279592dffd51ffc7014570b82b4cec66efc9ad76b5918b51d",
+    "simhash": "1:ade9ea2152d8fc6c",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A.,C.\nv.\nDHS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "A.,C.\nv.\nDHS\n1050 CD 2016\nCommonwealth Court of Pennsylvania.\nFebruary 24, 2017\nAffirmed"
+  },
+  "file_name": "1063-06",
+  "first_page_order": 1063,
+  "last_page_order": 1063
+}

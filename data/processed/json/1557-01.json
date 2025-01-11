@@ -1,0 +1,76 @@
+{
+  "id": 12166162,
+  "name": "In re Simon L. Ruskin",
+  "name_abbreviation": "In re Ruskin",
+  "decision_date": "1965-07-01",
+  "docket_number": "No. 7413",
+  "first_page": "1557",
+  "last_page": "1561",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1557"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 211"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 843"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 563,
+    "char_count": 9858,
+    "ocr_confidence": 0.53,
+    "pagerank": {
+      "raw": 4.5828155114230504e-08,
+      "percentile": 0.2872918459724872
+    },
+    "sha256": "077be922519be0edd65653513fb5649cbaab851a5ac9dd27905429071cc69c3c",
+    "simhash": "1:e5b3c9d18fc826be",
+    "word_count": 1577
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Simon L. Ruskin"
+    ],
+    "opinions": [
+      {
+        "text": "Martin, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the Board of Appeals which affirmed the examiner\u2019s rejection of apparatus claims 8 and 9 in appellant\u2019s application, serial No. 738,573, filed May 28, 1958 for \u201cProcess for the Conversion of Hydrogen,\u201d as covering but obvious variations of two references.\nHydrogen is a component of certain missile propellants and is most effective in the unstable \u201cortho\u201d state. However, the unstable ortho-hydrogen present danger of premature ignition. The more stable liquid para-hydrogen, while clearly the better type for storage, has a lower evaporation rate and activity, and thus is less desirable as a fuel. Appellant\u2019s invention is directed to an apparatus inserted into the fuel line between storage tanks of para-hydrogen and a combustion chamber for the conversion of the stable para-hydrogen into the more useful fuel, ortho-hydrogen, just prior to its introduction into the combustion chamber.\nAs seen in appellant\u2019s Fig. 2 reproduced below:\nthe apparatus comprises a series of magnets, specifically alnico magnets, which are centrally disposed in the fuel line, preferably thus maintained within a plastic tube and centrally positioned by radial spacers of a non-magnetic material. The magnets in the plastic tube are arranged so that adjacent poles of different magnets have the same polarity, thus: N-S S-N N-S, etc. The liquid para-hydrogen, along with some hydrogen gas, flows from the storage tank through the annular space between the central magnets and the fuel line. The para-hydrogen, as it flows, cuts the generally radial and perpendicular magnetic fields of the magnets and is converted to the ortho state. There is no dispute that magnetic fields will effect the conversion from para- to ortho-hydrogen, both appellant and the Patent Office acknowledging that the phenomenon was known. The Patent Office is apparently satisfied that the appellant\u2019s device is operable.\nAppellant\u2019s claim 8 reads:\n8. In an apparatus for supplying hydrogen from a liquefied reservoir source wherein it resides in a para state to an expansion and combustion chamber wherein it exists in an enriched ortho state concentration comprising a para to ortho converting supply line interconnecting said reservoir and said chamber, said supply line being constricted so as to cause a relatively high liquid velocity flow therethrough, and having an internally mounted series of permanent magnets so as to define an annular fluid passageway with said supply line inner wall, said permanent magnets being serially arranged in continuous like-pole to like-pole opposition.\nThe references relied on for the rejection are:\nWinslow et al., 2,583,522, Jan. 22, 1952.\nVermeiren, 2,652,925, Sept. 22, 1953.\nWinslow et al. (Winslow) is directed to an apparatus for removing particles of foreign matter from fluids, more particularly, metal particles from oil. The apparatus consists of an elongated cylinder with an axially disposed inlet at one end through which particle-laden oil flows. The oil contacts horseshoe-shaped magnets which are positioned on a rod passing through the open central area of each. The rod is axially disposed in the cylinder, and each magnet thereon is separated from the adjacent magnet by a non-magnetic spacer. The effective magnetic field exists between the magnet\u2019s gap, and each gap is turned slightly with respect to the gap of the adjacent magnet so that the resultant fields form a helix within the cylinder. Spaced from and disposed around the axial magnet-holding rod is a fine cylindrical screen. After contacting the magnets, which retain fine metal particles, the oil flows through the screen and out the top of the cylinder through a radially disposed single outlet.\nThe Vermeiren apparatus is directed to a device for the \u201ctreatment of liquids which give rise to the formation of calcareous incrustations,\u201d specifically, the removal of minerals such as calcium from water. Reference to the Fig. 3 of Vermeiren will assist in the description:\nTbe Vermeiren device consists of a water pipe 1, around which are disposed a series of annular permanent magnets 4. The adjacent poles of different magnets have the same polarity as shown. There is a central member 2, which constricts the water flow to an annular path. The central member 2 is composed of a material \u201chaving high magnetic permeability.\u201d The arcuate dashed lines in Fig. 3 represent magnetic field lines passing from the poles of the annular magnets into the central member. Vermeiren states: \u201cthe jets of liquid must cut normally the lines of force of the magnetic fields.\u201d\nThe board affirmed the examiner\u2019s rejection of claims 8 and 9, for the reason that:\n* * * In our opinion it would be quite obvious to one having no more than ordinary skill in this art to substitute for the exterior magnets of Vermeiren interior magnets as indicated in Winslow et al. Appellant\u2019s arguments directed to the intended use of the apparatus and to labelling of apparatus parts with relation to the intended function thereof are not significant as to the apparatus claims before us.\nThe board then made an additional rejection:\nIn addition to the Examiner\u2019s position we consider the Vermeiren apparatus substantially to meet the terms of appellant\u2019s claims since the interiorly disposed material of high magnetic permeability (part 2) will become magnetic by induced magnetism and will be the functional equivalent of appellant\u2019s permanent magnets. * * * we are unable to discern a difference between appellant\u2019s claimed apparatus and that of Vermeiren.\nAppellant has fully discussed both grounds of rejection in submitting on brief to this court.\nOn the merits of the case, however, we do not agree with the board. It appears correct that Vermeiren\u2019s magnet in combination with the magnetically permeable central part may be considered functionally equivalent to appellant\u2019s magnets. However, the functional equivalent is not enough to be a full anticipation of the specific device claimed by appellant. It is important to note that appellant\u2019s claims are drawn to specific structure, rather than being in a broad \u201cmeans for\u201d form. It is such latter type of claim which may be anticipated by an apparatus whose structure, though different, achieves the same result. Clearly the string of separate central magnets claimed is not structurally met by the annular magnet plus central permeable part of Vermeiren. Nor can Vermeiren be taken to anticipate the relationship of appellant\u2019s \u201cconverting supply line\u201d structure connected between the \u201creservoir source\u201d and \u201ccombustion chamber,\u201d as claimed. Thus the rejection on Vermeiren under 35 U.S.C. 102 cannot be sustained.\nNor do we think the combination of Winslow with Vermeiren shows that appellant\u2019s device is obvious to one of ordinary skill \u201cin the art to which said subject matter pertains.\u201d While Winslow and Ver-meiren are both in what may broadly be called the fluid purification art, we find no suggestion in either that the structure, function or utility of Winslow can be imported to that of Vermeiren in part or in whole. To make the substitution of the separate central magnets of Winslow for the permeable central part and the annular magnets of Vermeiren would result in the provision of helically oriented horseshoe magnets, which is not the magnet structure of appellant.\nThe Patent Office argues that it relies on Winslow only for the teaching of centrally disposing magnets, rather than as showing the particular structure. While Winslow does show the concept of a central magnet part within the context of his apparatus for its particular use, the reference cannot fairly be taken to teach the general modification of a device such as Vermeiren\u2019s water softener to produce the device of appellant. Winslow lacks an indication that his central magnets are any more than a specific structure devised to solve a specific problem, which is not that of Vermeiren.\nEven were we to grant that Winslow teaches the use of a central magnet in place of Vermeiren\u2019s combination of annular magnet plus central part, we think that the two patents, as a combination of a teaching from an oil purifier modifying a water treating device, to bo unrelated to the application to which appellant\u2019s device is put. We find no suggestion in the two references that it would be obvious to provide a device such as that claimed to convert para-hydrogen to the ortho form, even considering that the principle of hydrogen conversion by magnetism was already known. We think the board failed to consider the art and problems therein as being completely foreign to the concepts of the references, and further erred in finding merely functionally equivalent structure to anticipate the specific structure claimed.\nAccordingly the decision of the board is reversed.\nHackh\u2019s Chemical Dictionary, 3d Ed. (1950), p. 421, defines a hydrogen molecule in part as :\n* * * H2, consists of two types: ortho- and para- which differ slightly in physical properties ; as, specific heat; vapor pressure. They are explained by the different spins of the two nuclei, which may be :\nin ortho-<=* and in para-\u2020\u2020\nHydrogen consists of:\northo- para-\nAt -235\u00b0 C (liq. H\u201e) =99.7% 0.3%\nAt -140\u00b0 C (liqu. air) =50 % 50 %\nAt 20\u00b0 C (room temp.) =25 % 75 %\northo- (symmetrical- or alpha-) has even rotation quantum numbers, 0,2,4 . . . ; para-(antisymmetrical- or beta-) has odd numbers, 1,3,5 ...***",
+        "type": "majority",
+        "author": "Martin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Ralph L. Chappell, John F. Smith for appellant.",
+      "Clarence W. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 843; 146 USPQ 211\nIn re Simon L. Ruskin\n(No. 7413)\nUnited States Court of Customs and Patent Appeals,\nJuly 1, 1965\nRalph L. Chappell, John F. Smith for appellant.\nClarence W. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents.\n[Oral argument May 5, 1965, by Mr. Sears; appellant submits on brief]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1557-01",
+  "first_page_order": 881,
+  "last_page_order": 885
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486985,
+  "name": "Commonwealth v. Edmund Snipes",
+  "name_abbreviation": "Commonwealth v. Snipes",
+  "decision_date": "2016-08-02",
+  "docket_number": "NO. 134 EAL (2016)",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 231,
+    "sha256": "06274ffab0ad605fe199804acd1e1cc5d3c56b23bda44beab6a959652f24ce10",
+    "simhash": "1:9d2e7610ba4e38e0",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nEdmund Snipes"
+    ],
+    "opinions": [
+      {
+        "text": "PETITION FOR ALLOWANCE OF APPEAL\nDenied.\n43 Justice MUNDY did not participate in the consideration or decision of this matter.\n--------",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nEdmund Snipes\nNO. 134 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 02, 2016"
+  },
+  "file_name": "0165-07",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

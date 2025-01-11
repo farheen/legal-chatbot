@@ -1,0 +1,58 @@
+{
+  "id": 12501903,
+  "name": "COM. v. BEAN, D.",
+  "name_abbreviation": "Com. v. Bean",
+  "decision_date": "2018-07-31",
+  "docket_number": "1320 MDA 2017",
+  "first_page": "721",
+  "last_page": "721",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 721"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 104,
+    "sha256": "0107f6c7e16c7167a299f1deb0cffba62d0de448d67fe0e1afba0e937ed45ebe",
+    "simhash": "1:5cff36baa2e9bfea",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nBEAN, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nBEAN, D.\n1320 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 31, 2018\nAffirmed/Vacated/Remanded"
+  },
+  "file_name": "0721-04",
+  "first_page_order": 721,
+  "last_page_order": 721
+}

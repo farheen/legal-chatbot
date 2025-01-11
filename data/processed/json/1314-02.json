@@ -1,0 +1,95 @@
+{
+  "id": 7982052,
+  "name": "STATE v. Francis D. BURKE et al.",
+  "name_abbreviation": "State v. Burke",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 78-221-C.A.",
+  "first_page": "1314",
+  "last_page": "1314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 1314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "433 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176124
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0001-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 753",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532109
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0753-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 124,
+    "char_count": 1059,
+    "ocr_confidence": 0.752,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2006854453676643
+    },
+    "sha256": "5f10cdfca55e3daf6bec1534cefd6f568d5298efe925c2cc1625eb0bfda69b2b",
+    "simhash": "1:745774269f1017f6",
+    "word_count": 180
+  },
+  "last_updated": "2024-02-27T23:11:01.583831+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Francis D. BURKE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before the court on April 7, 1980, pursuant to a motion filed by defendant Francis D. Burke under Rule 16(g) to dismiss the State\u2019s appeal from an order of the Superior Court suppressing materials produced by the allegedly illegal search of two suitcases which had been seized from an automobile. After hearing arguments of counsel, we are of the opinion that defendant established standing to object to this search, and that pursuant to the holdings of the Supreme Court of the United States in Arkansas v. Sanders, 442 U.S. 753, 99 S.Ct. 2586, 61 L.Ed.2d 235 (1979); and United States v. Chadwick, 433 U.S. 1, 97 S.Ct. 2476, 53 L.Ed.2d 538 (1977), the State has failed to show cause, and, accordingly, its appeal is hereby dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts, II, Atty. Gen., James H. Leavey, Asst. Atty. Gen., Faith A. La-Salle, Spec. Asst. Atty. Gen., for plaintiff.",
+      "James B. Callahan, Newport, Jeffrey A. Denner, Boston, Mass., for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Francis D. BURKE et al.\nNo. 78-221-C.A.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nDennis J. Roberts, II, Atty. Gen., James H. Leavey, Asst. Atty. Gen., Faith A. La-Salle, Spec. Asst. Atty. Gen., for plaintiff.\nJames B. Callahan, Newport, Jeffrey A. Denner, Boston, Mass., for defendants."
+  },
+  "file_name": "1314-02",
+  "first_page_order": 1368,
+  "last_page_order": 1368
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485647,
+  "name": "Commonwealth v. Tuan Anh Le",
+  "name_abbreviation": "Commonwealth v. Le",
+  "decision_date": "2016-06-29",
+  "docket_number": "NO. 73 MAL 2016",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 142,
+    "sha256": "f8a78cdfb35aaacfb82aa0ddc9fd702ca273e808e538460f019eaaa26da528a7",
+    "simhash": "1:d51e14fea0280550",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nTuan Anh Le"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nTuan Anh Le\nNO. 73 MAL 2016\nSupreme Court of Pennsylvania\nJune 29, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0480-09",
+  "first_page_order": 480,
+  "last_page_order": 480
+}

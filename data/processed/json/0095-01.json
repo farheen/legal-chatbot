@@ -1,0 +1,637 @@
+{
+  "id": 12042031,
+  "name": "Dennis LYONS v. CITY OF LEWISTON et al.",
+  "name_abbreviation": "Lyons v. City of Lewiston",
+  "decision_date": "1995-10-19",
+  "docket_number": "",
+  "first_page": "95",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 95"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "42 U.S.C.A. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "461 U.S. 30",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298143
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "56"
+        },
+        {
+          "page": "1640"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0030-01"
+      ]
+    },
+    {
+      "cite": "453 U.S. 247",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722428
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "271"
+        },
+        {
+          "page": "2761"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/453/0247-01"
+      ]
+    },
+    {
+      "cite": "535 A.2d 421",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7871744
+      ],
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/535/0421-01"
+      ]
+    },
+    {
+      "cite": "581 A.2d 410",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7357833
+      ],
+      "pin_cites": [
+        {
+          "page": "414"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/581/0410-01"
+      ]
+    },
+    {
+      "cite": "546 A.2d 1013",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7942402
+      ],
+      "pin_cites": [
+        {
+          "page": "1021"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/546/1013-01"
+      ]
+    },
+    {
+      "cite": "596 A.2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11302383
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "615"
+        },
+        {
+          "page": "615"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/596/0612-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 378",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032186
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "388"
+        },
+        {
+          "page": "1204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0378-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 469",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204596
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "481"
+        },
+        {
+          "page": "1298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0469-01"
+      ]
+    },
+    {
+      "cite": "436 U.S. 658",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1490618
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "694"
+        },
+        {
+          "page": "2037"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/436/0658-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 367",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767540
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "377"
+        },
+        {
+          "page": "1678"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0367-01"
+      ]
+    },
+    {
+      "cite": "746 F.2d 1518",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3805878,
+        648990
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1526"
+        },
+        {
+          "page": "1526-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/241/0201-01",
+        "/f2d/746/1518-01"
+      ]
+    },
+    {
+      "cite": "307 U.S. 496",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140933
+      ],
+      "weight": 3,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "515-16",
+          "parenthetical": "\"The privilege ... to use the streets and parks for communication of views on national questions may be regulated in the interest of all ... but it must not, in the guise of regulation, be abridged or denied.\""
+        },
+        {
+          "page": "963-64",
+          "parenthetical": "\"The privilege ... to use the streets and parks for communication of views on national questions may be regulated in the interest of all ... but it must not, in the guise of regulation, be abridged or denied.\""
+        },
+        {
+          "parenthetical": "\"The privilege ... to use the streets and parks for communication of views on national questions may be regulated in the interest of all ... but it must not, in the guise of regulation, be abridged or denied.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/307/0496-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 641",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339762
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "648",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "3266",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "648"
+        },
+        {
+          "page": "3266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0641-01"
+      ]
+    },
+    {
+      "cite": "649 A.2d 1108",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880805
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1111",
+          "parenthetical": "quoting Ryan v. City of Augusta, 622 A.2d 74, 76 (Me.1993) (citations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/649/1108-01"
+      ]
+    },
+    {
+      "cite": "783 F.Supp. 1475",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7411821
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "1480",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "1477, 1478",
+          "parenthetical": "police officer's act of threatening plaintiff with night stick and future harm if plaintiff protested about the towing of his car exceeded conduct given immunity by section 8111"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/783/1475-01"
+      ]
+    },
+    {
+      "cite": "112 L.Ed.2d 702",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e must determine whether defendants reasonably should have comprehended that their specific actions transgressed those 'clearly established' rights.\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 713",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6121666
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e must determine whether defendants reasonably should have comprehended that their specific actions transgressed those 'clearly established' rights.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/122/0713-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 1041",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6553499,
+        6553413,
+        6553549,
+        6553457,
+        6553588,
+        6553335,
+        6553371
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[W]e must determine whether defendants reasonably should have comprehended that their specific actions transgressed those 'clearly established' rights.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/1041-05",
+        "/us/498/1041-03",
+        "/us/498/1041-06",
+        "/us/498/1041-04",
+        "/us/498/1041-07",
+        "/us/498/1041-01",
+        "/us/498/1041-02"
+      ]
+    },
+    {
+      "cite": "904 F.2d 748",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10539688
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "752"
+        },
+        {
+          "page": "751-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/904/0748-01"
+      ]
+    },
+    {
+      "cite": "652 A.2d 110",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863501
+      ],
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "113"
+        },
+        {
+          "page": "113"
+        },
+        {
+          "page": "114"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/652/0110-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 7,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        },
+        {
+          "page": "819"
+        },
+        {
+          "page": "2738",
+          "parenthetical": "\"Where an official could be expected to know that certain conduct would violate statutory or constitutional rights, he should be made to hesitate; and a person who suffers injury caused by such conduct may have a cause of action.\""
+        },
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "605 A.2d 609",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7938313
+      ],
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/605/0609-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512327
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "524-26"
+        },
+        {
+          "page": "2814-15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0511-01"
+      ]
+    },
+    {
+      "cite": "622 A.2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7348307
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "75"
+        },
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/622/0074-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 F.3d 691",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7416451
+      ],
+      "pin_cites": [
+        {
+          "page": "696"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/42/0691-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1114,
+    "char_count": 23441,
+    "ocr_confidence": 0.736,
+    "pagerank": {
+      "raw": 1.0111632086384036e-07,
+      "percentile": 0.5421686746987951
+    },
+    "sha256": "d144fe84e85aac445e1b61d0217036101b7459822cde2d739ddb9ab975ea5737",
+    "simhash": "1:b6d5df58951b84cd",
+    "word_count": 3695
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WATHEN, C.J., and ROBERTS, GLASSMAN, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ.",
+      "with whom CLIFFORD and RUDMAN, Justices, join,"
+    ],
+    "parties": [
+      "Dennis LYONS v. CITY OF LEWISTON et al."
+    ],
+    "opinions": [
+      {
+        "text": "DANA, Justice.\nThe plaintiff, Dennis Lyons, and the several defendants appeal the judgment entered in the Superior Court (Cumberland County, Brennan, J.) denying their cross motions for summary judgments. The defendants are the City of Lewiston, the County of Andros-coggin, Lewiston police officers Lee Jones and Edward Carpenter, and Androscoggin County Deputy Sheriff Daniel MeGinley. Lyons also appeals the granting of a summary judgment in favor of defendants Jones, MeGinley, the City of Lewiston, and the County of Androscoggin as to Lyons\u2019s state tort claims. We affirm the judgment.\nI.\nThis lawsuit arises out of events that occurred when former President George Bush visited Lewiston High School in September 1991. The Secret Service established a \u201cno access area\u201d to restrict access to the high school and the presidential motorcade viewing area. Lyons and 12 to 20 members of an organization, ACT-UP \u2014 Portland (\u201cACT-UP\u201d), gathered in Lewiston on the morning of the presidential visit to protest certain policies of the Bush Administration. They proceeded along East Avenue toward Lewi-ston High School and the motorcade viewing area. Lewiston police officers, including Jones and Carpenter, and Androscoggin County deputy sheriffs advised Lyons and the others that a roped off area, 727 feet from the closest point of the motorcade route, had been designated as a \u201cdemonstrator area,\u201d and that they would not be allowed to proceed further. Members of the general public and other demonstrators, however, were allowed to proceed by foot toward the high school and the motorcade viewing area.\nJones and Carpenter told Lyons and other members of ACT-UP that they would be arrested if they left the \u201cdemonstrator area\u201d and proceeded toward the motorcade route. When Lyons, who wanted his protest to be visible to the Presidential motorcade, the general public, and the media filming the motorcade, continued along East Avenue for about five to ten yards, Jones arrested him and MeGinley placed and held him in a waiting school bus. Following the advice of the Androscoggin County District Attorney, Sheriffs Department personnel transferred Lyons to the Androscoggin County Jail and charged him with criminal trespass. Prior to any court action, the charges were dropped.\nLyons filed an amended complaint in June 1992 containing eight counts and requesting nominal, compensatory, and punitive damages, as well as injunctive and declaratory relief. Counts I and IV assert claims brought pursuant to 42 U.S.C. \u00a7 1983 (1994) and 5 M.R.S.A. \u00a7 4682 (Supp.1994) that all the defendants violated Lyons\u2019s constitutional rights by placing unreasonable restrictions on his participation in the protest against the Bush Administration\u2019s AIDS policies. Count II alleges a conspiracy to deprive Lyons of his constitutional rights and count III alleges a violation of rights secured by Article I, \u00a7\u00a7 4 and 15 of the Constitution of the State of Maine. Counts V-VIII allege violations of state tort law.\nLyons filed a motion for a partial summary judgment in September 1993 against all the defendants on the issue of liability. The defendants opposed Lyons\u2019s motion and moved for a summary judgment on all counts. In November 1994 the court denied Lyons\u2019s motion for a partial summary judgment on counts I and IV. Counts II and III were dismissed with Lyons\u2019s acquiescence. The court granted the defendants\u2019 motions for a summary judgment with respect to counts V-VIII, for which the defendants asserted absolute immunity pursuant to the Maine Tort Claims Act, 14 M.R.S.A. \u00a7\u00a7 8101-8118 (1980 and Supp.1994). The court also denied the defendants\u2019 motion for a summary judgment with respect to counts I and IV, in which they asserted qualified immunity from liability. In addition, the court declared that the municipalities were immune from punitive damages with respect to the section 1983 claim, but it reserved ruling on Lyons\u2019s section 1983 punitive damages claims against the individual defendants. These appeals and cross-appeals followed.\nII.\nWe first consider whether the court erred in denying a summary judgment in favor of the individual defendants based on their defense of a qualified immunity. We note that the denial of a defendant\u2019s motion for a summary judgment based on a qualified immunity is immediately appealable pursuant to the collateral order exception to the final judgment rule. See Ryan v. City of Augusta, 622 A.2d 74, 75 (Me.1993) (citing Mitchell v. Forsyth, 472 U.S. 511, 524-26, 105 S.Ct. 2806, 2814-15, 86 L.Ed.2d 411 (1985)). A summary judgment is appropriate when the record reveals no genuine issues of material fact and any party is entitled to a judgment as a matter of law. \u201cWe review the Superior Court\u2019s decision for errors of law, viewing the record in the fight most favorable to the non-moving party.\u201d Diversified Foods, Inc. v. First Nat\u2019l Bank of Boston, 605 A.2d 609, 612 (Me.1992).\nA plaintiff may maintain a section 1983 claim against governmental employees only if they are not entitled to a qualified immunity. Pursuant to this doctrine, \u201cgovernment officials performing discretionary functions generally are shielded from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.\u201d Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982). \u201cThe two-part test for denial of qualified immunity is (1) whether the plaintiffs constitutional rights were violated, and (2) whether those rights were so clearly established that reasonable defendants would have known that their specific actions transgressed those rights.\u201d Creamer v. Sceviour, 652 A.2d 110, 113 (Me. 1995); see also Harlow, 457 U.S. at 819, 102 S.Ct. at 2738 (\u201cWhere an official could be expected to know that certain conduct would violate statutory or constitutional rights, he should be made to hesitate; and a person who suffers injury caused by such conduct may have a cause of action.\u201d); Amsden v. Moran, 904 F.2d 748, 752 (1st Cir.1990), cert. denied, 498 U.S. 1041, 111 S.Ct. 713, 112 L.Ed.2d 702 (1991) (\u201c[W]e must determine whether defendants reasonably should have comprehended that their specific actions transgressed those \u2018clearly established\u2019 rights.\u201d). \u201c \u2018Clearly established\u2019 means that the unlawfulness of the act must be apparent in fight of pre-existing law, not merely a \u2018 \u201cgeneral declaration of the legal right allegedly violated.\u201d \u2019 \u201d Creamer, 652 A.2d at 113, (quoting Maguire v. Municipality of Old Orchard Beach, 783 F.Supp. 1475, 1480 (D.Me. 1992) (citations omitted).) \u201cThis latter inquiry is objective and is concerned with the reasonableness of the defendant\u2019s conduct, not whether the plaintiffs rights were actually violated.\u201d Creamer, 652 A.2d at 113 (citing Amsden, 904 F.2d at 751-52). As we have recently stated,\nThe application of the qualified immunity doctrine turns on the \u201cobjective legal reasonableness\u201d of the official\u2019s action viewed in fight of the \u201cclearly established\u201d legal rules at the time the action was taken. In order to determine that a right is clearly established, \u201c[t]he contours of the right must be sufficiently clear that a reasonable official would understand that what he is doing violates that right.\u201d\nParsons v. Wright, 649 A.2d 1108, 1111 (Me. 1994) (quoting Ryan v. City of Augusta, 622 A.2d 74, 76 (Me.1993) (citations omitted)). Stated affirmatively, a public official is entitled to qualified immunity if he can establish either that 1) he did not violate the plaintiffs constitutional rights; or 2) given the state of the law a reasonable official would not have understood that he was doing so.\nThe qualified immunity analysis begins with the identification of the right at issue and proceeds to place that right in historical perspective. What the law was and whether it was clearly established at the time of the alleged violation are questions of law. Harlow, 457 U.S. at 818, 102 S.Ct. at 2738. In Ms complaint, Lyons states that his and ACT-UP\u2019s purpose was to assemble and petition the federal and state governments for redress of grievances and to protest certain policies of the Bush Administration, including, but not limited to, the lack of a national policy on AIDS education. The government may validly restrict such expressive activity if that restriction is content neutral, narrowly tailored to meet a significant governmental interest, and allows for ample alternate channels for communication. Regan v. Time, Inc., 468 U.S. 641, 648, 104 S.Ct. 3262, 3266, 82 L.Ed.2d 487 (1984) (citations omitted); see also Hague v. CIO, 307 U.S. 496, 515-16, 59 S.Ct. 954, 963-64, 83 L.Ed. 1423 (1939) (\u201cThe privilege ... to use the streets and parks for communication of views on national questions may be regulated in the interest of all ... but it must not, in the guise of regulation, be abridged or denied.\u201d); White House Vigil for the ERA Comm. v. Clark, 746 F.2d 1518, 1526 (D.C.Cir.1984) (\u201cCertain types of places are so vital to a healthy and robust public discourse that they are accorded special status under the first amendment.... The public sidewalk here is one such forum.\u201d). At the time he was arrested Lyons had a right to express his political views from the sidewalks of Lewi-ston, subject to restrictions that were content neutral, narrowly tailored to meet a significant governmental interest, and allowed for ample alternate channels for communication.\nWhether Lyons\u2019s rights were violated depends on the resolution of several factual disputes. The record suggests that the \u201cdemonstrator area\u201d may have been created for ACT-UP exclusively, that other members of the public, including other demonstrators, may have been allowed to proceed toward the motorcade viewing area, and that the \u201cdemonstrator area\u201d may have been unreasonably and unnecessarily distant and isolated from the high school and the motorcade viewing area. The court properly found, therefore, that there are genuine issues of material fact whether the restriction here was content-neutral or targeted against the ACT-UP message, whether the restriction was narrowly tailored, and whether it left open sufficient alternate channels of communication. In short, as the court found, Lyons\u2019s constitutional rights to free speech and assembly may well have been violated, and the defendants did not meet their burden pursuant to the first prong of the test articulated in Creamer.\nNor have the defendants satisfied the second part of our test. Given the state of the law, as set forth above, reasonable public officials would have known that restrictions on Lyons\u2019s expressive activity had to be content neutral, narrowly tailored, and allow for ample alternate channels of communication. Regan, 468 U.S. at 648, 104 S.Ct. at 3266; White House Vigil for the ERA Comm., 746 F.2d at 1526-27; United States v. O\u2019Brien, 391 U.S. 367, 377, 88 S.Ct. 1673, 1678, 20 L.Ed.2d 672 (1968). A reasonable officer would certainly have known he was violating a clearly established right by establishing and enforcing an isolated \u201cdemonstrator area\u201d exclusively for one group. The issue cannot be resolved, however, without further development of the underlying facts. The trial court did not err, therefore, in concluding that the defendants failed to establish the second prong of the test for a qualified immunity.\nWe turn next to the question whether the municipal defendants are entitled to immunity as a matter of law. Governmental entities are liable for violations of constitutional rights if they establish a policy that violates the Constitution and that policy is the cause of and moving force behind the claimed constitutional deprivation. Monell v. Department of Social Servs., 436 U.S. 658, 694, 98 S.Ct. 2018, 2037, 56 L.Ed.2d 611 (1978). The municipal policy may consist of a single edict or act by a municipal official. Pembaur v. Cincinnati, 475 U.S. 469, 481, 106 S.Ct. 1292, 1298, 89 L.Ed.2d 452 (1986). Additionally, municipalities may be held liable pursuant to section 1983 for violations of federal constitutional rights if constitutional violations result from the municipality\u2019s failure to train its employees concerning those rights, and its failure to train reflects an indifference by the municipality to the constitutional rights of its citizens. City of Canton v. Harris, 489 U.S. 378, 388, 109 S.Ct. 1197, 1204, 103 L.Ed.2d 412 (1989).\nThe record suggests that the Lewiston Police Chief shared responsibility for determining the location of the \u201cdemonstrator area.\u201d The record also suggests that city and county officials participated in actually establishing and enforcing the area. Finally, the record suggests that the municipal defendants may not have trained their officers concerning First Amendment rights and that the failure to train may reflect indifference by municipal defendants to those rights. The court therefore did not err in denying a summary judgment in favor of the municipal defendants based on their defense of qualified immunity. Similarly, the court did not err in denying Lyons\u2019s motion for a partial summary judgment because there are genuine issues of material fact with respect to the defendants\u2019 defense of qualified immunity.\nIII.\nWe next consider whether the court erred in granting a summary judgment in favor of the defendants on Lyons\u2019s state tort claims. The Maine Tort Claims Act (\u201cMTCA\u201d) grants governmental employees \u201cabsolute immunity from personal civil liability for performing discretionary functions.\u201d Moore v. City of Lewiston, 596 A.2d 612, 615 (Me.1991); see 14 M.R.S.A. \u00a7 8111(1)(C), (E) (Supp.1994), as long as the contested action is \u201cessential to the realization or accomplishment of a basic governmental policy, program or objective.\u201d Creamer, 652 A.2d at 114 (quoting Miller v. Szelenyi, 546 A.2d 1013, 1021 (Me.1988).) Discretionary immunity applies unless the defendants\u2019 conduct \u201cclearly exceeded, as a matter of law, the scope of any discretion [they] could have possessed in [their] official capacity as [police officers].\u201d Polley v. Atwell, 581 A.2d 410, 414 (Me.1990) (emphasis in original); see also Darling v. Augusta Mental Health Inst., 535 A.2d 421, 425 (Me.1987) (immunity applies only to government employees whose conduct is \u201cwithin the scope of their employment\u201d); cf Maguire, 783 F.Supp. at 1477, 1478 (police officer\u2019s act of threatening plaintiff with night stick and future harm if plaintiff protested about the towing of his car exceeded conduct given immunity by section 8111). Regulating the demonstration and protecting the President are unquestionably discretionary functions of the governmental employees involved.\nThe only limitation on immunity for an intentional act or omission under the MTCA is that it must not be the result of \u201cbad faith.\u201d 14 M.R.S.A. \u00a7 8111(1)(E). In his deposition, Lyons stated that Jones asked him if he was part of \u201cthe gay group,\u201d and that police officers were wearing plastic gloves. Lyons also contends that the \u201cdemonstrator area\u201d was established to contain the ACT-UP group because they were \u201ca gay rights group.\u201d Lyons\u2019s presentation is insufficient to raise a genuine issue of material fact with respect to whether the defendants were acting in \u201cbad faith.\u201d The court therefore did not err in granting a summary judgment in favor of the defendants on these claims.\nIV.\nFinally, we consider whether the court erred in granting a summary judgment in favor of the municipal defendants on Lyons\u2019s claim for punitive damages under section 1983 and reserving its ruling concerning Lyons\u2019s claim for punitives against the individual defendants. A municipality is immune from punitive damages in a section 1983 action. City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 271, 101 S.Ct. 2748, 2761, 69 L.Ed.2d 616 (1981). Therefore, the trial court did not err in granting a summary judgment in favor of the City of Lewiston and the County of Androscoggin. Punitive damages are available in a section 1983 action against an individual \u201cwhen the defendant\u2019s conduct is shown to be motivated by evil motive or intent, or when it involves reckless or callous indifference to federally protected rights of others.\u201d Smith v. Wade, 461 U.S. 30, 56, 103 S.Ct. 1625, 1640, 75 L.Ed.2d 632 (1983). The court reserved a ruling on this claim. Although, as noted above, the conduct of the individual defendants did not raise a genuine issue of material fact as to whether they were acting in \u201cbad faith,\u201d it may evidence a \u201creckless or callous indifference to\u201d the plaintiffs \u201cfederally protected rights.\u201d Id. The court did not err therefore in not granting a summary judgment in favor of the defendants on this issue.\nThe entry is:\nJudgment affirmed.\nROBERTS, GLASSMAN and LIPEZ, JJ., concurring.\n. The Superior Court dismissed the claims against Maine State Police Chief Colonel Demers in an order dated November 30, 1992.\n. MeGinley reported that \"we were told that a group of ACT-UP demonstrators were to be placed in a designated area.\u201d He also reported that \"some of the demonstrators ... appeared not to cause any threats so they were not bothered. Some of the demonstrators and protestors went around the block and blended into the crowd.\u201d\n. 42 U.S.C.A. \u00a7 1983 (1994) states in pertinent part:\nEvery person who, under color of any statute, ordinance, regulation, custom, or usage, or any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States ... to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law....\n. Indeed, the record suggests that the Lewiston Chief of Police was aware that restrictions of First Amendment rights are subject to scrutiny. In his answers to interrogatories, he explained that the location of the \"demonstrator area\u201d was determined after he expressed the concern that other recommended sites \"would be even more restrictive.\u201d\n. The MTCA provides in part:\nNotwithstanding any liability that may have existed at common law, employees of governmental entities shall be absolutely immune from personal civil liability for the following:\nC. Performing or failing to perform any discretionary function or duty, whether or not the discretion is abused; and whether or not any statute, charter, ordinance, order, resolution, rule or resolve under which the discretionary function or duty is performed is valid; ...\nE. Any intentional act or omission within the course and scope of employment; provided that such immunity shall not exist in any case in which an employee\u2019s actions are found to have been in bad faith.\nThe absolute immunity provided by paragraph C shall be applicable whenever a discretionary act is reasonably encompassed by the duties of the governmental employee in question, regardless of whether the exercise of discretion is specifically authorized ... and shall be available to all governmental employees, including police officers ... who are required to exercise judgment or discretion in performing their official duties.\n14 M.R.S.A. \u00a7 SI 11(1)(C), (E) (Supp.1994). For activities not immune under section 8111, the MTCA establishes \"broad liability\" on the part of the employee. Moore, 596 A.2d at 615; see 14 M.R.S.A. \u00a7 8102(2-A) (Supp.1994).",
+        "type": "majority",
+        "author": "DANA, Justice."
+      },
+      {
+        "text": "WATHEN, Chief Justice,\nwith whom CLIFFORD and RUDMAN, Justices, join,\ndissenting.\nI must respectfully dissent. The Court concludes as a matter of law that there is no genuine issue of fact that defendant police officers acted in bad faith or exceeded the scope of their discretion for purposes of immunity under the Maine Tort Claims Act. I agree and suggest that it is illogical to come to a different conclusion, on the same record, in assessing the legal reasonableness of the officers\u2019 conduct for purposes of determining qualified immunity to a section 1983 claim. Although there are limits to the defense that \u201cI was only following orders,\u201d in my view the Court fails to give appropriate consideration to the fact that the officers were carrying out the directive of those Secret Service Agents who were charged with protecting the President of the United States. Given the existence of those orders, the actions of the local police officers are objectively reasonable, and thus, section 1983 immunity should be afforded.\nThe record reveals that the \u201cdemonstrator area\u201d was established by the Secret Service Agents. The following account, provided by the affidavit of a captain in the Lewiston Police Department, is unchallenged:\n[A] Secret Service Agent in charge of advance intelligence, reported at these meetings that he had received information that members of the Maine Chapter of AcL-Up were planning a demonstration in Lewi-ston during the President\u2019s visit. He informed the individuals present that Act-Up was a radical AIDS activist group known for their disruptive tactics. He explained that these tactics included throwing used condoms and blood, biting and spitting at police officers, laying down, en masse, in a roadway blocking traffic (known as a \u201cdie-in\u201d), seeking out weaknesses in security in order to penetrate safety zones, and generally utilizing other similar tactics so as to create confusion and disruption at civic event. He further indicated that approximately 1,500 members of Act-Up had recently staged a demonstration in Kennebunkport. It was unknown at the time how many of these demonstrators had remained behind to participate in the Lewiston rally....\n[The Agent] also received intelligence that an undetermined number of Bates College students also planned to demonstrate on the day of the President\u2019s visit_\nBased on this intelligence the Secret Service established a specific area where demonstrators would be allowed to congregate and protest....\nAlthough there may be a genuine issue of fact whether the chief of the Lewiston Police Department was instrumental in determining the precise location of the demonstration area, that fact is not relevant and there can be no doubt that the existence and operation of the area was dictated expressly by the Secret Service.\nFaced with the competing demands of presidential security and the First Amendment rights of the protestors, a reasonable police officer would not realize that the Secret Service order establishing a demonstration area would violate plaintiffs clearly established rights. The \u201cobjective reasonableness\u201d standard is \u201ccomparatively generous to the police in cases where potential danger, emergency conditions or other exigent circumstances are present\u201d and the Supreme Court \u201cintends to surround the police who make these on-the-spot choices in dangerous situations with a fairly wide zone of protection in close cases.\u201d Roy v. City of Lewiston, 42 F.3d 691, 696 (1st Cir.1994).\nI would grant summary judgment in favor of the defendants on plaintiffs section 1983 claim on the basis of qualified immunity.",
+        "type": "dissent",
+        "author": "WATHEN, Chief Justice,"
+      }
+    ],
+    "attorneys": [
+      "Kim Matthews (orally), Portland, for Plaintiff.",
+      "William R. Fisher (orally), John J. Wall, III, Monaghan, Leahy, Hochadel & Libby, Portland, Edward R. Benjamin, Jr. (orally), Daniel Rapaport, Preti, Flaherty, Beliveau & Pact\u00f3os, Bangor, for Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis LYONS v. CITY OF LEWISTON et al.\nSupreme Judicial Court of Maine.\nArgued June 7, 1995.\nDecided Oct. 19, 1995.\nKim Matthews (orally), Portland, for Plaintiff.\nWilliam R. Fisher (orally), John J. Wall, III, Monaghan, Leahy, Hochadel & Libby, Portland, Edward R. Benjamin, Jr. (orally), Daniel Rapaport, Preti, Flaherty, Beliveau & Pact\u00f3os, Bangor, for Defendants.\nBefore WATHEN, C.J., and ROBERTS, GLASSMAN, CLIFFORD, RUDMAN, DANA and LIPEZ, JJ."
+  },
+  "file_name": "0095-01",
+  "first_page_order": 151,
+  "last_page_order": 159
+}

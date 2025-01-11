@@ -1,0 +1,59 @@
+{
+  "id": 6083504,
+  "name": "In re Albert E. Hopley",
+  "name_abbreviation": "In re Hopley",
+  "decision_date": "1932-05-09",
+  "docket_number": "No. 2970",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 81,
+    "ocr_confidence": 0.494,
+    "sha256": "238a04a8bdd74b1cbbee0974968b0dc89aff225a614a41f031de06c2b9498bd2",
+    "simhash": "1:a40d5687205127db",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Albert E. Hopley"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in scenic stationery.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MAY 9, 1932\nIn re Albert E. Hopley\n(No. 2970)."
+  },
+  "file_name": "1298-13",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

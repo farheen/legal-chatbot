@@ -1,0 +1,131 @@
+{
+  "id": 6082843,
+  "name": "In re Anthony J. Urbanic and Francis J. Maurer",
+  "name_abbreviation": "In re Urbanic",
+  "decision_date": "1963-06-28",
+  "docket_number": "No. 6935",
+  "first_page": "1564",
+  "last_page": "1571",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1564"
+    },
+    {
+      "type": "parallel",
+      "cite": "138 U.S.P.Q. 224"
+    },
+    {
+      "type": "parallel",
+      "cite": "319 F.2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "276 F. 2d 661",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079745,
+        1951814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/0886-01",
+        "/f2d/276/0661-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 886",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079745
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/0886-01"
+      ]
+    },
+    {
+      "cite": "255 F. 2d 412",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        681978,
+        6079999
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/255/0412-01",
+        "/ccpa/45-2/0944-01"
+      ]
+    },
+    {
+      "cite": "45 CCPA 944",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079999
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/45-2/0944-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 771,
+    "char_count": 21819,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17336667118430457
+    },
+    "sha256": "3e5bb6b4a945fb83235673310fd35b1171c85f78471c0f0f6ab1360d5211711f",
+    "simhash": "1:7324ac69573b50e1",
+    "word_count": 3517
+  },
+  "last_updated": "2024-02-28T00:04:51.562281+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associated Judges"
+    ],
+    "parties": [
+      "In re Anthony J. Urbanic and Francis J. Maurer"
+    ],
+    "opinions": [
+      {
+        "text": "Maetin, Judge,\ndelivered tlie opinion of the court:\nThis is an appeal from a decision of the Board of Appeals affirming the examiner\u2019s rejection of claims 26 to 32, 34 to 37 and 39 to 50 of appellants\u2019 application Serial No. 328,509, filed December 29,1952, for RIGID SHOOK RESISTANT PVC. No claim has been allowed.\nAppellants\u2019 application describes a rigid impact resistant plastic composition of matter containing (I) a vinyl halide polymer, e.g. a vinyl chloride homopolymer or a vinyl chloride copolymer, plasticized with (II) small amounts of certain rubbery copolymers of a conjugated diolefin of less than 8 carbon atoms, e.g. butadiene, and at least one copolymerizable monolefinic compound, e.g. acrylonitrile or isopropenyl ketone, said rubbery copolymer being characterized by having a specific proportion of solubilizing nitrile (-CN) or carbonyl (-CO-) groups. Criticality is urged for the proportion of rubbery copolymer in the composition and for the proportion of nitrile or carbonyl groups in the rubbery copolymer. Appellants state in their brief that it makes no difference how the hydrocarbon backbone in the rubbery copolymer is formed, i.e. whether by polymerizing two monomers such as butadiene and acrylonitrile or by polymerizing three monomers such as butadiene, acrylonitrile and styrene; rather, they state \u201cThe invention is based on the uniqueness of the result when the ratio of carbon atoms in the hydrocarbon backbone to solubilizing nitrile or carbonyl groups is within a definite range.\u201d\nAppellants\u2019 compositions may be prepared by mixing (I) and (II) in any convenient way, for example by masticating the vinyl halide polymer with the rubbery copolymer. The compositions are used for the preparation of plastic pipe, automotive parts, playing cards, license plates, traffic markers, phonograph records and the like.\nThe following claims are representative:\n26. A rigid impact resistane [sic] heterogeneous polyvinyl halide base alloy composition comprising about 83 to 98 parts of rigid vinyl halide holopolymer [sic] and about 2 to 17 parts by weight of a rubbery polymer of conjugated diolefin of less than 8 carbon atoms and a copolymerizable monolefinic compound having limited compatibility [sic] with said homopolymer and having compatibility-producing groups depending from the carbon atoms directly forming lints in said polymer chain, said rubbery polymer containing \u2014CN groups present in the ratio of one said \u2014 CN group for each 14 to 30 carbon atoms of the rubbery polymer, the main plasticizing constituent in said composition consisting of rubbery high polymer, the amount of other plasticizers being insufficient to destroy the rigidity of the composition.\n27. A rigid impact resistant heterogeneous polyvinyl halide composition comprising about 83 to 98 parts of a rigid polyvinyl halide and about 2 to 17 parts by weight of a rubbery high polymer of a conjugated diolefin of less than 8 carbon atoms and a copolymerizable monolefinic compound, said rubbery polymer being characterized by having a chain consisting of carbon to carbon links from which depends one \u2014CN group for each 12.5 to 30 carbon atoms outside of said solubilizing groups of said polymer, said solubilizing groups being attached to- the long molecular chain of said polymer but not being links therein, all of the carbons directly forming links in said molecular chain plus % of the carbon atoms in dependent aliphatic hydrocarbon side chain groups, plus % of the carbon atoms in dependent aromatic hydrocarbon groups being considered as carbons of said polymer, the main plasticizing constituent in said composition consisting of rubbery high polymer, the amount of other plasticizers being insufficient to destroy the rigidity of the composition.\n43. A rigid, shock-resistant polyvinyl composition comprising 83 to 98 parts total of at least one member of the group consisting of polyvinyl halides and copolymers of vinyl chloride with vinylidene chloride, which copolymers consist of carbon, hydrogen and chlorine, and 2 to 17 parts of plasticizer for said group member, the said plasticizer being characterized by consisting essentially of a rubbery high copolymer of a conjugated diolefin having less than 8 carbon atoms and about 12 to 27.5 mol percent of the copolymer of a copolymerizable monomeric compound having highly polar groups and selected from a member of the group selected from acrylonitrile and methyl isopropenyl ketone, the main plasticizing constituent in said composition consisting of rubbery high polymer, the amount of other plasticizers being insufficient to destroy the rigidity of the composition.\n49. A thermoplastic fusion blend consisting essentially of 100 parts of solid -emulsion-prepared polyvinyl chloride resin and from 2 to 5 parts of butadiene: -acrylonitrile copolymer rubber containing from 18 to 22% of combined acry-lonitrile, the said blend being characterized by an impact strength at least several times greater than the impact strength of the polyvinyl chloride resin alone, a flexural strength of at least 8000 pounds per square inch, a flexural modulus of at least 2.5x10 pounds per square inch, and a tensile strength of at least 4800 pounds per square inch.\nClaims 35, 36, 37, 39, 41, 42, 44, 45, 46, 47 and 48 are drawn to a polymeric vinyl halide composition that is substantially within the scope of claims 26, 27 and 43, while claims 28 and 32 recite a method \u2022of forming the claimed composition which comprises masticating together the various components thereof. Claims 30 and 31 are drawn to an extruded article of the claimed composition. Claim 50 is similar to claim 49.\nThe references relied on are:\nPatton et al., 2, 580,460, January 1,1952.\nHumphrey et al., 2, 647,101, July 28, 1953.\nSchaffel et al., 2, 656, 333, October 20,1953.\nThe Patton et al., Humphrey et al. and Schaffel et al. patents disclose plastic compositions of matter containing a vinyl halide polymer and a rubbery copolymer.\nThe issues in this appeal are: (1) the adequacy of the disclosure of the instant application to support claims 49 and 50; (2) the patenta-, bility of the appealed claims over Patton et al., Humphrey et al. or Schaffel et al.; (3) the propriety of the definition of the \u201cpurported invention\u201d in the claims.\nIssue No. 1\nThe examiner held that appellants do not have adequate basis in their application for claims 49 and 50, insofar as those claims recite (1) \u201cfusion blend,\u201d (2) \u201c100 parts of * * * polyvinyl chloride resin and from 2 to 5 parts of butadiene \u00a1acrylonitrile copolymer rubber containing from 18 to 22% of combined acrylonitrile,\u201d and (3) \u201ca flexural strength of at least 8000 pounds per square inch, a flexural modulus of at least 2.5 X105 pounds per square inch, and a tensile strength of at least 4800 pounds per square inch\u201d and therefore rejected those claims as being based on an insufficient disclosure. The board sustained the \u201cExaminer\u2019s rejection of claims 49 and 50 as having no basis in the disclosure as filed.\u201d Claims 49 and 50 were presented by appellants for purposes of interference with TLS. Patent f\u00edo. 2,803,621 to Schwartz et al. Claim 49 is identical with the only claim in the Schwartz et al. patent. Claim 50 is a modified form of claim 49, claim 50 omitting any reference to \u201ca flexural strength of at least 8000 pounds per square inch, a flexural modulus of at least 2.5 X105 pounds per square inch, and a tensile strength of at least 4800 pounds per square inch.\u201d\nThe invention in the Schwartz et al. patent is directed to \u201cThermoplastic Fusion Blend of Emulsion-Prepared Polyvinyl Chloride Resin and a Small Amount of Butadiene: Acrylonitrile Copolymer Rubber\u201d and is based solely on the discovery that when a critical, small amount, i.e. 2 to 5 parts by weight, of a butadiene: acrylonitrile copoly-mer rubber containing a narrow range, i.e. 18% to 22%, of combined acrylonitrile, and 100 parts by weight of solid emulsion-prepared polyvinyl chloride resin are fusion blended, the impact strength of the polyvinyl chloride resin is increased many times, over, while the flexural strength, tensile strength, and other desirable properties of the resin remain substantially unimpaired. In general, the compositions of the Schwartz et al. patent \u201care truly rigid, strong materials, having a flexural strength of at least 8000 p.s.i., a flexural modulus of at least 2.5 X105 p.s.i., and a tensile strength of at least 4800 p.s.i.\u201d\nWe agree with the examiner that appellants\u2019 specification does not support the recitation of \u201c100 parts of * * * polyvinyl chloride and from 2 to 5 parts\u201d of a rubbery copolymer. We do not consider that the critical, small range or from It to 5 parts is disclosed in the application. It is apparent from the Schwartz ,et al. patent that the extraordinary characteristics of the patentees\u2019 blend are dependent on that critical, small range.\nThe patentees point out that increasing the copolymer rubber content to 10, 15 and 20 parts markedly reduces the impact strength values of their blend. Moreover, the patentees indicate that an increase in the copolymer rubber content to Y, 10,15 and 20 parts quickly reduces the flexural strength, tensile strength and flexual modulus of the patentees\u2019 blend to wnacceptdble levels.\nAppellants contend that they disclose 2, 8, 4 and 5 per cent of the rubbery copolymer blended in the emulsion PVC and that while Schwartz et al. use a slightly different designation calling for 2 to 5 parts of the rubbery copolymer in 100 parts of PVC, the disclosures in the Schwartz et al. patent and appellants\u2019 specification are not materially different.\nConsidering appellants\u2019 specification, it reads:\nThe most desirable proportion of rubbery polymer in the polyvinyl halide composition is dependent to some extent on the compatibility of the two materials, but I have found no case where the amount of the rubbery polymers should exceed 20% of the weight of the mixture to obtain desirable properties in the polyvinyl halide. More than 20% of the rubbery polymer has a markedly undesirable effect on the heat distortion of the blend. Even 2 or 3% of the rubbery polymer or polymers produce a very significant improvement in the properties of the mixture and may be used when extrusion apparatus suitable for mixing the more difficultly processable materials polyvinyl chloride is available. Such a blend will process even better than does the straight unplasticized polyvinyl chloride.\nHowever, processing is greatly improved when at least 4 or 5% or preferably at least 7% of the rubbery plasticizer is incorporated in the polyvinyl halide. The most desirable characteristic including processing, heat distortion and impact are obtained when the proportion of the rubbery plasticized polymer containing a solubilizing or compatability producing group is in the neighborhood of 10% of the weight of the plasticized composition [sic], [Emphasis ours.]\nWe do not think that this disclosure supports the critical, small range of \u201cfrom 2 to 5 parts\u201d of rubbery copolymer. Appellants disclose that the most desirable characteristics of their blend are found when the rubbery copolymer is in the neighborhood of 10% of the weight of the blend. The Schwartz et al. patent, on the other hand, teaches that a blend containing 10 parts of rubbery copolymer has a markedly reduced impact value and has unacceptable flexural strengths, tensile strengths and flexural modulus.\nWith respect to the recitation \u201cfusion blend\u201d in claims 49 and 50, we find it unnecessary to pass on whether appellants\u2019 specification supports it because we find that other limitations of these copied claims are unsupported. Both contain the \u201cfrom 2 to 5 parts\u201d limitation above discussed and additionally claim 49 contains limitations to a blend which possesses \u201ca flexural strength of at least 8000 pounds per square inch, a flexural modulus of at least 2.5 X105 pounds per square inch, and a tensile strength of at least 4800 pounds per square inch.\u201d\nIssue No. 2\nClaims 26-28, 80-32, 35-37, 39 and 41-18 stand rejected as unpat-entable over Humphrey et al., or Schaffel et al. It is the examiner\u2019s position that the Humphrey et al. patent discloses that a composition containing (1) 20 parts of a rubbery copolymer of 85 percent buta-diene and 15 percent acrylonitrile and (2) 100 parts of a vinyl chloride polymer, and that the Schaffel et al. patent discloses a composition containing (1) 5 or 10 percent of a plasticizing rubbery copolymer of 60 percent butadiene and 40 percent isopropenyl ketone and (2) 95 or 90 percent of a polyvinyl halide. Since those compositions are included in appellants\u2019 claimed subject matter, the examiner considered the appealed claims unpatentable over Humphrey et al. and Schaffel et al. The board sustained the examiner and found \u201cthe Examiner\u2019s action is without reversible error.\u201d\nA careful analysis of the Humphrey et al. patent shows that the films of the patentees\u2019 invention \u201cmay contain from about W to about 120 parts by weight of butadiene-acrylonitrile-type copolymer, per 100 parts by weight of vinyl chloride resin.\u201d [Emphasis ours.] The patentees further disclose that the butadiene-acrylonitrile copolymer may be any copolymer of a butadiene-type compound, e.g. butadiene, \u201cwith from 10% 55%\u201d [emphasis ours], based on the weight of the copolymer, of an acrylonitrile-type compound, e.g. acrylonitrile. The patented claims state that the rubbery copolymer may be one of from \u201c15% to about 75% acrylonitrile.\u201d [Emphasis ours.]\nThe specification of the Schaffel et al. patent reads:\nIt is therefore desirable that the rubbery plasticizer comprise 40 to 60 per cent of a conjugated diolefin or diolefinic compound, and 60 to Jfi per cent of the compatibility-producing component, such as methylisopropenylketone * * *\n* * * * * * *\nBenefits of the present invention may be obtained with as little as 5 or 10 per cent of the rubbery polymer [a copolymer of butadiene and methyl isopropenyl ketone] in a mixture having 90 to 95 per cent of the polyvinyl resin [polyvinyl chloride]. [Emphasis ours.]\nWe believe that such disclosures of the Humphrey et al. and Schaffel et al. patents would teach compositions encompassed by the claimed subject matter.\nAppellants urge tliat the teachings of the rubbery copolymer shown in the Humphrey et al. patent is limited to that disclosed in the working examples of the patent, i.e. one containing 45 per cent polymerized acrylonitrile. We do not agree with that contention. We believe that to one having ordinary skill in the art the extent of the teaching would be governed by what the patent as a whole discloses.\nAppellants argue that the board and the examiner failed to realize that the invention is directed to the outstanding improvement in impact resistance of a rigid, hard material without appreciably reducing its heat distortion resistance. It is urged, insofar as those features are concerned, that the examiner and the board ignored the criticality of ranges as shown in appellants\u2019 specification and the affidavits on record.\nIn considering this argument we first must note again that compositions covered by appellants\u2019 claims are taught by the Humphrey et al. and Schaffel et al. patents. We also think it clear from the Humphrey et al. and Schaffel et al. patents that a person of ordinary skill in the art would be aware of and expect a variance in the properties of compositions in those patents as a result of the manipulation of (1) the proportions of monomers in the rubbery copolymer and (2) the ratio of the rubbery copolymer and polyvinyl halide.\nThe Humphrey et al. patent states:\nThe properties of these films may be minutely adjusted, for particular applications, by manipulation of a number of variable factors such as the selection and proportions of the butadiene-type and acrylonitrile type compounds, of the selection amongst the several vinyl chloride polymers and copolymers, and the ratio-in which these materials are incorporated in the films. [Emphasis ours.]\nThe Schaffel et al. patent states:\nThe amount of rubbery plasticizer in the vinyl composition may be varied greatly and determines the character of the final product. Small amounts, such as 5 parts or so, of plasticizer in the composition gives a very noticeable plasticizing effect and the rubbery nature of the product is increased as the amount of rubbery plasticizer is increased.\nBoth the Humphrey et al. and Schaffel et al. patents employ their rubbery copolymers as plasticizers. Appellants refer to the rubbery copolymer as \u201cplasticizing high polymer or rubber.\u201d It seems clear from the teaching in those patents that if one skilled in the art wants, a rigid composition of polyvinyl chloride and a plasticizing rubbery copolymer of a diolefinic compound (e.g. butadiene), he would minimize the amounts of rubbery copolymer in the composition, whether the amount of diolefinic compound in the rubbery copolymer be 60 percent as it may be in the Schaffel et al. patent or 85 percent as it may be in the Humphrey et al. patent. The fact that those compositions would also have impact resistance would be an inherent characteristic of the compositions. It is well settled that a patent cannot properly be granted for the discovery of a result which would flow naturally from the teaching of the prior art. See In re Libby, 45 CCPA 944, 255 F. 2d 412, 118 USPQ 94.\nFurthermore, a careful analysis of appellants\u2019 application and affidavits has not convinced us as to any criticality in the specific ranges recited in appellants\u2019 claims.\nClaims 85, 86, 37, 39, 41, 42, 44, 45, 46, 47 and 48 differ primarily from claims 26,27 and 43 in range recitations. We can find nothing in the record to show a criticality of such ranges over the compositions disclosed in the Humphrey et al. and Schaffel et al. patents, and consider the selection of those ranges to be merely an obvious matter of choice. Likewise we find nothing of patentable significance in method claims 28 and 32. Claims 30 and 31 are drawn to an extruded article and an extruded pipe respectively comprising a composition as set forth in claim 27. However, those claims do not set out any definite structural limitations. We do not consider the recitation of an extruded article or pipe to constitute a feature patentably distinguishable over the prior art.\nSince we find claims 26-28, 30-32, 35-37, 39 and 41-48 unpatentable over the Schaffel et al. and Humphrey et al. patents, it is unnecessary to consider the examiner\u2019s rejection of those claims on Patton et al. or his rejection as to the propriety of the definition of the \u201cpurported invention\u201d in those claims.\nFor reasons given above, the decision of the board is affirmed.\nAppellants' in their brief withdrew their appeal as to claims 29, 34 and 40.\nAppellants apparently use PVC to refer to \u201cpolyvinyl chloride compositions.\"\nAs pointed out, claims 49 and 50 were presented by appellants for purposes of interference with the Schwartz et al. patent. When one copies claims from a patent for the purpose of interference there must be no doubt that an applicant must disclose each and every material limitation of the copied claims. See Louis H. Segall v. Marion W. Sims et al., 47 CCPA 886, 276 F. 2d 661, 125 USPQ 394.\nThat fact has not been denied by appellants. To support his position the examiner referred to polymer 1 in Table I of appellants\u2019 specification which shows that a copolymer of 85 percent butadiene and 15 percent acrylonitrile (vinyl cyanide) has approximately 25 carbons per solubilizing group. The examiner pointed out that a composition containing 20 parts of a rubbery copolymer and 100 parts of a vinyl chloride polymer corresponds to a composition having a 16% : 83% rubbery copolymer to vinyl chloride polymer ratio and that that composition is encompassed by appellants\u2019 claim 26. Similarly, the examiner stated that appellants had specifically pointed to the disclosed copolymers of 60 percent butadiene and 40 percent methyl isopropenyl ketone to support the \u201c12.5\u201d in appealed claim 27. The record indicates that \u201c12,5\u201d carbon atoms when connected to mol percent is equal to \u201c27.5 mol percent.\u201d The term \u201c27.5 mol percent\u201d is recited in appellants\u2019 claim 43.\nAside from claims 49 and' 50, the appealed claims specify no degree ofi rigidity, Impact resistance or/and heat distortion resistance for the claimed compositions.\nAppellants In the specification state \u201cThe plasticizing high polymer or rubber Is considered to be made up of a hydrocarbon portion similar to ordinary rubber and solubilizing groups.\u201d [Emphasis ours.J\nClaim 27, for example, specifies a rubbery polymer \u201cbeing characterized by having a chain consisting of carbon to carbon links from which depends one -CN [nitrile] group for each 12.5 to 80 carbon atoms outside of said solubilizing groups of said polymer.\u201d (As to an acrylonitrile-butadiene copolymer, the record shows comparative teat data from which we can draw our own conclusions on only one acrylonitrile-butadiene copolymer having a nitrile content outside of the claimed ranges, i.e., a butadiene-acrylonitrile copolymer containing approximately 10 atoms of carbon per nitrile group in Table II of appellants\u2019 specification. >We do not think this adequate to demonstrate a criticality of the range \u201c12.5 to 30.\u201d",
+        "type": "majority",
+        "author": "Maetin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Theodore A. TeCh'otenhuis, McCoy, Qreene & TeQrotenhuis (Munson M. Lane, of counsel) for appellants.",
+      "Glarenee W. Moore (JaoJc M. Armore, of counsel) for the Commissioner of Patents'."
+    ],
+    "corrections": "",
+    "head_matter": "319 F. 2d 267; 138 USPQ 224\nIn re Anthony J. Urbanic and Francis J. Maurer\n(No. 6935)\nUnited States Court of Customs and Patent Appeals,\nJune 28, 1963\nTheodore A. TeCh'otenhuis, McCoy, Qreene & TeQrotenhuis (Munson M. Lane, of counsel) for appellants.\nGlarenee W. Moore (JaoJc M. Armore, of counsel) for the Commissioner of Patents'.\n[Oral argument February 4, 1963, by Mr. TeGrotenhuis and Mr. Armore]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associated Judges"
+  },
+  "file_name": "1564-01",
+  "first_page_order": 888,
+  "last_page_order": 895
+}

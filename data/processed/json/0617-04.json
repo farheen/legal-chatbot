@@ -1,0 +1,64 @@
+{
+  "id": 12491267,
+  "name": "SUMO v. GARDA WORLD",
+  "name_abbreviation": "Sumo v. Garda World",
+  "decision_date": "2017-10-20",
+  "docket_number": "Pet. Docket No. 254, Sept. Term, 2017",
+  "first_page": "617",
+  "last_page": "617",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 617"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 146,
+    "sha256": "d981fde7b60d0b52f1b8da99a989eb0c4deb9018d145d60ff27fc8a4bdae9dfb",
+    "simhash": "1:36d612395c5dc399",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:26.959830+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUMO\nv.\nGARDA WORLD"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "SUMO\nv.\nGARDA WORLD\nPet. Docket No. 254, Sept. Term, 2017\nCourt of Appeals of Maryland.\nOctober 20, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0617-04",
+  "first_page_order": 617,
+  "last_page_order": 617
+}

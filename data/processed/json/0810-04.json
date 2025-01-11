@@ -1,0 +1,64 @@
+{
+  "id": 12489423,
+  "name": "BOLDING v. KOZAY",
+  "name_abbreviation": "Bolding v. Kozay",
+  "decision_date": "2017-04-21",
+  "docket_number": "Pet. Docket No. 616, Sept. Term, 2016",
+  "first_page": "810",
+  "last_page": "810",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 810"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "75f8631c2f0856613240eba46acf7c8d555b7ebf8dbb776fe04f02f8e7bb49ac",
+    "simhash": "1:84ee401cd17b0011",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BOLDING\nv.\nKOZAY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BOLDING\nv.\nKOZAY\nPet. Docket No. 616, Sept. Term, 2016\nCourt of Appeals of Maryland.\nApril 21, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0810-04",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

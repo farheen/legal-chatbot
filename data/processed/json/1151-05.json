@@ -1,0 +1,58 @@
+{
+  "id": 12488515,
+  "name": "Com. v. Gray, M.",
+  "name_abbreviation": "Com v. Gray",
+  "decision_date": "2016-05-18",
+  "docket_number": "2379 EDA 2015",
+  "first_page": "1151",
+  "last_page": "1151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "cd6033c95fc317aeb602b07336149cc1f8e5c550d41effcae89939965a77e793",
+    "simhash": "1:341924b18eab17b5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGray, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGray, M.\n2379 EDA 2015\nSuperior Court of Pennsylvania.\nMay 18, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1151-05",
+  "first_page_order": 1151,
+  "last_page_order": 1151
+}

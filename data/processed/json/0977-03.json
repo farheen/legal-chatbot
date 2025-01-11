@@ -1,0 +1,62 @@
+{
+  "id": 12502129,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Liz VELEZ, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Velez",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-184 September Term 2018; 081308",
+  "first_page": "977",
+  "last_page": "977",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 977"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 363,
+    "sha256": "e8ea02f08474aa68631cf1177bd941f4f4d513b24c354c08b7a173c251cc8a92",
+    "simhash": "1:34ee29e1701adf2a",
+    "word_count": 55
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nLiz VELEZ, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-001327-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nLiz VELEZ, Defendant-Petitioner.\nC-184 September Term 2018\n081308\nSupreme Court of New Jersey.\nOctober 5, 2018\nORDER"
+  },
+  "file_name": "0977-03",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487456,
+  "name": "Com. v. A. Kreider",
+  "name_abbreviation": "Com. v. Kreider",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 1270 MDA 2014",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 787"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "1f061d538fd1b01cf14c4b3c0bc67d79d514e357ae339b4b6c098d2cc778cfe6",
+    "simhash": "1:110702ed433b3e00",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Kreider"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Kreider\nNO. 1270 MDA 2014\nSuperior Court of Pennsylvania.\nApril 20, 2016\nRemanded."
+  },
+  "file_name": "0787-05",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

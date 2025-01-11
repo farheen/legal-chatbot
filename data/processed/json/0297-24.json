@@ -1,0 +1,62 @@
+{
+  "id": 12485548,
+  "name": "State v. Mario Crispin (a/k/a Jose Alvarado)",
+  "name_abbreviation": "State v. Crispin",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-898 SEPT. TERM 2015, 077382",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "76ab592516262f67c345c3b97cc2a1b3ea38da2073fe9381a7fb0bfb7754a148",
+    "simhash": "1:b0fd236b1b0a0802",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nMario Crispin (a/k/a Jose Alvarado)"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nMario Crispin (a/k/a Jose Alvarado)\nNOS. C-898 SEPT. TERM 2015, 077382\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-24",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

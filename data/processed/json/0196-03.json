@@ -1,0 +1,58 @@
+{
+  "id": 12486548,
+  "name": "Com. v. A. Holman",
+  "name_abbreviation": "Com. v. Holman",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 330 EDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "aad9c46195726224b4e9771a8d4231f37c1e6590fb51863f2a4ee3ca647870f5",
+    "simhash": "1:b38966f4818918c0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Holman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Holman\nNO. 330 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nAffirmed."
+  },
+  "file_name": "0196-03",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

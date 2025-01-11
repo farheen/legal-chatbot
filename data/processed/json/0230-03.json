@@ -1,0 +1,59 @@
+{
+  "id": 8205848,
+  "name": "John BOYCE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent",
+  "name_abbreviation": "Boyce v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2008-09-24",
+  "docket_number": "No. 80 EM 2008",
+  "first_page": "230",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "957 A.2d 230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 318,
+    "ocr_confidence": 0.602,
+    "sha256": "aeaa60c6475a440b947cc3dbe958a7cafab02c55972aedf3b4f43246272b3890",
+    "simhash": "1:4d3d823683d30e7b",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T22:36:50.088456+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BOYCE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 24th day of September, 2008, the Application for Leave to File Original Process is GRANTED, and the Petition for Writ of Mandamus is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John BOYCE, Petitioner v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent.\nNo. 80 EM 2008.\nSupreme Court of Pennsylvania.\nSept. 24, 2008."
+  },
+  "file_name": "0230-03",
+  "first_page_order": 270,
+  "last_page_order": 270
+}

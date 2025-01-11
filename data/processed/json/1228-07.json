@@ -1,0 +1,59 @@
+{
+  "id": 6083165,
+  "name": "Briney v. Fisher",
+  "name_abbreviation": "Briney v. Fisher",
+  "decision_date": "1933-05-03",
+  "docket_number": "No. 3140",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 58,
+    "ocr_confidence": 0.525,
+    "sha256": "280b74192a11c8706894e80ef9e533a3e9c51690b0c934350a77529f03500c5c",
+    "simhash": "1:fad3701e65666342",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Briney v. Fisher"
+    ],
+    "opinions": [
+      {
+        "text": "Locking means.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 3, 1933\nBriney v. Fisher\n(No. 3140). \u2014"
+  },
+  "file_name": "1228-07",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

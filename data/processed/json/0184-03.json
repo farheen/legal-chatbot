@@ -1,0 +1,58 @@
+{
+  "id": 12486371,
+  "name": "Com. v. J. Petty",
+  "name_abbreviation": "Com. v. Petty",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 793 EDA 2015",
+  "first_page": "184",
+  "last_page": "184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "41eecaf7c8713ec3e8ce8d830f555477bc14a08dc163fd409fb5a94f650891a5",
+    "simhash": "1:3d1e42469088168c",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Petty"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Petty\nNO. 793 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed.\n2 Petition for reargument denied May 4, 2016.\n--------"
+  },
+  "file_name": "0184-03",
+  "first_page_order": 184,
+  "last_page_order": 184
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6093168,
+  "name": "In re Hans-Bodo K\u00f6nig",
+  "name_abbreviation": "In re Hans-Bodo K\u00f6nig",
+  "decision_date": "1968-07-17",
+  "docket_number": "No. 8128",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 130,
+    "ocr_confidence": 0.506,
+    "sha256": "f0724b44171b499d868fae2c5b13bc0a0f302f17a3642138b275962cae26b3fe",
+    "simhash": "1:e602a14022fa9547",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Hans-Bodo K\u00f6nig"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Process for the production of water-soluble salts of alpha-aminoben-zylpenicilin.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "July 17, 1968\nNo. 8128.\nIn re Hans-Bodo K\u00f6nig"
+  },
+  "file_name": "1515-02",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

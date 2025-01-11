@@ -1,0 +1,92 @@
+{
+  "id": 8335957,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. James WILSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Wilson",
+  "decision_date": "2007-01-09",
+  "docket_number": "",
+  "first_page": "869",
+  "last_page": "870",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "914 A.2d 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "736 A.2d 564",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        838560,
+        11575941
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01",
+        "/a2d/736/0564-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 214",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838560
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0214-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 441,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20262976721808879
+    },
+    "sha256": "8518c120e3165b6236366b188355e4cafb3f40825005fd80a9823f224c833cdf",
+    "simhash": "1:150b2e9080ab0cbe",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T23:31:07.210297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. James WILSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of January, 2007, the Petition for Alowance of Appeal is GRANTED. The Order of the Superior Court is VACATED and the matter is REMANDED to the PCRA court for reinstatement of Petitioner\u2019s direct appeal rights nunc pro tunc. See Commonwealth v. Lantzy, 558 Pa. 214, 736 A.2d 564 (1999).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. James WILSON, Petitioner.\nSupreme Court of Pennsylvania.\nJan. 9, 2007."
+  },
+  "file_name": "0869-02",
+  "first_page_order": 895,
+  "last_page_order": 896
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1279879,
+  "name": "Gulf Power Company, a Corporation, Plaintiff in Error, v. Illinois-Florida Land Company, a Corporation, Gulf Securities Company, Inc., a Corporation, and E. H. Robertson, Doing Business as E. H. Robertson & Company, Defendants in Error",
+  "name_abbreviation": "Gulf Power Co. v. Illinois-Florida Land Co.",
+  "decision_date": "1931-01-05",
+  "docket_number": "",
+  "first_page": "1594",
+  "last_page": "1595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1594"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "96 Fla. 389",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1248804
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/96/0389-01"
+      ]
+    },
+    {
+      "cite": "95 Fla. 754",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1265569
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/95/0754-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 105,
+    "char_count": 1193,
+    "ocr_confidence": 0.518,
+    "pagerank": {
+      "raw": 1.3608438240779088e-07,
+      "percentile": 0.6361162368925756
+    },
+    "sha256": "364e62deb980a49144e3990f473abd877ad138c0e1ea362156c3f2b53d18c9d1",
+    "simhash": "1:4efae51d071786c9",
+    "word_count": 201
+  },
+  "last_updated": "2024-02-27T19:39:14.952203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Ellis and Brown, J. J., concur.",
+      "Whitfield, P.. J., and Strum and Buford, J. J., concur in the opinion and judgment."
+    ],
+    "parties": [
+      "Gulf Power Company, a Corporation, Plaintiff in Error, v. Illinois-Florida Land Company, a Corporation, Gulf Securities Company, Inc., a Corporation, and E. H. Robertson, Doing Business as E. H. Robertson & Company, Defendants in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Terrell, C. J.\nIn this cause, defendants in error have filed a confession of errors and consent that the judgment below be reversed. Plaintiff in error has endorsed the confession of errors and consents that the judgment be reversed.\nIn this view of the case, our conclusion is to reverse the judgment of the court below upon the \"confession of errors\u201d without expressing any opinion as to the extent of the error.- The Judgment of the court below is therefore reversed and the cause remanded for such proceedings as are consistent with the law and rules of practice governing such causes. Clark v. Caldwell, 95 Fla. 754, 116 So. R. 632, Cameron v. Parker, 96 Fla. 389, 118 So. R. 423.\nOrdered and decreed accordingly.\nEllis and Brown, J. J., concur.\nWhitfield, P.. J., and Strum and Buford, J. J., concur in the opinion and judgment.",
+        "type": "majority",
+        "author": "Terrell, C. J."
+      }
+    ],
+    "attorneys": [
+      "Carter & Yonge, for Plaintiff in Error;",
+      "T. B. J ames, for Defendant in Error."
+    ],
+    "corrections": "",
+    "head_matter": "Gulf Power Company, a Corporation, Plaintiff in Error, v. Illinois-Florida Land Company, a Corporation, Gulf Securities Company, Inc., a Corporation, and E. H. Robertson, Doing Business as E. H. Robertson & Company, Defendants in Error.\nDivision A.\nOpinion filed January 5, 1931.\nCarter & Yonge, for Plaintiff in Error;\nT. B. J ames, for Defendant in Error."
+  },
+  "file_name": "1594-01",
+  "first_page_order": 590,
+  "last_page_order": 591
+}

@@ -1,0 +1,64 @@
+{
+  "id": 7950224,
+  "name": "STATE v. John J. HUGHES III",
+  "name_abbreviation": "State v. Hughes",
+  "decision_date": "1983-09-28",
+  "docket_number": "No. 83-462-M.P.",
+  "first_page": "220",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "465 A.2d 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 313,
+    "ocr_confidence": 0.803,
+    "sha256": "34994e40e70f95ef51799b5ccbdbacee09f32bcd1dc3ba05cfbc953f881a1234",
+    "simhash": "1:34ec277cced4688f",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T21:42:31.037903+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. John J. HUGHES III."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.\nMURRAY, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John F. Sheehan, Providence, for petitioner.",
+      "Dennis J. Roberts II, Atty. Gen., Joel S. Chase, Sp. Asst. Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. John J. HUGHES III.\nNo. 83-462-M.P.\nSupreme Court of Rhode Island.\nSept. 28, 1983.\nJohn F. Sheehan, Providence, for petitioner.\nDennis J. Roberts II, Atty. Gen., Joel S. Chase, Sp. Asst. Atty. Gen., for respondent."
+  },
+  "file_name": "0220-03",
+  "first_page_order": 268,
+  "last_page_order": 268
+}

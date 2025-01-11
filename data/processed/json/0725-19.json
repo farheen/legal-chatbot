@@ -1,0 +1,58 @@
+{
+  "id": 12487114,
+  "name": "Commonwealth v. Emilio Nieves, Jr.",
+  "name_abbreviation": "Commonwealth v. Nieves",
+  "decision_date": "2016-08-10",
+  "docket_number": "NO. 623 MAL (2015)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 142,
+    "sha256": "b61d912b1eb306f89d363cf44efee499381acba3af674b5112731785bb02d6c1",
+    "simhash": "1:768d13bfb00cca89",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nEmilio Nieves, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nEmilio Nieves, Jr.\nNO. 623 MAL (2015)\nSupreme Court of Pennsylvania\nAugust 10, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0725-19",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

@@ -1,0 +1,829 @@
+{
+  "id": 8347117,
+  "name": "John DOE v. DISTRICT ATTORNEY et al.",
+  "name_abbreviation": "Doe v. District Attorney",
+  "decision_date": "2007-09-25",
+  "docket_number": "",
+  "first_page": "552",
+  "last_page": "570",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "932 A.2d 552"
+    },
+    {
+      "type": "parallel",
+      "cite": "2007 ME 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "405 F.3d 700",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9011687
+      ],
+      "pin_cites": [
+        {
+          "page": "706, 723"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/405/0700-01"
+      ]
+    },
+    {
+      "cite": "259 F.3d 979",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9500715
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "983"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/259/0979-01"
+      ]
+    },
+    {
+      "cite": "538 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9030411
+      ],
+      "weight": 31,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "89-90"
+        },
+        {
+          "page": "92"
+        },
+        {
+          "page": "94-95"
+        },
+        {
+          "page": "92, 96"
+        },
+        {
+          "page": "97"
+        },
+        {
+          "page": "105"
+        },
+        {
+          "page": "100"
+        },
+        {
+          "page": "101"
+        },
+        {
+          "page": "101"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "99"
+        },
+        {
+          "page": "102"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/538/0084-01"
+      ]
+    },
+    {
+      "cite": "518 U.S. 267",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1730053
+      ],
+      "weight": 3,
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0267-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765344
+      ],
+      "weight": 6,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "168-69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0144-01"
+      ]
+    },
+    {
+      "cite": "522 U.S. 93",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11470872
+      ],
+      "weight": 3,
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/522/0093-01"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 648",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11738091
+      ],
+      "year": 1798,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/3/0386-01"
+      ]
+    },
+    {
+      "cite": "2000 ME 137",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11217776
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "\u00b6 7"
+        },
+        {
+          "page": "1066"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/755/1064-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 124",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11087296
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "365"
+        },
+        {
+          "parenthetical": "quotation marks omitted"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "365"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/775/0363-01"
+      ]
+    },
+    {
+      "cite": "2006 ME 35",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        8432202
+      ],
+      "weight": 4,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "\u00b6 14",
+          "parenthetical": "codified at 34-A M.R.S. \u00a7 11202 (2006)"
+        },
+        {
+          "page": "492",
+          "parenthetical": "codified at 34-A M.R.S. \u00a7 11202 (2006)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/894/0489-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 154",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9459795
+      ],
+      "weight": 30,
+      "pin_cites": [
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "13"
+        },
+        {
+          "page": "8"
+        },
+        {
+          "page": "7"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "8"
+        },
+        {
+          "page": "\u00b6\u00b6 8-22"
+        },
+        {
+          "page": "8-16"
+        },
+        {
+          "page": "\u00b6\u00b6 10-11"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "\u00b6\u00b6 13-22"
+        },
+        {
+          "page": "10-16"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "11"
+        },
+        {
+          "page": "\u00b6 11"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "11"
+        },
+        {
+          "page": "\u00b6 21"
+        },
+        {
+          "page": "13"
+        },
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/784/0004-01"
+      ]
+    },
+    {
+      "cite": "140 L.Ed.2d 105",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "118 S.Ct. 1039",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1998,
+      "opinion_index": 1
+    },
+    {
+      "cite": "522 U.S. 1109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11615488,
+        11615393,
+        11615174,
+        11615213,
+        11615662,
+        11615278,
+        11615245,
+        11615313,
+        11615601,
+        11615444,
+        11615544,
+        11615355,
+        11615197
+      ],
+      "year": 1998,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/522/1109-10",
+        "/us/522/1109-08",
+        "/us/522/1109-01",
+        "/us/522/1109-03",
+        "/us/522/1109-13",
+        "/us/522/1109-05",
+        "/us/522/1109-04",
+        "/us/522/1109-06",
+        "/us/522/1109-12",
+        "/us/522/1109-09",
+        "/us/522/1109-11",
+        "/us/522/1109-07",
+        "/us/522/1109-02"
+      ]
+    },
+    {
+      "cite": "119 F.3d 1077",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        199860
+      ],
+      "pin_cites": [
+        {
+          "page": "1104"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/119/1077-01"
+      ]
+    },
+    {
+      "cite": "117 Harv. L. Rev. 226",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "335"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "142 N.J. 1",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        373699
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "Stein, J., dissenting"
+        },
+        {
+          "page": "441",
+          "parenthetical": "Stein, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nj/142/0001-01"
+      ]
+    },
+    {
+      "cite": "33 St. Mary's L.J. 101",
+      "category": "journals:journal",
+      "reporter": "St. Mary's L.J.",
+      "weight": 2,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "124-26",
+          "parenthetical": "noting analogy between shaming punishments and sex offender registry and notification provisions"
+        },
+        {
+          "page": "124-25"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "2000 ME 165",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11232663
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 9"
+        },
+        {
+          "page": "723-24"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/759/0721-01"
+      ]
+    },
+    {
+      "cite": "96 S.Ct. 1165",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 1
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6161306
+      ],
+      "weight": 3,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "111",
+          "parenthetical": "Brennan, J., concurring"
+        },
+        {
+          "parenthetical": "Brennan, J., concurring"
+        },
+        {
+          "parenthetical": "Brennan, J., concurring"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/356/0086-01"
+      ]
+    },
+    {
+      "cite": "739 N.E.2d 433",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "440"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "250 Ill.Dec. 670",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "year": 2000,
+      "opinion_index": 1
+    },
+    {
+      "cite": "193 Ill.2d 413",
+      "category": "reporters:state",
+      "reporter": "Ill. 2d",
+      "case_ids": [
+        963706
+      ],
+      "year": 2000,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill-2d/193/0413-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 435",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605295
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "448"
+        },
+        {
+          "page": "448"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/490/0435-01"
+      ]
+    },
+    {
+      "cite": "487 A.2d 1175",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7920673
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1177"
+        },
+        {
+          "page": "1176"
+        },
+        {
+          "page": "1177-79"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/487/1175-01"
+      ]
+    },
+    {
+      "cite": "603 A.2d 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939691
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/603/0861-01"
+      ]
+    },
+    {
+      "cite": "685 A.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7349874
+      ],
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/685/0423-01"
+      ]
+    },
+    {
+      "cite": "539 U.S. 607",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8898590
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "611",
+          "parenthetical": "emphasis in the original"
+        },
+        {
+          "parenthetical": "emphasis in the original"
+        },
+        {
+          "parenthetical": "emphasis in the original"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/539/0607-01"
+      ]
+    },
+    {
+      "cite": "538 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9030411
+      ],
+      "weight": 12,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "115-16",
+          "parenthetical": "Ginsburg, J., dissenting"
+        },
+        {
+          "parenthetical": "Ginsburg, J., dissenting"
+        },
+        {
+          "parenthetical": "Ginsburg, J., dissenting"
+        },
+        {
+          "parenthetical": "No. 01-729"
+        },
+        {
+          "parenthetical": "No. 01-729"
+        },
+        {
+          "parenthetical": "No. 01-729"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/538/0084-01"
+      ]
+    },
+    {
+      "cite": "522 U.S. 93",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11470872
+      ],
+      "weight": 5,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "99"
+        },
+        {
+          "page": "99-100"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/522/0093-01"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 648",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11738091
+      ],
+      "year": 1798,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/3/0386-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 154",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        9459795
+      ],
+      "weight": 15,
+      "pin_cites": [
+        {
+          "page": "8"
+        },
+        {
+          "page": "8-16"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "\u00b6 18"
+        },
+        {
+          "page": "12"
+        },
+        {
+          "page": "12"
+        },
+        {
+          "page": "\u00b6\u00b6 18-19"
+        },
+        {
+          "page": "12"
+        },
+        {
+          "page": "\u00b6 8"
+        },
+        {
+          "page": "8"
+        },
+        {
+          "page": "8"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/784/0004-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1942,
+    "char_count": 61817,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 9.801699267565528e-08,
+      "percentile": 0.5328285548694152
+    },
+    "sha256": "116a8dff74ce8e782a7e281a54d36686d1a69e486b19f629813fe40464290078",
+    "simhash": "1:2d33128a7087a786",
+    "word_count": 10132
+  },
+  "last_updated": "2024-02-27T21:22:46.907809+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, SILVER, and MEAD, JJ.",
+      "Majority: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, SILVER, and MEAD, JJ.",
+      "Concurrence: ALEXANDER, and SILVER, JJ."
+    ],
+    "parties": [
+      "John DOE v. DISTRICT ATTORNEY et al."
+    ],
+    "opinions": [
+      {
+        "text": "CALKINS, J.\n[\u00b6 1] John Doe appeals from a judgment entered in the Superior Court (Kennebec County, Studstrup, J.) granting Evert Fowle, Craig Poulin, and Everett Flan-nery\u2019s motions to dismiss, and dismissing Doe\u2019s complaint for failure to state a claim upon which relief can be granted. Doe argues that the court erred in dismissing his claims that the Sex Offender Registration and Notification Act of 1999 (SOR-NA), 34-A M.R.S. \u00a7\u00a7 11201-11256 (2006), violates his rights to procedural and substantive due process, equal protection, and a civil jury trial pursuant to the United States and Maine Constitutions. We conclude that further factual development is necessary, and we remand for further proceedings.\nI. FACTS AND PROCEDURE\n[\u00b6 2] The amended complaint alleges that Doe, a Maine resident, was convicted and sentenced after 1982 and before 1986 for a sex offense he committed when he was nineteen years old on a family member, and to which he pleaded guilty. He was sentenced to less than seventy days of incarceration. He had previously been convicted of public indecency when he was eighteen years old.\n[\u00b6 3] Doe\u2019s amended complaint states that since the sex offense conviction, he has had no arrests or convictions for sexual offenses, and he has not abused drugs or alcohol. He is gainfully employed and has worked almost continuously for over twenty years. He married his current wife in 1988, and she has three children from a previous marriage. His wife told him that she will have to leave him if his name goes on the sex offender registry. He also states that he has reason to believe that he will lose his job if his name is placed on the registry and his neighbors will attempt to get him to leave the neighborhood. He is in fear of violence to his person.\n[\u00b6 4] Doe further alleges that he received a letter dated April 5, 2006, notifying him of his obligation to register under SORNA. When Doe made further inquiry by calling the telephone number in the letter, he was told that he had to register for his lifetime.\n[\u00b6 5] Shortly after receiving the April 5 letter, Doe filed a complaint against Evert Fowle, in his capacity as District Attorney, and Craig Poulin, in his capacity as Chief of the Maine State Police. Everett Flan-nery, in his capacity as Kennebec County Sheriff, was later added as a defendant. Doe alleges that the retroactive provisions of SORNA, 34-A M.R.S. \u00a7 11222, render the statute unconstitutional pursuant to the United States and Maine Constitutions. Specifically, Doe alleges violations of (1) procedural due process because he was not informed of the registration requirements when he entered his guilty plea; (2) procedural due process because SORNA is unconstitutionally vague; (3) substantive due process because Doe\u2019s right to privacy is violated and the violation of his privacy right is not rationally related to. a legitimate government interest; (4) equal protection because classifying lifetime registrants differently from ten-year registrants creates an unfair clas-sifieation; and (5) the right to a jury trial because both the registry classification and the risk assessment require findings of fact that must be found by a jury.\n[\u00b66] Doe filed a motion for a temporary restraining order and a supporting affidavit to prohibit the defendants from arresting or prosecuting him for failing to register pursuant to SORNA, or from publishing his name while he pursued his complaint. In his affidavit Doe repeats many of the allegations in his complaint. Additionally, he states that he is a stepfather to his wife\u2019s three children and a step-grandfather to seven children. He states that he has reason to believe that two men whose names were on the sex offender registry were murdered by a stranger who had searched the registry immediately before committing the murders. After reading about the murders, Doe\u2019s terrified wife told Doe that if his name went on the registry she would have to leave him to protect her family. In his affidavit Doe also lists his other convictions consisting of forgery and several counts of negotiating a worthless instrument, all before 1989, and furnishing liquor to a minor before 1998.\n[\u00b6 7] The court denied the temporary restraining order, finding that Doe failed to show a likelihood of success on the merits. Thereafter, Fowle, Poulin, and Flannery filed motions to dismiss pursuant to M.R. Civ. P. 12(b)(6). Prior to the argument on the motions, Doe registered as a sex offender.\n[\u00b68] The court entered a judgment granting the motions to dismiss and dismissing Doe\u2019s complaint for failure to state a claim upon which relief may be granted. With regard to Doe\u2019s procedural due process claim that he had not been informed about SORNA when he pleaded guilty, the court treated it as an ex post facto claim and ruled that State v. Haskell, 2001 ME 154, 784 A.2d 4 (holding that SORNA is not an ex post facto law), controlled. Further, the court determined that because the registration requirement is a collateral consequence of conviction as a sex offender, due process protections do not come into play. Regarding Doe\u2019s claim that SORNA is void for vagueness, the court found that SORNA is clear that the duty to register is triggered by a sex offense conviction and the type of registration clearly depends on the statutory classification of the offense. As to the substantive due process claim, the court held that because criminal convictions are already public information, adding other identifying Information does not breach any fundamental privacy right, or if it does, it is in furtherance of protecting public welfare.\n[\u00b6 9] The court concluded that there is no equal protection violation because there is a rational relationship between the creation of two classes of offenders \u2014 ten-year and lifetime \u2014 based on the seriousness of the offense and the legislative goal of protecting the public. Concerning Doe\u2019s claim that SORNA deprives him of his right to a jury trial, the court held that there is no fact for a jury to find because the classification of the registration, that is, a ten-year registration or a lifetime registration, is based solely on the particular statute pursuant to which the person is convicted.\nII. SORNA\n[\u00b6 10] Maine\u2019s first version of a sex offender registration requirement became effective in 1992. P.L.1991, ch. 809, \u00a7 1 (effective June 30, 1992) (codified at 34-A M.R.S.A. \u00a7\u00a7 11001-11004 (Supp.1992)). It provided that persons convicted of gross sexual assault when the victim was under age sixteen were to be informed at the time of sentencing, or upon discharge of the sentence, of the duty to register as a sex offender. 34-A M.R.S.A. \u00a7\u00a7 11002(2), 11003(1), (2) (Supp.1992).\n[\u00b6 11] The predecessor of the current SORNA was enacted in 1995, effective in 1996. P.L.1995, ch. 680, \u00a7 13 (effective July 4, 1996) (codified at 34-A M.R.S.A. \u00a7\u00a7 11101-11144 (Supp.1996)). Title 17-A M.R.S.A. \u00a7 1152(2-C) was also enacted to provide that, as part of the sentence, the court must order convicted sex offenders to satisfy all requirements of SORNA. P.L.1995, ch. 680, \u00a7 4 (effective July 4, 1996) (codified at 17-A M.R.S.A. \u00a7 1152(2-C) (Supp.1996)). The current SORNA was enacted in 1999. P.L.1999, ch. 437, \u00a7 2 (effective Sept. 18, 1999) (codified at 34-A M.R.S.A. \u00a7\u00a7 11201-11252 (Supp.1999)).\n[\u00b6 12] The 1999 version of SORNA, known as the \u201cSex Offender Registration and Notification Act of 1999,\u201d applied to a person sentenced as a sex offender or sexually violent predator, as defined in the statute, on or after September 18, 1999. 34-A M.R.S.A. \u00a7\u00a7 11201, 11202 (Supp. 1999). The number of sex offenses that trigger the registration requirement was substantially increased in the 1999 SOR-NA. See 34-A M.R.S.A. \u00a7 11203(6), (7) (Supp.1999). The 1999 SORNA required the court to make certain factual findings at the time of conviction that would require the person to register, see 34-A M.R.S.A. \u00a7 11222(1), and the court was required to impose registration as part of sentencing, 17-A M.R.S.A. \u00a7 1152(2-C) (Supp.1999).\n[\u00b6 13] Several of the provisions of the earlier SORNA remained in place alongside the 1999 SORNA. One of these was the waiver provision that allowed the sentencing court to waive the registration requirement \u201cfor good cause shown.\u201d 34-A M.R.S.A. \u00a7 11121(6)(D) (Supp.1999). The Superior Court was also authorized to grant a waiver of the registration requirement upon a petition by the sex offender made after five years upon a showing of \u201ca reasonable likelihood that registration is no longer necessary and waiver ... is appropriate.\u201d 34-A M.R.S.A. \u00a7 11121(6)(C) (Supp.1999). The waiver provisions were repealed in 2001. P.L. 2001, ch. 439, \u00a7 000-5 (effective Sept. 21, 2001).\n[\u00b6 14] In 2001, the Legislature amended SORNA to apply retroactively to sex offenders sentenced on or after June 30, 1992. See P.L.2001, ch. 439, \u00a7 000-7 (effective Sept. 21, 2001) (codified at 34-A M.R.S.A. \u00a7 11202 (Supp.2001)). In 2003, a change in the law called for the registration requirement to be imposed \u201c[a]t the time\u201d of the criminal sentencing rather than \u201c[a]s part of\u2019 the sentence. P.L.2003, ch. 711, \u00a7 B-13 (effective July 30, 2004) (codified at 17-A M.R.S. \u00a7 1152(2-C) (2006)). See State v. Johnson, 2006 ME 35, \u00b6 14, 894 A.2d 489, 492. The Legislature amended SORNA in 2005 to apply retroactively to all sex offenders sentenced as of January 1, 1982. P.L.2005, ch. 423, \u00a7 1 (effective Sept. 17, 2005) (codified at 34-A M.R.S. \u00a7 11202 (2006)).\n[.\u00b6 15] The 1999 SORNA, as originally enacted, classified offenders as \u201csex offenders\u201d and \u201csexually violent predators.\u201d 34-A M.R.S.A. \u00a7 11203(5), (8) (Supp.1999). The present version of SORNA classifies sex offenders as \u201cten-year registrants\u201d and \u201clifetime registrants.\u201d 34-A M.R.S. \u00a7 11203(4-C), (5), (8). Ten-year registrants are people who have been convicted of a single sex offense, contained in a list of sex offenses that are not considered sexually violent offenses. Id. \u00a7 11203(5), (6). Lifetime registrants are people who have been convicted of a sexually violent offense or who have been convicted of a second sex offense. Id. \u00a7 11203(7), (8).\n[\u00b6 16] SORNA requires the institution that has custody of the registrant, or the court, to obtain the necessary registration information and then transfer the information to the State Bureau of Identification (Bureau). 34-A M.R.S. \u00a7 11222(2), (3). Registrants must also notify the law enforcement agencies in the locations where the registrant \u201cis domiciled, resides, works or attends school.\u201d 34-A M.R.S. \u00a7 11222(1-B). Failure to register as a sex offender is a Class D crime for a first offense, a Class C crime for a second offense, and a Class B crime for a third and subsequent offense. 34-A M.R.S. \u00a7 11227(l)-(3).\n[\u00b6 17] A verification process is mandated every ninety days for lifetime registrants. 34-A M.R.S. \u00a7 11222(4). The process requires the registrant to complete a verification form sent by the Bureau and to \u201ctake the completed verification form and a photograph of the registrant to the law enforcement agency having jurisdiction within 5 days of receipt of the form.\u201d 34-A M.R.S. \u00a7 11222(4)(C). At that time, the law enforcement agency, in addition to verifying the registrant\u2019s identity, takes the registrant\u2019s fingerprints. 34-A M.R.S. \u00a7 11222(4)(D). Whenever a registrant changes \u201cresidence, domicile, place of employment or college or school,\u201d the registrant must notify the law enforcement agency in the new location. 34-A M.R.S. \u00a7 11222(5).\n[\u00b6 18] The Court in Haskell noted that the Information from the sex offender registry was \u201cnot widely disseminated.\u201d Haskell, 2001 ME 154, \u00b6 21, 784 A.2d at 13. The information was given to \u201ccertain State agencies and to members of the public \u2018who the department determines appropriate to ensure public safety.\u2019 \u201d Id. (quoting 34-A M.R.S.A. \u00a7\u00a7 11142, 11143 (Supp. 2000)). As of the 2003 amendments, SOR-NA requires the Bureau to provide information about a registrant upon receiving a written request from any member of the public, including:\n(1) The registrant\u2019s name, aliases, date of birth, sex, race, height, weight, eye color, mailing address and physical location of domicile and residence;\n(2) The registrant\u2019s place of employment and college or school being attended, if applicable, and the corresponding address and location;\n(3) A description of the offense for which the registrant was convicted, the date of conviction and the sentence imposed; and\n(4) The registrant\u2019s photograph.\nP.L.2003, ch. 371, \u00a7 7 (effective Sept. 13, 2003), as amended by P.L.2003, ch. 711, \u00a7 C-20 and P.L.2005, ch. 423, \u00a7 12 (codified at 34-A M.R.S. \u00a7 11221(9)(B) (2006)). The Bureau is required to post much of this same information on the internet. See P.L.2003, ch. 371, \u00a7 7, as subsequently amended (codified at 34-A M.R.S. \u00a7 11221(9)(A)). In addition, law enforcement agencies are permitted to post the same information about registrants who live, work, or attend school within the law enforcement agency\u2019s jurisdiction. 84-A M.R.S. \u00a7 11221(12)(C).\n[\u00b6 19] An amendment to the Criminal Code, effective in 2007, provides that a registrant who has been convicted of a sex offense against a person under the age of fourteen commits a crime by intentionally or knowingly having direct or indirect contact with a child under age fourteen. P.L. 2007, ch. 393, \u00a7 1 (effective Sept. 20, 2007) (codified at 17-A M.R.S. \u00a7 261(D). The 2007 amendment had not been enacted at the time Doe filed his complaint or the Superior Court dismissed his action.\nIII. STANDARD OF REVIEW\n[\u00b6 20] \u201cThe legal sufficiency of a complaint challenged by a motion to dismiss is a question of law subject to de novo review by this Court.\u201d Persson v. Dep\u2019t of Human Servs., 2001 ME 124, \u00b6 8, 775 A.2d 363, 365 (quotation marks omitted). A trial court\u2019s dismissal is reviewed by \u201cexamining the complaint in the light most favorable to the plaintiff and accepting the material facts of the complaint as true.\u201d Id. (quotation marks omitted). We determine whether the complaint \u201csets forth elements of a cause of action or alleges facts that would entitle the plaintiff to relief pursuant to some legal theory.\u201d Heber v. Lucerne-in-Maine Vill. Corp., 2000 ME 137, \u00b6 7, 755 A.2d 1064, 1066 (quotation marks omitted). \u201cA dismissal is proper only when it appears beyond doubt that a plaintiff is entitled to no relief under any set of facts that he might prove in support of his claim.\u201d Id. (quotation marks omitted).\nIV. EX POST FACTO\n[\u00b6 21] Doe claims that because SORNA did not exist at the time he entered his guilty plea, the imposition of the subsequent registration requirement violates his procedural due process rights. The trial court stated that an ex post facto challenge is the \u201cusual vehicle for addressing this type of problem.\u201d Because the court interpreted Doe\u2019s procedural due process claim as incorporating an ex post facto claim, we -will likewise determine whether Doe has alleged an ex post facto claim that survives a Rule 12(b)(6) motion.\nA. State v. Haskell\n[\u00b6 22] The Superior Court held that our decision in State v. Haskell forecloses the ex post facto issue. See Haskell, 2001 ME 154, 784 A.2d 4. In Haskell, we addressed whether the retroactive application of the 1999 SORNA to a crime committed before its enactment violates the Ex Post Facto Clauses of the United States and Maine Constitutions. Id. \u00b6 6, 784 A.2d at 8. Has-kell committed the crime a month before the 1999 SORNA became effective. Id. At the time he committed the crime, it was not a sex offense included within SORNA. Id. \u00b6 5, 784 A2d at 7. However, as part of Haskell\u2019s sentence, the trial court imposed the requirements of SORNA on him. Id. \u00b6 2, 784 A.2d at 6. He appealed and contended that applying SORNA to him \u201cconstitutes an ex post facto application of a penal statute.\u201d Id. \u00b6 6, 784 A.2d at 8.\n[1123] Because only criminal sanctions come within the ambit of the federal Ex Post Facto Clause, Calder v. Bull, 3 U.S. (3 Dall.) 386, 390-91, 1 L.Ed. 648 (1798), we analyzed the civil/criminal nature of SORNA. Haskell, 2001 ME 154, \u00b6\u00b6 8-22, 784 A.2d at 8-16. We followed the two-step analysis of the United States Supreme Court in Hudson v. United States, 522 U.S. 93, 118 S.Ct. 488, 139 L.Ed.2d 450 (1997). That is, we first looked to whether the Legislature, in enacting SORNA, intended to enact a civil or criminal penalty, and we concluded that it intended a civil penalty. Haskell, 2001 ME 154, \u00b6\u00b6 10-11, 784 A.2d at 10. Next, we applied the factors from Kennedy v. Mendoza-Martinez, 372 U.S. 144, 83 S.Ct. 554, 9 L.Ed.2d 644 (1963), and United States v. Ursery, 518 U.S. 267, 116 S.Ct. 2135, 135 L.Ed.2d 549 (1996), to determine whether, notwithstanding the civil intent, the effect of SORNA was so punitive as to overcome the civil characterization. Haskell, 2001 ME 154, \u00b6\u00b6 13-22, 784 A.2d at 10-16. We noted that the punitive effect of the statute has to be demonstrated by the \u201cclearest proof.\u201d Id. \u00b6 13, 784 A.2d at 10. We determined that \u201cSORNA\u2019s effect is not so punitive that it defeats the Legislature\u2019s civil intent.\u201d Id. \u00b6 13, 784 A.2d at 11.\nB. Smith v. Doe\n[\u00b624] After Haskell was decided, the United States Supreme Court performed an ex post facto analysis on a challenge to the Alaska Sex Offender Registration Act. Smith v. Doe, 538 U.S. 84, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003). In Smith v. Doe, the plaintiffs were two people who had been convicted of sex offenses before the Act became effective but who were included within the coverage of the Act. Id. at 89-90, 123 S.Ct. 1140. The Supreme Court first analyzed whether the Alaska Act was intended to be civil or criminal. Id. at 92, 123 S.Ct. 1140. In spite of the fact that provisions of the Act are located in the Criminal Procedure Code, the Court found that the Legislature intended the Act to be civil. Id. at 94-95, 123 S.Ct. 1140. The Court stated that because the Legislature\u2019s intent was civil, that stated intent could be overridden \u201conly [with] the clearest proof\u2019 that it was a criminal penalty. Id. at 92, 96, 123 S.Ct. 1140 (quotation marks omitted). In reviewing the \u201cmost relevant\u201d of the Mendoza-Martinez factors, id. at 97, 123 S.Ct. 1140 the Court concluded that the Act was not punitive and the challengers had not shown that the effects of the Act negated the Legislature\u2019s intent \u201cto establish a civil regulatory scheme,\u201d id. at 105, 123 S.Ct. 1140.\nC. Post-Haskell SORNA Amendments\n[\u00b6 25] SORNA has been substantially amended since the Haskell decision. Because of the amendments and because Smith v.. Doe informs the ex post facto analysis, we take a new look at SORNA and whether it is ex post facto.\n[\u00b6 26] The holding in Haskell that SORNA did not violate the Ex Post Facto Clause was based on the version of SOR-NA before the Court. As we have noted above, SORNA has been substantially amended since Haskell, and we must first decide whether Doe is limited to demonstrating that only the post-Haskell amendments are ex post facto or whether he is allowed to demonstrate that the amendments to SORNA have changed the character of the entire act. We conclude that Haskell does not declare for all time that SORNA is immune from an ex post facto challenge. It is conceivable that a challenger can demonstrate that, through amendments, the Legislature changed the character and effects of SORNA from civil to criminal.\n[\u00b6 27] There is nothing in the post-Haskell amendments that would change our conclusion in the first step in the ex post facto analysis that the Legislature intended SORNA to be civil. SORNA is still contained within the civil portion of the statutes, and although the wording of the express purpose of SORNA has been slightly modified, Haskell\u2019s description of the purpose still holds true: SORNA was \u201cenacted to protect the public, not to punish the sex offender.\u201d Haskell, 2001 ME 154, \u00b6 11, 784 A.2d at 10.\n[\u00b628] Therefore, if the post-Has-kell amendments have made Haskell less persuasive, it has to be in the \u201ceffects\u201d analysis. We conclude that the amendments to SORNA since Haskell, along with Smith v. Doe, have affected the analysis such that a determination as to whether SORNA, or parts of it, have become criminal is impossible under the standards of review applicable to Rule 12(b)(6) dismissals and on this record. We enumerate the post -Haskell changes that have led us to this conclusion.\n[\u00b6 29] In Haskell, we said that SORNA did not restrict the movements and activities of the registrants \u201cin any way.\u201d Id. \u00b6 15, 784 A.2d at 11. Likewise, the Supreme Court found that the Alaska Act \u201cdoes not restrain activities sex offenders may pursue but leaves them free to change jobs or residences.\u201d Smith, 538 U.S. at 100, 123 S.Ct. 1140. The Court noted that \u201c[t]he record in this case contains no evidence that the Act has led to substantial occupational or housing disadvantages for former sex offenders that would not have otherwise occurred through the use of routine background checks by employers and landlords.\u201d Id\n[\u00b6 30] Unlike the present case, there was presumably more of a record in Smith v. Doe because it was decided on cross-motions for summary judgment. Doe v. Otte, 259 F.3d 979, 983 (9th Cir.2001). In this case, the allegations are that Doe has reason to believe that he will lose his job, that his wife will leave him to protect her family, that his neighbors will attempt to remove him from the neighborhood, and that he fears violence. Accepting the truth of these allegations, as we must when reviewing a case decided on a motion to dismiss, see Persson, 2001 ME 124, \u00b6 8, 775 A.2d at 365, we cannot say that these are all things that could otherwise occur through the use of routine background checks.\n[\u00b6 31] Likewise, without a more detailed record than is present in this case, we could not determine whether the 2007 amendments, effective September 20, 2007, make the effects of SORNA so punitive as to negate its civil intent. The 2007 amendments to the Criminal Code make it a Class E crime for certain SORNA registrants to intentionally or knowingly have direct or indirect contact with a child under age fourteen and a Class D crime if that contact occurs in certain zones near schools, playgrounds, or other areas, P.L. 2007, ch. 393, \u00a7 1 (codified at 17-A M.R.S. \u00a7 261), and they can be seen as placing a restraint on sex offenders. The 2007 amendments appear to be applicable to Doe. Because the 2007 amendments had not been enacted at the time of the Superi- or Court judgment, and because the case was decided on a motion to dismiss, we simply have no record from which we could ascertain the affirmative disability or restriction imposed by these amendments.\n[\u00b6 32] There is also an issue as to whether the verification procedures of SORNA, 34-A M.R.S. \u00a7 11222(4), place an affirmative disability or restraint on the registrants. In Haskell, we did not discuss the verification procedures. In Smith v. Doe, the Court of Appeals, which had found the Alaska Act to be unconstitutional, understood that the offender had to appear in person at the local police station annually to update the registration and found that the updates imposed an affirmative disability. Smith, 538 U.S. at 101, 123 S.Ct. 1140; see also Otte, 259 F.3d at 984 n. 4. The Supreme Court, however, took pains to note that the Court of Appeals had been misinformed and that an in-person update was not required. Smith, 538 U.S. at 101, 123 S.Ct. 1140. Clearly, the Maine verification process of having registrants appear in-person at the law enforcement office every ninety days, with a photograph, to be fingerprinted is more onerous than the Alaska process. 34-A M.R.S. \u00a7 11222(4). Whether the verification process works an impractical impediment that amounts to an affirmative disability is not apparent from this slim record.\n[\u00b6 33] In Haskell, we noted that information about the sex offenders on the registry was \u201cnot widely disseminated.\u201d Haskell, 2001 ME 154, \u00b6 21, 784 A.2d at 13. The information was given to \u201ccertain State agencies and to members of the public \u201cwho the department determines appropriate to ensure public safety.\u2019 \u201d Id. (quoting SORNA, 34-A M.R.S.A. \u00a7\u00a7 11142, 11143 (Supp.2000)). The release of information on the internet, as required by the current provisions of SORNA, is neither limited nor aimed at those likely to encounter the offenders. In contrast to the version of SORNA at issue in Haskell, the State is now required to provide substantially more information about a registrant upon receiving a written request from any member of the public, including:\n(1) The registrant\u2019s name, abases, date of birth, sex, race, height, weight, eye color, maibng address and physical location of domicile and residence;\n(2) The registrant\u2019s place of employment and college or school being attended, if applicable, and the corresponding address and location;\n(3) A description of the offense for which the registrant was convicted, the date of conviction and the sentence imposed; and\n(4) The registrant\u2019s photograph.\nP.L.2003, ch. 371, \u00a7 7 (effective Sept. 13, 2003), as amended (codified at 34-A M.R.S. \u00a7 11221(9)(B)). Furthermore, much of this same information concerning the offenders must be posted on the internet, thus greatly increasing public access to such information. See P.L.2003, ch. 371, \u00a7 7 (codified at 34-A M.R.S. \u00a7 11221(9)(A)).\n[\u00b6 34] The Alaska Act at issue in Smith v. Doe does not specify that the information from the registrants is to be made available on the internet. See Smith, 538 U.S. at 91, 123 S.Ct. 1140. Nonetheless, Alaska makes much of the information about registrants available on the internet. Id. The Supreme Court did not find that publication of this information on the internet problematic. Id. at 99, 123 S.Ct. 1140. However, the Court did not discuss the fact that the verification requirements mean that it is not just the conviction information that is made public, but rather it is the continuously updated information that is made public. Doe\u2019s complaint speaks to his fear and his wife\u2019s fear for her family\u2019s safety with the publication of Doe\u2019s name, address, and other specifics on the internet.\n[\u00b6 35] Finally, the version of SORNA in effect at the time Haskell was decided contained provisions for waiver from registration \u201cfor good cause shown,\u201d 34-A M.R.S.A. \u00a7 11121(6)(D) (Supp.1999), and, after five years, upon a showing of \u201ca reasonable likelihood that registration is no longer necessary and waiver ... is appropriate.\u201d 34-A M.R.S.A. \u00a7 11121(6)(C) (Supp.1999). These waiver provisions, which were repealed in 2001, were not discussed in Haskell. Doe would appear to have been a good candidate for the second waiver provision because, according to the complaint, he has been a productive citizen, a family man, and has no other arrests or convictions for sex offenses. Although the Supreme Court in Smith v. Doe was not troubled by the fact that the Alaska Act was not narrowly drawn, 538 U.S. at 102, 123 S.Ct. 1140, the fact that a sex offender never has the ability to escape the registration requirements of the current SORNA, regardless of behavior, consequences, or contributions following the conviction, strikes us as having the capability to be excessive and as diverging from the purpose of protecting the public. Doe should be given the opportunity to develop the record and to prove, if he can, the excessiveness of SOR-NA in relationship to its stated goal of protecting the public from potentially dangerous registrants.\n[\u00b6 36] We conclude that, taking the allegations of the complaint as true, we must vacate the Superior Court\u2019s dismissal of the complaint and remand the matter for further development of a record to give Doe the opportunity to demonstrate by the clearest proof that the effects of SORNA are punitive. Additionally, because the 2007 amendments to the Criminal Code were enacted after this case went to the Superior Court, Doe should be given the opportunity to present on remand any effect that they have on the punitive/civil issue.\n[\u00b6 37] Furthermore, on the basis of the record before us and the standard of review of an order granting a motion to dismiss, we cannot foreclose Doe\u2019s right to pursue his other theories of relief.\nThe entry is:\nJudgment vacated. Case remanded for further proceedings consistent with this opinion.\n. Doe filed a motion to proceed under a pseudonym, which the court granted.\n. Title 34-A M.R.S. \u00a7 11221(9)(A) (2006) provides that:\nA. The bureau shall post on the Internet for public inspection the following information concerning a registrant:\n(1) The registrant\u2019s name, date of birth and photograph;\n(2) The registrant\u2019s city or town of domicile and residence;\n(3) The registrant\u2019s place of employment and college or school being attended, if applicable, and the corresponding address and location; and\n(4) The statutory citation and name of the offense for which the registrant was convicted.\n. P.L.2007, ch. 393, \u00a7 1 (effective Sept. 20, 2007) (codified at 17-A M.R.S. \u00a7 261) provides:\n1. A person is guilty of prohibited contact with a minor if that person:\nA. Has previously been convicted of an offense under this chapter or chapter 12 against another person who had not in fact attained 14 years of age ... ;\nB. Has a duty to register under Title 34-A, chapter 15, subchapters 1 and 2; and\nC. Intentionally or knowingly has direct or indirect contact with another person who has not in fact attained 14 years of age.\nViolation of this subsection is a Class E crime.\n2. A person is guilty of prohibited contact with a minor in a sex offender restricted zone if that person:\nA. Has previously been convicted of an offense under this chapter or chapter 12 against another person who had not in fact attained 14 years of age ...;\nB. Has a duty to register under Title 34\u2014 A, chapter 15, subchapters 1 and 2; and\nC. Intentionally or knowingly has any direct or indirect contact in a sex offender restricted zone with smother person who has not in fact attained 14 years of age.\nViolation of this subsection is a Class D crime.\n3. It is an affirmative defense to prosecution under this section that the parent, foster parent, guardian or other similar person responsible for the person who had not in fact attained 14 years of age, knowing the conviction status described in subsections 1 and 2, gave consent that the defendant initiate, have or continue direct or indirect contact. It is also an affirmative defense to prosecution under this section that any contact is incidental to and directly related to the defendant's employment.\n4. For purposes of this section, \"sex offender restricted zone\u201d means the real property comprising a public or private elementary or middle school; the real property comprising a child care center, a child care facility, a day care operated by a family child care provider, a nursery school or a small child care facility as defined under Title 22, section 8301-A; or an athletic field, park, playground, recreational facility, children\u2019s camp or other place where children are the primary users.\n. At oral argument, Doe\u2019s counsel stated that he was not requesting that we reconsider whether SORNA is ex post facto as he recognized that State v. Haskell, 2001 ME 154, 784 A.2d 4, and Smith v. Doe, 538 U.S. 84, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003), had decided the issue. However, he has pursued his claim that his procedural due process rights were violated because SORNA has been retroactively imposed on him after he pleaded guilty to the sex offense. We agree with the Superior Court that this is an ex post facto argument. Therefore, we address it as such.\n. The Mendoza-Martinez factors, rephrased in question form, are the following:\n(1) Does the sanction involve an affirmative disability or restraint?\n(2) Is the sanction regarded historically as punishment?\n(3) Does the sanction come into play only with a finding of scienter?\n(4) Does the operation of the sanction promote retribution and deterrence?\n(5) Is the behavior to which the sanction applies already a crime?\n(6) Is there an alternative purpose to the sanction reasonably related to it?\n(7) Is the sanction excessive in relationship to the alternative purpose?\nKennedy v. Mendoza-Martinez, 372 U.S. 144, 168-69, 83 S.Ct. 554, 9 L.Ed.2d 644 (1963).\n. We recognize that we have always interpreted the Ex Post Facto Clause of the Maine Constitution in the same manner that the federal clause has been interpreted by the Supreme Court. See Haskell, 2001 ME 154, \u00b6 6 & n. 5, 784 A.2d at 8. We do not have cause to reconsider our equating the Ex Post Facto Clause in the Maine Constitution with the same clause in the United States Constitution.\n. SORNA presently states that its purpose is \"to protect the public from potentially dangerous registrants by enhancing access to information concerning those registrants.\u201d 34-AM.R.S. \u00a7 11201 (2006).\n. Although restrictions similar to those in the 2007 amendments have been upheld in the face of an ex post facto challenge, the decisions have been made on a more extensive record than is available in this case. See, e.g., Doe v. Miller, 405 F.3d 700, 706, 723 (8th Cir.2005) (finding that the evidence after a two-day trial did not demonstrate that residency requirements for sex offenders made the law ex post facto).\n. In its brief, the State alleges that Doe was convicted of a sex offense on a person under age fourteen, and a previous conviction for a sex offense on a person younger than fourteen is one of the elements of an offense under the 2007 amendments. See P.L.2007, ch. 393, \u00a7 1.\n. The information to be posted is that of a \u201cregistrant,\u201d 34-A M.R.S. \u00a7 11221 (9)(A), but in the case of a ten-year registrant, the posted information may remain on the internet beyond the registration requirement as there is no statutory requirement to remove the information, and indeed, removal may be both technically and practically difficult in light of websites such as the Way Back Machine, which take \u201csnapshots\u201d of web pages and archive them for posterity.\n. See supra n. 2.",
+        "type": "majority",
+        "author": "CALKINS, J."
+      },
+      {
+        "text": "ALEXANDER, and SILVER, JJ.,\nconcurring.\n[\u00b6 38] Today we join a unanimous Court in holding that review of the 1999 and subsequent amendments to the Sex Offender Registration and Notification Act (SORNA), 34-A M.R.S. \u00a7\u00a7 11201-11256 (2006); P.L.2007, ch. 393, \u00a7 1 (codified at 17-A M.R.S. \u00a7 261), needs further development of the facts.\n[\u00b6 39] We write separately to emphasize that Maine\u2019s SORNA must be reviewed according to its unique history; our precedent; the requirements of the Maine Constitution, which distinguish the analysis here from the analysis of the application of sex offender notification laws in other states, see, e.g., Smith v. Doe, 538 U.S. 84, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003); and the analysis we applied in State v. Haskell, 2001 ME 154, 784 A.2d 4. The key distinguishing features are:\n[\u00b640] First, for nearly a decade, until 2004, the registration and notification requirements were explicitly criminal punishments, defined by statute as \u201cpart of a sentence\u201d and a condition of probation imposed pursuant to the criminal sentencing provisions of the Criminal Code.\n[\u00b641] Second, amendments to SORNA have made the registration and notification requirements and restrictions progressively more punitive and intrusive, thereby retroactively enhancing the sentences of all those individuals obligated to register under the law. These amendments changed the characterization of the sanction from a criminal to a civil penalty in an attempt to avoid the constitutional protections prerequisite to the imposition of criminal sanctions. However, Maine jurisprudence prohibits such \u201cre-labeling\u201d of criminal penalty statutes as a device to avoid the constitutional protections prerequisite to enforcement of the criminal laws.\n[\u00b6 42] Third, article I, section 1, of the Maine Constitution recognizes the \u201cinherent and unalienable rights\u201d of all people, including the rights of \u201cenjoying and defending life and liberty, acquiring, possessing and protecting property, and of pursuing and obtaining safety and happiness.\u201d Article I, section 1 has no counterpart in the United States Constitution.\nA. SORNA as Part of a Criminal Sentence\n[\u00b6 43] The SORNA effective in the late 1990s, when Haskell\u2019s crime was committed, required an offender to list his intended address and notify the Department of Public Safety of any subsequent changes or moves. 34-A M.R.S.A. \u00a7 11121(2), (3) (Supp.1998). The notification provisions required the Department or the local law enforcement agency to distribute the offender\u2019s information only to those members of the public deemed appropriate \u201cto ensure public safety.\u201d 34-A M.R.S.A. \u00a7 11143(1) (Supp.1998). The registration law governing sentencing also authorized waiver of the registration requirements in certain situations, including waiver by the Superior Court upon a petition by an offender who had been registered for at least five years, and waiver by the sentencing court \u201cfor good cause shown.\u201d 34-A M.R.S.A. \u00a7 11121(6)(C), (D) (Supp.1998). These registration requirements were imposed and enforced pursuant to the Criminal Code \u201c[a]s part of a sentence,\u201d 17-A M.R.S.A. \u00a7 1152(2-0 (Supp.1998).\nB. The 1999 and Subsequent Changes in the SORNA\n[\u00b6 44] Significant changes occurred when the Legislature enacted the Sex Offender Registration and Notification Act of 1999. P.L.1999, ch. 437, \u00a7 2 (effective Sept. 18, 1999). Among the many changes from the 1996 Act, the SORNA of 1999:(1) expanded the class of crimes requiring registration upon conviction, 34-A M.R.S.A. \u00a7 11203(6), (7) (Supp.1999); (2) created two classes of offenders, \u201csex offenders\u201d and \u201csexually violent predators,\u201d requiring the former to register for ten years, and the latter to register for life, 34-A M.R.S.A. \u00a7\u00a7 11203, 11225 (Supp.1999); and (3) required the offender to disclose more personal information than previously required, 34-A M.R.S.A. \u00a7 11221 (Supp.1999); see also L.D. 1721, Summary (119th Legis.1999). Most notably, the SORNA of 1999 removed the possibility of the trial court waiving the registration and notification requirements on a petition by the offender after five years of registration or \u201cfor good cause shown.\u201d Respecting the Constitutional prohibition on ex post facto legislation, the Legislature did not apply the 1999 amendments retroactively. 34-A M.R.S.A. \u00a7 11202 (Supp.1999).\n[\u00b645] Since 1999, SORNA has been amended several times. The law first became retroactive in 2001, applying to offenders sentenced on or after June 30, 1992. See P.L.2001, ch. 439, \u00a7 000-7 (effective Sept. 21, 2001) (codified at 34-A M.R.S.A. \u00a7 11202 (2001)). It now applies to offenders sentenced on or after January 1, 1982. See P.L.2005, ch. 423, \u00a7 1 (effective Sept. 17, 2005) (codified at 34-A M.R.S. \u00a7 11202 (2006)). This latter amendment extended the law\u2019s retroactive sentence enhancements to Doe. The statute now categorizes offenders as ten-year registrants and lifetime registrants. 34-A M.R.S. \u00a7 11203(4-0), (5). Furthermore, since 2004, registration requirements are no longer imposed as a criminal penalty \u201cas part of a sentence.\u201d See P.L.2003, ch. 711, \u00a7 B-13 (effective July 30, 2004) (codified at 17-A M.R.S. \u00a7 1152(2-0) (2006)).\n[\u00b6 46] Another significant change has been the enhancement of the State action required to increase access to and availability of information about registrants. Amendments enacted in 2003, two years after our opinion in Haskell, require the State to\npost on the Internet for public inspection the following information concerning a sex offender or sexually violent predator:\n(1) The sex offender\u2019s or sexually violent predator\u2019s name, date of birth and photograph;\n(2) The sex offender\u2019s or sexually violent predator\u2019s city or town of domicile;\n(3) The sex offender\u2019s or sexually violent predator\u2019s place of employment and college or school being attended, if applicable, and the corresponding address and location; and\n(4) The statutory citation and name of the offense for which the sex offender or sexually violent predator was convicted.\nP.L.2003, ch. 371, \u00a7 7 (effective Sept. 13, 2003) (codified as subsequently amended at 34-A M.R.S. \u00a7 11221(9)(A)). The 2003 amendment required the State to provide even more information about a registered sex offender upon receiving a written request from any member of the public, including:\n(1) The sex offender\u2019s or sexually violent predator\u2019s name, aliases, date of birth, sex, race, height, weight, eye color, mailing address and home address or domicile;\n(2) The sex offender\u2019s or sexually violent predator\u2019s place of employment and college or school being attended, if applicable, and the corresponding address and location;\n(3) A description of the offense for which the sex offender or sexually violent predator was convicted, the date of conviction and the sentence imposed; and\n(4) The sex offender\u2019s or sexually violent predator\u2019s photograph.\nP.L.2003, ch. 371, \u00a7 7 (effective Sept. 13, 2003) (codified as subsequently amended at 34-A M.R.S. \u00a7 11221(9)(B)).\n[\u00b6 47] Registrants are also subject to amendments to the Criminal Code, enacted in 2007, which significantly restrict a SORNA registrant\u2019s freedom of movement and personal liberty. This new act effectively prohibits a lifetime registrant from entering certain \u201csex offender restricted zones\u201d in the community, such as state and local parks, schools, athletic facilities, and recreational facilities primarily used by children. See P.L.2007, ch. 393, \u00a7 1 (effective Sept. 20, 2007) (codified at 17-A M.R.S. \u00a7 261). Although a SORNA registrant may enter such facilities, he assumes grave risk by doing so, as even an indirect, nonphysical contact with a child under the age of fourteen can cause' arrest and prosecution. See \u00b6 19, supra.\n[\u00b6 48] The SORNA registration and supervision restraints have also been dramatically enhanced. A verification process is mandated every ninety days for lifetime registrants. 34-A M.R.S. \u00a7 11222(4). The process requires the registrant to complete a verification form and to \u201ctake the completed verification form and a photograph of the registrant to the law enforcement agency having jurisdiction within 5 days of receipt of the form.\u201d 34-A M.R.S. \u00a7 11222(4)(C). Thus, once every ninety days, a personal appearance at a police station is required. At that time, the police agency, in addition to verifying the registrant\u2019s identity, takes the registrant\u2019s fingerprints. 34-A M.R.S. \u00a7 11222(4)(D). Whenever a registrant changes \u201cresidence, domicile, place of employment or college or school,\u201d the registrant must notify the law enforcement agency in the new location. 34-A M.R.S. \u00a7 11222(5).\nC. The SORNA Requirements as a Criminal Penalty\n[\u00b6 49] The Ex Post Facto Clause \u201cprotects liberty by preventing governments from enacting statutes with \u2018manifestly unjust and oppressive \u2019 retroactive effects.\u201d Stogner v. California, 539 U.S. 607, 611, 123 S.Ct. 2446, 156 L.Ed.2d 544 (2003) (emphasis in the original) (quoting Calder v. Bull, 3 U.S. (3 Dall.) 386, 391, 1 L.Ed. 648 (1798)); see also Me. Const. art. 1, \u00a7 11. Among these protections, the Clause prohibits the application of a criminal statute to a defendant that \u201c \u2018makes more burdensome the punishment for a crime after its commission.\u2019\u201d State v. Chapman, 685 A.2d 423, 424 (Me.1996) (quoting State v. Joubert, 603 A.2d 861, 869 (Me.1992)). Much of the articulated purpose for the retroactive application of SORNA, discussed in the Court\u2019s opinion, is to make more burdensome the punishment for earlier crimes.\n[IT 50] We addressed whether SORNA violated the Ex Post Facto Clause in Haskell, 2001 ME 154, 784 A.2d 4. In Haskell, the defendant argued that the application of the SORNA of 1999 to him was unconstitutional because, although he was sentenced after its enactment, he committed the crimes when the earlier version of the law was in effect. Id. \u00b6 6, 784 A.2d at 8. In our analysis, we applied an \u201cintent-effects\u201d test for distinguishing between civil and criminal penalties and determined that the Legislature intended the SORNA of 1999 to be a civil remedy and the effects of the statute were non-penal. Id. \u00b6\u00b6 8-22, 784 A.2d at 8-16. Thus, we held that the statute did not constitute ex post facto legislation as applied to the defendant. See id. \u00b6 22, 784 A.2d at 16.\n[\u00b6 51] Haskell must be distinguished from the case before us because the recent enhancements of the SORNA mandates were not in effect when Haskell was charged and convicted. In fact, the law making the 1999 and subsequent amendments retroactive to sentencing that occurred prior to the effective date of the 1999 amendments, did not take effect until September 21, 2001, after Haskell had been argued and submitted to us for decision. P.L.2001, ch. 439, \u00a7 000-7.\n[\u00b6 52] Because Haskell addressed a different issue than is presented to us today, Haskell did not fully consider our prior jurisprudence addressing the validity of re-labeling as \u201ccivil,\u201d certain proceedings that retain criminal characteristics and penalties.\n[\u00b6 53] We addressed this issue in State v. Freeman, 487 A.2d 1175 (Me.1985), in the context of the former civil operating under the influence (OUI) statute, which allowed the State to charge an OUI as a civil offense. Id. at 1177. Freeman appealed her conviction asserting that a civil OUI charge deprived her of her right to a jury trial. Id. at 1176. In analyzing the effects of the civil OUI statute, we noted: (1) the defendant was still subject to arrest and detention prior to the State\u2019s decision to charge her civilly; (2) the stigma associated with an OUI charge, whether criminal or civil, was \u201csuggestive of the true criminal nature of the procedure\u201d; and (3) a prior civil conviction would enhance a subsequent offense and count towards habitual offender status. Id. at 1177-79. In voiding the statute, we held that the civil OUI process was, in reality, a criminal proceeding, requiring constitutional protections, which could not be denied \u201cfor the sake of legislative or judicial efficiency.\u201d Mat 1179-80.\n[\u00b6 54] Thus, pursuant to Freeman, a law enhancing a criminal penalty, based on a criminal conviction, cannot avoid the protections of Maine\u2019s Declaration of Rights by legislative re-labeling as a civil rather than a criminal proceeding.\n[\u00b6 55] In the six years since Haskell and the subsequent retroactive application of SORNA and imposition of internet registries, we have learned much about the stigmatizing effect of registration and notification. We now recognize the extent to which the State\u2019s use of the internet to display registration information correlates to the shaming and branding punishments used in colonial times, and we have seen the registries\u2019 potential for causing retributive and vigilante violence against registrants. Instead of locking the-criminal in stocks in the town square or branding the offender with a letter to make the community aware of his crime, SORNA directs the State to place the registrant\u2019s personal information on the World Wide Web, labeled as an offender convicted of a heinous crime. Although calling the internet a \u201cmodern day town square\u201d may sound simplistic, much of our society\u2019s day-to-day communication occurs via the web, instead of in the markets and on the street corners. The ease with which any individual in the world can access a registry website and the accumulated personal data on offenders makes the geographic reach of this information boundless.\n[\u00b6 56] In our internet age, the \u201cshaming and branding\u201d of sex offenders inevitably leads to community stigmatization and ostracism. Being branded a sex offender in a community indisputably has ostracizing effects, including social isolation, difficulty finding employment, and being targeted for harassment, violence, and even murder. The drafters of the United States and Maine Constitutions deemed such actions criminal penalties and proscribed them, directly addressing such punishments in the Constitutions. See U.S. Const, amend. VIII; Mb. Const, art. I, \u00a7 9.\n[\u00b6 57] As we held in Freeman, such punishments do not lose their constitutional protections by legislative re-labeling as civil obligations rather than criminal punishments. For most of the time SORNA has been in effect, the SORNA sanctions were imposed as part of the criminal sentence. \u201c[A] civil sanction that cannot fairly be said solely to serve a remedial purpose, but rather can only be explained as also serving either retributive or deterrent purposes, is punishment....\u201d United States v. Halper, 490 U.S. 435, 448, 109 S.Ct. 1892, 104 L.Ed.2d 487 (1989). It is the punishment enhancement, not the label, that the Constitution prohibits.\nD. Retribution and Deterrence\n[\u00b6 58] In Haskell, we noted \u201c \u2018[t]he limited release of information to those likely to encounter sex offenders could hardly be characterized as \u201cretribution.\u201d \u2019 \u201d Haskell, 2001 ME 154, \u00b6 18, 784 A.2d at 12 (quoting People v. Malchow, 193 Ill.2d 413, 250 Ill.Dec. 670, 739 N.E.2d 433, 440 (2000)). Although we recognized the \u201cpossibility of the SORNA having a deterrent effect, we stated that its purpose was to protect the public and it did not \u201csignificantly promote either retribution or deterrence.\u201d Id. \u00b6 19, 784 A.2d at 12.\n[\u00b6 59] As discussed above, time and our state of knowledge of the effects of SOR-NA have changed. With the use of internet registries, there is an unlimited release of information, allowing a person in a different country to access the identity and whereabouts of an offender.\n[\u00b6 60] Finally, there is evidence that registries do not protect the public, but have the opposite effect by isolating the offender from society in a way that may promote a return to criminally deviant behavior. As Justice Brennan noted in Trop v. Dulles, \u201cI can think of no more certain way in which to make a man in whom, perhaps, rest the seeds of serious antisocial behavior more likely to pursue further a career of unlawful activity than to place on him the stigma of the derelict, uncertain of many of his basic rights.\u201d 356 U.S. 86, 111, 78 S.Ct. 590, 2 L.Ed.2d 630 (1958) (Brennan, J., concurring).\n[\u00b6 61] In light of this knowledge, despite its alleged remedial goal, the SORNA can only be described as serving retributive and deterrent purposes, and therefore, is punishment. See Halper, 490 U.S. at 448, 109 S.Ct. 1892; Haskell, 2001 ME 154, \u00b6\u00b6 18-19, 784 A.2d at 12.\nE. Liberty Interests Protected by the Maine Constitution\n[\u00b6 62] Another indicium of the SORNA\u2019s penal character is its effect on the liberty interests of the offender. Pursuant to the Davis \u201cstigma-plus\u201d test, an individual h\u00e1s a liberty interest in protecting his or her reputation when the injury to the reputation is accompanied by some other harm. See Paul v. Davis, 424 U.S. 693, 701, 96 S.Ct. 1165, 47 L.Ed.2d 405 (1976). Courts that have applied this test tend to find that the damage to the sex offender\u2019s reputation, plus any one of the collateral consequences that follow community notification, such as difficulty finding employment or housing, implicates a liberty interest of the offender. See Wayne A. Logan, Criminal Law: Liberty Interests in the Preventive State: Procedural Due Process and Sex Offender Community Notification Laws, 89 J. Grim. L. & Criminology 1167, 1192-97 (1999). Barring a person from being in a particular place or places, or requiring a person to regularly report to the police and be fingerprinted is a restriction on personal liberty and freedom of movement that may be imposed through probation conditions as part of a criminal sentence. See State v. Nolan, 2000 ME 165, \u00b6 9, 759 A.2d 721, 723-24. Such restrictions, imposed as a result of a criminal conviction, must be imposed subject to the constitutional protections of the criminal process.\n[\u00b6 63] More importantly, the Maine Constitution\u2019s Declaration of Rights not only ensures the right of \u201cenjoying and defending life and liberty, acquiring, possessing and protecting property,\u201d it also protects the right of \u201cpursuing and obtaining safety and happiness.\u201d Me. Const., art. I, \u00a7 1. This clause, which does not appear in the Federal Constitution, demonstrates our State\u2019s commitment to providing citizens, even those who have committed heinous acts, the possibility of a secure and content existence. For lifetime registrants, the SORNA takes away that possibility and the prospect of redemption.\nF. Conclusion\n[\u00b6 64] The public has a right to protect itself from those individuals whom the State has determined to be-lawbreakers in the community. That protection is provided, upon conviction, by criminal sentencing to which constitutional protections apply. One of those constitutional protections is the Ex Post Facto Clause, which prohibits the public from deciding that sentences imposed and served in the past were too fight and retroactively imposing more severe punishments on already sentenced offenders. The recent amendments to SORNA have retroactively enhanced criminal punishments by: (1) changing a fifteen-year registration requirement to lifetime State supervision; (2) removing the opportunity for waiver of the registration requirement upon a showing of his rehabilitation or for other good cause; (3) exposing registrants to punishments similar to the shaming and ridicule penalties of colonial times by identifying and targeting them on the internet, subjecting them to the documented risk of retribution and vigilante violence; (4) requiring them to report in person to the police and be fingerprinted once every ninety days for fife; and (5) restricting their personal liberty by effectively barring them from being in certain public places. Maine jurisprudence suggests that the State\u2019s action enhancing punishments after sentencing is violative of article I, section 11 of the Maine Constitution.\n.All of the analysis in this opinion assumes that, subject to the proportionality requirement and the prohibition of cruel and unusual punishments found in Me. Const, art. 1, \u00a7 9, the Legislature could, as it formerly did, authorize courts to impose sex offender notification and registration requirements as part of a criminal sentence. The only issue here is whether, by re-labeling those penalties \"civil\u201d rather than \"criminal,\u201d the provisions of the Ex Post Facto Clause governing imposition of criminal penalties may be avoided.\n. In the late 1990s, sex offender registration requirements were imposed as part of the sentence pursuant to 17-A M.R.S.A. \u00a7 1152(2-C) (Supp.1998), which specified that: \"As part of a sentence, the court shall order every natural person who is a convicted sex offender ... to satisfy all requirements set forth in the Sex Offender Registration and Notification Act.\u201d\n. Although the previous act required only those convicted or found not criminally responsible for gross sexual assault on victims under the age of sixteen to register, the Sex Offender Registration and Notification Act of 1999 greatly expanded the types of convictions that required registration. Compare 34-A M.R.S.A. \u00a7 11103(5) (Supp.1998), with 34-A M.R.S.A. \u00a7 11203(6), (7) (Supp.1999). The current SORNA of 1999 requires offender registration for crimes such as statutory rape, possession of child pornography, and nonpa-rental kidnapping or criminal restraint, regardless of whether a sexual assault was involved. 34-A M.R.S. \u00a7 11203(6)(B) (2006).\n. The SORNA of 1999 required the registries to contain not only the offender\u2019s name and address, but also his or her date of birth, physical description, place of employment or school, offense history, whether he or she was receiving any treatment for a mental disorder, a photograph and a set of fingerprints, a description of the offense, and \u201c[a]ny other information the bureau determinefd] important.\u201d 34-A M.R.S.A. \u00a7 11221(1) (Supp. 1999).\n. The SORNA of 1999 only applied \"to a person sentenced as a sex offender or a sexually violent predator on or after the effective date,\u201d and did not apply retroactively. 34-A M.R.S.A. \u00a7 11202 (Supp.1999).\n. The \"intent-effects\u201d test requires us to look at \" \u2018whether the [L]egislature, in establishing the penalizing mechanism, indicated either expressly or impliedly a preference for one label or the other.\u2019 \" State v. Haskell, 2001 ME 154, \u00b6 8, 784 A.2d 4, 8 (quoting Hudson v. United States, 522 U.S. 93, 99, 118 S.Ct. 488, 139 L.Ed.2d 450 (1997)). If it looks like the Legislature intended the statute to be remedial, the second step of the \"intent-effects\u201d test requires the party challenging the statute to demonstrate, by the \u201c 'clearest proof,' \u201d that \u201c \u2018the statutory scheme was so punitive either in purpose or effect as to transform what was clearly intended as a civil remedy into a criminal penalty.\u2019 \u201d Id. \u00b6 8, 784 A.2d at 8 (quoting Hudson, 522 U.S. at 99-100, 118 S.Ct. 488).\n. Although we now have a fuller picture of the problems caused by registries, especially since the growth of internet registries, the problems and concerns raised by the notification provisions have existed since the creation of the first Act in 1992. See, e.g., L.D. 2315, Maine Civil Liberties Union Testimony before the Committee on Judiciary (115th Leg-is.1992) (urging treatment of sex offenders over registration requirements); L.D. 1510, Maine Pretrial Service, Inc. Testimony before the Committee on Criminal Justice (117th Legis.1995) (stating community fear of sex offenders \u201ctends to drive our sense of outrage and loss of control, and legislation growing from such a public place needs most careful scrutiny lest it become mere reaction, not good law\u201d); L.D. 1721, Bill Analysis from Marion Hylan Barr, Legislative Analyst to Joint Standing Committee on Criminal Justice (119th Legis.1999) (noting opponents\u2019 testimony that \"[n]otification and registration make reintegration into society impossible\u201d).\n. See Alex B. Eyssen, Comment, Does Community Notification for Sex Offenders Violate the Eighth Amendment\u2019s Prohibition Against Cruel and Unusual Punishment? A Focus on Vigilantism Resulting from \"Megan\u2019s Law,\u201d 33 St. Mary\u2019s L.J. 101, 124-26 (2001) (noting analogy between shaming punishments and sex offender registry and notification provisions). The author uses the comparison of God placing a mark upon Cain as punishment for killing his brother to the modern-day tactic of requiring convicted drunk drivers to place bumper stickers on their cars notifying others of their convictions. Id. at 124-25; see also Smith v. Doe, 538 U.S., 84, 115-16, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003) (Ginsburg, J., dissenting); Doe v. Poritz, 142 N.J. 1, 662 A.2d 367, 441 (1995) (Stein, J., dissenting).\n. See Leading Cases, 117 Harv. L. Rev. 226, 335 (2003); see also Peter Finn, U.S. Dep't of Justice Office of. Justice Programs, Nat\u2019l Inst, of Justice, Sex Offender Community Notification 13-14 (1997) (noting harms caused by notification, including incitement of excessive community fear or anger, creating a false sense of security, harassment and abuse of those on registries, and difficulty for the offenders to find employment and reintegrate into society).\n. The truth of vigilantism towards sex offenders, whose identities and whereabouts are etched in cyberspace, cannot be ignored, and certainly cannot be a disputed fact. It has been nationally documented that last year in Maine, a Canadian man targeted and murdered two Maine sex offenders, who he had located on Maine's registry website. See Associated Press, 2 Sex Offenders Shot to Death in Their Homes, N.Y. Times, April 17, 2006, at A14; Raja Mishra, Suspect May Have Wanted to Kill Others, Boston Globe, April 25, 2006, at B2; David Hench, Killer Drove to Maine with a Long List of Sex Offenders, Portland Press Herald, April 26, 2006, at Al. Reports of other murders, assaults, and harassment abound. See Brief of the Office of the Public Defender for the State of New Jersey et al. as Amici Curiae Supporting Respondents at 6-18, Smith v. Doe, 538 U.S. 84, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003) (No. 01-729). Yet, some courts ignore and downplay this evidence, and claim that States absolve themselves of responsibility for vigilantism by warning the public that it will not be tolerated. See, e.g., E.B. v. Verniero, 119 F.3d 1077, 1104 (3d Cir.1997), cert. denied, 522 U.S. 1109, 118 S.Ct. 1039, 140 L.Ed.2d 105 (1998).\n. Retribution is defined as \u201c[p]unishment imposed as repayment or revenge for the offense committed.\u201d Black's Law Dictionary 1318 (7th ed.1999). Deterrence means \"[t]he act or process of discouraging certain behavior, particularly by fear.\u201d Id. at 460.\n. See Leading Cases, 117 Harv. L. Rev. at 336 & nn. 87-89 (\u2018\u2018[T]here is a growing consensus in the psychotherapy community that community notification measures exacerbate the feelings of isolation and depression which may have led sex offenders to offend initially[.]\u201d (quotation marks omitted)); Brief of the Office of the Public Defender for the State of New Jersey et al. as Amici Curiae Supporting Respondents at 21-26, Smith v. Doe, 538 U.S. 84, 123 S.Ct. 1140, 155 L.Ed.2d 164 (2003).",
+        "type": "concurrence",
+        "author": "ALEXANDER, and SILVER, JJ.,"
+      }
+    ],
+    "attorneys": [
+      "James E. Mitchell, Esq. (orally), Jim Mitchell & Jed Davis, P.A., Augusta, for plaintiff.",
+      "G. Steven Rowe, Attorney General, Paul Stern, Deputy Attorney General (orally), Laura Yustak Smith, Asst. Atty. Gen., Christopher C. Taub, Asst. Atty. Gen., Augusta, Casandra S. Shaffer, Esq. (orally), Peter T. Machesi, Esq., Wheeler & Arey, P.A., Waterville, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "2007 ME 139\nJohn DOE v. DISTRICT ATTORNEY et al.\nSupreme Judicial Court of Maine.\nArgued: May 23, 2007.\nDecided: Sept. 25, 2007.\nJames E. Mitchell, Esq. (orally), Jim Mitchell & Jed Davis, P.A., Augusta, for plaintiff.\nG. Steven Rowe, Attorney General, Paul Stern, Deputy Attorney General (orally), Laura Yustak Smith, Asst. Atty. Gen., Christopher C. Taub, Asst. Atty. Gen., Augusta, Casandra S. Shaffer, Esq. (orally), Peter T. Machesi, Esq., Wheeler & Arey, P.A., Waterville, for defendants.\nPanel: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, SILVER, and MEAD, JJ.\nMajority: SAUFLEY, C.J., and CLIFFORD, ALEXANDER, CALKINS, LEVY, SILVER, and MEAD, JJ.\nConcurrence: ALEXANDER, and SILVER, JJ."
+  },
+  "file_name": "0552-01",
+  "first_page_order": 600,
+  "last_page_order": 618
+}

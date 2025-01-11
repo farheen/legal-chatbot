@@ -1,0 +1,62 @@
+{
+  "id": 12502120,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Isaiah G. GAINES, a/k/a Isaiah Gaines, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Gaines",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-181 September Term 2018; 081252",
+  "first_page": "974",
+  "last_page": "974",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 974"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 391,
+    "sha256": "70b931c1a37077aebd9b981e47258ba94569439a44b0de33eb6d9dec576aca3b",
+    "simhash": "1:70e76b21903aee28",
+    "word_count": 59
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nIsaiah G. GAINES, a/k/a Isaiah Gaines, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-000426-17 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nIsaiah G. GAINES, a/k/a Isaiah Gaines, Defendant-Petitioner.\nC-181 September Term 2018\n081252\nSupreme Court of New Jersey.\nOctober 5, 2018\nORDER"
+  },
+  "file_name": "0974-04",
+  "first_page_order": 974,
+  "last_page_order": 974
+}

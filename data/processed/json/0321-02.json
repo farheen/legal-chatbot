@@ -1,0 +1,85 @@
+{
+  "id": 12489507,
+  "name": "STATE of Connecticut v. Kenneth Lee MCCOY",
+  "name_abbreviation": "State v. McCoy",
+  "decision_date": "2017-04-05",
+  "docket_number": "",
+  "first_page": "321",
+  "last_page": "321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 A.3d 321"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 911"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "171 Conn. App. 311",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489485
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/157-2/0097-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 834,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25779765538454175
+    },
+    "sha256": "a93a5c86aed402807f82cd3c9190ebd33a22382bb732dbe67c80759d44290eed",
+    "simhash": "1:1c9a823ef2633d70",
+    "word_count": 132
+  },
+  "last_updated": "2024-02-27T18:34:52.528919+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nKenneth Lee MCCOY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 171 Conn. App. 311, 157 A.3d 97 (2017), is granted, limited to the following issues:",
+      "\"2. Did the Appellate Court properly conclude that the trial court lost jurisdiction to hear the defendant's motion for a new trial?",
+      "\"3. In the alternative, did the trial court improperly sentence the defendant while his motion for a new trial was pending?\""
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nKenneth Lee MCCOY\nSupreme Court of Connecticut.\nDecided April 5, 2017\nDaniel J. Foster, assigned counsel, in support of the petition.\nTimothy J. Sugrue, assistant state's attorney, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 171 Conn. App. 311, 157 A.3d 97 (2017), is granted, limited to the following issues:\n\"1. Did the Appellate Court properly affirm the trial court's judgment by concluding that, notwithstanding any improper conduct by the state, the defendant was not deprived of a fair trial?\n\"2. Did the Appellate Court properly conclude that the trial court lost jurisdiction to hear the defendant's motion for a new trial?\n\"3. In the alternative, did the trial court improperly sentence the defendant while his motion for a new trial was pending?\""
+  },
+  "file_name": "0321-02",
+  "first_page_order": 321,
+  "last_page_order": 321
+}

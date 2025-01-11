@@ -1,0 +1,103 @@
+{
+  "id": 7927454,
+  "name": "Lonney R. CILLEY v. GEORGIA-PACIFIC CORPORATION",
+  "name_abbreviation": "Cilley v. Georgia-Pacific Corp.",
+  "decision_date": "1986-12-23",
+  "docket_number": "",
+  "first_page": "191",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "519 A.2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "455 A.2d 950",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7996067
+      ],
+      "pin_cites": [
+        {
+          "page": "954"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/455/0950-01"
+      ]
+    },
+    {
+      "cite": "495 A.2d 808",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7919893
+      ],
+      "pin_cites": [
+        {
+          "page": "811"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/495/0808-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 210,
+    "char_count": 2826,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2005997260844165
+    },
+    "sha256": "36b1f9c434058db284257f068eb2b11cf1b8c071185ec91ec560de2054e90b5f",
+    "simhash": "1:fa373736ce84062b",
+    "word_count": 428
+  },
+  "last_updated": "2024-02-27T19:00:09.237060+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NICHOLS, ROBERTS, WATHEN, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+    ],
+    "parties": [
+      "Lonney R. CILLEY v. GEORGIA-PACIFIC CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "ROBERTS, Justice.\nGeorgia-Pacific Corporation appeals from a judgment of the Superior Court, Penobscot County, ordering the corporation to pay compensation benefits to Lonney R. Cilley as awarded by the Workers\u2019 Compensation Commission pursuant to 39 M.R.S.A. \u00a7 103-E (Pamph.1986) and assessing a per diem penalty for nonpayment pursuant to 39 M.R.S.A. \u00a7 104-A (Pamph.1986). Georgia-Pacific contends that a decision of the commission is not enforceable in Superior Court while a request for findings of fact pursuant to 39 M.R.S.A. \u00a7 99 (Pamph.1986) is pending before the commission. Because we conclude that ultimate finality is not a prerequisite for enforcement of an order or decision of the commission, we affirm the judgment.\nGeorgia-Pacific asserts that a motion for findings of fact and conclusions of law destroys the finality of the commission\u2019s order, and therefore it is under no obligation to pay until the findings and conclusions are filed. Section 104-A of the Workers\u2019 Compensation Act requires an employer or insurance carrier to make compensation payments \u201cwithin 10 days after any order or decision of the commission awarding compensation\u201d and provides for a forfeiture not exceeding \u201c$25 for each day of noncompliance.\u201d Although section 104-A expressly prohibits the suspension of payments pending appeal, its application is not thereby limited to \u201cfinal\u201d orders or decisions. The Legislature could not have been unaware that section 99-B requires a decision within 30 days but imposes no deadline on findings of fact requested pursuant to section 99. The circumstance that by virtue of a section 99 request for findings of fact and conclusions of law a Commissioner may render a different decision does not render the original decision unenforceable. To conclude otherwise would substantially frustrate the Legislature\u2019s goal of ensuring prompt payment of compensation. We hold therefore that section 104-A mandates payment of compensation within ten days after any order or decision without regard to the pendency of a request for findings of fact and conclusions of law. Cf. Ryerson v. Pratt & Whitney Aircraft, 495 A.2d 808, 811 (Me.1985) (order awarding medical expenses enforceable pursuant to \u00a7 103-E during period an appeal is pending); Pomerleau v. United Parcel Service, 455 A.2d 950, 954 (Me.1983) (order imposing forfeiture pursuant to \u00a7 104-A proper during period an appeal is pending).\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      }
+    ],
+    "attorneys": [
+      "Stern, Goldsmith & Billings, Jerome G. Goldsmith, Bangor, for plaintiff.",
+      "Cuddy & Lanham, Kevin M. Cuddy (orally), Elizabeth A. Williams, Bangor, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Lonney R. CILLEY v. GEORGIA-PACIFIC CORPORATION.\nSupreme Judicial Court of Maine.\nArgued Nov. 20, 1986.\nDecided Dec. 23, 1986.\nStern, Goldsmith & Billings, Jerome G. Goldsmith, Bangor, for plaintiff.\nCuddy & Lanham, Kevin M. Cuddy (orally), Elizabeth A. Williams, Bangor, for defendant.\nBefore NICHOLS, ROBERTS, WATHEN, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+  },
+  "file_name": "0191-02",
+  "first_page_order": 237,
+  "last_page_order": 239
+}

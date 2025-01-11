@@ -1,0 +1,59 @@
+{
+  "id": 8159265,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Shawn TOMLIN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Tomlin",
+  "decision_date": "2009-01-29",
+  "docket_number": "No. 162 EM 2008",
+  "first_page": "545",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 286,
+    "ocr_confidence": 0.705,
+    "sha256": "cb00fc1276faff6d534a32e4abe62197d60e1e14753d0c03d267f216576ed922",
+    "simhash": "1:d50dd7279bc3e972",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T18:01:30.821331+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Shawn TOMLIN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of January, 2009, the Application for Leave to File a Petition for Allowance of Appeal Nunc Pro Tunc is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Shawn TOMLIN, Petitioner.\nNo. 162 EM 2008.\nSupreme Court of Pennsylvania.\nJan. 29, 2009."
+  },
+  "file_name": "0545-03",
+  "first_page_order": 579,
+  "last_page_order": 580
+}

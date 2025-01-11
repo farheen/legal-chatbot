@@ -1,0 +1,82 @@
+{
+  "id": 7923773,
+  "name": "Antonio DiMILLO v. LONGFELLOW CRUISE LINE",
+  "name_abbreviation": "DiMillo v. Longfellow Cruise Line",
+  "decision_date": "1984-10-05",
+  "docket_number": "",
+  "first_page": "1313",
+  "last_page": "1313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "481 A.2d 1313"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "478 A.2d 665",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7926513
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/478/0665-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 113,
+    "char_count": 1105,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43869024796426354
+    },
+    "sha256": "2625498546b188687448fe372e482ca81313163308479bf0708a7eb44f254804",
+    "simhash": "1:bbeb9a8bc13bf745",
+    "word_count": 173
+  },
+  "last_updated": "2024-02-27T19:44:37.891291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and ROBERTS, VIOLETTE, WATHEN, GLASSMAN and SCOLNIK, JJ.",
+      "All concurring."
+    ],
+    "parties": [
+      "Antonio DiMILLO v. LONGFELLOW CRUISE LINE."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe defendant, Longfellow Cruise Line, a tenant under a written lease, appeals from a judgment of the Superior Court (Cumberland County) denying its appeal from an order of the District Court, Portland, which issued a writ of possession on the complaint of the plaintiff, Antonio DiMillo, for forcible entry and detainer.\nThe present case is controlled by our decision in Rubin v. Josephson, 478 A.2d 665 (Me.1984) in which we held that 14 M.R.S.A. \u00a7 6002(1) is limited in scope to termination of tenancies at will.\nAccordingly, the entry is:\nJudgment reversed.\nRemanded to the Superior Court with directions to remand to the District Court for entry of judgment denying the writ of possession.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Reef & Mooers, P.A., Daniel W. Mooers (orally), Allen J. Hrycay, Portland, for plaintiff.",
+      "Waterhouse, Carroll & Cyr, Erland B. Hardy (orally), Biddeford, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio DiMILLO v. LONGFELLOW CRUISE LINE.\nSupreme Judicial Court of Maine.\nArgued Sept. 20, 1984.\nDecided Oct. 5, 1984.\nReef & Mooers, P.A., Daniel W. Mooers (orally), Allen J. Hrycay, Portland, for plaintiff.\nWaterhouse, Carroll & Cyr, Erland B. Hardy (orally), Biddeford, for defendant.\nBefore McKUSICK, C.J., and ROBERTS, VIOLETTE, WATHEN, GLASSMAN and SCOLNIK, JJ."
+  },
+  "file_name": "1313-01",
+  "first_page_order": 1373,
+  "last_page_order": 1373
+}

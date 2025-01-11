@@ -1,0 +1,201 @@
+{
+  "id": 9494861,
+  "name": "STATE of Maine v. Raymond JUNKINS",
+  "name_abbreviation": "State v. Junkins",
+  "decision_date": "2001-09-10",
+  "docket_number": "",
+  "first_page": "948",
+  "last_page": "951",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 948"
+    },
+    {
+      "type": "parallel",
+      "cite": "2001 ME 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "600 P.2d 1071",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Cal.Rptr. 839",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 Cal.3d 436",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2270578
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/25/0436-01"
+      ]
+    },
+    {
+      "cite": "2001 ME 25",
+      "category": "reporters:neutral",
+      "reporter": "ME",
+      "case_ids": [
+        11075422
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "\u00b6 3"
+        },
+        {
+          "page": "77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/765/0076-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 429",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218763
+      ],
+      "weight": 6,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "436-38"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0429-01"
+      ]
+    },
+    {
+      "cite": "528 U.S. 259",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9476301
+      ],
+      "weight": 8,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "281-82"
+        },
+        {
+          "page": "280-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/0259-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 353",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765282
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0353-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 738",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182629
+      ],
+      "weight": 11,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "744"
+        },
+        {
+          "page": "744"
+        },
+        {
+          "page": "744"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0738-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 606,
+    "char_count": 11208,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 1.0591725417818874e-07,
+      "percentile": 0.556097865165112
+    },
+    "sha256": "f5c7ed86ed9bf6309c07953896b2b58acf8bdf31a6f27e5d73782847a0d34207",
+    "simhash": "1:96829880a233e9d2",
+    "word_count": 1871
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Panel: WATHEN, C.J., and CLIFFORD, RUDMAN, DANA, SAUFLEY, ALEXANDER, and CALKINS, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Raymond JUNKINS."
+    ],
+    "opinions": [
+      {
+        "text": "CALKINS, J.\n[\u00b6 1] Raymond Junkins appeals from the judgment entered in the Superior Court (York County, Fritzsche, J.) following a jury verdict finding him guilty of five offenses: intentional or knowing murder, 17-A M.R.S.A. \u00a7 201(1)(A) (1983); attempted murder (Class A), 17-A M.R.S.A. \u00a7\u00a7 152(1) and 201(1)(A) (1983); robbery (Class A), 17-A M.R.S.A. \u00a7\u00a7 651(1)(D) and (2) (1983); theft by unauthorized taking or transfer (Class D), 17-A M.R.S.A. \u00a7\u00a7 353, 362(1) and (4)(B) (1983 & Supp.2000); and tampering with a witness (Class B), 17-A M.R.S.A. \u00a7 454(1)(A) (Supp.2000). Counsel, who was appointed to represent Jun-kins on appeal, has requested leave to withdraw on the ground that the appeal is frivolous. Counsel has submitted a brief summarizing the facts and outlining four potential arguments on appeal. Junkins has submitted, pro se, a request that counsel not be allowed to withdraw, and he asks that counsel be required to brief two issues. We conclude that the appeal is not frivolous; we deny counsel\u2019s request to withdraw; and we require counsel to brief the potential issues he has identified.\nI. BACKGROUND\n[\u00b6 2] Howard Lafoe died of stab wounds inflicted on the evening of September 3, 1998. Lafoe was the caretaker of Verna Junkins, who was frail and suffering from dementia. She was known to keep fi>om $2000 to $6000 in $20 bills in her purse at any given time. On the evening that La-foe died, Verna Junkins had injuries to her neck consistent with having been choked or smothered. Her purse and Lafoe\u2019s wallet were missing and never recovered.\n[\u00b6 3] Raymond Junkins, the grandson of Verna Junkins, was charged with Lafoe\u2019s murder, the attempted murder of Verna, and other offenses. The evidence at trial included testimony that, soon after the murder, Raymond\u2019s shirt was bloody and he had a substantial amount of cash in $20 bills. When his girlfriend asked where he got the money, he said he stole it. Raymond\u2019s ex-wife testified that on September 4, he asked her to lie to anyone who inquired about his whereabouts on the evening of the murder and to say that he was with her. He asked her to dispose of a black trash bag. A friend, who had posted bail for Raymond on an escape charge pending in New Hampshire, testified that she told Raymond that she would turn him over to New Hampshire officials if he did not pay a substantial debt he owed her. Raymond paid her in $20 bills shortly after Lafoe\u2019s murder.\n[\u00b6 4] After five days of trial, the jury convicted Raymond Junkins on all charges. He was sentenced to forty years incarceration on the murder charge and to lesser concurrent periods of incarceration on the other charges.\nII. APPELLATE COUNSEL\u2019S MOTION TO WITHDRAW\n[\u00b6 5] The Superior Court appointed counsel to represent Raymond Junkins on appeal. In his brief filed with this Court counsel states that there are no issues of arguable merit and that the appeal is wholly frivolous. For that reason, counsel seeks leave to withdraw from representation of Junkins. Nonetheless, counsel identified four potential issues: (1) the sufficiency of the evidence; (2) an evidentiary ruling excluding statements by Verna Jun-kins to the police shortly after the murder; (3) an evidentiary ruling allowing evidence of the New Hampshire charge of escape pending against Junkins; and (4) whether the jury pool was tainted by remarks from a member of the pool.\n[\u00b6 6] Counsel further states in his motion to withdraw and brief that he reviewed the complete record and transcripts. He talked with Raymond Junkins by telephone and corresponded with him by mail. Counsel spoke with Junkins\u2019 trial attorney. He sent a copy of his brief to Junkins.\n[\u00b6 7] Junkins filed a pro se \u201cObjection to Counsel\u2019s Request for Leave to Withdraw.\u201d In that document, Junkins asks that counsel be ordered to brief the issues of the exclusion of Verna Junkins\u2019 statements to the police and whether the jury selection was tainted by pretrial publicity. Junkins requests, in the alternative, that new counsel be appointed to represent him on appeal.\n[\u00b6 8] In his brief, counsel states that he is following the procedure established in Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). In Anders the Supreme Court examined the right to counsel on appeal as enunciated in Douglas v. California, 372 U.S. 353, 83 S.Ct. 814, 9 L.Ed.2d 811 (1963), and recognized the ethical dilemma of an attorney who has been appointed to prosecute an appeal he believes to be frivolous. Anders, 386 U.S. at 744, 87 S.Ct. 1396. The Court designed a procedure to be followed when counsel believes an appeal is frivolous. That procedure is designed to safeguard the constitutional right to counsel on appeal. We have not adopted the Anders procedure.\n[\u00b6 9] In Smith v. Robbins, 528 U.S. 259, 120 S.Ct. 746, 145 L.Ed.2d 756 (2000), the Supreme Court reviewed Anders. The CouiT held that the Anders procedure was merely one method of ensuring the constitutional right to counsel and that the states are free to fashion their own procedures for handling frivolous appeals.\n[\u00b6 10] We have reviewed the issues identified by counsel and by Raymond Junkins, and we conclude that they are not wholly frivolous. Although a defendant has no constitutional right to prosecute a wholly frivolous appeal, and no constitutional right to counsel for a frivolous appeal, McCoy v. Court of Appeals of Wis., Dist. 1, 486 U.S. 429, 436-38, 108 S.Ct. 1895, 100 L.Ed.2d 440 (1988), a defendant does have a constitutional right to pursue an appeal with arguable merit and a right to representation in that pursuit, Anders, 386 U.S. at 744, 87 S.Ct. 1396. Because the issues identified by Junkins and his counsel are not wholly frivolous, we deny counsel\u2019s motion to withdraw. We instruct counsel to brief these issues and to \u201csupport his client\u2019s appeal to the best of his ability.\u201d Id.\nThe entry is:\n. Motion of defendant\u2019s counsel to withdraw denied. Defendant\u2019s counsel shall file a brief arguing the issues previously outlined within twenty-eight days. The State shall have twenty-eight days to file its brief. Defendant\u2019s counsel may file a reply brief within fourteen days after service of the State\u2019s brief.\n. Although the issue of pretrial publicity is not precisely the same issue identified by Jun-kins\u2019 counsel, the two issues may be related.\n. Pursuant to Anders, an attorney who, after a conscientious review of the record, determines the appeal to be wholly frivolous, requests permission to withdraw. That request, along with the attorney\u2019s statement that the appeal is frivolous, is accompanied by a brief \"referring to anything in the record that might arguably support the appeal.\u201d Anders, 386 U.S. at 744, 87 S.Ct. 1396. A copy of the brief is sent to the defendant, who is given time to raise any other points. The appellate court then examines the record and determines for itself whether the appeal is frivolous. If the appeal is frivolous, the court may grant counsel\u2019s withdrawal request and dismiss the appeal. If any of the points on appeal are arguable, and therefore not frivolous, the court must afford counsel to the defendant. Id.\nCounsel, in this case, appears to be following a variant of Anders, that is, the procedure utilized in Wisconsin and described by the Supreme Court in McCoy v. Court of Appeals of Wisconsin, District 1, 486 U.S. 429, 108 S.Ct. 1895, 100 L.Ed.2d 440 (1988). The McCoy procedure required counsel to discuss why the appeal was frivolous. Although the Supreme Court found the McCoy procedure to be constitutional, it criticized this aspect of the McCoy procedure in Smith v. Robbins, 528 U.S. 259, 281-82, 120 S.Ct. 746, 145 L.Ed.2d 756 (2000).\n. In an appeal from an order terminating parental rights, we expressly stated that we were not deciding the applicability of Anders in such cases. In re William P., 2001 ME 25, \u00b6 3, 765 A.2d 76, 77. We have not discussed the Anders procedure in a criminal case.\n. In Smith v. Robbins, the Court examined the new procedure California established in People v. Wende, 25 Cal.3d 436, 158 Cal.Rptr. 839, 600 P.2d 1071 (1979). Pursuant to the Wende case, when counsel concludes that an appeal is frivolous, counsel files a brief with the appellate court summarizing the facts and procedural history, with citations to the record. Counsel also attests that he has reviewed the record, explained his evaluation to the defendant, provided the defendant with a copy of the brief, and informed the defendant of the right to file a pro se supplemental brief. Under Wende counsel neither explicitly states that the appeal is frivolous nor requests leave to withdraw. The appellate court conducts a review of the entire record. If it determines the appeal is frivolous it may dismiss it. If it determines that any issue is arguable it orders further briefing on that issue. The Supreme Court held that Wende fulfills the constitutional guarantee of counsel. Aspects of the Wende procedure that the Court expressly approved include: (1) the determination by both counsel and the appellate court that the appeal is frivolous; (2) counsel is not allowed to withdraw; and (3) the submission of a brief with the procedural and factual history and citations to the record ensures that counsel has examined the record and aids the appellate court is its own evaluation. Smith v. Robbins, 528 U.S. at 280-81, 120 S.Ct. 746.\n.Although this case potentially affords us the opportunity to establish a procedure for court-appointed appellate attorneys to follow when they are persuaded that an appeal is frivolous, we decline to do so. The issues raised by counsel and by Junkins are not frivolous, and, thus, this case does not squarely present the dilemma of a frivolous appeal. Furthermore, from our lack of discussion of this issue in the thirty-four years since Anders was decided, it appears that appellate counsel in Maine generally follow the American Bar Association Standard for Criminal Justice, Standard 4-8.3 (3rd ed.1993), Counsel on Appeal. Under that standard, appellate counsel does not seek to withdraw from a criminal appeal solely because counsel has determined that the appeal has no merit; if counsel cannot persuade the client to abandon a wholly frivolous appeal, counsel proceeds to represent the client with effective, quality representation. See James E. Duggan & Andrew W. Moeller, Make Way for the ABA: Smith v. Robbins Clears a Path for Anders Alternatives, 3 J. APP. PRAC. & PROCESS 65, 98 n. 211 (2001) (suggesting that Maine follows the ABA approach de facto as a matter of practice); Martha C. Warner, Anders in the Fifty States: Some Appellants\u2019 Equal Protection is More Equal Than Others, 23 FLA. ST. U.L. REV. 625, 651 n. 212 (1996) (reporting that Maine is one of several states that receives no or only sporadic Anders-type briefs).",
+        "type": "majority",
+        "author": "CALKINS, J."
+      }
+    ],
+    "attorneys": [
+      "G. Steven Rowe, Attorney General, Donald W. Macomber, William Stokes, Asst. Attorneys General, Augusta, for State.",
+      "Douglas D. Hendrick, Cornish, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "2001 ME 133\nSTATE of Maine v. Raymond JUNKINS.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs June 22, 2001.\nDecided Sept. 10, 2001.\nG. Steven Rowe, Attorney General, Donald W. Macomber, William Stokes, Asst. Attorneys General, Augusta, for State.\nDouglas D. Hendrick, Cornish, for defendant.\nPanel: WATHEN, C.J., and CLIFFORD, RUDMAN, DANA, SAUFLEY, ALEXANDER, and CALKINS, JJ."
+  },
+  "file_name": "0948-01",
+  "first_page_order": 990,
+  "last_page_order": 993
+}

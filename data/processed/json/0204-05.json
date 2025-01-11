@@ -1,0 +1,58 @@
+{
+  "id": 12486673,
+  "name": "Com. v. V. Romeo",
+  "name_abbreviation": "Com. v. Romeo",
+  "decision_date": "2016-03-21",
+  "docket_number": "NO. 1699 EDA 2015",
+  "first_page": "204",
+  "last_page": "204",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "f666d63897d45304e93697395a720e6d70125bb836a6d8b951cbf18031635d97",
+    "simhash": "1:35192d33c7a28ca4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nV. Romeo"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nV. Romeo\nNO. 1699 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 21, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0204-05",
+  "first_page_order": 204,
+  "last_page_order": 204
+}

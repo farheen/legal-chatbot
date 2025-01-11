@@ -1,0 +1,58 @@
+{
+  "id": 12485922,
+  "name": "Com. v. D. Teeter",
+  "name_abbreviation": "Com. v. Teeter",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 2082 EDA 2015",
+  "first_page": "593",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 157,
+    "sha256": "71c093f173cb874b436643d2b2148297c768e6c2f6e8c39dec2f40bc9801e738",
+    "simhash": "1:b54052b9a0940db1",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Teeter"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Teeter\nNO. 2082 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Affirmed.\nPetition for reargument denied April 13, 2016."
+  },
+  "file_name": "0593-03",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

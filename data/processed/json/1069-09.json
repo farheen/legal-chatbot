@@ -1,0 +1,59 @@
+{
+  "id": 6081563,
+  "name": "Chalfont et al. v. Hallock",
+  "name_abbreviation": "Chalfont v. Hallock",
+  "decision_date": "1952-02-13",
+  "docket_number": "No. 5900",
+  "first_page": "1069",
+  "last_page": "1069",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "39 C.C.P.A. 1069"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 74,
+    "ocr_confidence": 0.575,
+    "sha256": "d8384c02853102f853904794b784925d649f96862fd5b7fd1f21f3b21ec9cf69",
+    "simhash": "1:0310605f6ab0482c",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T17:22:55.380782+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chalfont et al. v. Hallock"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in self-locking nails.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Chalfont et al. v. Hallock\n(No. 5900)."
+  },
+  "file_name": "1069-09",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

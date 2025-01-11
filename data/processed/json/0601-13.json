@@ -1,0 +1,58 @@
+{
+  "id": 12486048,
+  "name": "Com. v. W. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 1335 WDA 2015",
+  "first_page": "601",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 154,
+    "sha256": "fbd7ef16dd4997cec93c28d5379ddbdad43896e408b156aab7cc1d051b11848b",
+    "simhash": "1:2d1d2e2112f686d4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Johnson\nNO. 1335 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0601-13",
+  "first_page_order": 601,
+  "last_page_order": 601
+}

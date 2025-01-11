@@ -1,0 +1,59 @@
+{
+  "id": 12168122,
+  "name": "In re Merlin A. Kinna",
+  "name_abbreviation": "In re Kinna",
+  "decision_date": "1965-05-29",
+  "docket_number": "No. 7693",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 66,
+    "ocr_confidence": 0.878,
+    "sha256": "84d78e0347ba67cc1ba878e85326a5d8a3b631f92619a42d7c83cd9187058880",
+    "simhash": "1:831ec673f997bae8",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Merlin A. Kinna"
+    ],
+    "opinions": [
+      {
+        "text": "Thermal insulator.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 29, 1965\nIn re Merlin A. Kinna\n(No. 7693)."
+  },
+  "file_name": "1839-06",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

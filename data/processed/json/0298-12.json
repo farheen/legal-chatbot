@@ -1,0 +1,62 @@
+{
+  "id": 12485567,
+  "name": "State v. Andre Larkin",
+  "name_abbreviation": "State v. Larkin",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-931 SEPT. TERM 2015, 077432",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 121,
+    "sha256": "ef15cd2efbeed1f89585e094f34b4fc1ad454ea739a4ba985e5e961ab89f4868",
+    "simhash": "1:18f52c37fc0eedbe",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nAndre Larkin"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nAndre Larkin\nNOS. C-931 SEPT. TERM 2015, 077432\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-12",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

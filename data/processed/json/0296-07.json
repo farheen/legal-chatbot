@@ -1,0 +1,62 @@
+{
+  "id": 12485530,
+  "name": "State v. William K. Breiner",
+  "name_abbreviation": "State v. Breiner",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-889 SEPT. TERM 2015, 077376",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 127,
+    "sha256": "5cdf8940b4e10489cdefb46fc30fde76a37c78bbc0f4acc459d94471942de245",
+    "simhash": "1:896c00f2109b0186",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nWilliam K. Breiner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nWilliam K. Breiner\nNOS. C-889 SEPT. TERM 2015, 077376\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-07",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

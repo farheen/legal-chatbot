@@ -1,0 +1,62 @@
+{
+  "id": 7942804,
+  "name": "Susan B. WILSON v. Robert B. GATES et al.",
+  "name_abbreviation": "Wilson v. Gates",
+  "decision_date": "1980-12-18",
+  "docket_number": "No. 80-541-M.P.",
+  "first_page": "243",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "424 A.2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 262,
+    "ocr_confidence": 0.79,
+    "sha256": "3aa562eb78bf31f0d2d44da4256e10c99478d1ce92a2c1f9bfe9d5856c127015",
+    "simhash": "1:1c9b5899c0d5361c",
+    "word_count": 42
+  },
+  "last_updated": "2023-07-14T20:20:40.051442+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Susan B. WILSON v. Robert B. GATES et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Sheffield & Harvey, G. Quentin Anthony, Jr., Newport, for plaintiff-respondent.",
+      "Robert B. Gates, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Susan B. WILSON v. Robert B. GATES et al.\nNo. 80-541-M.P.\nSupreme Court of Rhode Island.\nDec. 18, 1980.\nSheffield & Harvey, G. Quentin Anthony, Jr., Newport, for plaintiff-respondent.\nRobert B. Gates, pro se."
+  },
+  "file_name": "0243-03",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

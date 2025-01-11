@@ -1,0 +1,706 @@
+{
+  "id": 8002886,
+  "name": "Donald A. COOPER, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Cooper v. United States",
+  "decision_date": "1977-01-14",
+  "docket_number": "No. 7591",
+  "first_page": "554",
+  "last_page": "561",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "368 A.2d 554"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "392 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167798
+      ],
+      "weight": 8,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "31-34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0001-01"
+      ]
+    },
+    {
+      "cite": "407 U.S. 143",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9137003
+      ],
+      "weight": 6,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "145-46"
+        },
+        {
+          "page": "1923"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0143-01"
+      ]
+    },
+    {
+      "cite": "271 A.2d 783",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8085970
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/271/0783-01"
+      ]
+    },
+    {
+      "cite": "243 A.2d 54",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8065719
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/243/0054-01"
+      ]
+    },
+    {
+      "cite": "127 U.S. App.D.C. 180",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        4068400
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "382 F.2d 129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4068400,
+        2075987
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/382/0129-01"
+      ]
+    },
+    {
+      "cite": "132 U.S.App.D.C. 264",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3580319
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "407 F.2d 1199",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3580319,
+        2112359
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/407/1199-01"
+      ]
+    },
+    {
+      "cite": "393 U. S. 1120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11436554,
+        11436588,
+        11436436,
+        11436504,
+        11436569,
+        11436668,
+        11436638
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/1120-03",
+        "/us/393/1120-05",
+        "/us/393/1120-01",
+        "/us/393/1120-02",
+        "/us/393/1120-04",
+        "/us/393/1120-07",
+        "/us/393/1120-06"
+      ]
+    },
+    {
+      "cite": "89 S.Ct. 999",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 L.Ed.2d 125",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 U.S.App.D.C. 222",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1972,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 F.2d 1313",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1344267
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/463/1313-01"
+      ]
+    },
+    {
+      "cite": "354 A.2d 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8072757
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/354/0524-01"
+      ]
+    },
+    {
+      "cite": "160 U.S.App.D.C. 21",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3679246
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/160/0021-01"
+      ]
+    },
+    {
+      "cite": "489 F.2d 1145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        208206,
+        3679246
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1155"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/489/1145-01",
+        "/us-app-dc/160/0021-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 977",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6412465,
+        6412754,
+        6412664,
+        6412345,
+        6412573
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0977-02",
+        "/us/419/0977-05",
+        "/us/419/0977-04",
+        "/us/419/0977-01",
+        "/us/419/0977-03"
+      ]
+    },
+    {
+      "cite": "95 S.Ct. 239",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 L.Ed.2d 190",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "365 A.2d 64",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8006222
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "93-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/365/0064-01"
+      ]
+    },
+    {
+      "cite": "285 A.2d 310",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064389
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/285/0310-01"
+      ]
+    },
+    {
+      "cite": "97 S.Ct. 226",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 L.Ed.2d 160",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 U.S.App.D.C. 37",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3650929
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "348 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3650929,
+        857562
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/348/0043-01"
+      ]
+    },
+    {
+      "cite": "129 U.S.App.D.C. 100",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3578119
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "390 F.2d 866",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2100302,
+        3578119
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/390/0866-01"
+      ]
+    },
+    {
+      "cite": "131 U.S.App.D.C. 393",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3580085
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "405 F.2d 358",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1211816,
+        3580085
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/405/0358-01"
+      ]
+    },
+    {
+      "cite": "133 U.S.App.D.C. 288",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "410 F.2d 987",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2195458
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/410/0987-01"
+      ]
+    },
+    {
+      "cite": "117 U.S.App.D.C. 375",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "330 F.2d 841",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        127820
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/330/0841-01"
+      ]
+    },
+    {
+      "cite": "115 U.S.App.D.C. 184",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3648218,
+        3648595
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "317 F.2d 595",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        165136,
+        165121,
+        3648218,
+        3648595
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/317/0595-02",
+        "/f2d/317/0595-01"
+      ]
+    },
+    {
+      "cite": "498 F.2d 505",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        169410
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "511"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/498/0505-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 322",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 S.Ct. 2281",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        9525
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0332-01"
+      ]
+    },
+    {
+      "cite": "114 U.S.App.D.C. 120",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "312 F.2d 847",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        185711
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/312/0847-01"
+      ]
+    },
+    {
+      "cite": "17 A.L.R.3d 146",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "195-97"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "169 N.W.2d 869",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10778143
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "871",
+          "parenthetical": "issue should not be submitted \"unless the evidence would sustain an affirmative finding\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nw2d/169/0869-01"
+      ]
+    },
+    {
+      "cite": "38 Wash.2d 446",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        2419215
+      ],
+      "year": 1951,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/38/0446-01"
+      ]
+    },
+    {
+      "cite": "230 P.2d 308",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1951,
+      "opinion_index": 0
+    },
+    {
+      "cite": "252 Iowa 449",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        4409523
+      ],
+      "weight": 2,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "465"
+        },
+        {
+          "page": "622"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/252/0449-01"
+      ]
+    },
+    {
+      "cite": "6 Wash.App. 130",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1864258
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/6/0130-01"
+      ]
+    },
+    {
+      "cite": "491 P.2d 1342",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1972,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1093,
+    "char_count": 23111,
+    "ocr_confidence": 0.731,
+    "pagerank": {
+      "raw": 2.972247752600162e-07,
+      "percentile": 0.8503737090463576
+    },
+    "sha256": "639baa450abc69d22f8b720a2b55dd576319e90f4b4b17001500180764288d26",
+    "simhash": "1:2629a303ba10a7f1",
+    "word_count": 3809
+  },
+  "last_updated": "2024-02-27T23:10:53.000455+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before GALLAGHER and NEBEKER, Associate Judges, and PAIR, Associate Judge, Retired."
+    ],
+    "parties": [
+      "Donald A. COOPER, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "GALLAGHER, Associate Judge:\nAppellant was charged in five counts with first-degree premeditated murder (D. C.Code 1973, \u00a7 22-2401), first-degree felony murder (D.C.Code 1973, \u00a7 22-2401), first-degree burglary while armed (D.C. Code 1973, \u00a7\u00a7 22-1801 (a), -3202), first-degree burglary (D.C.Code 1973, \u00a7 22-1801(a)), and grand larceny (D.C.Code 1973, \u00a7 22-2201).\nThe trial court granted a defense motion for a bifurcated trial on the issue of insanity if a trial on this issue became necessary. After an examination at Saint Eliza-beths Hospital, appellant was certified competent to stand trial.\nAfter a hearing, the court suppressed a written statement given by appellant to the police the evening of his arrest. It denied a motion to suppress certain tangible evidence, and ruled admissible an oral statement given by appellant shortly after his arrest.\nAt the end of the government\u2019s case, the court granted motions for judgment of acquittal on the first-degree premeditated murder count and the grand larceny count, but denied a like motion directed to the count of felony murder. The jury returned guilty verdicts of first-degree murder (felony murder), and petit larceny.\nAt the conclusion of all the evidence in the second phase of the trial, the court directed a verdict in favor of the government on the insanity issue.\nSeveral substantial issues are presented. Appellant contends the trial court erred in (a) denying the motion to suppress physical evidence, (b) not suppressing appellant\u2019s oral statement, (c) denying the motion for judgment of acquittal of the felony murder count and erroneously instructing the jury on the factors for determination on \u201cwhether a small pen knife constitutes a dangerous weapon,\u201d and (d) directing a verdict in favor of the government on the question of insanity.\nAppellant was observed on the street one afternoon by an officer while carrying two portable television sets in an area which had been victimized by daytime burglaries and housebreakings. When questioned by officers on how he had obtained the sets appellant, during a brief period of time, gave two materially different stories. Another officer arriving on the scene recognized appellant as the person he had seen shortly before coming out of a nearby house. Appellant had looked up and down the street and then proceeded on his way. The officers decided to go to that house to investigate. It was considered advisable to transport appellant with them so that he would be available for arrest if it were discovered that the house had been burglarized ; and meanwhile the sets were impounded by the officers.\nUpon arrival at the house it was soon discovered that the resident was dead, and it later developed she had been murdered by strangulation. Appellant was immediately arrested for the homicide and burglary-\nAppellant argues that physical evidence, including the two television sets, approximately thirty dollars in cash and a small penknife taken from him should have been suppressed due to an illegal arrest without probable cause at the time it took place. It is contended that an arrest occurred prior to the discovery of the victim upon arrival at the house.\nWe do not agree there was an arrest either at the time appellant was detained on the street for questioning or when he was transported to the nearby house to await the outcome of the police investigation at that residence.\nWith respect to street detentions we might observe, preliminarily, that, whatever it might have been in previous decades, with the advent of Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968), the law relating to street encounters underwent a change and became more realistic. Prior to Terry the decisions in this phase of the law usually revolved around whether there was an arrest and, if so, whether there was probable cause supporting it. Now, more frequently than not, the initial issue is whether there was a Terry-type detention and, if so, whether it was supported by an \u201carticulable suspicion\u201d as required by that decision.\nWhen Terry was decided there were those who considered that its principal impact was to permit a protective frisk for weapons. Though it certainly had this thrust, it was soon apparent that its principal effect was that it gave Supreme Court sanction to a street detention based not upon probable cause to arrest, but upon a suspicion. Consequently, while cases vary, it is often now beside the point for a litigant to attack an initial street detention on the sole basis that there is no probable cause to arrest. In more cases than not, the real questions for the court now are whether the initial brief street detention by the police was based upon an \u201carticulable suspicion\u201d and, if so, whether the circumstances later had graduated into probable cause to arrest when the arrest occurred.\nApplying those generalized comments to this case, it is apparent to us that the initial police detention of appellant under these circumstances was permissible. Doubtless there was an intrusion on liberty when the police questioned appellant concerning the two portable television sets he was carrying along the street in a neighborhood that had been beset by daytime burglaries. We do not find the initial questioning unreasonable.\nWhen appellant gave two materially different versions to the police concerning the source of the sets the cause for suspicion increased substantially. When the newly arrived officer then stated he had just previously seen appellant emerge from a neighboring house, looking up and down the street, it was reasonable to proceed with appellant to that nearby residence to make inquiry. If in yesteryear this might have been considered an arrest at that point, we would consider such a view no longer realistic as a consequence .of Terry. See also Adams v. Williams, 407 U.S. 143, 92 S.Ct. 1921, 32 L.Ed.2d 612 (1972). Though basic constitutional protections must surely be preserved, at the same time courts should be \u201cearthy\u201d in assessing these street encounters.\nAs the Supreme Court said in Adams v. Williams, supra:\nThe Fourth Amendment does not require a policeman who lacks the precise level of information necessary for probable cause to arrest to simply shrug his shoulders and allow a crime to occur or a criminal to escape. On the contrary, [Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 889 (1968)] recognizes that it may be the essence of good police work to adopt an intermediate response. [Citation omitted.] A brief stop of a suspicious individual, in order to determine his identity or to maintain the status quo momentarily while obtaining more information, may be most reasonable in light of the facts known to the officer at the time. [407 U.S. at 145-46, 92 S.Ct. at 1923.]\nWe see no constitutionally unreasonable police conduct leading to the arrest.\nAppellant next contends that the trial court erred in denying his motion for a judgment of acquittal of the felony murder charge because the sole evidence that he was armed with a dangerous weapon, a necessary element of the crime, was that a small penknife was found in his pocket.\nThe indictment charged :\n[0]n or about February 6th, 1973, within the District of Columbia, Donald A. Cooper killed Leona Patterson in perpetrating and attempting to perpetrate the crime of housebreaking while armed with and using a dangerous weapon.\nOn this issue, the government stated at trial:\nYour honor, this small pen knife which was recovered from Mr. Cooper is not in and of itself a dangerous weapon. I have on occasion carried one myself. I think, however, in the circumstances of this case, the availability of that knife, as would he the availability of a pair of scissors, is sufficient to satisfy the requirements of the statute, and we would submit that the statutory requirements have been so satisfied with recovery of that knife on Mr. Cooper. [Emphasis added.]\nThis sums up the essence of this question. There was no evidence that the penknife was used or came out of appellant\u2019s pocket at any time during the crime period. While it is not necessary that an implement, e. g., a pistol, be utilized in the crime to fulfill the requirements of the statute, if an instrument is not per se a dangerous weapon \u2014 and the government so conceded at trial in respect to the small penknife \u2014 it would seem only reasonable that the government be required to show something additional to enable a finding that it met the \u201cwhile armed with and using a dangerous weapon\u201d allegation in the indictment.\nWhile it may not necessarily be true, as appellant contends, that the government is required to meet the tests laid down for the various \u201cdangerous weapon\u201d statutes (D.C.Code 1973, \u00a7\u00a7 22-502, -3204, -3214), in order to satisfy the charge in this case the fact is that the instrument here involved, a pocket penknife, must be established as a dangerous weapon to support the conviction of first-degree murder. Under the statutes that appellant would have us apply the government is frequently required to show surrounding circumstances or the actual use of the instrument in establishing that an instrument is a \u201cdangerous weapon.\u201d E. g., Gilmore v. United States, D.C.App., 271 A.2d 783 (1970); Scott v. United States, D.C.App., 243 A.2d 54 (1968). The felony murder statute here involved does not have the same rationale. Nevertheless, the fact remains that the government\u2019s evidence is simply that, when arrested shortly after the death by strangulation was discovered, appellant had a small penknife in his pocket. In view of the nature of this instrument, we consider that something more than that is required in this particular case to meet the \u201cdangerous weapon\u201d provision of the felony murder (first-degree murder) statute. Accordingly, we must remand to the trial court for entry of a verdict for second-degree murder, as we will later direct. Austin v. United States, 127 U.S. App.D.C. 180, 382 F.2d 129 (1967); Fuller v. United States, 132 U.S.App.D.C. 264, 407 F.2d 1199 (1968), cert, denied, 393 U. S. 1120, 89 S.Ct. 999, 22 L.Ed.2d 125 (1969).\nWe now turn to the questions relating to the insanity issue. We will deal first with the procedural aspects.\nAppellant contends that the court erred in ruling that appellant had the burden of establishing insanity because (a) the felony murder statute (D.C.Code 1973, \u00a7 22-2401) makes mental capacity an element of felony murder despite \u00a7 24-301 (j) and (b) placing the burden of persuasion upon the defendant for this is unconstitutional.\nAppellant contends, for the first time on appeal, and notwithstanding having requested a bifurcated trial, that the first-degree murder statute makes sanity an element that the government must prove beyond a reasonable doubt. That statute provides:\nWhoever, being of sound memory and discretion, kills another ... is guilty of murder in the first degree. [D.C.Code 1973, \u00a7 22-2401.]\nAppellant argues that we should exclude that murder statute from the coverage of \u00a7 24-301 (j) (the preponderance of the evidence statute). The first-degree murder statute is a restatement of common law homicide, United States v. Green, 150 U.S.App.D.C. 222, 224 n.5, 463 F.2d 1313, 1315 n.5 (1972), and there has not been a requirement on the government to show initially that the defendant was sane when the offense was committed as a mere statement of the proposition would indicate. With reference to felony murder, this principle was recently stated by this court in Shanahan v. United States, D.C.App., 354 A.2d 524 (1976), which quoted with approval United States v. Greene, 160 U.S.App.D.C. 21, 31, 489 F.2d 1145, 1155 (1973), cert. denied, 419 U.S. 977, 95 S.Ct. 239, 42 L.Ed.2d 190 (1974). See also Bethea v. United States, D.C.App., 365 A.2d 64, 93-95 (1976). Sanity is presumed until such time as the presumption is overcome.\nAppellant next argues that the allocation of the burden of persuasion is unconstitutional. Noting that the Circuit Court in this jurisdiction in United States v. Greene, supra, recently decided this issue contrary to this position, appellant argues that case was wrongly decided and, in any event, is not binding upon this court under M. A. P. v. Ryan, D.C.App., 285 A.2d 310 (1971). As to the latter assertion, we agree but we do not consider that it was wrongly decided. The Supreme Court effectively resolved the issue recently in Rivera v. Delaware, -U.S. -, 97 S.Ct. 226, 50 L.Ed.2d 160 (1976), by dismissing for want of a substantial federal question. The State Supreme Court in Rivera had upheld a Delaware statute requiring a criminal defendant to prove mental illness or defect by a preponderance of the evidence. Rivera v. Delaware, Del.Supr. 351, A.2d 561 (1976). In addition, this court previously so decided in Shanahan v. United States, supra and Bethea v. United States, supra.\nIt is now the law in this jurisdiction that a defendant claiming insanity has the burden of proving it by a preponderance of the evidence. D.C.Code 1973, \u00a7 24-301 (j). Formerly, we were bound by the federal \u201csome evidence\u201d rule. If there appeared \u201csome evidence\u201d of insanity of a defendant it became the government\u2019s burden to establish beyond a reasonable doubt that the defendant was responsible criminally for his acts. E. g., Heard v. United States, 121 U.S.App.D.C. 37, 348 F.2d 43 (1964), rev\u2019d and remanded on other grounds, 129 U.S.App.D.C. 100, 390 F.2d 866 (1968).\nBecause in this jurisdiction the burden of proof is now on the defendant, we are no longer bound by the \u201csome evidence\u201d rule. Rather, in order to survive the government\u2019s request for a directed verdict, appellant has the burden of establishing a prima' facie case of insanity. The \u201csome evidence\u201d rule has no applicability in a jurisdiction in which the defendant has the burden of proof. A prima fa-cie showing by the defendant is now the rule.\nThis brings us to the issue of whether the trial court was correct in directing a verdict in favor of the government on the insanity issue.\nAfter a lengthy hearing of several days, the trial court concluded there was not sufficient evidence of a mental disease or defect to submit the insanity issue to the jury. It appears to be the sense of the court\u2019s ruling that the evidence established chronic alcoholism; and this, in itself, is not legally recognized as amounting to insanity.\nThe essence of the defense evidence going to insanity may be stated as follows: Appellant was a chronic alcoholic. He produced lay testimony of abnormal behavior. There was medical evidence that appellant suffered a blackout on the day of the crime. Two expert witnesses for the defense testified that his alcoholic addiction and brain damage impaired his behavioral controls such that he lacked substantial capacity to appreciate the wrongfulness of his conduct or to conform his conduct to the requirement of the law.\nTwo medical experts testified on behalf of appellant, Drs. Vanderpool and Travis. They both agreed that appellant suffered from an advanced case of alcoholism, which was identified as a mental illness. Dr. Vanderpool was of the view that appellant had a transient toxic psychosis.\nBoth doctors agreed that appellant has brain damage. While there was some inconsistency in the testimony of Dr. Travis it was the sense of it that appellant had more severe brain damage than most alcoholic patients he had observed. In discussing the brain damage, Dr. Travis stated that appellant has a \u201cprofusely abnormal electro encephalogram.\u201d\nDr. Vanderpool testified that in the past appellant had been struck a blow in the head by a baseball bat. From a test, he believes there was damage to an area in the back of the head \u201cin what we call the association area.\u201d He was of the view that \u201cthe alcohol and/or the blow, and probably both,\u201d have caused brain damage to appellant.\nDr. Vanderpool\u2019s opinion was that appellant was in a blackout on the day of the crime, during which he consumed a vast quantity of alcohol. He said that in a blackout a person does not know what he has done and cannot appreciate the wrongfulness of his acts. He testified that on that day appellant was suffering from a transient toxic psychosis and in that sense would not be in his right mind at that particular point.\nHe concluded that the homicide was the result of a mental disease or defect affecting appellant\u2019s capacity to know right from wrong and impairing his behavior controls.\nWe conclude that, under the law of this jurisdiction, appellant introduced evidence of insanity sufficient to constitute a prima facie case. There was significant probative evidence to meet the holding of Salzman v. United States, 131 U.S.App.D.C. 393, 405 F.2d 358 (1968), that alcoholic addiction will not permit a finding of insanity unless adequately accompanied by other evidence of mental disease. In this jurisdiction it regularly has been held that, though drug (alcoholic) addiction standing alone does not permit a finding of nonre-sponsibility for crime, it may do so in combination with other substantial evidence to this effect. E. g., Gaskins v. United States, 133 U.S.App.D.C. 288, 410 F.2d 987 (1967); Rivers v. United States, 117 U.S.App.D.C. 375, 330 F.2d 841 (1964); Horton v. United States, 115 U.S.App.D.C. 184, 317 F.2d 595 (1963); Heard v. United States, 121 U.S.App.D.C. 37, 348 F.2d 43 (1965), rev\u2019d and remanded on other grounds, 129 U.S.App.D.C. 100, 390 F.2d 866 (1968). See also Brinkley v. United States, 498 F.2d 505, 511 (8th Cir. 1974).\nWe believe there was ample, relevant evidence here to require that the insanity issue be submitted to the jury, and we conclude it was reversible error not to do so. Consequently, we vacate the judgments of conviction and remand for a hearing on appellant\u2019s responsibility for the offenses, with the ultimate judgments to abide that finding. If appellant is found criminally responsible the entry of judgments of conviction of second-degree murder and petit larceny shall be made and appropriate sentences shall be imposed. If appellant is found not guilty by reason of insanity, the appropriate judgment on proceedings thereafter shall be entered.\nReversed and remanded for further proceedings in accordance with this opinion.\n. Murder during the commission of burglary while armed.\n. Encompassed in the latter are attacks on ,the statutory requirement (D.C.Code 1973, \u00a7 24\u2014 301 (j)), that a defendant has the burden of proving insanity by a preponderance of the evidence.\n.Appellant stresses that prior to the discovery of the viqtim there had been no report of the stolen television sets or of a burglary in that neighborhood. While investigation of a reported crime allows more investigative leeway for ,the police in some situations, we do not consider that the lack of a reported crime is materially significant here. Daytime burglaries are frequently not contemporaneously discovered.\n. The Terry \u201cstop\u201d and protective frisk had doubtless been a widespread police practice in the past but it had not previously received Supreme Court consideration and approval.\n. With his usual incisiveness, Justice Harlan foresaw .the most important future impact of Terry and, not finding much about this in the majority opinion, he wrote a brief concurrence which has turned out to be prescient. Terry, supra at 31-34, 88 S.Ct. 1868.\n. We have examined appellant\u2019s contention relating ,to his oral statement and conclude that the trial court\u2019s ruling should not be disturbed.\n. Record at 818-19.\n. It was stipulated that a government expert would .testify that while a telephone cord and a cord around the victim\u2019s neck were cut, he would further testify that \u201cno determination could be made as to whether the pen knife or either of the nail clippers cu,t or made the marks on the telephone cord, the cord from the decedent\u2019s neck, the cord recovered at the scene or on the mail slot.\u201d\n. At oral argument, the government offered that if the court were to conclude that the pocket penknife was not established to be a \u201cdangerous weapon\u201d in .this case, the court may remand the case under Austin, v. United, States, 127 TJ.S.App.D.C. 180, 382 F.2d 129 (1967), to the trial court for the purpose of entering a judgment of conviction of second-degree murder.\n. This is a relatively recent statute on burden of proof in establishing insanity. It provides in pertinent part;\nNo person accused of an offense shall be acquitted on the ground that he was insane at the time of its commission unless his insanity, regardless of who raises the issue, is affirmatively established by a preponderance of ,the evidence.\n.Appellant argues that it is unnecessary to reach these questions as the evidence was sufficient in any event to require that the insanity issue go to the jury. Because of our disposition of the latter issue we discuss the procedural questions first.\n. Appellant first contends it is contrary to the governmental burden to prove every element of a criminal charge beyond a reasonable doubt. In re Winship, 397 U.S. 358, 90 S.Ct. 1068, 25 L.Ed.2d 368 (1969). We have already disposed of this, however, in concluding that sanity is not an element that need be charged or proved by the government.\n. For the precedential effect of this action of ,the Supreme Court, see Hicks v. Miranda, 422 U.S. 322, 344, 95 S.Ct. 2281, 45 L.Ed.2d 223 (1975).\n. \u201cSome evidence\u201d is defined as meaning \u201cmore than a scintilla.\u201d McDonald v. United States, 114 U.S.App.D.C. 120, 122, 312 F.2d 847, 849 (1962).\n. More than 20 states have the preponderance rule. See Annot., 17 A.L.R.3d 146, 195-97 (1968).\n. Although states which have the same preponderance rule as the District have seldom passed on this question, several have required that the defendant must make a prima facie showing in order to withstand a motion for directed verdict. E. g., State v. Booth, 169 N.W.2d 869, 871 (Iowa 1969) (issue should not be submitted \u201cunless the evidence would sustain an affirmative finding\u201d) ; State v. Rio, 38 Wash.2d 446, 230 P.2d 308 (1951). Cases in both these states have also at times Stated that when there is no \u201csubstantial evidence\u201d of insanity it is not error for the trial court to direct a verdict. State v. Hodge, 252 Iowa 449, 465, 105 N.W.2d 613, 622 (1969) ; State v. Zamora, 6 Wash.App. 130, 491 P.2d 1342 (1972).\n. There was no real dispute as to this.\n. Additionally, as indicated, there was probative testimony of brain damage independent of brain damage caused by alcohol.",
+        "type": "majority",
+        "author": "GALLAGHER, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "W. Gary Kohlman, Public Defender Service, Washington, D. C., for appellant. Carrie L. Fair, Public Defender Service, Washington, D. C., also entered an appearance for appellant.",
+      "Jeffrey T. Demerath, Asst. U. S. Atty., Washington, D. G, with whom Earl J. Sil-bert, U. S. Atty., and John A. Terry, Albert H. Turkus and Jonathan B. Marks, Asst. U. S. Attys., Washington, D. C., were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Donald A. COOPER, Appellant, v. UNITED STATES, Appellee.\nNo. 7591.\nDistrict of Columbia Court of Appeals.\nArgued April 9, 1975.\nDecided Jan. 14, 1977.\nW. Gary Kohlman, Public Defender Service, Washington, D. C., for appellant. Carrie L. Fair, Public Defender Service, Washington, D. C., also entered an appearance for appellant.\nJeffrey T. Demerath, Asst. U. S. Atty., Washington, D. G, with whom Earl J. Sil-bert, U. S. Atty., and John A. Terry, Albert H. Turkus and Jonathan B. Marks, Asst. U. S. Attys., Washington, D. C., were on the brief, for appellee.\nBefore GALLAGHER and NEBEKER, Associate Judges, and PAIR, Associate Judge, Retired."
+  },
+  "file_name": "0554-01",
+  "first_page_order": 606,
+  "last_page_order": 613
+}

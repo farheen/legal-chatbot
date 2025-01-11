@@ -1,0 +1,58 @@
+{
+  "id": 12489565,
+  "name": "IN RE A.K.",
+  "name_abbreviation": "In re A.K.",
+  "decision_date": "2017-04-24",
+  "docket_number": "17\u2013019",
+  "first_page": "1098",
+  "last_page": "1098",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1098"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 138,
+    "sha256": "ddcab13e8ab78a81cbfeaa7debb9008ee1ae0ec87e04f0bba468b1c5037c6d2a",
+    "simhash": "1:df196e10fb40c84c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE A.K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE A.K.\n17-019\nSupreme Court of Vermont.\nApril 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1098-17",
+  "first_page_order": 1098,
+  "last_page_order": 1098
+}

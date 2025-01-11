@@ -1,0 +1,59 @@
+{
+  "id": 6082700,
+  "name": "Ex parte Philharmonic Radio Corp., etc.",
+  "name_abbreviation": "Ex parte Philharmonic Radio Corp.",
+  "decision_date": "1947-03-05",
+  "docket_number": "No. 5432",
+  "first_page": "1208",
+  "last_page": "1208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 108,
+    "ocr_confidence": 0.565,
+    "sha256": "9106f0d9ab807e19a719e310e554cf906948b0121ab62abe523af580561a0716",
+    "simhash": "1:8d49d3ac55857c00",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Philharmonic Radio Corp., etc."
+    ],
+    "opinions": [
+      {
+        "text": "Trade-mark for radio receiving apparatus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 5, 1947\nEx parte Philharmonic Radio Corp., etc.\n(No. 5432)."
+  },
+  "file_name": "1208-04",
+  "first_page_order": 526,
+  "last_page_order": 526
+}

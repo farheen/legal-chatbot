@@ -1,0 +1,97 @@
+{
+  "id": 11612584,
+  "name": "In the Interest of C.D., a Juvenile. Appeal of C.D.",
+  "name_abbreviation": "In the Interest of C.D.",
+  "decision_date": "1999-05-17",
+  "docket_number": "",
+  "first_page": "70",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "729 A.2d 70"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "658 A.2d 752",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        472204,
+        7872252
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0453-01",
+        "/a2d/658/0752-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 453",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472204
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0453-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 678,
+    "ocr_confidence": 0.765,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2419249153135955
+    },
+    "sha256": "5f63fc31e51302065f39ee9a7f442de58aa6ec6f7ee711a2d487ecec7cab5dc4",
+    "simhash": "1:1f910306fd1a143e",
+    "word_count": 110
+  },
+  "last_updated": "2024-02-27T22:03:27.217003+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+    ],
+    "parties": [
+      "In the Interest of C.D., a Juvenile. Appeal of C.D."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe order of the Superior Court is hereby reversed. See Commonwealth v. Banks, 540 Pa. 453, 658 A.2d 752 (1995).\nJustice CAPPY did not participate in the decision of this case.\nJustices CASTILLE and NEWMAN dissent.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Willaim E. Ruane, Asst. Public Defender, Office of the Public Defender, for C.D., Juvenile.",
+      "Patrick L. Meehan, Dist. Atty., Michelle Hutton, Asst. Dist. Atty., A. Sheldon Ko-vach, Dep. Dist. Atty., Office of the Dist. Atty., for Com."
+    ],
+    "corrections": "",
+    "head_matter": "In the Interest of C.D., a Juvenile. Appeal of C.D.\nSupreme Court of Pennsylvania.\nArgued April 26, 1999.\nDecided May 17, 1999.\nWillaim E. Ruane, Asst. Public Defender, Office of the Public Defender, for C.D., Juvenile.\nPatrick L. Meehan, Dist. Atty., Michelle Hutton, Asst. Dist. Atty., A. Sheldon Ko-vach, Dep. Dist. Atty., Office of the Dist. Atty., for Com.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN and SAYLOR, JJ."
+  },
+  "file_name": "0070-03",
+  "first_page_order": 120,
+  "last_page_order": 121
+}

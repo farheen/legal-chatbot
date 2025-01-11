@@ -1,0 +1,62 @@
+{
+  "id": 12488486,
+  "name": "In re: Adoption of: S.A.K. Appeal of: A.M.K.",
+  "name_abbreviation": "In re Of",
+  "decision_date": "2016-05-17",
+  "docket_number": "999 MDA 2015",
+  "first_page": "1149",
+  "last_page": "1149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1149"
+    },
+    {
+      "type": "parallel",
+      "cite": "999 Md. App. 2015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 153,
+    "sha256": "0c94839d36ef7fde1837e11f07fba09c4948c4660cd7ce3bf59a969fb4928aee",
+    "simhash": "1:949216b37ee6d5a2",
+    "word_count": 24
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: Adoption of: S.A.K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re: Adoption of: S.A.K.\nAppeal of: A.M.K.\n999 MDA 2015\nSuperior Court of Pennsylvania.\nMay 17, 2016\nReargument Denied June 28, 2016\nVacated/Remanded"
+  },
+  "file_name": "1149-09",
+  "first_page_order": 1149,
+  "last_page_order": 1149
+}

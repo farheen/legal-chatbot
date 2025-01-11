@@ -1,0 +1,58 @@
+{
+  "id": 12487088,
+  "name": "Commonwealth v. Shontelle Harvey",
+  "name_abbreviation": "Commonwealth v. Harvey",
+  "decision_date": "2016-08-18",
+  "docket_number": "NO. 138 WAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 140,
+    "sha256": "0bbe6e0c426ea0a232b48ef514fb8861d39e3ed75f0ce0781fbe58469b383ad6",
+    "simhash": "1:fcab575318a989b1",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nShontelle Harvey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nShontelle Harvey\nNO. 138 WAL (2016)\nSupreme Court of Pennsylvania\nAugust 18, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-15",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

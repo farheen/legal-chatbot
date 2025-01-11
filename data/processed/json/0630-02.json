@@ -1,0 +1,59 @@
+{
+  "id": 8354542,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Joseph PRICE, Petitioner",
+  "name_abbreviation": "Commonwealth v. Price",
+  "decision_date": "2007-07-12",
+  "docket_number": "No. 162 EM 2005",
+  "first_page": "630",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 420,
+    "ocr_confidence": 0.668,
+    "sha256": "c386330be67ce4701460141d2a80bf0e6c7b5861fd57a65a829ea75540ee9587",
+    "simhash": "1:8520c14bf1871924",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T19:01:18.689048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Joseph PRICE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of July, 2007, the Motion for a Correction of an Illegal Sentence is denied without prejudice to his right to apply to the Philadelphia County Common Pleas Court for relief. The Application for Speedy Disposition of Motion is dismissed as moot.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Joseph PRICE, Petitioner.\nNo. 162 EM 2005.\nSupreme Court of Pennsylvania.\nJuly 12, 2007."
+  },
+  "file_name": "0630-02",
+  "first_page_order": 678,
+  "last_page_order": 678
+}

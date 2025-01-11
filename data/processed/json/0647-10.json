@@ -1,0 +1,58 @@
+{
+  "id": 12490005,
+  "name": "HIXEN, W v. UCBR",
+  "name_abbreviation": "Hixen v. UCBR",
+  "decision_date": "2016-12-01",
+  "docket_number": "529 CD 2016",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "164 A.3d 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 127,
+    "sha256": "2defcfa954b87b9ba14b42b05b9b6ee666d684499fa60062f7cf2e6a1a5b64d9",
+    "simhash": "1:257d62758af84e72",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.019769+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HIXEN, W\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "HIXEN, W\nv.\nUCBR\n529 CD 2016\nCommonwealth Court of Pennsylvania.\nDecember 1, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0647-10",
+  "first_page_order": 647,
+  "last_page_order": 647
+}

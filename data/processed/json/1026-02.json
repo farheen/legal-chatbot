@@ -1,0 +1,86 @@
+{
+  "id": 7942449,
+  "name": "STATE of Maine v. Kenneth GARDNER",
+  "name_abbreviation": "State v. Gardner",
+  "decision_date": "1988-09-15",
+  "docket_number": "",
+  "first_page": "1026",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "546 A.2d 1026"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "438 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7969806
+      ],
+      "pin_cites": [
+        {
+          "page": "467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/438/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 108,
+    "char_count": 933,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20062771999448617
+    },
+    "sha256": "6ea3050f454becd6cff4c6eb72a6bce177850800e9eff32164c49a98e422911a",
+    "simhash": "1:d96f52e2c33c439f",
+    "word_count": 144
+  },
+  "last_updated": "2024-02-27T23:50:07.359016+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Kenneth GARDNER."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nKenneth Gardner appeals from a judgment of the Superior Court (Penobscot County) entered on a jury verdict convicting him of operating a motor vehicle while under the influence of intoxicating liquor in violation of 29 M.R.S.A. \u00a7 1312-B (1983 & Supp.1987). The record discloses that Gardner did not preserve his objection to the allegedly improper evidence, see M.R. Evid. 103(a)(1) (requiring \u201ca timely objection ... stating the specific ground of objection), and its admission was not obvious error. See State v. True, 438 A.2d 460, 467 (Me.1981).\nThe entry is:\nJUDGMENT AFFIRMED.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "R. Christopher Almy, Dist. Atty., Philip C. Worden, Asst. Dist. Atty., Bangor, for plaintiff.",
+      "Perry O\u2019Brian, Bangor, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Kenneth GARDNER.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs Sept. 13, 1988.\nDecided Sept. 15, 1988.\nR. Christopher Almy, Dist. Atty., Philip C. Worden, Asst. Dist. Atty., Bangor, for plaintiff.\nPerry O\u2019Brian, Bangor, for defendant.\nBefore WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+  },
+  "file_name": "1026-02",
+  "first_page_order": 1088,
+  "last_page_order": 1088
+}

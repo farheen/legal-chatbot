@@ -1,0 +1,62 @@
+{
+  "id": 8005873,
+  "name": "In re MONDO",
+  "name_abbreviation": "In re Mondo",
+  "decision_date": "1982-12-30",
+  "docket_number": "No. 82-567-M.P.",
+  "first_page": "1102",
+  "last_page": "1102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "453 A.2d 1102"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 278,
+    "ocr_confidence": 0.802,
+    "sha256": "129c83355b4e530d85da1f8dac4a4e4bac903755127ab8e5f5c685edcf837e15",
+    "simhash": "1:5cbf633c1e4131c7",
+    "word_count": 46
+  },
+  "last_updated": "2023-07-14T18:20:38.163642+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re MONDO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Stephen C. Bridge, Asst. Public Defender, for petitioner.",
+      "Dennis J. Roberts II, Atty. Gen., John J. McMahon, Sp. Asst. Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In re MONDO.\nNo. 82-567-M.P.\nSupreme Court of Rhode Island.\nDec. 30, 1982.\nStephen C. Bridge, Asst. Public Defender, for petitioner.\nDennis J. Roberts II, Atty. Gen., John J. McMahon, Sp. Asst. Atty. Gen., for respondent."
+  },
+  "file_name": "1102-03",
+  "first_page_order": 1158,
+  "last_page_order": 1158
+}

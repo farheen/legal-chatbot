@@ -1,0 +1,58 @@
+{
+  "id": 12488943,
+  "name": "IN RE A.E.",
+  "name_abbreviation": "In re A.E.",
+  "decision_date": "2016-11-04",
+  "docket_number": "16\u2013217",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "8de7ae6de348a15d5b51fee821dc09bde3761a79067ce81661e3784b7e68c196",
+    "simhash": "1:d0dd2a523b43f261",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE A.E."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE A.E.\n16-217\nSupreme Court of Vermont.\nNovember 4, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1230-14",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

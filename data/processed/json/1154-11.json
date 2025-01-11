@@ -1,0 +1,58 @@
+{
+  "id": 12488550,
+  "name": "Com. v. Hale, J.",
+  "name_abbreviation": "Com v. Hale",
+  "decision_date": "2016-05-20",
+  "docket_number": "2883 EDA 2015",
+  "first_page": "1154",
+  "last_page": "1154",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 100,
+    "sha256": "432fdc99a9011188ad1bf0e0b62c364b4e2c18408505858872adb0e9bd86291d",
+    "simhash": "1:b9533291808099e0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHale, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHale, J.\n2883 EDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nJuly 15, 2016\nAffirmed"
+  },
+  "file_name": "1154-11",
+  "first_page_order": 1154,
+  "last_page_order": 1154
+}

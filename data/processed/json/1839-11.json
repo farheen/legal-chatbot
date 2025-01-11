@@ -1,0 +1,59 @@
+{
+  "id": 12168231,
+  "name": "Adolf Frankel v. Reid Ewing",
+  "name_abbreviation": "Frankel v. Ewing",
+  "decision_date": "1965-06-09",
+  "docket_number": "No. 7615",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 53,
+    "ocr_confidence": 0.664,
+    "sha256": "3456023090ae70644c1ab6c15808434a4875599b5c319f19fa947029bafea3ec",
+    "simhash": "1:43d642b340ec4658",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adolf Frankel v. Reid Ewing"
+    ],
+    "opinions": [
+      {
+        "text": "Evaporators.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Adolf Frankel v. Reid Ewing\n(No. 7615)."
+  },
+  "file_name": "1839-11",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486460,
+  "name": "Com. v. L. Nunez-Calderon",
+  "name_abbreviation": "Com. v. Nunez-Calderon",
+  "decision_date": "2016-03-04",
+  "docket_number": "NO. 893 MDA 2015",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "sha256": "1208439051c3166221102ef06e8ea3acb6e9a1bde8234533245acc538e71354f",
+    "simhash": "1:7d0b9e65a5277da0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Nunez-Calderon"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Nunez-Calderon\nNO. 893 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 04, 2016\nAffirmed."
+  },
+  "file_name": "0190-04",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

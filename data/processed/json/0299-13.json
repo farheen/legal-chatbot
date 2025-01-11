@@ -1,0 +1,58 @@
+{
+  "id": 12490509,
+  "name": "IN RE: CONDEM-PA TURNPIKE COMM (ORANGE HILL)",
+  "name_abbreviation": "In re Comm",
+  "decision_date": "2017-03-28",
+  "docket_number": "1186 CD 2016",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 119,
+    "sha256": "77a33aa6e3247ee8e6a2c3b89380bc854fcdfc4e097b1aacada70db34d4ade23",
+    "simhash": "1:cfacfea744805e78",
+    "word_count": 18
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: CONDEM-PA TURNPIKE COMM (ORANGE HILL)"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE: CONDEM-PA TURNPIKE COMM (ORANGE HILL)\n1186 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 28, 2017\nAffirmed"
+  },
+  "file_name": "0299-13",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

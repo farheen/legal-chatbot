@@ -1,0 +1,58 @@
+{
+  "id": 12488721,
+  "name": "Kent v. R.L. Valee, Inc.",
+  "name_abbreviation": "Kent v. R.L. Valee, Inc.",
+  "decision_date": "2016-08-17",
+  "docket_number": "16-264",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 151,
+    "sha256": "4916ced0c2eeb2431a269f7b263ba59ea63964e67d1e4c0ee93242e0d07f4016",
+    "simhash": "1:587dbf12ce64eab5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kent\nv.\nR.L. Valee, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kent\nv.\nR.L. Valee, Inc.\n16-264\nSupreme Court of Vermont.\nAugust 17, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDenied."
+  },
+  "file_name": "0343-06",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

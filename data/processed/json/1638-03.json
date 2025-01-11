@@ -1,0 +1,59 @@
+{
+  "id": 6087596,
+  "name": "In re Hiroshi Ishizuka",
+  "name_abbreviation": "In re Ishizuka",
+  "decision_date": "1967-01-17",
+  "docket_number": "No. 7960",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 93,
+    "ocr_confidence": 0.674,
+    "sha256": "50708ea911995b0d0b832a49d2612c87221b6f16ca60a91e4fb47977d1fa7c75",
+    "simhash": "1:58093618a55619e3",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Hiroshi Ishizuka"
+    ],
+    "opinions": [
+      {
+        "text": "High..temperature high pressure apparatus,",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 17, 1967\nNo. 7960.\nIn re Hiroshi Ishizuka"
+  },
+  "file_name": "1638-03",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

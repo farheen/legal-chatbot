@@ -1,0 +1,59 @@
+{
+  "id": 12167595,
+  "name": "In re Geoffrey W. Cope",
+  "name_abbreviation": "In re Cope",
+  "decision_date": "1964-12-11",
+  "docket_number": "No. 7585",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 69,
+    "ocr_confidence": 0.627,
+    "sha256": "2362f918805b1a0d6a71d92cf6248fce8d4583413816de9fc51adc9bed567486",
+    "simhash": "1:1cd29c9d69a2441b",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Geoffrey W. Cope"
+    ],
+    "opinions": [
+      {
+        "text": "Coupler lock operating mechanism.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Geoffrey W. Cope\n(No. 7585)."
+  },
+  "file_name": "1836-17",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

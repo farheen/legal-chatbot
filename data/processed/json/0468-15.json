@@ -1,0 +1,58 @@
+{
+  "id": 12488825,
+  "name": "STATE v. PAPE",
+  "name_abbreviation": "State v. Pape",
+  "decision_date": "2016-09-15",
+  "docket_number": "16\u2013313",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "6c11ac787dc0ec0b11c625c78e582fb33138ec9ba653a7889666604f2750d03d",
+    "simhash": "1:5cd52f20d2502245",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nPAPE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nPAPE\n16-313\nSupreme Court of Vermont.\nSeptember 15, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0468-15",
+  "first_page_order": 468,
+  "last_page_order": 468
+}

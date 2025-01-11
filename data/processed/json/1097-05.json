@@ -1,0 +1,58 @@
+{
+  "id": 12489552,
+  "name": "STATE v. MURPHY",
+  "name_abbreviation": "State v. Murphy",
+  "decision_date": "2017-03-24",
+  "docket_number": "16-\u2013247",
+  "first_page": "1097",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1097"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 144,
+    "sha256": "dd785bf8adc985f70ad99d4b6116210ea54be7237e670cfd3ab5a5f3e492afd0",
+    "simhash": "1:5c152710a9c0f844",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nMURPHY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nMURPHY\n16--247\nSupreme Court of Vermont.\nMarch 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1097-05",
+  "first_page_order": 1097,
+  "last_page_order": 1097
+}

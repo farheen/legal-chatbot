@@ -1,0 +1,537 @@
+{
+  "id": 12166925,
+  "name": "In re Frederick C. Foster",
+  "name_abbreviation": "In re Foster",
+  "decision_date": "1965-04-15",
+  "docket_number": "No. 7106",
+  "first_page": "1808",
+  "last_page": "1833",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1808"
+    },
+    {
+      "type": "parallel",
+      "cite": "145 U.S.P.Q. 166"
+    },
+    {
+      "type": "parallel",
+      "cite": "343 F.2d 980"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "339 F. 2d 238",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164136,
+        883943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/0859-01",
+        "/f2d/339/0238-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 859",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164136
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/0859-01"
+      ]
+    },
+    {
+      "cite": "32 Geo. Wash. L. Rev. 656",
+      "category": "journals:journal",
+      "reporter": "Geo. Wash. L. Rev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 U.S. 55",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3554676
+      ],
+      "year": 1891,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/140/0055-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 102",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "b"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 103",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 USPQ 624",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "317 F. 2d 413",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        165204
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/317/0413-01"
+      ]
+    },
+    {
+      "cite": "33 USPQ 30",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 F. 2d 501",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        975472,
+        6081413
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/88/0501-01",
+        "/ccpa/24-2/1050-01"
+      ]
+    },
+    {
+      "cite": "24 CCPA 1050",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081413
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/24-2/1050-01"
+      ]
+    },
+    {
+      "cite": "319 F. 2d 547",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        158366
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/319/0547-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 839",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091830
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0839-01"
+      ]
+    },
+    {
+      "cite": "138 USPQ 421",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 F. Supp. 366",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        72421
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/219/0366-01"
+      ]
+    },
+    {
+      "cite": "53 USPQ 345",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "127 F. 2d 149",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080358,
+        1077623
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/1018-01",
+        "/f2d/127/0149-01"
+      ]
+    },
+    {
+      "cite": "29 CCPA 1018",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080358
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/1018-01"
+      ]
+    },
+    {
+      "cite": "336 F. 2d 604",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164001,
+        891933
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/52-2/0770-01",
+        "/f2d/336/0604-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 770",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164001
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/52-2/0770-01"
+      ]
+    },
+    {
+      "cite": "72 USPQ 384",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "255 F. 2d 687",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        681970,
+        6080263
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/255/0687-01",
+        "/ccpa/45-2/0968-01"
+      ]
+    },
+    {
+      "cite": "45 CCPA 968",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080263
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/45-2/0968-01"
+      ]
+    },
+    {
+      "cite": "33 USPQ 30",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "88 F. 2d 501",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        975472,
+        6081413
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/88/0501-01",
+        "/ccpa/24-2/1050-01"
+      ]
+    },
+    {
+      "cite": "24 CCPA 1050",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081413
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/24-2/1050-01"
+      ]
+    },
+    {
+      "cite": "38 F. 2d 608",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1744007
+      ],
+      "year": 1930,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f2d/38/0608-01"
+      ]
+    },
+    {
+      "cite": "369 U.S. 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166554
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "266, 330"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/369/0186-01"
+      ]
+    },
+    {
+      "cite": "98 U.S. 31",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11330
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/98/0031-01"
+      ]
+    },
+    {
+      "cite": "102 U.S. 96",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5628310
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "103-04"
+        },
+        {
+          "page": "note 3"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/102/0096-01"
+      ]
+    },
+    {
+      "cite": "08 U.S. 31",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1878,
+      "opinion_index": 3
+    },
+    {
+      "cite": "13 Am. U.L. Rev. 211",
+      "category": "journals:journal",
+      "reporter": "Am. U. L. Rev.",
+      "year": 1964,
+      "opinion_index": 3
+    },
+    {
+      "cite": "119 U.S. 47",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8299582
+      ],
+      "year": 1886,
+      "pin_cites": [
+        {
+          "page": "51"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/119/0047-01"
+      ]
+    },
+    {
+      "cite": "234 F. 2d 882",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080027,
+        79308
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/ccpa/43-2/0986-01",
+        "/f2d/234/0882-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 986",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080027
+      ],
+      "weight": 2,
+      "opinion_index": 3,
+      "case_paths": [
+        "/ccpa/43-2/0986-01"
+      ]
+    },
+    {
+      "cite": "333 F. 2d 920",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        141568,
+        6092493
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f2d/333/0920-01",
+        "/ccpa/51-2/1541-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1541",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092493
+      ],
+      "weight": 2,
+      "opinion_index": 3,
+      "case_paths": [
+        "/ccpa/51-2/1541-01"
+      ]
+    },
+    {
+      "cite": "32 Geo. Wash. L. Rev. 656",
+      "category": "journals:journal",
+      "reporter": "Geo. Wash. L. Rev.",
+      "opinion_index": 3
+    }
+  ],
+  "analysis": {
+    "cardinality": 2106,
+    "char_count": 71319,
+    "ocr_confidence": 0.497,
+    "pagerank": {
+      "raw": 6.521217865110581e-07,
+      "percentile": 0.9608502271754068
+    },
+    "sha256": "f06a087c588ae6bbbc97f6807e5f1b958a86500a1f5e4f37bc8e65b8beb5eb84",
+    "simhash": "1:352f719a7f12871c",
+    "word_count": 12011
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Frederick C. Foster"
+    ],
+    "opinions": [
+      {
+        "text": "Almond, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals affirming the rejection of the claims in appellant\u2019s patent application.\nThe invention relates to elastomeric synthetic polymers said to combine the desirable properties of natural Hevea rubber and the presently employed synthetic rubbers. These properties are described in the specification:\nHevea natural rubber is characterized by excellent tack, especially after milling; thus being ideal for tire building operations. Hevea produces vulcan-izates having excellent resilience and low hysteresis properties, high tensile strength, and good flexibility at low temperatures. Gum vulcanizates formed from Hevea also possess high tensile strength. Hevea natural rubber is characterized by a crystallinity of at least about 40% and displays a crystalline X-ray diffraction pattern when stretched.\nHeretofore, the synthetic rubbers, in comparison with Hevea rubber, have exhibited low tack and no crystalline properties while their vulcanizates have been characterized by undesirably low tensile strengths and resilience, and undesirably high hysteresis. The synthetic rubbers, particularly the butadiene/ styrene copolymer (GR-S), have been greatly superior to natural rubber in resisting crack initiation in service but have been markedly inferior to Hevea in resisting crack and cut growth. The undesirably high hysteresis of the synthetic rubbery polymers has prevented their use in any substantial quantity in the production of such articles as the large tires employed on trucks, buses, and large off-the-road vehicles.\nInfrared analysis of Hevea rubber has shown that the polymer consists of about 97.8% cis-1,-4-structure. That is, the units of the rubber molecules are connected to each other in 1,4-addition to produce a linear chain with the spatial arrangement of the units in what is called the cis, as opposed to the trans, stereospecific configuration.\nIn contrast, the specification notes that \u201cThe butadiene portion of a typical GRS emulsion copolymer contains about 64% trans- 1,4-structure, 18% cis-1,4-structure and 18% 1,2-structure.\u201d\nBy increasing the amount of m-1,4\u2014structure butadiene, the properties of the synthetic rubber are greatly improved.\nAll of the claims are drawn to synthetic polymer products, although some contain limitations as to how the polymer is formed (e.g., \u201cby solution polymerization\u201d). A wide variety of combinations is claimed, but broadly three groups emerge. Some of the claims specify a certain amount of cis- 1,4-structure polymer, as, for example, claim 12, which reads:\nA synthetic polymer selected from the group consisting of rubbery homo-polymers of butadiene-1,3 and rubbery copolymers of butadiene-1,3 and styrene; said synthetic polymer being characterized by a cis 1,4-structure of at least 23% and a 1,2-structure not in excess of 15% of the polymeric butadiene present in the polymer.\nOther claims merely specify that the head-to-tail structure be present (a type of 1,4-structure) without denomination as cis- or trans-. Representative of these is claim 25:\nA synthetic polymer selected from the group consisting of rubbery homopoly-mers of butadiene-1,3 and rubbery copolymers of butadiene-1,3 and styrene; said synthetic polymer being characterized in that at least 85 per cent of the butadiene monomer units thereof are joined in a head-to-tail relationship.\nFinally, there is claim 28:\nProducts comprising conjugated polyolefin hydrocarbon polymers and co-polymers in which the conjugated polyolefin monomer units are present in 1,4 addition polymer structure.\nAlthough the specification, the original claims, the decision of the board, the briefs on appeal, and the oral arguments stress the importance of the high percentage of cis-1,4-stereoconfiguration, as contrasted with trans-1,4, and the low percentage of 1,2-structure in producing the results obtained (counsel for appellant characterized the invention as a \u201cbreakthrough\u201d), we note that the second and third groups of claims outlined above are not limited to the cis-stereocon-figuration. Nevertheless, no issue was raised on whether the invention is properly defined without specifying the <%s-configuration, our attention being directed to other issues raised in the 415 pages of printed record.\nThe examiner and the Board of Appeals rejected all of the claims on the basis of the Binder reference. The record indicates that Binder, an employee of appellant\u2019s assignee, wrote an article in the magazine \u201cIndustrial and Engineering Chemistry.\u201d The article reports analyses of the microstructures of polybutadiene homopolymers and copolymers with styrene. The portions particularly relied upon by the Patent Office are:\n1. Table Y which lists polymer \u201c39-1\u201d as having 22.7% cis-1,4; 60.0% trans-1,4; and 17.3% 1,2 structures of butadiene. It is noted that the catalyst employed was a peroxide.\n2. Conclusion: \u201cThe results of the analyses reported here show that while the amount of cis-1,4 addition increases with increasing temperature of polymerization, a polybutadiene containing 100% cis-1,4 or trans-1,1 addition cannot be made at any practical temperature.\u201d\nIt also should be noted that the Binder report at the outset states : \u201cDuring the past 2 years, a large number of polybutadienes and buta-diene-styrene copolymers have been prepared in these laboratories, in which various changes were made in the recipes with the object, mainly, of increasing the amount of cis-1,4 addition.\u201d\nOne of the issues presented is: What is the statutory basis of the rejection on prior art? Appellant contends it is 35 USC 103 and the solicitor contends it is both section 103 and section 102. Neither the examiner nor the board mentioned any statute section.\nThe examiner rejected the claims \u201cas unpatentable over Binder\u201d in the final rejection, the first office action printed in the record on appeal. Appellant submitted a number of papers which the examiner found failed \u201cto place the case in condition for allowance.\u201d The examiner repeated the \u201cunpatentable over Binder\u201d rejection, but added in the same paragraph \u201cThe claimed polymer only differs in degree and not in kind from the prepared polymer of Binder and is anticipated by the disclosure of 100% cis 1,4 polybutadiene on page 1730 of the article.\u201d [Emphasis supplied.] Appellant responded that the word \u201canticipated\u201d raised a new issue and a new rejection and sought to amend the application. The examiner refused to enter the amendment, but repeated the statement that \u201ca polymer containing the claimed structure is anticipated by Binder.\u201d Appellant then petitioned to the Commissioner of Patents whose decision stated:\nUnder all the circumstances and in view of the facts now brought out in the petition, it is concluded that it would be advisable to enter the appellant\u2019s proposed claims 39 and 40 and to permit the examiner in his answer to the appeal to rely on the Binder patent either as an anticipation or as a basis for a rejection on lack of invention, or both, as he may see fit.\nThe examiner then wrote his answer which was divided into several headings. Under \u201cThe Reference,\u201d the examiner concluded with the statement:\nNote that Binder does not say that 100% cis 1,4 polybutadiene cannot be made. Binder merely states that cis-1,4 polybutadiene cannot be made in the particular emulsion systems discussed at any practical temperature. Hence, the naming of 100% cis-1,4 polybutadiene by Binder is deemed to be a full disclosure of said polymer. In re Von Bramer et al 542 OG 183.\nImmediately below this, under \u201cThe Rejection,\u201d the examiner stated that the \u201cclaims 22, 23, 25, 26, and 28 which read upon a butadiene polymer characterized by possessing a 100% cis 1,4 or 100% trans 1,4 structure are deemed unpatentable over\u201d Binder, with no mention of \u201canticipation.\u201d\nIt is appellant\u2019s contention that the words \u201cunpatentable over\u201d mean that the statutory basis is section 103 and the word \u201canticipated\u201d indicates reliance on section 102(b). Since there was no rejection on the ground of \u201canticipation,\u201d appellant argues that the statutory basis must be section 103.\nWe agree that the language employed is confusing and that it is not clear what section of the statute is intended. On the other hand, we are not convinced that there is any \u201cmagic\u201d to the particular words used or that they can only mean reliance on section 103. The words \u201cunpatentable over\u201d do not necessarily mean reliance on section 103 alone. The statements of the rejections are sufficient for us to consider the rejections on both sections 102(b) and 103.\nConsidering first the rejection on the ground that Binder contains a full disclosure, we note that the examiner and the board relied on In re Von Bramer, 29 CCPA 1018, 127 F. 2d 149, 53 USPQ 345, to support the proposition that the statement in Binder that \u201c100% cis-1,4 * * * cannot be made\u201d precludes issuance of a patent on the appealed claims.\nWe find persuasive the reasoning set forth in Phillips Petroleum Company v. Ladd, 219 F. Supp. 366, 138 USPQ 421 (D.D.C. 1963), the facts of which are strikingly similar to the present facts relevant to the issue of \u201canticipation.\u201d In that case the claims were drawn to include a rubbery 100% cis-l,4-polybutadiene. The solicitor there, as here, argued that the claims were anticipated by the conclusion in the same Binder article that the rubber could not be made. The court said:\nWith respect to the so-called disclosure in the Binder patent [sic], the position of counsel for defendant is that since 100% cis is mentioned, it is such a disclosure as would deny patentability to the claims herein. Based upon the evidence, and a thorough analysis of Binder, it seems clear to the Court that defendant\u2019s contention amounts to nothing more than a vague negative hypothesis.\nWith respect to products, distinguishing them from mere names, the involved polymers are defined by critical limitations, were not predictable, differed in kind from the prior art products, had not been made, and probably could not have been attained, until the present inventors made their discovery.\nCounsel for the defendant relied principally upon the case of In re Von Bramer, 127 F. 2d 149, 29 CCPA 1018. In the opinion of the Court the Von Bramer case differs in its facts from the instant case. In that case, as maintained by counsel for plaintiff, the prior art disclosure was what is known as the \u201cGeneva\u201d name of a chemical compound defining molecular structure. The properties claimed in the Von Bramer ease differed only in degree from those admittedly disclosed in the prior art. As far as the predictable properties of the Von Bramer case is concerned, they were found in any similar compound, and those compounds were capable of synthesis by recognized classical organic reactions.\nFurthermore, in that case there were statements in a number of prior art references that the compound relied upon as anticipatory had been made and used, and that the five carbon atom alkyl limitation in that case contradicted the statement of the invention in the specification as an arbitrary and meaningless distinction from the prior art.\n* * * Polymers in the instant case differ in kind from the properties of poly-butadienes of the prior art, and likewise, have properties which are unpredictable in light of the prior art. Those polymers had not been made by any method of synthesis by skilled workers in the art, including Dr. Binder who made that admission in the reference, although many highly skilled scientists in the art had been working on these projects.\nDr. Binder stated that he knew of no way to make 100% cis 1,4 polybutadiene at any practical temperature, and there is a lack of any prior art statement that any such cis polybutadiene had ever been made, * * *.\nRegarding the rejection predicated on full disclosure by Binder and reliance on the Von Bramer decision, we cannot sustain that rejection for the reasons given in the Phillips case with respect to the same prior art disclosure.\nConsidering the rejection on the ground of \u201cunpatentability over\u201d Binder, appellant points out that the board withdrew a rejection based on a patent to Greene after appellant submitted an affidavit under Rule 131. Appellant argues that the affidavit establishes a date of invention prior to the publication date of the Binder reference, and that this court\u2019s decision in In re Palmquist, 51 CCPA 839, 319 F. 2d 547, 138 USPQ 234, compels a finding that Binder cannot be considered in establishing obviousness of the claimed invention under 35 USC 103.\nThe solicitor points out that the Palmquist decision did not overrule In re Wenzel, 24 CCPA 1050, 88 F. 2d 501, 33 USPQ 30, and states that Bros Inc. v. Browning Mfg. Co., 317 F. 2d 413, 137 USPQ 624, \u201cappears to be contra to the Palmquist case.\u201d The solicitor also argues that the polymers listed on Binder Table V and the claimed polymer \u201care only so slightly diferent from the latter structure as to be of no legal significance,\u201d [emphasis present] and that\n* * * the slight differences in the amount of cis-1,4 and 1,2 structure between the polymer of the claims and that of Binder does not come within the purview of the requirement for unobviousness of Section 103 to justify allowance of a patent. Even under the Palmquist case it is doubted that this difference would be acceptable.\nIt is assumed by both parties\u2014and it is unquestionably true\u2014 that when a reference fully discloses in every detail the subject matter of a claim, the statutory basis of a rejection on that reference is 35 USC 102(a) if the reference date is before the applicant\u2019s date of invention, thereby establishing want of novelty, and section 102(b) if the reference date is more than one year prior to the actual United States filing date, thereby establishing a so-called \u201cstatutory bar,\u201d more accurately, a one-year time-bar which results in loss of right to a patent, regardless of when the invention was made. In either of these situations, it is often said that the invention is \u201canticipated\u201d by the reference and the reference is termed an \u201canticipation.\u201d\nProofs submitted in this case under Patent Office Pule 131 with respect to a reference not before us (because it was overcome thereby) have established that the applicant\u2019s invention date was prior to December 26, 1952. The Binder reference is the August 1954 issue of a periodical. It is seen, therefore, that it is subsequent to the date of invention but more than one year prior to the filing date, which was August 21,1956. This is the same relationship of dates which existed in Pdlmquist as regards the Van Boskirk reference. Since the date of invention is earlier than the reference date, section 102(a) is necessarily inapplicable because the printed publication was not \u201cbefore the invention thereof by the applicant\u201d and there is statutory novelty. This leaves paragraph (b) of section 102 as the only paragraph of that section having possible relevancy.\nIt is appellant\u2019s position, as stated in his Reply Brief, that\nThe only issue on this appeal is whether the claims define subject matter which is obvious in view of the reference and hence unpatentable under 35 U.S.C. \u00a7 103. * * *\nDeeming that to be the sole issue, appellant further contends that the assumed rejection under section 103 is not before the court because, under Pdlmquist, the Binder reference has been disposed of by the proof of an invention date prior to the date of Binder and this reference is not before us. Disposing of the sole reference in this manner of course disposes of the \u201cunpatentable over\u201d rejection.\nThere is a difference in the facts in this case from the facts in Pdlmquist in that there is only one reference here, there being differences between the claimed subject matter and the reference disclosure which the Patent Office contends would be obvious to one of ordinary skill in the art, whereas in Pdlmquist the claims were rejected on various combinations of two or three references, each combination involving one reference which had a date subsequent to the date of invention but more than one year prior to applicant\u2019s filing date. The Patent Office seeks to distinguish Pdlmquist on the basis of the differences in the factual situations. As will appear from what follows, we consider this difference to be of no legal significance.\nBecause of the importance of the question to the law of patents, we have deemed it desirable to reconsider what is the statutory basis of this \u201cunpatentable over\u201d or obviousness type of rejection, such as we have here and had before us in Pdlmquist, under the circumstance that the reference or references have effective dates more than one year prior to the \u2019filing date of the applicant. More specifically, we have reconsidered the result again urged on us here, as allegedly authorized by section 103, that a reference having a date more than a year prior to the filing date may be disposed of by showing an invention date prior to the reference date, contrary to the express provision in Patent Office Rule 131.\nSections 101,102, and 103, generally speaking, deal with two different matters: (1) the factors to be considered in determining whether a patentable invention has been made, i.e., novelty, utility, unobviousness, and the categories of patentable subject matter; and (2) \u201closs of right to patent\u201d as stated in the heading of section 102, even though an otherwise patentable invention has been made. On the subject of loss of right, appellant\u2019s brief contains a helpful review of the development of the statutory law since 1793. It says:\nIn 1897 the patent laws were \u00a1amended to make the * * * two-year bar period apply to all public uses, publications and patents regardless of the source from which they emanated. The change was a consequence, primarily, of greatly improved communications within the country which had rendered inventors easily able to acquire knowledge of the public acts of others within their own fields. It was reasoned that any inventor who delayed in filing a patent application for more than two years after a public disclosure of the invention would obtain an undeserved reward in derogation of the rights of the public if he were granted a patent.\nIn 1939, in recognition of further improvements in communications, Congress reduced the two-year bar period to one year. * * *\nThat 1939 Act was carried over unchanged in the 1952 recodification of the patent laws as 35 U.S.C. \u00a7 102 (b). * * *\nManifestly, Section 102(b) from its earliest beginnings has been and was intended to be directed toward the encouragement of diligence in the filing of patent applications and the protection of the public from monopolies on subject matter which had already been fully disclosed to it.\nThese statements are in accord with our understanding of the history and purposes of section 102(b). It presents a sort of statute of limitations, formerly two years, now one year, within which an inventor, even though he has made a patentable invention, must act on penalty of loss of his right to patent. What starts the period running is clearly the availability of the invention to the public through the categories of disclosure enumerated in 102(b), which include \u201ca printed publication\u201d anywhere describing the invention. There appears to be no dispute about the operation of this statute in \u201ccomplete anticipation\u201d situations but the contention seems to be that 102(b) has no applicability where the invention is not completely disclosed in a single patent or publication, that is to say where the rejection involves the addition to the disclosure of the reference of the ordinary skill of the art or the disclosure of another reference which indicates what those of ordinary skill in the are are presumed to know, and to have known for more than a year before the application was filed. Upon a complete reexamination of this matter, we are convinced that the contention is contrary to the policy consideration which motivated the enactment by Congress of a statutory bar. On logic and principle we think this contention is unsound, and we also believe it is contrary to the patent law as it has actually existed since at least 1898.\nFirst, as to principle, since the purpose of the statute has always been to require filing of the application within the prescribed period after the time the public came into possession of the invention, we cannot see that it makes any difference hoiv it came into such possession, whether by a public use, a sale, a single patent or publication, or by combinations of one or more of the foregoing. In considering this principle we assume, of course, that by these means the invention has become obvious to that segment of the \u201cpublic\u201d having ordinary skill in the art. Once this has happened, the purpose of the law is to give the inventor only a year within which to file and this would seem to be liberal treatment. Whenever an applicant undertakes, under Rule 131, to swear back of a reference having an effective date more than a year before his filing date, he is automatically conceding that he made his invention more than a year before he filed. If the reference contains enough disclosure to make his invention obvious, the principle of the statute would seem to require denial of a patent to him. The same is true where a combination of two publications or patents makes the invention obvious and they both have dates more than a year before the filing date.\nAs to dealing with the express language of 102(b), for example, \u201cdescribed in a printed publication,\u201d technically, we see no reason to so read the words of the statute as to preclude the use of more than one reference; nor do we find in the context anything to show that \u201ca printed publication\u201d cannot include two or more printed publications. We do not have two publications here, but we did in Palmquist, and it is a common situation.\nAs to what the law has been, more particularly what it was prior to 1953, when the new patent act and its section 103 became effective, there is a paucity of direct precedents on the precise problem. We think there is a reason for this. Under the old law (R.S. 4886, where 102(b) finds its origin) patents were refused or invalidated on references dated more than a year before the filing date because the invention was anticipated or, if they were not, then became there ivas no \u201cinvention,\u201d the latter rejection being based either on (a) a single non-anticipatory reference plus the skill of the art or (\u00f3) on a plurality of references. There was no need to seek out the precise statutory basis because it was R.S. 4886 in any event, read in the light of the Supreme Court\u2019s interpretation of the law that there must always be \u201cinvention.\u201d This issue was determined on the disclosures of the references relied on and if they had dates more than one year before the filing date, it was assumed they could be relied on to establish a \u201cstatutory bar.\u201d There was an express prohibition in Rule 131 and in its predecessor Rule 75 against antedating a reference having a date more than a year prior to the filing date and there was no basis on which to contest it. The accepted state of law is exemplified by the following sentences in McCrady\u2019s Patent Office Practice, 4th ed. (1959), Sec. 127, p. 176:\nPrior art specified by 35 USC 102, which has an effective date more than one year prior to the effective filing date of an application, constitutes a bar under the language of that statute. Until 1940 the period was two years.\nProcedurally, the significance of the statutory bar lies in the fact that it cannot be antedated by evidence of applicant\u2019s earlier invention, as by affidavits under Rule 131, or by evidence presented in an infringement suit.\nOur decision in Palmquist appears to have been the first to hold otherwise.\nThe various editions of Walker on Patents from an early time have included this statement, quoted from the 2nd Deller Edition \u00a7 141 (\u00a7 87 in 1st Dell, ed.) :\nPrecise identity between the thing covered by the patent and the thing which the inventor allowed to be in public use or on sale more than the statutory period before he applied for the patent is not necessary to constitute constructive abandonment of the invention covered by the latter. It is enough * * * if the advance from one to the other did not amount to invention [Int\u2019l Tooth Crown Co. v. Gaylord, 140 U.S. 55 (1891)].\nThus the \u201cstatutory bar\u201d has not been limited to \u201ccomplete anticipation\u201d fact situations where the complete disclosure of the invention is to be found in a single reference. At least the skill of the art has been added to the disclosure of the reference or the thing in public use in finding a bar to the grant of a valid patent, utilizing the standard pre-1953 terminology of \u201cno invention.\u201d\nIt would seem that the practical operation of the prior law was that references having effective dates more than a year before applicant\u2019s filing date were always considered to be effective as references, regardless of the applicant\u2019s date of invention, and that rejections were then predicated thereon for \u201clack of invention\u201d without making the distinction which we now seem to see as implicit in sections 102 and 103, \u201canticipation\u201d or no novelty situations under 1()2 and \u201cobviousness\u201d situations under 103. But on further reflection, we now feel bound to point out that of equal importance is the question of loss of right predicated on a one-year time-bar which, it seems clear to us, has never been limited to \u201canticipation\u201d situations, involving only a single reference, but has included as well \u201cno invention\u201d (now \u201cobviousness\u201d) situations. It follows that where the time-bar is involved, the actual date of invention becomes irrelevant and that it is not in accordance with either the letter or the principle of the law, or its past interpretation over a very long jaeriod, to permit an applicant to dispose of a reference having a date more than one year prior to his filing date by proving his actual date of invention.\nSuch a result was permitted by our decision in Palmquist and to the extent that it permitted a reference, having a publication date more than one year prior to the United States filing date to which the applicant was entitled, to be disposed of by proof of a date of invention earlier than the date of the reference, that decision is hereby overruled.\nWe wish to make it clear that this ruling is predicated on our construction of section 102(b) and has no effect on the statements in Palmquist respecting the determination of obviousness under section 103 when a statutory time-bar is not involved. The existence of un-obviousness under that section, as a necessary prerequisite to patenta-bility, we reiterate, must be determined as of \u201cthe time the invention was made\u201d without utilizing after-acquired knowledge.\nThe determination of unobviousness, however, relates to the determination of whether a patentable invention has been made. Whether there has been a loss of right to a patent on such invention is a distinct and separate issue, with which section 103 per se has nothing whatever to do. Its legislative history, which is well known and uncomplicated, shows that section 103 had but a single purpose which was to add to the statute a provision to take the place of the judge-made \u201crequirement for invention.\u201d In doing that, the history also shows, the words \u201cat the time the invention was made\u201d were included for the sole purpose of precluding the use of hindsight in deciding whether an invention is obvious. We are sure Congress had no intent thereby to modify the law respecting loss of right based on the existence of a time-bar. We have therefore concluded that we were wrong in accepting the appellants\u2019 contentions in Pahnquist that those words enabled Palmquist and Erwin to dispose of a reference relied on to establish a one-year bar by showing a date of invention earlier than the date of the reference. The wrong in such a construction of the statute\u2014beside giving it a meaning that was never intended\u2014is that it permits an inventor to sleep on his rights more than a year after the invention has become entirely obvious to the public, whereby the public has potential possession of it, and still obtain a patent which will take the invention from the public, a result Congress could not possibly have intended in view of its express indication that section 102(b) is merely a continuation of the prior law.\nSince we must reject Poster\u2019s contention that he can dispose entirely of Binder by showing an earlier invention date, it becomes necessary for us to consider whether there ~was a loss of right to a patent, i.e., whether the invention became obvious to the public at the time of the Binder publication. Appellant has fully argued this issue in his briefs.\nThe solicitor contends that all claims were rejected over the Binder disclosure of polymer \u201c39-1\u201d which contains 22.7% ois-1,4 and 60.0% trans-1,4 structures. We cannot agree. Our analysis of the record indicates that polymer \u201c39-1\u201d was never employed in the rejection of claims 22, 23, 25, 26 and 28. Those claims specify a minimum 1,4 content and were rejected only as being anticipated by the 100% cis-1,4-disclosure of Binder. Although the solicitor argues that claims such as 25 which calls for a polymer having 85% head-to-tail structure are obvious in views of the \u201c39-1\u201d polymer which has 82.7% 1,4-structure, wre do not feel that we can properly consider that argument since appellant was not afforded a proper opportunity to meet these arguments which were made neither by the examiner nor by the board.\nThe \u201c39-1\u201d polymer, as well as others from Table Y of Binder, did clearly form the basis of rejecting the remaining claims. Since the cis-1,4 content formed the basis of the examiner\u2019s comparison of the appellant\u2019s polymers with those of Binder, we shall group the claims for discussion on the basis of the cis-1,4 content specified. Claim 34 calls for \u201cat least about twenty-nine per cent of said monomer units being present in cis-1,4 structure.\u201d Claim 35 calls for \u201cfrom about thirty to about fifty-seven per cent of said butadiene monomer units being present in cis-1,4 structure.\u201d\nAfter a rejection based upon the \u201c39-1\u201d polymer and a polymer containing 22.4% cis-1,4, 60.5% trans-1,4 and 17.1% 1,2 which was designated by Binder as polymer \u201c1140,\u201d appellant submitted an affidavit comparing his \u201cDiene rubber,\u201d a polybutadiene containing 29.1% cis-1,4; 61.3% trams-1,4-, and 9.6% 1,2 with ten polymers disclosed by Binder. This affidavit by Dr. Bernard L. Johnson, an employee of Firestone, indicated that precise duplication of the Binder polymerization methods was possible because all of the Binder work had been done at Firestone and Binder\u2019s original data was still available. Furthermore, Binder determined the microstructures and properties of the reproduced polymers. Despite this assistance, however, Johnson was unable to reproduce several polymers including the \u201c1140\u201d polymer. Instead, he obtained a fluid containing 19.2% cis-1,4,; 61.1% trans-1,4 and 19.1% 1,2-structure. All of the other reproduced polymers were rubbery solids. The board stated that the \u201c1140\u201d polymer was the closest prior art and thus could not accept appellant\u2019s showing as being a comparison with the closest Binder polymer.\nThe solicitor has pointed out what he considers to be another defect in the affidavit. The \u201cDiene rubber,\u201d a butadiene homopolymer, was compared with various butadiene homopolymers and butadiene-styrene copolymers, but was not compared with \u201cFR 89-2,\u201d the closest butadiene homopolymer disclosed by Binder. We note that although \u201cDiene rubber\u201d was not compared with \u201cFR 89-2\u201d which contained 21.9% cis-1,4, it was compared with \u201cFR 89-1\u201d which contained 20.5% cis-1,4. The criticisms raised by the board and the solicitor may bear on the weight to be given the affidavit, but they do not preclude our consideration of the affidavit.\nSeveral of the Binder polymers are as good as or better than \u201cDiene rubber\u201d with regard to strength as measured by dynamic modulus and static modulus. However, the \u201cDiene rubber\u201d is clearly superior with regard to several other properties. Heat build up, as evidenced by relative energy absorption at constant force, is from about 53% to over 540% higher in the Binder polymers. The rebound value of the \u201cDiene rubber\u201d is from 40% to over 100% greater at room temperature and when cured in a tread stock from about 40% to 170% greater at room temperature and from 18% to about 200% greater at 212\u00b0 F. than the rebound values of the Binder polymers. The \u201cDiene rubber\u201d resistance to low temperatures, as evidenced by Young\u2019s Bending Modulus, is from 20% to 170% greater than that of the Binder polymers. It should be noted that in all of these tests the Binder \u201cFE 89-1\u201d butadiene homopolymer containing 20.5% cis-1,i performed the best or close to the best of all of the Binder polymers tested. We are convinced, however, that appellant\u2019s \u201cDiene rubber\u201d containing 29.1% cis-1,4-poly butadiene has properties superior to and is patentable over the Binder polymers, all of which contain less than 23% cis-1,4-structure.\nWe have considered the solicitor\u2019s argument that because natural rubber contains 97.8% cis-1,4-structure, it would be obvious to increase the cis-1,4 content of the Binder polymers to obtain the properties achieved by appellant in his \u201cDiene rubber.\u201d We cannot agree with this position. Natural rubber contains isoprene units, not butadiene units. Thus, appellant has discovered that his \u201cDiene rubber\u201d (polybutadiene) has properties similar to or better than natural rubber (polyisoprene). We, accordingly, reverse the rejection of claims 34 and 35.\nAnother group of claims, 12, 13, 29, and 39, specifies a cis-1,4 content of as low as 23%, only a fraction of a percent more than the Binder polymers have. The board held that the affidavit failed to show a difference between the Binder polymers and the claimed 23% cis-1,4 polymers. Appellant has not introduced evidence to show that the 23% cis-1,4 containing polymer has properties differing in any way from the Binder polymers. Neither has he shown that the 23% cis-1,4 containing polymers are more closely related to his 29.1% cis-1,4 containing \u201cDiene rubber\u201d than to the Binder polymers. He has also failed to present arguments that the small percentage differences in the total 1,4 content are significant. Thus, we agree with the board that the mere difference of a fraction of a percent does not render the claims unobvious in view of Binder.\nClaims 17 and 18 are drawn to sulfur-cured vulcanizates of the 23% cis-1,4 containing polymers. Appellant has not argued that sulfur curing would be an unobvious treatment of the products. We thus agree with the solicitor that these claims must fall with the polymer claims.\nProduct claims 30, 32, 33, 36, and 40 contain limitations specifying the method of forming the 23% cis-1,4 containing polymer, e.g., \u201csaid synthetic polymer being formed in the presence of an ionic catalyst in a substantially nonaqueous system * * *.\" While it is appellant\u2019s position that high cis-1,4 contents cannot be achieved by Binder\u2019s polymerization process, he has not argued in his brief that there is an unobvious difference between the claims based upon the method limitation. Because appellant has not shown that polymers containing 23% cis-1,4-structure produced according to his claims must differ significantly from the Binder polymers, we agree with the board.\nWe, accordingly, reverse the decision of the Board of Appeals with regard to claims 22, 23, 25, 26, 28, 34, and 35. The rejection of claims 12, 13,17,18, 29, 30, 33, 36, 39, and 40 having been affirmed because the appellant has lost his right to these claims, the decision is modified.\nSerial No. 605,440, filed August 21, 1956, for \u201cButadiene Polymers and Copolymers Thereof.\u201d\nThe various polymer configurations which may result from the polymerization of conjugated diene are explained in Whitby, Synthetic Rubber, at 289, 290 (1954) :\nIn a butadiene polymer the two units that may occur in the chain are the 1,4-unit (I) and the 1,2-unit (II),. When a monosubstituted. butadiene such\nas isoprene is polymerized the possibilities are greater, for the 1,4-units may be united \u201chead-to-head and tail-to-tail\u201d (III) and head-to-tail (IV), and, further, addition may oecur 1,2 at the substituted double bond to produce the 1,2-unit (V) or 3,4 at the unsubstituted double bond to produce the 3,4 unit (VI).\nIt should be noted that structures I, III, and IV are capable of existing in cis and trans configurations at each double union, and that structures II, V, and VI have asymmetric carbon atoms which make optical isomerism possible.\nClaims 12, 13, 17,18, 29, 20, 32, 33, 34, 35, 36, 39, and 40.\nClaims 22, 23, 25, and 26.\nVol. 46, No. 8, pp. 1727-1730, August 1954.\nJackson, J., retired Associate Judge of the Court of Customs and Patent Appeals, who, incidentally, was the author of the Von Bramer opinion.\nIn view of the fundamental nature and relative simplicity of the invention here in issue, we assume that the Greene patent, which is not in the record before this court, discloses approximately the same information as the Binder article. No issue has been raised as to the showing that the proofs accepted for withdrawal of the Greene patent are sufficient to establish a date of invention prior to the effective date of the Binder reference.\n131. Affidavit of prior invention to overcome cited patent or publication, (a) When any claim of an application is rejected on reference to a domestic patent which substantially shows or describes but does not claim the rejected invention, or on reference to a foreign patent or to a printed publication, and the applicant shall make oath to facts showing a completion of the invention in this country before the filing date of the application on which the domestic patent issued, or before the date of the foreign patent, or before the date of the printed publication, then the patent or publication cited shall not bar the grant of a patent to the applicant, unless the date of such patent or printed publication be more than one year prior to the date on which the application was filed in this country. [Emphasis ours.]\nThe italicized clause at the end of the foregoing paragraph or its equivalent has been present in the rule and its predecessor Rule 75 since January 1, 1898, when the rule was amended to include:\n* * * unless the date of such patent or printed publication is more than two years prior to the date on which application was filed in this country.\nThe construction of section 102(b) is subject to tbe provision of 1 USC 1 wbicb provides in pertinent part:\nIn determining the meaning of any Act of Congress, unless the context indicates otherwise\u2014words importing the singular include and apply to several persons, parties, or things ; \u2022 * *.\nFor an attempt to relate prior decisions to the problem, see 32 Geo. Wash. L. Rev. 656.\nA rejection so vaguely stated may well amount to a denial of the procedural safeguards provided in 35 USC 132. The affirmed rejection of claims as \u201cunpatentable over\u201d Binder may be a rejection for the reason that Poster\u2019s invention was \u201cdescribed\u201d by Binder within the meaning of section 102; or that the statutory bar of section 102(b) has resulted in a loss of right to patent; or that the Foster invention was obvious in view of Binder under the conditions specified in section 103. A rejection so vaguely stated does not discharge the statutory duty imposed on the Commissioner of Patents by section 132. Certainly, it does not provide \u201csuch information [to the applicant] * * * as may be useful in judging of the propriety of continuing the prosecution of his application.1' It furnishes, instead, a constantly shifting ground so that the statutory basis for the rejection by the examiner may well differ from that of the Board of Appeals, even as it affirms the examiner\u2019s rejection. Under such circumstances, what issue may then be assigned as error for appeal to this court under 35 USC 142 and be relied on by us for decision under 35 USC 144? The burden on an applicant is quite different in meeting rejections made under sections 102 and 103. A rejection under section 102 involves a comparison between the subject matter disclosed by the reference and that claimed by the applicant, in order to determine whether the claimed invention is \u201cdescribed\u2019\u2019 in the reference. See, e.g., In re Sheppard, 52 CCPA 859, 339 F. 2d 238, 144 USPQ 42. Section 103, on the other hand, requires consideration of the differences between the claimed invention and the prior art, for the purpose of determining whether the claimed subject matter as a whole would have been \u201cobvious\u201d to one of ordinary skill in the art. Thus, the issues arising under the two sections are vastly different, and call for the production and introduction of quite different types of evidence.",
+        "type": "majority",
+        "author": "Almond, Judge,"
+      },
+      {
+        "text": "Worley, Chief Judge,\nconcurring.\nHad not circumstances prevented my participation in P\u00e1lmquist, I doubtless would have joined my colleagues in adopting appellants\u2019 then plausible interpretation of Section 103. There can be no doubt that the language therein, when interpreted literally and standing alone, supports P\u00e1lmquist. But, as the majority makes so clear here, we misinterpreted Congressional intent there. No court is infallible, and the margin for error becomes greater in the complexities of patent law, increasing with the heavy case load the court is attempting to carry. It is comforting to note that on those happily rare occasions when mistakes are made the court has not hesitated to set the record straight and prevent bad law from becoming precedent for more bad law.\nThat P\u00e1lmquist was new law is evident from In re Wenzel, 24 CCPA 1050, 88 F. 2d 501, 33 USPQ 30; In re Ruscetta, 45 CCPA 968, 255 F. 2d 687, 118 USPQ 101; Ex parte Austin, 72 USPQ 384. That the result there was also foreign to Congressional intent and policy is equally clear. For example, the statute is designed to encourage early filings so the public may the sooner benefit, yet P\u00e1lmquist discouraged that goal. Indeed, it placed a premium on late filing, and created a virtual open season on the public by permitting \u201cobvious\u201d subject matter already in the public domain for more than one year to be patented. I am confident neither the court nor Congress intended such a result. Nor could either have intended to shroud the validity of issued patents in perennial doubt, or encourage the danger of legal harassment for which P\u00e1lmquist might well have become a potent source. It is well that we close the door here on those possibilities.\nIn 1958 patent appeals to this court totaled 83 ; six years later the number had reached 245, a 200% increase.\nIn this connection, it is not without interest to note that Foster did not argue at any time before the board that his Rule 131 affidavit removed the Binder publication as; a reference. The board\u2019s decision on reconsideration is dated Sept. 17, 19432. This court rendered its decision in P\u00e1lmquist on June 28, 1963.\nIn further consideration of the record before us here, it seems to me that the subject matter of claims 25, 26, and 28, as broadly stated, is unpatentable under 35 USC 102(b) alone, because the subject matter was described in toto in the Binder printed publication more than one year prior to appellant\u2019s tiling' date. In concentrating upon the rejection of those claims over the \u201cconclusion\u201d portion of Binder, the Patent Office appears to have overlooked several polymers of butadiene and copolymers of butadiene-styrene disclosed by Binder which have \u201cat least 85%\u201d of the butadiene units joined in head-to-tail or 1,4 addition polymer structure as called for in the claims. Those polymers, appearing in Tables 1 and 2 of Binder, are identified, for example, as Polymer Nos. 995, 1075, 1060, and 1113. However, the jurisdiction of this court being limited under 85 USC 141-144, we cannot enter a new ground of rejection. In re Thomson, 52 CCPA 770, 336 F. 2d 604, 143 USPQ 21. I comment no further on the patentability of those claims without the benefit of the Tiews of the Patent Office and appellant.",
+        "type": "concurrence",
+        "author": "Worley, Chief Judge,"
+      },
+      {
+        "text": "Rich, Judge,\nconcurring.\nIn view of the opening remarks of Judge Smith\u2019s dissent and because of the unusually long time the decision in this case has been gestating, I merely wish to record the fact that last August I first developed the tentative view that we committed an error of law in Palmquist and became firmly convinced of it and of its exact nature in early October after reviewing the Palmquist record. I regret that until then I had not fully appreciated the explicit and detailed reliance by the examiner in that case on the existence of a one-year bar and on 35 USC 102(b) as the basis of his rejection.",
+        "type": "concurrence",
+        "author": "Rich, Judge,"
+      },
+      {
+        "text": "Smith, Judge,\ndissenting.\nLess than two years ago I spoke for a unanimous court in the Palmquist case. Today I find myself the lone dissenter from a decision which overrules it. What has happened in the interim to convince three of the original participants in that short-lived decision that it should be overruled ?\nThe answer emerges from the opinions of the majority and from various commentaries on the Palmquist case, Very simply this answer is that neither sections 102 or 103 of the Patent Act of 1952 cover the situation presented here or in Palmquist. To plug the \u201chole\u201d which has been shown to exist in the Patent Act of 1952, the majority rests its opinion upon the unsupportable premise that sound patent policy dictates that an inventor shall lose his right to a patent in every case in which his invention becomes obvious at any time prior to one year before he files his patent application.\nI am convinced and shall point out in this opinion: 1) that no such broad patent policy exists and 2) even if it did, that this court is not justified in reaching so far to correct a legislative oversight, I shall also point out some of the very undesirable consequences I see flowing from today\u2019s decision.\nI. Is there a pervasive patent policy which dictates today's decision? The answer, of course, is no. There are at least two, and perhaps more situations wherein an invention, unobvious when made, later becomes obvious sometime prior to one year before the application is filed and yet the applicant does not lose his right to patent. The following examples will make this clear.\nFirst: At page 12 of the instant majority opinion we find the statement: \u201cProofs submitted in this case under Patent Office Rule 131 with respect to a reference not before us (because it was overcome thereby) have established that the applicant\u2019s invention date was prior to December 26, 1952.\u201d What the majority opinion does not state is that December 26, 1952 is the filing date of this \u201creference not before us,\u201d which is the Greene U.S. Patent 2,762,790 issued a few weeks subsequent to the date on which appellant filed his application. Thus, Greene\u2019s application was co-pending with appellant\u2019s, and Greene\u2019s filing date was something over three years prior to appellant\u2019s.\nIn In re Harry, 51 CCPA 1541, 333 F. 2d 920, 142 USPQ 164, we held that 35 USC 102(e) operates not only in situations where the invention is described in a single patent, but also in situations where the invention is obvious in view of a combination of patents. Thus in considering the Greene patent as a reference, appellant\u2019s invention would, under the Harry case, have become obvious as of the filing-date of the Greene application. Since that date is considerably more than one year prior to appellant\u2019s filing date, it follows logically from the majority view here that appellant should have been denied his patent because as a matter of law Greene made the invention obvious more than one year prior to the filing date of the Foster application. This is the necessary result it seems to me of the rationale of the majority that an applicant loses his right to a patent under section 102(b) if he fails to file his application for patent within a year after the invention became obvious.\nWhat the Patent Office did here as to the Greene reference is consistent with its past position that the right to patent has not been lost in such situations. The Patent Office applies the reasoning of the majority only where the issue date of the patent is more than one year prior to the applicant\u2019s filing date. I am frankly unable to reconcile this anomaly (an example of which occurred in the Palmquist case as well) with the majority\u2019s fundamental proposition that there is an established policy of refusing patents for inventions which have become obvious more than a year prior to filing the application therefor. No such policy is expressed either in section 102(b) or section 103. On the contrary, what the courts and Congress have said is that, if and when under certain ex-press conditions the invention becomes vested in the public more than one year prior to filing the application, then and only then is there a loss of right to patent. These conditions are stated in section 102(b) and clearly require that the invention be patented, or described in a printed publication, or that it be in public use or on sale.\nSecond: Another example from which it can be seen that there is no such broad policy as stated by the majority, arises from a consideration of section 102(a) and what is meant by the term \u201cknown\u201d as used therein. The case law indicates that for an invention to be \u201cknown,\u201d the \u201cknowledge\u201d of it must be of a very special kind and quality in order to be effective as an anticipation. This court held, in In re Schlittler, 43 CCPA 986, 234 F. 2d 882, 110 USPQ 304, that such knowledge must be available to the public and, moreover, that it must be knowledge of a reduction to practice of the invention against which it is cited.\nIt seems clear that this kind of knowledge\u2014the kind required for anticipation under section 102(a)\u2014certainly puts the invention in the possession of the public. And yet, section 102 (b) does not base a loss of right to patent on such knowledge unless it has been \u201cpackaged,\u201d as it were, in a patent or a publication or in something which has gone into public use or on sale, prior to one year before the filing date of the application.\nThese examples seem to me to show the incorrectness of the majority position that there is a broad policy which demands a forfeiture of the right to patent in every case in which the public has possession of the invention for more than a year prior to filing of the application.\nII. Even if there were such a pervasive policy, it is an usurpation of the legislative function for this court to rewrite the statute. In Sturges v. Crowninshield, 4 Wheat. (17 U.S.) 122 (1819), Chief Justice Marshall was moved to comment upon the need for a zealous judiciary to exercise restraint concerning inadequate legislative enactments. His eloquent words, written nearly a century and a half ago, are a remarkably current and valid summary of my views regarding the instant case; thus:\n* * * although the spirit of an instrument, especially of a constitution, is to be respected not less than its letter, yet the spirit is to be collected chiefly from its words. It would be dangerous in the extreme, to infer from extrinsic circumstances, that a case for which the words of an instrument expressly provide, shall be exempted from its operation. Where words conflict with each other, where the different clauses of an instrument bear upon each other, and would be inconsistent, unless the natural and common import of the words be varied, construction becomes necessary, and a departure from the obvious meaning of words, is justifiable. But if, in any case, the plain meaning of a provision, not contradicted by any other provision in the same instrument, is to be disregarded, because we believe the framers of the instrument could not intend what they say, it must be one in which the absurdity and injustice of applying the provision to the case, would be so monstrous, that all mankind would, without hesitation, unite in rejecting the application. This is certainly not such a case. * * * [Emphasis added.]\nCurrent validation of this point of view is supplied by Crawford\u2019s The Construction of Statutes at p. 249 which, states:\n* * * if the language is unambiguous and the statute\u2019s meaning is clear, the statute must be accorded the expressed meaning without deviation, since any departure would constitute an invasion of the province of the legislature by the judiciary.\nThe language of sections 102(b) and 103 is unambiguous, its meaning is clear, and I see no valid basis for deviation from it in deciding the present case.\nYet, the majority decision amounts to an interpretation of section 102(b) as though it contained the following underscored words:\nA person shall be entitled to a patent unless\u2014* * * (b) the invention was patented or described in a printed publication in this or a foreign country or in public use or on sale in this country or unless the invention became obvious more than one year prior to the date of the application for patent in the United States * * *.\nThus, within the rationale of the majority opinion and its construction of section 102, it is no longer necessary for a patent or a publication to \u201cdescribe\u201d the invention to lay the basis for the loss of right to a patent under section 102(b). It is sufficient that a patent or a publication be found, or that some combination of the same can be put together after the applicant\u2019s date of invention and with the accuracy characteristic of perfect hindsight which make the invention \u201cobvious\u201d more than one year prior to the date of filing the patent application. Thus, in addition to changing the wording of section 102(b) as above suggested, the majority must also intend to rewrite section 103 so that the phrase \u201cat the time the invention was made\u201d now is to be limited by a proviso which reduces this time to a period of one year prior to the filing of the application.\nThus it becomes pertinent to inquire whether such was the intent of the drafters of the Patent Act of 1952 or of the Congress in enacting it. While I think it was not, I speak here simply as a minority of one in expressing this point of view. However, I think these considerations support my position that such effects should be accomplished only by legislation, and not by a judicially imposed statutory construction.\nA patent statute, like a patent claim, should be more than a mere \u201cnose of wax which may be turned and twisted in any direction.\u201d Cf. White v. Dunbar, 119 U.S. 47, 51 (1886). Often a particularly loosely worded satutory provision can come very near to being all things to all people. But all statutes have an elastic limit, and stretching them beyond that point results in a flaccid collection of words, vulnerable and open to attack from all sides and a far cry from the legislative instrument that was intended. I am not persuaded by the majority opinion that this court should undertake by \u201cinterpretation\u201d to rewrite key provisions of sections 102(b) and 103 according to judicial fiat. I think it is the Congress and not this court which should correct the oversight, if any, which may be present in the statute.\nIn the previous discussion, I have indicated something of the complexities of the problems here involved. Such problems lie peculiarly within the province of the Congress, where the instruments of investigation, public hearings and exhaustive debate can measure and determine the public interest and state the proper public policy far more accurately than it can be done in this court.\nIII. Some logical problems and the undesirable consequences of the majomty viewpoint. In concluding, I shall comment on some of the undesirable consequences of today\u2019s decision. Others will undoubtedly perceive different problems, and the passage of time will surely create even more, but in the following paragraphs I shall outline some of the matters that have been and are troubling me.\nConsider what the majority has done in its opinion. One would have supposed, in view of the fact that the issue appears to be \u201closs of right to patent\u201d under section 102 (b), that the majority would have decided this issue. Thus, one would have supposed the majority would first determine whether there was a right to a patent. I think the record is clear that Foster met every statutory standard to establish patentability of his invention on its merits. Clearly, the invention is new and unobvious under sections 102(a) and 103, respectively, since neither the Binder nor the Greene references were in existence at the time the invention was made. On the present record Foster had a right to a patent. Thus the only remaining question is whether he lost that right, under the provisions of section 102(b). And the majority\u2019s answer to this is (after overruling Palmquist') : Yes, he lost his right to patent, since the Binder reference made the invention obvious more than a year before Foster filed his application.\nContrary to this simple approach and what might be supposed from these considerations, the majority opinion does not decide this issue. In overruling Palmquist, the majority gives lip service to the truism that \u201csection 103 has nothing whatever to do\u201d with the issue of loss of right to patent, but then proceeds to decide the case as one of obviousness using Binder as prior art under section 103, which it most emphatically is not, since it did not exist \u201cat the time the invention was made.\u201d\nIf the four members of the majority of this court cannot make clear which section of the statute or which underlying rationale they are applying, I hesitate to guess what an applicant in the future will face in the way of indefinite and evasive rejections from the Patent Office. Today\u2019s decision destroys any meaningful differences that may have existed in the past between sections 102(a) and (b) and section 103. This is evident from the way in which the majority opinion vacillates between sections 102 and 103 to support its affirmance of a rejection of the claims as \u201cunpatentable over\u201d the Binder reference.\nDespite my past hopes that the Patent Office would adopt a policy of articulation regarding the statutory ground of rejection, it now seems clear that the majority is satisfied with a simple \u201cunpatentable over\u201d rejection. And since such a rejection can be for the reason that the claimed invention is old, or obvious, or for the reason that the right to patent has been lost, the applicant is put in the position of guessing as to which ground is intended and arguing against each of these reasons, without knowing which one the Office really means or which one will be relied upon in the event of appeal.\nThe many powerful implications in the term \u201cdue process\u201d apply to the patent law as well as they do to other fields. I am frankly unable to reconcile the procedural due process requirements of 35 USC 132 with the failure of the Patent Office here to comply with the notice requirements of this section. Certainly one needs look no fur-tber than the majority opinion to see that the words \u201cunpatentable over\u201d do not impart such information as to enable an applicant to \u201cjudge of the propriety of continuing the prosecution of his application\u201d as contemplated by section 132.\nMost disturbing of all is the fact that from this day forward obviousness under section 103 will be tested, not as of the time the invention was made, but as of one year prior to the filing date of the application.\nPrior to the enactment of section 103, the determination of \u201cinvention\u201d and the evaluation of the prior art relevant thereto always was made as of the time the invention was made. To now change the meaning of section 103 so that obviousness is tested as of one year prior to the filing date of the application, as it seems to me is required by the rationale of the majority, I think we should have some definite indication that such a change was within the contemplation of Congress in enacting section 103. Certainly, such a change should require more than an inaccurately stated principle of an alleged public policy to engraft the forfeiture provisions of section 102(b) onto section 103.\nThe majority in its construction of section 103 clearly embraces the historically rejected \u201chindsight\u201d reconstruction of the prior art for all times except one year before tire filing date of the application, a result I feel certain Congress intended to preclude by the very precise wording of section 103.\nA recent writer in observing that \u201chindsight\u201d is one of our best-developed faculties\u201d has given current expression to the ancient observation recorded in Ecclesiastes 1:9, 10. I had supposed, very naively as it now appears, that section 103 was bottomed on an awareness of the most human of all failings and that Congress had for this reason required that the determination of obviousness was to be made \u201cat the time the invention was made.\u201d Instead, I now learn from the majority opinion that the clear language of this section does not mean what it says. Make no mistake about it, hindsight now is an accepted technique for rejection of an application under section 103 unless the effective date of the reference or combination of references is less than one year prior to the filing date of the application.\nSee Sobel, Prior Art and Obviousness, 47 J. Pat. Off. Soc\u2019y 79 (1965), a substantial portion of which is given over to a discussion of Palmquist and related cases. Palmquist is noted in 13 Am. U.L. Rev. 211 (1964) and 32 Geo. Wash. L. Rev. 656 (1964).\nThe underlying condition specified in rule 131(a) is that the invention be substantially shown or described, but not claimed, in the domestic patent used as the reference. In accepting the affidavits under this rule and removing the Greene patent as a reference, we must assume that the Patent Office considered that this underlying condition of rule 131 had been met and that Greene did describe Foster\u2019s invention.\nI have found no case law which sanctions the forfeiture of the right to a patent except in those situations where the invention is \u201cdescribed\u201d in a prior patent or printed publication or has gone into public use or on sale. This exception is explicitly stated in 35 XJSC 102(b) and is supported by such landmark cases as Bates v. Coe, 08 U.S. 31 (1878) and Parks v. Booth, 102 U.S. 96 (1SS0). In Batea v. Coe, the patent in suit related to a hand drill and screw cutter consisting of five elementary parts. The defense pleaded that the invention was old and the proofs consisted of several prior patents, each of which disclosed certain of the elementary parts of the patented combination. In rejecting this defense, the Court stated :\nWhere the thing patented is an entirety, consisting of a single device or combination of old elements, incapable of division or separate use, the respondent cannot escape the charge of infringement by alleging or proving that a part of the entire thing is found in one prior patent or printed publication or machine, and another part in another prior exhibit, and still another part in a third one, and from the three or any greater number of such exhibits draw the conclusion that the patentee is not the original and first inventor of the patened combination. [98 U.S. at 48.]\nWhile the primary issue in Bates v. Coe was whether the patentee was the first inventor, it is clear that the Court intended the stated principle to apply to the other satutory defenses as well.\nIn Parks v. Booth, the defendant offered proofs that the patentee was not the original and first inventor of the improvement patented, which proof consisted of twelve patents or specifications. The Court, in denying this defense, stated :\n* * * Suffice it to say in that regard that all of them have been carefully examined to the extent of the means furnished by the transcript, and the court is of the opinion that no one of the documents is of a character to sustain the issue that the complainant is not the original and first inventor of the improvement.\nMost or all of the inventions described in those publications bear more or less resemblance to that claimed by the complainant, and it may be that if it were allowable to test the validity of the invention in question by comparing the same with the whole as if embodied in a single exhibit, the evidence might be sufficient to support the views of the respondents in respect to the defence under consideration. Were that allowable it might well be suggested that the screen is found in one, the box in another, and the means to produce the lateral shake in a third, and so on to the end ; but it would still be true that neither the same combination in its entirety nor the same mode of operation is described in any one of the patents or printed publications given in evidence.\nAttempt is scarcely made in argument to show that any one of these exhibits embodies the entire invention of the complainant, but it is insisted that every feature of the patented improvement is found in some one or more of those publications. Suppose that is so, still it is clear that such a concession, if made, could not benefit the respondents, unless they can be allowed to extend the same comparison to two or more exhibits, as they do not contend that the entire invention is superseded by any one of their exhibits.\nWhere the thing patented is an entirety, consisting of a separate device or of a single combination of old elements incapable of division or separate use, the respondent cannot make good the defence in question by proving that a part of the entire invention is found in one prior patent, printed publication, or machine, and another part in another, and so on indefinitely, and from the whole or any given number expect the court to determine the issue of novelty adversely to the complainant. Bates v. Coe, 98 U.S. 31.\nCommon justice forbids such a defence, as it would work a virtual repeal of so much of the Patent Act as gives to inventors the right to a patent consisting of old elements, where the combination itself is new and produces a new and useful result. New elements in such a patent are not required, and if such a defence were allowed, not one patent of the kind in a thousand of modern date could be held valid. Nor is\u00a1 such a defence consistent with the regulations enacted by Congress in respect to the procedure in litigations in respect to patent-rights. [102 U.S. at 103\u201404.]\nWebster's New International Dictionary (2d ed. 1954) defines \u201cdescribe\u201d in pertinent part as \u201c2. To represent by words written or spoken * * * to state in detail the particulars of; * * * now esp., to give a mental image of; to depict verbally; as to describe a view, a person.\u201d The same source defines \u201cobvious\u201d as \u201c2. Easily discovered, seen, or understood; plain ; evident * * *.\"\nThus it would appear that the choice of language in section 102(b) requiring, as it does, that the invention be described, has carried into the statute the legal concepts expressed in Bates v. Coe and Parks v. Booth, supra note 3, i.e. that \u201canticipation\u201d within the purview of section 102 requires that a description of the entire invention, not just some part of it, must be found in the patent or printed publication relied upon. This view is supported also by the express language of section 103, which is to apply when \u201cthe invention is not identically disclosed or described as set forth in section 102 * * (Emphasis added.) Under section 103 it is sufficient if the invention be \u201cobvious\u201d from the prior art. The section also includes the safeguard that this determination must be made \u201cat the time the invention was made\u201d and thus negates the \u201chindsight\u201d and \u201cpiecemeal\u201d reconstruction of the prior art which the Supreme Court recognized as a danger in Parks v. Booth. Quaere: If an invention is \u201cobvious\u201d under section 103 (although not \u201cat the time the invention was made\u201d), and the majority equates it with a \u201cdescribed\u201d invention under section 102, do \u201cobvious\u201d and \u201cdescribed\u201d now mean the same thing in the field of patent law?\nFor a further exposition of these considerations, see the dissenting opinions of Justices Frankfurter and Harlan In Balter v. Carr, 369 U.S. 186, 266, 330 (1962).\nWith respect to the instant majority\u2019s characterization of section 102(b) as presenting \u201ca sort of statute of limitations,\u201d see Eclipse Lumber Co. v. Iowa Loan & Trust Co., 38 F. 2d 608, 610 (8th Cir. 1930) :\nWhile the general rule is that statutes of limitation are to be given a liberal construction as statutes of repose * * * [citing cases] they are not to be extended to cases not within their provisions. \u2022 * * [Citing cases.]\nA statute limiting the time to bring an action to enforce a mechanic\u2019s lien cannot be extended, by construction, to include within its terms the equitable action, authorized by section 3103, given to persons who can have no mechanic\u2019s liens. Where the language of a statute is plain, there is no room for construction. * * * [Citing cases.]\n\u201cThe language of section 103 seems to leave no doubt that the date an applicant made an invention is the point of reference regardless of the existence of the statutory one-year bars. Such bars must be considered alone and not as part of the general knowledge to be imputed to the \u2018person having ordinary skill,\u2019 if later than said date of invention.\u201d Woodcock, \u201cWhat is Prior Art?\u201d in Dynamics of the Patent System 309 (1960).\nAnother aspect of procedural due process which continues to concern me in the present case arises where the rejection appears now to be predicated upon section 103. The Commissioner of Patents has failed to provide a procedure by which an applicant can establish his date of invention as contemplated by section 103. Unless the date of invention be within one year from the filing date of the application, there is no remedy. If the date be within one year from the filing date there is a partial remedy under rule 131. By its context, however, rule 131 precludes an applicant from using it to establish a date of invention more than one year prior to his filing date.\nEugene S. Ferguson, \u201cThe Origins of tlie Steam Engine,\u201d Scientific American, Vol. 210, pp. 98, 107 (January 19\u215e4).\nSee the following :\n9. The thing that hath been, it is that which shall be; and that which is done is that which shall be done : and there is no new thing under the sun.\n10. Is there anything whereof it may be said, See, this is new? It hath been already of old time, which was before us.",
+        "type": "dissent",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Mary Helen Sears, Edward S. Irons, Stanley M. Clark for appellant.",
+      "Clarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "343 F. 2d 980; 145 USPQ 166\nIn re Frederick C. Foster\n(No. 7106)\nUnited States Court of Customs and Patent Appeals,\nApril 15, 1965 ,\nMary Helen Sears, Edward S. Irons, Stanley M. Clark for appellant.\nClarence W. Moore (Raymond E. Martin, of counsel) for the Commissioner of Patents.\n[Oral argument February 4, 1964, by Mr. Irons and Mr. Martin]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges\nPetition for rehearing denied July 1, 1965.\nPetition for writ of certiorari filed in Supreme Court July 14, 1965 (S. Ct. No. 347)."
+  },
+  "file_name": "1808-01",
+  "first_page_order": 1132,
+  "last_page_order": 1157
+}

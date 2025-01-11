@@ -1,0 +1,58 @@
+{
+  "id": 12486527,
+  "name": "Com. v. S. Harvey",
+  "name_abbreviation": "Com. v. Harvey",
+  "decision_date": "2016-03-09",
+  "docket_number": "NO. 2092 WDA 2014",
+  "first_page": "195",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "7ed4d531cc9f4d61d3e8058aba540706b99b45fa5783962a32ac78ce43cba4ce",
+    "simhash": "1:3412ee388d2acc44",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nS. Harvey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nS. Harvey\nNO. 2092 WDA 2014\nSuperior Court of Pennsylvania.\nMarch 09, 2016\nAffirmed."
+  },
+  "file_name": "0195-12",
+  "first_page_order": 195,
+  "last_page_order": 195
+}

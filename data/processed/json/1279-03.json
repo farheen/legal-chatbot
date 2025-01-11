@@ -1,0 +1,66 @@
+{
+  "id": 7296509,
+  "name": "In re ESTATE OF Paul J. SAUERS, III Deceased Petition of Jodie L. Sauers",
+  "name_abbreviation": "In re Estate of Sauers",
+  "decision_date": "2009-09-11",
+  "docket_number": "",
+  "first_page": "1279",
+  "last_page": "1279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "981 A.2d 1279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "29 U.S.C.S. \u00a7\u00a7 1001-1461",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 632,
+    "ocr_confidence": 0.688,
+    "sha256": "d8d1046fae227271d8242a2c642ba7926b40586091975e4019e6b28ef6b3ef6d",
+    "simhash": "1:549d59a50ec0aa7d",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T22:54:49.151029+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ESTATE OF Paul J. SAUERS, III Deceased Petition of Jodie L. Sauers."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of September, 2009, the Petition for Allowance of Appeal is hereby GRANTED. The issues, rephrased and combined for clarity, are as follows:\n1) Whether, and to what degree, the Employee Retirement Income Security Act of 1974 29 U.S.C.S. \u00a7\u00a7 1001-1461 preempts Section 6111.2 of the Probate, Estates and Fiduciaries Code, 20 Pa. C.S. \u00a7 101-8815?\n2) Does an estate have the capacity to initiate legal action on behalf of a contingent beneficiary of a life insurance policy?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF Paul J. SAUERS, III Deceased Petition of Jodie L. Sauers.\nSupreme Court of Pennsylvania.\nSept. 11, 2009."
+  },
+  "file_name": "1279-03",
+  "first_page_order": 1341,
+  "last_page_order": 1341
+}

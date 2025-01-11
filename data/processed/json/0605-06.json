@@ -1,0 +1,58 @@
+{
+  "id": 12486119,
+  "name": "Com. v. W. Powell",
+  "name_abbreviation": "Com. v. Powell",
+  "decision_date": "2016-02-26",
+  "docket_number": "NO. 551 MDA 2015",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "cec7b07554921a91610ea2772bb5c62f275e1e1c9cbc63e00adf5dd2fc8760d3",
+    "simhash": "1:855a36893d1d1d81",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Powell"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Powell\nNO. 551 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 26, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0605-06",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

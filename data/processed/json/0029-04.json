@@ -1,0 +1,58 @@
+{
+  "id": 12501383,
+  "name": "John SCOTT, Defendant Below, Appellant, v. STATE of Delaware, Plaintiff Below, Appellee.",
+  "name_abbreviation": "Scott v. State",
+  "decision_date": "2018-08-29",
+  "docket_number": "No. 417, 2018",
+  "first_page": "29",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9735,
+    "name": "Delaware Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 194,
+    "sha256": "8586eb496b23a4b6552bb265ca6ab26d58d4a93b11289aecf62f7a98aaaf77dd",
+    "simhash": "1:f02f1c16e24da193",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John SCOTT, Defendant Below, Appellant,\nv.\nSTATE of Delaware, Plaintiff Below, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John SCOTT, Defendant Below, Appellant,\nv.\nSTATE of Delaware, Plaintiff Below, Appellee.\nNo. 417, 2018\nSupreme Court of Delaware.\nSubmitted: August 27, 2018\nDecided: August 29, 2018\nDISMISSED."
+  },
+  "file_name": "0029-04",
+  "first_page_order": 29,
+  "last_page_order": 29
+}

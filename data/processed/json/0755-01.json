@@ -1,0 +1,111 @@
+{
+  "id": 6078093,
+  "name": "In re Beeson",
+  "name_abbreviation": "In re Beeson",
+  "decision_date": "1938-12-19",
+  "docket_number": "No. 4017",
+  "first_page": "755",
+  "last_page": "757",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 C.C.P.A. 755"
+    },
+    {
+      "type": "parallel",
+      "cite": "100 F.2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "76 F. (2d) 302",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081962,
+        958010
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1158-01",
+        "/f2d/76/0302-01"
+      ]
+    },
+    {
+      "cite": "96 F. (2d) 285",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081736,
+        998756
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/25-2/1110-01",
+        "/f2d/96/0285-01"
+      ]
+    },
+    {
+      "cite": "44 F. (2d) 418",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6552675,
+        1780614
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/0761-01",
+        "/f2d/44/0418-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 392,
+    "char_count": 6443,
+    "ocr_confidence": 0.445,
+    "sha256": "06ab05499dd24c7321da342131f5e8def4fd1c78c109b69c12d9b475a8fa49f6",
+    "simhash": "1:af0fdcff0091cee2",
+    "word_count": 1114
+  },
+  "last_updated": "2024-02-27T22:14:37.962341+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Gabbett, Presiding Judge, and Bland, Hatfield, Lenkoot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "In re Beeson"
+    ],
+    "opinions": [
+      {
+        "text": "JacksoN, Judge,\ndelivered tbe opinion of tbe court:\nThis is an appeal from tbe decision of the Board of Appeals of the United States Patent Office, affirming that of tbe examiner rejecting, for want of patentability over tbe prior art, all of the claims, 6, 7, and 8, of an application for a patent for an improvement on sidings.\nThe references cited are:\nDocker, 1,S87, December 10, 1840.\nBraun (Swiss), 10,454, June 1, 1895.\nCbilcott (British), 15,872, July 2, 1910.\nMunro, 1,593,094, July 20, 1926.\nClaim 7 is illustrative and reads as follows:\n7. A siding composed of a plurality of substantially rectangular fiber-cement shingles arranged in overlapping horizontal courses, with the shingles of each course laid end to end, and with a piece of water-proofed felt underlying each joint and supporting two adjacent shingles at their ends but not extending under the bodies of the shingles.\nThe application relates to a covering or siding of asbestos-cement shingles, substantially rectangular in shape, each containing preformed spaced perforations or holes adjacent the upper edge and one similar hole at each of the exposed lower corners. Under each joint made by the abutting sides of the shingles is a relatively narrow strip of water-proofed felt, which is soft and compressible. The shingles are laid in the usual fashion, each row being superimposed upon the subjacent row for a portion of its length. Nails are driven through the said holes to fasten the units. The exposed nails in the corner holes penetrate through the underlying, soft felt strips into the sheathing and it is said that this results in sealing the joint against water, and prevents breakage of the shingle in nailing.\nThe Docker patent relates to roofing or wall facing in which the shingles of slate, tile or metal are laid and fastened in the usual way with strips of metal treated to resist the action of moisture beneath each abutting joint. Hydraulic cement or other composition is placed upon the metal strips. This construction appears to result in water-tight joints.\nThe Braun (Swiss) patent relates to water-tight tile roofing in which the tiles are laid on continuous strips of felt.\nThe British patent to Chilcott relates to a method of fastening slate shingles upon roofs. The shingles are fastened to the roof by means of screws fitted one to each shingle in a preformed hole near the middle of the exposed edge. The screws are dipped into white, or red lead and fit the holes exactly. The method appears to result in a roof covering resistant to dampness and wind.\nThe patent to Munro discloses a composite shingle composed of a \u2022back layer of felt and a slate face. The felt back extends any desired distance above the slate. A cushioning strip of felt is placed between the under and the overlapping shingle rows. This strip is a cushioning and sealing means for the nails driven through the slate.\nThe examiner rejected claims 1 and 8 as being unpatentable over the Docker patent in view of either the Braun or Munro patents. Claim 6 was rejected by the examiner on all of the references, his decision stating that Munro shows the advantage of nailing through the felt and that it is obvious to nail along the exposed edge in view of Chilcott. The board agreed with these grounds of rejection.\nIt appears to us that the use of water-proofed felt strips for the metal strips disclosed in the Docker patent is but an obvious substitution of material. Both strips are material that has been waterproofed.\nBoth the Braun and Munro patents show the use of felt backing as a cushioning means, and Munro particularly sets forth that the felt is a sealing means in nailing. Therefore, we cannot hold that the use of felt for cushioning and sealing, as claimed here, discloses anything that is not old in the art.\nThe fact that the felt shown in the application does not extend under the entire surface of the shingle is immaterial because whether it does or not, it apparently is a cushion for the shingle and a seal for the joint:\nIt is clear to us that nailing on the exposed corners through preformed holes is shown in the Chilcott patent and consequently this feature of the claims cannot be considered as involving invention.\nAppellant contends that the board erred in holding claim 8 to be illustrative of all of the claims and also that individual consideration was not given to each of the claims. There is no difference between claims 7 and 8 except that the words \u201cwaterproofed\u201d in claim 7 are replaced with the words \u201casphalt saturated\u201d in claim 8. Appellant does not claim that asphalt saturated or waterproofed felt is part of his invention and in his brief-he requests that we consider his argument concerning claim 7 to be applicable to claim 8. We are of opinion that since there is no substantial difference in the subject matter of these claims there was no error on the part of the board in quoting claim 8 as illustrative and in failing to discuss claims 7 and 8 separately.\nClaim 6' was separately considered by both the examiner and the board, the decision of the latter stating:\nClaim 6 sets out a particular arrangement of the nailing perforations but this arrangement is considered not to be patentable over the arrangements disclosed in the references.\nWith this holding of the board we are in accord as we have herein-before stated.\nWe cannot consider the statements in the brief of appellant as to the commercial success of his device. They are not in the record. In re Kochendorfer, 18 C. C. P. A. (Patents) 761, 44 F. (2d) 418.\nWe think it is clear, from what has heretofore been said, that the claims herein were properly rejected as being unpatentable over the prior art cited. The combining of references was proper in this case. Under such circumstances it is not necessary that a reference contain all of the features of a claim. In re Hodgson, 25 C. C. P. A. (Patents) 1110, 96 F. (2d) 285; In re Cordes, 22 C. C. P. A. (Patents) 1158, 76 F. (2d) 302.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "JacksoN, Judge,"
+      }
+    ],
+    "attorneys": [
+      "'William, T. Geier (Lester F. Dittenhoefer of counsel) for appellant.",
+      "JR. F. Whitehead {Howard S. Miller of counsel) for tbe Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "100 F. (2d) 191\nIn re Beeson\n(No. 4017)\nUnited States Court of Customs and Patent Appeals,\nDecember 19, 1938\n'William, T. Geier (Lester F. Dittenhoefer of counsel) for appellant.\nJR. F. Whitehead {Howard S. Miller of counsel) for tbe Commissioner of Patents.\n[Oral argument November 2, 1938, by Mr. Geier and Mr. Miller]\nBefore Gabbett, Presiding Judge, and Bland, Hatfield, Lenkoot, and Jackson, Associate Judges"
+  },
+  "file_name": "0755-01",
+  "first_page_order": 73,
+  "last_page_order": 75
+}

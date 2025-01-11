@@ -1,0 +1,58 @@
+{
+  "id": 12486079,
+  "name": "Com. v. R. Montgomery",
+  "name_abbreviation": "Com. v. Montgomery",
+  "decision_date": "2016-02-24",
+  "docket_number": "NO. 1489 WDA 2014",
+  "first_page": "603",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 159,
+    "sha256": "8737792217a1ea61553326b110f61a413dee5a17696d31150c132ce032be3fda",
+    "simhash": "1:a5007aec8adb29a0",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Montgomery"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Montgomery\nNO. 1489 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 24, 2016\nDisposition: Affirmed.\nPetition for reargument denied May 10, 2016."
+  },
+  "file_name": "0603-11",
+  "first_page_order": 603,
+  "last_page_order": 603
+}

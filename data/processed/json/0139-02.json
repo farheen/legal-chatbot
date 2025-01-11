@@ -1,0 +1,64 @@
+{
+  "id": 7963917,
+  "name": "George C. WOOD v. A. Marie WOOD",
+  "name_abbreviation": "Wood v. Wood",
+  "decision_date": "1980-01-10",
+  "docket_number": "No. 79-471-M.P.",
+  "first_page": "139",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 257,
+    "ocr_confidence": 0.751,
+    "sha256": "90606c367662f16939763a8a0da7845c6c760626b17586a5f338a3fe7357522b",
+    "simhash": "1:62b2b6190e52fa10",
+    "word_count": 43
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS and MURRAY, JJ., did not participate."
+    ],
+    "parties": [
+      "George C. WOOD v. A. Marie WOOD."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.\nDORIS and MURRAY, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "George C. Wood, pro se.",
+      "Gary Yesser, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "George C. WOOD v. A. Marie WOOD.\nNo. 79-471-M.P.\nSupreme Court of Rhode Island.\nJan. 10, 1980.\nGeorge C. Wood, pro se.\nGary Yesser, Providence, for respondent."
+  },
+  "file_name": "0139-02",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

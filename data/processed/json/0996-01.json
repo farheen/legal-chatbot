@@ -1,0 +1,68 @@
+{
+  "id": 6094954,
+  "name": "In re Frederick K. Vreeland",
+  "name_abbreviation": "In re Vreeland",
+  "decision_date": "1930-04-14",
+  "docket_number": "No. 2260",
+  "first_page": "996",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 996"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 186,
+    "char_count": 2321,
+    "ocr_confidence": 0.488,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.436404593472438
+    },
+    "sha256": "6724a3bc947a2a2672a2e4438134c518c2d77ee21b9bcf57eddcdb7a6cd9749f",
+    "simhash": "1:214ee8862267de49",
+    "word_count": 384
+  },
+  "last_updated": "2023-07-14T15:51:07.530903+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Geaham, Presiding Judge, and Bland, Hatfield, Gabeett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "In re Frederick K. Vreeland"
+    ],
+    "opinions": [
+      {
+        "text": "GRAham, Presiding Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals affirming the decision of the examiner in refusing to allow appellant\u2019s eighth claim in his application, Serial No. 582604, filed August 18, 1922. The application was for a patent on improvements in a re-eeiving system for radiant energy. Said claim 8 is as follows:\n8. In a receiving system for radiant energy, a primary tuned circuit in-eluding a loop collector and a variable capacity, a secondary tuned circuit including an inductance and a similar variable capacity, and means for simultaneously varying the capacities of the two circuits while maintaining a constant ratio of their reactances equal to the ratio of inductances of the two circuits.\nThe Board of Appeals cites as a reference Hogan, Serial No. 1363319, dated December 28, 1920.\nIn the matter of appellant\u2019s application, Serial No. 582603, filed August 18, 1922, suit No. 2259, decided by this court concurrently herewith, we held that appellant\u2019s system of two tuned circuits, with equal inductances and capacities, both tuned by a single means, was anticipated by the said patent to Hogan.\nThe only difference between the cited case and the case at bar seems to be that the appellant substitutes a loop collector or antenna for the collector shown in his said application, Serial No. 582603. We are unable to see in what respect this change differentiates the system from Hogan, and the antenna he describes. Whatever the capacity of the antenna 16 may be, as shown by Hogan, it is to be compensated for by the condenser 43. The same principle would hold true whether the collector be a loop or some other form of collector. Because Hogan does not describe a loop does not argue that therefore his system is different. He teaches similar compensating means, and therefore the appellant has invented nothing.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "GRAham, Presiding Judge,"
+      }
+    ],
+    "attorneys": [
+      "William B. Greeley for appellant.",
+      "T. A. Hostetler (Howard 8. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Frederick K. Vreeland\n(No. 2260)\nUnited States Court of Customs and Patent Appeals,\nApril 14, 1930\nWilliam B. Greeley for appellant.\nT. A. Hostetler (Howard 8. Miller of counsel) for the Commissioner of Patents.\n[Oral argument March 4, 1930, by Mr. Greeley and Mr. Miller]\nBefore Geaham, Presiding Judge, and Bland, Hatfield, Gabeett, and Lenroot, Associate Judges"
+  },
+  "file_name": "0996-01",
+  "first_page_order": 446,
+  "last_page_order": 447
+}

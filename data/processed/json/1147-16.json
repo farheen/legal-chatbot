@@ -1,0 +1,58 @@
+{
+  "id": 12488447,
+  "name": "Com. v. Miller, J.",
+  "name_abbreviation": "Com v. Miller",
+  "decision_date": "2016-05-13",
+  "docket_number": "1696 MDA 2015",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 97,
+    "sha256": "c865697693a7d8a5590d96a5c45064327d605937abd192535735845f8e752232",
+    "simhash": "1:90816631bc2905a1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMiller, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMiller, J.\n1696 MDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nReversed/Remanded"
+  },
+  "file_name": "1147-16",
+  "first_page_order": 1147,
+  "last_page_order": 1147
+}

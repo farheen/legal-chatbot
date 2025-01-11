@@ -1,0 +1,62 @@
+{
+  "id": 12485533,
+  "name": "State v. Brayon Green",
+  "name_abbreviation": "State v. Green",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-929 SEPT. TERM 2015, 077415",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 121,
+    "sha256": "cb2f68d419f571dd061090dbcbf51271d8c2c5c1d031ebf2a92af98ffc04d34d",
+    "simhash": "1:137c7e2afc0a8b2d",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nBrayon Green"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nBrayon Green\nNOS. C-929 SEPT. TERM 2015, 077415\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-10",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

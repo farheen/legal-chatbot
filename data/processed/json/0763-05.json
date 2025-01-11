@@ -1,0 +1,64 @@
+{
+  "id": 12488925,
+  "name": "VERNON, Jerome Lamont v. STATE of Maryland",
+  "name_abbreviation": "Vernon v. State",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 473, Sept. Term, 2016",
+  "first_page": "763",
+  "last_page": "763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 763"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 168,
+    "sha256": "5856b8e8378783647e87a6fef2d2faab8643dfde95e31951913fce60b0f54692",
+    "simhash": "1:086f4440f0690415",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VERNON, Jerome Lamont\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "VERNON, Jerome Lamont\nv.\nSTATE of Maryland\nPet. Docket No. 473, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0763-05",
+  "first_page_order": 763,
+  "last_page_order": 763
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501896,
+  "name": "COM. v. STOVER, G.",
+  "name_abbreviation": "Com. v. Stover",
+  "decision_date": "2018-07-31",
+  "docket_number": "2424 EDA 2017",
+  "first_page": "720",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 720"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "13bee120e5ebba6cd62b6902f0727098babf62dd2d96d1311364ad2e9c98bcc7",
+    "simhash": "1:ecfe16bbe0f0bfe8",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nSTOVER, G."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nSTOVER, G.\n2424 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 31, 2018\nAffirmed"
+  },
+  "file_name": "0720-03",
+  "first_page_order": 720,
+  "last_page_order": 720
+}

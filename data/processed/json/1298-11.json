@@ -1,0 +1,59 @@
+{
+  "id": 6083475,
+  "name": "In re Walter F. Klein",
+  "name_abbreviation": "In re Klein",
+  "decision_date": "1932-05-05",
+  "docket_number": "No. 3012",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 78,
+    "ocr_confidence": 0.493,
+    "sha256": "2ef8ec888b6e9dbb4975e3b13be5535575022e911f5c47b5ed601c62b2cca3b0",
+    "simhash": "1:a8530de0a13392d0",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Walter F. Klein"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in socket wrenches.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MAY 5, 1932\nIn re Walter F. Klein\n(No. 3012)."
+  },
+  "file_name": "1298-11",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

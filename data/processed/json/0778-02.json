@@ -1,0 +1,58 @@
+{
+  "id": 12487328,
+  "name": "Com. v. L. Masse",
+  "name_abbreviation": "Com. v. Masse",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 2877 EDA 2014",
+  "first_page": "778",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "a961fdfa2addfb4c2555fd944fe64bd30c145fafc5d959e7388e08d651d84cf3",
+    "simhash": "1:20073ef830a02c01",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Masse"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Masse\nNO. 2877 EDA 2014\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0778-02",
+  "first_page_order": 778,
+  "last_page_order": 778
+}

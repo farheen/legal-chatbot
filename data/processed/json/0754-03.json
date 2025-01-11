@@ -1,0 +1,91 @@
+{
+  "id": 7944449,
+  "name": "The WILLIMANTIC TRUST COMPANY v. Edgar PHILLIPS",
+  "name_abbreviation": "Willimantic Trust Co. v. Phillips",
+  "decision_date": "1981-10-22",
+  "docket_number": "No. 79-278-A",
+  "first_page": "754",
+  "last_page": "755",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 754"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "107 R.I. 129",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3028207
+      ],
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "133"
+        },
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 123,
+    "char_count": 1227,
+    "ocr_confidence": 0.789,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2006337048993976
+    },
+    "sha256": "ebaa1647c81a768c63c1d7b3a9d218ab98de59cd027d82a8ddf1a256cdb8a86b",
+    "simhash": "1:3a344a5b88d56c4b",
+    "word_count": 204
+  },
+  "last_updated": "2024-02-27T20:24:54.472867+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY and SHEA, JJ., did not participate."
+    ],
+    "parties": [
+      "The WILLIMANTIC TRUST COMPANY v. Edgar PHILLIPS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case comes before a panel of this court upon an order issued to the plaintiff to appear and show cause why defendant\u2019s appeal from the entry of a partial summary judgment should not be sustained in light of Norberg v. Warwick Liquors, 107 R.I. 129, 265 A.2d 648 (1970). Pursuant to this order, counsel for the parties argued the matter on October 20, 1981.\nAfter consideration of the briefs filed in the case and the arguments of counsel, we are of the opinion that the affidavit filed by the defendant created a question of fact concerning the amount due and unpaid under the promissory note. This constituted a genuine issue of material fact within the principles enunciated in Norberg v. Warwick Liquors, 107 R.I. 129, 133, 265 A.2d 648, 658. Consequently, the appeal of the defendant is sustained, the partial summary judgment is vacated, and the case is remanded to the Superior Court for a trial on the merits.\nMURRAY and SHEA, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Rice, Dolan, Kiernan & Kershaw, Thomas C. Plunkett, Providence, for plaintiff.",
+      "Davis, Jenckes & Kilmarx, Henry M. Swan, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "The WILLIMANTIC TRUST COMPANY v. Edgar PHILLIPS.\nNo. 79-278-A.\nSupreme Court of Rhode Island.\nOct. 22, 1981.\nRice, Dolan, Kiernan & Kershaw, Thomas C. Plunkett, Providence, for plaintiff.\nDavis, Jenckes & Kilmarx, Henry M. Swan, Providence, for defendant."
+  },
+  "file_name": "0754-03",
+  "first_page_order": 802,
+  "last_page_order": 803
+}

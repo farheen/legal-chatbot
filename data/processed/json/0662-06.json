@@ -1,0 +1,58 @@
+{
+  "id": 12501601,
+  "name": "In the INT. OF: A.E.Y., a Minor",
+  "name_abbreviation": "In re Int. of A.E.Y.",
+  "decision_date": "2018-07-11",
+  "docket_number": "1716 MDA 2017",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 662"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "71a73913b018dced80097b29161d31ff5dc0be4f132f7c00995528e563200bb2",
+    "simhash": "1:a4347ab987891c36",
+    "word_count": 18
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the INT. OF: A.E.Y., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the INT. OF: A.E.Y., a Minor\n1716 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 11, 2018\nVacated/Remanded"
+  },
+  "file_name": "0662-06",
+  "first_page_order": 662,
+  "last_page_order": 662
+}

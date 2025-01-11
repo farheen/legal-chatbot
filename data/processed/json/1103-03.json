@@ -1,0 +1,95 @@
+{
+  "id": 8006258,
+  "name": "STATE v. Daniel DiSALVO",
+  "name_abbreviation": "State v. DiSalvo",
+  "decision_date": "1982-12-30",
+  "docket_number": "No. 82-216-C.A.",
+  "first_page": "1103",
+  "last_page": "1104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "453 A.2d 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "281 Pa.Super. 348",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        152747
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/281/0348-01"
+      ]
+    },
+    {
+      "cite": "402 A.2d 1185",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3185035
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0766-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 181,
+    "char_count": 2348,
+    "ocr_confidence": 0.79,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.200714983769324
+    },
+    "sha256": "d77eeac3875fded4ad1ef5ab96f352b76abd23c1105d0ec3c3d4d47bd8f666a5",
+    "simhash": "1:cf3aaefd9f62958e",
+    "word_count": 383
+  },
+  "last_updated": "2024-02-27T16:45:19.505066+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Daniel DiSALVO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter was before the court on December 8, 1982 on an order previously issued to the defendant to show cause why his appeal ought not to be dismissed.\nThe facts briefly stated are as follows. The defendant was charged with assault with intent to murder and also two counts of sexual assault. At the time of the alleged offenses, the defendant was on probation. Subsequently, the defendant was brought to trial on the underlying charges. A revocation hearing was held concurrently with the trial.\nThe defendant was acquitted after a jury trial on the charges. The trial justice, however, declared him to be a violator and sentence was imposed. The defendant filed a motion for post conviction relief requesting a new revocation hearing which was granted.\nAt the subsequent hearing, he was found to be a violator. The defendant appeals.\nThe defendant contends that the revocation hearing was based on the charges for which he had been previously acquitted, and, therefore, the state is collaterally es-topped from relitigating the factual findings of the jury.\nAcquittal of the underlying offenses does not automatically preclude a determination that a defendant violated the terms and conditions of his probation. State v. Studman, R.I., 402 A.2d 1185 (1979). The majority of courts have held that collateral estop-pel does not bar a revocation of a defendant\u2019s probation based on charges of which he was previously acquitted. Commonwealth v. Brown, 281 Pa.Super. 348, 422 A.2d 203 (1980).\nIn addition, the burdens of proof at the trial and the revocation hearing are different. Commonwealth v. Brown, supra. At a trial, the state is required to prove the charges beyond a reasonable doubt but at a violation hearing, the trial justice must only be satisfied that there has been a violation. State v. Studman, R.I., 402 A.2d 1185 (1979). Because of the different degrees of proof, even though a defendant is acquitted of the underlying charge, it is still possible for the trial justice to find that the defendant is a violator.\nAccordingly, the appeal of the defendant is denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Sharon O\u2019Keefe, Sp. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.",
+      "Mark L. Smith, Woonsocket, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Daniel DiSALVO.\nNo. 82-216-C.A.\nSupreme Court of Rhode Island.\nDec. 30, 1982.\nDennis J. Roberts II, Atty. Gen., Sharon O\u2019Keefe, Sp. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.\nMark L. Smith, Woonsocket, for defendant."
+  },
+  "file_name": "1103-03",
+  "first_page_order": 1159,
+  "last_page_order": 1160
+}

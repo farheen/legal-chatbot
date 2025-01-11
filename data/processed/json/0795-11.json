@@ -1,0 +1,58 @@
+{
+  "id": 12487562,
+  "name": "J. Lashinsky v. J. Colombero",
+  "name_abbreviation": "Lashinsky v. Colombero",
+  "decision_date": "2016-04-27",
+  "docket_number": "NO. 1511 MDA 2015",
+  "first_page": "795",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 795"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 118,
+    "sha256": "f9e5bd7b637882b2e598b331ca15ebf7b88fc068d20ee758545216fe223035a4",
+    "simhash": "1:115ff7e948ea9dc4",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Lashinsky\nv.\nJ. Colombero"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "J. Lashinsky\nv.\nJ. Colombero\nNO. 1511 MDA 2015\nSuperior Court of Pennsylvania.\nApril 27, 2016\nReversed and Remanded."
+  },
+  "file_name": "0795-11",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

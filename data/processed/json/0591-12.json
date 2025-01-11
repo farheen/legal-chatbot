@@ -1,0 +1,58 @@
+{
+  "id": 12485886,
+  "name": "Com. v. J. Eastman",
+  "name_abbreviation": "Com. v. Eastman",
+  "decision_date": "2016-02-10",
+  "docket_number": "NO. 131 WDA 2015",
+  "first_page": "591",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "131f505db640f0f4b9b02f8cfd4360759d510baaba4bbd652b4350a90e15daa3",
+    "simhash": "1:581f42915fcb1bc0",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Eastman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Eastman\nNO. 131 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 10, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0591-12",
+  "first_page_order": 591,
+  "last_page_order": 591
+}

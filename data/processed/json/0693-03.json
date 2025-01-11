@@ -1,0 +1,58 @@
+{
+  "id": 12501753,
+  "name": "COM. v. OCASIO, C.",
+  "name_abbreviation": "Com. v. Ocasio",
+  "decision_date": "2018-07-20",
+  "docket_number": "3965 EDA 2017",
+  "first_page": "693",
+  "last_page": "693",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 693"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "c49d27ba784b3de462d17a985467c104cc9c233ccc6265a17a78f4b57bcfcd35",
+    "simhash": "1:ddfef4b61db4bdc6",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nOCASIO, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nOCASIO, C.\n3965 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nAffirmed"
+  },
+  "file_name": "0693-03",
+  "first_page_order": 693,
+  "last_page_order": 693
+}

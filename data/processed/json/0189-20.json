@@ -1,0 +1,58 @@
+{
+  "id": 12485309,
+  "name": "Johnson v. Johnson",
+  "name_abbreviation": "Johnson v. Johnson",
+  "decision_date": "2016-06-07",
+  "docket_number": "NO. 16-173",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 94,
+    "sha256": "86a6bcfc995ab3cb99f7413c573ca46f15fecd863e209674449a6e7d9403e4d1",
+    "simhash": "1:7dbe5a121acdeee8",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnson\nv.\nJohnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Johnson\nv.\nJohnson\nNO. 16-173\nSupreme Court of Vermont\nJune 07, 2016\nDisposition: Dismissed."
+  },
+  "file_name": "0189-20",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

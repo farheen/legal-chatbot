@@ -1,0 +1,59 @@
+{
+  "id": 6092713,
+  "name": "In re Alan F. Blake",
+  "name_abbreviation": "In re Blake",
+  "decision_date": "1967-10-05",
+  "docket_number": "No. 8049",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 54,
+    "ocr_confidence": 0.513,
+    "sha256": "d086ecd6f90873ac9099d3185cf661619e404099a67dcb1bce2ca55cdaea777f",
+    "simhash": "1:5c07f7a9b8afa10d",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Alan F. Blake"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Duplicating stencils.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8049.\nIn re Alan F. Blake"
+  },
+  "file_name": "1513-05",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12487201,
+  "name": "D. Schemery v. W. Schemery",
+  "name_abbreviation": "Schemery v. Schemery",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 1376 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "4308f79550ae2791e4d6fcac041aec4e3947d1c2d2c2d666c353078bcdd01137",
+    "simhash": "1:088fc60b08331d00",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. Schemery\nv.\nW. Schemery"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "D. Schemery\nv.\nW. Schemery\nNO. 1376 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAppeal dismissed."
+  },
+  "file_name": "0770-10",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

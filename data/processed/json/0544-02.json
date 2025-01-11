@@ -1,0 +1,75 @@
+{
+  "id": 8158998,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant v. Malcolm Paul APARICIO, Appellee",
+  "name_abbreviation": "Commonwealth v. Aparicio",
+  "decision_date": "2009-01-22",
+  "docket_number": "",
+  "first_page": "544",
+  "last_page": "544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "966 A.2d 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "960 A.2d 108",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8191568,
+        3441472
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/960/0108-01",
+        "/pa/599/0080-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 484,
+    "ocr_confidence": 0.7,
+    "sha256": "602e9d0a6f1ecf80a920603d0f15828ae1351efebadf7084f279594bde2f8ff1",
+    "simhash": "1:56a8eee50e835eec",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T16:23:59.447136+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant v. Malcolm Paul APARICIO, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\n- AND NOW, this 22nd day of January, 2009, the Order of the Court of Common Pleas of Delaware County is REVERSED pursuant to Commonwealth v. Chase, \u2014 Pa. -, 960 A.2d 108 (2008). This matter is REMANDED to the trial court for a determination of whether reasonable suspicion existed to stop the vehicle in question.\nJurisdiction is relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant v. Malcolm Paul APARICIO, Appellee.\nSupreme Court of Pennsylvania.\nJan. 22, 2009."
+  },
+  "file_name": "0544-02",
+  "first_page_order": 578,
+  "last_page_order": 578
+}

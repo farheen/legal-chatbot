@@ -1,0 +1,58 @@
+{
+  "id": 12488731,
+  "name": "In re J.Y.",
+  "name_abbreviation": "In re J.Y.",
+  "decision_date": "2016-08-19",
+  "docket_number": "16-114",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "0d643e9c5bf0430649da3c5e7c37e103f1d59bbebe47c9dd2116e3c6a31228e5",
+    "simhash": "1:40712e01fd42f260",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re J.Y."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re J.Y.\n16-114\nSupreme Court of Vermont.\nAugust 19, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0344-06",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

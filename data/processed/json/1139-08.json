@@ -1,0 +1,58 @@
+{
+  "id": 12488326,
+  "name": "Com. v. Colon, V.",
+  "name_abbreviation": "Com v. Colon",
+  "decision_date": "2016-05-06",
+  "docket_number": "1826 MDA 2015",
+  "first_page": "1139",
+  "last_page": "1139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 86,
+    "sha256": "e32df13a2087f4ed3b072a9e2e118c8e4b57a3c91cd7707b5be1d19afce070c0",
+    "simhash": "1:18dc44c91ca35328",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nColon, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nColon, V.\n1826 MDA 2015\nSuperior Court of Pennsylvania.\nMay 6, 2016\nAffirmed"
+  },
+  "file_name": "1139-08",
+  "first_page_order": 1139,
+  "last_page_order": 1139
+}

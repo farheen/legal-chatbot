@@ -1,0 +1,92 @@
+{
+  "id": 9482290,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner",
+  "name_abbreviation": "Commonwealth v. Walker",
+  "decision_date": "2001-08-29",
+  "docket_number": "",
+  "first_page": "603",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "780 A.2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "766 A.2d 342",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11137112,
+        1276731
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/766/0342-01",
+        "/pa/564/0219-01"
+      ]
+    },
+    {
+      "cite": "564 Pa. 219",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1276731
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/564/0219-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 522,
+    "ocr_confidence": 0.634,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21835964181695536
+    },
+    "sha256": "5db60e4bbe888e11a831d6a6e14787b29cbf7a5481de585b4f8a942d51b7ccf3",
+    "simhash": "1:745d27b784592cf6",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T20:17:19.657035+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 29th day of August, 2001, the Petition for Allowance of Appeal is hereby GRANTED, LIMITED to the issue of whether the Superior Court\u2019s analysis was in accord with the standard enun-dated in Commonwealth v. Torres, 564 Pa. 219, 766 A.2d 342 (2001), the Order of the Superior Court is VACATED, and the matter is REMANDED for reconsideration in light of the Torres decision.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Norman WALKER, Petitioner.\nSupreme Court of Pennsylvania.\nAug. 29, 2001."
+  },
+  "file_name": "0603-03",
+  "first_page_order": 631,
+  "last_page_order": 632
+}

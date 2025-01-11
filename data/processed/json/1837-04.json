@@ -1,0 +1,59 @@
+{
+  "id": 12167665,
+  "name": "In re Albert Hofmann and Franz Troxler",
+  "name_abbreviation": "In re Hofmann",
+  "decision_date": "1965-02-05",
+  "docket_number": "No. 7607",
+  "first_page": "1837",
+  "last_page": "1837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1837"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 92,
+    "ocr_confidence": 0.493,
+    "sha256": "e4b731d322598b8e000e49fed561fc75aaa806c6197a6d872ef15d50791913da",
+    "simhash": "1:e60313023953ba63",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Albert Hofmann and Franz Troxler"
+    ],
+    "opinions": [
+      {
+        "text": "Heterocyclic compounds.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 5, 1965\nIn re Albert Hofmann and Franz Troxler\n(No. 7607)."
+  },
+  "file_name": "1837-04",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

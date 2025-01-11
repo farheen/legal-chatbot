@@ -1,0 +1,92 @@
+{
+  "id": 7291030,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Mark MARKWIS, Respondent",
+  "name_abbreviation": "Commonwealth v. Markwis",
+  "decision_date": "2009-12-15",
+  "docket_number": "",
+  "first_page": "46",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "986 A.2d 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "957 A.2d 720",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3989313,
+        8207582
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0470-01",
+        "/a2d/957/0720-01"
+      ]
+    },
+    {
+      "cite": "598 Pa. 470",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3989313
+      ],
+      "year": 2008,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/598/0470-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 406,
+    "ocr_confidence": 0.652,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18832198325076094
+    },
+    "sha256": "7e4b3ee2bcc0e4fa09c85febcf2b9f7ea905710a85193b3e383d91910269db79",
+    "simhash": "1:bb2b6a37833b0cb2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T16:04:39.922720+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Mark MARKWIS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 15th day of December, 2009, the Petition for Allowance of Appeal is GRANTED. The decision of the Superior Court is VACATED, and the case is REMANDED to the trial court for reconsideration in light of Commonwealth v. Worthy, 598 Pa. 470, 957 A.2d 720 (2008).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Mark MARKWIS, Respondent.\nSupreme Court of Pennsylvania.\nDec. 15, 2009."
+  },
+  "file_name": "0046-02",
+  "first_page_order": 90,
+  "last_page_order": 90
+}

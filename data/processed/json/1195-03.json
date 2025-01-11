@@ -1,0 +1,62 @@
+{
+  "id": 7958456,
+  "name": "In re Anthony DeLOURO",
+  "name_abbreviation": "In re DeLouro",
+  "decision_date": "1980-11-20",
+  "docket_number": "No. 80-374-M.P.",
+  "first_page": "1195",
+  "last_page": "1195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "423 A.2d 1195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 326,
+    "ocr_confidence": 0.829,
+    "sha256": "4c58425866c14a8945de3a74f98b7e5063333d4f5002b22122bb3ef54fd042a8",
+    "simhash": "1:7f6a34b36e53cd47",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T18:17:26.218735+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Anthony DeLOURO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nTreating the letter filed herein as a petition for writ of habeas corpus, said petition is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Anthony DeLouro, pro se.",
+      "John L. P.- Breguet, Legal Officer, Dept, of Mental Health, Retardation and Hospitals, Esmond, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In re Anthony DeLOURO.\nNo. 80-374-M.P.\nSupreme Court of Rhode Island.\nNov. 20, 1980.\nAnthony DeLouro, pro se.\nJohn L. P.- Breguet, Legal Officer, Dept, of Mental Health, Retardation and Hospitals, Esmond, for respondent."
+  },
+  "file_name": "1195-03",
+  "first_page_order": 1253,
+  "last_page_order": 1253
+}

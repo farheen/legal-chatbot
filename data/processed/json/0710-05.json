@@ -1,0 +1,58 @@
+{
+  "id": 12501844,
+  "name": "H.A. v. W.H.",
+  "name_abbreviation": "H.A. v. W.H.",
+  "decision_date": "2018-07-25",
+  "docket_number": "1311 MDA 2017",
+  "first_page": "710",
+  "last_page": "710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 83,
+    "sha256": "4cab4dc34c5f08073edb7c6e04f58acca20ad2e34bb68906b0f359f102673bd9",
+    "simhash": "1:bc95063ee5831f86",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H.A.\nv.\nW.H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "H.A.\nv.\nW.H.\n1311 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 25, 2018\nReversed"
+  },
+  "file_name": "0710-05",
+  "first_page_order": 710,
+  "last_page_order": 710
+}

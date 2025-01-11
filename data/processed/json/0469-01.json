@@ -1,0 +1,111 @@
+{
+  "id": 7289582,
+  "name": "In re Edward M. FINK, Respondent",
+  "name_abbreviation": "In re Fink",
+  "decision_date": "2010-03-11",
+  "docket_number": "No. 09-BG-1244",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "579 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7356987
+      ],
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/579/0190-01"
+      ]
+    },
+    {
+      "cite": "969 A.2d 1132",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        4140679,
+        4140695
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/198/0617-01",
+        "/nj/198/0618-01"
+      ]
+    },
+    {
+      "cite": "198 N. J. 618",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        4140695
+      ],
+      "year": 2009,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/198/0618-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 127,
+    "char_count": 1308,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18830595915051418
+    },
+    "sha256": "3d8d723d3f9ab973ba53783feccfb4b2fcdc3ca4a654547bffafed3ee2679efa",
+    "simhash": "1:7986633273ea2d65",
+    "word_count": 211
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: REID, Associate Judge and SCHWELB and KING, Senior Judges."
+    ],
+    "parties": [
+      "In re Edward M. FINK, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nOn consideration of the May 11, 2009, Supreme Court of New Jersey Order disbarring respondent from the practice of law in that jurisdiction by consent, see Matter of Edward M. Fink, 198 N. J. 618, 969 A.2d 1132 (2009), this court\u2019s November 2, 2009, order suspending respondent from the practice of law in this jurisdiction pending further action of the court and directing him to show cause why identical reciprocal discipline should not be imposed, respondent\u2019s response thereto, and the statement of Bar Counsel regarding reciprocal discipline, it is\nORDERED that Edward M. Fink, is hereby disbarred from the practice of law in the District of Columbia See In re Addams, 579 A.2d 190, 191 (D.C.1990) (en banc); D.C. Bar R. XI, \u00a7 11(c). It is\nFURTHER ORDERED that for purposes of reinstatement respondent\u2019s disbarment shall run from November 2, 2009.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Edward M. FINK, Respondent.\nNo. 09-BG-1244.\nDistrict of Columbia Court of Appeals.\nMarch 11, 2010.\nBefore: REID, Associate Judge and SCHWELB and KING, Senior Judges.\nSchwelb, Senior Judge, dissenting.\nIn light of the exceptional circumstances, including Fink\u2019s age, apparent debilitating illness, and suspension from the practice of law, I do not believe that proceeding with disbarment at this time will serve any useful purpose."
+  },
+  "file_name": "0469-01",
+  "first_page_order": 511,
+  "last_page_order": 511
+}

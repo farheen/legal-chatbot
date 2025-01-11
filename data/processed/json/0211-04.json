@@ -1,0 +1,58 @@
+{
+  "id": 12486782,
+  "name": "In the Interest of: J.R., a Minor",
+  "name_abbreviation": "In re Interest of J.R.",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 2684 EDA 2014",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 110,
+    "sha256": "344aa2b5ab7b68fac2cc950ec420f07a7f638b745e67d016a17e56c4f5598a30",
+    "simhash": "1:801c5249809a1b3a",
+    "word_count": 19
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: J.R., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: J.R., a Minor\nNO. 2684 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed."
+  },
+  "file_name": "0211-04",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

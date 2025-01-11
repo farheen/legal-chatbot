@@ -1,0 +1,838 @@
+{
+  "id": 7289766,
+  "name": "In re Lucy R. EDWARDS, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 197020)",
+  "name_abbreviation": "In re Edwards",
+  "decision_date": "2010-03-11",
+  "docket_number": "Nos. 06-BG-1480, 07-BG-608",
+  "first_page": "501",
+  "last_page": "530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 501"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "492 A.2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7921978
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/492/0866-01"
+      ]
+    },
+    {
+      "cite": "910 A.2d 1046",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8450460
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/910/1046-01"
+      ]
+    },
+    {
+      "cite": "881 A.2d 619",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8923197
+      ],
+      "pin_cites": [
+        {
+          "page": "623"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/881/0619-01"
+      ]
+    },
+    {
+      "cite": "840 A.2d 700",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9292626
+      ],
+      "pin_cites": [
+        {
+          "page": "701"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/840/0700-01"
+      ]
+    },
+    {
+      "cite": "642 A.2d 1327",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7880827
+      ],
+      "pin_cites": [
+        {
+          "page": "1331"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/642/1327-01"
+      ]
+    },
+    {
+      "cite": "808 A.2d 476",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11356508
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/808/0476-01"
+      ]
+    },
+    {
+      "cite": "707 A.2d 371",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11854235
+      ],
+      "pin_cites": [
+        {
+          "page": "377"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/707/0371-01"
+      ]
+    },
+    {
+      "cite": "870 A.2d 90",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9014565
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "92-93"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0090-01"
+      ]
+    },
+    {
+      "cite": "690 A.2d 941",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11925271
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "950"
+        },
+        {
+          "page": "949"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/690/0941-01"
+      ]
+    },
+    {
+      "cite": "513 A.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7926254
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "233"
+        },
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/513/0226-01"
+      ]
+    },
+    {
+      "cite": "520 A.2d 321",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7882401
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/520/0321-01"
+      ]
+    },
+    {
+      "cite": "878 A.2d 1291",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8947068
+      ],
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/878/1291-01"
+      ]
+    },
+    {
+      "cite": "878 A.2d 1187",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8946573
+      ],
+      "pin_cites": [
+        {
+          "page": "1188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/878/1187-01"
+      ]
+    },
+    {
+      "cite": "802 A.2d 340",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9402542
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0340-01"
+      ]
+    },
+    {
+      "cite": "856 A.2d 1086",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9213153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/856/1086-01"
+      ]
+    },
+    {
+      "cite": "699 A.2d 1135",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11912672
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/699/1135-01"
+      ]
+    },
+    {
+      "cite": "851 A.2d 1276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9242936
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/851/1276-01"
+      ]
+    },
+    {
+      "cite": "887 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8997035
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "17"
+        },
+        {
+          "page": "17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/887/0001-01"
+      ]
+    },
+    {
+      "cite": "722 A.2d 16",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11763593
+      ],
+      "pin_cites": [
+        {
+          "page": "22"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/722/0016-01"
+      ]
+    },
+    {
+      "cite": "886 A.2d 536",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8896648,
+        8896685
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "540"
+        },
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/886/0536-01",
+        "/a2d/886/0536-02"
+      ]
+    },
+    {
+      "cite": "677 A.2d 55",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859953
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "61"
+        },
+        {
+          "page": "61"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/677/0055-01"
+      ]
+    },
+    {
+      "cite": "831 A.2d 1030",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9090679
+      ],
+      "pin_cites": [
+        {
+          "page": "1034"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/831/1030-01"
+      ]
+    },
+    {
+      "cite": "831 A.2d 366",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088793
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "372"
+        },
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/831/0366-01"
+      ]
+    },
+    {
+      "cite": "409 A.2d 1153",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "1154"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 N. J. 451",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        334908
+      ],
+      "pin_cites": [
+        {
+          "page": "453-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/81/0451-01"
+      ]
+    },
+    {
+      "cite": "885 A.2d 1280",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8914526
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1288"
+        },
+        {
+          "page": "1288"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/885/1280-01"
+      ]
+    },
+    {
+      "cite": "610 A.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7924000
+      ],
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/610/0231-01"
+      ]
+    },
+    {
+      "cite": "579 A.2d 190",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7356987
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "199"
+        },
+        {
+          "page": "198"
+        },
+        {
+          "page": "199"
+        },
+        {
+          "page": "191"
+        },
+        {
+          "page": "198"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/579/0190-01"
+      ]
+    },
+    {
+      "cite": "817 A.2d 196",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9363203
+      ],
+      "pin_cites": [
+        {
+          "page": "202"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/817/0196-01"
+      ]
+    },
+    {
+      "cite": "653 A.2d 388",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7866905
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "393-94"
+        },
+        {
+          "page": "396"
+        },
+        {
+          "page": "396",
+          "parenthetical": "finding a Rule 1.15(b) violation when an attorney kept $432 due a client out of his belief that the retainer agreement, providing that the client would pay administrative costs, entitled him to keep the money"
+        },
+        {
+          "page": "396",
+          "parenthetical": "finding Rule 1.15(a) violation when attorney showed a \"pervasive failure\" to maintain contemporaneous records accounting for the flow of client funds within various bank accounts"
+        },
+        {
+          "page": "397-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/653/0388-01"
+      ]
+    },
+    {
+      "cite": "764 A.2d 242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11162648
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "249-50"
+        },
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/764/0242-01"
+      ]
+    },
+    {
+      "cite": "764 A.2d 760",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11167221
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "768"
+        },
+        {
+          "page": "768"
+        },
+        {
+          "page": "760"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/764/0760-01"
+      ]
+    },
+    {
+      "cite": "461 A.2d 1034",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7976484
+      ],
+      "pin_cites": [
+        {
+          "page": "1036"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/461/1034-01"
+      ]
+    },
+    {
+      "cite": "802 A.2d 341",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9402560
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "347-48"
+        },
+        {
+          "page": "348"
+        },
+        {
+          "page": "348"
+        },
+        {
+          "page": "348-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/802/0341-01"
+      ]
+    },
+    {
+      "cite": "801 A.2d 51",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9408121
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "160"
+        },
+        {
+          "page": "61"
+        },
+        {
+          "page": "55"
+        },
+        {
+          "page": "81, 87"
+        },
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/801/0051-01"
+      ]
+    },
+    {
+      "cite": "706 A.2d 561",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11861400
+      ],
+      "pin_cites": [
+        {
+          "page": "566"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/706/0561-01"
+      ]
+    },
+    {
+      "cite": "883 A.2d 85",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8904331
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "97"
+        },
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/883/0085-01"
+      ]
+    },
+    {
+      "cite": "464 A.2d 115",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944970
+      ],
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/464/0115-01"
+      ]
+    },
+    {
+      "cite": "778 A.2d 330",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9495565
+      ],
+      "weight": 10,
+      "pin_cites": [
+        {
+          "page": "335"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "339"
+        },
+        {
+          "page": "338-40"
+        },
+        {
+          "page": "336"
+        },
+        {
+          "page": "341-42"
+        },
+        {
+          "page": "338"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/778/0330-01"
+      ]
+    },
+    {
+      "cite": "727 A.2d 308",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11621455
+      ],
+      "pin_cites": [
+        {
+          "page": "313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/0308-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2148,
+    "char_count": 83895,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 3.5608957181467125e-07,
+      "percentile": 0.8857846538543367
+    },
+    "sha256": "d861ecc836f2774d8ed4076bd7ad6125823f4f3ff2b1c2ebe33a31c0c5fcfa5e",
+    "simhash": "1:ce65e2ea920a0d07",
+    "word_count": 14084
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FISHER and BLACKBURNE-RIGSBY, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "In re Lucy R. EDWARDS, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 197020)."
+    ],
+    "opinions": [
+      {
+        "text": "BLACKBURNE-RIGSBY, Associate Judge:\nIn the principal one of these two consolidated matters (No. 07-BG-608), the Board on Professional Responsibility (the \u201cBoard\u201d) recommends that respondent be disbarred for intentional or reckless misappropriation of $2,000 that her client, Mark Green, had entrusted to her in 1995 to satisfy his creditors and prevent foreclosure of his condominium. We accept the Board\u2019s recommendation of disbarment based upon its thorough, painstakingly considered report \u2014 adopting for the most part the likewise meticulous findings of fact by Hearing Committee No. One\u2014 which we append to this opinion. Our brief ensuing discussion assumes familiarity with the Board\u2019s report. In the second, unrelated matter before us (No. 06-BG-1480), the Board recommends that respondent be suspended for thirty days for misconduct involving her failure, for years after the death of her client William Dickerson, to locate and file with the court the original Will she had drafted on his behalf and which named her as the personal representative. Here, too, we accept the Board\u2019s recommendation; we discuss this matter briefly in footnote 2, infra.\nWe deem it necessary to answer only a single point made by respondent in opposition to the Board\u2019s recommendation of disbarment. She argues that the Board, and implicitly the Hearing Committee, applied the preponderance of evidence standard to resolve the key factual issue of whether her client (Green) gave her the $2,000 to pay attorney\u2019s fees owed her (as respondent contends) or instead entrusted her with that money for use on his behalf (as the Board and Hearing Committee found). Thus, in respondent\u2019s view, the Board ignored Bar Counsel\u2019s obligation to prove misconduct, including the core factual allegations underlying the charged misconduct, by clear and convincing evidence.\nIt is, of course, \u201cBar Counsel\u2019s burden to establish by clear and convincing evidence that respondent violated the Rules of Professional Conduct.\u201d In re Mitchell, 727 A.2d 308, 313 (D.C.1999). Moreover, we have said that \u201cfactual findings [underpinning disciplinary charges] must be supported by clear and convincing evidence.\u201d In re Anderson, 778 A.2d 330, 335 (D.C.2001) (quoting In re Williams, 464 A.2d 115, 119 (D.C.1983)). Whether that rule applies to all such facts, including historical and subsidiary facts contributing to a mosaic of alleged misconduct, is not something we need consider here. We agree with respondent that at least the pivotal \u201cthreshold issue\u201d here (the Board\u2019s term) of whether respondent received and held the $2,000 in trust for Green required proof by clear and convincing evidence before it could be answered affirmatively. However, none of this helps respondent for the following reasons.\nFirst, appellant did not raise the issue of application of the wrong standard of proof in her brief to the Board (which accordingly did not address it), and, indeed, failed to raise it with the court until her reply brief \u2014 -both reasons why we would be within our authority to ignore it. See In re Artis, 883 A.2d 85, 97 (D.C.2005) (\u201cWe have held consistently that an attorney who fails to present an issue to the Board waives it and cannot present it for the first time to this court.\u201d); Stockard v. Moss, 706 A.2d 561, 566 (D.C.1997) (\u201cIt is the longstanding policy of this court not to consider arguments raised for the first time in a reply brief.\u201d). Furthermore, it is not at all apparent from the Hearing Committee\u2019s report that it applied only a preponderance of the evidence standard in finding that respondent received \u2014 indeed, knew she had received \u2014 the $2,000 in trust for her client. Rather, the Committee stated explicitly at the onset its understanding that \u201cclear and convincing evidence\u201d was the applicable standard of proof. It then arrayed in detail (as did the Board in its report) the evidence of respondent\u2019s own contemporaneous conduct demonstrating, in the Committee\u2019s view, both that the entire $2,000 had been entrusted to respondent as client property and that she knew this to be the case. Respondent points to nothing in the Committee\u2019s analysis suggesting that it applied a lesser (i.e., preponderance) standard of proof in finding incredible her defense that she had received the money in payment of attorney\u2019s fees.\nFinally, this court bears ultimate responsibility for the imposition of discipline, and we may make our own determination of whether clear and convincing evidence supports the Hearing Committee\u2019s finding \u2014 at least where our conclusion on the point contradicts nothing in the Committee\u2019s (or the Board\u2019s) analysis. The evidence arrayed in the Board\u2019s report leaves us with no doubt that Bar Counsel proved respondent\u2019s receipt of client funds by clear and convincing evidence. Moreover, the evidence supports \u2014 equally convincingly \u2014 the Board\u2019s conclusion that respondent was at least reckless in her misuse of the entrusted funds. Cf. In re Berkowitz, 801 A.2d 51 (D.C.2002).\nAccordingly, in No. 07-BG-608, we order respondent\u2019s disbarment from the practice of the law in the District of Columbia, effective thirty days from the date of this opinion. See D.C. Bar. XI, \u00a7 14(f). For the purpose of seeking reinstatement to the Bar, the period of disbarment shall not be deemed to begin until respondent files a sufficient affidavit pursuant to D.C. Bar R. XI, \u00a7 14(g). In No. 06-BG-1480, we order her suspension from the practice of law for thirty days, to run concurrently with her disbarment.\nLastly, in No. 07-BG-608, we order as a condition of reinstatement that respondent pay restitution to her client of $1,000 with interest at the legal rate of 6% from June 7,1995.\nSo ordered.\nAPPENDIX\nDISTRICT OF COLUMBIA COURT OF APPEALS BOARD ON PROFESSIONAL RESPONSIBILITY\nIn the Matter of:\nLUCY R. EDWARDS, Respondent.\nBar Docket No. 397-96\nREPORT AND RECOMMENDATION OF THE BOARD ON PROFESSIONAL RESPONSIBILITY\nThe Office of Bar Counsel charged Lucy R. Edwards (\u201cRespondent\u201d) with eight separate violations of the disciplinary rules, growing out of her representation of Mr. Mark Green in an effort over two years to stave off foreclosure on his condominium. Hearing Committee One (the \u201cCommittee\u201d) concluded that Respondent violated a number of Rules, including misappropriation, and recommends disbar-\nAPPENDIX \u2014 Continued\nment. The Board on Professional Responsibility (the \u201cBoard\u201d) agrees.\nI. PROCEDURAL BACKGROUND Bar Counsel initially filed a petition instituting formal disciplinary proceedings and a specification of charges on March 12, 1997. On May 19, 1997, Bar Counsel filed a Motion to Dismiss Without Prejudice, which the Board granted on May 27, 1997. Bar Counsel submitted the petition and specification of charges now before the Board on October 21, 2005. Respondent filed an Answer on May 11, 2006, admitting many of the facts asserted by Bar Counsel but denying all of the charges.\nThe evidentiary hearing was held on May 23, 2006. Respondent was present and represented by counsel. Assistant Bar Counsel called two witnesses: Respondent and her client, Mark R. Green. Bar Counsel moved to introduce Bar Exhibits (\u201cBX\u201d) 1 through 18, 25, 26, and 30, which were admitted without objection. Tr. at 304, 312. During Respondent\u2019s case, Respondent\u2019s Exhibits (\u201cRX\u201d) A, B, C, and D, were introduced and admitted without objection. Tr. 295-97, 307-08. No additional witnesses were presented by Respondent. At the end of the hearing, the Committee made a preliminary, nonbinding determination that Bar Counsel had sustained its burden, under the clear and convincing evidence standard, that Respondent had committed some of the charged violations and the Committee requested briefing from the parties on all of the charges. Tr. at 306. Bar Counsel then submitted exhibits in aggravation and Respondent testified on her behalf during the mitigation phase of the hearing. Tr. at 315-33.\nBar Counsel submitted to the Committee proposed findings of fact, conclusions of law, and recommendations as to sanction (\u201cBC Brief\u2019) on June 26, 2006, and Respondent submitted proposed findings of fact and conclusions of law (\u201cR Brief\u2019) on July 17, 2006. Bar Counsel submitted a reply brief on August 2, 2006. The Committee issued its Report December 26, 2006.\nII. PROPOSED FINDINGS OF FACT\nWith minor alterations that do not change the significance of the findings of fact, the Board adopts the well-written findings of the Committee.\n1. Respondent is a member of the Bar of the District of Columbia Court of Appeals, having been admitted by examination on February 18, 1965, and assigned Bar number 197020. BX A; Tr. at 69-70. In 1994, she moved her practice to 1424 K Street, N.W., in the District of Columbia. Tr. at 74.\nRetention of Respondent by Mark Green\n2. On March 7, 1994, Mark R. Green, then a resident of the District of Columbia, met Respondent and retained her to assist him in filing for bankruptcy to protect his condominium, located at 1736 Willard Street, N.W., from foreclosure after he fell behind in making mortgage and condominium fee payments. BX 2 at 5; Tr. at 75, 186-90, 233. A foreclosure sale had been scheduled for two days later, on March 9, 1994. BX 9 at 28; Tr. at 233. Mr. Green agreed to pay a flat $1,000 fee for Respondent to prepare the bankruptcy filing, attend a meeting with his creditors, and secure an order from the Bankruptcy Court confirming Mr. Green\u2019s payment plan. BX 2 at 5. He also agreed to pay a $160 filing fee. Tr. at 96; BX 2 at 5. Mr. Green paid $700 of his fee that day. BX 9 at 33; Tr. at 96, 102. The retainer agreement also indicated that Mr. Green would pay Respondent $150 per hour for any further work required in his case. BX 2 at 5.\n3. On March 9, 1994, Respondent filed a voluntary bankruptcy petition on behalf of Mr. Green, with an attached list of creditors and statement of attorney compensation, in the United States Bankruptcy Court for the District of Columbia (the \u201cBankruptcy Court\u201d). BX 17 at 133; BX 18 at 136-38.\n4. Mr. Green had three creditors: G.E. Capital Mortgage Services, Inc. (\u201cG.E.Capital\u201d), which held the first trust on Mr. Green\u2019s condominium amounting to about $45,000, a second trust holder to which Mr. Green owed about $8,000, and his condominium association, which held a secured debt of about $7,500. BX 9 at 28.\n5. On March 21, 1994, Respondent sent Mr. Green an invoice indicating that he was required to pay the remaining $460 of his initial retainer and filing fee. BX 2 at 4.\n6. On April 6, 1994, Respondent filed Mr. Green\u2019s various schedules, a statement of financial affairs, and Chapter 13 plan. BX 17 at 133.\n7. On April 9, 1994, Mr. Green paid Respondent the remaining $460 of his initial retainer and filing fee. BX 9 at 33; Tr. at 96,102.\n8. On June 3, 1994, the Bankruptcy Court entered an order confirming Mr. Green\u2019s Chapter 13 plan. BX 18 at 139. Respondent thus achieved Mr. Green\u2019s objective of preventing foreclosure on his condominium.\nRespondent\u2019s Post-Bankruptcy Confirmation Representation of Mr. Green\n9. On August 18, 1994, G.E. Capital filed a motion for relief from the automatic bankruptcy stay because it had not received payments from Mr. Green pursuant to the bankruptcy plan. BX 17 at 134; BX 18 at 162. Subsequently, Respondent consulted with Mr. Green, reviewed records, and successfully negotiated a consent decree that gave Mr. Green an opportunity to catch up on his post-petition arrears (delinquent payments that had accumulated since the bankruptcy filing). BX 9 at 29.\n10. On September 14, 1994, the Bankruptcy Court entered a consent order denying G.E. Capital\u2019s motion for relief from the stay after the parties had reached their agreement. BX 17 at 134; BX 18 at 162-63. The order provided that Mr. Green would cure the arrears by paying $1,180 to G.E. Capital that day and by making extra payments until December 1, 1994. Id. Mr. Green provided Respondent with a $1,180 cashier\u2019s check, which Respondent forwarded to G.E. Capital\u2019s attorney on September 14, 1994. BX 18 at 160-61. That same day, Respondent sent a letter to Mr. Green informing him that she had forwarded his check and reminding him about his new payment responsibilities. Id. at 160.\n11. On January 19, 1995, G.E. Capital filed an affidavit of breach notifying the Bankruptcy Court that Mr. Green had failed to make payments required by the consent order\u2019s new payment schedule and that Mr. Green needed to pay $4,860.68 to cure the breach. BX 17 at 134; BX 18 at 165-68. G.E. Capital sent copies of the affidavit to both Mr. Green and Respondent. BX 18 at 167,168.\n12. On March 17, 1995, the Bankruptcy Court entered an order granting G.E. Capital relief from the bankruptcy stay because Mr. Green had failed to cure the breach. G.E. Capital was thus allowed to foreclose on Mr. Green\u2019s condominium. BX 18 at 170-72,175-77.\n13. On March 21, 1995, Respondent spoke with Mr. Green about a proposed forbearance agreement she might be able to negotiate with G.E. Capital to keep it from taking action against Mr. Green\u2019s property. Tr. 114-17. Mr. Green testified that he told her he thought he could come up with at least $5,000 as part of that effort. Tr. 114-17. Respondent provided similar testimony, though she recalled that the amount was between $3,000 and $5,000 and that this amount would include some payment of attorney\u2019s fees. Tr. at 140^11.\n14. On April 10, 1995, Respondent faxed the attorney representing G.E. Capital a proposed forbearance agreement dated March 29, 1995, under which Mr. Green would pay $3,000 immediately and then make additional payments until he cured his outstanding arrears by, at the latest, the end of February 1996. BX 18 at 181\u2014 82; BX 9 at 29. G.E. Capital\u2019s attorney did not act on the proposal. BX 9 at 29.\n15. During the spring and summer of 1995, Respondent and Mr. Green discussed the possibility of reducing his bankruptcy payments from $330 per month, as the bankruptcy plan required, to $100. BX 9 at 30. The bankruptcy plan, however, was never modified. Id.\nMay 17, 1995 Check from Mr. Green to Respondent\nA critical fact in this case involves the characterization of a $2,000 check drafted by Mr. Green payable to Respondent, dated May 17,1995. BX 12 at 40.\n16. On May 16, 1995, Respondent spoke with Mr. Green by telephone about his need to produce some money to satisfy Mr. Green\u2019s outstanding debts. Mr. Green indicated that he would bring in $2,000 the next day and $5,000 altogether. BX 9 at 34.\n17. On May 17, 1995, Mr. Green brought a cashier\u2019s check in the amount of $2,000 to Respondent\u2019s office. BX 12 at 39; Tr. at 193-95. Respondent was at her office when Mr. Green arrived with the check. Tr. at 192-95. It is not clear whether Mr. Green gave the check directly to Respondent or to one of Respondent\u2019s staff members, but Respondent was at least in the office when Mr. Green brought the check in and, in any event, became aware that Mr. Green had brought the money into the office. BX 9 at 31-32; Tr. at 195.\n18. According to Mr. Green, he brought the $2,000 in for Respondent to hold on his behalf and use to try to forestall the foreclosure procedures on his condominium or to settle the arrears on his mortgage payments. Tr. at 195, 274-76; BX 9 at 31. Mr. Green testified that he, Respondent, and Respondent\u2019s then office manager, Walter Johnson, agreed that the money would go into an escrow account. Tr. at 195. Mr. Green does not recall receiving any receipt showing that Respondent had received the check and what she was going to do with it. Id.\n19. Respondent\u2019s testimony on this event differs in one critical respect. Respondent testified that this money was to be used in part to address Mr. Green\u2019s outstanding debts with his three creditors, but also would be used to pay some of his outstanding attorney\u2019s fees. Tr. at 140-41. Although Respondent had a legitimate basis to seek additional attorney\u2019s fees from her client, her actions were inconsistent with the notion that any part of the $2,000 was for payment of an attorney\u2019s fee.\n20. On May 19, 1995, Respondent deposited Mr. Green\u2019s $2,000 check into her attorney trust account. On that day, Respondent also deposited two checks, one for $4,000 and the other for $400, provided by her client Capitol Bus Rental, Inc. (\u201cCapitol Bus\u201d) into the trust account. BX 14 at 57-59. Respondent indicated on the $4,000 Capitol Bus check\u2019s memo line that the money would be used to make an Internal Revenue Service (\u201cIRS\u201d) payment on the company\u2019s behalf. BX 14 at 59. Simultaneously, Respondent withdrew $1,400 in cash from the $6,400 deposit, leaving a net deposit of $5,000, which brought her trust account balance to $5,336.77. BX 14 at 55, 57. Respondent did not note on the deposit ticket the reason for the $1,400 withdrawal or whose money it represented, but she testified that she took it out of Mr. Green\u2019s check as attorney\u2019s fees. BX 14 at 57; Tr. at 125.\n21. On May 20, 1995, Respondent wrote a check drawn on her attorney trust account for $5,016.77 payable to the IRS on which she wrote \u201cTax payment for Capitol Bus Rental.\u201d BX 14 at 69. Respondent does not have any records to explain how she was able to send a check for this amount to the IRS on behalf of Capitol Bus when she had received only $4,000 for this purpose the day before. Tr. at 128-32. Respondent testified that a company representative provided sufficient additional money at some point, but none of the deposits immediately before she wrote the $5,016.77 check or any up to a month after the IRS cashed it show that any additional money on behalf of Capitol Bus entered her escrow account. Tr. at 128-38.\n22. On May 24, 1995, Respondent deposited a $2,100 insurance settlement check made payable to another client into her escrow account, as well as a $4,000 check payable to herself and drawn against her operating account at Industrial Bank of Washington. BX 14 at 61. On the $4,000 check, Respondent wrote \u201cBal. Atty\u2019s Fee,\u201d but she did not indicate whose fees that sum represented. Id.; Tr. at 148. Simultaneously, Respondent withdrew $1,000 from the $6,100 total deposit, leaving a net deposit of $5,100, which brought her escrow account balance to $10,436.77. BX 14 at 55, 61. Respondent did not note on the deposit ticket the reason for the $1,000 withdrawal or whose money it represented. Id. at 61.\n23. Respondent wrote several checks against her escrow account that, by June 7, 1995, left a balance of $1,489.30. Id. at 55. Additional disbursements left the escrow account with overdraft balances of - $11.30 on June 19, 1995, and -$36.30 on June 20, 1995. BX 15 at 81. On June 21, 1995, Respondent deposited $50 into her account, bringing the balance to $13.70. Id. at 81, 87. On June 26, 1995, the balance rose to $913.70, then dropped to $712.68 by July 10, 1995. Id. at 81, BX 16 at 109. Thus, from June 7,1995, until July 10, 1995, Respondent\u2019s escrow account balance remained under $2,000 \u2014 less than the amount Mr. Green had brought to her office on May 17,1995.\n24. Mr. Green subsequently requested $1,000 back from the $2,000 he had brought to Respondent\u2019s office, to cover some pressing expenses including the cost of recovering his car from an impound lot and of moving to New York City for graduate school. Tr. at 212. He spoke with Mr. Johnson about obtaining the $1,000. Tr. at 213.\n25. On July 19, 1995, Respondent\u2019s escrow balance stood at $712.68. BX 16 at 109. That day she deposited $1,000 into the escrow account and then gave Mr. Green a check made out to him for $1,000 that included the notation, \u201cReturn of funds from escrow.\u201d BX 16 at 113, 125; Tr. at 150-51. The record thus indicates that Respondent took steps to ensure that she could pay Mr. Green from funds in the trust account. Mr. Green picked the check up at the office and cashed it that day, leaving the escrow account balance at $712.68 \u2014 less than the remaining $1,000 to be held on Mr. Green\u2019s behalf. BX 16 at 109; Tr. at 152-53, 270. The balance rose to $1,397.68 on July 24, 1995, but dropped to $397.61 on July 27, 1995, and remained below $1,000 until at least August 7, 1995. BX 16 at 109. Respondent does not have any invoices or documents indicating that she had returned the $1,000 to Mr. Green. Tr. at 159. Mr. Green never requested a refund of any further funds. Tr. at 262, 269.\n26. In July 1995, Mr. Green moved from Washington, D.C., to an apartment in the SoHo neighborhood of New York City. Tr. at 222. After moving, Mr. Green had a management company oversee his Willard Street condominium. Tr. at 278-79. A tenant who began living there in July or August paid about $600 or $700 in rent each month directly to the management company, but Mr. Green does not remember what the company did with that rent money. Id. At some point, Mr. Green moved to Union, New Jersey, but he does not recall for sure if that was in 1996 or 1997. Tr. at 222-24. He also does not remember if he told Respondent about his move, but recalls that Respondent could and did contact him by calling the number to his parents\u2019 house in Scotch Plains, New Jersey. Id. at 224, 226. The most reliable contact information for Mr. Green after leaving Washington, D.C., was his parents\u2019 Scotch Plains address and phone number. Id. at 264. At least up until he left Washington, D.C., Mr. Green was satisfied with the communications he had with Respondent. Id. at 266.\n27. On August 17, 1995, an attorney representing Mr. Green\u2019s condominium association wrote to Respondent, informing her that Mr. Green had not paid his monthly assessments that year and owed $1,584. RX B; BX 18 at 184. The attorney wrote that if the association did not receive payment by September 1, 1995, it would request relief from the Bankruptcy Court. BX 18 at 184.\n28. In October 1995, Mr. Green provided various financial data to G.E. Capital as part of a \u201cworkout package\u201d that Respondent had attempted to negotiate, in lieu of foreclosure on Mr. Green\u2019s condominium, during the summer of 1995. BX 9 at 30.\n29. On October 4, 1995, the Chapter 13 bankruptcy trustee filed a report with the Bankruptcy Court on claims pending against Mr. Green. BX 17 at 134.\n30. On October 6, 1995, Mr. Green wrote to Mr. Johnson in Respondent\u2019s office, opining that the $330 bankruptcy deductions from his payroll were excessive and that he should negotiate a reduction to the $100 per month that he and Respondent had discussed previously. RX D; Tr. at 242-43.\n31. In January 1996, Respondent and Mr. Green spoke briefly by telephone after Respondent left a message with his roommate at his New York City apartment. Tr. at 218; BX 9 at 30.\n32. On February 12, 1996, the Chapter 13 bankruptcy trustee filed a report with the Bankruptcy Court on claims pending against Mr. Green. BX 17 at 134.\n33. In the spring of 1996, Respondent learned that Mr. Green\u2019s condominium had gone into foreclosure, and she subsequently contacted his creditors to see if anything could be done. BX 9 at 31. Respondent\u2019s office did not receive any notice of the foreclosure from Mr. Green\u2019s creditors. Id.\n34. On June 17, 1996, Mr. Green wrote Respondent at her 1424 K Street, N.W., office to inquire about the status of his condominium because he had received notice that it had gone into foreclosure, and he asked Respondent why she had not notified him, given that she had \u201c$3,900 of my money in trust.\u201d BX 2 at 3. He also asked about his bankruptcy status. Id.\n35. In August 1996, Respondent moved her offices from 1424 K Street, N.W., to 3103 Georgia Avenue, N.W., and during the move she lost Mr. Green\u2019s June 17, 1996 letter to her. BX 2 at 3; BX 9 at 27. Respondent never answered the letter. Tr. at 204-05.\n36. On August 30, 1996, Mr. Green wrote to Bar Counsel to complain that Respondent had not responded to a letter he had sent in July 2006. BX 1 at 1. He explained that he learned from a management company that his condominium had gone into foreclosure and that the money he provided to Respondent \u201cin trust\u201d was meant for her to monitor and advise him on his matter. Id.\n37. On October 2, 1996, Bar Counsel sent Respondent a letter addressed to her Georgia Avenue office notifying her of Mr. Green\u2019s complaint and informing her that Bar Counsel had decided to investigate it. BX 3 at 7-8; Tr. at 79-80. Bar Counsel attached Mr. Green\u2019s complaint and requested a response by October 14, 1996. BX 3 at 7-8.\n38. On October 10, 1996, the Chapter 13 trustee filed a motion to dismiss Mr. Green\u2019s bankruptcy case because he was in material default of his plan payments and because he failed to notify the trustee of the name and address of his then employer. BX 18 at 188-89. Copies were sent to Mr. Green and Respondent. Id. at 189. Respondent did not oppose the trustee\u2019s motion. Id. at 186.\n39. On October 21, 1996, Bar Counsel sent Respondent another letter of inquiry because Respondent had not responded to the October 2, 1996 letter. BX 4 at 9; Tr. at 80. Bar Counsel demanded a written response to Mr. Green\u2019s allegations by October 26, 1996. BX 4 at 9.\n40. On November 1, 1996, Respondent left Bar Counsel a recorded message concerning her need to respond to its letters of inquiry. BX 5 at 11.\n41. On November 4, 1996, based on the trustee\u2019s motion to dismiss, the Bankruptcy Court ordered that Mr. Green\u2019s bankruptcy case be dismissed with prejudice. Respondent was sent a copy of this order. BX 18 at 186.\n42. On November 5, 1996, Respondent advised a law clerk for the Office of Bar Counsel that she would respond to Bar Counsel\u2019s letters and Mr. Green\u2019s allegations. BX 5 at 11.\n43. On November 12,1996, Respondent met with an Assistant Bar Counsel, who told her that he would move to compel a written response if she did not submit one soon. Id.\n44. On December 5, 1996, the Bankruptcy Court issued another order to close the case, which Respondent received. Tr. at 163. At this point, Respondent considered her representation of Mr. Green to have ended. Id.\n45. On December 18, 1996, a law clerk with the Office of Bar Counsel spoke with Respondent by telephone; Respondent said she had been ill and would seek additional time to file a response. BX 5 at 11.\n46. On December 20, 1996, Respondent faxed a letter to an Assistant Bar Counsel seeking an extension because she had been dealing with various health problems, including migraine headaches, glaucoma, a sinus infection, and the flu, and because she was struggling to meet client obligations after moving offices and becoming a solo practitioner. Id.; BX 6(b) at 23; Tr. at 83. Respondent informed Assistant Bar Counsel that she would contact him before Christmas to reschedule the Green case and two others also pending with Bar Counsel. BX 6(b) at 23.\n47. On December 24, 1996, Respondent appeared at the Office of Bar Counsel seeking to meet with Assistant Bar Counsel, who was unavailable. BX 5 at 12. Respondent left without providing her written response. Id.\n48. On January 3 and 6, 1997, a law clerk for the Office of Bar Counsel phoned Respondent concerning her lack of written response and told her that Bar Counsel would move the Board to issue an order compelling her to provide one if she did not do so by January 9, 1997. Id. Respondent promised to do so, but she did not. Id.\n49. On January 22, 1997, Bar Counsel filed a motion to compel Respondent\u2019s written response and mailed a copy of the motion to Respondent. BX 6(a) at 13-14.\n50. On February 12, 1997, the Board ordered Respondent to respond to Bar Counsel\u2019s letters and Mr. Green\u2019s allegations within ten days. Id. at 14.\n51. On February 14, 1997, a copy of the Board\u2019s order was hand-delivered to Respondent. Id. at 14.\n52. On March 12, 1997, Bar Counsel obtained approval of a petition and specification of charges alleging that Respondent violated Rule 8.4(d) and D.C. Bar R. XI, \u00a7 2(b)(3) based on Respondent\u2019s failure to comply with the Board\u2019s order. Id. at 13-15.\n53. On April 11, 1997, Respondent\u2019s attorney wrote to the Hearing Committee assigned to the case to request additional time to review evidence and prepare an answer to the charges and to request that the hearing set for April 29, 1997, be postponed for thirty days. BX 8 at 25-26.\n54. On April 30, 1997, Respondent finally responded to Bar Counsel\u2019s letters of inquiry and to Mr. Green\u2019s allegations. BX 9 at 27-32, Tr. at 87-88. Respondent summarized the work she had done on behalf of Mr. Green and included a \u201cStatement\u201d dated May 7, 1997, detailing work she had done for him between March 1994 and April 1996. BX 9 at 27-34. Although Respondent believes she did much more work than was reflected on the May 7, 1997 Statement, which she and her husband prepared, she has not been able to locate any invoices she may have sent to Mr. Green asking for payment for this additional work. Tr. at 96-99. Mr. Green testified that he received no statements since the one of March 21, 1994, requesting payment of the remaining $460 of his initial retainer fee. Tr. at 207-08; see also Tr. at 284. The May 7, 1997 Statement has no entry reflecting the $1,000 Respondent refunded to Mr. Green on July 19, 1995. BX 9 at 34; Tr. at 158-59.\n55. The April 30, 1997 letter represented Respondent\u2019s best memory of her representation for Mr. Green at that time. Respondent contends, however, that the letter was not a perfectly accurate summary because Respondent\u2019s office manager was not available to help prepare it. Tr. at 88.\n56. On May 12, 1997, through her attorney, Respondent provided an answer to the specification of charges. BX 6(b) at 20-23. Respondent explained that, during her August 1996 move, she did not receive Bar Counsel\u2019s inquiry letters promptly because she did not immediately notify the D.C. Bar of her new office address. Id. at 20-21. After her move, she operated without staff support and had difficulty retrieving records and files according to her Answer, and Mr. Green\u2019s file and her bank records could not be found for some time. Id. at 21. She also stated in her Answer that she had been dealing with health issues. Id. at 21-22.\n57. On May 19, 1997, Bar Counsel filed a motion to dismiss the petition and specification of charges without prejudice, having received responses from Respondent that would permit an investigation. BX 7 at 24.\n58. On May 27, 1997, the Board issued an order granting Bar Counsel\u2019s Motion to Dismiss without prejudice. Id.\nIII. CONCLUSIONS OF LAW\nBased on these facts, Bar Counsel charged Respondent with eight violations. One set of charges related to Respondent\u2019s actions during her representation of Mr. Green, and the other related to her actions after Bar Counsel informed her that it was opening an investigation. As did the Committee, we address each of these violations in turn. We also adopt large portions of the well-reasoned conclusions of the Committee.\nA. Count I Charges: Respondent\u2019s Representation of Mr. Green\nThese charges allege that Respondent:\n(1) Misappropriated a portion of the $2,000 that Mr. Green gave Respondent in violation of Rule 1.15(a);\n(2) Failed to deliver the rest of those funds to him and render a full accounting upon his request in violation of Rule 1.15(b);\n(8) Failed to take timely steps to surrender the remainder of those funds to him after her representation of him ended in violation of Rule 1.16(d);\n(4) Failed to maintain and preserve for five years complete financial records demonstrating how she handled Mr. Green\u2019s funds in violation of Rule 1.15(a) and D.C. Bar R. XI, \u00a7 19(f); and\n(5) Failed to keep Mr. Green reasonably informed about the status of his bankruptcy matter in violation of Rule 1.4(a).\nThe first three charges relate to Respondent\u2019s alleged mismanagement of her client\u2019s funds. Before examining those charges, the Committee first addressed a threshold question: whether the $2,000 Mr. Green gave Respondent belonged to him or to Respondent. We do the same and conclude, as did the Committee, that the $2,000 (and then the remaining $1,000) were client funds \u2014 to be held in escrow for his purposes.\nAt the hearing, Respondent testified that Mr. Green brought the $2,000 check to her on May 17, 1995, at least in part to cover past and future attorney\u2019s fees. Tr. at 140-42. There is substantial record evidence, however, that Respondent believed the entire $2,000 was Mr. Green\u2019s funds, to be held on his behalf as part of negotiations with his creditors. In Respondent\u2019s 1997 letter to Bar Counsel, which represented the first substantive response to Mr. Green\u2019s allegations in this matter and Respondent\u2019s best recollection of her representation of him at the time, she wrote:\nMr. Green brought funds into the office in May 1995 to attempt to settle or secure a forbearance for the arrears on his mortgage.... In July 1995, Mr. Green requested and received back $1,000 of the money. After considering the amounts owed for services and review of his case, Mr. Green is entitled to a refund.\nBX 9 at 31-32. During her testimony (nine years later), Respondent claimed that her memory was hazy when writing the earlier response and that, having recently managed to speak with Mr. Johnson about Mr. Green\u2019s representation, she was reminded that Mr. Green had urgently requested that she continue representing him and that he paid attorney\u2019s fees in May 1995. Tr. at 168-71. She also was reminded that Mr. Green would usually indicate the specific purpose for which he intended his money to be used, and, because Mr. Green\u2019s $2,000 cashier\u2019s check did not reflect any such purpose, she concluded (eleven years after the event) that the money was meant to cover attorney\u2019s fees. Tr. at 172-73. The Committee did not find Respondent\u2019s 2006 testimony on this threshold issue to be credible. Having reviewed the evidentiary record, the Board is in agreement.\nAs stated by the Committee, even if it were inclined to give more weight to Respondent\u2019s 2006 memory versus her 1997 written response, there is additional independent evidence that Respondent viewed the $2,000 as Mr. Green\u2019s money. First, Respondent deposited Mr. Green\u2019s check into her escrow account, not her operating account. BX 14 at 57-59. Respondent did not provide Mr. Green any type of receipt crediting him for paying attorney\u2019s fees and her May 7, 1997 statement summarizing the services she provided Mr. Green did not indicate any payment of attorney\u2019s fees beyond the initial $1,160. Tr. at 156-58; BX 9 at 33-34. Moreover, prior to his delivering the money, Respondent had not sent Mr. Green any invoices requesting payment for services beyond the one in 1994 requiring payment of the remainder of his initial $1,000 retainer fee. Tr. at 96-99.\nJust two months after Mr. Green delivered the money, Respondent promptly returned $1,000 to Mr. Green at his request, writing a check drawn on her escrow account and marking the check as \u201cReturn of funds from escrow.\u201d BX 16 at 125. If Respondent believed she was lending him her own money, she could have simply given him cash or a personal check. Tr. at 155-56. That Respondent also deposited $1,000 of personal funds into her escrow account that day to cover the $1,000 check from her escrow account was also telling to the Committee and the Board. BX 16 at 109, 113. The Committee concluded from this evidence that Respondent knew that these funds (the entire $2,000) were Mr. Green\u2019s property and not payment of attorney\u2019s fees. Hearing Committee Report (\u201cHC Rpt.\u201d) at 18. Finally, Respondent\u2019s April 1997 Response to Bar Counsel specifically defined these funds received from her client in May 1995 as non-fee escrow funds. BX 9 at 31-32.\nMr. Green testified that he brought the money in to be held on his behalf and used as a part of negotiations with his creditors, and he said that Respondent and Mr. Johnson had discussed this plan and were in agreement on it. Tr. at 195, 274-76. Mr. Green, however, was not a credible witness before the Committee, and it based its findings and conclusions on the record of deposits and disbursements from Respondent\u2019s trust account and not on Mr. Green\u2019s testimony. HC Rpt. at 18-19. A substantial basis for the Committee\u2019s lack of faith in Mr. Green\u2019s testimony was that he could not keep his payment commitments under agreements negotiated by Respondent and, most importantly, overstated the funds that he had provided to Respondent in his Bar Counsel complaint. Therefore, all findings of the Committee that do not adopt Respondent\u2019s testimony were based only on Respondent\u2019s trust account records. Id. Having reviewed the record, the Board agrees with this assessment of the evidence.\nHaving decided that the $2,000 belonged to Mr. Green, requiring it to be held in trust by Respondent, the Committee then analyzed each individual charge in this Count, finding that Bar Counsel proved by clear and convincing evidence that Respondent violated Rules 1.15(a), 1.15(b), 1.16(d), and D.C. Bar R. XI, \u00a7 19(f), but not that she violated Rule 1.4(a). The Board agrees with these conclusions, and with modification, adopts much of the Committee\u2019s well-reasoned legal analysis.\n1. Rule 1.15(a): Misappropriation of Client Funds\nRule 1.15(a) states, in relevant part, that \u201ca lawyer shall hold property of clients ... that is in the lawyer\u2019s possession in connection with a representation separate from the lawyer\u2019s own property\u201d and that such funds \u201cshall be kept in a separate account maintained in a financial institution.\u201d Our Court has repeatedly held that misappropriation includes any unauthorized use of a client\u2019s funds entrusted to his or her lawyer, including not only stealing but also unauthorized temporary use for the lawyer\u2019s own purpose, whether or not he or she derives any personal gain or benefit. See, e.g., In re Carlson, 802 A.2d 341, 347-48 (D.C.2002); In re Anderson, 778 A.2d 330, 335 (D.C.2001) (citing In re Harrison, 461 A.2d 1034, 1036 (D.C.1983)); In re Berryman, 764 A.2d 760, 768 (D.C.2000); In re Travers, 764 A.2d 242, 249-50 (D.C.2000); In re Pels, 653 A.2d 388, 393-94 (D.C.1995). In addition, misappropriation occurs whenever the balance in the attorney\u2019s escrow account falls below the amount due to the client, regardless of whether the attorney acted with an improper intent. It is essentially a per se offense. See In re Smith, 817 A.2d 196, 202 (D.C.2003); Carlson, 802 A.2d at 348; Anderson, 778 A.2d at 335; Berryman, 764 A.2d at 768.\nThe record of Respondent\u2019s escrow account balances during June and July 1995 indicates that she misappropriated Mr. Green\u2019s money. After depositing his $2,000 cashier\u2019s check into her attorney trust account on May 19, Respondent made a number of other deposits and simultaneous cash withdrawals that left her escrow account balance at $10,436.77 on May 24. BX 14 at 55. She then wrote a series of checks that left the account balance at $1,489.30 on June 7, at -$11.30 on June 19, at -$36.30 on June 20, at $13.70 on June 21, at $913.70 on June 26, and then never higher than $913.70 by the time Mr. Green arrived at Respondent\u2019s office to get $1,000 back on July 19. BX 14 at 55; BX 15 at 81; BX 16 at 109. Thus, from June 7 until July 19, Respondent\u2019s escrow account balance remained below the $2,000 Mr. Green had given her to hold in trust. Additionally, after Respondent returned $1,000 to Mr. Green, her escrow account initially remained below the remaining $1,000 of his money she was required to hold in trust, rose above $1,000 for three days in late July, and then dropped below $1,000 from July 27 until at least August 7 (the last balance date included in the record). BX 16 at 109. By allowing her escrow account balance to drop below the amounts she owed him, there is no question that Respondent misappropriated Mr. Green\u2019s money.\nAs noted in the Committee\u2019s Report, the important question for sanctions is whether Respondent\u2019s misappropriation resulted from mere negligence on her part, or whether she acted intentionally or recklessly, for \u201cin virtually all cases of misappropriation, disbarment will be the only appropriate sanction unless it appears that the misconduct resulted from nothing more than simple negligence.\u201d See Anderson, 778 A.2d at 335 (quoting In re Addams, 579 A.2d 190, 191 (D.C.1990) (en banc)); see also Pels, 653 A.2d at 396; In re Micheel, 610 A.2d 231, 233 (D.C.1992); In re Midlen, 885 A.2d 1280, 1288 (D.C.2005) (noting that disbarment is \u201calmost invariably\u201d required if the attorney acts intentionally or recklessly in misappropriating client funds). In determining whether a misappropriation involves more than just negligence, the \u201ccentral issue ... is how the attorney handles entrusted funds, whether in a way that suggests the unauthorized use was inadvertent or the result of simple negligence, or in a way that reveals either an intent to treat the funds as the attorney\u2019s own or a conscious indifference to the consequences of his [or her] behavior for the security of the funds.\u201d Carlson, 802 A.2d at 348 (quoting Anderson, 778 A.2d at 339); see also Midlen, 885 A.2d at 1288.\nHere, Respondent\u2019s bank records reveal not only that she allowed her escrow account balance to drop below what she owed Mr. Green, but also that she used his money for her own purposes. When she deposited his $2,000 and two checks totaling $4,400 from Capitol Bus on May 19, 1995, she withdrew $1,400 in cash without noting on the deposit slip which client\u2019s $1,400 was withdrawn or why. BX 14 at 57. At the hearing, she claimed the $1,400 represented attorney\u2019s fees Mr. Green owed her; however, as discussed supra, that testimony is refuted by the record of her treatment of the $2,000 as Mr. Green\u2019s property. Tr. at 125.\nThe next day, Respondent wrote a $5,016.77 check to the IRS on behalf of Capitol Bus, even though she had received only $4,400 from that client the day before. BX 14 at 69. Respondent claims that Capitol Bus provided her with additional money, but her bank records show no other deposits on behalf of that client around that time. Tr. at 128-38. Just before Respondent deposited the Capitol Bus checks, her escrow account balance stood at $336.77. BX 14 at 55. Thus, at least $280 of Mr. Green\u2019s money went toward covering the difference between what she received from Capitol Bus and what she paid out to the IRS on its behalf.\nFinally, when Mr. Green asked for $1,000 back, she was forced to deposit $1,000 of the money she had kept for her own purposes into her account before she could write him a check from her escrow account for that amount. BX 16 at 113, 125; Tr. at 150-51. If Respondent believed that the $2,000 were, in fact, her funds, she would have drafted a $1,000 check from her personal or operating fund account. The Board also finds it telling, as did the Committee, that Respondent\u2019s check returning $1,000 to her client carried the notation \u201cReturn of funds from escrow.\u201d BX 16 at 125.\nBased on this evidence, the Committee concluded that Respondent intentionally misappropriated Mr. Green\u2019s funds. She not only diverted his money to cover a shortfall involving another client but also used almost three-fourths of it in cash before unexpectedly being asked for half of it back two months later. The Board concurs in this conclusion. This case is not about \u201csloppy billing for far less than the value\u201d of Respondent\u2019s legal services rendered her client, as posited in Respondent\u2019s brief. R Brief at 1, 12. Even if she had billed Mr. Green for additional work\u2014 which she had not, she had absolutely no right to take money held for Mr. Green (his money) and convert it to payment of fees without his permission. Tr. at 96-100.\nIt also is understandable that Addams wanted to be paid for his work and reimbursed for his expenses. He was entitled to this and he had the right to look to Ms. Jackson [his client] and to insist on prompt payment. He also had the right to pursue legal remedies against her, such as filing a lien. But he did not have, and he knew he did not have, the right to take money from the escrow account without her permission.\nAddams, 579 A.2d at 199.\nAddams also involved the retention of an attorney (the respondent) to hold funds of his client in order to stave off foreclosure on her home. Even though the respondent in Addams made good on the bounced check caused by his withdrawal of escrow funds for personal reasons, and successfully protected his client in the loss of her house, \u201cwhere client funds are involved, a more stringent rule is appropriate.\u201d Id. at 198. \u201cWhatever the need may be for the lawyer\u2019s handling of clients\u2019 money, the client permits it because he trusts the lawyer.\u201d Id. (quoting In the Matter of Wendell R. Wilson, 81 N. J. 451, 453-55, 409 A.2d 1153, 1154 (N.J.1979)). The breach of that trust \u201cis so reprehensible, striking at the core of the attorney-client relationship, that the respondent must carry a very heavy burden in rebuttal.\u201d Id. at 198-99.\n2. Rule 1.15(b): Failure to Deliver Funds or Render Accounting\nRule 1.15(b) requires a lawyer, after receiving funds or property \u201cin which a client ... has an interest,\u201d to \u201cpromptly deliver to the client ... any funds or other property that the client ... is entitled to receive and, upon request by the client ... promptly render a full accounting regarding such property.\u201d See Pels, 653 A.2d at 396 (finding a Rule 1.15(b) violation when an attorney kept $432 due a client out of his belief that the retainer agreement, providing that the client would pay administrative costs, entitled him to keep the money).\nMr. Green\u2019s June 17, 1996 letter to Respondent does not specifically request an accounting of the money he left for her in trust; therefore, Respondent did not violate this rule by failing to provide one. See BX 2 at 3. She did violate the rule, however, by not returning the remaining $1,000. Mr. Green gave her his money; thus, by definition, he had an interest in it and was entitled to its return under Rule 1.15(b). Respondent herself advised in 1997 (as opposed to today) that Mr. Green was entitled to a refund. BX 9 at 31-32. By June 1996, the purpose for holding the funds \u2014 to be used as part of negotiations to convince G.E. Capital not to foreclose on Mr. Green\u2019s condominium \u2014 had been rendered moot. The condominium had gone into foreclosure earlier that year. It should have been clear to Respondent that she needed to return the remaining $1,000 to Mr. Green when she learned that the condominium had gone into foreclosure \u2014 and certainly by the time Mr. Green filed his complaint. Whatever justification Respondent may have had for not initially responding to Mr. Green\u2019s letter (see discussion infra Rule 1.4(a)), there is no excuse for not returning his money immediately. It is true that Respondent was entitled to be paid for her services. Respondent had devoted substantial time to Mr. Green\u2019s interest beyond the initial bankruptcy filing, creditor\u2019s meeting, and confirmation. BX 2 at 5. However, Respondent did not \u201chave the right to take money from the escrow account\u201d without her client\u2019s permission. Addams, 579 A.2d at 199. The Board agrees with the Committee on Respondent\u2019s violation of Rule 1.15(b).\n8. Rule 1.16(d): Failure to Surrender Property After End of Representation\nRule 1.16(d) requires a lawyer, in connection with the termination of a representation, to \u201ctake timely steps to the extent reasonably practicable to protect a client\u2019s interests, such as ... surrendering papers and property to which the client is entitled, and refunding any advance payment of fee that has not been earned.\u201d In re Hallmark, 831 A.2d 366, 372 (D.C.2003) (finding Rule 1.16(d) violation where attorney did not refund $1,000 that client paid her as a flat fee to file a motion to dismiss that the attorney never filed, even though she may have performed services in excess of $1,000 on an hourly basis).\nThe question under Rule 1.16(d) is when Respondent\u2019s representation of Mr. Green ended. Mr. Green testified that he thought the attorney-client relationship ended when his condominium went into foreclosure in early 1996. Tr. at 216. Respondent testified that she believed their relationship ended when his bankruptcy case was closed in late 1996. Tr. at 163. Bar Counsel agrees with Respondent. See Tr. at 177. Bar Counsel points out that Respondent did not attempt, after Mr. Green\u2019s case closed in December 1996, to calculate what funds she was holding on Mr. Green\u2019s behalf or what he owed her for her work. BC Brief at 26; Tr. at 164. Nor did she send Mr. Green an invoice at that time. Tr. at 7-12. Respondent failed to refund any of the remaining $1,000 of Mr. Green\u2019s money after his case closed.\nAlthough Respondent believes her representation ended when Mr. Green\u2019s case closed, she also testified that she believed she should not contact Mr. Green after Bar Counsel launched its investigation in October 1996. See Tr. at 91, 177. For Rule 1.16(d) purposes, Respondent\u2019s representation of Mr. Green \u201cterminated\u201d in October 1996 and she should have taken steps to return his $1,000 at that point. If she believed she could not contact Mr. Green directly at that time, she could have made arrangements with Bar Counsel to refund the money. To conclude otherwise would mean that whenever Bar Counsel informs an attorney that he or she is subject to a current client\u2019s complaint, that client\u2019s property would be frozen while Bar Counsel investigates the complaint. We agree that Respondent violated Rule 1.16(d).\n4. Rule 1.15(a), D.C. Bar R. XI, \u00a7 19(f): Failure to Keep Complete Records\nRule 1.15(a) requires lawyers to keep \u201ccomplete records of ... account funds and other property\u201d and preserve them \u201cfor a period of five years after termination of the representation.\u201d D.C. Bar R. XI, \u00a7 19(f) also requires attorneys to \u201cmaintain complete records of the handling, maintenance, and disposition of all funds ... from the time of receipt to the time of final distribution\u201d and \u201cpreserve such records for a period of five years after final distribution of such funds.\u201d\nFinancial records are complete only when an attorney\u2019s documents are \u201csufficient to demonstrate [the attorney\u2019s] compliance with his ethical duties.\u201d In re Clower, 831 A.2d 1030, 1034 (D.C.2003) (finding Rule 1.15(a) and \u00a7 19(f) violations). The purpose of the rule requiring complete records is so that \u201cthe documentary record itself tells the full story of how the attorney handled client or third-party funds\u201d and whether, for example, the attorney misappropriated or commingled a client\u2019s funds. Id.; see also Pels, 653 A.2d at 396 (finding Rule 1.15(a) violation when attorney showed a \u201cpervasive failure\u201d to maintain contemporaneous records accounting for the flow of client funds within various bank accounts). Our Court has instructed that a lawyer needs a \u201csystem\u201d which permits him to treat funds held in trust, especially when handling funds of multiple clients, as here. Anderson, 778 A.2d at 338-40. The records themselves should allow for a complete audit even if the attorney or client is not available.\nHere, the record demonstrates that Respondent failed to comply with Rule 1.15(a) and D.C. Bar R. XI, \u00a7 19(f) recordkeeping requirements. For example, Respondent deposited a $4,000 check drawn on her operating account into her escrow account and labeled the check as attorney\u2019s fees \u2014 but failed to indicate which client\u2019s fees that money represented and why she was putting attorney\u2019s fees into her escrow account in the first place. BX 14 at 61; Tr. at 148. Also, as discussed, Respondent failed to indicate on a deposit slip whose money she was taking and why when she withdrew $1,400 from the gross deposit of $6,400 on May 19, 1995. BX 14 at 57. She claims that Capitol Bus gave her enough money to cover a $5,016.77 check she made out to the IRS on its behalf, but she was not able to provide any documents indicating that she received any more than $4,400 total from the company during that time period.\nIn September 1997, a year after she had moved offices and a little more than two years after receiving the $2,000 from Mr. Green, Respondent replied to a Bar Counsel request for records shedding more light on the financial transactions in Mr. Green\u2019s case by stating that she \u201ccannot locate the requested materials or any other relevant materials.\u201d BX 10 at 35. Respondent had no records to trace the whereabouts of the $2,000 she had received in trust from Mr. Green. Id. As stated in the Committee Report, this is a textbook case of failing to maintain complete records and is a clear violation of Rule 1.15(a).\n5. Rule l.lp(a): Failure to Keep Client Informed\nRule 1.4(a) requires a lawyer to keep a client \u201creasonably informed about the status of a matter and promptly comply with reasonable requests for information.\u201d A client is entitled to \u201cwhatever information the client wishes about all aspects of the subject matter of the representation.\u201d Rule 1.4(a) cmt. 2. Although Respondent\u2019s communications with Mr. Green during her representation of him may not have been perfect, the Committee concluded that Bar Counsel has not proved by clear and convincing evidence that they were unreasonable under the circumstances. Bar Counsel has not chosen to appeal this proposed finding and conclusion.\nEven if Respondent never discussed the foreclosure during any telephone conversations with Mr. Green around that time, the Committee does not think her actions were unreasonable, given the nature of this case and Mr. Green\u2019s behavior throughout the representation. Mr. Green\u2019s case was a simple bankruptcy matter, and beyond filing his case in the Bankruptcy Court, meeting with creditors, and getting a plan approved, there was not much further assistance or advice Respondent could provide. All that needed to happen was for Mr. Green to make his payments. Mr. Green acknowledged this during his testimony. Tr. at 258-59. He repeatedly failed to live up to his end of the bargain.\nGiven his own repeated failures to make various payments, the Committee found it non-credible that Mr. Green was unaware that his condominium would have gone into foreclosure and that it in fact did go into foreclosure. It would also be unreasonable to expect Respondent to remain in constant contact with Mr. Green to push him to meet his payment obligations. Beyond the failures to make payments, Mr. Green displayed an overall level of irresponsibility with respect to his case and his property that further makes Respondent\u2019s level of communication with him reasonable under the circumstances. As found by the Committee, he seemed to expect Respondent to work a miracle with that $2,000 (and then, a few weeks later, only $1,000) \u2014 she was supposed to secure a forbearance agreement with that amount as leverage against the tens of thousands of dollars the condominium was worth. Although living in New York City, he gave Respondent his parents\u2019 New Jersey address and phone number to use. Respondent did attempt to reach Mr. Green at two different locations (his residence and his parents\u2019 home) in the New York/New Jersey area. Tr. at 264. Mr. Green also expected Respondent to negotiate a reduction in his bankruptcy payments to $100 a month. RX D; Tr. at 242-48. Working with a difficult client who did not appear to take his obligations seriously, it is understandable that Respondent would not have been able to sort through his case and provide a complete response when he asked about his foreclosure and the status of his case in June 1996.\nB. Count II Charges: Respondent\u2019s Response to Bar Counsel\u2019s Investigation\nThese charges allege that Respondent:\n(1) Seriously interfered with the administration of justice in violation of Rule 8.4(d);\n(2) Knowingly failed to respond reasonably to a lawful demand for information from a disciplinary authority in violation of Rule 8.1(b); and\n(3) Failed to comply with an order of the Board in violation of D.C. Bar R. XI, \u00a7 2(b)(3).\nThe Committee concluded that Bar Counsel failed to prove by clear and convincing evidence that Respondent violated Rule 8.4(d), but did prove that she violated Rule 8.1(b) and D.C. Bar R. XI, \u00a7 2(b)(3). The Board concludes there was sufficient proof on all three of these counts.\n1. Rule 8.1(d)'- Interference with the Administration of Justice\nRule 8.4(d) provides that it is professional misconduct for a lawyer to \u201c[e]n-gage in conduct that seriously interferes with the administration of justice.\u201d To establish a Rule 8.4(d) violation, Bar Counsel must prove by clear and convincing evidence that (1) the attorney took improper action or failed to take required action; (2) the conduct involved bears directly on the judicial process in an identifiable case or tribunal; and (3) the conduct \u201ctaintfs] the judicial process in more than a de minimis way\u201d \u2014 it must at least \u201cpotentially impact\u201d the process \u201cto a serious and adverse degree.\u201d In re Hopkins, 677 A.2d 55, 61 (D.C.1996). See also In re Owusu, 886 A.2d 536, 540 (D.C.2005); In re Hallmark, 831 A.2d at 374; In re Travers, 764 A.2d 242, 248 (D.C.2000).\nFailures to respond to Bar Counsel\u2019s inquiries or subpoenas may constitute misconduct under Rule 8.4(d). Rule 8.4(d) cmt. 3; see, e.g., In re Karr, 722 A.2d 16, 22 (D.C.1998) (finding a Rule 8.4(d) violation when attorney ignored multiple letters sent to him by Bar Counsel in connection with disciplinary matters and when he admitted the violation); In re Cater, 887 A.2d 1, 17 (D.C.2005) (finding a Rule 8.4(d) violation when attorney failed to respond to repeated Bar Counsel letters and orders of the Board on Professional Responsibility). Bar Counsel argues that Respondent\u2019s failure to submit a written response to his October 1996 letters of inquiry and failure to respond timely to the Board\u2019s February 1997 order amounts to a Rule 8.4(d) violation. BC Brief at 41-42.\nThe Committee concluded that Respondent\u2019s delay in 1996 and 1997 in submitting a written response did not amount to \u201cseriously\u201d interfering with the administration of justice. It found no indication that Respondent deliberately ignored Bar Counsel\u2019s letters or acted dishonestly, and pointed out that she, in fact, did reach out to Bar Counsel in an attempt to discuss her response. HC Rpt. at 31. She phoned Bar Counsel\u2019s office within one month of receiving its October 2 inquiry, and also met with Assistant Bar Counsel in November 1996 to discuss her situation. The following month, she again spoke with Bar Counsel and explained the reasons for her delay, citing numerous health problems, her recent office move, and increased pressures after becoming a solo practitioner. BX 5 at 11; BX B at 31. In January, Bar Counsel phoned Respondent to advise her he would seek a Board order compelling her response, which was issued and received by Respondent in mid-February. When this failed to elicit a timely response to Bar Counsel\u2019s October 1996 letter inquiry, the Board approved a petition with specifications which was personally served on Respondent. On April 11, 1997, counsel for Respondent corresponded with the Board\u2019s office seeking additional time and on April 30, 1997, Respondent finally filed her written response to Bar Counsel\u2019s October 2,1996 letter of investigation. BX at 25-26; BX 9 at 27-32. On May 12, 1997, Respondent, through her counsel, filed her Answers to the March 12 specification of charges. BX 6(b) at 20-22. Following receipt of Respondent\u2019s written response, Bar Counsel obtained a dismissal without prejudice of its March 12 specification of charges. BX 7 at 24.\nClearly, Respondent\u2019s tardiness in response to Bar Counsel\u2019s investigation delayed that process by some months. The first and second tests of Hopkins are met by clear and convincing evidence, i.e., (1) Respondent failed to take action when she was required to do so (respond to Bar Counsel and the Board) and (2) such conduct bore directly on the attorney disciplinary process concerning an identifiable matter. See Hopkins, 677 A.2d 55. As to whether there was clear and convincing evidence of the third test in Hopkins\u2014 potentially impact the process \u201cto a serious and adverse degree\u201d \u2014 the Committee came down on the side of Respondent, relying heavily on Owusu. HC Rpt. at 31-32; see Hopkins, 677 A.2d at 61. In Owusu, respondent failed to respond to Bar Counsel\u2019s repeated mailings, but the evidentiary record showed he had never received any of Bar Counsel\u2019s or the Board\u2019s communications, as he had failed to maintain his current address with the Bar. Bar Counsel nevertheless successfully prosecuted respondent for other ethical violations, without Respondent\u2019s participation. The Court (and the Board) found that Rule 8.4(d) had not been convincingly proven in that there was no evidence respondent had purposefully evaded Bar Counsel\u2019s communications, i.e., that his failures to update his Bar address \u201c[were] at all related to\u201d the investigation, i.e., were intended to impede. Owusu, 886 A.2d at 541. Further, the Court rejected Bar Counsel\u2019s argument that its investigation had been hampered since Bar Counsel \u201cwas able to successfully prosecute the disciplinary complaint ...\u201d Id.\nHere also, Bar Counsel was able to successfully complete its investigation and prosecute. However, unlike the facts in Owusu, Respondent herein was fully aware of Bar Counsel\u2019s investigation and simply was dilatory in responding to both Bar Counsel and the Board. Unlike Owusu, Respondent\u2019s acts here bore directly on, and were related directly to, the disciplinary investigation. See, e.g., In re Mabry, 851 A.2d 1276 (D.C.2004) (per cu-riam) (Rule 8.4(d) violation where attorney failed to respond to Bar Counsel inquiries and a Board order, but delivered a written reply on the day of the evidentiary hearing and participated therein); see also In re Lilly, 699 A.2d 1135 (D.C.1997) (per cu-riam) (attorney who failed to respond to Bar Counsel communications, other than one request for a time extension, but filed a response to the complaint and appeared at the hearing \u2014 all over a one-year period \u2014 was found to violate Rule 8.4(d)).\nWe conclude the facts here meet the requirements of Hopkins and Owusu. Although Bar Counsel was able to eventually complete its investigation, Bar Counsel\u2019s need to correspond repeatedly with Respondent, to seek a Board order, and to file specification of charges, which ultimately elicited a written answer to the initial Bar Counsel inquiry (after a period of nearly seven months), meet the de min-imis test. We find clear and convincing evidence of a Rule 8.4(d) violation.\n2. Rule 8.1(b): Failure to Respond to Disciplinary Authority\nRule 8.1(b) provides, in relevant part, that an attorney shall not \u201cknowingly fail to respond reasonably to a lawful demand for information from ... [a] disciplinary authority.\u201d Unlike the more general requirements of Rule 8.4(d), Rule 8.1(b) \u201cspecifically addresses the requirement of responding to Bar Counsel.\u201d In re Rivlin, Bar Docket Nos. 436-96, et al., at 38 n. 20 (BPR Oct. 28, 2002), aff'd, In re Rivlin, 856 A.2d 1086 (D.C.2004) (per curiam). In addition, failure to comply with Board orders can also subject an attorney to discipline under Rule 8.1(b). See Cater, 887 A.2d at 17; In re Beller, 802 A.2d 340 (D.C.2002) (per curiam).\nAs discussed in the Committee\u2019s Report, Respondent\u2019s initial delay in providing Bar Counsel with a written response can be justified in light of the health and office challenges with which she was dealing at the time and the fact that she did reach out to Bar Counsel by telephone and in person to try to discuss her response. Although she may have acted \u201creasonably\u201d at the outset, her failure to respond became unreasonable as the months accumulated. Through Bar Counsel\u2019s letters and telephone conversations, Respondent knew that Bar Counsel was determined to pursue the investigation and seek a Board order if necessary to compel a response. Despite this notice, she delayed in doing what was necessary to recover and examine the files she possessed regarding Mr. Green\u2019s representation.\nIt was only by December 1996, nearly three months after receiving Bar Counsel\u2019s initial letters, that Respondent informed Bar Counsel that she had sought assistance in reviewing her files and providing a response. BX 6(b) at 23. Yet she still did not provide a response, even after she spoke with Bar Counsel\u2019s office the next month and was told a motion to compel was imminent. See BX 5 at 11. After Bar Counsel filed that motion in January 1997, Respondent did not provide a response; she did not provide a response when the Board granted the motion the next month either. It was only at this point that Respondent had re-hired her secretary in an effort to help her manage her office and workload, which she had difficulty doing as a solo practitioner and which was partly to blame for her failure to respond. BX 6(b) at 21.\nEven after bringing in assistance, Respondent still did not respond within the ten days provided for in the Board\u2019s order. It appears that Respondent only began to prepare a response in earnest after Bar Counsel filed its first petition and specification of charges in this matter in March 1997. BX 8 at 25-26. Despite that, after a month had passed, the attorney Respondent had retained to represent her asked for even more time to file an answer and to postpone a scheduled hearing. Finally, on April 30, 1997, Respondent provided her written response. BX 9 at 27-32.\nGiven these extensive delays and apparent lackadaisical approach toward resolving the issues that kept her from being able to respond, and the clear requirements of Rule 8.1(b), the Board agrees with the Committee that Respondent knowingly failed to respond reasonably to Bar Counsel\u2019s inquiries.\n3. D.C. Bar R. XI, \u00a7 2(b)(8): Failure to Comply with an Order of the Board\nD.C. Bar R. XI, \u00a7 2(b)(3) states that an attorney is subject to discipline for \u201c[f]ailure to comply with any order of ... the Board issued pursuant to this rule.\u201d See In re Kaufman, 878 A.2d 1187, 1188 (D.C.2005) (per curiam) (failure to comply with the Board\u2019s order to respond to Bar Counsel\u2019s inquiries); In re Burnett, 878 A.2d 1291, 1292 (D.C.2005) (per curiam) (failure to participate in Board proceedings after ignoring Bar Counsel charges against him); In re Artis, 883 A.2d 85, 88 (D.C.2005) (ignoring a Board order compelling a response to Bar Counsel interrogatories).\nAs discussed, Respondent did not comply with the Board\u2019s February 12, 1997 order to respond to Bar Counsel within ten days. She eventually responded months later- \u2014 after a specification of charges was filed against her and a hearing date was set. Thus, she also violated D.C. Bar R. XI, \u00a7 2(b)(3).\nIV. RECOMMENDED SANCTION\nBecause the law is clear that misappropriation can result in the most severe possible penalty \u2014 disbarment\u2014the Committee focused its sanction discussion on this charge and concluded that disbarment is the proper sanction here. The Board agrees.\nAs discussed in Part III, the Court has consistently held that \u201cin virtually all cases of misappropriation,\u201d disbarment is warranted unless the misappropriation stems from \u201cnothing more than simple negligence.\u201d See Addams, 579 A.2d at 191. This is not a per se rule, but rebutting the presumption of disbarment is an uphill battle; a lesser sanction is appropriate only in \u201cextraordinary circumstances.\u201d Id.; see also Pels, 653 A.2d at 397-98. One such mitigating circumstance is if an attorney\u2019s misconduct was substantially caused by certain disabilities, such as alcoholism. Addams, 579 A.2d at 194-95 (citing In re Kersey, 520 A.2d 321 (D.C.1987)). However, \u201cas a matter of course, the mitigating factors of the usual sort ... will suffice to overcome the presumption of disbarment only if they are especially strong and, where there are aggravating factors, they substantially outweigh any aggravating factors as well.\u201d Id. at 191 (citing In re Reback, 513 A.2d 226, 233 (D.C.1986)). The burden is high because misappropriation is a breach of trust that strikes \u201cat the core of the attorney-client relationship.\u201d Id. at 198-99.\nA. Mitigating and Aggravating Factors\nMitigating factors \u201cof the usual sort\u201d include: \u201c(1) an admission of wrongdoing, (2) full cooperation with the disciplinary authorities, (3) prompt return of the disputed funds, and, most importantly, (4) an unblemished record of professional conduct.\u201d In re Pierson, 690 A.2d 941, 950 (D.C.1997) (citing Reback, 513 A.2d at 233). As the Committee Report makes clear, Respondent has not admitted any wrongdoing, but instead denies all the charges Bar Counsel brought against her. She did not cooperate fully with authorities, but instead delayed in preparing a written response to Bar Counsel\u2019s initial inquiries and failed to comply with a Board order. Respondent did not promptly return disputed funds, but instead retained Mr. Green\u2019s remaining $1,000 even after his condominium had gone into foreclosure. She does not have an unblemished record of professional conduct, but instead has recently concluded a six-month suspension for negligently misappropriating another client\u2019s funds, for failing to maintain complete records, and for other violations. See In re Edwards (\u201cEdwards I\u201d), 870 A.2d 90, 92-93 (D.C.2005). In addition, the Board a few months ago issued a report recommending the Respondent be suspended for thirty days based on ethical violations resulting from her mishandling of a client\u2019s will. See In re Edwards, Bar Docket No. 488-02 (BPR Dec. 18, 2006).\nThe mitigation issues raised by Respondent are either irrelevant, unpersuasive, or dubious. During the mitigation phase of the hearing, for example, she testified that a fire set in a building next to her Georgia Avenue office destroyed much of her own office and files \u2014 but that fire occurred in April 2004. Tr. at 322, 330-31. Also in 2004, Respondent suffered a heart attack and the death of her husband. Tr. at 320-21; R Brief at 11. While the Committee and the Board sympathize with Respondent, we note that these traumas took place ten years after Respondent first began representing Mr. Green. See In re Bernstein, 707 A.2d 371, 377 (D.C.1998).\nCloser to the time in question, Respondent testified that she has dealt with numerous health problems, including glaucoma, chronic migraine headaches, sinus problems, and upper respiratory problems. Tr. at 319-21. Also, during that time period, she and her husband faced marital difficulties and her husband suffered a heart attack. Tr. at 318. These circumstances, however, are not \u201cextraordinary\u201d in the Addams sense; they are simply the types of difficulties many people face during their lifetimes and cannot be the basis for lessening sanctions for a violation as serious as intentional misappropriation. \u201c[F]actors such as ... ill health and pressures of work and illness and death among friends and relations [are] more appropriate for consideration upon [an] attorney\u2019s application for readmission to the bar.\u201d Addams, 579 A.2d at 198.\nRespondent also testified that her Georgia Avenue office suffered a flood soon after she moved there in 1996 and around the time she began receiving Bar Counsel\u2019s inquiries in this matter. Tr. at 332-33. This event could not have had any bearing on Respondent\u2019s misappropriation, as that took place more than a year earlier, in the summer of 1995. Although a flood could have affected her ability to respond to Bar Counsel\u2019s inquiries and comply with the Board\u2019s order, Respondent made no mention of a flood in her December 20, 1996 faxed letter to Bar Counsel explaining her delay in responding to Bar Counsel or in her April 30, 1997 response to Bar Counsel\u2019s allegations. BX 6(b) at 23; BX 9 at 27-32. The Committee concluded that if a flood had affected Respondent\u2019s ability to cooperate with the investigation, she would have mentioned it; thus, the flood evidence has no mitigating effect on the ethical violations Respondent committed. The Board concurs.\nThe Board is as concerned about the delay in investigating and adjudicating this case as was the Committee. See HC Rpt. at 37-38. The facts in Edwards I arose during the same approximate time frame \u2014 1996\u2014and involved similar conduct, i.e., mishandling of client\u2019s funds and misappropriation in one matter. Edwards I, 808 A.2d 476. However, much of this delay was brought on by Respondent\u2019s own actions. She was dilatory in providing answers to Bar Counsel\u2019s inquiries in 1996-97, moved to quash a Bar Counsel subpoena in 1998 that remained unresolved until October 2001 (to which she moved to reconsider), and was slow in answering the current specification of charges filed in October 2005. Respondent delayed in answering the charges until May 2006. BC Brief at 13. We do not find the circumstances of this case surrounding the time delay so unique and compelling as to \u201cjustify lessening what would otherwise be the sanction necessary to protect the public interest.\u201d In re Fowler, 642 A.2d 1327, 1331 (D.C.1994). Respondent also argued before the Committee that her need to defend against multiple charges from the same time period somehow excuses the delays she created. The proposition that multiple disciplinary charges can be used to justify tardiness, and eventually to support mitigation, is rejected.\nB. Sanctions\nThe Committee and the Board have found clear and convincing evidence of reckless misappropriation \u2014 indeed intentional misappropriation. Although Respondent remains adamant that \u201cthere is no need to impose any discipline,\u201d these facts are well beyond slipshod bookkeeping. R Brief at 13. Further, her disciplinary record is very unsatisfactory, including a finding of negligent misappropriation during this same mid-1990s time period. See Edwards I, 870 A.2d at 90. As recognized by the Court, \u201cdisbarment will be presumptively required if the attorney\u2019s conduct demonstrated an unacceptable level of disregard for the safety and welfare of entrusted funds.\u201d Anderson, 778 A.2d at 336.\nWe compare these facts to those in Thomas-Pinkney (disbarment for \u201ca close case\u201d of reckless misappropriation involving two different clients, but with mitigating evidence of no prior disciplinary record and a \u201cvery considerable service to her community\u201d) and Berryman (disbarment for misappropriation of $939.84 under the attorney\u2019s belief she was entitled to it as partial payment of a $6,000 legal fee, where mitigating factors included lack of financial harm to client and the absence of a prior disciplinary record). In re Thomas-Pinkney, 840 A.2d 700, 701 (D.C.2004); Berryman, 764 A.2d at 760.\nWe recognize that \u2018disbarment in a case such as this may seem to be a harsh sanction when compared with sanctions for other violations involving arguably more egregious conduct.\u2019 (citations omitted). However, we are equally mindful that, \u2018where client funds are involved, a more stringent rule is appropriate\u2019 to ensure that \u2018there not be an erosion of public confidence in the integrity of the bar.\u2019 (citation omitted).\nBerryman, 764 A.2d at 774 (citing Pierson, 690 A.2d at 949).\nThe Board thereby agrees with the Committee and recommends disbarment for Respondent. We also agree that Respondent should be required to pay restitution to Mr. Green in the amount of $1,000, that portion of the $2,000 misappropriated funds she failed to repay, plus interest at the legal rate of 6% from June 7, 1995, the date of the initial misappropriation.\nV. CONCLUSION\nThe Board concludes that Bar Counsel has proven by clear and convincing evidence that Respondent intentionally misappropriated client funds in violation of Rule 1.15(a); failed to maintain complete financial records in violation of Rule 1.15(a) and D.C. Bar R. XI, \u00a7 19(f); failed to deliver to a client money to which he was entitled in violation of Rule 1.15(b); failed to surrender to a client property to which he was entitled in violation of Rule 1.16(d); failed to respond to a lawful demand for information from a disciplinary authority in violation of Rule 8.1(b); failed to comply with an order of the Board in violation of D.C. Bar R. XI, \u00a7 2(b)(3); and seriously interfered with the administration of justice in violation of Rule 8.4(d). We recommend disbarment and that as a condition of reinstatement, Respondent be required to pay restitution to her client in the amount of $1,000 with interest at the legal rate of 6% from June 7,1995.\nBOARD ON PROFESSIONAL RESPONSIBILITY .\nDated: June 22, 2007\nAll members of the Board concur in this Report and Recommendation.\n. As the Board pointed out, the Hearing Committee\u2019s finding that the respondent held the $2,000 in trust did not rest on an evaluation of the witness demeanor of either respondent or her client Green, but rather \u201conly on [r]e-spondent's trust account records\u201d which contained abundant evidence of her knowledge of the true nature of the funds. When a Hearing Committee's \"credibility assessment gives no indication that it was based on [a] respondent's demeanor in testifying and responding to questions,\u201d the Board, and the court, are at greater liberty to reach their own conclusion as to whether evidence meets the clear and convincing evidence standard. Anderson, 778 A.2d at 341-42.\n. Bar Counsel excepts from the Board's refusal to recommend a showing of fitness as a condition of reinstatement in No. 06-BG-1480, but concedes that this issue is moot if we order disbarment in the Green matter. Bar Counsel also contests the Board's refusal to find in No. 06-BG-1480, that respondent had violated Rule 1.15(a) (safekeeping property) of the Rules of Professional Conduct by failing to properly safeguard her client\u2019s original Will. Although the issue is a close one, and the distinction subtle, we accept the Board's reasoning that respondent had properly filed and stored the document after preparing it, and thus safeguarded it, but had later violated Rules 1.1(b) and 8.4(d) by failing either to locate the Will in timely fashion or to proceed with probate by causing a copy to be filed and declared the operable Will. We accept the Board\u2019s recommendation in light of the \"strong presumption in favor of its imposition,\u201d and our belief that doing so would not \"foster a tendency towards inconsistent dispositions.\u201d In re Bingham, 881 A.2d 619, 623 (D.C.2005).\n. \"Tr.\u201d is used to designate the transcript of the May 23, 2006 hearing before the Committee.\n. The retainer form Respondent used was not one she normally used with a bankruptcy client, but the time-sensitive situation required a form that could be completed quickly. Tr. at 75. Mr. Green testified at the hearing that the \"first order of business was to save the condo, and so we never discussed any fees other than the original retainer\u201d and that he had never \u201creally read [the] lines\u201d on the retainer agreement specifying that Respondent's $1,000 fee covered only the initial bankruptcy filing, creditors meeting, and confirmation. Tr. at 196-97, 255. Mr. Green testified that he knew he was obligated to pay for Respondent\u2019s additional work and that the retainer agreement clearly specified a $150-per-hour rate for that additional work. BX 9 at 31; Tr. at 199, 256.\n. At the hearing, Mr. Green testified that he had provided Respondent, in addition to the $2,000 cashier\u2019s check on May 7, 1995, two additional checks. Tr. at 202. However, during Bar Counsel\u2019s investigation, Mr. Green indicated that he had given Respondent only one other check. BX 12 at 39. There is no evidence supporting this testimony and the Committee found that Mr. Green provided only $2,000 to Respondent. Tr. at 203.\n. Although the Respondent\u2019s letter to Bar Counsel was dated April 30, 1997, the Statement was dated May 7, 1997. BX 9 at 27-34. Respondent admitted in her April 30, 1997 letter that Mr. Green had not received the May 7, 1997 Statement. Id. at 27.\n. Respondent testified that depositing Mr. Green's funds into her escrow account was a mistake. Tr. at 154.\n. This is in addition to the $160 filing fee he had also agreed to pay up front, for a total initial payment of $1,160. Tr. at 96.\n. Even if it could be argued that Respondent did not intentionally misappropriate Mr. Green's money, she certainly acted recklessly \u2014 that is, with a conscious indifference for the security of that money. \"Hallmarks\u201d of reckless misappropriation include indiscriminate commingling of entrusted and personal funds; a total disregard of the status of accounts into which entrusted funds were placed, resulting in repeated overdrafts; and indiscriminate movement of monies between accounts. Anderson, 778 A.2d at 338; Carlson, 802 A.2d at 348-49. By not detailing on the May 19, 1995 deposit slip why she withdrew $1,400 or from which source of funds she withdrew that money, and by allowing her escrow account balance to remain below the amount Mr. Green gave her, Respondent demonstrated a reckless disregard for the security for her client\u2019s funds.\n. To the extent that Respondent may have believed the $1,000 belonged to her as attorney\u2019s fees or that there was a legitimate question as to whose money it was, Respondent was still under an obligation to hold that money in trust while the dispute was resolved. See Rule 1.16(d) cmt. 12 (requiring disputed money to be segregated from undisputed amounts and held in trust as required by Rule 1.15). Respondent has not argued that she did this, and nothing in the record suggests she took this step.\n. See In re Mooers, 910 A.2d 1046 (D.C.2006) (per curiam) (attorney\u2019s misappropriation of client's funds would not have occurred but for the depression he suffered at the time of his misconduct. Further, the attorney admitted and took full responsibility for his wrongdoing, corresponded with Bar Counsel, and was under treatment for his depression).\n. The six-month suspension actually began in September 2005 and ended in July 2006 due to a dispute over whether Respondent properly filed an affidavit pursuant to D.C. Bar R. XI, \u00a7 14(g), which affected the timing of reinstatement. R Brief at 11. Respondent even raises the argument that, since the facts here and in Edwards I grew out of the same time period, we should somehow assume both sets of facts were simultaneously before us and determine an appropriate sanction for the combined violations, citing In re Thompson, 492 A.2d 866 (D.C.1985); R Brief at 11. First, unlike Thompson, the two matters are not before us simultaneously. Second, we do not \u2014 as Respondent does \u2014 look upon this overlap in time of her two separate misappropriations \u2014 both occurring in the mid 1990s\u2014 as somehow mitigating her sanction. See R Brief at 11. Following this logic, since Respondent has already been sanctioned for one misappropriation from that time period, the Board and Court should overlook any other indiscretions at that time. Of course, the current proof involves intentional misappropriation, not negligent misappropriation as in Edwards I. Further, if the instant facts had been somehow tried as a separate count in the Edwards I case or these two cases had been consolidated before the Board as in Thompson, thereby presenting the Board and Court with a possible ''pattern\u201d of such improper conduct, it is possible Edwards I would have resulted in a finding of reckless or intentional misappropriation, leading to an earlier disbarment recommendation. See In re Edwards, 808 A.2d 476, 485 (D.C.2002), on remand, 870 A.2d 90 (D.C.2005).",
+        "type": "majority",
+        "author": "BLACKBURNE-RIGSBY, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Nigel L. Scott, Washington, for respondent, who submitted her brief pro se.",
+      "Ross T. Dicker, Assistant Bar Counsel, with whom Wallace E. Shipp, Jr., Bar Counsel, and Judith Hetherton, Senior Assistant Bar Counsel, were on the brief, for Office of Bar Counsel."
+    ],
+    "corrections": "",
+    "head_matter": "In re Lucy R. EDWARDS, Respondent. A Member of the Bar of the District of Columbia Court of Appeals (Bar Registration No. 197020).\nNos. 06-BG-1480, 07-BG-608.\nDistrict of Columbia Court of Appeals.\nArgued May 27, 2009.\nDecided March 11, 2010.\nAs Amended March 18, 2010.\nNigel L. Scott, Washington, for respondent, who submitted her brief pro se.\nRoss T. Dicker, Assistant Bar Counsel, with whom Wallace E. Shipp, Jr., Bar Counsel, and Judith Hetherton, Senior Assistant Bar Counsel, were on the brief, for Office of Bar Counsel.\nBefore FISHER and BLACKBURNE-RIGSBY, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "0501-01",
+  "first_page_order": 543,
+  "last_page_order": 572
+}

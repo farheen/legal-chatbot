@@ -1,0 +1,64 @@
+{
+  "id": 12488895,
+  "name": "COLBERT, Lamont Eugene v. STATE of Maryland",
+  "name_abbreviation": "Colbert v. State",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 423, Sept. Term, 2016",
+  "first_page": "756",
+  "last_page": "756",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 756"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 169,
+    "sha256": "c31c1a05e171c9f07cc888169343fd77e9c65ec24abd23b504c0694964a84deb",
+    "simhash": "1:0276460192f95c07",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COLBERT, Lamont Eugene\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "COLBERT, Lamont Eugene\nv.\nSTATE of Maryland\nPet. Docket No. 423, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0756-03",
+  "first_page_order": 756,
+  "last_page_order": 756
+}

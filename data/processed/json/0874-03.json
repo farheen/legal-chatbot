@@ -1,0 +1,102 @@
+{
+  "id": 7290645,
+  "name": "Andr'e L. YOUNGER, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent",
+  "name_abbreviation": "Younger v. Commonwealth",
+  "decision_date": "2010-06-07",
+  "docket_number": "No. 5 EM 2010",
+  "first_page": "874",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "995 A.2d 874"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 415,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831792896033708
+    },
+    "sha256": "cd5aac57a5c0aff01395fe63127d4108f7bde97b6646ee9749b578d4ff2ecaec",
+    "simhash": "1:a49e2dec41872bb2",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T16:20:39.741748+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andr\u2019e L. YOUNGER, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 7th day of June, 2010, the Application for Extraordinary Relief is DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation is improper). The Prothonotary is directed to forward this filing to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Andr\u2019e L. YOUNGER, Petitioner v. COMMONWEALTH of Pennsylvania, Respondent.\nNo. 5 EM 2010.\nSupreme Court of Pennsylvania.\nJune 7, 2010."
+  },
+  "file_name": "0874-03",
+  "first_page_order": 904,
+  "last_page_order": 905
+}

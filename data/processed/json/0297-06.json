@@ -1,0 +1,62 @@
+{
+  "id": 12485561,
+  "name": "State v. Javin A. Ward",
+  "name_abbreviation": "State v. Ward",
+  "decision_date": "2016-06-17",
+  "docket_number": "NOS. C-922 SEPT. TERM 2015, 076856",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 122,
+    "sha256": "8131abb1558985af672c3d2329bd8983d1609691d7933cb0de837cb34b976f7b",
+    "simhash": "1:b2100463bddc2d3e",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nJavin A. Ward"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nJavin A. Ward\nNOS. C-922 SEPT. TERM 2015, 076856\nSupreme Court of New Jersey\nJune 17, 2016\nDisposition: Denied."
+  },
+  "file_name": "0297-06",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488947,
+  "name": "STATE v. WOODS",
+  "name_abbreviation": "State v. Woods",
+  "decision_date": "2016-11-01",
+  "docket_number": "16\u2013334",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "10fa14c5d2e7d46b965932c17b2ff1b0cd6d6d0f0eb2791336049be704db6acd",
+    "simhash": "1:e0550632dda96663",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nWOODS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nWOODS\n16-334\nSupreme Court of Vermont.\nNovember 1, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "1230-18",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12487718,
+  "name": "In re: A.B.",
+  "name_abbreviation": "In re A.B.",
+  "decision_date": "2016-09-29",
+  "docket_number": "No. 246; Sept. Term, 2016",
+  "first_page": "471",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "146 A.3d 471"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 127,
+    "sha256": "862329c5d630520e765d6eca305b7f4133c51bb5e6dae1b4d501b172668d3664",
+    "simhash": "1:2ceb503ca1e9c093",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000917+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re: A.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re: A.B.\nNo. 246\nSept. Term, 2016\nCourt of Appeals of Maryland.\nSeptember 29, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0471-05",
+  "first_page_order": 471,
+  "last_page_order": 471
+}

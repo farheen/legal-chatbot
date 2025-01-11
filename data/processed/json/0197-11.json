@@ -1,0 +1,58 @@
+{
+  "id": 12486556,
+  "name": "Com. v. M. Woods",
+  "name_abbreviation": "Com. v. Woods",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 990 WDA 2015",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "faa8675713f7a990ab0cdab0f75ff836742703d7571bf3d65f1cf5903867b49a",
+    "simhash": "1:b09b4c0c79940818",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Woods"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Woods\nNO. 990 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nAffirmed."
+  },
+  "file_name": "0197-11",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

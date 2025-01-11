@@ -1,0 +1,64 @@
+{
+  "id": 1279627,
+  "name": "Elliot Knight, Plaintiff in Error, v. State of Florida, Defendant in Error",
+  "name_abbreviation": "Knight v. State",
+  "decision_date": "1931-01-07",
+  "docket_number": "",
+  "first_page": "1628",
+  "last_page": "1629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1628"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 798,
+    "ocr_confidence": 0.497,
+    "sha256": "0927b687bc741897879d154085560341082533146c0e2a5ab376b1ef3a4ac592",
+    "simhash": "1:5e8865f70349b13d",
+    "word_count": 139
+  },
+  "last_updated": "2023-07-14T17:35:28.833773+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Whitfield, P. J., and Strum and Buford, J. J., concur."
+    ],
+    "parties": [
+      "Elliot Knight, Plaintiff in Error, v. State of Florida, Defendant in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis cause having heretofore been submitted to the Court upon the transcript of the record of the judgment herein, and briefs and argument of counsel for the respective parties, and the record having been seen and inspected, and the Court being now advised of its judgment to be given in the premises, it seems to the Court that there is no error in the said judgment; it is, therefore, considered, ordered and adjudged by the Court that the said judgment of the Criminal Court of Record be, and the same is hereby affirmed.\nWhitfield, P. J., and Strum and Buford, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "Lee M. Booth, for Plaintiff in Error;",
+      "Fred H> Davis, Attorney General, for the State."
+    ],
+    "corrections": "",
+    "head_matter": "Elliot Knight, Plaintiff in Error, v. State of Florida, Defendant in Error.\nDivision B.\nDecision filed January 7, 1931.\nLee M. Booth, for Plaintiff in Error;\nFred H> Davis, Attorney General, for the State."
+  },
+  "file_name": "1628-01",
+  "first_page_order": 624,
+  "last_page_order": 625
+}

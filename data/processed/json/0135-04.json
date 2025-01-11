@@ -1,0 +1,64 @@
+{
+  "id": 7962430,
+  "name": "STATE v. Thomas FIRTH",
+  "name_abbreviation": "State v. Firth",
+  "decision_date": "1980-01-04",
+  "docket_number": "No. 77-373-C.A.",
+  "first_page": "135",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 361,
+    "ocr_confidence": 0.8,
+    "sha256": "bcbcdbebec5861095d9168a89ffa6b8bcd4ad7747ae77d658d6e102ffaa28618",
+    "simhash": "1:742e3f53b3e04699",
+    "word_count": 55
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Thomas FIRTH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to supplement the record as prayed is granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen. Chief, Appellate Division, for plaintiff.",
+      "John F. Cicilline, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Thomas FIRTH.\nNo. 77-373-C.A.\nSupreme Court of Rhode Island.\nJan. 4, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen. Chief, Appellate Division, for plaintiff.\nJohn F. Cicilline, Providence, for defendant."
+  },
+  "file_name": "0135-04",
+  "first_page_order": 183,
+  "last_page_order": 184
+}

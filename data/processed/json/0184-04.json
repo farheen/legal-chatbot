@@ -1,0 +1,58 @@
+{
+  "id": 12486372,
+  "name": "Com. v. E. Feierstein",
+  "name_abbreviation": "Com. v. Feierstein",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 1017 EDA 2015",
+  "first_page": "184",
+  "last_page": "184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "f114b25fece51c4490819578672dee80a056d2783b7430da88d404d4e5982127",
+    "simhash": "1:3514447592961ca2",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Feierstein"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Feierstein\nNO. 1017 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed.\n3 Petition for reargument denied April 26, 2016.\n--------"
+  },
+  "file_name": "0184-04",
+  "first_page_order": 184,
+  "last_page_order": 184
+}

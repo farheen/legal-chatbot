@@ -1,0 +1,83 @@
+{
+  "id": 9318840,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Louis SAUNDERS, Respondent",
+  "name_abbreviation": "Commonwealth v. Saunders",
+  "decision_date": "2002-12-03",
+  "docket_number": "",
+  "first_page": "993",
+  "last_page": "994",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "811 A.2d 993"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "2002 WL 31118999",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": 0
+    },
+    {
+      "cite": "807 A.2d 838",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        312757,
+        11354551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/569/0622-01",
+        "/a2d/807/0838-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 562,
+    "ocr_confidence": 0.658,
+    "sha256": "1050aac3e8b3112fdbdf2bf102b805276e74275ec85e5cc0631e0c24661eacb4",
+    "simhash": "1:eecab816b9813c76",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T18:37:59.487895+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Louis SAUNDERS, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of December 2002, the Petition for Allowance of Appeal is GRANTED. The order of the Superior Court is REVERSED. See Common wealth v. Eller, 807 A.2d 838, 2002 WL 31118999 (Pa.2002).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Catherine Lynn Marshall, Arnold H. Gordon, Philadelphia; Heather D. Young, Ronald Eisenberg, Mellon, Webster & Mellon, Philadelphia, for Com. of PA, Petitioner.",
+      "Moira Dunworth, Philadelphia, for Louis Saunders, Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Louis SAUNDERS, Respondent.\nSupreme Court of Pennsylvania.\nDec. 3, 2002.\nCatherine Lynn Marshall, Arnold H. Gordon, Philadelphia; Heather D. Young, Ronald Eisenberg, Mellon, Webster & Mellon, Philadelphia, for Com. of PA, Petitioner.\nMoira Dunworth, Philadelphia, for Louis Saunders, Respondent."
+  },
+  "file_name": "0993-02",
+  "first_page_order": 1023,
+  "last_page_order": 1024
+}

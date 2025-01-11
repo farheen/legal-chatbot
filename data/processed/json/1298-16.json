@@ -1,0 +1,59 @@
+{
+  "id": 6083553,
+  "name": "In re Albert Sadacca",
+  "name_abbreviation": "In re Sadacca",
+  "decision_date": "1932-05-12",
+  "docket_number": "No. 2993",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 79,
+    "ocr_confidence": 0.455,
+    "sha256": "c69078b1e789b17fb577fc4e59193d43404c0d86c65081dcae64dfde8c534c73",
+    "simhash": "1:2069350940754489",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Albert Sadacca"
+    ],
+    "opinions": [
+      {
+        "text": "Design for electric-lamp socket.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MAY 12, 1932\nIn re Albert Sadacca\n(No. 2993)."
+  },
+  "file_name": "1298-16",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

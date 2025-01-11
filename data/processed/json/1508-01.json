@@ -1,0 +1,106 @@
+{
+  "id": 6092470,
+  "name": "In Re Melvin De Groote, Deceased (Assignee Substituted Petrolite Corporation)",
+  "name_abbreviation": "In re De Groote",
+  "decision_date": "1964-06-25",
+  "docket_number": "No. 7184",
+  "first_page": "1508",
+  "last_page": "1512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "51 C.C.P.A. 1508"
+    },
+    {
+      "type": "parallel",
+      "cite": "142 U.S.P.Q. 89"
+    },
+    {
+      "type": "parallel",
+      "cite": "333 F.2d 247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Cust. Ct.",
+    "id": 9324,
+    "name": "United States Customs Court"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "315 F. 2d 381",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        172697,
+        6080342,
+        172759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/315/0381-01",
+        "/ccpa/50-2/1003-01",
+        "/f2d/315/0381-02"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1084",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080765
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1084-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 517,
+    "char_count": 10654,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 9.369130595172464e-08,
+      "percentile": 0.5145352103539628
+    },
+    "sha256": "160336a1826e8766ea37db89a2296a8e6a894f4e6b0ce79058c841a49864121a",
+    "simhash": "1:f4ae084a15ac1b9e",
+    "word_count": 1732
+  },
+  "last_updated": "2024-02-27T21:50:20.076457+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In Re Melvin De Groote, Deceased (Assignee Substituted Petrolite Corporation)"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nThe single issue presented on this appeal is obviousness of the claimed invention under 35 U.S.C. 103. The claimed invention relates to compounds which are asserted to be useful as demulsifiers, in that they prevent, break or resolve emulsions of the water-in-oil type. Appellant in his brief defines the polyoxyalkylene glycol mixture of claim 1 as:\nHO \u2014 (A) (B) (A) (B) (A) \u2014 H\nwherein A is polyoxyethylene (C2H40)x and B is polyoxypropylene {C3HeO)y or poly-straight-chain oxybutylene (C4HgO)y. Claim l, reproduced in the margin, sets forth a more detailed statistical formula and gives the molar proportions of the radicals.\nThe Board of Appeals affirmed the examiner\u2019s rejection of claim 1 on the following references:\nLundsted, 2,674,619, April 6,1954.\nSpriggs, 2,828,345, March. 25,1958.\nDe Groote et al. (I), 2,839,476, June 17,1958.\nDe Groote et al. (II), 2,839,477, June 17,1958.\nLundsted discloses polyoxyalkylene compounds which appellant describes in his brief as having the general formula:\nHO \u2014 (A) (B) (Y) (B) (A) \u2014 H\nwherein A is polyoxyethylene and B is polyoxypropylene and Y is broadly disclosed as the residue of a base compound which has furnished at least two reactive hydrogen atoms. Ethylene glycol is suggested as one such base compound. The specification indicates that it is preferable for the base compound to have a relatively low molecular weight, e.g., less than 200. Lundsted\u2019s polyoxyalkylene compounds have detergent and surfactant properties.\nSpriggs discloses complex mixtures of compounds having poly-oxyalkylene chains which have execellent surface active properties and which are excellent dispersing and emulsifying agents, prepared by reacting butylene glycol with first butylene oxide and then with ethylene oxide to produce polyoxyalkylene compounds.\nDe Groote et al. (I) discloses non-ionic surfactants, which are cogeneric mixtures prepared by reacting a glycol wherein one hydroxyl group is tertiary and the other is primary or secondary, or the reaction product of such a glycol with up to 4 moles of ethylene oxide, with first propylene oxide or butylene oxide or a mixture of the two, and then with ethylene oxide. The mixtures are said to have utility in various arts, including the resolution of petroleum emulsions of the water-in-oil type.\nDe Groote et al. (II) likewise discloses non-ionic surfactants which are cogeneric mixtures prepared by reacting 2-methyl-2,4-pentanediol, or its reaction product with up to 4 moles of ethyletne oxide, with first propylene oxide or butylene oxide or a mixture of the two, and then with ethylene oxide to produce polyoxyalkylene compounds. These mixtures are said to be useful in various arts including the resolution of petroleum emulsions of the water-in-oil type.\nThus, the art teaches that mixtures closely related to those of the appealed claim were known and that such mixtures were known to be useful as demulsifiers and surfactants, prior to appellant\u2019s invention.\nAppellant apparently considers Lundsted to be the most pertinent, reference. Refering to the general formulae which appellant has used to represent in simplified form the compositions covered by claim 1 and those disclosed in Lundsted, it will be noted that the Lundsted formula has a (Y) at the middle whereas the formula of appealed claim 1 has an (A) at the middle. In essence, the distinction is that in appellant\u2019s formula, (A) is said to be pentaethylene glycol or a, higher polyethylene glycol containing specifically not more than 60' ethylene oxide units, while in Lunsted, (Y) is broadly disclosed to include a number of starting materials, among which may be ethylene glycol.\nSuch then is the difference between the principal prior art and the invention defined in the appealed claim. In determining whether this difference is such that appellant\u2019s subject matter as a whole would have been obvious to one of ordinary skill in the art under 35 U.S.C. 103, we note that the references other than Lundsted indicate that the art is developed to the extent that a person having ordinary skill therein must be presumed to have a relatively high level of technical knowledge.\nAs pointed out by the examiner, Lundsted teaches that ethylene glycol or any reactive hydrogen-containing compound may be used as the base component. Since the polyethylene glycols form a series-, of well known compounds of which ethylene glycol is the lowest member, we think that since Lundsted discloses ethylene glycol it would be obvious to a person of ordinary skill in this art to use polyethylene glycols in forming such mixtures.\nHowever, it is appellant\u2019s position that Lundsted teaches away from the claimed subject matter. After quoting a portion of the Lundsted patent, appellant\u2019s position is summarized in his brief as follows:\nFrom the portion of the Lundsted patent just given, it is apparent that the definition of (Y) is extremely broad. Moreover, despite the breadth of the Lundsted patent in its definition of (Y), it is apparent that nowhere does Lund-sted teach that the (A) which appears at the middle of formula (1) above cart be pentaethylene glycol or a higher polyethylene glycol containing not more than 60 ethylene oxide units specifically. Indeed, if anything, the disclosure of the Lundsted patent is to a different effect, inasmuch as it teaches that in selecting (Y) \u201cit is preferred to employ relative low molecular weight base compounds, e.g. less than 200.\u201d Pentaethylene glycol has a molecular weight of 238. We submit, therefore, .that the compositions.covered by Claim 1 ar\u00e9 not obvious in view of the teachings of the Lundsted patent.\nWe find ourselves unable to agree with this position. Lundsted, like each of the other references, teaches that the polyoxyalkylene mixtures disclosed are outstanding surface active agents or detergents, and the De Groote patents indicate that such surfactants are useful for resolving petroleum emulsions of the water-in-oil type. The advisability of using other polyoxyalkylene mixtures for that purpose seems to us to be clearly suggested by the prior art. With respect-to using materials of a molecular weight less than 200, it is noted that Lundsted states that \u201cordinarily\u201d such material is preferred, but he also states, the particular base compound used is \u201cnot critical.\u201d\nWe agree with the examiner and the board that the subject matter defined by appellant\u2019s claim covers but an obvious difference over the Lundsted disclosure. While Lundsted does not mention pentaethylene glycol specifically, we think the use of the higher polyethylene glycols would have been obvious to one of ordinary skill in this art in view of the known close relationship between the glycols embraced within the appealed claim and the ethylene glycol disclosed by Lundsted. While the polyethylene glycols are the higher members of a series beginning with the ethylene glycol taught by Lundsted, it is to be noted that Lundsted also teaches the use of any reactive hydrogen compound.\nOur view as to the obviousness of the claimed compound also finds support in the disclosure of each of Spriggs, De Groote et al. (I), or De Grotte et al. (II). Each of these references discloses glycol reaction products which, we think, would make it obvious to one of ordinary skill in this art to use the herein claimed higher polyethylene glycol reaction products.\nWe think the specific teachings of the prior art as to the use of bu-tylene glycol and pentanediol would make it obvious to use higher polyethylene glycols. This is especially true in the demulsifying art which is highly empirical. We think those of ordinary skill in this art, searching for demulsifiers on a trial and error basis, would be expected to have substituted the claimed glycols for the glycol disclosed by Lundsted, particularly in view of the De Groote patents These references state that the disclosed compounds are useful for resolving petroleum emulsions of the water-in-oil type. The disclosure of Spriggs also teaches that the compounds disclosed therein are useful as surfactants or detergents.\nAppellant asserts, and has submitted -test data in support thereof, that the claimed mixtures have superior properties as a demulsifier over those of the prior art. We have independently considered the affidavit showings of record but agree with the board\u2019s conclusion that:\n* * * they are ineffective as a basis for reaching a different conclusion than that of the Examiner as indicated above. As indicated by both appellant and the Examiner, the petroleum demulsification art is highly empirical. This is borne out by the data and results shown in the affidavits. All the agents tested that fall within the terms of the instantly claimed compounds are not better than all of the other agents which are from the prior art or of the kind of those here claimed but outside of the limits of the compounds of the claims. The same agents are not necessarily effective for oils of different sources. The results compared are of the best of the agents of the various categories. This indicates that other compounds very close to those that are highly effective for a certain oil but also within the terms of the claims are not, or may not be, as effective as agents in other categories of those tested. * * *\nIn a proper case, of course, a showing of unexpected properties or superior results may be persuasive evidence of unobviousness. In the present case, however, we are not persuaded by appellant\u2019s rather ambiguous test data nor by his analysis of it. Compare In re Papesch, 50 CCPA 1084, 315 F. 2d 381, 137 USPQ 43.\nFor the foregoing reasons, the decision of the board is affirmed.\nAppealed claim 1 of appellant\u2019s application Serial No. 739,454, filed May 27, 1958 for improvements in Polyalkylene Glycols, reads as follows:\n1. A poyoxyalkylene glycol mixture of the general statistical formula\nHO \u2014 (C2H40)x'(R)y(C2H40)x(R\u2019)y\u2019(C2H40)x\"\u2014H\nwherein x is at least 5 and not over 60, R and R' represent at least one radical selected from the group consisting of C3HoO and straight chain CiHsO, y plus y' is at least 5 and not over 220, and x' plus x\" is at least 4 and not over 60.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "John Boustead, Martin J. Brown, for appellants.",
+      "Clarence W. Moore (Fred W. Bherling, of counsel) for the Commissioner"
+    ],
+    "corrections": "",
+    "head_matter": "333 F. 2d 247; 142 USPQ 89\nIn Re Melvin De Groote, Deceased (Assignee Substituted Petrolite Corporation)\n(No. 7184)\nUnited States Court of Customs and Patent Appeals,\nJune 25, 1964\nJohn Boustead, Martin J. Brown, for appellants.\nClarence W. Moore (Fred W. Bherling, of counsel) for the Commissioner\n[Oral argument March 5, 1964, by Mr. Boustead and Mr. Sherling]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1508-01",
+  "first_page_order": 828,
+  "last_page_order": 832
+}

@@ -1,0 +1,81 @@
+{
+  "id": 7965048,
+  "name": "Violet M. CAVANAGH v. Robert D. CAVANAGH",
+  "name_abbreviation": "Cavanagh v. Cavanagh",
+  "decision_date": "1981-11-25",
+  "docket_number": "No. 79-17-A",
+  "first_page": "1307",
+  "last_page": "1308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "440 A.2d 1307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "431 A.2d 443",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7970922,
+        7971059,
+        7970699,
+        7970794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/431/0443-03",
+        "/a2d/431/0443-04",
+        "/a2d/431/0443-01",
+        "/a2d/431/0443-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 398,
+    "ocr_confidence": 0.758,
+    "sha256": "7edd2cf935f57f1ad9ee818a82fa90456edd699636051bdc1030c550de93e9a7",
+    "simhash": "1:500e1c66d93630c3",
+    "word_count": 63
+  },
+  "last_updated": "2024-02-27T20:24:54.472867+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Violet M. CAVANAGH v. Robert D. CAVANAGH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to reinstate this appeal is granted. The motion to consolidate this case with Cavanagh v. Cavanagh, R.I., 431 A.2d 443 for hearing and argument is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John H. Hines, Jr., Providence, for plaintiff.",
+      "Lind & Dillon, Edward E. Dillon, Jr., Cumberland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Violet M. CAVANAGH v. Robert D. CAVANAGH.\nNo. 79-17-A.\nSupreme Court of Rhode Island.\nNov. 25, 1981.\nJohn H. Hines, Jr., Providence, for plaintiff.\nLind & Dillon, Edward E. Dillon, Jr., Cumberland, for defendant."
+  },
+  "file_name": "1307-03",
+  "first_page_order": 1355,
+  "last_page_order": 1356
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501550,
+  "name": "COM. v. POWELL, J.",
+  "name_abbreviation": "Com. v. Powell",
+  "decision_date": "2018-07-09",
+  "docket_number": "1969 EDA 2017",
+  "first_page": "652",
+  "last_page": "652",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 652"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 133,
+    "sha256": "056ffd0e863598a0e140896574b547ab737f158e686b5c8133f59c1b382887dd",
+    "simhash": "1:951e37b5d6d1bf94",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nPOWELL, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nPOWELL, J.\n1969 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 9, 2018\nAffirmed - Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "0652-02",
+  "first_page_order": 652,
+  "last_page_order": 652
+}

@@ -1,0 +1,91 @@
+{
+  "id": 6092668,
+  "name": "In re Jack H. Hofstetter",
+  "name_abbreviation": "In re Hofstetter",
+  "decision_date": "1967-11-09",
+  "docket_number": "No. 7529",
+  "first_page": "1493",
+  "last_page": "1493",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1493"
+    },
+    {
+      "type": "parallel",
+      "cite": "155 USPQ 515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "150 USPQ 105",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "case_ids": [
+        6087178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1545-01"
+      ]
+    },
+    {
+      "cite": "155 USPQ 289",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 94,
+    "char_count": 867,
+    "ocr_confidence": 0.426,
+    "pagerank": {
+      "raw": 1.271389600171099e-07,
+      "percentile": 0.6148576615856755
+    },
+    "sha256": "2c37d0e8523eebc9ec451b42c37485b5e446a29c16dcb051fb0eb32b961c0828",
+    "simhash": "1:7ae1c7de36823289",
+    "word_count": 144
+  },
+  "last_updated": "2024-02-27T17:09:53.194820+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Judges Rich, Smith, Almond^ Kirkpatrick."
+    ],
+    "parties": [
+      "In re Jack H. Hofstetter"
+    ],
+    "opinions": [
+      {
+        "text": "PEE CURIAM.\nThe Supreme Court of the United States having heard this cause on the transcript of record from this court and ordered and adjudged on October 9, 1967, 155 USPQ 289, that the judgment of this court of June 23,1966,150 USPQ 105, be vacated and that the cause be remanded to this court with directions to dismiss the appeal as moot;\nIt is ordered that this appeal be, and the same is hereby, dismissed.",
+        "type": "majority",
+        "author": "PEE CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Paul N. Kolmlis, Cushman, Darby & Cushman, (E. Calvin White, Lawrence A. Hymo, of counsel) for appellant.",
+      "Joseph Sohimmel (J. F. Nalcamwa of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "155 USPQ 515\nIn re Jack H. Hofstetter\n(No. 7529)\nUnited States Court of Customs and Patent Appeals,\nNovember 9, 1967\nPaul N. Kolmlis, Cushman, Darby & Cushman, (E. Calvin White, Lawrence A. Hymo, of counsel) for appellant.\nJoseph Sohimmel (J. F. Nalcamwa of counsel) for the Commissioner of Patents.\nBefore Worley, Chief Judge, and Judges Rich, Smith, Almond^ Kirkpatrick.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1493-01",
+  "first_page_order": 833,
+  "last_page_order": 833
+}

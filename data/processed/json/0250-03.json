@@ -1,0 +1,64 @@
+{
+  "id": 7943573,
+  "name": "STATE v. John A. SANTILLI",
+  "name_abbreviation": "State v. Santilli",
+  "decision_date": "1979-12-20",
+  "docket_number": "No. 79-434-M.P.",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 337,
+    "ocr_confidence": 0.758,
+    "sha256": "d059f49bdad9aad91d1f3ce9e7ea4ae5a95c226078ea49c3b5220140d4a3c740",
+    "simhash": "1:3dad24b5dfe1e4cf",
+    "word_count": 52
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. John A. SANTILLI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion for counsel fee is denied.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen., Chief, Appellate Division, for petitioner.",
+      "John F. Cicilline, Providence, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. John A. SANTILLI.\nNo. 79-434-M.P.\nSupreme Court of Rhode Island.\nDec. 20, 1979.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen., Chief, Appellate Division, for petitioner.\nJohn F. Cicilline, Providence, for respondent."
+  },
+  "file_name": "0250-03",
+  "first_page_order": 306,
+  "last_page_order": 306
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485851,
+  "name": "Com. v. R. Keith",
+  "name_abbreviation": "Com. v. Keith",
+  "decision_date": "2016-02-08",
+  "docket_number": "NO. 1868 EDA 2015",
+  "first_page": "588",
+  "last_page": "588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "650b73097cc42115dd9768d0621c4619989175f074e5b93e5ba90517a2ec3ee3",
+    "simhash": "1:34057c9a1abb3981",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Keith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Keith\nNO. 1868 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 08, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0588-08",
+  "first_page_order": 588,
+  "last_page_order": 588
+}

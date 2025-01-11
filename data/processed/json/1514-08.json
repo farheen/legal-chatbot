@@ -1,0 +1,59 @@
+{
+  "id": 6093006,
+  "name": "In re David Bellamy, Jr. et al.",
+  "name_abbreviation": "In re Bellamy",
+  "decision_date": "1968-03-06",
+  "docket_number": "No. 7951",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 84,
+    "ocr_confidence": 0.506,
+    "sha256": "aef50f1eca4012303f7865dfea0933d2d76839140953f4e69a1d2497385aebd1",
+    "simhash": "1:82a6b41569035c72",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David Bellamy, Jr. et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Blood handling equipment.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 6, 1968\nNo. 7951.\nIn re David Bellamy, Jr. et al."
+  },
+  "file_name": "1514-08",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

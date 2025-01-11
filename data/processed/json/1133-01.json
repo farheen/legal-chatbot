@@ -1,0 +1,143 @@
+{
+  "id": 6081430,
+  "name": "In re Schwendt",
+  "name_abbreviation": "In re Schwendt",
+  "decision_date": "1939-04-10",
+  "docket_number": "No. 4098",
+  "first_page": "1133",
+  "last_page": "1136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "26 C.C.P.A. 1133"
+    },
+    {
+      "type": "parallel",
+      "cite": "102 F.2d 851"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "97 F. (2d) 130",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        994484,
+        6081917
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/97/0130-01",
+        "/ccpa/25-2/1143-01"
+      ]
+    },
+    {
+      "cite": "58 F. (2d) 534",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 F. (2d) 569",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1838531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/46/0569-01"
+      ]
+    },
+    {
+      "cite": "114 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11292725
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/114/0001-01"
+      ]
+    },
+    {
+      "cite": "64 F. (2d) 18",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        902770
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/64/0018-01"
+      ]
+    },
+    {
+      "cite": "45 F. (2d) 916",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6553481,
+        1842111
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/18-2/0827-01",
+        "/f2d/45/0916-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 414,
+    "char_count": 7126,
+    "ocr_confidence": 0.425,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17333481604525977
+    },
+    "sha256": "cacf8089bd9b152640447023038d84a6477ad12654a883b5747d0f1bc5474031",
+    "simhash": "1:0d29e19e00a3f66b",
+    "word_count": 1238
+  },
+  "last_updated": "2024-02-27T22:14:37.962341+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "In re Schwendt"
+    ],
+    "opinions": [
+      {
+        "text": "JacksoN, Judge,\ndelivered the opinion of the court:\nThis is an appeal from a decision of the Board of Appeals of the United States Patent Office which affirmed the decision of the examiner (rejecting, on the prior art, all of the claims, 5 in number, of an application for a patent the subject matter of which is disclosed in claim 5 which is illustrative and reads as follows:\n5. The combination of parallel rails, a cross-tie transversely beneath said rails and extending outwardly beyond one of the latter, a switch-box on the top of said cross-tie adjacent the outside of one of said rails beyond which said cross-tie extends and having an opening, a continuous conductor reaching from the other of said rails to said switch-box and arranged proximately parallel a side, of said cross-tie, a terminal of the rail-bond type fixed to the end of said conductor adjacent said rail and connecting with the latter, a terminal fixed to the other end of said conductor and providing a threaded shank which is arranged to project inwardly through said opening, an insulating sleeve .ih said opening and surrounding said shank, a nut screwed on said shank so as to position it irr said opening and means on the end of said shank inside said switch-box for connecting a wire thereto.\nThe references cited are:\nDoan, 1,629,025, May 17, -1927.\nFrench Patent, 661,097, February 26, 1929.\nGaston, 1,982,456, October 31, 1933.\nThe alleged invention relates to\u00a1 a railroad track circuit connection bond in a combination which is set out in the illustrative claim, supra.\nThe patent to Doan relates to a .third rail, electric current feeding system for electric railways and the like. It discloses supporting cross-ties for the rails-and a'third rail which is connected by a cable conductor to a switch-arm in a casing mounted on a pole beside the rails.\nThe patent to Gaston relates to means for making electrical connections in a distribution transformer which is enclosed within a casing. It discloses a conductor which has a connecting shank or bolt on its end, mounted in an insulating bushing in a casing so that connection can be made within the casing by means of a terminal.\nThe French patent relates to an electric connecting means for railroad rails.\nThe examiner rejected all of the claims on the Doan patent -\u00e1ird further held it would be an obvious expedient to substitute the connector disclosed in the Gaston patent for the connection between the cable and the switch-box of the Doan patent.\nThe French patent was cited by tire examiner to show an ordinary type of rail-bond connector.\nThe' Board of Appeals agreed with the grounds stated by the examiner and set out the issue as follows:\nTbe question involved in' this application is whether it was invention to \u25a0employ the terminal disclosed in Gaston for connecting a conductor from a rail to a wire within a switch box, thereby avoiding the necessity of passing the \u25a0conductor through the side of the box in the manner disclosed in Doan.\nA switch-box is , shown in the Doan patent on a pole close to the rails and the switch-box is shown in the application affixed to an \u25a0extended cross-tie. This change in the location ,of the box does not involve invention. The said boxes each has. an opening in .its wall. In tlie application tlie bond cable does not enter tlie box but is connected with a rod terminal which is insulated as it passes through the Avail of the box. In the Doan patent the conducting cable passes through\u201d the irall otthehox aiidis directly connected with the switch-arm terminal within the box. The passing of the cable through tlie Avail in tlie Doan patent differentiates the patent in this respect from the disclosure of the application. The Gaston patent, however, discloses the connecting cable attached to an insulator. terminal. This disclosure of the Gastoii patent meets the disclosure of the application with respect to this type of connection.\nIt is true that the Doan patent relates to an electric current feeding system. This fact, lioAvever, cannot support the contention of appellant that since the Doan patent does not disclose a track circuit signal system it is not a proper reference, for the reason that none of tlie claims herein mention a track circuit signal, system.\n. Appellant further contends that no consideration Avas given by either of the tribunals below to claims 4 and 5 and that the question of invention involved in the said claims is \u201centirely open to this Court, and is iioav to be decided for the first time.\u201d If this contention were true, of course this, court would no.t consider the patenta-bility of claims 4 and 5. In re Schmidt et al., 18 C. C. P. A. (Patents) 821, 45 F. (2d) 916.\nWhile the examiner did not specifically mention claims 4 and 5 in his opinion, neAmtheless, it is quite clear that Mb discussion relates squarely to the subject matter of said claims which is the mounting of the switch-box on the cross-tie. The other three claims make no mention of this feature of the claimed invention.\nTlie Board of Appeals in its decision set out claim 5 as representative of the subject matter involved in the appeal. This, then, was the subject of consideration by the board. Even though, however, the board had made no mention of the subject matter of claims 4 and 5 the fact that it; did not expressly overrule the grounds of rejection applied by the examiner to these two claims would be an affirmation of those grounds of rejection. In re Wagenhorst, 20 C. C. P. A. (Patents) 991, 64 F. (2d) 18.\n\u2022 Assuming it to be true that appellant was the first to have made the structure as disclosed by the appealed claims, we are not able to agree with the argument contained in Ms brief that:\nIn other words, it is possible in the present instance to see distinctly th\u00e1t but one of those skilled in the art involved by this particular invention ever thought to do what is defined by the claims in issue.\nThe crystallization of concept into reality must always have as an indispensable factor the element of invention or discovery under the Constitution and the statute. Thompson et al. v. Boisselier et al., 114 U. S. 1; In re Staude, 18 C. C. P. A. (Patents) 894, 46 F. (2d) 569; In re Burnham, 19 C. C. P. A. (Patents) 723, 58 F. (2d) 534 In re Green, 25 C. C. P. A. (Patents) 1143, 97 F. (2d) 130.\nWe are in agreement with the decision of the board which held! that it does not involve invention to substitute the terminal shown in' the Gaston patent \u00ed\u00f3'r the^Co\u00edmectio\u00edi shown in -the-Tloa-u patent where it had been customary to run the conductor through the side of the container. The modification appears to us to be obvious.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "JacksoN, Judge,"
+      }
+    ],
+    "attorneys": [
+      "John B. Jackson (Edward W. Shepard of counsel) for appellant.",
+      "R. E. Whitehead (Sotvard S. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "102 F. (2d) 851\nIn re Schwendt\n(No. 4098)\nUnited States Court of Customs and Patent Appeals,\nApril 10, 1939\nJohn B. Jackson (Edward W. Shepard of counsel) for appellant.\nR. E. Whitehead (Sotvard S. Miller of counsel) for the Commissioner of Patents.\n[Oral argument March 7, 1939, by Mr. Miller; submitted on brief by appellant.]\nBefore Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+  },
+  "file_name": "1133-01",
+  "first_page_order": 451,
+  "last_page_order": 454
+}

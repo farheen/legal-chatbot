@@ -1,0 +1,59 @@
+{
+  "id": 6082233,
+  "name": "Ex parte John H. Benson",
+  "name_abbreviation": "Ex parte Benson",
+  "decision_date": "1945-04-11",
+  "docket_number": "No. 5148",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 C.C.P.A. 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 83,
+    "ocr_confidence": 0.473,
+    "sha256": "628015a9ead2605c874af490c2e0042ca3e1603768eeb04a6bee386f15630162",
+    "simhash": "1:46009399bf2088ee",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:03:11.359845+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte John H. Benson"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in evaporator unit.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 11, 1945\nEx parte John H. Benson\n(No. 5148)."
+  },
+  "file_name": "1270-06",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

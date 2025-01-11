@@ -1,0 +1,64 @@
+{
+  "id": 7941901,
+  "name": "STATE v. Anthony BENEVIDES",
+  "name_abbreviation": "State v. Benevides",
+  "decision_date": "1980-09-04",
+  "docket_number": "No. 79-180-C.A.",
+  "first_page": "244",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "422 A.2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 298,
+    "ocr_confidence": 0.816,
+    "sha256": "788b629e00b669861ac630500c18a691e457136324f1ce07fc8e6ae8e9fdfaaf",
+    "simhash": "1:f16ebe419b2884bd",
+    "word_count": 46
+  },
+  "last_updated": "2023-07-14T20:32:25.157677+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Anthony BENEVIDES."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to supplement the record is granted.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for plaintiff.",
+      "John A. MacFadyen III, Asst. Public Defender, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Anthony BENEVIDES.\nNo. 79-180-C.A.\nSupreme Court of Rhode Island.\nSept. 4, 1980.\nDennis J. Roberts II, Atty. Gen., for plaintiff.\nJohn A. MacFadyen III, Asst. Public Defender, for defendant."
+  },
+  "file_name": "0244-03",
+  "first_page_order": 292,
+  "last_page_order": 293
+}

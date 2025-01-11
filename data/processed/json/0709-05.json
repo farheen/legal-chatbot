@@ -1,0 +1,58 @@
+{
+  "id": 12501838,
+  "name": "COM. v. DAVIS, B.",
+  "name_abbreviation": "Com. v. Davis",
+  "decision_date": "2018-07-25",
+  "docket_number": "2373 EDA 2017",
+  "first_page": "709",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 709"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "38c3dd5df083c2b57964b366e3c339f92595f90038361f2dff0c9c8254a01441",
+    "simhash": "1:9cf754bbb6a1af4a",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nDAVIS, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nDAVIS, B.\n2373 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 25, 2018\nAffirmed"
+  },
+  "file_name": "0709-05",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

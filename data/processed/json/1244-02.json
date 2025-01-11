@@ -1,0 +1,99 @@
+{
+  "id": 12491673,
+  "name": "Alissa FRIEDMAN v. Edward DOOVEN et al.",
+  "name_abbreviation": "Friedman v. Dooven",
+  "decision_date": "2018-01-03",
+  "docket_number": "",
+  "first_page": "1244",
+  "last_page": "1245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 1244"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 993"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "171 A.3d 117",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        12491107,
+        12491108,
+        12491109
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/171-2/0117-01",
+        "/a3d/171-2/0117-02",
+        "/a3d/171-2/0117-03"
+      ]
+    },
+    {
+      "cite": "176 Conn. App. 901",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491112,
+        12491108,
+        12491109
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/171-2/0118-03",
+        "/a3d/171-2/0117-02",
+        "/a3d/171-2/0117-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 272,
+    "sha256": "6a9c91f034c9a7d257ca0125efbee7ba92ef26af7d401ddc6c006fa8dc742e6c",
+    "simhash": "1:248c0d0492a05f73",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alissa FRIEDMAN\nv.\nEdward DOOVEN et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendants' petition for certification to appeal from the Appellate Court, 176 Conn. App. 901, 171 A.3d 117 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alissa FRIEDMAN\nv.\nEdward DOOVEN et al.\nSupreme Court of Connecticut.\nDecided January 3, 2018\nAnthony J. Muslo, in support of the petition.\nThe defendants' petition for certification to appeal from the Appellate Court, 176 Conn. App. 901, 171 A.3d 117 (2017), is denied."
+  },
+  "file_name": "1244-02",
+  "first_page_order": 1244,
+  "last_page_order": 1245
+}

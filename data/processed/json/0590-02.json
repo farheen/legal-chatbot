@@ -1,0 +1,58 @@
+{
+  "id": 12485876,
+  "name": "Com. v. H. Hill",
+  "name_abbreviation": "Com. v. Hill",
+  "decision_date": "2016-02-10",
+  "docket_number": "NO. 3458 EDA 2014",
+  "first_page": "590",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "5d2c822b2e53148e9416e09cfc73ed3b3d370083622f0d991d4a91df9c60381b",
+    "simhash": "1:8d539c6928ca2b80",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nH. Hill"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nH. Hill\nNO. 3458 EDA 2014\nSuperior Court of Pennsylvania.\nFebruary 10, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0590-02",
+  "first_page_order": 590,
+  "last_page_order": 590
+}

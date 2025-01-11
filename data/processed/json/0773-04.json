@@ -1,0 +1,58 @@
+{
+  "id": 12487253,
+  "name": "Com. v. D. Daniels, Jr.",
+  "name_abbreviation": "Com. v. Daniels",
+  "decision_date": "2016-04-07",
+  "docket_number": "NO. 603 MDA 2015",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 124,
+    "sha256": "256e3c086417a261283d8427d98d3cefe14b5396bd16d79aff70efcc8a928fc6",
+    "simhash": "1:194b6f21c4211d80",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Daniels, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Daniels, Jr.\nNO. 603 MDA 2015\nSuperior Court of Pennsylvania.\nApril 07, 2016\nReversed and Appellant Discharged."
+  },
+  "file_name": "0773-04",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

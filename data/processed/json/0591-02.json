@@ -1,0 +1,58 @@
+{
+  "id": 12485891,
+  "name": "Com. v. J. Harris",
+  "name_abbreviation": "Com. v. Harris",
+  "decision_date": "2016-02-11",
+  "docket_number": "NO. 1686 MDA 2014",
+  "first_page": "591",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "7259909c41c15899a87486d7404ae2c58f646bbd46cec3c86dd195080c1aa39a",
+    "simhash": "1:bd8fce714b2a78c5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Harris"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Harris\nNO. 1686 MDA 2014\nSuperior Court of Pennsylvania.\nFebruary 11, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0591-02",
+  "first_page_order": 591,
+  "last_page_order": 591
+}

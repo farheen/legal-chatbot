@@ -1,0 +1,200 @@
+{
+  "id": 9100004,
+  "name": "John J. ANDALORO and Robert J. Perlsweig, Petitioners v. PFPC WORLDWIDE, INC., a Delaware corporation, Respondent",
+  "name_abbreviation": "Andaloro v. PFPC Worldwide, Inc.",
+  "decision_date": "2003-09-12",
+  "docket_number": "C.A. No. 20289",
+  "first_page": "1232",
+  "last_page": "1235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "830 A.2d 1232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del. Ch.",
+    "id": 9908,
+    "name": "Delaware Court of Chancery"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "737 A.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "parenthetical": "TABLE"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1999 WL 219650",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "*17-18",
+          "parenthetical": "explaining proper scope of \u00a7 225"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 A.2d 81",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1942,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that voting trustee's vote in favor of merger precluded stockholder from seeking appraisal"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1976 WL 1705",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "*5",
+          "parenthetical": "holding that stockholder's submission of blank proxy constituted vote in favor of merger and therefore barred appraisal"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "1988 WL 105754",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1988,
+      "pin_cites": [
+        {
+          "parenthetical": "holding appraisal demand by beneficial holder of stock invalid because demand was not by or on behalf of record holder as required by \u00a7 262"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "576 A.2d 650",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7385788
+      ],
+      "year": 1989,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that stockholder who purchased shares with notice of merger plans was not foreclosed from seeking appraisal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/576/0650-01"
+      ]
+    },
+    {
+      "cite": "457 A.2d 701",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7989484
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/457/0701-01"
+      ]
+    },
+    {
+      "cite": "2001 WL 1526306",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2001,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2003 WL 1878583",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "*3"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "295 A.2d 771",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11254389
+      ],
+      "weight": 4,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "772"
+        },
+        {
+          "page": "772"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/295/0771-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 586,
+    "char_count": 10501,
+    "ocr_confidence": 0.721,
+    "pagerank": {
+      "raw": 5.8591662004228935e-08,
+      "percentile": 0.3671138742065657
+    },
+    "sha256": "2ad53af73dc4247c57f20b3ac250c9703b60fef494adda4bda3f9770add20050",
+    "simhash": "1:3684a436900c7584",
+    "word_count": 1689
+  },
+  "last_updated": "2024-02-27T19:45:10.771061+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John J. ANDALORO and Robert J. Perlsweig, Petitioners v. PFPC WORLDWIDE, INC., a Delaware corporation, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nSTRINE, Vice Chancellor.\nThis is an appraisal action brought by petitioners John J. Amdaloro and Robert J. Perlsweig against respondent PFPC Worldwide, Inc. The petitioners seek appraisal of the value of the shares and options they owned in PFPC before it was merged with an acquisition vehicle of PFPC\u2019s indirect parent, PNC Financial Services Group, Inc., in a short-form merger under 8 Del. C. \u00a7 253 in which PFPC was the surviving entity. Both of the petitioners were PFPC executives before the merger.\nThe issue now before the court is a discrete one that is purely legal in nature: Can the petitioners seek appraisal under \u00a7 262 to receive the \u201cfair value\u201d of the options they were forced to give up in the merger in exchange for certain other consideration? The petitioners argue that the equities demand recognition of such a right. In support of that contention, the petitioners have filed affidavits suggesting that PFPC failed to provide the petitioners with adequate information or otherwise make fair provisions for the petitioners to convert their options into stock before the effective time of the merger, despite the fact that the relevant option agreements provided that the petitioners\u2019 options would vest upon the occurrence of a change of control, including a \u00a7 253 merger. For example, the petitioners have provided evidence to demonstrate that the PFPC board did not undertake a fair valuation process for the options but simply imposed a take-it-or-leave-it value on the petitioners in an offer that required them to waive a host of legal rights.\nWithout contesting in this action that the petitioners might have equitable or contractual claims regarding the treatment of their options, the respondent PFPC has moved for partial summary judgment advancing a simple proposition: \u00a7 262 is a limited statutory remedy that is available only to stockholders. Under the settled authority of Lichtman v. Recognition Equipment, Inc., the right of appraisal is not available to option holders. \u201cIt is limited to stockholders of the merged corporation.\u201d\n1 see no proper basis to deviate from the holding in Lichtman, which tracks the language of \u00a7 262 itself. The statute by its own terms own applies to \u201cshares of stock,\u201d a definition that excludes options.\nNor do the equities require straining the linguistic reach of the statute\u2019s words. In this case, for example, the petitioners have advanced arguments that, if true, might well constitute a breach of the relevant option agreements. In a breach-of-contract action, the petitioners would be free to show that they were deprived of their options (or of their contractual rights of vesting and conversion) in violation of their contractual rights. A fitting remedy for such a breach might well be an award of damages that equals a judicial assessment of the fair value of the options that the petitioners lost. In this sense, the petitioners would have access to what in some equitable corporate cases is referred to as a \u201cquasi-appraisal\u201d award of damages.\nBut, as a predicate to such an award, the petitioners would be required to make an independent showing that is not contemplated within a \u00a7 262 proceeding; namely, a showing that the petitioners suffered a contractual or equitable injury at the hands of the respondent, PFPC. Importantly, that type of case might well involve claims against parties other than the surviving corporation, which is the only proper respondent to a \u00a7 262 action. In fact, the petitioners have brought just this type of action against PFPC and other parties in this court and that action has also been assigned to me for resolution.\nThe reality that the petitioners have to prove a predicate breach of duty (of some kind) before getting to the point where-a damages award would be assessable against PFPC demonstrates that the petitioners\u2019 desire for appraisal of their options cannot be squared with \u00a7 262. Shoehoming their claims into \u00a7 262 would distort the statute\u2019s intended focus as a limited and efficient remedy focused solely on the fair value of stock.\nFor these same reasons, I reject the petitioners\u2019 alternative argument that under principles of equity, their options should be treated as having already been exercised before the merger and converted into \u201cstock,\u201d and that the resulting (hypothetical) \u201cstock\u201d should be included in the appraisal action. It is undisputed that the petitioners did not actually exercise their options before the merger. The petitioners argue, however, that they \u201cwould have\u201d exercised the options before the merger had PFPC provided certain requested information, and that PFPC \u201ctreated\u201d the options as stock in various ways during the transaction. This argument, however, is precisely the kind of breach-of-duty question that has no place in a statutory appraisal, and that must be raised in a separate plenary action. The petitioners cite no relevant authority for the proposition that equitable breach-of-duty claims may be raised in an appraisal proceeding, and I decline to interpret \u00a7 262 to permit consideration of issues unrelated to the appraisal of the fair value of actual stock. To do otherwise would be to dishonor the General Assembly\u2019s determination of the proper scope of a \u00a7 262 action.\nFinally, because the petitioners have the right to and, as noted, have already filed a separate plenary action seeking relief for breach of contract and fiduciary duty in connection with the treatment of their options, other judicial tools exist that can facilitate an efficient resolution of all of their claims. To the extent that the petitioners are able to prove a breach of contract or fiduciary duty, the remedy might well be one in the nature of an appraisal determination. After hearing from the parties to this action and the separate plenary action, the court might also conclude that the actions should be consolidated for many or all purposes. The option to consolidate eliminates any need to distort the \u00a7 262 remedy in the name of equity or efficiency.\nFor all these reasons, therefore, PFPC\u2019s motion for partial summary judgment is granted and the petitioners\u2019 claim for appraisal of their options is dismissed. IT IS SO ORDERED.\n. There are no disputed issues of material fact that impede resolution of this question by summary judgment.\n. 295 A.2d 771 (Del.Ch. 1972). One of the major treatises on Delaware law treats Licht-man as having settled the question of whether options can be appraised under \u00a7 262 by providing an authoritative negative answer. See 2 Rodman Ward, Jr. et al., Folk on the Delaware General Corporation Law \u00a7 262.2.1, at GCL-IX-182 (4th ed. Supp.2002-1).\n. Lichtman, 295 A.2d at 772.\n. 8 Del. C. \u00a7 262(a) (\"[T]he words 'stock' and 'share' mean and include what is ordinarily meant by those words....\u201d). See also id. \u00a7 262(d)(2) (\"[Ajppraisal rights are available for any or all shares of such class or series of stock of [the] constituent corporation....\u201d).\n. The parties have not discussed whether the petitioners believe that the directors of their former corporation owed them fiduciary duties as option holders in connection with the merger. I therefore concentrate on the obvious rights of the petitioners as option holders - their contract rights.\n. See, e.g., Erickson v. Centennial Beauregard Cellular, L.L.C., 2003 WL 1878583, at *3 (Del. Ch. Apr.ll, 2003); Tansey v. Trade Show News Networks, Inc., 2001 WL 1526306, at *7 n. 30 (Del.Ch. Nov.27, 2001); Weinberger v. UOP, Inc., 457 A.2d 701 (Del.1983).\n. See Lichtman, 295 A.2d at 772 (stating that permitting option holders to seek appraisal would inject collateral issues not contemplated by \u00a7 262 into appraisal proceedings).\n. PFPC contends that the petitioners\u2019 surreply brief in opposition to respondent\u2019s motion for partial summary judgment \"conceded\u201d that the petitioners are not entitled to an appraisal of their options. A careful reading of the surreply brief reveals no such concession; the petitioners merely chose to elaborate their alternative argument that the options should be treated as exercised.\n. The petitioners cite various cases in their surreply brief for the proposition that it is necessary in an appraisal proceeding to determine what stock is validly at issue in the appraisal. Without quibbling with that statement, I note that these cases do not support the proposition that equity may require this court to ignore the simple fact that petitioners are seeking appraisal for options, not stock. Indeed, in all of the cases cited by petitioners that involve appraisal proceedings, the petitioners actually held, in some form or another, shares of stock for which appraisal was being sought. See Salomon Bros. Inc. v. Interstate Bakeries Corp., 576 A.2d 650 (Del.Ch. 1989) (holding that stockholder who purchased shares with notice of merger plans was not foreclosed from seeking appraisal); Neal v. Alabama By-Prods. Corp., 1988 WL 105754 (Del.Ch. Oct. 11, 1988) (holding appraisal demand by beneficial holder of stock invalid because demand was not by or on behalf of record holder as required by \u00a7 262); Engel v. Magnavox Co., 1976 WL 1705, at *5 (Del.Ch. Apr. 22, 1976) (holding that stockholder's submission of blank proxy constituted vote in favor of merger and therefore barred appraisal); Scott v. Arden Farms Co., 28 A.2d 81 (Del.Ch. 1942) (holding that voting trustee\u2019s vote in favor of merger precluded stockholder from seeking appraisal). Other of the cases cited by petitioners deal with proceedings under other statutes in which the consideration of equitable claims is necessarily contemplated by the very nature of the statutory right of action, such as 8 Del. C. \u00a7 225, and are therefore irrelevant. See Agranoff v. Miller, 1999 WL 219650, at *17-18 (Del.Ch. Apr. 12, 1999) (explaining proper scope of \u00a7 225), off d & remanded, 737 A.2d 530 (Del. 1999) (TABLE).\n. The parties in the related action are now briefing several motions, including a motion to dismiss and a motion to consolidate.",
+        "type": "majority",
+        "author": "STRINE, Vice Chancellor."
+      }
+    ],
+    "attorneys": [
+      "Cathy L. Reese, Charles Michael Terri-bile, and Paul D. Brown, Greenberg Trau-rig, LLP, Wilmington, Delaware, for Petitioners.",
+      "Robert K. Payson, Kevin R. Shannon, Richard L. Renck, and Erica L. Niezgoda, Potter Anderson & Corroon LLP, Wilmington, Delaware, for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "John J. ANDALORO and Robert J. Perlsweig, Petitioners v. PFPC WORLDWIDE, INC., a Delaware corporation, Respondent.\nC.A. No. 20289.\nCourt of Chancery of Delaware, New Castle County.\nSubmitted: Aug. 29, 2003.\nDecided: Sept. 12, 2003.\nCathy L. Reese, Charles Michael Terri-bile, and Paul D. Brown, Greenberg Trau-rig, LLP, Wilmington, Delaware, for Petitioners.\nRobert K. Payson, Kevin R. Shannon, Richard L. Renck, and Erica L. Niezgoda, Potter Anderson & Corroon LLP, Wilmington, Delaware, for Respondent."
+  },
+  "file_name": "1232-01",
+  "first_page_order": 1280,
+  "last_page_order": 1283
+}

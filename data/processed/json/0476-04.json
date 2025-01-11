@@ -1,0 +1,64 @@
+{
+  "id": 12487738,
+  "name": "Stein v. Pfizer, Inc.",
+  "name_abbreviation": "Stein v. Pfizer, Inc.",
+  "decision_date": "2016-09-29",
+  "docket_number": "Pet. Docket No. 255; Sept. Term, 2016",
+  "first_page": "476",
+  "last_page": "476",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "146 A.3d 476"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "b567775453213d8e270ad012ca58b90e4627982b8746fa9caad04b5f4b646f99",
+    "simhash": "1:24e75237f8fcc491",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.000917+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stein\nv.\nPfizer, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stein\nv.\nPfizer, Inc.\nPet. Docket No. 255\nSept. Term, 2016\nCourt of Appeals of Maryland.\nSept. 29, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0476-04",
+  "first_page_order": 476,
+  "last_page_order": 476
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486643,
+  "name": "Com. v. M. Draper",
+  "name_abbreviation": "Com. v. Draper",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 3019 EDA 2014",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 151,
+    "sha256": "a1d650ab43f7a2fac5408dddcd81dd1609d195164fcc5143411704749e747675",
+    "simhash": "1:09466e0c968099d4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Draper"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Draper\nNO. 3019 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed.\n15 Petition for reargument denied May 18, 2016.\n--------"
+  },
+  "file_name": "0202-04",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

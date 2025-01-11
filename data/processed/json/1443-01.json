@@ -1,0 +1,965 @@
+{
+  "id": 6085115,
+  "name": "In re William C. Anthony",
+  "name_abbreviation": "In re Anthony",
+  "decision_date": "1969-09-11",
+  "docket_number": "No. 8166",
+  "first_page": "1443",
+  "last_page": "1463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "56 C.C.P.A. 1443"
+    },
+    {
+      "type": "parallel",
+      "cite": "162 U.S.P.Q. 594"
+    },
+    {
+      "type": "parallel",
+      "cite": "414 F.2d 1383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "193 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3629721,
+        3629732,
+        3630220
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/193/0668-02",
+        "/us/193/0668-03",
+        "/us/193/0668-01"
+      ]
+    },
+    {
+      "cite": "120 F. 274",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3821102
+      ],
+      "year": 1903,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/120/0274-01"
+      ]
+    },
+    {
+      "cite": "66 USPQ 346",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1945,
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 F. 2d 946",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3667192
+      ],
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/150/0946-01"
+      ]
+    },
+    {
+      "cite": "343 F. 2d 965",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        872250,
+        12165162
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "978"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/343/0965-01",
+        "/ccpa/52-2/1238-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1238",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165162
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "1255"
+        },
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1238-01"
+      ]
+    },
+    {
+      "cite": "383 U. S. 519",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172438
+      ],
+      "pin_cites": [
+        {
+          "page": "533"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0519-01"
+      ]
+    },
+    {
+      "cite": "86 U.S. 287",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3433453
+      ],
+      "year": 1873,
+      "pin_cites": [
+        {
+          "page": "396-7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/86/0287-01"
+      ]
+    },
+    {
+      "cite": "220 P. 669",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1915,
+      "pin_cites": [
+        {
+          "parenthetical": "windshield for automobile \"dangerous,\" not \"useful\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "311 F. 2d 249",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6078330,
+        190004
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0780-01",
+        "/f2d/311/0249-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 780",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078330
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0780-01"
+      ]
+    },
+    {
+      "cite": "153 USPQ 838",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 F. Supp. 630",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        2673028
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/269/0630-01"
+      ]
+    },
+    {
+      "cite": "53 USPQ 92",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 F. 2d 847",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3557896,
+        1081619
+      ],
+      "year": 1942,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/126/0847-01"
+      ]
+    },
+    {
+      "cite": "75 App. D. C. 313",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1942,
+      "opinion_index": 0
+    },
+    {
+      "cite": "292 F.2d 943",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081994,
+        212243
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/1125-01",
+        "/f2d/292/0943-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 1125",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081994
+      ],
+      "weight": 2,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/1125-01"
+      ]
+    },
+    {
+      "cite": "292 F.2d 948",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081971,
+        212340
+      ],
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/1116-01",
+        "/f2d/292/0948-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 1116",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081971
+      ],
+      "weight": 2,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/1116-01"
+      ]
+    },
+    {
+      "cite": "318 F. 2d 946",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        161844,
+        6082181
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/318/0946-01",
+        "/ccpa/50-2/1355-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1355",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082181
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1355-01"
+      ]
+    },
+    {
+      "cite": "153 USPQ 48",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1967,
+      "opinion_index": 0
+    },
+    {
+      "cite": "376 F. 2d 936",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2031565
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/376/0936-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 1119",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086367
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/1119-01"
+      ]
+    },
+    {
+      "cite": "354 F. 2d 664",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6085736,
+        845423
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/0830-01",
+        "/f2d/354/0664-01"
+      ]
+    },
+    {
+      "cite": "53 CCPA 830",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6085736
+      ],
+      "weight": 2,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/0830-01"
+      ]
+    },
+    {
+      "cite": "411 F. 2d. 1333",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2191700,
+        6085110
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/411/1333-01",
+        "/ccpa/56-2/1438-01"
+      ]
+    },
+    {
+      "cite": "56 CCPA 1438",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6085110
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/56-2/1438-01"
+      ]
+    },
+    {
+      "cite": "377 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2028874,
+        6086741
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/377/0610-01",
+        "/ccpa/54-2/1315-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 1315",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086741
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/1315-01"
+      ]
+    },
+    {
+      "cite": "370 F. 2d 927",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2050010,
+        6086091
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/370/0927-01",
+        "/ccpa/54-2/0957-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 957",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086091
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/0957-01"
+      ]
+    },
+    {
+      "cite": "275 F. 2d 952",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1953744,
+        6079231
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/275/0952-01",
+        "/ccpa/47-2/0839-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 839",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079231
+      ],
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/0839-01"
+      ]
+    },
+    {
+      "cite": "147 USPQ 87",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "247 F. Supp. 51",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        409142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/247/0051-01"
+      ]
+    },
+    {
+      "cite": "342 F.2d 92",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164597,
+        874847
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1048-01",
+        "/f2d/342/0092-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1048",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164597
+      ],
+      "weight": 2,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1048-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 536",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 USPQ 478",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1939,
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 F.2d 378",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081571,
+        1064431
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/26-2/1153-01",
+        "/f2d/103/0378-01"
+      ]
+    },
+    {
+      "cite": "26 CCPA 1153",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081571
+      ],
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/26-2/1153-01"
+      ]
+    },
+    {
+      "cite": "49 USPQ 274",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 F. 2d 911",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6080525,
+        472727
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/28-2/1039-01",
+        "/f2d/118/0911-01"
+      ]
+    },
+    {
+      "cite": "28 CCPA 1039",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080525
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/28-2/1039-01"
+      ]
+    },
+    {
+      "cite": "215 F.2d 457",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        533778,
+        6077388
+      ],
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/215/0457-01",
+        "/ccpa/42-2/0732-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 732",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077388
+      ],
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0732-01"
+      ]
+    },
+    {
+      "cite": "305 F.2d 486",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        251200,
+        6077427
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/305/0486-01",
+        "/ccpa/50-2/0715-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 715",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077427
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0715-01"
+      ]
+    },
+    {
+      "cite": "36 App. D.C. 181",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1364204
+      ],
+      "year": 1911,
+      "pin_cites": [
+        {
+          "page": "184-5"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/36/0181-01"
+      ]
+    },
+    {
+      "cite": "126 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3529883
+      ],
+      "year": 1887,
+      "pin_cites": [
+        {
+          "page": "535"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/126/0001-01"
+      ]
+    },
+    {
+      "cite": "257 U.S. 27",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3678489
+      ],
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/257/0027-01"
+      ]
+    },
+    {
+      "cite": "115 USPQ 408",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 USPQ 255",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "199 F. Supp. 51",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        32365
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/199/0051-01"
+      ]
+    },
+    {
+      "cite": "306 F. 2d 924",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        256747,
+        12166094
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/306/0924-01",
+        "/ccpa/49-2/1283-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1283",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166094
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1283-01"
+      ]
+    },
+    {
+      "cite": "325 F. 2d 248",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        108947,
+        6091845
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/325/0248-01",
+        "/ccpa/51-2/0852-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 852",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091845
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0852-01"
+      ]
+    },
+    {
+      "cite": "52 Stat. 1052",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "397 F.2d 356",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2145954
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/397/0356-01"
+      ]
+    },
+    {
+      "cite": "55 CCPA 1356",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092556
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/55-2/1356-01"
+      ]
+    },
+    {
+      "cite": "276 F.2d 656",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1951753,
+        6079554
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/276/0656-01",
+        "/ccpa/47-2/0859-01"
+      ]
+    },
+    {
+      "cite": "47 CCPA 859",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079554
+      ],
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/47-2/0859-01"
+      ]
+    },
+    {
+      "cite": "341 F. 2d 121",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        878539,
+        12164812
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/341/0121-01",
+        "/ccpa/52-2/1135-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1135",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164812
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1965"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1135-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2087,
+    "char_count": 57848,
+    "ocr_confidence": 0.439,
+    "pagerank": {
+      "raw": 3.5032203181942273e-07,
+      "percentile": 0.8829001227484691
+    },
+    "sha256": "8d97394bd47ea9cefd7800dd5182a483ad96d5fb8436a8fc3650a79d51349b80",
+    "simhash": "1:a72e708403c4651d",
+    "word_count": 9422
+  },
+  "last_updated": "2024-02-27T17:53:42.421708+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, Holtzoff and McLaughlin, Judges, sitting by designation, Almond and Baldwin, Associate Judges."
+    ],
+    "parties": [
+      "In re William C. Anthony"
+    ],
+    "opinions": [
+      {
+        "text": "Baldwin, Judge,\ndelivered the opinion of the court:\nThis appeal is from a decision of the Patent Office Board of Appeals affirming the examiner\u2019s rejections of claims 1-12 \u201cfor lack of utility under 35 U.S.C. 101\u201d and of claims 1-6, 11, and 12 as obvious under 35 USC 103 in view of certain prior art.\nThe invention relates to particular chemical compounds, the d- and 1-isomers of a-ethyltryptamine (hereafter denoted by its generic name, etryptamine); therapeutic compositions containing certain amounts of one of the two pure isomers or their racemic mixture in combination with a pharmaceutical carrier; and methods of using those compositions in treating mental depression in humans. Claims 1 and 7 are representative:\n1. A therapeutic composition comprising: as the primary active ingredient, from about 5 to about 300 mg. of a compound selected from the group consisting of a-ethyltryptamine and physiologically acceptable acid addition salts thereof, dispersed in a pharmaceutical carrier.\n7. A method for treating mental depression which comprises: administering, in unit dosage form, a composition containing from about 5 to about 300 mg. of a compound selected from the group consisting of a-ethyltrypta-mine and the physiologically acceptable acid addition salts thereof, dispersed in a pharmaceutical carrier to a depressed subject.\nInasmuch as the issues are quite diverse, we shall treat them separately.\nThe Section 103 Rejection\nThe references are:\nBritish specification (Young), 807,876, January 21, 1959.\nSnyder, J. Am. Chem. Soc., Vol. 69, pages 3140-3142 (1947).\nKarrer, Organic Chemistry, 2nd Ed., pages 92-102 (1946).\nAppellant has acknowledged, both below and here, that Young and Snyder each disclose the racemic mixture of etryptamine per se to be known to the art. Young, for example, discloses a process for preparing various indoles including, inter alia, 3-beta-aminobutyl-indole, another name for etryptamine. The indole compounds in general are said to be useful \u201cas pharmaceutical products and also as intermediates in the manufacture of compounds of pharmacological utility, particularly of 5-hydroxytryptamine.\u201d Snyder, on the other hand, discloses techniques for the preparation of various derivatives of tryptamine including, among other things, the acetate of etryptamine. The various derivatives of tryptamine disclosed by Snyder are said to be \u201cof interest * * * because of the physiological activity of the parent base.\u201d\nThe examiner rejected claims 1-6, 11 and 12 as obvious in view of either Young or Snyder alone or considered with Karrer. In the examiner\u2019s view, Young and Snyder state that etryptamine is \u201cuseful as a pharmaceutical product\u201d and that the acetates of etrypta-mine are of interest \u201cbecause of their physiological activity.\u201d Under those circumstances, it would be a routine matter, the examiner thought, for one of ordinary skill in the art to prepare therapeutic compositions containing a pharmaceutical carrier and the racemic mixture of etryptamine or, in light of Karrer\u2019s discussion of separating optical isomers of a racemic mixture, to isolate the individual isomers and prepare therapeutic compositions containing them. The board agreed.\nWith respect to claims 11 and 12, directed to the d- and 1-isomers of etryptamine fer se, appellant acknowledges here that those claims are unpatentable on the record since \u201cunder existing law a stereo-isomer is not patentable over its known racemic mixture unless it possesses unexpected properties not possessed by the racemic mixture.\u201d He asks this court to remand the case to the Patent Office for consideration of new evidence in the form of an affidavit of one Stucki, filed after the board\u2019s decision, which appellant apparently believes now shows that the d- and 1- isomers have different, perhaps unexpected, properties. The board refused to consider the affidavit because, in its view, appellant had neither proceeded in accordance with the governing Pules of Practice of the Patent Office nor timely filed that document. We agree with the board\u2019s stated reasons for refusing to consider the affidavit, and appellant does not ask us to consider it in the first instance here. Cf. In re Pantzer, 52 CCPA 1135, 341 F. 2d 121, 144 USPQ 415 1965). Inasmuch as appellant seemingly was aware of the necessity for such evidence early in the prosecution, and the affidavit does not appear to be in response to any new ground of rejection under \u00a7103 advanced for the first time by the board, appellant\u2019s request for remand is denied, although he perhaps is not without further recourse. The rejection of claims 11 and 12 under \u00a7103 is affirmed.\nInsofar as the rejection of claims 1-6 is concerned, appellant argues that the two prior art references employed by the Patent Office do not suggest any general or specific therapeutic use for any specific compound, and are so vague as not to provide any meaningful teaching by 'which the claimed compositions are rendered obvious to one of ordinary skill in the art. The board\u2019s reliance on In re Rosicky, 47 CCPA 859, 276 F.2d 656, 125 USPQ 341 (1960) in support of its position is misplaced, appellant says, because there composition claims similar in form to those here were held unpatentable over a group of prior art compounds, including the active ingredients of the claims, which, in contrast to the present case, were disclosed to have the very same specific pharmaceutical utility as did the active compounds of the claimed compositions. It was in those circumstances the court held that the mere formulation of pharmaceutical compositions containing certain amounts of the active ingredients of the prior art and a pharmaceutical carrier would be obvious to one of ordinary skill in the art.\nWe agree with appellant. Snyder\u2019s disclosure that the \u201cderivatives\u201d of tryptamine are merely \u201cof interest\u201d because \u201cof the physiological activity of the parent base\u201d is not indication at all that etryp-tamine itself necessaarily has some nebulous \u201cphysiological activity\u201d of the parent base (tryptamine) in fact, much less what specific activity that would be. Similarly, Young\u2019s disclosure that many widely divergent indoles which can be prepared by his process are useful as \u201cpharmaceutical products\u201d is no clear suggestion that etryp-tamine itself necessarily has such utility, whatever that may be. In our view, absent a disclosure by Young or Snyder of specific therapeutic or pharmaceutical uses for etryptamine, the addition of a pharmaceutical carrier to that compound and the determination of suitable unit dosage forms is not obvious. We do not think it is reasonable to assume, as the Patent Office seemingly has, that researchers would as a matter of course incorporate chemical compounds in specific amounts into pharmaceutically acceptable carriers and dosage unit forms unless they had some reasonably specific pharmaceutical use in mind. The recitation in the claims of certain amounts of active ingredient in combination with the carrier provides some further measure of distinction over the art, inasmuch as the references do not suggest the use of any particular amounts of etryptamine. Cf. In re Wiggins, 55 CCPA 1356, 397 F.2d 356, 158 USPQ 199 (1968).\nThe rejection of claims 1-6 under \u00a7 103 is reserved.\nThe Section 101 Rejection\nThis issue \u2014 which relates in general to the safety and concomitant usefulness of appellant\u2019s compositions and process in treatment of mental depression in humans \u2014 appears to be one of first impression. The following background information will facilitate an understanding of our resolution of that issue.\nAppellant\u2019s present specification sets forth the usefulness of his compositions as follows:\nIn extensive clinical studies on compositions containing a representative a-ethyltryptamine salt, botli its clinical effectiveness and, safety Rave been demonstrated in the treatment of mental depressions of the endogenous, organic, involutional and reactive types, as well as in undefined psychosomatic disorders characterized by a depressive phase. Significant success has also been obtained in treating angina pectoris, rheumatoid arthritis and other conditions. []\nIn the clinical investigations conducted with a-ethyltryptamine acetate no evidence of liver toxicity has been observed, in contradistinction to experience with certain of the hydrazine compounds. An extremely low incidence of agranulocytosis has been associated loith its use, hut investigators have reported its safety generally to he one of its outstanding characteristics. Of particular importance clinically is the rapid reversibility of activity, effects being dissipated in 24-4S hours after cessation of therapy. This factor, coupled with the early onset of the desired psychic energization or mood enhancement which follows initiation of therapy, provides a high degree of positive control. Following is a summary of results obtained in the treatment of some of the clinical conditions in which the present compositions have proved significantly effective:\n[Emphasis supplied.]\nAs corroborating evidence of the assertions of usefulness in his 1960 parent application, appellant submitted the affidavit of a Dr. Anglin on February 14, 1961, apparently in an attempt to convince the examiner that his compositions and method were \u201cuseful\u201d in compliance with 35 USC 101. Anglin discussed the clinical experience of various investigators in 1960 and 1961 with \u201cMonase,\u201d a form of the compositions claimed by appellant. At that time, Anglin averred in pertinent part (all emphasis supplied) :\nThe term \u201cMonase\u201d refers herein to tablet compositions containing 3, 5, 10, 15 or 25 mg. of a-ethyltryptamine acetate (generic designation, etrypta-mine acetate).\nBecause of the properties recognized in Monase based on laboratory studies the participants in the clinical evaluation program were selected to include psychiatrists, internists, dermatologists, pediatricians and general practitioners in order that the actions of Monase could be observed from various viewpoints and in a number of psychological and clinical entities.\nA number of studies were conducted on Monase in which control groups on placebo medication were observed concomitantly in order that the results attributable to Monase could be isolated from environmental or suggestive factors.\nPrior to September 12, 1960, 72 independent clinical investigators (all being physicians and none being in the employ of The Upjohn Company) have submitted reports to me concerning their experiences in treating a total of 1112 \u2018patients with Monase.\nHuman tolerance studies were conducted by 3 clinical investigators on a total of 60 human volunteers for periods up to three months, said volunteers being given daily amounts up to 300 mg. (ten-day periods at this dose without serious side effects in any subject and without awy side effects necessitating withdrawal of any subjects from the studies. [Paren, unclosed.]\n[There follow the favorable comments of the latter 3 investigators with respect to their experience with \u201cMonase.\u201d]\nResults of the use of Monase in therapy as reported to me by the participating clinical investigators are accurately summarized as of September 12, 1960 in the following table:\n[The remainder of the table reports results in treating conditions not now relied on, fn. 6, supra.1\n*******\nA total of 112 side effects were reported in the treatment of 1172 cases with Monase, an incidence of approximately 9.5%, such, side effects 'being nonserious in nature and including only 11 cases of blood pressure alteration (of which 9 were mild orthostatic hypotension and 2 were hypertension), with no evidence of liver toxicity. [There follow excerpts from reports accompanying the clinical data summarized above and received by Dr. Anglin from some of the 72 investigators participating in the clinical evaluation of \u201cMonase.\u201d The investigators, in general, commented favorably on both the effectivenes of \u201cMonase\u201d against depression in patients and the minimal side-effect rate.]\nAnglin continued:\nThe number of patients who are now [February 1961] receiving or have received Monase for therapeutic purposes is approximately 5000.\nSubsequent to the compilation of data summarized in the table above, I have received numerous additional reports of extensions of already reported studies and other studies previously unreported, there being no substantial change in the indicated effectiveness of Monase in the clinical categories of the said foregoing table or in the incidence or severity of side effects herein-before noted. [Emphasis supplied.]\n[There follow excerpts from clinical reports received subsequent to the compilation of data summarized in the table above, again reporting favorably as to effectiveness and low incidence of side effects with use of \u201cMonase.\u201d]\nAnglin concluded as of February 1961:\nIt is my opinion, based on the hereinbefore stated facts and on discussions with clinical investigators participating in the evaluation program, that Monase is a safe and effective agent for the clinical treatment of a variety of depressive states \u215c \u215c \u215c. (Emphasis supplied)\nSubsequently, it appears the examiner withdrew his rejection of the claims for lack of usefulness under 85 USC 101. Sometime in the middle of 1961, the Upjohn Company, appellant\u2019s assignee, received approval from the Food and Drug Administration (FDA) of its New Drug Application to introduce \u201cMonase\u201d on prescription as a safe anti-depressant drug, and its application became \u201ceffective.\u201d Presumably, Upjohn had complied with 21 USC 355(a), (b), and (d) (1958) then in effect, and had satisfied the FDA, inter alia, that sufficiently full reports of investigations had been submitted to establish that the drug was safe for use under the conditions prescribed or suggested in the proposed labeling thereof. Some nine months after the introduction of \u201cMonase,\u201d Upjohn reported to the FDA its suspicions that \u201cMonase\u201d may have been implicated in a small number of cases of agranulocytosis found among many thousands of patients who had been receiving it, and requested suspension of its then effective New Drug Application covering \u201cMonase\u201d pending evaluation of the problem. The FDA, per a \u201cSuspension Order\u201d signed by the Commissioner of Food and Drugs, ordered suspension of Upjohn\u2019s New Drug Application, effective April 9, 1962, in language sufficiently important to merit quotation in full:\nThe Upjohn Company, Kalamazoo, Michigan, the applicant for and the holder of effective New Drug Application No. 12-632 applying to Coated Compressed Tablets \u201cMonase,\u201d having requested the suspension of the effectiveness of said application, on the ground that clinical ewperience shows that the drug is unsafe for use under the conditions of use upon the basis of which the said application became effective, and thereby having waived Notice of Hearing as provided by Section 505(e) of the Federal Food, Drug, and Cosmetic Act, prior to such suspension;\nThe Commissioner of Food and Drugs, by virtue of the authority vested in the Secretary by the provisions of the Federal Food, Drug, and Cosmetic Act [Section 505(c) ; 52 Stat. 1052; 21 U.S.C. 355(c)] and delegated to the Commissioner by the Secretary (20 FR 1996) finds that clinical experience shows that Coated Compressed Tablets \u201cMonase,\u201d are unsafe for use under the conditions of use upon the basis of which the application became effective;\nWherefore, on the foregoing finding of fact and the request of the applicant, the effectiveness of New Drug Application No. 12-632 applying to Coated Compressed Tablets \u201cMonase,\u201d is suspended, effective April 9th, 1962. [Emphasis supplied.]\nAs a consequence of that order, Upjohn removed \u201cMonase\u201d from the prescription drug market and, insofar as we are informed, it has remained off the market to the present time.\nFaced with that set of facts, the examiner reinstated his rejection of appellant\u2019s claims for lack of usefulness under 35 USC 101. He did not challenge appellant\u2019s proofs as to the \u201ceffectiveness\u201d or \u201coperativeness\u201d of the claimed compositions for treating mental depression, but did hold that appellant had failed to prove the compositions are \u201csafe in treating human beings.\u201d As evidence of that, the examiner placed in the record newspaper articles from the March 21, 1962 edition of the New York Times and the April 16, 1962 edition of The Washington Daily News, reporting withdrawal of \u201cMonase\u201d from the market and reasons therefor.\nAppellant then submitted the second affidavit (1965) of Dr. Anglin, heretofore mentioned. Anglin averred:\nIn my opinion, Monase can still be classified medically as a safe and effective drug.\nIt is true that there has been a serious toxic reaction associated with the use of this drug since the date of my original affidavit, namely agranulo-cytosis. However, in all such oases reporte\u00e9 to or Jcnoton by The TJpjoJm Company (twelve in number, or an estimated probability rate of one case out of each 35,000 patients who used the drug), Monase was not the only drug employed in the treatment, nor were the patients suffering only from a depressed state. It is not at all certain that Monase alone was the causative agent for this reaction.\nThere has been some research done to determine whether Monase can cause this reaction, and although the work is not yet complete enough to exonerate Monase, the results thus far are negative.\nIt is also true that the drug has been withdrawn from the market as a direct result of this reported reaction. However, the issues involved in withdrawal naturally transcend the simple virtue and hazard of the drug itself. Likewise, the attitude of the Pood and Drug Administration with respect to marketing the drug is relative to such facts as the manner and the purpose for which the drug is marketed. Por example, the attitude could he different if the drug were recommended only for severe depressions and suitable warnings were used to alert the medical profession of the possibility of agranulocytosis. [Emphasis supplied.]\nIn fact, a physician, properly informed about the properties of a drug and the probability of harm which may result from its use, must always weigh the probability that a given patient will be benefited by its use against the probability that he will be harmed.\nThere is some danger in the use of all potent drugs and agranulocytosis is one type of serious disorder that has been associated with the use of several currently marketed drugs, including Tofranil, one of the most widely used anti-depressants. The following statement has appeared in the package insert accompanying this product:\nBone marrow depression, including agranulocytosis has been associated with the use of the drug in rare instances. Leukocyte and differential counts should be performed in any patient who develops fever and sore throat during therapy, and the drug should be discontinued if there is evidence of pathological neutrophil depression.\nA similar course of action could be followed in the case of Monase and in my own opinion, as well as that of many of my colleagues, would be sufficient to enable a practicing physician to use Monase safely and effectively in many depressed patients. * * *\n\u215d sje \u215c \u215c \u215c \u215c \u215c\nThus, Monase has proven extremely useful in clinical practice and would be used if it were available today. Like many of my colleagues in medical practice, I realize that depression is also a serious disease and can be fatal, and that none of the other available methods of therapy are without their own form of hazard.\nThe examiner was not convinced of the safety, and hence the legal \u201cusefulness,\u201d of the claimed compositions and of \u201cMonase\u201d in particular. In his Answer he stated:\nAll the claims stand rejected as failing to comply with 35 U.S.C. 101, applicant having failed to establish the claimed material is safe in treating human beings. The record is replete (New York Times, Washington Daily News, Am. J. of Psychiatry) with data that clearly demonstrates \u201cMonase\u201d is not safe for its alleged use. Accordingly, it lacks the utility required by 35 U.S.C. 101. [Citing In re Citron, 51 CCPA 852, 325 F. 2d 248, 139 USPQ 516; In re Novak, 49 CCPA 1283, 306 F. 2d 924, 134 USPQ 335; Commonwealth Engineering Co. v. Ladd, 199 F. Supp. 51, 131 USPQ 255 and Isenstead v. Watson, 157 E. Supp. 7, 115 USPQ 408.]\nUtility within the meaning of 35 U.S.C. 103 [sic, \u00a7101 intended] requires that a therapeutic be both safe and effective for its intended use. * * * Appellant has submitted the affidavit of Dr. Anglin, which is conclusionary in nature, * * * in support of the alleged utilities of anti-depressant treatment \u215c * \u215c. These documents seek to establish the effectiveness of Monase, but are not sufficient to establish the safety of this compound. The affidavit of Dr. Anglin even recognizes \u201cthat there has been a serious toxic reaction associated with the use of this drug . . ., namely agranulocytosis.\u201d * * * There is no evidence of record to date to show that Monase alone is free from the above toxic effect. It is the Examiner\u2019s position that where a drug, which has a recognized toxic reaction associated with its use coupled with the fact that the nation\u2019s safeguarding agent, the Food and Drug Administration, has banned such drug from the market as being unsafe and to date has not lifted such ban; that such drug is not safe for use within the meaning of 35 U.S.C. 101.\nWe note that \u00a7101 says nothing about safety. Further, it is not clear to us what evidence would have convinced the examiner that the claimed subject matter was \u201cuseful,\u201d which is the statutory requirement, save reapproval by the FDA of Upjohn\u2019s New Drug Application covering \u201cMonase\u201d for the commercial market as a commercially useful drug and/or evidence that \u201cMonase\u201d does not possess the side effect of agranulocytosis at all, viz. is absolutely safe.\nThe board appears to have retreated somewhat from the doctrinaire approach taken by the examiner, although in end result the effect was the same, and added some new concepts of its own. It said:\nAppellant has responded to the preceding rejection by pointing out that the incidence of agranulocytosis is very small, i.e., the drug is useful in most cases and that various drugs on the market have the same adverse side effect. Such drugs, however, are sold only with restrictive labeling carrying warnings of the side effect. Appellant speculates the \u201cMonase\u201d might also be released with recommendations for use only in severe depressions and with suitable warnings of possible agranulocytosis. Up to the present time no attempt appears to have been made by appellant or his assignee to obtain approval, with such restrictions, from the Commissioner of Food and Drugs consequently this argument cannot be taken seriously considering that some 4\u00bd years have elapsed since the original order of suspension. Nor has appellant brought the record up to date as to what additional serious side effects and fatalities have been observed since the banning order. The statement in the specification, page 2, with reference to \u201cMonase\u201d that an \u201cextremely low incidence of agranulocytosis has been associated with its use, but investigators have reported its safety generally to be one of its outstanding characteristics\u201d is hardly in accord with the present state of facts and cannot be reconciled with assignee\u2019s voluntary withdrawal of the drug as \u201cunsafe for use\u201d (see Suspension Order supra).\nWhile approval by the Commissioner of Food and Drugs is not a prerequisite for the patenting of a new drug, the Commissioner of Patents is by statute (21 USC 372, Sect. 702(d) as amended 1962) on a consulting basis with the Secretary of Health, Education and Welfare in respect to questions that may arise in patent applications on drugs. Since the Secretary through the Commissioner of Food and Drugs has ruled \u201cMonase\u201d to be unsafe and as of today still considers the drug unsafe this finding should not be lightly regarded by the Patent Office. It is true that many useful drugs exhibit toxicity or produce a certain incidence of side effects, including agranulo-cytosis. This alone would not provide a basis for refusal of a patent on such a drug as without utility within the meaning of 35 U.S.C. 101. However, on the basis of the record before us, we feel compelled to sustain the rejection of all claims under this section. This is because of assignee\u2019s own admission of unsafeness of the drug as demonstrated in the cited Suspension Order, his failure to bring the record up-to-date on the incidence of toxicity (agran-ulocytosis), and his failure during the past 4\u00bd years to take any action with respect to securing withdrawal of the Suspension Order by his postulated warning labels and restriction as to use. All of this seems to add up to an abandonment of \u201cMonase\u201d as a useful drug.\nIn a request for reconsideration under Rule 197 (b), appellant took issue with the board\u2019s statement that the record was not up-to-date on the incidence of toxicity, pointing out that Dr. Anglin\u2019s second affidavit had been filed in November 1965, but 19 days prior to filing of appeal to the board, and that the evidence \u201cwas as up-to-date as it could reasonably be expected to be under the Patent Office Rules of Practice.\u201d The board responded:\nWe heard this case September 15, 1966. Obviously the record is not up-to-date insofar as this tribunal is concerned. The reporting of adverse reactions in cases of this kind is a continuing responsibility. It is not improbable that other detrimental effects, besides agranulo-cytosis, may by now have been revealed. In any case the record is devoid of any report on the results of the additional research undertaken to \u201cdetermine whether Monase can cause this reaction\u201d (page 9 of the above Anglin affidavit).\nWe have quoted extensively from those portions of the opinions of the examiner and board which are directed to appellant\u2019s efforts to establish the usefulness of his compositions and process. We now set forth our reasons for concluding that the board erred in failing to hold that the claimed subject matter is \u201cuseful\u201d within the meaning of that term in 35 USO 101.\nAlthough the patent statutes do not establish \u201csafety\u201d as a criterion for patentability of any of the statutory classes of patentable subject matter mentioned in \u00a7101, yet it is undoubtedly true, as demonstrated by some of the cases cited by the examiner, that the Patent Office and the courts over the years have considered \u201csafety\u201d as an aspect of the broader question of whether certain inventions \u2014\u25a0 pharmaceuticals in particular \u2014 are \u201cuseful\u201d within the meaning of \u00a7101 and its predecessors. No one, we suppose, would seriously maintain that, as a matter of policy, a composition unsafe for use by reason of extreme toxicity to the point of immediate death under all conditions of its sole contemplated use in treating disease of the human organism would nevertheless be useful within the meaning of the patent laws.\nBut at the same time it must be recognized that \u201csafety\u201d is a relative matter, and that absolute proof of complete safety is realistically impossible. As this court pointed out in In re Hartop, supra note 9:\nWith regard to the \u215c \u215c \u215c nature of \u201csafety\u201d in the field of drugs and medicaments, we take judicial notice that many valued therapeutic substances or materials with desirable physiological properties, when administered to lower animals or humans, entail certain risks or may have undesirable side effects. True it is that such substances would be more useful if they were not dangerous or did not have undesirable side effects, but the fact remains that they are useful, useful to doctors, veterinarians and research workers, useful to patients, both human and lower animal, and so are useful within the meaning of 35 U.S.C. 101. The use of drugs in medicine is frequently a matter of balancing risks to save a life.\nAnd Congress has given the responsibility to the FDA, not to the Patent Office, to determine in the first instance whether drugs are sufficiently safe for use that they can be introduced in the commercial market, under the conditions prescribed, recommended, or suggested in the proposed labeling thereof, as the majority of this court also noted in Hartop:\nHowever, regardless of the issuance of the patent under the circumstances of the case at bar, there is no question but that the public must be protected absolutely against the advertising and sale and other distribution of harmful drugs, medicines and the like in all situations, including this one if such be tbe ease. We believe that Congress bas recognized this problem and has clearly expressed its intent to give statutory authority and responsibility in this area to Federal agencies different than that given to the Patent Office. This is so because the standards established by statute for the advertisement, use, sale or distribution of drugs are quite different than the requirements under the Patent Act for the issuance of a patent. For example, the Federal Trade Commission has been given the responsibility of enforcing the Wheeler-Lea amendments to the Federal Trade Commission Act. Also, the Food and Drug Administration has been given the responsibility of enforcing the Federal Food, Drug, and Cosmetic Act.\nThe board, if not the examiner, seems to have been at least implicitly cognizant of the applicability of some of those principles to the factual situation here. For example, the board recognized, correctly we think, that approval by the FDA \u201cis not a prerequisite\u201d for the patenting of a new drug (and whether the drug here is \u201cuseful\u201d is the only prerequisite to patentability with which we are here concerned) . To put it another way, the FDA need not necessarily determine that a drug is commercially useful or usable before it may be \u201cuseful\u201d in the patent law sense. The board also correctly recognized that the fact that many \u201cuseful\u201d drugs exhibit some degree of toxicity or side effects \u201cwould not provide a basis for refusal of a patent on such drugs as without utility\u201d under \u00a7101. The presence of a certain degree of danger or risk attendant on the use of a drug does not necessarily mean that the subject matter is not useful within the meaning of the patent law because of that danger or risk.\nYet the reasons advanced by the board in support of its refusal to find that appellant\u2019s compositions and process are useful within the meaning of \u00a7101 seem to us to be basically at odds with its reasoning expressed above, and otherwise singularly lacking in persuasive force. As one reason, the board seemed to feel that the fact that appellant\u2019s assignee had taken no action over a period of 4\u00bd years to secure withdrawal of the FDA Suspension Order relating to its New Drug Application covering \u201cMonase\u201d (which it requested itself) had some bearing on the patentability of the present subject matter. If, as the board says, approval by the FDA is not a necessity to patenting of the new drug composition in the first place, of what material or relevant significance is that inaction unless, in final analysis, the board would indeed require commercial marketing, or at least approval therefor by the FDA, before authorizing a patent to issue? But certainly \u201ccommercial usefulness,\u201d i.e. progress in the development of a product to the extent that it is presently commercially salable in the market place, has never been a prerequisite for a reduction to practice and the subsequent patentability of any of the classes of patentable subject matter set forth in \u00a7101, much less the particular class of compositions of matter called drugs. See Hildreth v. Mastoras, 257 U.S. 27, 34 (1921); The Telephone Cases, 126 U.S. 1, 535 (1887); Potter v. Tone, 36 App. D.C. 181, 184-5 (1911); Creamer v. Kirkwood, 50 CCPA 715, 305 F.2d 486, 134 USPQ 330 (1962); Tansel v. Higonnet, 42 CCPA 732, 215 F.2d 457, 103 USPQ 58 (1954); Van Cleef v. Tierney, 28 CCPA 1039, 118 F. 2d 911, 49 USPQ 274 (1941) ; Leichsenring v. Freeman, 26 CCPA 1153, 103 F.2d 378, 41 USPQ 478 (1939).\nIn tlie same vein, the solicitor urges that appellant is, in effect, asking this court to authorize the grant of a patent \u201cprior to the successful conclusion of the search\u201d for usefulness of the claimed compositions and process, and that appellant is predicating his need for a patent on the incentive it would give for further research. The solicitor draws our attention to Brenner v. Manson, supra, where the Court stated, 383 U.S. 536:\nBut a patent is not a bunting license. It is not a reward for the search, but compensation for its successful conclusion.\nand asks:\nShould the appellant be rewarded for his partial, incomplete development, which is of questionable benefit to the public?\nTo the contrary, we think appellant\u2019s quest for a chemical composition which is useful has been successful. In contrast to the situation in Brenner v. Manson, where no specific use or useful property was disclosed for the claimed compounds, here a useful property of etryptamine has been discovered in animal tests, compositions containing it have been subjected to extensive clinical trials in humans, and those compositions have even been commercially marketed. The evidence of record incontrovertably establishes that appellant\u2019s compositions are effective in treating various types of mental depressions in humans. And the Anglin affidavit is also sufficient to establish, we think, that the compositions have been, and can be, administered safely (though perhaps not with absolute safety) to human patients by qualified, knowledgeable medical experts. The fact that compositions containing etryptamine, as demonstrated by the data in the second Anglin affidavit, have been administered to over 400,000 patients with little or no reported or apparent serious ill effect in each, other than the 12 reported cases of agranulocytosis, is telling evidence of the practical safety and consequent usefulness of the compositions. That evidence of successful use has not been controverted either, but rather has seemingly been ignored. It is, as appellant points out, as if the Patent Office views the evidence of 12 possible cases of a serious side effect (a rate of 1 case for each 35,000 patients treated, an incidence of 0.003%) as \u201cwiping out\u201d the benefit to many which \u201cMonase\u201d has contributed. That incidence of side effect, in our opinion, does not lead to that result.\nThat further research may be necessary before the claimed compositions are once again marketed on a commercial scale is not really material to whether those compositions are now useful, nor is it fatal to appellant\u2019s case. See Land v. Regan, 52 CCPA 1048, 342 F.2d 92, 144 USPQ 661 (1965). As appellant points out, one of the fundamental purposes of the patent system, as recognized by the recent Report of the President\u2019s Commission on the Patent System, is to stimulate, in the Commission\u2019s words, \u201cthe investment of additional capital needed for the further development and marketing of the invention.\u201d To deny appellant his patent grant because further research and development may be necessary before marketing may again take place would effectively defeat that objective of the patent system.\nAs a second reason, the board observed that appellant had not, as of the time of hearing (September 1966), brought the record up to date as to what additional cases of side effects, particularly agranu-locytosis, and fatalities had been observed since the FDA Suspension Order of April 1962, and that it viewed the reporting of such reactions as \u201ca continuing responsibility.\u201d Appellant questions the procedural due process aspect of the latter requirement inasmuch as there is no provision in the statute or Patent Office Rules of Practice relating to it. Wholly aside from that contention, we think the board overlooked the fact that \u201cMonase\u201d had been withdrawn from the market in April 1962 or shortly thereafter, more than three years prior to the October 27, 1965 execution date of the second Anglin affidavit which reported the known incidence of agranulocytosis to that time as 12 cases. In neither of its decisions has the board questioned the completeness of the Anglin affidavit as of its execution date. Nor has it given us cause to think or assume that there may have been significantly \u2014 indeed, anymore cases of side effects than those Anglin reported in a product that had been removed from the commercial market and unavailable for use since about April 1962 and particularly since October 1965, or to believe that appellant bas not carried out whatever responsibility he may have in the present regard.\nThe third reason advanced by the board seems to us to lie at the heart of the matter. As evidence of the supposed lack of usefulness of the claimed subject matter, the board relies on Upjohn\u2019s \u201cvoluntary withdrawal of the drug as unsafe \u2018for use\u2019,\u201d the latter\u2019s \u201cown admission of unsafeness of the drug as demonstrated in the cited Suspension Order,\u201d as well as the Suspension Order itself which, in the board\u2019s view, demonstrates that the FDA \u201chas ruled \u2018Monase\u2019 to be unsafe and as of today still considers the drug unsafe.\u201d\nIn view of 21 USC 372(d), it is no doubt true that an unequivocal finding by the FDA that a drug is totally unsafe in all circumstances of contemplated use should not be lightly regarded by the Patent Office as an aid in its determination of whether a drug is useful under 35 USC 101. But what has the FDA found here? In concluding that the FDA has ruled \u201cMonase\u201d to be \u201cunsafe,\u201d without further qualification, we think the board has painted with too broad a brush, and has drawn inferences from the Suspension Order that are not justified by its specific language. The order does not contain any broad, pervasive finding, nor has Upjohn in any way \u201cadmitted,\u201d that \u201cMonase\u201d is completely and absolutely unsafe under all conditions of use, i.e., that \u201cMonase\u201d is medically \u201cuseless.\u201d What it does say, and what we understand appellant to concede here, is that under the conditions of use upon the basis of which the applica-became \u201ceffective.\u201d \u201cMonase\u201d is unsafe for use to a degree justifying its withdrawal from the market and suspension of the effectiveness of the New Drug Application.\nAnd what are those conditions of use upon which Upjohn\u2019s original New Drug Application became effective? The Anglin affidavit and appellant tell us, and the Patent Office has not disagreed, that those conditions included, among others, a lack of warning attached to the label or package insert that \u201cMonase\u201d may produce agranulocy-tosis or at least has been associated with such a toxic effect, a condition which seems to relate more to the manner of marketing etrypta-mine than to its ultimate worth. We agree with the board that we should not speculate whether Upjohn can ever market \u201cMonase\u201d again with its particular postulated warning labels and restrictions, for it is unnecessary to do so. It is sufficient, we think, that the record fails to show that the FDA has ruled that \u201cMonase\u201d cannot be used with reasonable safety as a practical matter. The record shows that it can. In view of the limited and specific language of the finding contained therein, the Suspension Order, in our view, is not sufficient to overcome the expert testimony of Anglin, who concluded that etryptamine has been and could still be used safely by a practicing physician in spite of the possible, very low incidence of side effect that may be associated with it, so long as the physician has knowledge of that possible side effect.\nWe conclude that appellant\u2019s evidence is sufficient to establish that etryptamine is \u201cuseful.\u201d The rejection of claims 1-12 under \u00a7101 is reversed.\nSummary\nThe rejection, of claims 11 and 12 under \u00a7103 is affirmed. The rejections of claims 1-6 under \u00a7103 and of claims 1-12 under \u00a7101 are reversed.\nJudge McLaughlin dissents.\nJudge Holtzhoff participated in the hearing of this case but died before a decision was reached.\nAppearing In serial No. 387,513, filed August 4, 1964 for \u201cComposition of Matter and Process\u201d as a continuation-in-part of serial Nos. 792,704 and 68,677, filed February 12, 1959 and November 14, 1960, respectively.\nThat position Is but an echo of the position he took below in his letter of November 3, 1965, submitted after the examiner\u2019s final rejection, as well as in his brief before the board :\nIt is submitted that the individual isomers would be patentable if they differed significantly in properties over the racemic mixture. The applicant hopes to provide such data before prosecution is terminated. Alternatively, the claims will be canceled.\nThe board agreed with appellant:\nIn absence of unobvious properties (and no showing has been made) the opti-tically active isomer is unpatentable over an inactive isomer or the racemic compound itself. Brenner et al. v. Ladd [247 F. Supp. 51], 147 USPQ 87.\nSee also In re Adamson, 47 CCPA 839, 275 F. 2d 952, 125 USPQ 233 (1960).\nCompare In re Wiechert, 54 CCPA 957, 370 F. 2d 927, 152 USPQ 247 (1967).\nSee In re Herr, 54 CCPA 1315, 377 F. 2d 610, 153 USPQ 548 (1967); In re Craig (PA 8142), 56 CCPA 1438, 411 F. 2d. 1333, 162 USPQ 157 (1969).\nNeither the examiner nor board has provided ns with any indication or evidence that the art knew what particular uses Young or Snyder had in mind for the compounds disclosed by them, if indeed such uses even existed before appellant\u2019s filing date. Under the circumstances, we do not think it is appropriate for us to speculate as to what uses those might have been. In re Rosicky, supra; In re Cofer, 53 CCPA 830, 354 F. 2d 664, 148 USPQ 268 (1966). That such obscure expressions as \u201cpharmaceutical products,\u201d \u2018^physiological activity,\u201d and others like them, have in the .past been -regarded by the Patent Office and this court alike to provide no explicit or implicit indication to those in the art of the specific usefulness of particular chemical compounds, or how to use them, is clear from In re Kirie, 54 CCPA 1119, 376 F. 2d 936, 153 USPQ 48 (1967) and In re Diedrich, 50 CCPA 1355, 318 F. 2d 946, 138 USPQ 128 (1963), as well as the \u201cGuidelines for Considering Disclosures of Utility in Drug Cases,\u201d promulgated by the Commissioner of Patents on March 19, 196S, 849 O.G. 567-68.\nAs to tie latter two asserted uses, appellant states:\nWhether the present invention is useful in treating angina pectoris or rheumatoid arthritis is immaterial to the disposition of the present appeal. The appellant is relying on one utility, i.e., antidepressant use * * *.\nIt is also apparent that appellant does not rely here on his disclosure of usefulness of the claimed compositions in animals for purposes of satisfying section 101, but relies solely on the sufficiency of clinical evidence of usefulness in huanans. Cf. In re Krimmel, 48 CCPA 1116, 292 F.2d 948, 130 USPQ 215 (1961); In re Dodson, 48 CCPA 1125, 292 F.2d 943, 130 USPQ 224 (1961).\nDr. Anglin qualified himself as follows:\nThat I received the degree of Doctor of Medicine from Western Reserve University, Cleveland, Ohio, in 1949 ;\nThat, I served my internship at the Valley Forge General Hospital, Philadelphia, Pennsylvania, in 1949-1950;\nThat, I served my residency in psychiatry at Letterman General Hospital and Mount Zion Psychiatric Clinic, both in San Francisco, California, in 1950-1953;\nThat, I served as a military psychiatrist with the United States Army in 1954-1957;\nThat, I engaged in the private practice of psychiatry in 1957-1958 and again in 1961-1963 ;\nThat, I have been a member of the Medical Division of The Upjohn Company in the remaining period from 1958 to the present date; * * *\nThe factual contents of the 1961 Anglin affidavit were resubmitted as part of a more extensive affidavit, discussed infra, presented in the application on appeal on November 3, 1965. Dr. Anglin\u2019s qualifications to state the opinions and conclusions expressed in his affidavits have not been challenged.\n\u201cAgranulocytosis\u201d is defined by Dorland\u2019s Medical Dictionary, 23rd Ediiton, as:\nAn acute disease characterized by marked leukopenia and neutropenia and with ulcerative lesions of the throat and other mucous membranes, of the gastrointestinal tract and of the skin. It frequently follows the use of aminopyrine, the sulfonamides, or other drugs.\nThe New Fork Times reported in pertinent part:\nA drug used in treatment of depressed patients has been ordered oft the market by the Government after adverse effects were discovered.\nThe Food and Drug Administration confirmed today that it had requested the Upjohn Company of Kalamazoo, Mich., to remove Monase from the market.\nOfficials said the order had been made after the company reported that seven patients using the drug had contracted an acute blood disease and four of them had died. [Emphasis supplied.]\nThe disease, agranulocytosis, is marked by the destruction of the white corpuscles, which among other things combat disease organisms. As a result, the patient may succumb to infections. Symptoms are general weakness and ulcers in the mouth and other mucous membranes. The disease is often caused by other drugs, such as the sulfonamides and aminopyrine.\nMonase is a \u201cpsychic energizer\u201d drug used to stimulate depressed people, including mental patients, according to Food and Drug officials. The drug has been on the market about a year and has had national distribution.\nThe Upjohn Company sent letters to the nation\u2019s doctors several days ago, asking them to halt use of Monase because it had been discovered that some unfavorable blood conditions had developed among patients using the drug.\nWhiton B. Rankin, assistant to the Food and Drug Commissioner, said Upjohn officials \u201cgot in touch with us promptly after they discovered the adverse effects.\u201d He said they sent representatives to Washington to discuss the matter with the Food and Drug Administration.\nDrug manufacturers are not required to notify the administration of their own discoveries of adverse effects of drugs. However, many manufacturers make a practice of this.\nThe examiner also cited an article by a Dr. Azima in the Am. J. of Psychiatry, Vol. 117, No. 11, p. 1029, which reported the results of a \u201cmulti-blind\u201d study of \u201cMonase\u201d on 30 depressed patients:\nSide effects were, on the whole, relatively few and not very severe. These consisted of feelings of \u201cjumpiness,\u201d increase in anxiety and irritability in 5 patients, sleepiness in 2, dizziness in 2, headaches in 2, nausea in 1, and blurred vision in 1. Biochemical studies consisting of white blood count and differential, alkaline phosphatase, transaminase, and urine analysis, once weekly, T. P. R. and blood pressure b. i. d. did not show any abnormalities with the exception of 1 case because of leukopenia (WBC 3000) in which the drug was discontinued and leukopenia disappeared. [Emphasis supplied.]\nAzima classified \u201cMonase\u201d as \u201can adequately potent anti-depressant.\u201d\nFor an earlier case, see Canadian-American Pharmaceutical Co. v. Coe, 75 App. D. C. 313, 126 F. 2d 847, 53 USPQ 92 (C. A. D. C. 1942), although it was not so much a question of usefulness under then 35 USC 31 (R.S. 4886) as a question whether the invention, a drug, was \u201csufficiently useful and important\u201d under 35 USC 36 (R.S. 4893). See also Schindler v. Commissioner of Patents, 269 F. Supp. 630, 153 USPQ 838 (D.Ct.D.C. 1967); In re Hartop, 50 CCPA 780, 311 F. 2d 249, 135 USPQ 419 (1962) Twentieth Century Motor Car & Supply Co. v. Holcomb Co., 220 P. 669 (2nd Cir. 1915) (windshield for automobile \u201cdangerous,\u201d not \u201cuseful\u201d); Mitchell v. Tilghman, 86 U.S. 287, 396-7; 412 (1873).\nThe classic definitions of what is \u201cuseful\u201d in a patent law sense, propounded by Mr. Justice Story in Lowell v. Lewis, 15 Fed. Cas. 1018 (No. 8568) (C. C. D. Mass.), would themselves seem to preclude a finding of usefulness in those circumstances, if they indeed be viable today (cf. Brenner v. Manson, 383 U. S. 519, 533) :\nAll that the law requires is, that the invention should not be frivolous, or injurious to the well-being \u215c * \u215e of society. The word useful, therefore, is incorporated into the act in contradistinction to mischievous, or Immoral. Por instance, a new invention to poison people * * * is not a patentable invention.\nAnd see In re Ruschig, 52 CCPA 1238, 1255, 343 F. 2d 965, 978, 145 USPQ 274, 285 (1965), where this court stated in another context:\n* * * the compound had a blood sugar level lowering property * * * [but] was lethal * * *. Very high toxicity, in our view, cancels out any notion of anti-diabetic \u201cutility.\u201d\nIn Burroughs Wellcome & Co. v. Eli Lilly & Co., 150 F. 2d 946, 66 USPQ 346 (2nd Cir., 1945), the court stated:\nAt the trial there was much evidence as to whether or not the patented globin-insulin preparation was useful in the control of diabetes, but the court found that it was and the evidence amply supported that finding. It was also shown that in the clear solution the preparation might be mistaken by the lay purchaser for insulin alone and harmfully used when standard insulin was needed. Yet that danger, if real, htvt shows the need for regulated sale of it and does not negative its utility * * *. [Emphasis supplied.]\nOr, as the court noted in Fuller v. Berger, 120 F. 274 (7th Cir., 1903), cert. denied 193 U.S. 668:\nWith regard to the defense of no utility (available equally at law and in equity), we hold that the true inquiry is, Was the government improvident in making the grant? Does the opposing evidence, the grant itself being prima facie proof of utility, go to the extent of establishing not merely that the device has been used for pernicious purposes, hut that it is incapable of serving any beneficial end? As the just criterion, we approve and adopt Mr. Walker\u2019s conclusion (section 82 (3d Ed.)), with the additions to his text which we note by parentheses:\n\u201cAn important question, relevant to utility in this aspect, may hereafter arise and call for judicial decision. It is perhaps true, for example, that the invention of Colt\u2019s revolver was injurious to the morals, and injurious to the health, and injurious to the good order of society. That instrument of death may have been injurious to morals, in tending to tempt and to promote the gratification of private revenge. It may have been injurious to health, in that it is very liable to accidental discharge, and thereby to cause wounds, and even homicide. It may also have been injurious to good order, especially in the newer parts of the country, because it facilitates and increases private warfare among frontiersmen. On the other hand, the revolver, by furnishing a ready means of self-defense, may sometimes have promoted morals and health and good order. By what test, therefore, is utility to be determined in such cases? Is it to be done by balancing the good functions with the evil functions? Or is everything useful within the meaning of the lam, if it is useS, (or is designed and adapted to he used) to accomplish a good result, though in fact it is oftener used (or is as well or even better adapted to he used) to accomplish a had one! Or is utility negatived by the mere fact that the thing in question is sometimes injurious to morals, or to health, or to good order? The third hypothesis cannot stand, because if it could, it would be fatal to patents for steam engines, dynamos, electric railroads, and indeed many of the noblest inventions of the nineteenth century. [And what of such things as automobiles, airplanes, tires, power tools, explosives, lawn mowers, and drugs in the twentieth century ?] The first hypothesis cannot stand, because if it could, it would mate the validity of the patents to depend on a question of fact to which it would often be impossible to give a reliable answer. The second hypothesis is the only one which is consistent with the reason of the case, and with the practical construction which the courts have given to the statutory requirement of utility,\"\nWe deem the additions to the second hypothesis necessary to complete statement of the acceptable test, for, to continue with Colt\u2019s revolver as an example, if at the time of a suit for infringement the defendant should prove that the only uses to which \u201cthat instrument of death\u201d had been put were vicious, the patent should not be held for void for want of utility, if the court for itself should see, or be convinced by experts, that the instrument was susceptible of good uses, though in fact never put to such before the suit was begun. And, if utility is found, the cases seem to be uniform that courts will not set up a measure of utility which must be filled. [Emphasis supplied.]\nWe do not think the EDA has found otherwise, as developed infra.\nCompare Schindler v. Commissioner of Patents, supra, where testimonial evidence that a certain drug had been used successfully, and without apparent harmful effect, to treat a few hundred patients suffering from mental depression was regarded as adequate to show the usefulness of the drug under 35 USC 101.\nIt is also clear from the record, we think, that appeUant\u2019s invention \u201cwill attain the purpose and will * * * operate as disclosed and claimed by the inventor\u201d and \u201chas been thoroughly tested and successfully tried by more than one physician,\u201d the tests set forth in Isenstead v. Watson, supra.\nHe also states :\nThe most Important consequence of the grant of a patent in this case is that it would tend to encourage the assignee or a licensee of the assignee to do further work to determine, inter alia, whether the claimed invention is in fact responsible for the side effect or whether a New Drug Application can be obtained with due consideration for the possible side effect in spelling out indications for use of the invention. This is the kind of investment the patent system was intended to encourage. This is the kind of investment that will best serve the public in providing safe medicaments to alleviate mankind\u2019s ever present medical problems.\nIn answer to the board\u2019s contention of appellant\u2019s \u201ccontinuing responsibility,\u201d appellant filed another affidavit of Anglin at the time of oral argument before this court, in which he averred that \u201cThe number of cases of agranulocytosis associated with the use of Monase is still considered by the Upjohn Company to be twelve.\u201d\nThat provision, Section 702(d) of Public Law 87-781 enacted in 1962, reads:\n(d) The Secretary is authorized and directed, upon request from the Commissioner of Patents, to furnish full and complete information with respect to such questions relating to drugs as the Commissioner may submit concerning any patent application. The Secretary is further authorized, upon receipt of any such request, to conduct or cause to be conducted, such research as may be required.\nThe purpose of that provision is set forth in Senate Judiciary Committee Report No. 1744 of July 19, 1962, accompanying S. 1552:\nUnder the present patent laws in the United States inventions in the drug fields are entitled to full patent protection. Drug patent matters often involve complicated chemical, pharmacological, and medical questions. The Patent Office examiners, most of whom are skilled and trained in fields other than medicine and pharmacy, could more effectively handle applications for drug patents if they were able to obtain advice from the medical and other technical officials within the Department of Health, Education, and Welfare, who deal with such matters day in and day out.\nSection 2 of the bill, as amended, would authorize and direct the Secretary of Health, Education, and Welfare to provide such assistance, upon request by the Commissioner of Patents. This would establish a cooperative relationship such as that between the Patent Office and the Department of Agriculture in connection with plant patents. This section would further provide the flexibility that is desirable in consultation between the Patent Office and the Department of Health, Education, and Welfare on any drug patent question. It would help to insure that patents are promptly issued for those developments in the drug field that are true inventions which the patent system is designed to reward. It would not slow the pace of drug research which is so vital to the continued improvement in the public health. [Emphasis supplied.]\nIndeed, it seems to us that the evidence amply fulfills the criteria developed by the Commissioner in the \u201cGuidelines for Considering Disclosures of Utility in Drug Cases,\u201d supra!:\n* * * the following procedures shall be followed in examining patent applications in the drug field with regard to disclosures relating to utility.\n35 U. S. C. 101\nUtility must be definite and in currently available form, not merely for further investigation or research but commercial availability is not necessary. * * *\n*******\nAlthough absolute safety is not necessary to meet the utility requirement under this section, a drug which is not sufficiently safe under the conditions of use for which it is said to be effective will not satisfy the utility requirement. Proof of safety shall be required only in those cases where adequate reasons can be advanced by the examiner for believing that the drug is unsafe, and shall be accepted if it establishes a reasonable probability of safety. [Emphasis supplied.]",
+        "type": "majority",
+        "author": "Baldwin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Joseph K. Andonian, attorney of record, for appellant. Eugene 0. Retter, of counsel.",
+      "Joseph Schimmel for tbe Commissioner of Patents. Leroy B. Randall, of counsel."
+    ],
+    "corrections": "",
+    "head_matter": "414 F.2d 1383; 162 USPQ 594\nIn re William C. Anthony\n(No. 8166)\nUnited States Court of Customs and Patent Appeals,\nSeptember 11, 1969\nJoseph K. Andonian, attorney of record, for appellant. Eugene 0. Retter, of counsel.\nJoseph Schimmel for tbe Commissioner of Patents. Leroy B. Randall, of counsel.\n[Oral argument May 6, 1969 by Mr. Andonian and Mr. Randall]\nBefore Rich, Acting Chief Judge, Holtzoff and McLaughlin, Judges, sitting by designation, Almond and Baldwin, Associate Judges."
+  },
+  "file_name": "1443-01",
+  "first_page_order": 807,
+  "last_page_order": 827
+}

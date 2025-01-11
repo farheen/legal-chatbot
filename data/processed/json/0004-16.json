@@ -1,0 +1,58 @@
+{
+  "id": 12484988,
+  "name": "Commonwealth v. Sean Skibber",
+  "name_abbreviation": "Commonwealth v. Skibber",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 748 MAL 2015",
+  "first_page": "4",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 4"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 145,
+    "sha256": "e59a2a199af6e9fc3eda07bfa925b65b6fff6e349df59d5b6e6d97e9242e503f",
+    "simhash": "1:5c930e6e00213230",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nSean Skibber"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nSean Skibber\nNO. 748 MAL 2015\nSupreme Court of Pennsylvania\nApril 20, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0004-16",
+  "first_page_order": 4,
+  "last_page_order": 4
+}

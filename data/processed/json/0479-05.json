@@ -1,0 +1,58 @@
+{
+  "id": 12485641,
+  "name": "Commonwealth v. Michele Diane Hoy",
+  "name_abbreviation": "Commonwealth v. Hoy",
+  "decision_date": "2016-07-07",
+  "docket_number": "NO. 216 MAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "038c9ab8edec201593454a5b54ecf6ff78060870451118ce40992115350a6636",
+    "simhash": "1:0cde46ee88a51d91",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMichele Diane Hoy"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMichele Diane Hoy\nNO. 216 MAL 2016\nSupreme Court of Pennsylvania\nJuly 07, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-05",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

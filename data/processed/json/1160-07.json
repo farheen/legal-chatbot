@@ -1,0 +1,58 @@
+{
+  "id": 12488651,
+  "name": "Com. v. Schenck, R.",
+  "name_abbreviation": "Com v. Schenck",
+  "decision_date": "2016-05-25",
+  "docket_number": "3523 EDA 2014",
+  "first_page": "1160",
+  "last_page": "1160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "db147fb816fd0fcc6b233d66e51fe781ae7713a3fd3fe1386da1c7eb70da1a95",
+    "simhash": "1:9dd6247905abbef7",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSchenck, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSchenck, R.\n3523 EDA 2014\nSuperior Court of Pennsylvania.\nMay 25, 2016\nAffirmed"
+  },
+  "file_name": "1160-07",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

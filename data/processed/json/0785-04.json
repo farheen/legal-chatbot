@@ -1,0 +1,58 @@
+{
+  "id": 12487422,
+  "name": "Com. v. A. Mays",
+  "name_abbreviation": "Com. v. Mays",
+  "decision_date": "2016-04-19",
+  "docket_number": "NO. 1282 EDA 2015",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 785"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "d7734b7366ca7f9936fdb91788124c525a1f4a353aad2931601755f415a8e91c",
+    "simhash": "1:3089678101b91dc2",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Mays"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Mays\nNO. 1282 EDA 2015\nSuperior Court of Pennsylvania.\nApril 19, 2016\nAffirmed."
+  },
+  "file_name": "0785-04",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

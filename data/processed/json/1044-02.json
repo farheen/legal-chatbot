@@ -1,0 +1,66 @@
+{
+  "id": 8206725,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Carl NORTHRIP, Respondent",
+  "name_abbreviation": "Commonwealth v. Northrip",
+  "decision_date": "2008-10-16",
+  "docket_number": "",
+  "first_page": "1044",
+  "last_page": "1044",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "958 A.2d 1044"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "N.Y. Penal Law \u00a7 150.10",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 612,
+    "ocr_confidence": 0.69,
+    "sha256": "8433333e8a926d858b46f8a67d64b5bcbc798d3fdc5d982feadddff7782280f9",
+    "simhash": "1:fe7cc46447c38cb4",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T23:44:44.312538+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Carl NORTHRIP, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 16th day of October, 2008, the Petition for Allowance of Appeal is GRANTED. The issue, as stated by the Commonwealth, is:\nWhether the Pennsylvania Superior Court erred by determining that Respondent\u2019s conviction for Arson in the Third Degree, as defined in N.Y. Penal Law \u00a7 150.10, was not an equivalent offense to Arson as defined in the Pennsylvania Crimes Code at 18 Pa.C.S.A. \u00a7 3301(a), and thus, not a crime of violence as defined by 42 Pa.C.S.A. \u00a7 9714(g)?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Carl NORTHRIP, Respondent.\nSupreme Court of Pennsylvania.\nOct. 16, 2008."
+  },
+  "file_name": "1044-02",
+  "first_page_order": 1074,
+  "last_page_order": 1074
+}

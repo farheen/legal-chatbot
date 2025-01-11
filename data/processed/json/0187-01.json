@@ -1,0 +1,86 @@
+{
+  "id": 7927361,
+  "name": "STATE of Maine v. Sarah MONTEITH",
+  "name_abbreviation": "State v. Monteith",
+  "decision_date": "1986-12-22",
+  "docket_number": "",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "519 A.2d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "508 A.2d 471",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7916630
+      ],
+      "pin_cites": [
+        {
+          "page": "472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/508/0471-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1448,
+    "ocr_confidence": 0.758,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20059914690007025
+    },
+    "sha256": "7c28f2405048849ca8154c1f2e95f526de5c1f7db8defec2a643a4d3275b4684",
+    "simhash": "1:cce224bf05bb05d3",
+    "word_count": 231
+  },
+  "last_updated": "2024-02-27T19:00:09.237060+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NICHOLS, WATHEN, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Sarah MONTEITH."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nLast May the Defendant, Sarah Mon-teith, was convicted in District Court (Bangor) of operating a motor vehicle with an excessive level of blood-alcohol in violation of 29 M.R.S.A. \u00a7 1312-B (Supp.1986). Upon appeal here, after that judgment was affirmed in Superior Court, she challenges this conviction upon the grounds that (a) the Hampden police officer who stopped the Defendant a few yards beyond the town line lacked authority to make the arrest in Bangor and (b) the test of a specimen of the Defendant\u2019s blood for its alcohol content was introduced in a container labelled with the wrong date.\nViewing the evidence, as we must, in the light most favorable to the State, the District Court could rationally have found (a) that the officer\u2019s pursuit of the Defendant began \u201cinstantly\u201d when he observed the violation in Hampden and hence her arrest was justified, State v. Harding, 508 A.2d 471, 472 (Me.1986); and that the specimen of the Defendant\u2019s blood was taken on the date of her arrest.\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "MEMORANDUM OF DECISION."
+      }
+    ],
+    "attorneys": [
+      "R. Christopher Almy, Dist. Atty., Philip Worden (orally), Asst. Dist. Atty., Bangor, for plaintiff.",
+      "Vafiades, Brountas & Kominsky, Charles E. Gilbert, III (orally), Marvin Glazier, Bangor, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Sarah MONTEITH.\nSupreme Judicial Court of Maine.\nArgued Nov. 21, 1986.\nDecided Dec. 22, 1986.\nR. Christopher Almy, Dist. Atty., Philip Worden (orally), Asst. Dist. Atty., Bangor, for plaintiff.\nVafiades, Brountas & Kominsky, Charles E. Gilbert, III (orally), Marvin Glazier, Bangor, for defendant.\nBefore NICHOLS, WATHEN, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 233,
+  "last_page_order": 233
+}

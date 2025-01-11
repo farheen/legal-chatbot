@@ -1,0 +1,58 @@
+{
+  "id": 12485401,
+  "name": "In re R.T.",
+  "name_abbreviation": "In re R.T.",
+  "decision_date": "2016-06-28",
+  "docket_number": "NO. 14-FS-1195",
+  "first_page": "1104",
+  "last_page": "1104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 1104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 109,
+    "sha256": "d424cb38ae5ea7d04dd047eb27b928dce4927c824fe66478f033b74919b48c7e",
+    "simhash": "1:ed04b24a250cc9b9",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re R.T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re R.T.\nNO. 14-FS-1195\nDistrict of Columbia Court of Appeals\nJune 28, 2016\nDayson\nDisposition: Affirmed."
+  },
+  "file_name": "1104-05",
+  "first_page_order": 1104,
+  "last_page_order": 1104
+}

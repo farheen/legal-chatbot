@@ -1,0 +1,58 @@
+{
+  "id": 12487204,
+  "name": "Com. v. C. Johnson",
+  "name_abbreviation": "Com. v. Johnson",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 1731 WDA 2014",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 107,
+    "sha256": "e0febfa2934d5d6a201d8ece72df5d332ed3607aa1ed7963c6c49231f94ddc7e",
+    "simhash": "1:4805eabbc52b2700",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Johnson\nNO. 1731 WDA 2014\nSuperior Court of Pennsylvania.\nApril 01, 2016\nVacated and Remanded."
+  },
+  "file_name": "0770-13",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

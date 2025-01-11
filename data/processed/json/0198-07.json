@@ -1,0 +1,58 @@
+{
+  "id": 12486583,
+  "name": "Com. v. J.F.",
+  "name_abbreviation": "Com. v. J.F.",
+  "decision_date": "2016-03-14",
+  "docket_number": "NO. 2847 EDA 2014",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "2177feae37fd4872f24915c75d61714285d8a4b2fcabbc1d5284ac459429c7a4",
+    "simhash": "1:a853fcf4cd084e85",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ.F."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ.F.\nNO. 2847 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 14, 2016\nAffirmed."
+  },
+  "file_name": "0198-07",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

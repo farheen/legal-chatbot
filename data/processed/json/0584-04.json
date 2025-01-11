@@ -1,0 +1,58 @@
+{
+  "id": 12485783,
+  "name": "Com. v. M. Hultzapple",
+  "name_abbreviation": "Com. v. Hultzapple",
+  "decision_date": "2016-02-02",
+  "docket_number": "NO. 513 MDA 2015",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "e16f06f1ba1655b3d05e1b2562726ea15147162c435f00f014dec2e9b97ff27c",
+    "simhash": "1:210f7d3e12b207d5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Hultzapple"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Hultzapple\nNO. 513 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 02, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0584-04",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

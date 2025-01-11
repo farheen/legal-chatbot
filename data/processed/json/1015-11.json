@@ -1,0 +1,59 @@
+{
+  "id": 6080982,
+  "name": "Brush v. Maha",
+  "name_abbreviation": "Brush v. Maha",
+  "decision_date": "1954-05-14",
+  "docket_number": "No. 6087",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 66,
+    "ocr_confidence": 0.528,
+    "sha256": "c3f5b16b3bb9dc09d4307031b670cde24625b17108509892788fb1882d8b34e9",
+    "simhash": "1:78880800932b845a",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brush v. Maha"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in lubricator for airlines.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Brush v. Maha\n(No. 6087)."
+  },
+  "file_name": "1015-11",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12491819,
+  "name": "STATE of Connecticut v. Matthew PUGH",
+  "name_abbreviation": "State v. Pugh",
+  "decision_date": "2017-12-14",
+  "docket_number": "",
+  "first_page": "43",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 43"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 985"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "176 Conn. App. 518",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12491021
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/170-2/0710-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 355,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578812509918532
+    },
+    "sha256": "316fa82c732f28cad4a374af9f51a12c27ba4d1103c47db25024a8349152109e",
+    "simhash": "1:161e0e1e9ab127f1",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:35:00.829775+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nMatthew PUGH"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 176 Conn. App. 518, 170 A.3d 710 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nMatthew PUGH\nSupreme Court of Connecticut.\nDecided December 14, 2017\nJohn L. Cordani, Jr., assigned counsel, in support of the petition.\nMatthew A. Weiner, assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 176 Conn. App. 518, 170 A.3d 710 (2017), is denied."
+  },
+  "file_name": "0043-02",
+  "first_page_order": 43,
+  "last_page_order": 43
+}

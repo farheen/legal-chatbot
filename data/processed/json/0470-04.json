@@ -1,0 +1,64 @@
+{
+  "id": 12490312,
+  "name": "SMALL, Albert N. v. STATE of Maryland",
+  "name_abbreviation": "Small v. State",
+  "decision_date": "2017-07-28",
+  "docket_number": "Pet. Docket No. 139, Sept. Term, 2017",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "454 Md. 671"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 161,
+    "sha256": "2a292d19a3ba012dc70bad04d58ec40e7cd9ea8299636fddc9d1dd64d6fe5e2d",
+    "simhash": "1:abf78271c6494305",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SMALL, Albert N.\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "SMALL, Albert N.\nv.\nSTATE of Maryland\nPet. Docket No. 139, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJuly 28, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0470-04",
+  "first_page_order": 470,
+  "last_page_order": 470
+}

@@ -1,0 +1,151 @@
+{
+  "id": 6077795,
+  "name": "In re Rice",
+  "name_abbreviation": "In re Rice",
+  "decision_date": "1942-12-01",
+  "docket_number": "No. 4646",
+  "first_page": "730",
+  "last_page": "733",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 C.C.P.A. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "132 F.2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "53 App. D. C. 109",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Fed. 443",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6746470
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/210/0443-01"
+      ]
+    },
+    {
+      "cite": "64 F. (2d) 379",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        902505,
+        6081482
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/64/0379-01",
+        "/ccpa/20-2/1018-01"
+      ]
+    },
+    {
+      "cite": "69 App. D. C. 144",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "70 F. (2d) 910",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082096,
+        269579
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/21-2/1134-01",
+        "/f2d/70/0910-01"
+      ]
+    },
+    {
+      "cite": "62 F. (2d) 199",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        908355,
+        6078341
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/62/0199-01",
+        "/ccpa/20-2/0767-01"
+      ]
+    },
+    {
+      "cite": "64 F. (2d) 780",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        902661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/64/0780-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 388,
+    "char_count": 6430,
+    "ocr_confidence": 0.453,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.17324620084028064
+    },
+    "sha256": "03b7d4bc829cff2901345127bdfc123f7c60170db6d23dab2f06cea7d674957b",
+    "simhash": "1:948760ff514fe06b",
+    "word_count": 1107
+  },
+  "last_updated": "2024-02-27T20:59:38.414474+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "In re Rice"
+    ],
+    "opinions": [
+      {
+        "text": "Lenroot, Judge,\ndelivered the opinion of the court:\nThis appeal brings before'us for review a decision of the Board of Appeals of the United States Patent Office affirming a decision of the Primary Examiner rejecting, upon the grounds hereinafter stated, claims 17 to 29, inclusive, of appellant\u2019s application for a patent. No claims were allowed.\nClaim 17 is illustrative of the subject matter of the claims before us and reads as follows:\n17. The art of writing sheet music which comprises reproducing upon a paper sheet a plurality of spaced charts consisting of a pictorial representation of a portion of a piano keyboard, the top surfaces of the black and white keys affording fields for indicating indicia, and applying indicating indicia to selected keys of each chart to indicate the keys to be played on the count or measure represented by the respective charts.\nThe reference cited is:\nDickson, 1,053,366, February 18,1913:\nAppellant\u2019s alleged invention is sufficiently described in the above quoted claim.\nThe examiner rejected the claims upon three grounds, viz,\n1. That the claims are directed to subject matter not patentable under Section 4886, It. S. (U. S. C. title 35, sec. 31).\n2. That the claims are not proper method claims.\n3. That the claims lack invention over the disclosure of the Dickson patent.\nThe Board of Appeals in its decision specifically ruled only upon the third ground above stated, viz, the rejection of the daims on'the Dickson patent; but it did recite all of the grounds of rejection by the examiner, and, after stating that certain claims had been withdrawn by appellant, concluded its decision with the following:\n* * * The remaining claims are rejected on the grounds given above and discussed by the examiner.\nThe decision of the examiner is affirmed.\nThis general affirmance was a complete affirmance of all the grounds upon which the examiner finally rejected the claims. In re Wagenhorst, 20 C. C. P. A. (Patents) 991, 64 F. (2d) 780.\nIn view of our conclusion with respect to the first ground of rejection above stated, it is unnecessary to discuss the other grounds, or further to refer to the Dickson patent, other than to say that it was issued in 1913; and, in view of the judicial decisions rendered since that time, we must assume such a patent would not now be granted by the Patent Office.\nWe are in accord with the view that the claims before us are directed to subject matter not patentable under Section 4886, E. S., supra:\n\u25a0 All of the claims before us are directed to the art of writing sheet music, which comprises reproducing upon a paper sheet certain information as an aid to beginners in learning to play the piano.\nIt is well established in patent law that invention cannot rest alone in novel printing arrangement, although it may reside in .some physical structures of printed matter. In re Reeves, 20 C. C. P. A. (Patents) 787, 62 F. (2d) 199; In re Sterling, 21 C. C. P. A. (Patents) 1134, 70 F. (2d) 910; Conover v. Coe, 69 App. D. C. 144.\n\u25a0 It is true that the above cited cases did not involve method claims, but the principles therein declared are equally applicable to method \u25a0and article claims.\nThe case of In re McKee, 20 C. C. P. A. (Patents) 1018, 64 F. (2d) 379, did embrace method as well as article claims. That case involved, among other things, the patentability of a method of marking meat. One ground of rejection of the claims by the Patent Office tribunals was that the marking of meat does not come within the purview of the patent statute.\nIn affirming this ground of rejection by the Patent Office we said:\nIn oral argument and in brief counsel lias urged that under the case of Cincinnati Traction Company v. Pope, 210 Fed. 443, his claims should be allowed. That case is quite a famous one and may be said to be the leading case in this field. The patent, involved a railway ticket comprising a body portion and a coupon, the ticket bearing conventional indications showing that the body alone was good at one time of the day and that the body and the coupon were required for the other portion of the day. The court there held that the device of the patent clearly involved physical structure and that the claims were limited to such structure.\nWe see nothing more in appellant\u2019s alleged invention than the arrangement of printed matter upon meat. We are not impressed with the contention that the Cincinnati Traction Company case, supra, is authority for sustaining appellant\u2019s contention. On the contrary, the case is easily distinguishable from the case at bar.' There the material upon which the printing appeared had a novel form, which form served, a new and useful purpose. In the case at bar, the form of the meat is not in any respect made to depend upon the printing arrangement.\nSo in the case at bar we see nothing in appellant\u2019s alleged invention other than the arrangement of printed matter and other indicia upon a sheet of paper.\nAppellant relies upon the case of In re Sheffield, 53 App. D. C. 109, wherein a decision of the Commissioner of Patents was reversed, which decision held that a method of visually indicating the structure and meaning of a sentence in the printing of books was unpatentable over two patents cited as prior art.\nThe court held that the said patents did not negative invention of the claims before it, and that the appellant there had made a substantial contribution to the art.\n\u25a0 However, so far as appears from said case, the question here involved was not before the court and was not considered by it. The only question there considered was the patentability of the claims over the cited prior art.\nTherefore that case has no bearing upon the question of whether the involved claims embody subject matter patentable under Sec. 4886 R. S., supra.\nIt is our opinion that, under the many decisions of this and other courts relating to subject matter patentable under the patent laws, the claims before us were properly rejected upon the first ground here-inbefore stated.\nThe decision appealed from is affirmed.",
+        "type": "majority",
+        "author": "Lenroot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "JBSm&ry, Holcombe & Miller (Charles F. Miller, Jr. of counsel) for appellant.",
+      "W. W. Cochran (Clarence W. Moore of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "132 F. (2d) 140\nIn re Rice\n(No. 4646)\nDecember 1, 1942\nJBSm&ry, Holcombe & Miller (Charles F. Miller, Jr. of counsel) for appellant.\nW. W. Cochran (Clarence W. Moore of counsel) for the Commissioner of Patents.\n[Oral argument November 3, 1942, by Mr. Charles F. Miller and Mr. Moore]\nBefore Garrett, Presiding Judge, and Bland, Hatfield, Lenroot, and Jackson, Associate Judges"
+  },
+  "file_name": "0730-01",
+  "first_page_order": 44,
+  "last_page_order": 47
+}

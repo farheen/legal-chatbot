@@ -1,0 +1,58 @@
+{
+  "id": 12501625,
+  "name": "COM. v. SYKES, L.",
+  "name_abbreviation": "Com. v. Sykes",
+  "decision_date": "2018-07-13",
+  "docket_number": "3402 EDA 2017",
+  "first_page": "667",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 667"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "b2f3d8ad38ded7eaf36b2235793672a0283ed4e05421a6110644e75e50b166da",
+    "simhash": "1:adbd06baa7b50fc4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nSYKES, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nSYKES, L.\n3402 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 13, 2018\nQuashed"
+  },
+  "file_name": "0667-04",
+  "first_page_order": 667,
+  "last_page_order": 667
+}

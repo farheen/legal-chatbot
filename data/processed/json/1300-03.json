@@ -1,0 +1,83 @@
+{
+  "id": 7998407,
+  "name": "Lori Beth DURFEE et al. v. COLONIAL PENN INSURANCE COMPANY",
+  "name_abbreviation": "Durfee v. Colonial Penn Insurance",
+  "decision_date": "1982-06-25",
+  "docket_number": "No. 82-72-M.P.",
+  "first_page": "1300",
+  "last_page": "1300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "448 A.2d 1300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "108 R.I. 471",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3159074
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/108/0471-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 99,
+    "char_count": 831,
+    "ocr_confidence": 0.779,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20070204865225733
+    },
+    "sha256": "070160049da131fce489c09c19e89a0dbe690357a2c6cebd43ee7a2a8f3b680a",
+    "simhash": "1:5b08243482e0a718",
+    "word_count": 132
+  },
+  "last_updated": "2024-02-27T20:03:03.393785+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY and SHEA, JJ., did not participate."
+    ],
+    "parties": [
+      "Lori Beth DURFEE et al. v. COLONIAL PENN INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case is before the court on defendant\u2019s motion to affirm the Superior Court judgment pursuant to Rule 16(g). Upon review of the record, we discovered that the appeal herein was taken from a Superior Court judge\u2019s order vacating a default judgment. Such an order is interlocutory and therefore not appealable. Giarrusso v. Corrigan, 108 R.I. 471, 276 A.2d 750 (1971).\nAccordingly, treating defendant\u2019s motion for affirmance as a motion to dismiss the appeal as premature, the said motion to dismiss is hereby granted.\nMURRAY and SHEA, JJ., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Tillinghast, Collins & Graham, Steven E. Snow and Vivian Tseng, Providence, for petitioner.",
+      "John J. Finan, Jr., Pawtucket, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Lori Beth DURFEE et al. v. COLONIAL PENN INSURANCE COMPANY.\nNo. 82-72-M.P.\nSupreme Court of Rhode Island.\nJune 25, 1982.\nTillinghast, Collins & Graham, Steven E. Snow and Vivian Tseng, Providence, for petitioner.\nJohn J. Finan, Jr., Pawtucket, for respondent."
+  },
+  "file_name": "1300-03",
+  "first_page_order": 1350,
+  "last_page_order": 1350
+}

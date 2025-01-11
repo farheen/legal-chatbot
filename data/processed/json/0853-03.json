@@ -1,0 +1,81 @@
+{
+  "id": 7974016,
+  "name": "Marie ROY v. Richard ROY",
+  "name_abbreviation": "Roy v. Roy",
+  "decision_date": "1980-05-29",
+  "docket_number": "No. 78-429-A",
+  "first_page": "853",
+  "last_page": "853",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "419 A.2d 853"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "107 R.I. 172",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3027088
+      ],
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/107/0172-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 453,
+    "ocr_confidence": 0.786,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20067096575900756
+    },
+    "sha256": "61d7fe97f4e575f2f139b652b99e45c2a14eb0382f5f4e41f0eced3c11135605",
+    "simhash": "1:6069a8af57cda6a1",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T22:06:12.650509+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marie ROY v. Richard ROY"
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case is assigned to the October, 1980 show cause calendar. The petitioner Richard Roy is directed to appear and show cause why his appeal should not be dismissed in light of Rock v. Rock, 107 R.I. 172, 265 A.2d 640 (1970).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Torgen & Callaghan, Edward H. Torgen, North Kingstown, for plaintiff-respondent.",
+      "Aram K. Berberian, Warwick, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Marie ROY v. Richard ROY\nNo. 78-429-A.\nSupreme Court of Rhode Island.\nMay 29, 1980.\nTorgen & Callaghan, Edward H. Torgen, North Kingstown, for plaintiff-respondent.\nAram K. Berberian, Warwick, for defendant-petitioner."
+  },
+  "file_name": "0853-03",
+  "first_page_order": 901,
+  "last_page_order": 901
+}

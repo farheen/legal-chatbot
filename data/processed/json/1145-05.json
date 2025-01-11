@@ -1,0 +1,58 @@
+{
+  "id": 12488419,
+  "name": "Com. v. Brockington, D.",
+  "name_abbreviation": "Com v. Brockington",
+  "decision_date": "2016-05-12",
+  "docket_number": "2306 EDA 2015",
+  "first_page": "1145",
+  "last_page": "1145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 93,
+    "sha256": "64e747a2d04c7063bea14e0c99f756a483f37bc01cca51634b4a090ff0b1a9b4",
+    "simhash": "1:b8597253dfb997f9",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBrockington, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBrockington, D.\n2306 EDA 2015\nSuperior Court of Pennsylvania.\nMay 12, 2016\nAffirmed"
+  },
+  "file_name": "1145-05",
+  "first_page_order": 1145,
+  "last_page_order": 1145
+}

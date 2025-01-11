@@ -1,0 +1,58 @@
+{
+  "id": 12488545,
+  "name": "Com. v. Cagnardi, E.",
+  "name_abbreviation": "Com v. Cagnardi",
+  "decision_date": "2016-05-19",
+  "docket_number": "3246 EDA 2015",
+  "first_page": "1153",
+  "last_page": "1153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "b060a531e2c52cc0a011f5a56e2561eb4883b9126060a58a0bb78201fd2e6259",
+    "simhash": "1:f48067b35aa69fe9",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nCagnardi, E."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nCagnardi, E.\n3246 EDA 2015\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1153-06",
+  "first_page_order": 1153,
+  "last_page_order": 1153
+}

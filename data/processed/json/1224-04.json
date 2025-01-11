@@ -1,0 +1,58 @@
+{
+  "id": 12485220,
+  "name": "Alex P. McCoy v. United States",
+  "name_abbreviation": "McCoy v. United States",
+  "decision_date": "2016-05-27",
+  "docket_number": "NO. 14-CF-1202",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "04ef242e1b78cbe03a1bd6ab6e0765e18aaa260a23083b2e9129ebe2fa235872",
+    "simhash": "1:2bee30490746d452",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex P. McCoy\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Alex P. McCoy\nv.\nUnited States\nNO. 14-CF-1202\nDistrict of Columbia Court of Appeals\nMay 27, 2016\nBeck\nDisposition: Affirmed."
+  },
+  "file_name": "1224-04",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

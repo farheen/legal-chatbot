@@ -1,0 +1,84 @@
+{
+  "id": 7364875,
+  "name": "Thomas COSTELLO, Jr., et al. v. AMERICAN UNIVERSAL INSURANCE CO.",
+  "name_abbreviation": "Costello v. American Universal Insurance Co.",
+  "decision_date": "1993-11-18",
+  "docket_number": "No. 93-38-A",
+  "first_page": "260",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 A.2d 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "557 A.2d 868",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7897198
+      ],
+      "pin_cites": [
+        {
+          "page": "869"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/557/0868-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 127,
+    "char_count": 1250,
+    "ocr_confidence": 0.723,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18950641523888073
+    },
+    "sha256": "0867e1bf2d58cf83c56be14cf1492d5de7fd76cec4346b8c7682f407df1f585a",
+    "simhash": "1:2a41fa5b62a7aa84",
+    "word_count": 197
+  },
+  "last_updated": "2024-02-27T23:13:25.308524+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas COSTELLO, Jr., et al. v. AMERICAN UNIVERSAL INSURANCE CO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the Supreme Court on November 10, 1993, pursuant to an order requiring the parties to appear and to show cause why the issues raised in the plaintiffs\u2019 appeal should not be summarily decided.\nThe plaintiffs appeal a Superior Court order granting the defendant\u2019s motion for summary judgment. The statute in question, G.L.1956 (1989 Reenactment) \u00a7 27-34-12, has a plain and unambiguous meaning and this court is bound to construe the statute in accordance with that plain meaning. Krupa v. Murray, 557 A.2d 868, 869 (R.I.1989). Any amount payable under the Rhode Island Insurer\u2019s Insolvency Fund Act must be reduced by any recovery .under any other insurance policies. Plaintiffs have already received the maximum allowable under the statute. After hearing the arguments of counsel and reviewing the memoranda submitted by the parties, it is the conclusion of this court that cause has not been shown.\nThe ruling of the trial justice is affirmed and the plaintiffs\u2019 appeal is denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Michael Sarli, Michael DeLuca, Denise Lombardo, Providence.",
+      "Robert Landau, Bruce Bal\u00f3n, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas COSTELLO, Jr., et al. v. AMERICAN UNIVERSAL INSURANCE CO.\nNo. 93-38-A.\nSupreme Court of Rhode Island.\nNov. 18, 1993.\nMichael Sarli, Michael DeLuca, Denise Lombardo, Providence.\nRobert Landau, Bruce Bal\u00f3n, Providence."
+  },
+  "file_name": "0260-02",
+  "first_page_order": 314,
+  "last_page_order": 315
+}

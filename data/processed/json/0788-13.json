@@ -1,0 +1,58 @@
+{
+  "id": 12487464,
+  "name": "In the Matter of A.D.W. Appeal of: T.B. mother",
+  "name_abbreviation": "In re A.D.W.",
+  "decision_date": "2016-04-20",
+  "docket_number": "NO. 1639 WDA 2015",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 788"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 166,
+    "sha256": "71698ab25bd46a26d1bb681359808a5b4053d6bec6c7886a29d11a8e45d7ef66",
+    "simhash": "1:38912ded42a10fc0",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of A.D.W. Appeal of: T.B. mother"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of A.D.W. Appeal of: T.B. mother\nNO. 1639 WDA 2015\nSuperior Court of Pennsylvania.\nApril 20, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0788-13",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

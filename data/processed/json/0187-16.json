@@ -1,0 +1,58 @@
+{
+  "id": 12486411,
+  "name": "Com. v. R. Mott",
+  "name_abbreviation": "Com. v. Mott",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 1536 WDA 2015",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 92,
+    "sha256": "8daff4dedba7ed01699fcd93bc47e7f0f0f35e2e137db8b2cf9b301fe5e97f9b",
+    "simhash": "1:9419d763808fb088",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Mott"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Mott\nNO. 1536 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nAffirmed."
+  },
+  "file_name": "0187-16",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

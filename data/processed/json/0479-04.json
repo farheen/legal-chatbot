@@ -1,0 +1,58 @@
+{
+  "id": 12485640,
+  "name": "Commonwealth v. Trevor Mattis",
+  "name_abbreviation": "Commonwealth v. Mattis",
+  "decision_date": "2016-07-07",
+  "docket_number": "NO. 101 EAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "cb8fc5a9d9633ae38485a766be520e302f61971356d00221e53a86c8d1ef4bd7",
+    "simhash": "1:84ce022e08a20040",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nTrevor Mattis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nTrevor Mattis\nNO. 101 EAL 2016\nSupreme Court of Pennsylvania\nJuly 07, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0479-04",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

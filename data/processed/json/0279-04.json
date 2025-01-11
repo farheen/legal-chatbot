@@ -1,0 +1,62 @@
+{
+  "id": 7946588,
+  "name": "William E. DEMAINE et al. v. Louis CEDRONE et al.",
+  "name_abbreviation": "Demaine v. Cedrone",
+  "decision_date": "1980-02-28",
+  "docket_number": "No. 79-339-Appeal",
+  "first_page": "279",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 316,
+    "ocr_confidence": 0.74,
+    "sha256": "e36811874cf42478f6e0d4ae3dfc2727440dfdca70dea295846b88d32211015f",
+    "simhash": "1:09d330f38a475657",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William E. DEMAINE et al. v. Louis CEDRONE et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendants\u2019 motion to affirm the judgment of the Superior Court pursuant to Rule 16(g) is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "F. Monroe Allen, Providence, for plaintiffs.",
+      "Anthony M. Gallone, Providence, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "William E. DEMAINE et al. v. Louis CEDRONE et al.\nNo. 79-339-Appeal.\nSupreme Court of Rhode Island.\nFeb. 28, 1980.\nF. Monroe Allen, Providence, for plaintiffs.\nAnthony M. Gallone, Providence, for defendants."
+  },
+  "file_name": "0279-04",
+  "first_page_order": 335,
+  "last_page_order": 336
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7958543,
+  "name": "In re JORDAN",
+  "name_abbreviation": "In re Jordan",
+  "decision_date": "1980-11-20",
+  "docket_number": "No. 79-169-A",
+  "first_page": "1195",
+  "last_page": "1195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "423 A.2d 1195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 468,
+    "ocr_confidence": 0.852,
+    "sha256": "555f6716bff8485e5ed98137aa15163c7adf705e37c4cd54f7edc52b2c577424",
+    "simhash": "1:bdda608ebe2864d6",
+    "word_count": 75
+  },
+  "last_updated": "2023-07-14T18:17:26.218735+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re JORDAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nIn light of the parties\u2019 stipulations herein, the Family Court\u2019s determination of waywardness is hereby vacated and this case is remanded to the Family Court with directions to enter an order of discharge.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Sp. Asst. Atty. Gen., for appel-lee.",
+      "John A. MacFadyen III, Barbara Hurst, Mary Nagle, Asst. Public Defenders, for appellant."
+    ],
+    "corrections": "",
+    "head_matter": "In re JORDAN.\nNo. 79-169-A.\nSupreme Court of Rhode Island.\nNov. 20, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Sp. Asst. Atty. Gen., for appel-lee.\nJohn A. MacFadyen III, Barbara Hurst, Mary Nagle, Asst. Public Defenders, for appellant."
+  },
+  "file_name": "1195-04",
+  "first_page_order": 1253,
+  "last_page_order": 1253
+}

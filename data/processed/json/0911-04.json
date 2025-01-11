@@ -1,0 +1,58 @@
+{
+  "id": 12502009,
+  "name": "Daniel GRIFFIN v. US",
+  "name_abbreviation": "Griffin v. United States",
+  "decision_date": "2018-09-06",
+  "docket_number": "16-CO-1117",
+  "first_page": "911",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 911"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 135,
+    "sha256": "cab29c8b75576a2184b28f622b68d92df9c2291c23055e8d2b05ef6267981688",
+    "simhash": "1:6496d2517cdc0c6b",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel GRIFFIN\nv.\nUS"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Daniel GRIFFIN\nv.\nUS\n16-CO-1117\nDistrict of Columbia Court of Appeals.\nSeptember 06, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0911-04",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

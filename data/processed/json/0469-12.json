@@ -1,0 +1,58 @@
+{
+  "id": 12488842,
+  "name": "NEWTON v. MACK",
+  "name_abbreviation": "Newton v. Mack",
+  "decision_date": "2016-10-07",
+  "docket_number": "16\u2013156",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 469"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "f8977ba49ed794ca6f1896ea13966b06ad9588105d32c8a73176cfdd97929a3c",
+    "simhash": "1:785107510e006240",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEWTON\nv.\nMACK"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "NEWTON\nv.\nMACK\n16-156\nSupreme Court of Vermont.\nOctober 7, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0469-12",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

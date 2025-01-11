@@ -1,0 +1,59 @@
+{
+  "id": 12167328,
+  "name": "In re Jason L. Saunderson",
+  "name_abbreviation": "In re Saunderson",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7350",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 9,
+    "char_count": 63,
+    "ocr_confidence": 0.614,
+    "sha256": "6717746121f9f668a5f1b61c922bca5bc2e7df5d809544f4e67da2c058d684bc",
+    "simhash": "1:91b4db12e5795f53",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jason L. Saunderson"
+    ],
+    "opinions": [
+      {
+        "text": "Spectroscopic apparatus.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jason L. Saunderson\n(No. 7350)."
+  },
+  "file_name": "1836-08",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

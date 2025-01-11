@@ -1,0 +1,61 @@
+{
+  "id": 7991418,
+  "name": "Michael J. FEROLA v. John MORAN et al.",
+  "name_abbreviation": "Ferola v. Moran",
+  "decision_date": "1982-03-18",
+  "docket_number": "No. 82-112-M.P.",
+  "first_page": "1346",
+  "last_page": "1346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "444 A.2d 1346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 270,
+    "ocr_confidence": 0.796,
+    "sha256": "c9aa0e15dc406757776781c225a48f78bc47c0e96c218ecbda97f6f8ebb9cc50",
+    "simhash": "1:7c3a74740e6c1d99",
+    "word_count": 45
+  },
+  "last_updated": "2023-07-14T21:42:27.638083+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael J. FEROLA v. John MORAN et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied without prejudice to petitioner\u2019s filing an appropriate action in the Superior Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Michael J. Ferola, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Michael J. FEROLA v. John MORAN et al.\nNo. 82-112-M.P.\nSupreme Court of Rhode Island.\nMarch 18, 1982.\nMichael J. Ferola, pro se."
+  },
+  "file_name": "1346-03",
+  "first_page_order": 1380,
+  "last_page_order": 1380
+}

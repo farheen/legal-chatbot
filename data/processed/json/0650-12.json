@@ -1,0 +1,58 @@
+{
+  "id": 12489652,
+  "name": "IN RE C.R.",
+  "name_abbreviation": "In re C.R.",
+  "decision_date": "2017-02-09",
+  "docket_number": "16\u2013361",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "afc30e0c6b1cd955ae4cae292b04f0fe0792081f1b78733187e4a8cf1e29b4df",
+    "simhash": "1:38370f18dc1440c8",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE C.R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE C.R.\n16-361\nSupreme Court of Vermont.\nFebruary 9, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0650-12",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

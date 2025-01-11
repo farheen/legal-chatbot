@@ -1,0 +1,76 @@
+{
+  "id": 6087189,
+  "name": "In re Carl-Ludwig Nottebohm and Robert Schabert",
+  "name_abbreviation": "In re Nottebohm",
+  "decision_date": "1967-06-15",
+  "docket_number": "No. 7802",
+  "first_page": "1624",
+  "last_page": "1628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1624"
+    },
+    {
+      "type": "parallel",
+      "cite": "154 U.S.P.Q. 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "378 F.2d 964"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 501,
+    "char_count": 9829,
+    "ocr_confidence": 0.443,
+    "pagerank": {
+      "raw": 4.688403287882615e-08,
+      "percentile": 0.176850180110308
+    },
+    "sha256": "5ce633d75bb6b675323df63caac7e5e54359c19f8de03ae6b8b6727fba0f63c4",
+    "simhash": "1:4f69298b3491947f",
+    "word_count": 1604
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Ohief Judge, Rich, Smith, Almond, Associate Judges, and William H. Kirkpatrick"
+    ],
+    "parties": [
+      "In re Carl-Ludwig Nottebohm and Robert Schabert"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered the opinion of the court:\nAppellants appeal from a decision of the Board of Appeals affirming the final rejection of claims 2-4 of their application. No claim has been allowed.\nThe appealed claims were treated by both parties as a group and they stand or fall together. Claim 2 is illustrative and reads:\n2. A non-woven fabric interlining material capable of being permanently attached to a fabric by heat pressing consisting of an open skeleton of polyposed fibers bonded together predominantly at their crossing points with a bonding agent and having at least one free surface thereof uniformly spot-wise coated with exposed discreet [sic] polyethylene particles of a molecular weight between about 5,000 and 70,000 in an amount of about 5 to 50 grams per square yard, said fibers predominantly having a higher melting point than said polyethylene.\nClaim 3 is similar to claim 2 but calls for fused thermoplastic fibers as the bonding agent. Claim 4 is directed to a method for attaching a non-woven interlining to a second fabric by sandwiching polyethylene particles between the interlining and the fabric and then hot-pressing the assembly together.\nThe invention relates to a non-woven interliner, useful as a stiffening material for shirt collars and cuffs, which can be combined with a second fabric by simply hot-pressing the interliner onto the fabric. The interliner is made by sprinkling comminuted polyethylene particles, in an amount between 0.5 and 50 grams per square yard of fabric, onto a non-woven fabric and then heating the combination to adhere the particles to the non-woven fabric. It appears from the application that 5 to 50 grams of polyethylene per square yard are preferred for making strong and permanent interliners but that 0.5 to 5 grams of polyethylene per square yard are suitable for making a temporarily fusible interliner which is useful in certain tailoring operations.\nThe question is whether the claimed subject matter was properly rejected under 35 USC 103 as obvious in view of the following prior art:\nEvans et al. [Evans]_ 2, 237, 344 Apr. 8,1941\nSchramm_ 2, 603, 575 July 15,1952\nNottebohm--- 2,719,806 Oct. 4,1955\nEvans discloses a semistiff collar which is made from a laminated fabric consisting of two layers, at least one of which may be a matted fabric such as paper or felt. They are bonded together by polyethylene having a molecular weight of at least 6000. Although Evans apparently prefers to employ a continuous film of polyethylene for his purposes, the patent states that the polyethylene may be applied to the surface of one of the layers In the form of an aqueous suspension or emulsion by any convenient means such as spraying or brushing.\nSchramm teaches a method of making a stiffened and permeable resin-coated laminated fibrous sheet which is useful in the making of a collar stock. The laminated fibrous sheets may be made by coating a textile fabric or a fibrous sheet material, such as paper or felt, with discrete particles of a thermoplastic material, such as the vinyl resins, and laminating the coated sheet with another sheet. The product of Schramm is stated to be permeable to air and moisture.\nNottebohm discloses a process for the manufacture of a porous and air-permeable sheet material which may be used in the manufacture of shirt collars and other garments. The sheet of Nottebohm is made of polyposed fibers impregnated with binder particles which cement the fibers together at their crossing points. The impregnated sheet can be adhered to fabrics by hot ironing and it constitutes a suitable stiffening material for shirt collars. This reference was cited to show the non-woven fabric in the claims on appeal.\nThe examiner rejected all the claims as \u201cunpatentable over\u201d Schramm in view of Evans and Nottebohm. He considered that Schramm fails as a \u201ccomplete anticipation\u201d only in that the reference does not specify the particular non-woven fabric and the thermoplastic particles claimed. However, the examiner regarded it to be an obvious expedient to use the non-woven fabric of Nottebohm in place of the felt of Schramm and to substitute the thermoplastic material of Evans, polyethylene, for the thermoplastic vinyl resins of Sch-ramm. The examiner additionally rejected all of the claims as \u201cun-patentable over\u201d Evans in view of Nottebohm. In this respect, the examiner considered it to be obvious to use the particular non-woven fabric of Nottebohm for the felt of Evans.\nThe board sustained the examiner\u2019s rejections and found the claimed range of 5 to 50 grams per square yard deposition rate not to be disclosed as critical.\nDuring the proceedings below, Dr. Robert Schabert, one of the appellants herein, submitted an affidavit in an attempt to show the criticality of the molecular weight and amount of the claimed polyethylene particles. It appears from the affidavit that polyethylene having a molecular weight higher or lower than the range recited in the appealed claims is unsuitable for the present purpose. Additionally, the affidavit shows that (1) the adhesiveness between the non-woven fabric and the second fabric is very poor when only 3 grams of polyethylene are used per square yard of fabric, and (2) the breathing properties and stiffness of the fabric are poor when more than 50 grams of polyethylene are used per square yard of fabric.\nThe examiner and the board found the affidavit unconvincing. As to the molecular weight of the polyethylene, the examiner and the board pointed out that the polyethylene of Evans is specified to have a molecular weight of at least 6000 and even if Evans is restricted to the only specific molecular weight recited, the appellants\u2019 range of 5,000 to 70,000 represents no departure therefrom. As to the amount of polyethylene used, the examiner noted that the claimed range defines the limits of suitable adherence and permeability for a particular product and that this is a matter of choice. The board\u2019s position on the alleged criticality of the amount of polyethylene is that this factor was not disclosed as critical nor shown to be \u201cuniversally critical to base fabrics of any and every thickness.\u201d\nAfter a careful consideration of the record, we are of the view that the board\u2019s conclusion as to obviousness is supported by the facts of record and therefore it must be affirmed.\nSchramm discloses a laminated and moisture-permeable collar stock made by laminating two sheets of textile fabrics together, using as the binder thereinbetween a thermoplastic vinyl plastic. This is basically the type of products appellants are claiming. True, appellants use a particular sheeting material and a particular thermoplastic resin not shown in Schramm. However, these particular materials are clearly disclosed in the secondary references. In Anew of the fact that all three references are directed to the art of making a collar stock and the fact that the specific materials disclosed in the secondary references are employed for substantially the same purposes as those of the corresponding materials in Schramm, we find no error in the manner in which these references are combined. In this regard we note that though Evans prefers to use a film of polyethylene as the binding material, the patent does disclose the coating of a fabric surface by spraying or brushing an aqueous suspension or emulsion of polyethylene which, as the examiner has suggested, may result in a particulate deposit. In any event, Evans was not specifically concerned with a moisture and air-permeable product whereas Schramm is specifically directed to the manufacture of such a product. We are of the opinion that, given the need for such a permeable product, it would be obvious to modify the layer of bonding material of Evans to that shown by Schramm.\nWe are also not persuaded by the affidavit of Schabert. Appellants\u2019 claimed range of molecular Aveight is inclusive of one specific number disclosed in Evans. As to the amount of the binder resin to be used, we find the appellants\u2019 claimed range to be obvious within the meaning of 35 USC 103. Once the desired objective or producing a moisture and air-permeable collar stock is stated, the amount of polyethylene binder to be used in such a product seems to us to be susceptible to routine experimental determination, absent some unforeseeable difficulty.\nAppellants contend that the method of Schramm, when carried out with the polyethylene particles would cause a binder deposit of about 80 grams per square yard, thus resulting in a product which is too stiff and unsuitable. We note, however, that, there is no claim that appellants\u2019 method of depositing the polyethylene particles is unique or unobvious, and that the claims are not directed to the method of such deposition. There is no showing that once the optimum amount of polyethylene to be used has been determined, that amount cannot be deposited onto the sheet materials by an obvious method.\nThe decision of the board is affirmed.\nSerial No. 28,878, filed May 13, 1960, for \u201cProduction of Non-Woven Fabrics Suitable for use In Stiffening Garments.\u201d\nThere is no question in the present case that the rejection is one of obviousness within the meaning of 35 USC 103.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Burgess, Dinlclage & Sprung, Arnold, Sprung, Michael G. Gilman for appellants.",
+      "Joseph Schimmel (Raymond E. Martin, of counsel) for the Comissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "378 F. 2d 964; 154 USPQ 41\nIn re Carl-Ludwig Nottebohm and Robert Schabert\n(No. 7802)\nUnited States Court of Customs and Patent Appeals,\nJune 15, 1967\nBurgess, Dinlclage & Sprung, Arnold, Sprung, Michael G. Gilman for appellants.\nJoseph Schimmel (Raymond E. Martin, of counsel) for the Comissioner of Patents.\n[Oral argument May 2, 1967 by Mr. Gilman and Mr. Martin]\nBefore Worley, Ohief Judge, Rich, Smith, Almond, Associate Judges, and William H. Kirkpatrick\nPetition for reRearing denied November 9, 1967.\nSenior District Judge, Eastern District of Pennsylvania, sitting by designation."
+  },
+  "file_name": "1624-01",
+  "first_page_order": 964,
+  "last_page_order": 968
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501885,
+  "name": "COM. v. GORDON, J.",
+  "name_abbreviation": "Com. v. Gordon",
+  "decision_date": "2018-07-30",
+  "docket_number": "469 EDA 2017",
+  "first_page": "718",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 718"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 133,
+    "sha256": "96cbcd82c8b2a37cfe654e78a5cc6e7cb73b896235a1ebe8b09974468a566ec2",
+    "simhash": "1:369416bac1e28794",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGORDON, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGORDON, J.\n469 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 30, 2018\nAffirmed - Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "0718-04",
+  "first_page_order": 718,
+  "last_page_order": 718
+}

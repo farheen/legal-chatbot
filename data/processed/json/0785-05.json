@@ -1,0 +1,58 @@
+{
+  "id": 12487423,
+  "name": "Com. v. R. Matthews",
+  "name_abbreviation": "Com. v. Matthews",
+  "decision_date": "2016-04-19",
+  "docket_number": "NO. 1320 EDA 2015",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 785"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "4061da5e83ea46479fa9614c3841c25cc1e985e36c84b4066c2509950368a174",
+    "simhash": "1:730164d51ea297c0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Matthews"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Matthews\nNO. 1320 EDA 2015\nSuperior Court of Pennsylvania.\nApril 19, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0785-05",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

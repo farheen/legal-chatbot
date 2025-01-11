@@ -1,0 +1,81 @@
+{
+  "id": 7947164,
+  "name": "John R. JONES, Jr. v. Walter MOSLEY",
+  "name_abbreviation": "Jones v. Mosley",
+  "decision_date": "1980-03-04",
+  "docket_number": "No. 77-361-A",
+  "first_page": "282",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "108 R.I. 198",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3154739
+      ],
+      "weight": 2,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/108/0198-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 669,
+    "ocr_confidence": 0.774,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20064026898865533
+    },
+    "sha256": "51d1cbcc2042857a654af94874e8caf5f42ee1f66a41448559d5811831dc15de",
+    "simhash": "1:1a7f48f35126fc33",
+    "word_count": 114
+  },
+  "last_updated": "2024-02-27T18:59:24.312248+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John R. JONES, Jr. v. Walter MOSLEY."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant was directed to appear on March 3, 1980, and Show Cause why his appeal should not be dismissed in view of the fact that his motion for a new trial was not supported by allegations appropriate for such a motion following a jury-waived case, Colvin v. Goldenberg, 108 R.I. 198, 273 A.2d 663 (1971), and further, that the remaining issues he raised lacked merit. No cause having been shown, the appeal is hereby dismissed and the papers are remanded to the Superior Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Kathleen Managhan, Newport, for plaintiff.",
+      "Dean J. Lewis, Newport, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "John R. JONES, Jr. v. Walter MOSLEY.\nNo. 77-361-A.\nSupreme Court of Rhode Island.\nMarch 4, 1980.\nKathleen Managhan, Newport, for plaintiff.\nDean J. Lewis, Newport, for defendant."
+  },
+  "file_name": "0282-03",
+  "first_page_order": 338,
+  "last_page_order": 338
+}

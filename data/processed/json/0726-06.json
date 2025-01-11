@@ -1,0 +1,58 @@
+{
+  "id": 12487142,
+  "name": "Commonwealth v. Kali A. Smith",
+  "name_abbreviation": "Commonwealth v. Smith",
+  "decision_date": "2016-08-29",
+  "docket_number": "NO. 259 MAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "23fd9c8e22d8c17284bf108bbb6c63aeb4fd3a5a33d6996f6af0b21f5cf8aba5",
+    "simhash": "1:bcae54ba908929b0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nKali A. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nKali A. Smith\nNO. 259 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 29, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-06",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

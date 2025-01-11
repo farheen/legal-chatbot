@@ -1,0 +1,58 @@
+{
+  "id": 12485927,
+  "name": "Com. v. D. Ball",
+  "name_abbreviation": "Com. v. Ball",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 1909 MDA 2014",
+  "first_page": "593",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "5109f1f973249af6d0a2cf061d34bc6bec553f0e84014327082427bb0b83bae7",
+    "simhash": "1:ad0e5e38e44b6f80",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Ball"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Ball\nNO. 1909 MDA 2014\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0593-08",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

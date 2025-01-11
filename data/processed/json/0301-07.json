@@ -1,0 +1,58 @@
+{
+  "id": 12490546,
+  "name": "JONES, D. v. PENNDOT",
+  "name_abbreviation": "Jones v. Penndot",
+  "decision_date": "2017-04-11",
+  "docket_number": "1361 CD 2016",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 142,
+    "sha256": "5acec4d5f8457e7bd14707529279c142c2c90206f24a556da915738ca535ca84",
+    "simhash": "1:ba8587e6cf3c9fc0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONES, D.\nv.\nPENNDOT"
+    ],
+    "opinions": [
+      {
+        "text": "Vacated and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "JONES, D.\nv.\nPENNDOT\n1361 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 11, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0301-07",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

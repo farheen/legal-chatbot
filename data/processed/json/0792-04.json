@@ -1,0 +1,83 @@
+{
+  "id": 12490913,
+  "name": "STATE of Connecticut v. Kareem LEACH",
+  "name_abbreviation": "State v. Leach",
+  "decision_date": "2016-11-29",
+  "docket_number": "",
+  "first_page": "792",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 792"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 948"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Conn.App. 28",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12485006
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/138-2/0445-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 362,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578436040093457
+    },
+    "sha256": "22ffb866369693452f91abd1398316e28f80a927b9df4453a0a0944853f95fdc",
+    "simhash": "1:321f00aa9331b0f3",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nKareem LEACH"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 28, 138 A.3d 445 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nKareem LEACH\nSupreme Court of Connecticut.\nDecided November 29, 2016\nGlenn W. Falk, assigned counsel, in support of the petition.\nLaurie N. Feldman, special deputy assistant state's attorney, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 28, 138 A.3d 445 (2016), is denied."
+  },
+  "file_name": "0792-04",
+  "first_page_order": 792,
+  "last_page_order": 793
+}

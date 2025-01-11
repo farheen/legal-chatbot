@@ -1,0 +1,106 @@
+{
+  "id": 11242339,
+  "name": "Terry WILLIAMS, Petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent",
+  "name_abbreviation": "Williams v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2000-08-10",
+  "docket_number": "",
+  "first_page": "436",
+  "last_page": "438",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "757 A.2d 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "18 Pa. Bull. 251",
+      "category": "laws:admin_register",
+      "reporter": "Pa. Bull.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Pa. Bull. 3890",
+      "category": "laws:admin_register",
+      "reporter": "Pa. Bull.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 U.S. 78",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7184
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0078-01"
+      ]
+    },
+    {
+      "cite": "37 Pa. Code \u00a7 71.5",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "pin_cites": [
+        {
+          "page": "(e)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 5150,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 9.505882454708161e-08,
+      "percentile": 0.5238160603185745
+    },
+    "sha256": "43e105cf7637a4d9a809838f1ce7b7dadae7ed4bf66b6832683032f453167502",
+    "simhash": "1:3555669e28b1865b",
+    "word_count": 852
+  },
+  "last_updated": "2024-02-27T19:28:08.003228+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before PELLEGRINI, Judge, FLAHERTY, Judge, and McCLOSKEY, Senior Judge."
+    ],
+    "parties": [
+      "Terry WILLIAMS, Petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "PELLEGRINI, Judge.\nBefore this Court is the response filed by the Pennsylvania Board of Probation and Parole (Board) pursuant to our order dated April 10, 2000, directing the Board to explain why it had not followed through with its response that it was going to reinsert the \u201cgood cause\u201d requirement into 37 Pa.Code \u00a7 71.5(e).\nThe genesis of this order was a petition for review filed by Terry Williams (Williams) from a Board order revoking his parole and imposing backtime for parole violations arising out of his conviction of criminal offenses while on parole. Williams argued on appeal that his due process rights had been violated because his parole revocation hearing was not held within 120 days as set forth in 37 Pa.Code \u00a7 71.4(1). The Board, however, contended that Williams\u2019 parole revocation did not have to be held within 120 days because he was in prison serving time for the new charges. The Board relied upon 37 Pa. Code \u00a7 71.5(e), which provides:\n\u201cNotwithstanding \u00a7 71.4 (relating to convictions for a new criminal offense), the Board may defer the revocation hearing until either partial or full service of a new sentence which parolee receives.\u201d\nRelying on the holding in Moody v. Daggett, 429 U.S. 78, 97 S.Ct. 274, 50 L.Ed.2d 236 (1976), we agreed with the Board that this provision did not violate due process, and it could, if it desired, defer the hearing until after the sentence was partially served. However, we noted that the Board was applying 37 Pa.Code \u00a7 71.5(e) for the first time since the regulation was promulgated 12 years prior, specifically stating:\nIn 1987, the Board, in accordance with Section 201 of the Commonwealth Documents Law (citation omitted), published in the Pennsylvania Bulletin, proposed amendments to the regulation exactly the way Section 71.5(e) now reads in the Pennsylvania Code. 17 Pa. Bull. 3890. As required by Section 202 of the Law, 45 P.S. \u00a7 1202, that requires \u201c[b]efore taking action upon any administrative regulation or change therein the agency shall review and consider any written comments submitted pursuant to section 201,\u201d in response to comments made to the proposed amendments, the Board replied that \u201c[t]he assistant defenders objected to the proposed deletion of a good cause requirement for deferral of revocation hearings until after the service of a new sentence for a crime committed during the period of parole (\u00a7 71.5(e)). The Board has retained the good cause requirement in response to this comment.\u201d 18 Pa. Bull. 251. While they stated that it was going to be retained, the Board did not do so in the final version of the regulation.\nBecause the record did not explain why the Board did not follow through with its response that it was going to reinsert the \u201cgood cause\u201d requirement into Section 71.5(e), we remanded the matter to the Board for an explanation as to why its' answer to the comment was not followed.\nPursuant to our order, the Board has provided the following \u201cExplanation\u201d to the Court:\nThe Board has attempted to make the determination as requested by the Court. Our inquiries, however, have led ' us to conclude that we cannot determine why a \u201cgood cause\u201d requirement was not maintained in the regulation in question. In other words, there is no written record detailing a reason for the non-inclusion of a \u201cgood cause\u201d requirement. As a practical matter, administratively, a \u201cgood cause\u201d requirement is implicit within the regulation.\nInterpreting the regulation to include \u201cgood cause,\u201d as the Board suggests, we must then decide whether there was \u201cgood cause\u201d to hold the revocation hearing past 120 days.\nThe Board contends that it had \u201cgood cause\u201d simply because it was entitled to defer the revocation hearing until Williams had served at least some time on his new sentence of eight to sixteen years for violent crimes he had committed. Applying the \u201cgood cause\u201d standard to this case, the Board\u2019s reason for its failure to provide Williams with a timely hearing is insufficient. \u201cGood cause\u201d in delaying the hearing means, for example, an illness or the prisoner is serving prison discipline. Merely delaying a revocation hearing beyond the 120-day requirement just so an inmate may serve an unspecified amount of time on his new sentence without any further justification does not equate with holding a hearing within a reasonable time or comport with due process. Accordingly, the decision of the Board is reversed. \u2019\nORDER\nAND NOW, this 10th day of August, 2000, the decision of the Pennsylvania Board of Probation and Parole is reversed.\n. 37 Pa.Code \u00a7 71.4(1) provides that \u201c[a] revocation hearing shall be held within 120 days from the date the Board received official verification of the plea of guilty or nolo contende-re or of the guilty verdict at the highest trial court level ...\u201d",
+        "type": "majority",
+        "author": "PELLEGRINI, Judge."
+      }
+    ],
+    "attorneys": [
+      "David Crowley, Bellefonte, for petitioner.",
+      "Susan M. Zeamer, Harrisburg, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Terry WILLIAMS, Petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, Respondent.\nCommonwealth Court of Pennsylvania.\nSubmitted on Briefs Jan. 21, 2000.\nDecided Aug. 10, 2000.\nDavid Crowley, Bellefonte, for petitioner.\nSusan M. Zeamer, Harrisburg, for respondent.\nBefore PELLEGRINI, Judge, FLAHERTY, Judge, and McCLOSKEY, Senior Judge."
+  },
+  "file_name": "0436-01",
+  "first_page_order": 484,
+  "last_page_order": 486
+}

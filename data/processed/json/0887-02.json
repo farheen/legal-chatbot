@@ -1,0 +1,606 @@
+{
+  "id": 11837105,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. William Joseph KARAFFA, Appellant",
+  "name_abbreviation": "Commonwealth v. Karaffa",
+  "decision_date": "1998-04-03",
+  "docket_number": "",
+  "first_page": "887",
+  "last_page": "892",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "709 A.2d 887"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "645 A.2d 1300",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7874424,
+        475553
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1304"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/645/1300-01",
+        "/pa/538/0086-01"
+      ]
+    },
+    {
+      "cite": "538 Pa. 86",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        475553
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/538/0086-01"
+      ]
+    },
+    {
+      "cite": "409 Pa.Super. 611",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        901194
+      ],
+      "weight": 8,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "616"
+        },
+        {
+          "page": "1014"
+        },
+        {
+          "page": "616"
+        },
+        {
+          "page": "1014"
+        },
+        {
+          "page": "613"
+        },
+        {
+          "page": "1012"
+        },
+        {
+          "page": "616"
+        },
+        {
+          "page": "1014"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/409/0611-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 391",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736904
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that error can only be deemed harmless if appellate court is convinced beyond a reasonable doubt that error was harmless and error cannot be deemed harmless whenever there is a reasonable possibility that error might have contributed to the verdict"
+        },
+        {
+          "parenthetical": "holding that error can only be deemed harmless if appellate court is convinced beyond a reasonable doubt that error was harmless and error cannot be deemed harmless whenever there is a reasonable possibility that error might have contributed to the verdict"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0391-01"
+      ]
+    },
+    {
+      "cite": "701 A.2d 1343",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        18367,
+        11907698,
+        11907607
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "noting proposition that cases predating Oleynik examined the submission of written instructions for abuse of discretion and prejudice to the defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0545-01",
+        "/a2d/701/1343-02",
+        "/a2d/701/1343-01"
+      ]
+    },
+    {
+      "cite": "549 Pa. 545",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        18367
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "noting proposition that cases predating Oleynik examined the submission of written instructions for abuse of discretion and prejudice to the defendant"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/549/0545-01"
+      ]
+    },
+    {
+      "cite": "484 Pa. 527",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1753777
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that the trial court did not abuse its discretion and that appellant suffered no prejudice by the submission of written notations on the verdict slip to the jury"
+        },
+        {
+          "parenthetical": "holding that the trial court did not abuse its discretion and that appellant suffered no prejudice by the submission of written notations on the verdict slip to the jury"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/484/0527-01"
+      ]
+    },
+    {
+      "cite": "494 A.2d 367",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1794010,
+        1794053
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that there was neither abuse of discretion nor possibility of prejudice to appellant from the court's use of a written list of aggravating and mitigating circumstances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0051-01",
+        "/pa/508/0050-01"
+      ]
+    },
+    {
+      "cite": "508 Pa. 51",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1794010
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that there was neither abuse of discretion nor possibility of prejudice to appellant from the court's use of a written list of aggravating and mitigating circumstances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/508/0051-01"
+      ]
+    },
+    {
+      "cite": "466 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1714938
+      ],
+      "weight": 10,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "413"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "397-98"
+        },
+        {
+          "page": "414"
+        },
+        {
+          "page": "396"
+        },
+        {
+          "page": "413"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/466/0382-01"
+      ]
+    },
+    {
+      "cite": "524 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822847
+      ],
+      "weight": 9,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "46"
+        },
+        {
+          "page": "1241"
+        },
+        {
+          "page": "46-47"
+        },
+        {
+          "page": "1241"
+        },
+        {
+          "page": "45, n. 2"
+        },
+        {
+          "page": "1240, n. 2"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/524/0041-01"
+      ]
+    },
+    {
+      "cite": "247 So.2d 495",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9745097
+      ],
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/247/0495-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 504",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "115 S.Ct. 591",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "513 U.S. 1022",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1335618,
+        1333571,
+        1331079,
+        1334952,
+        1333928,
+        1331531,
+        1333562,
+        1333613,
+        1335601,
+        1333491,
+        1334806,
+        1335926,
+        1332922,
+        1330687
+      ],
+      "year": 1994,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/513/1022-03",
+        "/us/513/1022-05",
+        "/us/513/1022-07",
+        "/us/513/1022-04",
+        "/us/513/1022-14",
+        "/us/513/1022-08",
+        "/us/513/1022-10",
+        "/us/513/1022-06",
+        "/us/513/1022-01",
+        "/us/513/1022-09",
+        "/us/513/1022-02",
+        "/us/513/1022-12",
+        "/us/513/1022-13",
+        "/us/513/1022-11"
+      ]
+    },
+    {
+      "cite": "771 P.2d 1330",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "1334"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "258 Cal.Rptr. 242",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr.",
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "48 Cal.3d 935",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        4615837
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-3d/48/0935-01"
+      ]
+    },
+    {
+      "cite": "397 N.W.2d 512",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        10660375
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nw2d/397/0512-01"
+      ]
+    },
+    {
+      "cite": "669 F.2d 1374",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1161271
+      ],
+      "pin_cites": [
+        {
+          "page": "1386-87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/669/1374-01"
+      ]
+    },
+    {
+      "cite": "69 Calif. L.Rev. 731",
+      "category": "journals:journal",
+      "reporter": "Calif. L. Rev.",
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "740-44"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "17 Law & Soc'y Rev. 153",
+      "category": "journals:journal",
+      "reporter": "Law & Soc'y Rev.",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "154, 172",
+          "parenthetical": "in a study of the effectiveness of pattern jury instructions, nearly one quarter of 405 mock juries requested written clarification of the instructions"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "348 N.E.2d 642",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "264 Ind. 688",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1791439
+      ],
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ind/264/0688-01"
+      ]
+    },
+    {
+      "cite": "91 AL.R.3d 382",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1979,
+      "opinion_index": 1
+    },
+    {
+      "cite": "330 U.S. 631",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353760
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "643",
+          "parenthetical": "allowing the jury to have a typewritten copy of the court's charge does not warrant the inference of unfairness or irregularity in the trial"
+        },
+        {
+          "page": "879-80",
+          "parenthetical": "allowing the jury to have a typewritten copy of the court's charge does not warrant the inference of unfairness or irregularity in the trial"
+        },
+        {
+          "parenthetical": "allowing the jury to have a typewritten copy of the court's charge does not warrant the inference of unfairness or irregularity in the trial"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/330/0631-01"
+      ]
+    },
+    {
+      "cite": "30 Cal. St. B.J. 405",
+      "category": "journals:journal",
+      "reporter": "Cal. St. B.J.",
+      "year": 1955,
+      "pin_cites": [
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "524 Pa. 41",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1822847
+      ],
+      "weight": 2,
+      "year": 1990,
+      "opinion_index": 1,
+      "case_paths": [
+        "/pa/524/0041-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1033,
+    "char_count": 21794,
+    "ocr_confidence": 0.707,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24348485181954624
+    },
+    "sha256": "f81b06706b54ccd3d60172f4677321346ca4d88585aff8c961b688b524d24edf",
+    "simhash": "1:861887caebd93dbb",
+    "word_count": 3433
+  },
+  "last_updated": "2024-02-27T16:49:22.781212+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. William Joseph KARAFFA, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nNIGRO, Justice.\nIn this case, Appellant William Karaffa appeals from the order of the Superior Court affirming Appellant\u2019s judgment of sentence entered in the Court of Common Pleas of Butler County. For the reasons outlined below, we reverse and remand for a new trial.\nOn December 23, 1992, Karaffa was charged with a number of offenses, including two counts of rape, two counts of conspiracy to commit rape, indecent assault, making false reports, indecent exposure, involuntary deviate sexual intercourse and unlawful restraint. At trial, the victim testified that she was raped by Karaffa and that Karaffa\u2019s co-defendant, Tina Gately, forced oral intercourse upon her at a motel where Karaffa and Gately were staying. Following a verbal charge to the jury, the trial court, without objection by Karaffa\u2019s trial counsel, allowed the jurors to deliberate with a written instruction on the elements of unlawful restraint as well as a written definition of reasonable doubt. On March 23, 1994, the jury convicted Karaffa of two counts of rape, indecent assault, making false reports, indecent exposure and conspiracy to commit rape. The court then sentenced Karaffa to a term of imprisonment of a minimum of ten to a maximum of twenty years and subsequently denied post-sentence motions filed by Ka-raffa.\nOn appeal, Karaffa raised multiple issues, including the allegation that the trial court had erred by submitting written instructions to the jury while it deliberated and that trial counsel was ineffective for failing to object to this submission. Athough the Superior Court found that it was error for the trial court to give the jury written instructions, it nonetheless concluded that such error was harmless. The Superior Court rejected Karaffa\u2019s remaining claims and affirmed his judgment of sentence. We granted allocatur to determine whether the Superior Court erred in finding the submission of written instructions to the jury to be harmless error and whether trial counsel was ineffective for failing to object to the trial court\u2019s actions. Since we agree with Karaffa that our decision in Commonwealth v. Oleynik, 524 Pa. 41, 568 A.2d 1238 (1990), controls and therefore, reversible rather than harmless error was committed by the trial court, we reverse. In so doing, we reemphasize this Court\u2019s holding and rationale in Oleynik, so that it is clear that the submission of written jury instructions constitutes reversible error in this Commonwealth.\nIn Oleynik, this Court found that the submission of written instructions to the jury during deliberations was unfairly prejudicial and granted a new trial on that basis. Prior to Oleynik, this Court had consistently articulated a strong preference for issuing oral, rather than written, instructions to the jury. In 1976, this Court first addressed the issue of submitting written instructions to the jury in Commonwealth v. Baker, 466 Pa. 382, 353 A.2d 406 (1976) (plurality opinion). In Baker, the trial court had relied on Pa.R.Crim.P. 1114 in determining that sending written questions with possible verdicts to the jury would be beneficial to its deliberations and therefore proper. Id. at 397, 353 A.2d at 413. Noting that Pa.R.Crim.P. 1114 did not specifically prohibit this practice, a plurality of this Court therefore held that the trial court had not abused its discretion in submitting these written instructions to the jury. Id. at 397, 353 A.2d at 414. Significantly, however, this Court also recognized the \u201cinherent dangers\u201d in using written instructions and therefore cautioned that \u201cin the future this practice should not be followed.\u201d Id. at 397-98, 353 A.2d at 414.\nWhile the preference disfavoring written jury instructions continued to be expressed by this Court after Baker, any alleged error resulting from the submission of written instructions was examined for an abuse of discretion by the trial court and in light of possible prejudice to the defendant. See Commonwealth v. Morales, 508 Pa. 51, 494 A.2d 367 (1985) (holding that there was neither abuse of discretion nor possibility of prejudice to appellant from the court\u2019s use of a written list of aggravating and mitigating circumstances); Commonwealth v. Kelly, 484 Pa. 527, 399 A.2d 1061 (1979) (holding that the trial court did not abuse its discretion and that appellant suffered no prejudice by the submission of written notations on the verdict slip to the jury). See also Commonwealth v. Todaro, 549 Pa. 545, 701 A.2d 1343 (1997) (noting proposition that cases predating Oleynik examined the submission of written instructions for abuse of discretion and prejudice to the defendant). A stricter, if not bright-line, approach to evaluating the use of written jury instructions for error was not adopted until this Court\u2019s decision in Oleynik.\nIn Oleynik, this Court specifically held that the possible prejudice to a defendant from providing written instructions to a jury universally outweighs any benefit such instructions might provide. Oleynik, 524 Pa. at 46, 568 A.2d at 1241. This holding stemmed from the recognition \u201cthat a jury would [likely] assess undue weight to the points of law in written instructions and possibly misinterpret or misapply the law\u201d and that this \u201cundue emphasis on portions of the charge has the potential of undermining the integrity of the deliberative process.\u201d Id. at 46-47, 568 A.2d at 1241. Accordingly, the Oleynik Court concluded that the submission of written jury instructions at Oleynik\u2019s trial constituted reversible error. Id.\nWhile the Superior Court in the instant case agreed that the trial court\u2019s use of written jury instructions constituted error, the court nonetheless departed from Oleynik and found such error to be harmless. In reaching this conclusion, however, the Superior Court examined the issue under the mistaken belief that the jury had been allowed to deliberate only with a written definition of unlawful restraint. Under this premise, the Superior Court found that since the jury had not convicted Karaffa of unlawful restraint, the trial court\u2019s error had been harmless. Notwithstanding the Superior Court\u2019s oversight of the jury\u2019s use of written instructions also defining reasonable doubt, we find that the Superior Court erred in employing a harmless error analysis.\nIn light of Oleynik's discussion on the potential adverse influence of written instructions on a jury\u2019s deliberative process, the very process that leads to its verdict, it would be logically unsound to conclude beyond a reasonable doubt that there was not a reasonable possibility that the instructions received by the jury contributed to its verdict. See Commonwealth v. Story, 476 Pa. 391, 383 A.2d 155 (1978) (holding that error can only be deemed harmless if appellate court is convinced beyond a reasonable doubt that error was harmless and error cannot be deemed harmless whenever there is a reasonable possibility that error might have contributed to the verdict). Indeed, the Superior Court, contrary to its conclusion in the instant case, has previously held that a trial court\u2019s submission of written instructions to the jury was reversible error. Commonwealth v. Byrd, 409 Pa.Super. 611, 616, 598 A.2d 1011, 1014 (1991). In Commonwealth v. Byrd, the Superior Court specifically relied on Oleynik\u2019s holding regarding the blanket prejudicial effect of written instructions in reaching its conclusion that reversible, and not harmless, error had occurred from the trial court\u2019s use of this device. Id. at 616, 598 A.2d at 1014.\nIn support of its argument that the use of written instructions in the instant case amounted only to harmless error, the Commonwealth adopts the reasoning of the Superior Court and argues that because no prejudice occurred to Karaffa from the jury\u2019s use of partial written instructions, Oleynik does not mandate a reversal. The Commonwealth\u2019s argument, however, misconstrues the fundamental principle of Oleynik that the use of written jury instructions is intrinsically prejudicial and it is this intrinsic, unfair prejudice that requires granting a new trial. Contrary to both the Commonwealth\u2019s assertions and the Superior Court\u2019s determination below, then, Oleynik discloses what today\u2019s holding strives to make clear\u2014it is reversible error for a trial court to send written instructions to a jury during its deliberations.\nFinally, the Superior Court found that trial counsel was not ineffective for failing to object to the use of written instructions because Karaffa had failed to demonstrate how the trial counsel\u2019s inaction prejudiced him. We disagree. The three prong test under which claims of ineffective assistance of counsel are to be reviewed when presented on direct appeal is well settled. To prevail on such a claim, Appellant must demonstrate (1) that the underlying claim is of arguable merit; (2) that counsel\u2019s course of conduct was without a reasonable basis designed to effectuate his client\u2019s interest; and (3) that he was prejudiced by counsel\u2019s ineffectiveness. See Commonwealth v. Howard, 538 Pa. 86, 93, 645 A.2d 1300, 1304 (1994). Considering Oleynik\u2019s directive that it is improper for a trial court to submit written instructions to a jury given the inherent prejudice in this practice, this Court has little difficulty in determining that counsel was ineffective for failing to object to the use of written instructions under this three prong standard and specifically, that Karaffa was prejudiced by trial counsel\u2019s omission.\nAccordingly, the order of the Superior Court is reversed and the matter is remanded for a new trial. Jurisdiction relinquished.\nCASTILLE, J., files a dissenting opinion in which NEWMAN, J., joins.\n. The relevant statutory provisions of the offenses charged are as follows: rape (18 Pa.C.S. \u00a7 3121(1) & (2)), criminal conspiracy to commit rape (18 Pa.C.S. \u00a7 903), indecent assault (18 Pa.C.S. \u00a7 3126), making false reports (18 Pa.C.S. \u00a7 4906), indecent exposure (18 Pa.C.S. \u00a7 3127), involuntary deviate sexual intercourse (18 Pa. C.S. \u00a7 3123) and unlawful restraint (18 Pa.C.S. \u00a7 2902). Karaffa was also charged with terroristic threats (18 Pa.C.S. \u00a7 2706) and simple assault (18 Pa.C.S. \u00a7 2701).\n. In light of our resolution of this initial matter, we need not address Karaffa\u2019s remaining claims that the Superior Court erred in finding that trial counsel was not ineffective for failing to 1) request cautionary instructions explaining the limited purpose for which the evidence of Karaffa's prior bad acts was admissible and 2) object to the prosecutor\u2019s comments regarding Karaffa's credibility during closing arguments.\n. Pa.R.Crim.P. 1114 permits exhibits to be sent out with the jury at the discretion of the trial court, but specifically forbids giving the jury a transcript of any trial testimony, a copy of any confession by the defendant, or a copy of the information or indictment. However, as this Court noted in Oleynik, any reliance on Pa.R.Crim.P. 1114 is misplaced in this context given that this rule is concerned with which trial exhibits, and not instructions, the jury is permitted to take with it during deliberations. See Oleynik, 524 Pa. at 45, n. 2, 568 A.2d at 1240, n. 2.\n. Specifically, this Court expressed its belief that the inherent dangers of utilizing written instructions outweigh the possible benefit to be derived therefrom and explained that \u201cthe obvious danger in such a practice is that the jurors may tend to overemphasize the importance of the matters touched upon within such a memoranda and possibly ignore the totality of the oral charge.\" Baker, 466 Pa. at 396, 353 A.2d at 413.\n. In Byrd, the trial court had utilized written instructions not only in its basic charge to the jury but also in response to an inquiry from the jury concerning the meaning of the term \"consciously.\u201d In evaluating Byrd's allegation that the trial court had erred in employing this practice, the Superior Court stated that \"in as much as the submission of written instructions to the jury is not consistent with our Supreme Court's mandate in Commonwealth v. Oleynik, we are constrained to reverse the judgment of sentence and remand for a new trial.\u201d Byrd, 409 Pa.Super. at 613, 598 A.2d at 1012.\n. Again, this finding by the Superior Court contradicts its finding in Commonwealth v. Byrd, where the Court reversed the trial court on the basis that it had utilized written instructions, specifically stating that \"the fact that the claim has merit and that the defendant has been prejudiced has already been decided by our Supreme Court in Oleynik.\u201d Byrd, 409 Pa.Super. 611, 616, 598 A.2d 1011, 1014 (1991).",
+        "type": "majority",
+        "author": "NIGRO, Justice."
+      },
+      {
+        "text": "CASTILLE, Justice,\ndissenting.\nI respectfully dissent to the majority\u2019s conclusion that it was reversible error for the trial court to submit written instructions to the jury in this ease. I believe that Commonwealth v. Oleynik, 524 Pa. 41, 568 A.2d 1238 (1990) was wrongly decided, and that trial courts should have discretion to submit standard written instructions to juries in appropriate circumstances.\nThe holding of Oleynik and the majority\u2019s position in the instant matter increase the risk, particularly in long and complicated trials, that the jury will be unable to properly apply the law to the facts of the case because it is unable to understand or remember the legal principles enunciated in the oral charge. Jury instructions have become so complex and laden with legalese that they are virtually incomprehensible at times to the average juror. Unless it requests repetition by the court, the jury hears the often obscurely worded instructions once. The jury receives no further legal guidance during its arduous journey towards reaching a verdict. I believe that permitting trial judges to submit written jury instructions could improve jury comprehension and the reliability of verdicts.\nWritten instructions are highly appropriate to assist jurors who do not understand or accurately recall the trial judge\u2019s instructions after the initial oral presentation by the judge. The majority\u2019s position fails to recognize that jurors do not have perfect memories. There is an invariable risk that jurors will not remember or comprehend the quantity of complex information necessary to make informed and well-reasoned verdicts without the use of some form of written aid. \u201cOne of the greatest fictions known to the law is that a jury of twelve laymen can hear a judge read a set of instructions once, then understand them, digest them, and correctly apply them to the facts in the case., It has taken the judge and the lawyers years of study to understand the law as stated in those instructions.\u201d Susan R. Schwaiger, The Submission of Written Instructions and Statutory Language to New York Criminal Juries, 56 Brooklyn L.Rev. 1358, 1360 (1991) (quoting Judge Frank Swain, Common Sense in Jury Trials, 30 Cal. St. B.J. 405, 412 (1955)).\nAt common law, the submission of written materials to the jury was prohibited because of the concern that literate jurors would have unfair influence over nonliterate jurors, thereby prejudicing the verdict. See Robert G. Nieland, Pattern Jury Instructions: A Critical Look at a Modem Movement to Improve the Jury System, 29-30 (1979). Literacy is no longer a primary concern, and modem trials have made exclusive reliance on oral presentation impractical. Further, differences in education and social status always affect the relative roles of jurors, and better-educated jurors are likely to be influential even if the instructions are given orally. It is possible that a juror with a stronger vocabulary would glean more from the oral instruction and become the legal expert of the jury, dominating the deliberation. By contrast, if the jury is provided written instructions in addition to oral instructions, a juror who did not capture a crucial legal concept during the oral presentation can reread the instruction. With oral instructions, a confused juror must either rely on the memory of a fellow juror or persuade the entire jury to approach the court for re-instruction. In Oleynik, this Court adhered to the common law tradition in the face of overwhelming evidence that the concerns that gave rise to that tradition are now obsolete and that a modem set of concerns militate heavily against it.\nIn Oleynik, this Court suggested that written instructions were likely to mislead the jurors because they would tend to read only part of the instructions, and would attempt to construe the writing on their own rather than returning to the court for further instruction if they had questions. The majority today espouses that written instructions increase the risk that the jury will misinterpret and misapply the law. I believe that these positions are not grounded in sound logic. Realistically, even in straightforward cases, lay jurors will capture only an approximation of the rules of law when those rules are communicated in a single oral presentation. Jurors may misapply the law regardless of whether the instructions are oral or written. It is far more likely that jurors will misunderstand and misapply a complex set of rules told to them one time, than if they have the rules with them during deliberations. Further, jurors\u2019 difficulty with oral instructions has been well documented.\nThe United States Supreme Court has approved the practice of submitting a written jury charge. Haupt v. United States, 330 U.S. 631, 643, 67 S.Ct. 874, 879-80, 91 L.Ed. 1145 (1947) (allowing the jury to have a typewritten copy of the court\u2019s charge does not warrant the inference of unfairness or irregularity in the trial). The federal courts and approximately thirty states favor the submission of a written charge. Propriety and Prejudicial Effect of Sending Written Instructions With Retiring Jury In Criminal Cases, 91 AL.R.3d 382 (1979). Besides Pennsylvania, Indiana is the only state to prohibit the use of written instructions. Id.; see Sanders v. Indiana, 264 Ind. 688, 348 N.E.2d 642, 644 (1976). I agree with the majority of courts which have held that the use of written instructions is permissible. Written instructions would help keep the jury focused on the law applicable to the ease, thereby benefitting all parties.\nFurther, I agree with the Superior Court\u2019s conclusion in this matter that the submission of written instructions to the jury constituted harmless error. The trial court gave the jury written instructions on the definition of reasonable doubt and unlawful restraint. Appellant was acquitted of unlawful restraint. Therefore, there was no prejudice as to the unlawful restraint instruction. Additionally, appellant was acquitted of five other charges. In order to convict appellant of six charges and acquit him of five in the consistent manner in which it did, the jury must have understood the concept of reasonable doubt. Accordingly, the issuance of written instructions to the jury did not constitute reversible error as the majority concludes.\nFor the aforementioned reasons, I dissent.\nNEWMAN, J., joins this dissenting opinion.\n. See Laurence J. Severance & Elizabeth F. Lof-tus, Improving the Ability of Jurors to Comprehend and Apply Criminal Jury Instructions, 17 Law & Soc\u2019y Rev. 153, 154, 172 (1982) (in a study of the effectiveness of pattern jury instructions, nearly one quarter of 405 mock juries requested written clarification of the instructions); Robert F. Forston, Sense and NonSense: Jury Trial Communication, 1975 B.Y.U. L.Rev. 601, 613-15 (1975) (in a study involving 114 experienced jurors, instructions lasting 20 minutes and involving no complex issues were read to participants. The jurors were tested immediately after having heard the instructions for comprehension. Nearly one-half of the jurors defined preponderance of the evidence as 'looking at the exhibits in the jury room,\u2019 or as \u2018slow and careful pondering of the evidence.\u2019 The mean score for criminal instructions was 53% correct answers. Eighty-six percent of the criminal juries were unable to respond accurately to what was proof of guilt); William W. Schwarzer, Communicating With Juries: Problems and Remedies, 69 Calif. L.Rev. 731, 740-44 (1981) (noting that during a verbal presentation of a series of concepts and items of information, a listener normally will lack the time needed to complete processing, interpreting, and storing the material. Jurors simply cannot remember, let alone master, instructions after having heard them only once).\n. See United States v. Watson, 669 F.2d 1374, 1386-87 (11th Cir.1982) (stating that the use of written instructions aids jurors\u2019 comprehension and expedites proceedings); see e.g. Iowa v. Jackson, 397 N.W.2d 512, 513 (Iowa 1986); Ill.Ann. Stat. ch. 735, para. 5/2-1107 (1997); Ga.Code. Ann. 9-10-5 (Michie Supp.1997); People v. Sheldon, 48 Cal.3d 935, 258 Cal.Rptr. 242, 246, 771 P.2d 1330, 1334 (1989), cert. denied 513 U.S. 1022, 115 S.Ct. 591, 130 L.Ed.2d 504 (1994); Baker v. Florida, 247 So.2d 495, 496 (Fla.Dist.Ct.App.1971).\n. Appellant was found guilty beyond a reasonable doubt of rape by forcible compulsion, rape by threat of forcible compulsion, indecent assault, making false reports, indecent exposure, and one count of conspiracy to rape by forcible compulsion. He was acquitted of terroristic threats, simple assault, unlawful restraint, involuntary deviate sexual intercourse, and one count of conspiracy to commit rape by forcible compulsion.",
+        "type": "dissent",
+        "author": "CASTILLE, Justice,"
+      }
+    ],
+    "attorneys": [
+      "John A. Knorr, Pittsburgh, for William J. Karaffa.",
+      "Timothy F. McCune, Butler, Ronald N. Thomas, Aliquippa, for the Commonwealth."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. William Joseph KARAFFA, Appellant.\nSupreme Court of Pennsylvania.\nArgued Sept. 18, 1997.\nDecided April 3, 1998.\nJohn A. Knorr, Pittsburgh, for William J. Karaffa.\nTimothy F. McCune, Butler, Ronald N. Thomas, Aliquippa, for the Commonwealth.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "0887-02",
+  "first_page_order": 923,
+  "last_page_order": 928
+}

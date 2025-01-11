@@ -1,0 +1,58 @@
+{
+  "id": 12485868,
+  "name": "S. Gorham v. J. Gorham",
+  "name_abbreviation": "Gorham v. Gorham",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 409 MDA 2015",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 114,
+    "sha256": "0ac89817461c444c570c604e85a49db7ac1acd965fe327fcf0715de35f4e7755",
+    "simhash": "1:80085f08622809e4",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S. Gorham\nv.\nJ. Gorham"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "S. Gorham\nv.\nJ. Gorham\nNO. 409 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0589-09",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12490912,
+  "name": "Leonardo NOGUEIRA v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Nogueira v. Comm'r of Corr.",
+  "decision_date": "2016-11-29",
+  "docket_number": "",
+  "first_page": "792",
+  "last_page": "792",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 792"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 949"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "168 Conn.App. 803",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488035
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/149-2/0983-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 375,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.257843410947897
+    },
+    "sha256": "cc409554c9be79941db01ab5d4d66e1da39762b2b82962a883c7025093ce40e7",
+    "simhash": "1:701f18adf5336d90",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonardo NOGUEIRA\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Leonardo Nogueira's petition for certification for appeal from the Appellate Court, 168 Conn.App. 803, 149 A.3d 983 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leonardo NOGUEIRA\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided November 29, 2016\nMichael W. Brown, assigned counsel, in support of the petition.\nSarah Hanna, assistant state's attorney, in opposition.\nThe petitioner Leonardo Nogueira's petition for certification for appeal from the Appellate Court, 168 Conn.App. 803, 149 A.3d 983 (2016), is denied."
+  },
+  "file_name": "0792-03",
+  "first_page_order": 792,
+  "last_page_order": 792
+}

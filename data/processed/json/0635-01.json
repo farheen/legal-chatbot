@@ -1,0 +1,63 @@
+{
+  "id": 8354799,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Jeffrey COPLIN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Coplin",
+  "decision_date": "2007-07-17",
+  "docket_number": "No. 66 EM 2007",
+  "first_page": "635",
+  "last_page": "635",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 280,
+    "ocr_confidence": 0.669,
+    "pagerank": {
+      "raw": 2.1995933875888662e-07,
+      "percentile": 0.7648083740755997
+    },
+    "sha256": "a59437fbf76f68caf43c02ee2aa67365b2b4fa015c7d42d8b39db02a7a05a3d2",
+    "simhash": "1:8cb7d33f43aba934",
+    "word_count": 47
+  },
+  "last_updated": "2023-07-14T19:01:18.689048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Jeffrey COPLIN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 17th day of July, 2007, the Motion for Leave to File a Petition for Allowance of Appeal Nunc Pro Tunc is denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Jeffrey COPLIN, Petitioner.\nNo. 66 EM 2007.\nSupreme Court of Pennsylvania.\nJuly 17, 2007."
+  },
+  "file_name": "0635-01",
+  "first_page_order": 683,
+  "last_page_order": 683
+}

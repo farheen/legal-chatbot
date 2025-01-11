@@ -1,0 +1,58 @@
+{
+  "id": 12488997,
+  "name": "IN RE K.C.",
+  "name_abbreviation": "In re K.C.",
+  "decision_date": "2016-12-01",
+  "docket_number": "16\u2013204",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "05cea8a942a7f3ac6df9e9aadd963d8fa580bb7f37846d06c5b7c6e83f2c71f7",
+    "simhash": "1:10114f019c60c0c2",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE K.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE K.C.\n16-204\nSupreme Court of Vermont.\nDecember 1, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReargument denied."
+  },
+  "file_name": "1231-43",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

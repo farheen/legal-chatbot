@@ -1,0 +1,64 @@
+{
+  "id": 12487810,
+  "name": "Ellis, Lennell v. State of Maryland",
+  "name_abbreviation": "Ellis v. State",
+  "decision_date": "2016-10-31",
+  "docket_number": "Pet. Docket No. 261; Sept. Term, 2016",
+  "first_page": "399",
+  "last_page": "399",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 399"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 164,
+    "sha256": "50623836aad77d73ffff5395033927c8f73b5ad4d71daf90de565dce739b3cbd",
+    "simhash": "1:2ae354e1a14f10d5",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ellis, Lennell\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "Ellis, Lennell\nv.\nState of Maryland\nPet. Docket No. 261\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 31, 2016\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0399-02",
+  "first_page_order": 399,
+  "last_page_order": 399
+}

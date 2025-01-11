@@ -1,0 +1,58 @@
+{
+  "id": 12487245,
+  "name": "Com. v. C. Baker",
+  "name_abbreviation": "Com. v. Baker",
+  "decision_date": "2016-04-06",
+  "docket_number": "NO. 242 WDA 2014",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 114,
+    "sha256": "e15d655e439dd7995402626cfd40c8a4d27fa7b0704a6f4659a9d11c6fc126e8",
+    "simhash": "1:3823f6ddc2bf3de0",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Baker"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Baker\nNO. 242 WDA 2014\nSuperior Court of Pennsylvania.\nApril 06, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0773-11",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

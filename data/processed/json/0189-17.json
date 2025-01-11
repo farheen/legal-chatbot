@@ -1,0 +1,58 @@
+{
+  "id": 12485305,
+  "name": "In re A.M.",
+  "name_abbreviation": "In re A.M.",
+  "decision_date": "2016-06-09",
+  "docket_number": "NO. 16-068",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "276b87fc86dadef27fc8a7eedee292e7d0d5834eb2078d29b609d8082c3b08fe",
+    "simhash": "1:0a3a9820086a78d4",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re A.M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re A.M.\nNO. 16-068\nSupreme Court of Vermont\nJune 09, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0189-17",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

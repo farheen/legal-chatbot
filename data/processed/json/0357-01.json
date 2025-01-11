@@ -1,0 +1,118 @@
+{
+  "id": 9490650,
+  "name": "In re Demetrios C. KIRKILES, Respondent",
+  "name_abbreviation": "In re Kirkiles",
+  "decision_date": "2001-08-23",
+  "docket_number": "No. 00-BG-518",
+  "first_page": "357",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "779 A.2d 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "612 A.2d 832",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7939161
+      ],
+      "pin_cites": [
+        {
+          "page": "834"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/612/0832-01"
+      ]
+    },
+    {
+      "cite": "654 A.2d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7879377
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/654/1285-01"
+      ]
+    },
+    {
+      "cite": "651 A.2d 312",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12256069
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/651/0312-01"
+      ]
+    },
+    {
+      "cite": "737 A.2d 562",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "pin_cites": [
+        {
+          "page": "553"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 136,
+    "char_count": 1465,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21842373821794245
+    },
+    "sha256": "0c89bb1ec555a54bc838864e2d38d004518c291ace6ba21c47e2e5e85130c96f",
+    "simhash": "1:6640da3c392f469a",
+    "word_count": 223
+  },
+  "last_updated": "2024-02-27T20:14:21.778057+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and RUIZ, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "In re Demetrios C. KIRKILES, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nRespondent Demetrios C. Kirkiles is a member of the Florida Bar and the bar of this court. In March 1999, the Supreme Court of Florida publicly reprimanded respondent after he pled guilty to several disciplinary charges. Specifically, respondent admitted to failing to provide competent representation, failing to act with reasonable diligence and promptness in representing a client, engaging in conduct prejudicial to the administration of justice, and attempting to improperly limit his malpractice liability to a client.\nThe Board on Professional Responsibility (\u201cBoard\u201d) recommends reciprocal discipline of a public censure. A public censure is functionally equivalent to the public reprimand issued by the Supreme Court of Florida. See In re Macaulay, 737 A.2d 562, 553 (D.C.1999); In re Dreier, 651 A.2d 312 (D.C.1994). Neither Bar Counsel nor respondent objects to the Board\u2019s report and recommendation. Given our limited scope of review and the presumption in favor of identical reciprocal discipline, we adopt the Board\u2019s recommendation. See In re Goldsborough, 654 A.2d 1285 (D.C.1995); In re Zilberberg, 612 A.2d 832, 834 (D.C.1992); D.C. Bar R. XI, \u00a7 11(f). Accordingly, it is\nORDERED that Demetrios C. Kirkiles be and hereby is publicly censured.\nSo ordered.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Demetrios C. KIRKILES, Respondent.\nNo. 00-BG-518.\nDistrict of Columbia Court of Appeals.\nAug. 23, 2001.\nBefore STEADMAN and RUIZ, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "0357-01",
+  "first_page_order": 399,
+  "last_page_order": 399
+}

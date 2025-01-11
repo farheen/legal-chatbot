@@ -1,0 +1,59 @@
+{
+  "id": 6082331,
+  "name": "Ex parte Leland James Beckham",
+  "name_abbreviation": "Ex parte Beckham",
+  "decision_date": "1945-05-23",
+  "docket_number": "No. 5174",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 C.C.P.A. 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 80,
+    "ocr_confidence": 0.435,
+    "sha256": "ddc530a7c9b83c839546b428954bc025f8e305dfe5f11a5e413a97022cc6b451",
+    "simhash": "1:1a23cb4ac790284a",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T22:03:11.359845+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Leland James Beckham"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in composition of matter.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ex parte Leland James Beckham\n(No. 5174)."
+  },
+  "file_name": "1270-10",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

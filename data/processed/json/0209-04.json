@@ -1,0 +1,58 @@
+{
+  "id": 12486751,
+  "name": "K. Mandler v. J. Mandler",
+  "name_abbreviation": "Mandler v. Mandler",
+  "decision_date": "2016-03-29",
+  "docket_number": "NO. 683 EDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 100,
+    "sha256": "51533b0eb4432feb76d4d2482664c8047d08f7e819f21d0462c31058a031d17f",
+    "simhash": "1:7ecbe783ceaf1f85",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "K. Mandler\nv.\nJ. Mandler"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "K. Mandler\nv.\nJ. Mandler\nNO. 683 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 29, 2016\nAffirmed."
+  },
+  "file_name": "0209-04",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

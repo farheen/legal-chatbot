@@ -1,0 +1,58 @@
+{
+  "id": 12490706,
+  "name": "IN RE S.S.",
+  "name_abbreviation": "In re Steamships",
+  "decision_date": "2017-06-26",
+  "docket_number": "17\u2013081",
+  "first_page": "337",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "cc2c26fc42bbfe321ace06b1c02a6375f6d38fde866a9acd309776124c23e06c",
+    "simhash": "1:d8771a008f79fe41",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE S.S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE S.S.\n17-081\nSupreme Court of Vermont.\nJune 26, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0337-09",
+  "first_page_order": 337,
+  "last_page_order": 337
+}

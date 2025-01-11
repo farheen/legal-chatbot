@@ -1,0 +1,59 @@
+{
+  "id": 11553381,
+  "name": "In the Matter of Donald P. MONTI",
+  "name_abbreviation": "In re Monti",
+  "decision_date": "1999-07-08",
+  "docket_number": "",
+  "first_page": "1199",
+  "last_page": "1199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "732 A.2d 1199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 75,
+    "char_count": 755,
+    "ocr_confidence": 0.659,
+    "sha256": "51a21d783837f547ec371dfede07f53c2c06eebeac0cf8e08c9a4475e5e1a52f",
+    "simhash": "1:55b8a5eea1815cbd",
+    "word_count": 127
+  },
+  "last_updated": "2023-07-14T15:22:14.384125+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Donald P. MONTI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 8th day of July, 1999, The Report and Recommendations of The Disciplinary Board of the Supreme Court of Pennsylvania dated June 9, 1999, are approved and IT IS ORDERED that DONALD P. MONTI, who has been on inactive status, has never been suspended or disbarred, and has demonstrated that he has the moral qualifications, competency and learning in law required for admission to practice in the 'Commonwealth, shall be and is, hereby reinstated to active status as a member of the Bar of this Commonwealth. The expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement shall be paid by the Petitioner.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Donald P. MONTI.\nSupreme Court of Pennsylvania.\nJuly 8, 1999."
+  },
+  "file_name": "1199-03",
+  "first_page_order": 1247,
+  "last_page_order": 1247
+}

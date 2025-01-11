@@ -1,0 +1,78 @@
+{
+  "id": 7934952,
+  "name": "David MILLER and Miller Auto Body, Inc. v. Daniel WEBSTER and D & W Construction",
+  "name_abbreviation": "Miller v. Webster",
+  "decision_date": "1992-11-13",
+  "docket_number": "No. 92-56-Appeal",
+  "first_page": "1022",
+  "last_page": "1022",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "615 A.2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "120 R.I. 907",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        8520765
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/120/0907-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 144,
+    "char_count": 1476,
+    "ocr_confidence": 0.767,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20061594324611204
+    },
+    "sha256": "5322ec03d8c20e9cd6af64609b12bd1b876461b3826b474ccb42bcaabd794d90",
+    "simhash": "1:63dc8cd135c3a5cc",
+    "word_count": 244
+  },
+  "last_updated": "2024-02-27T21:37:11.948043+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David MILLER and Miller Auto Body, Inc. v. Daniel WEBSTER and D & W Construction."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before the court for oral argument November 4,1992 pursuant to an order which had directed both parties to appear and show cause why the issues raised in this appeal should not be summarily decided.\nAfter hearing the arguments of counsel and examining the memoranda filed by the parties, we are of the opinion that cause has not been shown.\nThe trial justice\u2019s order declining to vacate the arbitrator\u2019s award was amply supported by the record in the case. The plaintiffs\u2019 argument that the defendants\u2019 failure to submit the dispute to the architect for the project was a fatal defect in the submission of the counterclaim to arbitration was without merit. This contention was amply rebutted by testimony before the arbitrator as well as an affidavit submitted to the trial justice that there was no architect on this project and that the engineer who supervised the construction would not have entertained a request to resolve the subject matter in dispute had it been submitted to him, since that was not his responsibility. Under the limited authority to review an arbitrator\u2019s decision as set forth in Jacinto v. Egan, 120 R.I. 907, 391 A.2d 1173 (1978), the trial justice had no alternative save to decline to disturb the arbitrator\u2019s award.\nConsequently, the plaintiffs\u2019 appeal is denied and dismissed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David MILLER and Miller Auto Body, Inc. v. Daniel WEBSTER and D & W Construction.\nNo. 92-56-Appeal.\nSupreme Court of Rhode Island.\nNov. 13, 1992."
+  },
+  "file_name": "1022-02",
+  "first_page_order": 1080,
+  "last_page_order": 1080
+}

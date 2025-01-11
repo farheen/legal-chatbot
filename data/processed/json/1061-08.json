@@ -1,0 +1,58 @@
+{
+  "id": 12490196,
+  "name": "MALLORY, L. v. UCBR",
+  "name_abbreviation": "Mallory v. UCBR",
+  "decision_date": "2017-02-10",
+  "docket_number": "2465 CD 2015",
+  "first_page": "1061",
+  "last_page": "1061",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1061"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 132,
+    "sha256": "9cef99ec344a0f79350553f0973326b96a36347a3d1dfbafc0ab9afc862d9751",
+    "simhash": "1:6c6f9a61e8ec3468",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MALLORY, L.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MALLORY, L.\nv.\nUCBR\n2465 CD 2015\nCommonwealth Court of Pennsylvania.\nFebruary 10, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1061-08",
+  "first_page_order": 1061,
+  "last_page_order": 1061
+}

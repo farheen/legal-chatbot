@@ -1,0 +1,62 @@
+{
+  "id": 7975039,
+  "name": "Richard A. BOLANDZ v. SUPERIOR COURT",
+  "name_abbreviation": "Bolandz v. Superior Court",
+  "decision_date": "1983-03-17",
+  "docket_number": "No. 82-546-M.P.",
+  "first_page": "271",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "457 A.2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 321,
+    "ocr_confidence": 0.795,
+    "sha256": "1fcc2b4282088678b88096b24f05d52c31cdcaa9cf19916b83a01eeb0ee1368d",
+    "simhash": "1:bdb5217faec39455",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T16:32:52.282199+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard A. BOLANDZ v. SUPERIOR COURT."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of mandamus is denied, without prejudice, however, to petitioner\u2019s pursuing an appropriate Superior Court remedy.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., for respondent.",
+      "Richard A. Bolandz, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Richard A. BOLANDZ v. SUPERIOR COURT.\nNo. 82-546-M.P.\nSupreme Court of Rhode Island.\nMarch 17, 1983.\nDennis J. Roberts II, Atty. Gen., for respondent.\nRichard A. Bolandz, pro se."
+  },
+  "file_name": "0271-03",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

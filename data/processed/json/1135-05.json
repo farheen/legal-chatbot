@@ -1,0 +1,58 @@
+{
+  "id": 12488263,
+  "name": "Com. v. Laureano, M.",
+  "name_abbreviation": "Com v. Laureano",
+  "decision_date": "2016-05-04",
+  "docket_number": "1961 EDA 2015",
+  "first_page": "1135",
+  "last_page": "1135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "164cef05560651be5c19e266864221ebe045e19909c7c20182106e76c5b2db39",
+    "simhash": "1:351942eac2ab1bfc",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLaureano, M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLaureano, M.\n1961 EDA 2015\nSuperior Court of Pennsylvania.\nMay 4, 2016\nAffirmed"
+  },
+  "file_name": "1135-05",
+  "first_page_order": 1135,
+  "last_page_order": 1135
+}

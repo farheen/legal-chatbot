@@ -1,0 +1,92 @@
+{
+  "id": 9173856,
+  "name": "Jane GRAHAM v. WORKERS' COMPENSATION APPEAL BOARD (MAYVIEW STATE HOSPITAL) Petition of Mayview State Hospital",
+  "name_abbreviation": "Graham v. Workers' Compensation Appeal Board",
+  "decision_date": "2004-12-29",
+  "docket_number": "",
+  "first_page": "1140",
+  "last_page": "1140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "863 A.2d 1140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "746 A.2d 101",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95836,
+        11467341
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0439-01",
+        "/a2d/746/0101-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 439",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95836
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0439-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 407,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21517528628116928
+    },
+    "sha256": "e9b54eaf2281a189c367b2babe23efb08bee7318f66ee407f43ef08f972ff0ca",
+    "simhash": "1:559c036ec1b38db3",
+    "word_count": 64
+  },
+  "last_updated": "2024-02-27T22:03:52.266092+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jane GRAHAM v. WORKERS\u2019 COMPENSATION APPEAL BOARD (MAYVIEW STATE HOSPITAL) Petition of Mayview State Hospital."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 29th day of December, 2004, the Petition for Allowance of Appeal is GRANTED, and the order of the Commonwealth Court is REVERSED, pursuant to Eidem v. WCAB, 560 Pa. 439, 746 A.2d 101 (2000). Jurisdiction relinquished.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jane GRAHAM v. WORKERS\u2019 COMPENSATION APPEAL BOARD (MAYVIEW STATE HOSPITAL) Petition of Mayview State Hospital.\nSupreme Court of Pennsylvania.\nDec. 29, 2004."
+  },
+  "file_name": "1140-03",
+  "first_page_order": 1190,
+  "last_page_order": 1190
+}

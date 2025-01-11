@@ -1,0 +1,58 @@
+{
+  "id": 12485940,
+  "name": "Com. v. E. Geromanos",
+  "name_abbreviation": "Com. v. Geromanos",
+  "decision_date": "2016-02-16",
+  "docket_number": "NO. 1559 EDA 2015",
+  "first_page": "594",
+  "last_page": "594",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 594"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 113,
+    "sha256": "4589c00904924a3bf4572ea94c08da41dcb09b5dc1bca35111830258ca8d0cd9",
+    "simhash": "1:b5dbf6a9b2ce98e2",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Geromanos"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Geromanos\nNO. 1559 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 16, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0594-03",
+  "first_page_order": 594,
+  "last_page_order": 594
+}

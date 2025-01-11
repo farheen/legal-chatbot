@@ -1,0 +1,58 @@
+{
+  "id": 12485908,
+  "name": "Com. v. N. Flowers",
+  "name_abbreviation": "Com. v. Flowers",
+  "decision_date": "2016-02-12",
+  "docket_number": "NO. 188 EDA 2015",
+  "first_page": "592",
+  "last_page": "592",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "7076ad9486d4f7ed159bcacf8fca66b9bdd685d36201067f8976df32a0cc990c",
+    "simhash": "1:35885695f6f69fab",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nN. Flowers"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nN. Flowers\nNO. 188 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 12, 2016\nDisposition: Reversed and Vacated."
+  },
+  "file_name": "0592-04",
+  "first_page_order": 592,
+  "last_page_order": 592
+}

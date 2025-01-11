@@ -1,0 +1,83 @@
+{
+  "id": 12488122,
+  "name": "HAYES FAMILY LIMITED PARTNERSHIP et al. v. TOWN OF GLASTONBURY",
+  "name_abbreviation": "Hayes Family Ltd. v. Town of Glastonbury",
+  "decision_date": "2016-09-13",
+  "docket_number": "",
+  "first_page": "682",
+  "last_page": "682",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 682"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 908"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "166 Conn.App. 585",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12486209
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/142-2/0408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 354,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25775691941885415
+    },
+    "sha256": "03bc2a100b376137f319a737e2aa8501bfa0c47b9a7ef877e4e2cb14625809d0",
+    "simhash": "1:be091d10383014b4",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:34:54.100288+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HAYES FAMILY LIMITED PARTNERSHIP et al.\nv.\nTOWN OF GLASTONBURY"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiffs' petition for certification for appeal from the Appellate Court, 166 Conn.App. 585, 142 A.3d 408 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "HAYES FAMILY LIMITED PARTNERSHIP et al.\nv.\nTOWN OF GLASTONBURY\nSupreme Court of Connecticut.\nDecided September 13, 2016\nRichard P. Weinstein, in support of the petition.\nMatthew Ranetti and Andrea L. Gomes, in opposition.\nThe plaintiffs' petition for certification for appeal from the Appellate Court, 166 Conn.App. 585, 142 A.3d 408 (2016), is denied."
+  },
+  "file_name": "0682-02",
+  "first_page_order": 682,
+  "last_page_order": 682
+}

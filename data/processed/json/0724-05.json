@@ -1,0 +1,58 @@
+{
+  "id": 12487100,
+  "name": "Commonwealth v. Jorge Martinez",
+  "name_abbreviation": "Commonwealth v. Martinez",
+  "decision_date": "2016-08-30",
+  "docket_number": "NO. 118 EAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "4fb75cf956e1166ee5f998d54a59e027329469c3d41302d739f2cd4836d46dfc",
+    "simhash": "1:7dac59bd9acc099a",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJorge Martinez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJorge Martinez\nNO. 118 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 30, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-05",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12490019,
+  "name": "ENGLISH, L v. UCBR",
+  "name_abbreviation": "English v. UCBR",
+  "decision_date": "2016-12-07",
+  "docket_number": "155 CD 2016",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "164 A.3d 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 129,
+    "sha256": "6c9f0bb035811da8c73f965f971ea3d673330bca1b85dc694c34493477e96eb0",
+    "simhash": "1:c8a7a63582d4f631",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.019769+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ENGLISH, L\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ENGLISH, L\nv.\nUCBR\n155 CD 2016\nCommonwealth Court of Pennsylvania.\nDecember 7, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0648-14",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488711,
+  "name": "In re Engisch-Klein",
+  "name_abbreviation": "In re Engisch-Klein",
+  "decision_date": "2016-07-13",
+  "docket_number": "16-060",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "62e53c348fb667acf799307820e263bbde799ac8de9243b935e173bb5540f44c",
+    "simhash": "1:f479672dc612a071",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Engisch-Klein"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Engisch-Klein\n16-060\nSupreme Court of Vermont.\nJuly 13, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0343-18",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

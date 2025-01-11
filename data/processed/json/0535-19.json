@@ -1,0 +1,58 @@
+{
+  "id": 12489786,
+  "name": "IN RE Z.L.",
+  "name_abbreviation": "In re Z.L.",
+  "decision_date": "2017-05-10",
+  "docket_number": "17\u2013151",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 A.3d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "87b520f363af595ecbe3327f6ff768b812b8d6fe2f0f983f333da5dfdd436a73",
+    "simhash": "1:f835bf108c924276",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017834+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Z.L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE Z.L.\n17-151\nSupreme Court of Vermont.\nMay 10, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0535-19",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

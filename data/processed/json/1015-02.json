@@ -1,0 +1,59 @@
+{
+  "id": 6080469,
+  "name": "In re Posnack et al.",
+  "name_abbreviation": "In re Posnack",
+  "decision_date": "1953-11-04",
+  "docket_number": "No. 5995",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 106,
+    "ocr_confidence": 0.53,
+    "sha256": "e0edaa9b8be32be9f5f41c176c6277c110a3085362438ca41f415ba00bff6722",
+    "simhash": "1:eb97804aaae11a12",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Posnack et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in cosmetic preparation for facial lifting.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 4, 1953\nIn re Posnack et al.\n(No. 5995)."
+  },
+  "file_name": "1015-02",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

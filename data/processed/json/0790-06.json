@@ -1,0 +1,58 @@
+{
+  "id": 12487503,
+  "name": "In The Matter of: I.L., a minor",
+  "name_abbreviation": "In re I.L.",
+  "decision_date": "2016-04-25",
+  "docket_number": "NO. 1393 EDA 2015",
+  "first_page": "790",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "11168bf5c4d32066213b2ad5c5507548d95d15778de85cfcc86e5f40438f733b",
+    "simhash": "1:b80123f322fb9dc1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In The Matter of: I.L., a minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In The Matter of: I.L., a minor\nNO. 1393 EDA 2015\nSuperior Court of Pennsylvania.\nApril 25, 2016\nAffirmed."
+  },
+  "file_name": "0790-06",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

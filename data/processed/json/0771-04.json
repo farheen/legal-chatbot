@@ -1,0 +1,58 @@
+{
+  "id": 12487223,
+  "name": "D.C.S.-R. v. P.R.",
+  "name_abbreviation": "D.C.S.-R. v. P.R.",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 2849 EDA 2015",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 94,
+    "sha256": "18ceb94ed1f0dfe9adf6dbd693f4a4dd731516751ea021192819bb330abcf945",
+    "simhash": "1:39812ec7cff53d96",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D.C.S.-R.\nv.\nP.R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "D.C.S.-R.\nv.\nP.R.\nNO. 2849 EDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed."
+  },
+  "file_name": "0771-04",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

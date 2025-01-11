@@ -1,0 +1,59 @@
+{
+  "id": 6083043,
+  "name": "Field v. Light",
+  "name_abbreviation": "Field v. Light",
+  "decision_date": "1933-02-06",
+  "docket_number": "No. 3290",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 59,
+    "ocr_confidence": 0.586,
+    "sha256": "0a5ff528e6a8e50c22eaf5cec92c1aa3b3e937267bcf49b4b1cb2572ecb6b2a2",
+    "simhash": "1:1836a4c0309410fc",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Field v. Light"
+    ],
+    "opinions": [
+      {
+        "text": "Railway car.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 6, 1933\nField v. Light\n(No. 3290). \u2014"
+  },
+  "file_name": "1227-12",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

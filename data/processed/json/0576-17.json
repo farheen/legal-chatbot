@@ -1,0 +1,58 @@
+{
+  "id": 12486233,
+  "name": "John Lee v. National Pedicab",
+  "name_abbreviation": "Lee v. National Pedicab",
+  "decision_date": "2016-07-14",
+  "docket_number": "NO. 15-CV-1373",
+  "first_page": "576",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "142 A.3d 576"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 125,
+    "sha256": "2dc6f6619e9c68c4317c043fe38004aba02afc4108936709ba31d196190badc8",
+    "simhash": "1:37d452739fd3f88a",
+    "word_count": 19
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Lee\nv.\nNational Pedicab"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Lee\nv.\nNational Pedicab\nNO. 15-CV-1373\nDistrict of Columbia Court of Appeals\nJuly 14, 2016\nOkun\nDisposition: Affirmed."
+  },
+  "file_name": "0576-17",
+  "first_page_order": 576,
+  "last_page_order": 576
+}

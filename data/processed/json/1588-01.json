@@ -1,0 +1,59 @@
+{
+  "id": 6082986,
+  "name": "In re Christopher L. Wilson and Oscar Shuffman",
+  "name_abbreviation": "In re Wilson",
+  "decision_date": "1962-12-04",
+  "docket_number": "No. 6875",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 164,
+    "ocr_confidence": 0.48,
+    "sha256": "53b40cdb2d825d046c0fe1bee12b9028f0a27efab512b2fd555fae95a3442874",
+    "simhash": "1:a7517393e1213b62",
+    "word_count": 27
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Christopher L. Wilson and Oscar Shuffman"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in method of lamination of plastic film and foam and the product therefrom.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 4, 1962\nIn re Christopher L. Wilson and Oscar Shuffman\n(No. 6875)."
+  },
+  "file_name": "1588-01",
+  "first_page_order": 912,
+  "last_page_order": 912
+}

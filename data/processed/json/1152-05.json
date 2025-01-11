@@ -1,0 +1,58 @@
+{
+  "id": 12488528,
+  "name": "Com. v. Lopez, A.",
+  "name_abbreviation": "Com v. Lopez",
+  "decision_date": "2016-05-19",
+  "docket_number": "3032 EDA 2014",
+  "first_page": "1152",
+  "last_page": "1152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "c6315a64089a0a9299bb13f93487b64bffb8c645acfa1c1f0823677b0b35833f",
+    "simhash": "1:f45a37f45eb096a7",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLopez, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLopez, A.\n3032 EDA 2014\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1152-05",
+  "first_page_order": 1152,
+  "last_page_order": 1152
+}

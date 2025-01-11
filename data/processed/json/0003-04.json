@@ -1,0 +1,58 @@
+{
+  "id": 12484969,
+  "name": "Commonwealth v. Frank Pekular",
+  "name_abbreviation": "Commonwealth v. Pekular",
+  "decision_date": "2016-05-16",
+  "docket_number": "NO. 51 WAL 2016",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "2877d6aa45b502ad97e54af3218ba20a8807adb9faa611bab423aebb0a0ead36",
+    "simhash": "1:9c8f427088210430",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nFrank Pekular"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nFrank Pekular\nNO. 51 WAL 2016\nSupreme Court of Pennsylvania\nMay 16, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0003-04",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

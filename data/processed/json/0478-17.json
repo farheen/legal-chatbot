@@ -1,0 +1,58 @@
+{
+  "id": 12485611,
+  "name": "Commonwealth v. Jeffrey G. Future",
+  "name_abbreviation": "Commonwealth v. Future",
+  "decision_date": "2016-06-22",
+  "docket_number": "NO. 114 MAL 2016",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 478"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 149,
+    "sha256": "e2cf2441db8e7b194cfff39405ca24f6c8cced71d1fb351687140dd66a17ba62",
+    "simhash": "1:d48e167249691048",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJeffrey G. Future"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJeffrey G. Future\nNO. 114 MAL 2016\nSupreme Court of Pennsylvania\nJune 22, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0478-17",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

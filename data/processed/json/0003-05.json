@@ -1,0 +1,58 @@
+{
+  "id": 12484970,
+  "name": "Commonwealth v. Robert J. Kearns",
+  "name_abbreviation": "Commonwealth v. Kearns",
+  "decision_date": "2016-05-11",
+  "docket_number": "NO. 980 MAL 2015",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 147,
+    "sha256": "96367b48743da2b58266c510cb4e01f8b2c246957948db36a3bad49a2c17ecee",
+    "simhash": "1:949b5f6f84a850d8",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nRobert J. Kearns"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nRobert J. Kearns\nNO. 980 MAL 2015\nSupreme Court of Pennsylvania\nMay 11, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0003-05",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

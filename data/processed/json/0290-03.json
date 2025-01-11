@@ -1,0 +1,61 @@
+{
+  "id": 7861223,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Randall GOTWALT, Petitioner",
+  "name_abbreviation": "Commonwealth v. Gotwalt",
+  "decision_date": "1996-10-09",
+  "docket_number": "No. 363 M.D. Alloc. Dkt. 1996",
+  "first_page": "290",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "683 A.2d 290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 515,
+    "ocr_confidence": 0.692,
+    "sha256": "0e5c4e1330941c160be4e89157518fd00b5421b7b4d35ca665974a16901f97ab",
+    "simhash": "1:746c67fc642a5ca9",
+    "word_count": 82
+  },
+  "last_updated": "2023-07-14T22:44:18.359346+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Randall GOTWALT, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 9th day of October, 1996, there being no indication of record that the Motion to Withdraw Counsel has been served on either the attorney for the Commonwealth or the client as required by Pa.R.Crim.P. 302(b), the Motion to Withdraw Counsel is denied. The Motion to Discontinue is granted.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Frank C. Arcuri, Washington, for Petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Randall GOTWALT, Petitioner.\nNo. 363 M.D. Alloc. Dkt. 1996.\nSupreme Court of Pennsylvania.\nOct. 9, 1996.\nFrank C. Arcuri, Washington, for Petitioner."
+  },
+  "file_name": "0290-03",
+  "first_page_order": 378,
+  "last_page_order": 379
+}

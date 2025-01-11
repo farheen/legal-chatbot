@@ -1,0 +1,83 @@
+{
+  "id": 7976054,
+  "name": "Rhonda BARLES v. Neal A. CHARETTE",
+  "name_abbreviation": "Barles v. Charette",
+  "decision_date": "1983-03-18",
+  "docket_number": "No. 82-391-Appeal",
+  "first_page": "274",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "457 A.2d 274"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "121 R.I. 19",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3186977
+      ],
+      "weight": 2,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0019-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 135,
+    "char_count": 1314,
+    "ocr_confidence": 0.817,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20067424780363644
+    },
+    "sha256": "0f85b768dcc6bd1c2fbfa972ceb75b693ffa3853a88b038b02a22501eeb00969",
+    "simhash": "1:6b3bdfe9a540b76d",
+    "word_count": 217
+  },
+  "last_updated": "2024-02-27T17:53:20.092160+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MURRAY, J., and SHEA, J., did not participate."
+    ],
+    "parties": [
+      "Rhonda BARLES v. Neal A. CHARETTE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a hearing panel of this court on March 15,1983 pursuant to an order directing the defendant to show cause why the plaintiff\u2019s appeal should not be summarily granted on the grounds that the trial justice erred in allowing the defendant to testify contra to his prior admissions filed in accordance with Super.R.Civ.P. 36. After hearing the arguments of counsel and examining briefs filed by the parties, we are of the opinion that the defendant does not meet the requirements for withdrawal of an admission set forth in General Electric Co. v. Forsell, 121 R.I. 19, 394 A.2d 1101 (1979). In this case the admitting litigant did not act diligently to withdraw his admission and the withdrawal resulted in extreme prejudice to the party who requested such admission. Consequently, the judgment of the Superior Court rendered in favor of the defendant is hereby vacated, and the ease is remanded to the Superior Court with directions to hold a new trial, at which no evidence contra to the defendant\u2019s admissions made pursuant to Rule 36 may be admitted.\nMURRAY, J., and SHEA, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John B. Harwood, Pawtucket, for plaintiff.",
+      "Stephen B. Lang, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Rhonda BARLES v. Neal A. CHARETTE.\nNo. 82-391-Appeal.\nSupreme Court of Rhode Island.\nMarch 18, 1983.\nJohn B. Harwood, Pawtucket, for plaintiff.\nStephen B. Lang, Providence, for defendant."
+  },
+  "file_name": "0274-02",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485215,
+  "name": "John Edward Carter, I v. United States",
+  "name_abbreviation": "Carter v. United States",
+  "decision_date": "2016-05-17",
+  "docket_number": "NO. 14-CF-1041",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 163,
+    "sha256": "c422c2c95d2fe36b87a541f30c502d9c3890a36c3a7e5f86bb424b14b9be1652",
+    "simhash": "1:abc2c252a540c803",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Edward Carter, I\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Edward Carter, I\nv.\nUnited States\nNO. 14-CF-1041\nDistrict of Columbia Court of Appeals\nMay 17, 2016\nJackson\nDisposition: Affirmed in part; Remanded in part."
+  },
+  "file_name": "1224-17",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

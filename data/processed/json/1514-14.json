@@ -1,0 +1,59 @@
+{
+  "id": 6093094,
+  "name": "In re Patsy O. Sherman et al.",
+  "name_abbreviation": "In re Sherman",
+  "decision_date": "1968-05-20",
+  "docket_number": "No. 8149",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "ocr_confidence": 0.488,
+    "sha256": "aa4342587c6d375030d95d7f4a1ed9a3b71acd6453bf93428a0a4ed06480e162",
+    "simhash": "1:f19c32b35c4c705c",
+    "word_count": 15
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Patsy O. Sherman et al."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Emulsion polymerization process.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 20, 1968\nNo. 8149.\nIn re Patsy O. Sherman et al."
+  },
+  "file_name": "1514-14",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

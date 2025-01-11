@@ -1,0 +1,58 @@
+{
+  "id": 12488961,
+  "name": "IN RE CAMPBELL",
+  "name_abbreviation": "In re Campbell",
+  "decision_date": "2016-12-16",
+  "docket_number": "16\u2013054",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "4f1ff915437bbeff954f504453f66703d2e2dfae9dc66c3e05841547ec08b6a1",
+    "simhash": "1:6c316700ba50f269",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE CAMPBELL"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE CAMPBELL\n16-054\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-10",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

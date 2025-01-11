@@ -1,0 +1,58 @@
+{
+  "id": 12501600,
+  "name": "COM. v. GREENSHLADE, N.",
+  "name_abbreviation": "Com. v. Greenshlade",
+  "decision_date": "2018-07-11",
+  "docket_number": "1544 MDA 2017",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 662"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 94,
+    "sha256": "1d7565d7288281bb011474e0179110e28a1a1f8dc4220f42ec569d56bc28e763",
+    "simhash": "1:b513522b8c991fb4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGREENSHLADE, N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGREENSHLADE, N.\n1544 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 11, 2018\nAffirmed"
+  },
+  "file_name": "0662-05",
+  "first_page_order": 662,
+  "last_page_order": 662
+}

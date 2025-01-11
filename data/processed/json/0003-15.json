@@ -1,0 +1,58 @@
+{
+  "id": 12484961,
+  "name": "Commonwealth v. Antonio Lewis",
+  "name_abbreviation": "Commonwealth v. Lewis",
+  "decision_date": "2016-04-27",
+  "docket_number": "NO. 681 EAL 2015",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 241,
+    "sha256": "02c57bad3bd7eac30b86acf8ad0217fd4bd77a4e53904b69fa7c5e0473e23ff8",
+    "simhash": "1:ad7f36eeaa833294",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAntonio Lewis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAntonio Lewis\nNO. 681 EAL 2015\nSupreme Court of Pennsylvania\nApril 27, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE and WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0003-15",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

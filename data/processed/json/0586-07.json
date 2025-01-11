@@ -1,0 +1,58 @@
+{
+  "id": 12485817,
+  "name": "Com. v. B. Ortega-Vidot",
+  "name_abbreviation": "Com. v. Ortega-Vidot",
+  "decision_date": "2016-02-04",
+  "docket_number": "NO. 783 MDA 2015",
+  "first_page": "586",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 127,
+    "sha256": "1fc1e61b7e7a11cf450f24d337793f048cd23536d66f56a6cf4ec05aa074a83b",
+    "simhash": "1:2015d29312cb1dc2",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Ortega-Vidot"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Ortega-Vidot\nNO. 783 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 04, 2016\nDisposition: Vacated and Remanded."
+  },
+  "file_name": "0586-07",
+  "first_page_order": 586,
+  "last_page_order": 586
+}

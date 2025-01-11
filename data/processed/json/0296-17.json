@@ -1,0 +1,62 @@
+{
+  "id": 12485493,
+  "name": "State v. George A. Greenwood",
+  "name_abbreviation": "State v. Greenwood",
+  "decision_date": "2016-05-19",
+  "docket_number": "NOS. C-884 SEPT. TERM 2015, 077205",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 127,
+    "sha256": "9dbfe7c049572b00f9faf67973db3cc913fb3e5f170499fe4a39bdbd52aa7c6b",
+    "simhash": "1:3eef020530673204",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nGeorge A. Greenwood"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nGeorge A. Greenwood\nNOS. C-884 SEPT. TERM 2015, 077205\nSupreme Court of New Jersey\nMay 19, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-17",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

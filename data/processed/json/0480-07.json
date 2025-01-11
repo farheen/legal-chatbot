@@ -1,0 +1,58 @@
+{
+  "id": 12485663,
+  "name": "Commonwealth v. Jack Wesby",
+  "name_abbreviation": "Commonwealth v. Wesby",
+  "decision_date": "2016-06-30",
+  "docket_number": "NO. 133 EAL 2016",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "1a1cd6e48a6652277f72f4f8300cd6b4a22360b7968ba7b5eaf11cc8ff942fa8",
+    "simhash": "1:946e44668a621160",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJack Wesby"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJack Wesby\nNO. 133 EAL 2016\nSupreme Court of Pennsylvania\nJune 30, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0480-07",
+  "first_page_order": 480,
+  "last_page_order": 480
+}

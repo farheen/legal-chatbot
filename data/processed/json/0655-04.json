@@ -1,0 +1,58 @@
+{
+  "id": 12501567,
+  "name": "COM. v. PISTORIUS, D.",
+  "name_abbreviation": "Com. v. Pistorius",
+  "decision_date": "2018-07-09",
+  "docket_number": "1571 WDA 2017",
+  "first_page": "655",
+  "last_page": "655",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 655"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 91,
+    "sha256": "35f81b1c9978b83ec98964e7764dfadf38182ebd682f663819c87bd400a93401",
+    "simhash": "1:bc97622d81ddb9f7",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nPISTORIUS, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nPISTORIUS, D.\n1571 WDA 2017\nSuperior Court of Pennsylvania.\nJuly 9, 2018\nAffirmed"
+  },
+  "file_name": "0655-04",
+  "first_page_order": 655,
+  "last_page_order": 655
+}

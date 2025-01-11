@@ -1,0 +1,58 @@
+{
+  "id": 12486977,
+  "name": "Commonwealth v. Steven Shick",
+  "name_abbreviation": "Commonwealth v. Shick",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 100 WAL (2016)",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 165"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "sha256": "754e5c8bfe095cdba278d03a6c6f1ebae2dc5a9a9338edda2b806ffd36896f5d",
+    "simhash": "1:9d8f53bc9ee108a4",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nSteven Shick"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nSteven Shick\nNO. 100 WAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0165-17",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

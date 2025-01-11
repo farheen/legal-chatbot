@@ -1,0 +1,58 @@
+{
+  "id": 12486420,
+  "name": "Com. v. R. Cousar",
+  "name_abbreviation": "Com. v. Cousar",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 327 EDA 2015",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "036773f9a678d19f9db30afd1de5fe6685ea837cf848856c33b57ccf07aedda2",
+    "simhash": "1:59011645a8988691",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Cousar"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Cousar\nNO. 327 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed.\n6 Petition for reargument denied May 5, 2016.\n--------"
+  },
+  "file_name": "0187-09",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12486866,
+  "name": "Harris v. Housing Authority of Baltimore City",
+  "name_abbreviation": "Harris v. Hous. Auth. of Balt. City",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 207; Sept. Term, 2016",
+  "first_page": "709",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 709"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 418"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 170,
+    "sha256": "b52aa62708ad61d76528b2bbc30d0f631e38a6d06ae0b6349d67a8cc3ce8a2e5",
+    "simhash": "1:21634800d0681a70",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harris\nv.\nHousing Authority of Baltimore City"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harris\nv.\nHousing Authority of Baltimore City\nPet. Docket No. 207\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0709-03",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

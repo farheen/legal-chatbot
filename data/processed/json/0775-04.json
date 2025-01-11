@@ -1,0 +1,58 @@
+{
+  "id": 12487284,
+  "name": "Com. v. T. Waltemyer",
+  "name_abbreviation": "Com. v. Waltemyer",
+  "decision_date": "2016-04-08",
+  "docket_number": "NO. 975 EDA 2015",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "19b8686b5e4799e019ef3fa4be75c2a9d8fcc8366f5a6ffcd035c9b68d6ae8f5",
+    "simhash": "1:280a23e190243fa0",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Waltemyer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Waltemyer\nNO. 975 EDA 2015\nSuperior Court of Pennsylvania.\nApril 08, 2016\nAffirmed."
+  },
+  "file_name": "0775-04",
+  "first_page_order": 775,
+  "last_page_order": 775
+}

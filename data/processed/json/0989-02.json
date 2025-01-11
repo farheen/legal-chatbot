@@ -1,0 +1,62 @@
+{
+  "id": 12502168,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Darvin CANNON, a/k/a Darvin S. Cannon, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Cannon",
+  "decision_date": "2018-10-18",
+  "docket_number": "C-232 September Term 2018; 081098",
+  "first_page": "989",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 989"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 392,
+    "sha256": "7083878dedf380ad744a59a6728be03116e559900c3487577db11c55ff297343",
+    "simhash": "1:14da6d21e03b9e2a",
+    "word_count": 59
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nDarvin CANNON, a/k/a Darvin S. Cannon, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-002391-16 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nDarvin CANNON, a/k/a Darvin S. Cannon, Defendant-Petitioner.\nC-232 September Term 2018\n081098\nSupreme Court of New Jersey.\nOctober 18, 2018\nORDER"
+  },
+  "file_name": "0989-02",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

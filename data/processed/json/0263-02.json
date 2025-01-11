@@ -1,0 +1,83 @@
+{
+  "id": 7365115,
+  "name": "Hugh HULSLANDER, et al. v. J. Frederick MURPHY, et al.",
+  "name_abbreviation": "Hulslander v. Murphy",
+  "decision_date": "1993-11-18",
+  "docket_number": "No. 93-42-A",
+  "first_page": "263",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "633 A.2d 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "110 R.I. 580",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3144750
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/110/0580-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 127,
+    "char_count": 1186,
+    "ocr_confidence": 0.728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18950815279191952
+    },
+    "sha256": "135462376b9404d5109283b040b97da1cfc1292225fa6b0fc8b206c90608e677",
+    "simhash": "1:2a093dd97ba7850e",
+    "word_count": 193
+  },
+  "last_updated": "2024-02-27T23:13:25.308524+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, Acting C.J., did not participate."
+    ],
+    "parties": [
+      "Hugh HULSLANDER, et al. v. J. Frederick MURPHY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before a panel of the Supreme Court on November 16,1993 pursuant to an order requiring the parties to appear and to show cause why the issues raised in the plaintiffs\u2019 appeal should not be summarily decided.\nThe plaintiffs appeal a Superior Court order granting the defendants\u2019 motion to dismiss made pursuant to Super.R.Civ.P. 12(b)(6). After hearing the arguments of counsel and reviewing the memoranda submitted by the parties, it is the conclusion of this court that cause has not been shown. In rule 12(b)(6) dismissals the allegations must show that there is some insuperable bar to relief. Goldstein v. Rhode Island Hospital Trust National Bank, 110 R.I. 580, 296 A.2d 112 (1972). We conclude that the passing of the statutory period of limitation provided in G.L.1956 (1985 Reenactment) \u00a7 9-1-14(b) constituted that insuperable bar.\nThe ruling of the trial justice is affirmed and the plaintiffs\u2019 appeal is denied and dismissed.\nWEISBERGER, Acting C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Alison Holm, Gary Yesser, Providence.",
+      "Joseph Palumbo, Middletown."
+    ],
+    "corrections": "",
+    "head_matter": "Hugh HULSLANDER, et al. v. J. Frederick MURPHY, et al.\nNo. 93-42-A.\nSupreme Court of Rhode Island.\nNov. 18, 1993.\nAlison Holm, Gary Yesser, Providence.\nJoseph Palumbo, Middletown."
+  },
+  "file_name": "0263-02",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

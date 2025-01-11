@@ -1,0 +1,58 @@
+{
+  "id": 12487377,
+  "name": "Com. v. P. Rodriguez",
+  "name_abbreviation": "Com. v. Rodriguez",
+  "decision_date": "2016-04-15",
+  "docket_number": "NO. 896 EDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "0aa31dfed68227385a70382346ff15094c8d3a180e33e0f4c57b6703b77db217",
+    "simhash": "1:3949461190b13b90",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nP. Rodriguez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nP. Rodriguez\nNO. 896 EDA 2015\nSuperior Court of Pennsylvania.\nApril 15, 2016\nAffirmed."
+  },
+  "file_name": "0781-06",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

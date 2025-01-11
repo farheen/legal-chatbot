@@ -1,0 +1,83 @@
+{
+  "id": 12491204,
+  "name": "Anthony ROGERS v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Rogers v. Comm'r of Corr.",
+  "decision_date": "2017-10-25",
+  "docket_number": "",
+  "first_page": "455",
+  "last_page": "455",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 455"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 929"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "174 Conn.App. 120",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490261
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/165-2/0264-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 379,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578555738191686
+    },
+    "sha256": "95238d53bc80146d4405b54431f429c07437f2662ae4fa8bf6c980f3598517a9",
+    "simhash": "1:941b9e6af1212490",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:34:56.921746+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony ROGERS\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Anthony Rogers' petition for certification to appeal from the Appellate Court, 174 Conn.App. 120, 165 A.3d 264 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony ROGERS\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided October 25, 2017\nMichael W. Brown, assigned counsel, in support of the petition.\nMitchell S. Brody, senior assistant state's attorney, in opposition.\nThe petitioner Anthony Rogers' petition for certification to appeal from the Appellate Court, 174 Conn.App. 120, 165 A.3d 264 (2017), is denied."
+  },
+  "file_name": "0455-03",
+  "first_page_order": 455,
+  "last_page_order": 455
+}

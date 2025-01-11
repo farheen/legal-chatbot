@@ -1,0 +1,59 @@
+{
+  "id": 12167563,
+  "name": "In re Karl Kauth",
+  "name_abbreviation": "In re Kauth",
+  "decision_date": "1964-12-11",
+  "docket_number": "No. 7436",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 65,
+    "ocr_confidence": 0.523,
+    "sha256": "f2af6a9906a297eeb4034351307b603061b58ca62d9237729a1c2eddf3a7b460",
+    "simhash": "1:0d6562440b4e0c20",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Karl Kauth"
+    ],
+    "opinions": [
+      {
+        "text": "Electric furnace.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 11, 1964\nIn re Karl Kauth\n(No. 7436)."
+  },
+  "file_name": "1836-16",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501881,
+  "name": "COM. v. MEEK, J.",
+  "name_abbreviation": "Com. v. Meek",
+  "decision_date": "2018-07-27",
+  "docket_number": "1874 WDA 2017",
+  "first_page": "717",
+  "last_page": "717",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 717"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "e9744f935a17b3339925627b42a3b230dc02f1f9b5308a32d9c6c774557eaa48",
+    "simhash": "1:1f1b273fd6f38d84",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nMEEK, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nMEEK, J.\n1874 WDA 2017\nSuperior Court of Pennsylvania.\nJuly 27, 2018\nAffirmed - Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "0717-04",
+  "first_page_order": 717,
+  "last_page_order": 717
+}

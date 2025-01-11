@@ -1,0 +1,58 @@
+{
+  "id": 12501522,
+  "name": "D.C.L. v. T.C.L.B.",
+  "name_abbreviation": "D.C.L. v. T.C.L.B.",
+  "decision_date": "2018-07-03",
+  "docket_number": "41 EDA 2018",
+  "first_page": "646",
+  "last_page": "646",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 646"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 86,
+    "sha256": "e37fbab8b177530ab9feba31dcc0d9db1f714cce1f75038d0d959d86808f2b35",
+    "simhash": "1:3d9454781bd915a4",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D.C.L.\nv.\nT.C.L.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "D.C.L.\nv.\nT.C.L.B.\n41 EDA 2018\nSuperior Court of Pennsylvania.\nJuly 3, 2018\nAffirmed"
+  },
+  "file_name": "0646-02",
+  "first_page_order": 646,
+  "last_page_order": 646
+}

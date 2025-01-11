@@ -1,0 +1,58 @@
+{
+  "id": 12486744,
+  "name": "Com. v. D. Schoonover",
+  "name_abbreviation": "Com. v. Schoonover",
+  "decision_date": "2016-03-24",
+  "docket_number": "NO. 800 MDA 2015",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "5b3fd256bc61daa4d3e4fd7fbe81f7e983af05c94d92965a112113ca7959575a",
+    "simhash": "1:148ec3883a219585",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Schoonover"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Schoonover\nNO. 800 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 24, 2016\nAffirmed."
+  },
+  "file_name": "0209-13",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

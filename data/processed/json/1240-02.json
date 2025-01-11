@@ -1,0 +1,64 @@
+{
+  "id": 8003459,
+  "name": "STATE v. Anthony TASSONE",
+  "name_abbreviation": "State v. Tassone",
+  "decision_date": "1979-11-29",
+  "docket_number": "No. 78-124-C.A.",
+  "first_page": "1240",
+  "last_page": "1240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 A.2d 1240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 323,
+    "ocr_confidence": 0.765,
+    "sha256": "37a4238df3ef52f91af98938b0c0d4da52dc5a2bb440222e7e29841ba0b58077",
+    "simhash": "1:c4e42738d3c9c657",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T21:02:34.358380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Anthony TASSONE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to set bail pending appeal is denied.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Joel S. Chase, Special Asst. Atty. Gen., for plaintiff.",
+      "John F. Cicilline, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Anthony TASSONE.\nNo. 78-124-C.A.\nSupreme Court of Rhode Island.\nNov. 29, 1979.\nDennis J. Roberts II, Atty. Gen., Joel S. Chase, Special Asst. Atty. Gen., for plaintiff.\nJohn F. Cicilline, Providence, for defendant."
+  },
+  "file_name": "1240-02",
+  "first_page_order": 1294,
+  "last_page_order": 1294
+}

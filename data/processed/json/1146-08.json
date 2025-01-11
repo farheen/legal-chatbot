@@ -1,0 +1,58 @@
+{
+  "id": 12488439,
+  "name": "Com. v. Hart, C.",
+  "name_abbreviation": "Com v. Hart",
+  "decision_date": "2016-05-13",
+  "docket_number": "871 EDA 2015",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "f655631f0952f0cf21412523fd488989b615c796a2a2df002520fbb858a98e08",
+    "simhash": "1:b18b507b9fa993b1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHart, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHart, C.\n871 EDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nAffirmed"
+  },
+  "file_name": "1146-08",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

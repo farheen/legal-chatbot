@@ -1,0 +1,58 @@
+{
+  "id": 12485625,
+  "name": "Commonwealth v. Andre Murray",
+  "name_abbreviation": "Commonwealth v. Murray",
+  "decision_date": "2016-06-29",
+  "docket_number": "NO. 44 EAL 2016",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 228,
+    "sha256": "0a91d2b2ecf81a42ef331e7d260531fd888e40408abc3acbe0451ff2528741ed",
+    "simhash": "1:9d5ef2eca2a43a78",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nAndre Murray"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nAndre Murray\nNO. 44 EAL 2016\nSupreme Court of Pennsylvania\nJune 29, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0479-10",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

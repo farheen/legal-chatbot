@@ -1,0 +1,102 @@
+{
+  "id": 7287774,
+  "name": "Anthony M. BLUME, Petitioner v. Natasha L. LOWE, Esquire Court of Common Pleas Philadelphia County, Respondent",
+  "name_abbreviation": "Blume v. Lowe",
+  "decision_date": "2010-07-13",
+  "docket_number": "No. 38 EM 2010",
+  "first_page": "574",
+  "last_page": "574",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "998 A.2d 574"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "642 A.2d 453",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775522,
+        7862821
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01",
+        "/a2d/642/0453-01"
+      ]
+    },
+    {
+      "cite": "537 Pa. 167",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        775522
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "hybrid representation is improper"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 69,
+    "char_count": 533,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18828530157549725
+    },
+    "sha256": "61a3083f4176587b0b5736d3c2654ebec9e8e2214107b077b34ab1f3d03d21b3",
+    "simhash": "1:6c0d83a640d12833",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T22:48:26.363573+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony M. BLUME, Petitioner v. Natasha L. LOWE, Esquire Court of Common Pleas Philadelphia County, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of July, 2010, the Application for Leave to File Original Process and the Petition for Writ of Mandamus and/or Extraordinary Relief are DISMISSED. See Commonwealth v. Reid, 537 Pa. 167, 642 A.2d 453 (1994) (hybrid representation is improper). The Prothonotary is directed to forward these filing to counsel of record.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Anthony M. BLUME, Petitioner v. Natasha L. LOWE, Esquire Court of Common Pleas Philadelphia County, Respondent.\nNo. 38 EM 2010.\nSupreme Court of Pennsylvania.\nJuly 13, 2010."
+  },
+  "file_name": "0574-02",
+  "first_page_order": 620,
+  "last_page_order": 620
+}

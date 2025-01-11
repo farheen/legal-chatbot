@@ -1,0 +1,59 @@
+{
+  "id": 12167179,
+  "name": "In re Marcel Levecque and Paul Piot",
+  "name_abbreviation": "In re Levecque",
+  "decision_date": "1964-11-12",
+  "docket_number": "No. 7330",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 72,
+    "ocr_confidence": 0.573,
+    "sha256": "65a238e6677226283f91a546dcf957bd991acc83ef355e5e3be37f03c50c89b0",
+    "simhash": "1:209ff4971e094c25",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marcel Levecque and Paul Piot"
+    ],
+    "opinions": [
+      {
+        "text": "Mats.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 12, 1964\nIn re Marcel Levecque and Paul Piot\n(No. 7330)."
+  },
+  "file_name": "1836-02",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

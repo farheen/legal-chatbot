@@ -1,0 +1,58 @@
+{
+  "id": 12488196,
+  "name": "E.R. v. D.D.",
+  "name_abbreviation": "E.R. v. D.D.",
+  "decision_date": "2016-05-02",
+  "docket_number": "1505 WDA 2015",
+  "first_page": "1131",
+  "last_page": "1131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 81,
+    "sha256": "ef93605826e1c04149a4224acfcc48df12173befe5918ed856e3454d464d3432",
+    "simhash": "1:dc133c29152d0794",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.R.\nv.\nD.D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E.R.\nv.\nD.D.\n1505 WDA 2015\nSuperior Court of Pennsylvania.\nMay 2, 2016\nAffirmed"
+  },
+  "file_name": "1131-13",
+  "first_page_order": 1131,
+  "last_page_order": 1131
+}

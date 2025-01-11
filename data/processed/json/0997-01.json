@@ -1,0 +1,64 @@
+{
+  "id": 6094955,
+  "name": "In re Frederick K. Vreeland",
+  "name_abbreviation": "In re Vreeland",
+  "decision_date": "1930-04-14",
+  "docket_number": "No. 2261",
+  "first_page": "997",
+  "last_page": "999",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 997"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 5528,
+    "ocr_confidence": 0.455,
+    "sha256": "a87b711b5cd97504d8378c19fee5174922487a1b7cb21efc165e8d08be1b163e",
+    "simhash": "1:7e5b7ddc33795549",
+    "word_count": 892
+  },
+  "last_updated": "2023-07-14T15:51:07.530903+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Blahd, Hatjtceld, Garrett, and Lenroot,. Associate Judges"
+    ],
+    "parties": [
+      "In re Frederick K. Vreeland"
+    ],
+    "opinions": [
+      {
+        "text": "GRAham, Presiding Judge,\ndelivered the opinion of the court:\nAppellant filed his application Serial No. 680061, December 12,. 1923, for a patent on improvements in radio Receiving systems. The primary examiner rejected all the claims, 1 to 16, inclusive, and on appeal to the Board of Appeals, this decision was affirmed. It was stated by the Board of Appeals, in its decision, and admitted in appellant\u2019s brief and argument, that claims 1 and 11 are illustrative of all. They are as follows :\nI. In a receiving system for radiant energy, a tuned receiving circuit with, associated collecting means, a second tuned circuit receiving- signal energy therefrom, inductances in the two circuits having a given ratio, capacities in the two circuits whose total reactances including the effective reactance introduced by the collector into the first circuit have the same ratio and including variable capacities in the two circuits whose increments of capacity reactance have the same ratio, means for simultaneously and similarly varying- the variable capacities whereby the frequencies of the two circuits are simultaneously and equally vari\u00e1ble, and adjusting means independent of the second circuit for securing the ratio of the total capacity reactances of the two circuits.\nII. In a receiving system for radiant energy, a receiving circuit with associated collecting antenna, a second circuit coupled thereto, equal inductances in the two circuits, equal variable capacities in the two circuits, means for adjusting these capacities simultaneously while preserving their equality, a compensating capacity in the second circuit and a variable adjusting capacity in the' first circuit.\nConcurrently herewith we are affirming the decision of the Board of Appeals in denying the claims of appellant in his application Serial No. 582603, on the reference Hogan, Serial No. 1363319. -In our opinion filed therein, we held that Hogan taught the system of two tuned receiving circuits, with equal inductances and capacities, or condensers, and with a single means of tuning both circuits. Beference is hereby made to our opinion filed in that case, and to its applicability here.\nThe Board of Appeals thus describes the system described in the application now before us:\nThe circuits are generally the same as in appellant\u2019s, companion application Serial No. 582G03. A fixed capacity C3 having a value- equal to the greatest capacity value of any antenna A that it is contemplated to use, has been substituted for the variable reactance La, C3 in the secondary circuit of the earlier-application. Another capacity Gi has been included in the primary circuit. This capacity is adjustable to compensate for the difference between the capacity C.i and the lesser capacity of the particular antenna that is being used. A frequency scale M is connected to move in unison with the movable segments of the capacity 0* in the secondary circuit, and since the capacity C3 in this circuit has a fixed value the scale gives the correct readings at all times. In other words, its readings are not disturbed by adjusting the compensating capacity Cl for the antenna since that capacity is outside the secondary circuit.\nThe patent to Hogan is deemed the most pertinent reference. The third and fourth circuits in Hogan\u2019s Figure 5 are simultaneously tuned to the same frequency by the single means 41 for adjusting the condensers 38 and 27. Hogan discloses the idea of making corresponding inductances and capacities in these two circuits equal to secure this result. The inductances 25 and 26 have equal values. The variable capacities 38 and 27 have equal values and this relation is maintained in all positions of simultaneous adjustment. The capacity 43 is selected to compensate for the additional capacity introduced by the antenna. While Hogan discloses a variable load coil 17 in the antenna circuit and finds it advantageous when using these circuits in association, with the first and second circuits of Figure 5 for obtaining beats, we do not understand that the load coil is essential in all uses of the third and fourth circuits. In any event it would not be inventive to provide his secondary circuit with an additional inductance equal in value to the additional antenna inductance if this were found necessary, or desirable, in order to secure more perfect simultaneous tuning of the two circuits. This would be but a carrying forward of his teachings to a logical conclusion.\nWe find ourselves in agreement with this statement and these conclusions. If Hogan taught the equalization of the two tuned circuits by means of similar inductances and capacities, and of this we can not doubt, then the plan of appellant here is but a variation in attaining this object. The substitution of a fixed or variable capacity in either the primary or secondary circuit to accomplish this end is one that would materially suggest itself to anyone skilled in the art. Having in mind the principle, as fully disclosed by Hogan, the construction of the system accordingly is largely mechanical and includes no inventive ideas.\nThe decision of the Board of Appeals is affirmed.",
+        "type": "majority",
+        "author": "GRAham, Presiding Judge,"
+      }
+    ],
+    "attorneys": [
+      "William B. Greeley for appellant.",
+      "T. A. Hostetler (Howard S. Miller of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Frederick K. Vreeland\n(No. 2261)\nUnited States Court of Customs and Patent Appeals,\nApril 14, 1930\nWilliam B. Greeley for appellant.\nT. A. Hostetler (Howard S. Miller of counsel) for the Commissioner of Patents.\n[Oral argument March 4, 1930, by Mr. Greeley and Mr. Miller]\nBefore Graham, Presiding Judge, and Blahd, Hatjtceld, Garrett, and Lenroot,. Associate Judges"
+  },
+  "file_name": "0997-01",
+  "first_page_order": 447,
+  "last_page_order": 449
+}

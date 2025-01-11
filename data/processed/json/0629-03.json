@@ -1,0 +1,92 @@
+{
+  "id": 8354514,
+  "name": "COMMONWEALTH of Pennsylvania, OFFICE OF ADMINISTRATION, v. PENNSYLVANIA LABOR RELATIONS BOARD (Pennsylvania State Corrections Officers Association) Petition of Pennsylvania Labor Relations Board",
+  "name_abbreviation": "Commonwealth, Office of Administration v. Pennsylvania Labor Relations Board",
+  "decision_date": "2007-07-10",
+  "docket_number": "",
+  "first_page": "629",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "916 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8333232,
+        3017238
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/0541-01",
+        "/pa/591/0176-01"
+      ]
+    },
+    {
+      "cite": "591 Pa. 176",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3017238
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/591/0176-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 621,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20287225239772666
+    },
+    "sha256": "0a31d396f6b797b1b162eaa777b85dee986f913b75148994eba435ba4cf8d770",
+    "simhash": "1:bdd4b1df840308bf",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T20:33:07.171132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, OFFICE OF ADMINISTRATION, v. PENNSYLVANIA LABOR RELATIONS BOARD (Pennsylvania State Corrections Officers Association) Petition of Pennsylvania Labor Relations Board."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nThe Petition for Allowance of Appeal is hereby GRANTED. The order of the Commonwealth Court is REVERSED and the matter is remanded for proceedings consistent with this opinion. Commonwealth of Pennsylvania, Office of Administration v. Pennsylvania Labor Relations Board and Pennsylvania State Corrections Officers Association, 591 Pa. 176, 916 A.2d 541 (2007).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, OFFICE OF ADMINISTRATION, v. PENNSYLVANIA LABOR RELATIONS BOARD (Pennsylvania State Corrections Officers Association) Petition of Pennsylvania Labor Relations Board.\nSupreme Court of Pennsylvania.\nJuly 10, 2007."
+  },
+  "file_name": "0629-03",
+  "first_page_order": 677,
+  "last_page_order": 678
+}

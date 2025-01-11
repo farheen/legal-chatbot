@@ -1,0 +1,58 @@
+{
+  "id": 12486613,
+  "name": "Com. v. J. Howard",
+  "name_abbreviation": "Com. v. Howard",
+  "decision_date": "2016-03-16",
+  "docket_number": "NO. 699 EDA 2015",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "55b85d12f02c05d56e1bf7e5d7b553e03e93587b452d43417135d5de5bb9965d",
+    "simhash": "1:3513661048a28d95",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Howard"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Howard\nNO. 699 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 16, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0200-06",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

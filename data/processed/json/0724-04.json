@@ -1,0 +1,58 @@
+{
+  "id": 12487099,
+  "name": "Commonwealth v. Miguel Laureano",
+  "name_abbreviation": "Commonwealth v. Laureano",
+  "decision_date": "2016-08-30",
+  "docket_number": "NO. 226 EAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "1cc84f331469eb7dc7ecabb6bdff7c169914789b6838709c44409fbcf1cd6987",
+    "simhash": "1:fc8f5c3c9ac70b9a",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nMiguel Laureano"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nMiguel Laureano\nNO. 226 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 30, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-04",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

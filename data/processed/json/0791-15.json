@@ -1,0 +1,58 @@
+{
+  "id": 12490899,
+  "name": "IN RE WEYGANDT",
+  "name_abbreviation": "In re Weygandt",
+  "decision_date": "2017-07-12",
+  "docket_number": "17\u2013229",
+  "first_page": "791",
+  "last_page": "791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "4f6e20cca3fe938ddd836980907fee078e231e78bd4d9d66d07397fc4fbf2395",
+    "simhash": "1:50710721cda0c860",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022672+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE WEYGANDT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE WEYGANDT\n17-229\nSupreme Court of Vermont.\nJuly 12, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0791-15",
+  "first_page_order": 791,
+  "last_page_order": 791
+}

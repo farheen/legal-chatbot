@@ -1,0 +1,58 @@
+{
+  "id": 12486722,
+  "name": "Com. v. A. McClellan",
+  "name_abbreviation": "Com. v. McClellan",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 1672 EDA 2015",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "c7333ca2d1f598aea98ea79348dab30787c79f10a671dc67b8e78ac7d5c63674",
+    "simhash": "1:bc42421085d718d1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. McClellan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. McClellan\nNO. 1672 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nAffirmed."
+  },
+  "file_name": "0207-06",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

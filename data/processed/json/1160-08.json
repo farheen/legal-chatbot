@@ -1,0 +1,58 @@
+{
+  "id": 12488652,
+  "name": "Com. v. Hollingsworth, V.",
+  "name_abbreviation": "Com v. Hollingsworth",
+  "decision_date": "2016-05-25",
+  "docket_number": "642 EDA 2015",
+  "first_page": "1160",
+  "last_page": "1160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 93,
+    "sha256": "90f25c1692554984213be442df0d258cca9957113b56561a210c1397c9327aaf",
+    "simhash": "1:bc1724d982a536f5",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHollingsworth, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHollingsworth, V.\n642 EDA 2015\nSuperior Court of Pennsylvania.\nMay 25, 2016\nQuashed"
+  },
+  "file_name": "1160-08",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

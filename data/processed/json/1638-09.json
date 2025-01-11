@@ -1,0 +1,59 @@
+{
+  "id": 6087690,
+  "name": "In re Erich Eissfeldt, et al.",
+  "name_abbreviation": "In re Eissfeldt",
+  "decision_date": "1967-02-21",
+  "docket_number": "No. 8014",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "ocr_confidence": 0.468,
+    "sha256": "fb7e4fea87627932778577439868cf49cb6506fc18579653a0aa9be1175b3ad6",
+    "simhash": "1:0dd1942402972511",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Erich Eissfeldt, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Device for Stacking Punched Cards.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 21, 1967\nNo. 8014.\nIn re Erich Eissfeldt, et al."
+  },
+  "file_name": "1638-09",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

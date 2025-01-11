@@ -1,0 +1,59 @@
+{
+  "id": 6084745,
+  "name": "In re Hasche",
+  "name_abbreviation": "In re Hasche",
+  "decision_date": "1950-01-31",
+  "docket_number": "No. 5786",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 89,
+    "ocr_confidence": 0.487,
+    "sha256": "cf1f05fbb9004f218a469f2357b15c2c0fb061ff546e5470cdca5509abcb50eb",
+    "simhash": "1:06c10a9893915064",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Hasche"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process of producing acetylene.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 31, 1950\nIn re Hasche\n(No. 5786)."
+  },
+  "file_name": "1249-11",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

@@ -1,0 +1,103 @@
+{
+  "id": 7290368,
+  "name": "Daniel L. SPUCK, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellees",
+  "name_abbreviation": "Spuck v. Pennsylvania Board of Probation & Parole",
+  "decision_date": "2010-03-26",
+  "docket_number": "",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "990 A.2d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "658 A.2d 755",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        472136,
+        7872367
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "763",
+          "parenthetical": "law of Pennsylvania is well settled that matters which are not of record cannot be considered on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0460-01",
+        "/a2d/658/0755-01"
+      ]
+    },
+    {
+      "cite": "540 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        472136
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "law of Pennsylvania is well settled that matters which are not of record cannot be considered on appeal"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/540/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 656,
+    "ocr_confidence": 0.745,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18831310242411817
+    },
+    "sha256": "700c6bb6bb08c6f989901b9728c8821f8a0243102c0cf41a2cc5d96818fa953d",
+    "simhash": "1:83dfcd01c60b0016",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T18:18:04.987880+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel L. SPUCK, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 26th day of March, 2010, the Order of the Commonwealth Court is hereby AFFIRMED.\n. Additionally, we hereby deny Appellant\u2019s \u201cMotion for Permission to Attach Exhibits\u201d filed on December 13, 2009. Certain of the exhibits Appellant seeks to attach to his brief are dehors the record and cannot be considered. See Commonwealth v. Bracalielly, 540 Pa. 460, 658 A.2d 755, 763 (1995) (law of Pennsylvania is well settled that matters which are not of record cannot be considered on appeal).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Daniel L. SPUCK, Appellant v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al., Appellees.\nSupreme Court of Pennsylvania.\nMarch 26, 2010."
+  },
+  "file_name": "0725-02",
+  "first_page_order": 767,
+  "last_page_order": 767
+}

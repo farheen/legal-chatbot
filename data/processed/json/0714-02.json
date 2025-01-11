@@ -1,0 +1,792 @@
+{
+  "id": 8398235,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee v. Jerome MARSHALL, Appellant",
+  "name_abbreviation": "Commonwealth v. Marshall",
+  "decision_date": "2008-05-20",
+  "docket_number": "",
+  "first_page": "714",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "947 A.2d 714"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "537 U.S. 322",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9191097
+      ],
+      "weight": 9,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "330"
+        },
+        {
+          "page": "334-35"
+        },
+        {
+          "page": "347"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/0322-01"
+      ]
+    },
+    {
+      "cite": "916 A.2d 1206",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8338600
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/916/1206-01"
+      ]
+    },
+    {
+      "cite": "738 A.2d 435",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11564986,
+        838563
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/738/0435-01",
+        "/pa/558/0532-01"
+      ]
+    },
+    {
+      "cite": "558 Pa. 532",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        838563
+      ],
+      "year": 1999,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/558/0532-01"
+      ]
+    },
+    {
+      "cite": "746 A.2d 585",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11471640,
+        95775
+      ],
+      "weight": 2,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "589",
+          "parenthetical": "rejecting the appellant's argument that Mr. McMahon's statements on the videotape in 1986 or 1987 governed the conduct of a different prosecutor in the same office in 1985"
+        },
+        {
+          "page": "589"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/746/0585-01",
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 487",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95775
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting the appellant's argument that Mr. McMahon's statements on the videotape in 1986 or 1987 governed the conduct of a different prosecutor in the same office in 1985"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0487-01"
+      ]
+    },
+    {
+      "cite": "810 A.2d 1211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9320189,
+        270326
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "1228-29",
+          "parenthetical": "rejecting an appellant's Batson claim based on the McMahon videotape because the claim had no grounding in the particular facts of the appellant's case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/810/1211-01",
+        "/pa/570/0545-01"
+      ]
+    },
+    {
+      "cite": "570 Pa. 545",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        270326
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "parenthetical": "rejecting an appellant's Batson claim based on the McMahon videotape because the claim had no grounding in the particular facts of the appellant's case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/570/0545-01"
+      ]
+    },
+    {
+      "cite": "862 A.2d 74",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1100635,
+        1100675,
+        9158484,
+        9158575
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "82, 87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0492-01",
+        "/pa/580/0491-02",
+        "/a2d/862/0074-01",
+        "/a2d/862/0074-02"
+      ]
+    },
+    {
+      "cite": "580 Pa. 492",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100635
+      ],
+      "year": 2004,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0492-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 505",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9167835,
+        1140687
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "523",
+          "parenthetical": "reiterating that the mere existence of the McMahon videotape does not demonstrate prejudice in a particular case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/863/0505-01",
+        "/pa/581/0057-01"
+      ]
+    },
+    {
+      "cite": "581 Pa. 57",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1140687
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "reiterating that the mere existence of the McMahon videotape does not demonstrate prejudice in a particular case"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/581/0057-01"
+      ]
+    },
+    {
+      "cite": "855 A.2d 682",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12254641,
+        1370929
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "691",
+          "parenthetical": "citing Pa.R.Crim.P. 908(A)(2)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/855/0682-01",
+        "/pa/579/0046-01"
+      ]
+    },
+    {
+      "cite": "579 Pa. 46",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1370929
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Pa.R.Crim.P. 908(A)(2)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/579/0046-01"
+      ]
+    },
+    {
+      "cite": "863 A.2d 423",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1100666,
+        9167059
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "427",
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0594-01",
+        "/a2d/863/0423-01"
+      ]
+    },
+    {
+      "cite": "580 Pa. 594",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1100666
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis in original"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/580/0594-01"
+      ]
+    },
+    {
+      "cite": "930 A.2d 1264",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3250218,
+        8353109,
+        8353173,
+        3250807
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "1270-72",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0382-01",
+        "/a2d/930/1264-01",
+        "/a2d/930/1264-02",
+        "/pa/593/0382-02"
+      ]
+    },
+    {
+      "cite": "593 Pa. 382",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3250218,
+        3250807
+      ],
+      "year": 2007,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0382-01",
+        "/pa/593/0382-02"
+      ]
+    },
+    {
+      "cite": "781 A.2d 94",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9476916,
+        706294
+      ],
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/781/0094-01",
+        "/pa/566/0323-01"
+      ]
+    },
+    {
+      "cite": "566 Pa. 323",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        706294
+      ],
+      "year": 2001,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/566/0323-01"
+      ]
+    },
+    {
+      "cite": "895 A.2d 520",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5654690,
+        8430602,
+        8430557,
+        5653127
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "522"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0467-02",
+        "/a2d/895/0520-02",
+        "/a2d/895/0520-01",
+        "/pa/586/0468-01"
+      ]
+    },
+    {
+      "cite": "586 Pa. 468",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        5653127
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/586/0468-01"
+      ]
+    },
+    {
+      "cite": "899 A.2d 1067",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3466091,
+        8422243
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1075"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0318-01",
+        "/a2d/899/1067-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 318",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3466091
+      ],
+      "year": 2006,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/587/0318-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 314",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215700
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0314-01"
+      ]
+    },
+    {
+      "cite": "941 A.2d 1263",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8402579,
+        8402636,
+        4088079,
+        4089015
+      ],
+      "weight": 2,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/941/1263-01",
+        "/a2d/941/1263-02",
+        "/pa/596/0219-02",
+        "/pa/596/0219-01"
+      ]
+    },
+    {
+      "cite": "928 A.2d 215",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        3248208,
+        8355826
+      ],
+      "weight": 2,
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0067-01",
+        "/a2d/928/0215-01"
+      ]
+    },
+    {
+      "cite": "593 Pa. 67",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        3248208
+      ],
+      "year": 2007,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/593/0067-01"
+      ]
+    },
+    {
+      "cite": "2006 WL 1117862",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2006,
+      "opinion_index": 0
+    },
+    {
+      "cite": "744 A.2d 717",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11490920,
+        95802
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "providing excerpts of the videotaped transcript and condemning the practices described therein as \"flout[ing] constitutional principles in a highly flagrant manner\""
+        },
+        {
+          "parenthetical": "\"[W]e condemn in the strongest terms the practices described in the transcript presented, which flout constitutional principles in a highly flagrant manner.\""
+        },
+        {
+          "page": "731-34",
+          "parenthetical": "remanding to the PCRA court for an evidentiary hearing on the appellant's claim of racial discrimination in jury selection when Mr. McMahon himself was the prosecutor at the appellant's trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/744/0717-01",
+        "/pa/560/0258-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 258",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95802
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "parenthetical": "providing excerpts of the videotaped transcript and condemning the practices described therein as \"flout[ing] constitutional principles in a highly flagrant manner\""
+        },
+        {
+          "parenthetical": "\"[W]e condemn in the strongest terms the practices described in the transcript presented, which flout constitutional principles in a highly flagrant manner.\""
+        },
+        {
+          "parenthetical": "remanding to the PCRA court for an evidentiary hearing on the appellant's claim of racial discrimination in jury selection when Mr. McMahon himself was the prosecutor at the appellant's trial"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0258-01"
+      ]
+    },
+    {
+      "cite": "380 U.S. 202",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1524661
+      ],
+      "weight": 4,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/380/0202-01"
+      ]
+    },
+    {
+      "cite": "2004 WL 1925141",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2004,
+      "opinion_index": 0
+    },
+    {
+      "cite": "812 A.2d 539",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1070131,
+        11366339
+      ],
+      "weight": 6,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "542-43"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "543"
+        },
+        {
+          "page": "543-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0289-01",
+        "/a2d/812/0539-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 289",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070131
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0289-01"
+      ]
+    },
+    {
+      "cite": "643 A.2d 1070",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        775531,
+        7871006
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/537/0336-01",
+        "/a2d/643/1070-01"
+      ]
+    },
+    {
+      "cite": "587 Pa. 336",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "568 A.2d 590",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        1820357,
+        1820309
+      ],
+      "weight": 2,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "599"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/523/0556-01",
+        "/pa/523/0555-01"
+      ]
+    },
+    {
+      "cite": "528 Pa. 556",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "476 U.S. 79",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12787
+      ],
+      "weight": 4,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0079-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1053,
+    "char_count": 27634,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2034126313927955
+    },
+    "sha256": "d6f321b7500e354f623d8ee6f40fcbb6cf80766af5e10a11a5a00d129e601bb1",
+    "simhash": "1:a41d239727f13302",
+    "word_count": 4393
+  },
+  "last_updated": "2024-02-27T16:30:29.111353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEFORE: CASTILLE, C.J., and SAYLOR, EAKIN, BAER, TODD and McCAFFERY, JJ.",
+      "Chief Justice CASTILLE, Justice SAYLOR, EAKIN and BAER, and Justice TODD join this opinion."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee v. Jerome MARSHALL, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nMcCAFFERY, Justice.\nIn this capital case, Jerome Marshall (Appellant) appeals from the order of the Court of Common Pleas of Philadelphia County dismissing without a hearing his second petition filed pursuant to the Post Conviction Relief Act (PCRA). Appellant contends that newly discovered evidence supports his claim of racial discrimination in the seating of a jury during his trial and penalty hearing, in violation of Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986). Following careful review, we affirm.\nThe relevant early history of the instant case has been previously summarized by this Court as follows:\nOn August 29, 1984, Appellant was convicted by a jury of the first-degree murders of Sharon Saunders (a/k/a Sharon Ballard), Myndi McKoy and Karima Saunders. Following a penalty hearing, the jury returned verdicts of death against Appellant in connection with the murders of Myndi McKoy and Karima Saunders and a verdict of fife imprisonment in connection with the murder of Sharon Saunders. On direct appeal, this Court affirmed the judgments of sentence imposed for the murders of Myndi McKoy and Sharon Saunders. Commonwealth v. Marshall, 528 Pa. 556, 568 A.2d 590 (1989). However, the Court vacated the sentence of death imposed for the murder of Karima Saunders and remanded the matter to the Court of Common Pleas for a new penalty hearing. Id. at 575, 568 A.2d at 599. On remand, a jury was impaneled for the sole purpose of fixing Appellant\u2019s sentence for the first-degree murder of Karima Saunders. Following a penalty hearing, the jury returned a verdict of death, and Appellant filed a direct appeal to this Court. Upon review, this Court affirmed the sentence of death. Commonwealth v. Marshall, 587 Pa. 336, 643 A.2d 1070 (1994).\nOn November 16, 1996, Appellant filed a pro se petition pursuant to the PCRA. [Following appointment of counsel, the fifing of an amended PCRA petition, and the PCRA court\u2019s issuance of notice of its intention to dismiss the petition without a hearing, the] PCRA court [ ] dismissed Appellant\u2019s PCRA petition by order dated March 13,1998.\nCommonwealth v. Marshall, 571 Pa. 289, 812 A.2d 539, 542-43 (2002).\nOn December 18, 2002, this Court affirmed the PCRA court\u2019s order, noting that Appellant had waived many of his numerous claims of error by failing to raise them on direct appeal. Id. at 543 (citing 42 Pa.C.S. \u00a7 9544(b) for the proposition that \u201c[a]n issue raised in a PCRA petition is deemed waived if the petitioner could have raised the issue but failed to do so before trial, at trial, on direct appeal or in a prior state post-conviction proceeding\u201d). Among the issues held to be waived were the following: Appellant\u2019s claims that (1) the Commonwealth had used its peremptory strikes to discriminate against women, African-Americans and Jews; and (2) the trial court improperly had excluded prospective jurors in violation of Appellant\u2019s rights to an impartial jury and fair trial. Id.\nIn May 2003, Appellant filed a petition in federal district court for habeas corpus relief, claiming, inter alia, that the prosecutor at his trial, Roger King, had violated Batson by discriminating against African-Americans and women in his peremptory jury challenges. See Marshall v. Beard, 2004 WL 1925141 *3-*4, No. Civ.A. 03-3308 (E.D.Pa., 2004). Appellant sought discovery encompassing notes, documents, memoranda, and reports related to jury selection in his trial or related to general policies and practices regarding jury selection in the Philadelphia District Attorney\u2019s Office. The District Court noted that this Court, on PCRA appeal, had concluded that Appellant\u2019s Batson claim was waived. See id. However, because this Court had sometimes applied a relaxed waiver rule in capital cases at the time Appellant\u2019s issues were held to be waived, the District Court determined that our finding of waiver did not bar federal habeas review of Appellant\u2019s case. Id. at *4 (citing Marshall, 812 A.2d at 543). The District Court granted Appellant\u2019s discovery motion in part, ordering the Commonwealth to provide Appellant with any notes regarding race or gender and jury selection from his 1984 trial and/or 1990 penalty retrial. Id. at *5.\nOn January 27, 2006, Appellant filed a second, counseled PCRA petition, alleging that newly-discovered evidence demonstrated a policy of racial discrimination in jury selection -within the Philadelphia District Attorney\u2019s office, which directly contravened the holdings of the United States Supreme Court in Batson, as well as in Swain v. Alabama, 380 U.S. 202, 85 S.Ct. 824, 13 L.Ed.2d 759 (1965), overruled by Batson, supra. The newly-discovered evidence on which Appellant relied was a copy of notes taken during a 1990 lecture regarding jury selection that was given to Philadelphia prosecutors by Bruce Sagel, who was then an Assistant District Attorney in the Philadelphia District Attorney\u2019s Office. The notes were taken by Gavin Lentz, a former Philadelphia Assistant District Attorney, who had attended Mr. Sagel\u2019s lecture. Based on these notes, Appellant sought to have his convictions and sentences vacated under the Eighth and Fourteenth Amendments to the United States Constitution and Article I, Sections 1,6, 9, 10, 13, and 26 of the Pennsylvania Constitution.\nIn Appellant\u2019s view, the notes constituted evidence of a \u201cculture of discrimination\u201d within the Philadelphia District Attorney\u2019s office, whereby the prosecutors deliberately sought to exclude African-Americans from serving on a jury and to use improper means to avoid a Batson challenge. (Appellant\u2019s Brief at 15). To reinforce his interpretation of the notes, Appellant invoked a videotape of a training seminar on jury selection, which had been given in 1987 by Jack McMahon, who was then a Philadelphia Assistant District Attorney. In the tape, Mr. McMahon explicitly advocated the use of discriminatory practices during jury selection. See Commonwealth v. Basemore, 560 Pa. 258, 744 A.2d 717, 730-731 & n. 12 (2000) (providing excerpts of the videotaped transcript and condemning the practices described therein as \u201cflout[ing] constitutional principles in a highly flagrant manner\u201d). Appellant argued that similarity between the McMahon videotape and the Sagel lecture, as reflected in Mr. Lentz\u2019s notes, revealed a culture of racial discrimination in the jury selection process and disregard for the Batson holding, which was manifest throughout the Philadelphia District Attorney\u2019s Office.\nAlthough Mr. Sagel had delivered the lecture at issue in 1990, Appellant contended that he had been unable to obtain a copy of Mr. Lentz\u2019s notes, or even to learn the identity of the author of the notes, until November 28, 2005, when Mr. Sagel disclosed Mr. Lentz\u2019s identity during testimony in an unrelated federal habeas corpus proceeding. See Appellant\u2019s Brief at 4, 12-13 (citing Bond v. Beard, 2006 WL 1117862, Civ.A. No. 02-CV-08592-J (E.D.Pa., 2006)). However, the Sagel lecture, as well as the McMahon videotape, were the subject of a Philadelphia Magazine investigative report in June 1997 that raised questions about the policy and practices of the District Attorney\u2019s Office with regard to racial discrimination in jury selection.\nOn August 7, 2006, the PCRA court dismissed Appellant\u2019s petition as untimely, and Appellant then filed a timely appeal to this Court, in which he raises the following three issues:\nI. Did the lower court err by dismissing the Petition as untimely, where the Petition was timely filed under 42 Pa.C.S. \u00a7 9545(b)(1)\u00a9 and (ii) and \u00a7 9545(b)(2) because it was filed within 60 days of discovering exculpatory material that was in the possession and/or control of the Commonwealth but not previously disclosed by the Commonwealth, and because that material was neither known to [n]or reasonably discoverable by the defense until its disclosure under oath in a federal proceeding?\nII. Were Appellant\u2019s convictions and death sentences obtained in violation of his state and federal constitutional rights to due process and the equal protection of the laws, and to the effective assistance of counsel, because counsel failed to object to and litigate the equal protection violation; were all prior counsel ineffective for failing to raise these claims; and should these claims of ineffectiveness be considered in the interest of justice?\nIII. Did the lower court err and deny Appellant his federal and state constitutional rights to due process of law by dismissing the Petition without a hearing, in violation of Pa.R.Crim.P. 907(1) and 908(A), where the Petition raised substantial questions of disputed fact, including disputed questions of fact regarding the timeliness of the Petition?\nAppellant\u2019s Brief at 1-2.\nWe have jurisdiction over this appeal pursuant to 42 Pa.C.S. \u00a7 9546(d), which provides for direct review by this Court of the denial of PCRA relief in death penalty cases. Commonwealth v. Rainey, 593 Pa. 67, 928 A.2d 215, 223 (2007). Our standard of review requires that we determine whether the PCRA court\u2019s ruling is supported by the record and free of legal error. Id. We will not entertain a second or subsequent request for PCRA relief unless the petitioner makes a strong prima facie showing that a miscarriage of justice may have occurred. Commonwealth v. Abu-Jamal, \u2014 Pa. -, 941 A.2d 1263, 1267 (2008).\nWe note preliminarily that Batson was decided after Appellant was tried and convicted, but while Appellant\u2019s case was pending on direct review. In Griffith v. Kentucky, 479 U.S. 314, 328, 107 S.Ct. 708, 93 L.Ed.2d 649 (1987), the United States Supreme Court made clear that Batson\u2019s new rule was to be applied retroactively to all cases pending on direct review at the time that Batson was decided. However, we have recently reiterated that for any new rule of law, including Batson\u2019s rule, to apply retroactively to a case pending on direct appeal, the appellant must have preserved the issue \u201cat all stages of adjudication, including at trial and on direct ap-. peal.\u201d Commonwealth v. Sneed, 587 Pa. 318, 899 A.2d 1067, 1075 (2006). In the instant case, Appellant did not make a Batson objection at his trial, and he did not raise a Batson claim on his direct appeal. See Marshall, 812 A.2d at 543. Appellant did not raise a Batson claim until his first PCRA petition; upon review of that petition, we concluded that the claim was waived. Id. at 543-44. We reiterate here, in this, Appellant\u2019s second PCRA petition, that Appellant did not preserve a Batson claim and thus is not entitled to a retroactive application of the Bat-son decision.\nWe next turn to the time limits imposed by the PCRA, as they implicate our jurisdiction to address any and all of Appellant\u2019s claims. Commonwealth v. Chester, 586 Pa. 468, 895 A.2d 520, 522 (2006). To be timely, a PCRA petition must be filed within one year of the date that the petitioner\u2019s judgment of sentence became final, unless the petition alleges and the petitioner proves one or more of the following statutory exceptions:\n(i) the failure to raise the claim previously was the result of interference by government officials with the presentation of the claim in violation of the Constitution or laws of this Commonwealth or the Constitution or laws of the United States;\n(ii) the facts upon which the claim is predicated were unknown to the petitioner and could not have been ascertained by the exercise of due diligence; or\n(in) the right asserted is a constitutional right that was recognized by the Supreme Court of the United States or the Supreme Court of Pennsylvania after the time period provided in this section and has been held by that court to apply retroactively.\n42 Pa.C.S. \u00a7 9545(b)(1).\nWe emphasize that it is the petitioner who bears the burden to allege and prove that one of the timeliness exceptions applies. Abu-Jamal, supra. In addition, a petition invoking any of the timeliness exceptions must be filed within 60 days of the date the claim first could have been presented. 42 Pa.C.S. \u00a7 9545(b)(2). A petitioner fails to satisfy the 60-day requirement of Section 9545(b) if he or she fails to explain why, with the exercise of due diligence, the claim could not have been filed earlier. Commonwealth v. Breakiron, 566 Pa. 323, 781 A.2d 94, 98 (2001).\nException (b)(l)(ii) \u201crequires petitioner to allege and prove that there were \u2018facts\u2019 that were \u2018unknown\u2019 to him\u201d and that he could not have ascertained those facts by the exercise of \u201cdue diligence.\u201d Commonwealth v. Bennett, 593 Pa. 382, 930 A.2d 1264, 1270-72 (2007) (emphasis added). The focus of the exception is \u201con [the] newly discovered facts, not on a newly discovered or newly willing source for previously known facts.\u201d Commonwealth v. Johnson, 580 Pa. 594, 863 A.2d 423, 427 (2004) (emphasis in original). In Johnson, this Court rejected the petitioner\u2019s argument that a witness\u2019s subsequent admission of alleged facts brought a claim within the scope of exception (b)(l)(ii) even though the facts had been available to the petitioner beforehand. Relying on Johnson, this Court more recently held that an affidavit alleging perjury did not bring a petitioner\u2019s claim of fabricated testimony within the scope of exception (b)(l)(ii) because the only \u201cnew\u201d aspect of the claim was that a new witness had come forward to testify regarding the previously raised claim. Abu-Jamal, supra at 1267. Specifically, we held that the fact that the petitioner \u201cdiscovered yet another conduit for the same claim of perjury does not transform his latest source into evidence falling within the ambit of [Section] 9545(b)(l)(ii).\u201d Id. at 1269.\nIn the instant case, Appellant contends in his first issue that the PCRA court erred in dismissing his petition as untimely. Appellant filed the instant PCRA petition, his second, many years after his judgment of sentence had become final. Accordingly, the petition was manifestly untimely on its face, but Appellant invoked timeliness exceptions (b)(l)(i) and (b)(l)(ii), neither of which the PCRA court found applicable.\nIn Appellant\u2019s argument invoking exception (b)(l)(i), for government interference, he claims that the Commonwealth concealed not only the notes at issue, but also Mr. Lentz\u2019s identity as author of the notes and other (unspecified) evidence regarding Mr. Sagel\u2019s seminar. Appellant provides no support for these bare allegations. There is simply no evidence that the notes were in the possession of or concealed by the Commonwealth. As Appellant points out, Mr. Sagel testified on November 28, 2005, in an unrelated federal habeas corpus proceeding, that \u201csomeone\u201d had said the notes were made by Mr. Lentz. See Notes of Testimony (\u201cN.T.\u201d), Bond v. Beard, Civil Action No. 02-cv-08592-JF (E.D.Pa.), 11/28/05, at 102. Mr. Lentz, who had left the employ of the District Attorney\u2019s Office at the end of 1991, then testified in the same Bond proceeding that the notes had indeed been made by him and that he had given the original notes to Mr. Bond\u2019s counsel in the Defender Association of Philadelphia. Id., 12/1/05, at 4, 5. Counsel for Appellant in the instant case, who is also in the Capital Habeas Unit of the Defender Association of Philadelphia, acknowledged that immediately following Mr. Sagel\u2019s testimony in the Bond proceeding, counsel had contacted Mr. Lentz, who provided counsel with copies of the notes. Appellant presents only general, unsupported allegations \u2014 but offers no evidence \u2014 that the Commonwealth interfered with the presentation of his claims by somehow inhibiting his ability to discover Mr. Lentz\u2019s identity and to obtain his notes. Accordingly, we determine that Appellant can not satisfy his burden to prove that the government interference exception applies to his claim.\nAppellant also invokes exception (b)(1)(h), for after-discovered facts, to excuse his untimely, second PCRA petition, but again, Appellant can not satisfy his burden thereunder. Appellant contends that he was unable to present his claim until Mr. Sagel revealed the identity of the author of the notes at issue. Because Appellant\u2019s petition was filed within 60 days of Mr. Sagel\u2019s testimony as to Mr. Lentz\u2019s authorship of the notes, Appellant contends that his petition was therefore timely. Appellant merely states \u2014 without benefit of supporting argument \u2014 that, even if he had exercised due diligence, he could not have obtained the notes and thus could not have presented his claim prior to Mr. Sagel\u2019s testimony. Appellant provides no evidence or argument that Mr. Sagel refused to divulge the information that he possessed regarding the identity of the author of the notes prior to his testimony on November 28, 2005. Appellant provides no evidence or argument that he could not have obtained the identity of the author of the notes from Mr. Sagel, or from another source, prior to Mr. Sagel\u2019s testimony. Thus, Appellant has not carried his burden under Section 9545(b)(2) to establish that he presented his claim within 60 days of the time it could first have been presented.\nFurthermore, Appellant fails to acknowledge that the after-discovered facts exception focuses on facts, \u201cnot on a newly discovered or newly willing source for previously known facts,\u201d and accordingly he fails to demonstrate that his claim falls under this exception. See Johnson, supra (emphasis added). The after-discovered \u201cfact\u201d on which Appellant relies is the contention, based on the Sagel and McMahon lectures, of a policy of racial discrimination in jury selection in the District Attorney\u2019s Office. The investigative report that discussed both lectures and concluded therefrom that a discriminatory policy was extant in the District Attorney\u2019s Office, was published in Philadelphia Magazine in June 1997, and thus was public knowledge prior to the filing of Appellant\u2019s supplemental petition on October 24, 1997, in support of his first request for PCRA relief, some eight years before Appellant filed the instant PCRA petition. Contrary to Appellant\u2019s assertion, Mr. Lentz\u2019s lecture notes are properly characterized as another source for the claim of a racially discriminatory policy in jury selection in the District Attorney\u2019s Office. As this Court made clear in Johnson, supra, the newly-discovered facts exception is not focused on newly discovered or newly willing sources for \u201cfacts\u201d that were already known.\nOn numerous occasions over the course of nearly a decade, this Court has addressed the claims, published by Philadelphia Magazine in. 1997, of racial discrimination in jury selection within the Philadelphia District Attorney\u2019s Office. We have condemned the practices advocated in the McMahon videotape in the strongest terms. However, we have also consistently held that the McMahon videotape not only is insufficient to establish that the Philadelphia District Attorney\u2019s Office had a policy of racial discrimination in jury selection, but also does not constitute evidence in support of discrimination in individual cases where the Commonwealth was represented by prosecutors other than Mr. McMahon.\nMr. Lentz\u2019s notes from Mr. Sagel\u2019s lecture are simply another, albeit more specific, source for the same general allegations of racial discrimination in jury selection in the Philadelphia District Attorney\u2019s Office that were leveled in 1997. Like the McMahon videotape, the notes do not establish a policy or general practice of racial discrimination in jury selection in the District Attorney\u2019s Office. The notes also are not relevant to the specifics of jury selection during Appellant\u2019s prosecution because they were produced after Appellant\u2019s trial and are not linked in any way to the prosecutor in Appellant\u2019s case. Accordingly, we must conclude that Appellant has not alleged or proven any after-discovered facts, but has merely offered another source for claims of discrimination that Appellant himself leveled a decade ago. Thus, he has not satisfied his burden to establish that his claim falls under the after-discovered facts exception to the timeliness requirements of the PCRA. Accordingly, his petition is untimely, and he is not entitled to relief on his first issue.\nIn his second issue, Appellant contends that he is entitled to relief from his convictions and his sentences because the Commonwealth used its peremptory strikes in a racially discriminatory manner, thus depriving him of his rights under the United States and Pennsylvania Constitutions. This issue is nothing more than a rehash of the first issue. We have concluded that Appellant\u2019s PCRA petition was untimely, and thus we need not address this issue further.\nIn Appellant\u2019s third issue, he contends that the PCRA court erred by dismissing his petition without a hearing. Pursuant to the Rules of Criminal Procedure, a PCRA court must hold a hearing when a PCRA petition raises any issues of material fact. Commonwealth v. Santiago, 579 Pa. 46, 855 A.2d 682, 691 (2004) (citing Pa.R.Crim.P. 908(A)(2)). As explained supra, we have concluded that Appellant\u2019s petition was untimely, and accordingly the PCRA court properly determined that it had no jurisdiction to entertain it. We therefore also must conclude that the PCRA court did not err in dismissing Appellant\u2019s petition without a hearing.\nThe PCRA court\u2019s order dismissing Appellant\u2019s petition is affirmed.\nOrder affirmed.\nChief Justice CASTILLE, Justice SAYLOR, EAKIN and BAER, and Justice TODD join this opinion.\n. 42 Pa.C.S. \u00a7\u00a7 9541-46.\n. Appellant\u2019s federal habeas corpus case remains pending.\n. At the time of Appellant\u2019s trial, Swain, supra was the controlling law on racial discrimination in jury selection. Batson was decided in 1986, approximately two years after Appellant\u2019s conviction.\n. To reflect accurately the statutory text, the more appropriate shorthand terminology for exception (b)(l)(ii) is \"after-discovered facts,\u201d and accordingly we will employ this terminology for the remainder of this opinion.\n. Mr. Lentz also testified that he had been the source of the notes referred to in the Philadelphia Magazine article in June 1997. It was Mr. Lentz\u2019s recollection that Mr. McMahon had asked him to share his notes in 1997, during the time that Mr. McMahon was running for the office of district attorney. Mr. Lentz testified that he had supported Mr. McMahon\u2019s bid for election and had shared file notes with him as a friend. The notes ultimately were discussed in the Philadelphia Magazine article. See N.T., Bond v. Beard, Civil Action 02-cv-08592-JF, (E.D.Pa.), 12/1/05, at 16-17, 19.\nIt must also be noted that Mr. Lentz testified that he did not believe there was a culture of discrimination as to jury selection in the District Attorney\u2019s Office, nor did he believe that Mr. Sagel was instructing the prosecutors in attendance at the seminar to disregard Batson and minimize minority representation on juries. See, e.g., id. at 31, 33.\n. Commonwealth v. Basemore, 560 Pa. 258, 744 A.2d 717, 731 n. 12 (2000) (\"[W]e condemn in the strongest terms the practices described in the transcript presented, which flout constitutional principles in a highly flagrant manner.\u201d).\n. See Commonwealth v. Williams, 581 Pa. 57, 863 A.2d 505, 523 (2004) (reiterating that the mere existence of the McMahon videotape does not demonstrate prejudice in a particular case); Commonwealth v. Uderra, 580 Pa. 492, 862 A.2d 74, 82, 87 (2004) (rejecting an appellant\u2019s argument that the 1987 videotape in which a Philadelphia prosecutor explicitly advocated discriminatory peremptory challenges constituted direct evidence of purposeful discrimination in the appellant\u2019s case because the videotape was temporally remote, being made six years before the appellant\u2019s trial, and factually remote, because a different prosecutor had represented the Commonwealth at the appellant's trial); Commonwealth v. Marshall, 570 Pa. 545, 810 A.2d 1211, 1228-29 (2002) (rejecting an appellant\u2019s Batson claim based on the McMahon videotape because the claim had no grounding in the particular facts of the appellant\u2019s case); Commonwealth v. Lark, 560 Pa. 487, 746 A.2d 585, 589 (2000) (rejecting the appellant\u2019s argument that Mr. McMahon\u2019s statements on the videotape in 1986 or 1987 governed the conduct of a different prosecutor in the same office in 1985); Commonwealth v. Rollins, 558 Pa. 532, 738 A.2d 435, 443 n. 10 (1999). (concluding that the McMahon videotape did not lend support to the appellant's Batson claim because the existence of the tape did not demonstrate that there was discrimination in the appellant's case). But see Commonwealth v. Basemore, 560 Pa. 258, 744 A.2d 717, 731-34 (2000) (remanding to the PCRA court for an evidentiary hearing on the appellant\u2019s claim of racial discrimination in jury selection when Mr. McMahon himself was the prosecutor at the appellant\u2019s trial).\n.Appellant\u2019s trial was in 1984, his second penalty hearing was in 1990, and Mr. Sagel\u2019s lecture was given in 1991. Neither Mr. Sagel nor Mr. Lentz was involved in Appellant\u2019s prosecution or second penalty hearing. Likewise, Mr. McMahon was not involved.\n. We note that the Superior Court, in an opinion authored by now-Madame Justice Todd, recently rejected an appellant\u2019s Batson challenge that was based on the same handwritten notes at issue in the instant case. Commonwealth v. Davis, 916 A.2d 1206, 1209 (Pa.Super.2007). Relying on this Court\u2019s reasoning in Lark, 746 A.2d at 589, which addressed the McMahon videotape, the Superior Court panel concluded that the notes did not form the basis for a Batson claim. Davis, supra.\n. We must comment, however, that Appellant's reliance on Miller-El v. Cockrell, 537 U.S. 322, 123 S.Ct. 1029, 154 L.Ed.2d 931 (2003) is misplaced. Appellant\u2019s implication that Mr. Lentz\u2019s notes were comparable to the evidence of racial bias in jury selection in Miller-El is untenable. The Miller-El Court noted the \"extensive evidence\u201d relating to jury selection procedures offered by the appellant to support his contention of racial discrimination in jury selection, both during his individual prosecution and as a general policy in the Dallas County District Attorney\u2019s Office. Id. at 330, 123 S.Ct. 1029. That evidence included the following: testimony from two judges who had once served in the Dallas District Attorney\u2019s Office as to a systematic policy of exclusion of African-Americans; a circular by the District Attorney\u2019s Office instructing prosecutors to exercise peremptory strikes against minorities (\"Do not take Jews, Negroes, Dagos, Mexicans or a member of any minority race on a jury, no matter how rich or how well educated.\u201d); a manual distributed to prosecutors explaining the rationale for excluding minorities; and testimony that the state had requested \"jury shuffle\u201d to reduce the number of African-Americans in the venire. Id. at 334-35, 123 S.Ct. 1029. From this evidence, the Court in Miller-El concluded that \"the culture of the [Dallas] District Attorney\u2019s Office in the past was suffused with bias against African-Americans in jury selection.\u201d Id. at 347, 123 S.Ct. 1029.\n.The Prothonotary of the Supreme Court is directed to transmit the complete record of this case to the Governor pursuant to 42 Pa.C.S. \u00a7 971 l(i).",
+        "type": "majority",
+        "author": "McCAFFERY, Justice."
+      }
+    ],
+    "attorneys": [
+      "Matthew C. Lawry, Esq., Defender Association of Philadelphia, Philadelphia, for Jerome Marshall.",
+      "Hugh J. Burns, Esq., Philadelphia District Attorney\u2019s Office, Amy Zapp, Esq., PA Office of Attorney General, for Commonwealth of Pennsylvania."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee v. Jerome MARSHALL, Appellant.\nSupreme Court of Pennsylvania.\nSubmitted Feb. 12, 2008.\nDecided May 20, 2008.\nMatthew C. Lawry, Esq., Defender Association of Philadelphia, Philadelphia, for Jerome Marshall.\nHugh J. Burns, Esq., Philadelphia District Attorney\u2019s Office, Amy Zapp, Esq., PA Office of Attorney General, for Commonwealth of Pennsylvania.\nBEFORE: CASTILLE, C.J., and SAYLOR, EAKIN, BAER, TODD and McCAFFERY, JJ."
+  },
+  "file_name": "0714-02",
+  "first_page_order": 754,
+  "last_page_order": 763
+}

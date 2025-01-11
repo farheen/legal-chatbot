@@ -1,0 +1,86 @@
+{
+  "id": 7928116,
+  "name": "STATE of Maine v. Robert PEASLEE",
+  "name_abbreviation": "State v. Peaslee",
+  "decision_date": "1987-06-22",
+  "docket_number": "",
+  "first_page": "1392",
+  "last_page": "1392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "526 A.2d 1392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "440 A.2d 1072",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7948145
+      ],
+      "pin_cites": [
+        {
+          "page": "1075"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/440/1072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 160,
+    "char_count": 1686,
+    "ocr_confidence": 0.766,
+    "pagerank": {
+      "raw": 4.740568352603005e-07,
+      "percentile": 0.9297513098253991
+    },
+    "sha256": "1fc5f62402b594269efc73b0f447ef6fb7c872651b81c2b4f191af8f1a33a777",
+    "simhash": "1:21a801f2ea69c16f",
+    "word_count": 251
+  },
+  "last_updated": "2024-02-27T23:50:24.260408+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Robert PEASLEE."
+    ],
+    "opinions": [
+      {
+        "text": "NICHOLS, Justice.\nThe Defendant, Robert Peaslee, appeals, from a judgment of Superior Court (Pisca-taquis County) convicting him after a jury-waived trial of operating a motor vehicle while under the influence of intoxicating liquor, 29 M.R.S.A. \u00a7 1312-B (Supp.1986). The Defendant challenges the investigatory stop of his vehicle, made by a Dover-Fox-croft police officer acting upon certain information transmitted to him by radio by a Milo police officer who had observed the Defendant\u2019s vehicle before it crossed the town line. The Defendant\u2019s motion to suppress evidence derived from this stop had been denied by the District Court (Dover-Foxcroft).\nTo justify an investigatory stop of an automobile the officer must be able to point to specific and articulable facts that, taken together with rational inferences therefrom, reasonably warrant suspicion of unlawful conduct on the part of the occupant of the automobile. The officer\u2019s informant need not himself testify at the suppression hearing. The test is whether the information given contains sufficient indi-cia of reliability, not whether it establishes the truth of these particular facts. State v. McKenzie, 440 A.2d 1072, 1075 (Me.1982).\nUpon the record before the District Court, the motion to suppress was properly denied.\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": "NICHOLS, Justice."
+      }
+    ],
+    "attorneys": [
+      "R. Christopher Almy, Dist. Atty., Philip Worden (orally), Asst. Dist. Atty., Dover-Foxcroft, for plaintiff.",
+      "Mark S. Kierstead (orally), Waterville, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Robert PEASLEE.\nSupreme Judicial Court of Maine.\nArgued June 1, 1987.\nDecided June 22, 1987.\nR. Christopher Almy, Dist. Atty., Philip Worden (orally), Asst. Dist. Atty., Dover-Foxcroft, for plaintiff.\nMark S. Kierstead (orally), Waterville, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+  },
+  "file_name": "1392-01",
+  "first_page_order": 1476,
+  "last_page_order": 1476
+}

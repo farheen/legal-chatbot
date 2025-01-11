@@ -1,0 +1,58 @@
+{
+  "id": 12485958,
+  "name": "Com. v. C. Crawford",
+  "name_abbreviation": "Com. v. Crawford",
+  "decision_date": "2016-02-16",
+  "docket_number": "NO. 1039 MDA 2015",
+  "first_page": "595",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 595"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 112,
+    "sha256": "a5da6b22b1f6c5c4570b1281840a85749270012149cabd1cf857a49df27c7eff",
+    "simhash": "1:a59a272970da8d61",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Crawford"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Crawford\nNO. 1039 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 16, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0595-06",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

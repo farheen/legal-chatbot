@@ -1,0 +1,86 @@
+{
+  "id": 7375588,
+  "name": "Marilyn MIELE v. Elizabeth SIRAVO, Alias and Max Factor & Co.",
+  "name_abbreviation": "Miele v. Siravo",
+  "decision_date": "1994-02-24",
+  "docket_number": "No. 93-271-Appeal",
+  "first_page": "1055",
+  "last_page": "1055",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "638 A.2d 1055"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "448 A.2d 756",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7968644
+      ],
+      "pin_cites": [
+        {
+          "page": "759"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/448/0756-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 145,
+    "char_count": 1452,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18956684347234143
+    },
+    "sha256": "7ac7b9c636be85d974a91cd3e1cd97231fea74c261d89e4ab57c2753d820aa9c",
+    "simhash": "1:6077147b107fc4a8",
+    "word_count": 239
+  },
+  "last_updated": "2024-02-27T16:21:39.760501+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "WEISBERGER, Acting C.J., did not participate."
+    ],
+    "parties": [
+      "Marilyn MIELE v. Elizabeth SIRAVO, Alias and Max Factor & Co."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case came before a panel of the Supreme Court on February 15, 1994, pursuant to an order directing the plaintiff to appear and to show cause why her appeal should not be summarily decided.\nThe plaintiff appeals the denial in Superior Court of her motion for a new trial and/or additur on the issue of damages in a motor vehicle accident involving the parties.\nAfter hearing the arguments of counsel and reviewing the memoranda submitted by the parties, we are of the opinion that cause has not been shown.\nAfter trial, the jury returned a verdict in plaintiffs favor and awarded damages in the amount of $2,260, which plaintiff alleges inadequate.\nThis court affords great weight to a trial justice\u2019s ruling on a motion for a new trial, and such a ruling will not be disturbed unless the trial justice has misconstrued or overlooked material evidence or was otherwise clearly wrong. Connors v. Gasbarro, 448 A.2d 756, 759 (R.I.1982). Our review of the evidence supports the decision of the trial justice. The jury\u2019s verdict was not clearly wrong, and the trial justice was within his discretion to uphold their decision.\nConsequently, we deny and dismiss the appeal, and the judgment appealed from is affirmed.\nWEISBERGER, Acting C.J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John R. Mahoney, Providence.",
+      "James Ruggieri, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Marilyn MIELE v. Elizabeth SIRAVO, Alias and Max Factor & Co.\nNo. 93-271-Appeal.\nSupreme Court of Rhode Island.\nFeb. 24, 1994.\nJohn R. Mahoney, Providence.\nJames Ruggieri, Providence."
+  },
+  "file_name": "1055-02",
+  "first_page_order": 1109,
+  "last_page_order": 1109
+}

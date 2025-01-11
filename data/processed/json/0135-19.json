@@ -1,0 +1,62 @@
+{
+  "id": 12485433,
+  "name": "State of Maryland et al. v. Falcon et al.",
+  "name_abbreviation": "State v. Falcon",
+  "decision_date": "2016-07-11",
+  "docket_number": "No. 183 Sept. Term 2016",
+  "first_page": "135",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 135"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 Md. 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 132,
+    "sha256": "5207bce562f70bd4c4fe33988d0422027392bdbcc2c5e6dacb977a5b9ae319d3",
+    "simhash": "1:30df1e38b1c4a818",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of Maryland et al.\nv.\nFalcon et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State of Maryland et al.\nv.\nFalcon et al.\nNo. 183 Sept. Term 2016\nCourt of Appeals of Maryland\nJuly 11, 2016\nDisposition: Granted."
+  },
+  "file_name": "0135-19",
+  "first_page_order": 135,
+  "last_page_order": 135
+}

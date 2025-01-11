@@ -1,0 +1,58 @@
+{
+  "id": 12487072,
+  "name": "Commonwealth v. Thomas Dartoe",
+  "name_abbreviation": "Commonwealth v. Dartoe",
+  "decision_date": "2016-08-10",
+  "docket_number": "NO. 106 EAL (2016)",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "f3ebe90f5b0b83b11fbe2bd33dfc29a603005e42fef7de424537d00118f54781",
+    "simhash": "1:74ac753db8462cad",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nThomas Dartoe"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nThomas Dartoe\nNO. 106 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 10, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0723-19",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

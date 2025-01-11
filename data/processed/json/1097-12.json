@@ -1,0 +1,58 @@
+{
+  "id": 12489541,
+  "name": "IN RE WOOL",
+  "name_abbreviation": "In re Wool",
+  "decision_date": "2017-03-24",
+  "docket_number": "16\u2013344",
+  "first_page": "1097",
+  "last_page": "1097",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 1097"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 138,
+    "sha256": "76cbd4faeeaa355a3c1c27c05eb255b62baa7bf58c24398dbc232c2a5b22744e",
+    "simhash": "1:9f512d10ae42b805",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE WOOL"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE WOOL\n16-344\nSupreme Court of Vermont.\nMarch 24, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1097-12",
+  "first_page_order": 1097,
+  "last_page_order": 1097
+}

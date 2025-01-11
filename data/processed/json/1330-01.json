@@ -1,0 +1,120 @@
+{
+  "id": 7377525,
+  "name": "STATE, v. Jonathan FIRBY",
+  "name_abbreviation": "State v. Firby",
+  "decision_date": "1994-02-17",
+  "docket_number": "No. 93-409-C.A.",
+  "first_page": "1330",
+  "last_page": "1331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "636 A.2d 1330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "284 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5718921
+      ],
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/284/0390-01"
+      ]
+    },
+    {
+      "cite": "456 A.2d 746",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7955056
+      ],
+      "pin_cites": [
+        {
+          "page": "764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/456/0746-01"
+      ]
+    },
+    {
+      "cite": "442 A.2d 887",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7973384
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "890"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/442/0887-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 264,
+    "char_count": 3413,
+    "ocr_confidence": 0.695,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18957302143870164
+    },
+    "sha256": "14e3799366595a53fe8cf8a5a9ab5e70a0afd14b5b885f1ec7cc90c6b4d21689",
+    "simhash": "1:99c1fada734f05e0",
+    "word_count": 563
+  },
+  "last_updated": "2024-02-27T17:56:39.653482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE, v. Jonathan FIRBY."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM.\nThis matter was before the Supreme Court pursuant to an order directing both the state and the defendant, Jonathan Firby, to appear and show cause why the issues raised in this appeal should not be summarily decided.\nAfter reviewing the memoranda submitted by the parties and after hearing their counsel in oral argument, this court concludes that cause has not been shown. The defendant was found guilty after a trial in the Superior Court on the charge of robbery and conspiracy to rob the manager of a motel. The issue raised at trial and before this court is whether sufficient evidence of aspor-tation exists to support the robbery charge. Both defendant and the state agree that \u201casportation\u201d is a required element of the crime of robbery, as well as of larceny. In In re Timothy, 442 A.2d 887 (R.I.1982), we have held:\n\u201c[t]he asportation element is satisfied by any movement, however slight and however brief in its duration, even if the property is ultimately abandoned.\u201d Id. at 890.\nAs stated by the trial justice,\n\u201ceven for a brief instant [the victim] was dispossessed of his petty cash box with the sixty dollars in it. And that at the time of that dispossession by either [codefendants] both of them had the intent to deprive him permanently, at least of the money inside that petty cash box. And * * * there is sufficient evidence that a reasonable jury could find [defendant] to have been an aider and abettor.\u201d\nThe defendant also contends that the verdicts in this case, guilty of robbery and not guilty of conspiracy to rob, are inconsistent verdicts. However, in State v. Romano, 456 A.2d 746, 764 (R.I.1983), this court stated:\n\u201cWhenever we have considered the issue of verdict inconsistency, we have subscribed to the sentiments expressed in Dunn v. United States, 284 U.S. 390, 393, * * * (1932), where Justice Holmes observed that verdict consistency is not sine qua non because each count of an indictment is to be considered as a separate verdict. * * * [L]ogically inconsistent verdicts will be upheld as long as the verdicts are legally consistent. As we have emphasized in the past,\na jury must be afforded broad power to arrive at inconsistent verdicts of acquittal and conviction through its traditional power to compromise.\u201d\nIn denying the defendant\u2019s motion for a new trial, the trial justice noted that he was satisfied beyond a reasonable doubt that Victor Watson and Michael Carlone robbed William Bums \u201cthrough a particularly vicious holdup,\u201d that the defendant went with them to the motel, that it was their purpose and plan to rob the motel manager, that the defendant was in the driver\u2019s seat of the car because he was the getaway driver, and that the defendant was also the lookout person. We conclude that the trial justice was correct in finding this evidence legally supported the conviction of robbery. We are satisfied that there was sufficient evidence of asportation to support the robbery charge.\nFor these reasons the defendant\u2019s appeal is denied and dismissed, the judgment of conviction appealed from is affirmed, and the papers of the ease are remanded to the Superior Court.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Jeffrey Pine, Atty. Gen., Jane McSoley, Aaron Weisman, Asst. Attys. Gen., for plaintiff.",
+      "Richard Casparian, Public Defender, Barbara Hurst, Asst. Public Defender, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE, v. Jonathan FIRBY.\nNo. 93-409-C.A.\nSupreme Court of Rhode Island.\nFeb. 17, 1994.\nJeffrey Pine, Atty. Gen., Jane McSoley, Aaron Weisman, Asst. Attys. Gen., for plaintiff.\nRichard Casparian, Public Defender, Barbara Hurst, Asst. Public Defender, for defendant."
+  },
+  "file_name": "1330-01",
+  "first_page_order": 1404,
+  "last_page_order": 1405
+}

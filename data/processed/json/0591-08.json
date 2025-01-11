@@ -1,0 +1,58 @@
+{
+  "id": 12485897,
+  "name": "Com. v. K. Smith",
+  "name_abbreviation": "Com. v. Smith",
+  "decision_date": "2016-02-11",
+  "docket_number": "NO. 806 MDA 2015",
+  "first_page": "591",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "7bd957b6a47b5f3fa271a9339c2a8c1adfa41be5abf2711a4b45f06f55765dbe",
+    "simhash": "1:b54d7739d85a9916",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Smith"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Smith\nNO. 806 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 11, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0591-08",
+  "first_page_order": 591,
+  "last_page_order": 591
+}

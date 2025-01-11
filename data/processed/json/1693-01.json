@@ -1,0 +1,158 @@
+{
+  "id": 12166646,
+  "name": "In re James A. Dinwiddie",
+  "name_abbreviation": "In re Dinwiddie",
+  "decision_date": "1965-07-22",
+  "docket_number": "No. 7385",
+  "first_page": "1693",
+  "last_page": "1702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1693"
+    },
+    {
+      "type": "parallel",
+      "cite": "146 U.S.P.Q. 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "347 F.2d 1016"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "319 F. 2d 225",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        157955,
+        6082798
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/319/0225-01",
+        "/ccpa/50-2/1529-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 1529",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6082798
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/1529-01"
+      ]
+    },
+    {
+      "cite": "327 F. 2d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        121210,
+        6092284
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/327/1005-01",
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1180",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092284
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "347 F. 2d 1009",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12166629,
+        860461
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1683-01",
+        "/f2d/347/1009-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1683",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166629
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1683-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 964,
+    "char_count": 25308,
+    "ocr_confidence": 0.536,
+    "pagerank": {
+      "raw": 1.4165008746022275e-07,
+      "percentile": 0.6481374010608341
+    },
+    "sha256": "6fe501d9fbbc5287ed456a51794f632494fa25aaeff0d2c1fad91e3564519e5b",
+    "simhash": "1:b33b749c351d3268",
+    "word_count": 4094
+  },
+  "last_updated": "2024-02-27T16:56:34.096021+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re James A. Dinwiddie"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Judge,\ndelivered the opinion of the court:\nThis appeal is from the decision of the Patent Office Board of Appeals affirming the examiner\u2019s rejection of claims 7-12 of application serial No. 714,097, filed February 10, 1958, for \u201cCatalytic Process.\u201d\nAfter the examiner\u2019s final rejection of some of the appealed claims and others on a variety of grounds, including nine prior art patents, appellant filed an amendment cancelling some claims and substituting two of the present claims and arguing all of the rejections. Upon the examiner's refusal to enter the amendment and refusing to alter his stand, appellant appealed to the Board of Appeals and filed his brief. Thereafter the examiner filed his \u201cAnswer\u201d in which he withdrew all of the references except two and all of bis grounds of rejection except one, and that one he rephrased. It is a species of \u201cdouble patenting\u201d rejection but one of the more confused rejections of this type to come before us\u2014and many have come here of late. There are many points of similarity between this case and appeal No. 7299, In re Sutherland, Jr., just decided, 52 CCPA 1683, 347 F. 2d 1009, 146 USPQ 485. Compare In re Sarett, 51 CCPA 1180, 327 F. 2d 1005, 140 USPQ 474.\nTo put the matter in perspective, we judge that the double patenting rejection before us is in the \u201ccommon assignee\u201d category by tacit agreement of the parties\u2014assuming they are clear on the matter. The application at bar, as we would guess from the power of attorney, and as solicitor\u2019s brief in a footnote says is shown by the Patent Office assignment records, but with no such record before us, is assigned to Humble Oil & Refining Company.\nThe claims stand rejected on United States patent No. 2,916,444, which issued on December 8, 1959, on application serial No. 714,335, filed February 10, 1959, the same day as appellant\u2019s application. On its face, this patent was issued to Esso Research and Engineering Company, assignee of Lonnie W. Vernon. We shall refer to it as the Vernon patent.\nThe same attorney signed the drawings in the application at bar and in the Vernon patent. It seems to be assumed that they have common ownership and at oral argument appellant\u2019s counsel said \u201cthere is a connection\u2019\u2019 between Humble and Esso. Since the case seems to have proceeded on this assumption and no one disputes it, for the purposes of our decision we shall assume common ownership of the Vernon patent and the Dinwiddie application though it is not substantiated by the record and may not in fact exist. The Vernon patent also contains a reference to this Dinwiddie application, to which we shall refer later, but the application does not refer to Vernon\u2019s application or patent. Of slight interest is the fact that the record addresses of Dinwiddie and Vernon are both Baytown, Texas.\nAnother element of confusion confronts us when we come to the point where this opinion should appropriately say something about what the invention is. Were we to go by the specification, what the appellant says he invented would include considerable subject matter which he no longer claims as his invention, for reasons unknown to us and about which we do not particularly care. From reading several office actions and responses thereto, we surmise that we have before us that not unusual situation in which the specification describes more invention than the appellant is permitted to claim by reason of what turned up in the prior art cited, in consequence of which he gradually restricts his claims and the examiner gradually withdraws his rejections until there is distilled out that subject matter which is clear of the prior art and properly defined. Upon reaching that point, appellant was faced with the holding, in effect, that the Vernon patent contains all the patent protection to which the common assignee is entitled on the inventions disclosed by Dinwiddie and Vernon. In passing on that issue, though a \u201cdouble patenting\u201d rejection is based only on the claims of an issued patent, there are inextricably involved here statements of fact in both Vernon\u2019s specification and in appellant\u2019s specification. With this warning, we will now attempt a general description of Dinwiddie\u2019s invention.\nThe invention has to do broadly with catalytic conversion of a fluent feed stock by, inter alia, passing it through a finely divided bed of solid catalyst at appropriate temperatures and pressures. To illustrate, a solid bed of known catalyst is provided and heated gaseous butylenes are passed through it, resulting in the conversion of perhaps half of the butylenes into butadiene; or butane is similarly converted into butene. The conversion products of the catalytic reaction are thereafter separated. This is old. What is desired is to improve the. efficiency of the process to maximize producton of the desired products. There are a great many such conversions which one might wish to effect. There are two general aspects to the invention of appellant's process as disclosed. First, a fluent carrier is continuously flowed through an elongated catalyst bed. Second, the feed stock or material being converted is periodically introduced into the carrier in pulses. We need not go into the details of why the pulse feed into the continuously flowing carrier is advantageous except to say that it promotes the separation of the resulting products and the efficiency of the operation. The patentability of the invention over the prior art insofar as novelty and unobviousness are concerned is not in question. No prior art is seriously relied on.\nThe problem portion of appellant\u2019s specification has to do with the disclosure of the carrier, the general statement about it reading:\nThe carrier to be employed in accordance with the present invention may comprise a liquid or gaseous medium. The carrier may he inert with respect to the catalytic conversion to be effected. The carrier may also he reactive with the fluent feed stock (e.g., ammonia may he used as a carrier in conducting aminoly-sis reactions; water or steam may be used in conducting hydrolysis reactions, etc.). The carrier should be in the same state as the feed material. Thus, the carrier should be volatilized for vapor phase conversion processes and should be in a liquid condition for liquid phase conversion processes.\nThus, for vapor phase reactions substantially chemically inert non-polar gases such as nitrogen, helium, etc. may be employed widely whereas gaseous mediums containing or consisting substantially of materials such as steam, flue gas, carbon dioxide, carbon monoxide, and even oxygen, hydrogen, hydrogen sulfide, gaseous hydrocarbons, etc. may be employed. When a liquid phase reaction is to be conducted, liquid or liquefied carriers such as benzene, liquefied butane, water, alcohols, ethers, etc. may be employed. [Emphasis ours.]\nIn describing a flow sheet and the process represented thereby, the specification says:\nA flowing stream of an inert fluent carrier (i.e., a gas such as nitrogen, helium, flue gas, steam, benzene, etc.) is continually introduced into the reaction zone * * *. [Emphasis ours.]\nSteam, it will be noted, appears to be categorized as both inert and reactive. Another flow diagram, that of Fig. 3, illustrates dehydrogenation of butylenes to butadiene in a continuous process and in that connection the specification says:\nA gas which is substantially completely inert to the dehydrogenation reaction, such as steam, is continuously charged to the reaction zone * * *.\nThere are also in the specification two designated \u201cExamples\u201d in each of which the carrier is the inert gas helium.\nFor whatever reason, appellant, by the time of the appeal to the board, had limited all claims to the use of an \u201cinert\u201d carrier. Six of the original 10 claims had been so limited from their filing on. It should also be noted that \u201cinert\u201d as appellant uses the term is relative. A carrier might be inert with respect to one reaction or catalyst and reactive with respect to others. Therefore, the claims do not stop with the mere use of the term \u201cinert\u201d alone. Claim 11, the broadest claim, will illustrate (our breakdown and emphasis):\n11, In a method for the separation of components formed in the vapor phase catalytic chemical conversion of a vaporous feed material in a conversion zone in the presence of a finely divided catalytically active solid, the improvement which comprises\ncontinuously unidirectionally flowing an inert vaporous carrier through said coversion zone under conversion conditions,\nperiodically introducing pulses of said vaporous feed material into said vaporous carrier for sequentially pulsed flow through said conversion zone under said conversion conditions to obtain continuous separation of one of the components from another of the components formed by conversion of said material in said conversion zone,\nsaid one of the components having a rate of travel through said conversion zone different from the rate of travel of said another of the components,\nsaid feed material being introduced into said conversion zone in pulses of sufficient duration separated by a sufficient time to prevent intermingling of said components formed by said conversion,\nand thereafter recovering said components from said carrier.\nsaid vaporous carrier being inert to said solid and to said chemical conversion.\nClaim 12, the only other independent claim, combines the two statements of claim 11 relating to inertness into a single limitation: \u201ca carrier gas inert to said dehydrogenation reaction and to said catalyst,\u201d which amounts to the same thing, claim 12 being specific to a process of dehydrogenation of a volatilized hydrocarbon. The other four claims are all dependent on claim 12. So much for the Dinwiddie application. We turn now to the rejection of these claims.\nThe examiner first cited and rejected on Vernon in the third office action, Vernon having issued subsequent to the second action, saying:\n3. Claims 1-10 are rejected as unpatentable over the specification and the claims of the newly cited Vernon patent. Applicant\u2019s fluent carrier or inert carrier gas are not seen to be patently [sic] distinct from the fluent electronating agent or carbon dioxide of Vernon particularly as the applicant discloses the use of hydrogen and carbon dioxide as the carrier gas.\nAppel]ant argued that Vernon, having been filed on the same day as his application was not an \u201canticipating\u201d (i.e., prior art) reference; that Vernon\u2019s invention was directed to maintaining catalytic activity and to that end used a reactive, not an inert, carrier; and that his claims patentably distinguished from the claims of the Vernon patent. To this the examiner replied, in a final rejection:\n4. Claims 1-10 are again rejected as unpatentable over the specification and claims of the Vernon patent, of record. While the applicant may argue that hydrogen and carbon dioxide are outside the purview of the claims, it is noted that these gases are recited as applicable in the specification at page 4 and thus it appears that it is essential that the inert gases which are contemplated be specifically stated in the claims.\nIn the amendment thereafter which presented the claims now before us appellant argued, as he has continued to do here (original emphasis) :\nThe present invention [as now claimed] is directed to the separation of reaction products formed in a chemical conversion wherein a vapor feed is introduced in pulses into a continuously flowing stream of an inert vaporous carrier under reaction conditions to convert the feed into reaction products. The inert vaporous carrier is inert to the solid catalyst and to the chemical conversion such that the vaporous carrier does not enter into the reaction in any manner whatsoever.\nThe claims here are directed to an inert vaporous carrier which is inert to the solid, and conversion operation. The fact that the same gases are disclosed by Applicant as are used by the patentee Vernon means only that, in Applicant\u2019s operation as claimed, it is necessary, for the separation, to select a carrier and a catalyst, as well as the feed stock, which are nonreactive. Applicant has illustrated his invention with reference to inert carrier gases. Certainly hydrogen and carbon dioxide are not reactive with all catalysts and feeds that may be used. It is respectfully submitted, therefore, that since Vernon employs a reactive carrier gas, as opposed to Applicant\u2019s inert carrier gas, the claims patent-ably distinguish over Vernon. It is respectfully submitted to be immaterial that Applicant, with some catalysts, may use the same gases as disclosed by Vernon, which are inert thereto.\nThe examiner\u2019s reply to this appeared in his Answer, where he restated his rejection as \u201cunpatentable over the claims of the Vernon patent,\u201d appropriately dropping reference to Vernon\u2019s specification. Here the examiner brought out some new points as to why he did not consider the \u201cinert\u201d limitations of the appealed claims to distinguish from Vernon\u2019s claims. He said appellant defined flue gas and steam as inert and disclosed carbon dioxide as a gaseous medium. He pointed to Polk patent No. 2,848,521, Aug. 19, 1958, the only other reference re-rained, as disclosing steam to be an oxidizing agent, said it was not clear what gases are inert carriers, said there seemed to him to be \u201cbut a single inventive concept\u201d in Vernon and in appellant\u2019s application, and that appellant\u2019s operation is \u201cnoninventively different from that claimed\u201d in Vernon. He concluded by saying:\nIt is further not evident that the carbon dioxide reacts to any appreciable extent in the Vernon process since Vernon merely discloses that the carbon dioxide minimizes hydrogen absorption by the catalyst and provides an oxidizing atmosphere which inhibits reduction of the catalyst. [Emphasis ours.]\nThe board affirmed the examiner in a very short opinion which, aside from setting up the situation, consists almost entirely of the following paragraph:\nWe appreciate the distinction appellant makes in his brief and which was emphasized at the oral hearing, between an inert carrier gas and a reactive one. However, study of the Vernon reference does not convince us that the claims can be allowed on the basis of this alleged distinction. Claims [sic] 6 of the Vernon patent uses carbon dioxide as the continuously flowing gas. It is not, apparent liow carbon dioxide could, react with the several oxide catalysts specified in claim 6 of the patent, nor how it could react with the hydrogen or other materials present in the reaction zone under the particular temperature conditions existing in the Vernon process. In brief, the carbon dioxide appears to vs to function as an inert gas in the process of claim 6 of the patent. We are accordingly constrained to affirm the rejection of the appealed claims as unpatentable over the claims of the Vernon patent. The Polk patent appears to be of little significance in respect to the present issues. TEmphasis ours.]\nThe foregoing show's, we think, that the examiner and the board had somewhat different theories as to why there would be \u201cdouble patenting\u201d if appellant\u2019s claims issue. The board, it is noted, decided for itself the chemistry involved in the process of Vernon claim 6 and concluded that the carbon dioxide carrier gas therein would in fact he inert whereas the examiner recognized that it \u201cprovides an oxidizing atmosphere\u201d even though he thought it would not react \u201cto any appreciable extent.\u201d Oxidation is surely reaction.\nThe experts not being in agreement, let us consider whai invention is claimed by Vernon. We first note that, throughout, the examiner referred to the \u201cclaims\u201d of the Vernon patent, en masse. The board mentions only claim 6. There are only six claims. To see what it is Vernon is claiming it is necessary to look at his specification for the purpose of understanding the claims, though the specification is not otherwise involved on this rejection. Claims of this type cannot be understood in a vacuum. See In re Zickendraht, 50 CCPA 1529, 319 F. 2d 225, 138 USPQ 22, and cases there cited, but also consider In re Sutherland, supra. A fewT lines shed considerable light on the question:\nThis invention relates to a method for maintaining the catalytic activity of a solid metal-containing contacting agent [catalyst] in a catalytic conversion process. More particularly, this invention relates to a method for sustaining the catalytic activity of a solid oxidizable metal-containing contacting agent employed in a conversion operation characterized by the incidental production of oxidizing materials.\nMany of the metal-containing contacting agents that are potentially useful in promoting catalytic conversion operations have found only limited utility with respect to conversion operations that are characterized by the incidental production of de-electronating (i.e., oxidizing) agents which, on reaction with the metal, will substantially inhibit the activity thereof. \u215c * *\nIn accordance with the present invention, metal catalyzed conversion operations are conducted without impairing the activity of the catalyst by continuously flowing a fluent eleetronating (i.e., reducing) agent through a conversion zone containing a bed of finely divided, preferably microporous, catalyst and by periodically introducing pulses of a feed stock * * * ; whereby the action of oxidizing agents such as hydrogen sulfide evolved during the course of the reaction is effectively counteracted.\n* * * * * * *\n* * * it will be apparent that any metal sulfides formed by reaction of the hydrogen sulfide with the catalytic metal component will be continuously reduced by the hydrogen present in the conversion zone whereby the catalyst will be maintained in a highly active unsulfided condition. [All emphasis ours.]\nOxidizing, reducing, and the like are words of chemical reaction and denote the use of a reactive agent. In Vernon that agent is the carrier. An inert carrier, that is a carrier which is inert in the process in which used,, will not function to carry out, Vernon\u2019s invention as he has described it.\nVernon\u2019s claim 1 calls for passing a stream of a fluent \u201celec-tronating agent\u201d through the catalyst \u201cfor inhibiting deelectronation * * *.\u201d This is certainly reaction and the antithesis of what appellant claims. Similarly, claims 2-5 all specify a stream of hydrogen in a hydrodesulfurization process to continuously reduce any metal sulfides formed. This leaves claim 6 as the only claim which could have any possible bearing on a double patenting rejection. It uses a fluent stream of carbon dioxide in a butylene to butadiene dehydrogenation process with catalyst consisting of 77% Fe203, 20% K2C03, and 3% Cr203. Feed stock is introduced in pulses, which is part of Dinwiddie\u2019s invention, and this brings about considerable similarity in the claims. Claim 6 does not speak expressly of any reaction of the carbon dioxide but claim 6 is practically a \u201cpicture claim\u201d of the second example of the specification which concludes with this statement by Vernon who, presumably, understood his own process:\nMoreover, the tendency of the catalyst to become rapidly deactivated is largely overcome in that the carbon dioxide will minimize hydrogen adsorption by the catalyst and will provide an oxidizing atmosphere which will substantially inhibit reduction of the catalyst. [Emphasis ours.]\nThe board has looked at the process of claim 6 and came to its own conclusion that since it sees nothing with which the carbon dioxide would react it must be \u201cinert\u201d in the process. But the specification indicates that there is likelihood of reduction of the catalyst and that the presence of the carbon dioxide, as an oxidizer, will inhibit it. Appellant\u2019s brief gives a concrete explanation which is more appealing to us than the board\u2019s unsupported speculation. It is:\nIn the dehydrogenation of butylenes to butadiene in claim 6 of Vernon, hydrogen is produced. Moreover, the presence of the hydrocarbon (which is also a reducing agent) together with the produced hydrogen provides a reducing atmosphere which if not counteracted will ultimately deactivate the catalyst as described by the patentee. In short, what happens in the Vernon process, as defined by claim 6 particularly, is that the catalyst components tend to become reduced to the several metals. Carbon dioxide, as stated by the patentee, provides an oxidizing atmosphere which re-oxidizes the catalyst as it becomes partially reduced and thus maintains the catalyst in its catalytically active form.\nWithout claiming competence to know who has the better of this argument, we certainly see enough doubt on it to resolve it in favor of the applicant\u2019s right to a patent, in accordance with the long-established policy. We note that the very competent counsel for the Commissioner in his well-written brief has not controverted the last-quoted passage from appellant\u2019s brief.\nBut we do not rest our decision merely on this. Viewing the Vernon patent as a whole and comparing it with appellant\u2019s application, we are in complete disagreement with the examiner that in them there is but a single \u201cinventive concept.\u201d We see two distinct inventions fully justifying two separate applications. The only basis for an argument that appellant is not entitled to all of his otherwise patentable claims is the single exceedingly narrow claim 6 of Vernon defining a process in which appellant insists the carrier gas is reactive. Appellant, contrariwise, has limited all of his claims expressly to inert carriers. With this limitation the Patent Office has found him clear of the prior art and we find him to be likewise clear of Vernon\u2019s patent claims.\nAppellant\u2019s principal contribution to this art appears to us to be, and Vernon\u2019s patent acknowledges it to be, introduction of the feed stock in pulses or bursts. In fact, the examiner and solicitor contend that pulsing is the only patentable feature here involved. Appellant, however, has limited the claims to his invention to pulse feed into an inert carrier. Vernon\u2019s invention is maintaining the catalytic activity in such a pulse feed operation by using a reactive carrier. Vernon\u2019s limitation of his process claims to pulse feed seems to us of no significance, contrary to the solicitor\u2019s contention. Possibly Vernon\u2019s invention is operative only in such a system. In any event, we cannot see in his claim 6, or in any other claim, the grant of any protection on appellant's invention. The essence of double patenting, in all of its ramifications, is that a patent has already issued on an invention or on the patentable substance of it or that an attempt is being made to patent an obvious modification of an already patented invention. We are unable to see such a situation here, nor any time-wise extension of a patent monopoly already granted, the usual basis of the \u201cdouble patenting\u201d objection. Vernon\u2019s claim 6 does not protect appellant\u2019s invention, nor could Vernon have a patent claim to it for he is not the inventor, as the law requires, which his patent admits. In re Sarett, supra.\nThe decision of the board is reversed.\nAlmoND, J., concurs in the result.\nIn Vernon\u2019s specification is the following paragraph referring to the introduction of feed stock in pulses :\nAs is more clearly disclosed and claimed in copending Dinwiddie application Ser. No. 714,097, filed of an even date herewith and entitled \u201cCatalytic Process,\u201d the introduction of a feed stock in pulses or bursts in this fashion provides for a continuous separation within the conversion zone so as to maintain a constantly changing equilibrium.\nClaim 6 reads :\n0. A method for the dehydrogenation of a butylenes feed stock in a reaction zone having a length-to-diameter ratio of about 10 and containing a dehydrogenation catalyst consisting of about 77 percent Fe203, about 20 percent K2COs, and about 3 percent Cr203, said method comprising the steps of continually flowing carbon dioxide heated to a temperature within the range of about 650\u00b0 to 800\u00b0 F. through said reaction zone at a flow rate of about 100 cubic feet of heated carbon dioxide per hour per cubic foot of catalyst, periodically introducing pulses of said butylene feed stock into said flowing stream of carbon dioxide and recovering butadiene from the effluent from said reaction zone, the period of injection of each of said pulses of feed stock lasting about 5 seconds and the period of time between pulses lasting from about 1 to 2 seconds.\nIt would certainly be within the province of the examiner, in view of our reversal of his rejection, upon return of the application, to require that the statement of the invention in the specification be made to conform to what has been found to be allowable. As it stands, \u201cin accordance with the present invention\u201d the carrier \u201cmay also be reactive,\u201d and this appellant abjures.",
+        "type": "majority",
+        "author": "Rich, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Thomas B. McCulloch for appellant.",
+      "Clarence W. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "347 F. 2d 1016; 146 USPQ 497\nIn re James A. Dinwiddie\n(No. 7385)\nUnited States Court of Customs and Patent Appeals,\nJuly 22, 1965\nThomas B. McCulloch for appellant.\nClarence W. Moore (Jere W. Sears, of counsel) for the Commissioner of Patents.\n[Oral argument April 7, 1965 by Mr. McCulloch and Mr. Sears]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges"
+  },
+  "file_name": "1693-01",
+  "first_page_order": 1017,
+  "last_page_order": 1026
+}

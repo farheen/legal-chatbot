@@ -1,0 +1,83 @@
+{
+  "id": 12489039,
+  "name": "Kweku HANSON v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Hanson v. Comm'r of Corr.",
+  "decision_date": "2017-01-18",
+  "docket_number": "",
+  "first_page": "653",
+  "last_page": "654",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 653"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 910"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn.App. 317",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488096
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/150-2/0234-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 368,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577731365805497
+    },
+    "sha256": "7d459f4888a3cef8a000328f8ce0e042ebfe367c58c99f9fd6291c7cb590d75b",
+    "simhash": "1:28af161f7f63a5b0",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:42:18.549546+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kweku HANSON\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Kweku Hanson's petition for certification for appeal from the Appellate Court, 169 Conn.App. 317, 150 A.3d 234 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kweku HANSON\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided January 18, 2017\nKweku Hanson, self-represented, in support of the petition.\nTimothy F. Costello, assistant state's attorney, in opposition.\nThe petitioner Kweku Hanson's petition for certification for appeal from the Appellate Court, 169 Conn.App. 317, 150 A.3d 234 (2016), is denied."
+  },
+  "file_name": "0653-03",
+  "first_page_order": 653,
+  "last_page_order": 654
+}

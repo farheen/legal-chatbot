@@ -1,0 +1,62 @@
+{
+  "id": 12484845,
+  "name": "Glass v. Anne Arundel Co.",
+  "name_abbreviation": "Glass v. Anne Arundel Co.",
+  "decision_date": "2016-06-23",
+  "docket_number": "No. 80 Sept. Term 2016",
+  "first_page": "1261",
+  "last_page": "1261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 1261"
+    },
+    {
+      "type": "parallel",
+      "cite": "448 Md. 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 115,
+    "sha256": "22c9d07f0a2de2092deea436a459da5b4872ba0b331ed93fbc7394d623883ec7",
+    "simhash": "1:24e3540ba76d14f8",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glass\nv.\nAnne Arundel Co."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Glass\nv.\nAnne Arundel Co.\nNo. 80 Sept. Term 2016\nCourt of Appeals of Maryland\nJune 23, 2016\nDisposition: Granted."
+  },
+  "file_name": "1261-17",
+  "first_page_order": 1261,
+  "last_page_order": 1261
+}

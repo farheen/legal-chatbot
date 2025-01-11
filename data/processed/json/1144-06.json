@@ -1,0 +1,58 @@
+{
+  "id": 12488404,
+  "name": "In Re: Estate of John S., Appeal of: Ronald R.",
+  "name_abbreviation": "In re Estate of Southern",
+  "decision_date": "2016-05-11",
+  "docket_number": "1518 EDA 2015",
+  "first_page": "1144",
+  "last_page": "1144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 116,
+    "sha256": "8dc3b391b6f1c6019361746ec54f4ddc880b677432f17ec91b8e029c02b0aeaa",
+    "simhash": "1:35c575dbf16897d1",
+    "word_count": 21
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: Estate of John S.,"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: Estate of John S.,\nAppeal of: Ronald R.\n1518 EDA 2015\nSuperior Court of Pennsylvania.\nMay 11, 2016\nAffirmed"
+  },
+  "file_name": "1144-06",
+  "first_page_order": 1144,
+  "last_page_order": 1144
+}

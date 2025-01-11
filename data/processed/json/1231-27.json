@@ -1,0 +1,58 @@
+{
+  "id": 12488979,
+  "name": "IN RE PARDA",
+  "name_abbreviation": "In re Parda",
+  "decision_date": "2016-12-16",
+  "docket_number": "15\u2013474",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "a295faf253eaf2e36bc015ffd429262299fc96b7b252792cd77baeda8453d8b7",
+    "simhash": "1:088507009844d043",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE PARDA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE PARDA\n15-474\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "1231-27",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

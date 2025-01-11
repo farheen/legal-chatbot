@@ -1,0 +1,66 @@
+{
+  "id": 12124884,
+  "name": "Witherspoon et uxor versus Blanks",
+  "name_abbreviation": "Witherspoon v. Blanks",
+  "decision_date": "1799-03",
+  "docket_number": "",
+  "first_page": "110",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "nominative",
+      "cite": "1 Tay. 110"
+    },
+    {
+      "type": "official",
+      "cite": "1 N.C. 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.C. Super. Ct.",
+    "id": 22358,
+    "name": "North Carolina Superior Court"
+  },
+  "jurisdiction": {
+    "id": 5,
+    "name_long": "North Carolina",
+    "name": "N.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 742,
+    "ocr_confidence": 0.555,
+    "sha256": "d2aef3295308aef201b3fa00f9d53a9e5608e65c168ca133acd49b70448a947d",
+    "simhash": "1:33be8c99134215ea",
+    "word_count": 132
+  },
+  "last_updated": "2023-07-14T20:58:08.451044+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Witherspoon et uxor versus Blanks."
+    ],
+    "opinions": [
+      {
+        "text": "By\nthe Court.\nThe line in controversy, when run to the end of the distance called for, will not reach Cypress-Creek ; where, by the patent it is said to terminate ; but, to reach that place, it must run three times the distance called for. In all such cases, the invariable rule is to disregard the distance ; and to proceed with the line in the direction called for until it shall intersect the creek, or other natural boundary.\nBadger for the Plaintiff.\nGraham for the Defendant.\nVerdict for the Plaintiff.",
+        "type": "majority",
+        "author": "the Court."
+      }
+    ],
+    "attorneys": [
+      "Badger for the Plaintiff.",
+      "Graham for the Defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Witherspoon et uxor versus Blanks.\nA line is to be extended, so as to reach a natural boundary.\nTHE principle question of law arising in this case was, whether a line shall be extended, so as to reach a natural boundary, called for."
+  },
+  "file_name": "0110-02",
+  "first_page_order": 122,
+  "last_page_order": 123
+}

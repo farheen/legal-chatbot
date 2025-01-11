@@ -1,0 +1,58 @@
+{
+  "id": 12485194,
+  "name": "Commonwealth v. Freddie King",
+  "name_abbreviation": "Commonwealth v. King",
+  "decision_date": "2016-06-01",
+  "docket_number": "NO. 698 EAL 2015",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 227,
+    "sha256": "f3a12bc34ca18a7c1f73d83a3a5d12be9aac4aac28877f29a1349c10909762a7",
+    "simhash": "1:b57f3266aab798dc",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nFreddie King"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nFreddie King\nNO. 698 EAL 2015\nSupreme Court of Pennsylvania\nJune 01, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice WECHT did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0012-16",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

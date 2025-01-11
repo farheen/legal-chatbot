@@ -1,0 +1,903 @@
+{
+  "id": 9427541,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Russell TEMPLIN, Appellant",
+  "name_abbreviation": "Commonwealth v. Templin",
+  "decision_date": "2002-04-24",
+  "docket_number": "",
+  "first_page": "959",
+  "last_page": "967",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "795 A.2d 959"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "145 L.Ed.2d 1087",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 S.Ct. 1180",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2000,
+      "opinion_index": 0
+    },
+    {
+      "cite": "528 U.S. 1163",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9689152,
+        9689315,
+        9689284,
+        9689349,
+        9689255,
+        9689228,
+        9689165,
+        9689388,
+        9689133,
+        9689488,
+        9689203,
+        9689427,
+        9689465,
+        9689180
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/528/1163-02",
+        "/us/528/1163-09",
+        "/us/528/1163-08",
+        "/us/528/1163-10",
+        "/us/528/1163-07",
+        "/us/528/1163-06",
+        "/us/528/1163-03",
+        "/us/528/1163-11",
+        "/us/528/1163-01",
+        "/us/528/1163-14",
+        "/us/528/1163-05",
+        "/us/528/1163-12",
+        "/us/528/1163-13",
+        "/us/528/1163-04"
+      ]
+    },
+    {
+      "cite": "727 A.2d 1089",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11633731,
+        607174
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/727/1089-01",
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "556 Pa. 216",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        607174
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "238-39"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/556/0216-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 1121",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203910
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "1125",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/1121-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 318",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147005
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "322",
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0318-01"
+      ]
+    },
+    {
+      "cite": "506 Pa. 537",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1790936
+      ],
+      "weight": 2,
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/506/0537-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "182 A.2d 727",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "730-31"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "408 Pa. 155",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1308369
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "162"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/408/0155-01"
+      ]
+    },
+    {
+      "cite": "691 A.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11915776,
+        468674
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "913",
+          "parenthetical": "recognizing Miranda - based nature of Gibbs holding"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/691/0907-01",
+        "/pa/547/0460-01"
+      ]
+    },
+    {
+      "cite": "547 Pa. 460",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468674
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "473-74",
+          "parenthetical": "recognizing Miranda - based nature of Gibbs holding"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0460-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 1365",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        470762,
+        7884855
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0169-01",
+        "/a2d/661/1365-01"
+      ]
+    },
+    {
+      "cite": "541 Pa. 169",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        470762
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/541/0169-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 210",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841472
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "227-28",
+          "parenthetical": "same"
+        },
+        {
+          "page": "1087",
+          "parenthetical": "same"
+        },
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0210-01"
+      ]
+    },
+    {
+      "cite": "683 A.2d 1181",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7873832,
+        466786
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1189",
+          "parenthetical": "\"The test for determining voluntariness of a confession and whether an accused knowingly waived his or her rights looks to the totality of the circumstances\""
+        },
+        {
+          "page": "1189",
+          "parenthetical": "fact that suspect was read Miranda rights immediately pri- or to making statement weighed in favor of finding voluntariness"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/1181-01",
+        "/pa/546/0161-01"
+      ]
+    },
+    {
+      "cite": "546 Pa. 161",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        466786
+      ],
+      "weight": 2,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "178",
+          "parenthetical": "\"The test for determining voluntariness of a confession and whether an accused knowingly waived his or her rights looks to the totality of the circumstances\""
+        },
+        {
+          "page": "178-79"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/546/0161-01"
+      ]
+    },
+    {
+      "cite": "239 A.2d 426",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "429 Pa. 141",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1913542
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/429/0141-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785545
+      ],
+      "weight": 3,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0568-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "653-54",
+          "parenthetical": "discussing, inter alia, Culombe v. Connecticut, 367 U.S. 568, 81 S.Ct. 1860, 6 L.Ed.2d 1037 (1961)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "450 Pa. 566",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1947027
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "572-75",
+          "parenthetical": "discussing, inter alia, Culombe v. Connecticut, 367 U.S. 568, 81 S.Ct. 1860, 6 L.Ed.2d 1037 (1961)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/450/0566-01"
+      ]
+    },
+    {
+      "cite": "322 A.2d 119",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "124",
+          "parenthetical": "\"there is no simple litmus test for determining whether a confession is involuntary. Instead, courts must consider the totality of the circumstances surrounding the confession\""
+        },
+        {
+          "page": "124",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "457 Pa. 423",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477854
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "430",
+          "parenthetical": "\"there is no simple litmus test for determining whether a confession is involuntary. Instead, courts must consider the totality of the circumstances surrounding the confession\""
+        },
+        {
+          "page": "430"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/457/0423-01"
+      ]
+    },
+    {
+      "cite": "480 Pa. 516",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1745056
+      ],
+      "weight": 4,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "522"
+        },
+        {
+          "page": "1007-08"
+        },
+        {
+          "page": "522"
+        },
+        {
+          "page": "1007-08",
+          "parenthetical": "fact that officers were truthful with suspect regarding what they would tell court if he cooperated weighed in favor of finding confession voluntary"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/480/0516-01"
+      ]
+    },
+    {
+      "cite": "93 L.Ed.2d 587",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "107 S.Ct. 585",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1986,
+      "opinion_index": 0
+    },
+    {
+      "cite": "479 U.S. 989",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6494659,
+        6494877,
+        6495432,
+        6494280,
+        6495080,
+        6495245,
+        6495597,
+        6494990,
+        6494449,
+        6495506,
+        6494775,
+        6494552,
+        6494138,
+        6494363,
+        6494205,
+        6495327
+      ],
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/479/0989-07",
+        "/us/479/0989-09",
+        "/us/479/0989-14",
+        "/us/479/0989-03",
+        "/us/479/0989-11",
+        "/us/479/0989-12",
+        "/us/479/0989-16",
+        "/us/479/0989-10",
+        "/us/479/0989-05",
+        "/us/479/0989-15",
+        "/us/479/0989-08",
+        "/us/479/0989-06",
+        "/us/479/0989-01",
+        "/us/479/0989-04",
+        "/us/479/0989-02",
+        "/us/479/0989-13"
+      ]
+    },
+    {
+      "cite": "796 F.2d 598",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1620188
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "604"
+        },
+        {
+          "page": "604",
+          "parenthetical": "\"The question in each case is whether the defendant's will was overborne when he confessed\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/796/0598-01"
+      ]
+    },
+    {
+      "cite": "412 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "226-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 680",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6236900
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "689",
+          "parenthetical": "\"we continue to employ the totality-of-circumstances approach when addressing a claim that the introduction of an involuntary confession has violated due process\""
+        },
+        {
+          "parenthetical": "\"we continue to employ the totality-of-circumstances approach when addressing a claim that the introduction of an involuntary confession has violated due process\""
+        },
+        {
+          "parenthetical": "\"we continue to employ the totality-of-circumstances approach when addressing a claim that the introduction of an involuntary confession has violated due process\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0680-01"
+      ]
+    },
+    {
+      "cite": "499 U.S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11318776
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0279-01"
+      ]
+    },
+    {
+      "cite": "168 U.S. 532",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141481
+      ],
+      "weight": 5,
+      "year": 1897,
+      "pin_cites": [
+        {
+          "page": "542-43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/168/0532-01"
+      ]
+    },
+    {
+      "cite": "535 Pa. 241",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1841604
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "246"
+        },
+        {
+          "page": "1096"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/535/0241-01"
+      ]
+    },
+    {
+      "cite": "759 A.2d 372",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11230978,
+        11230949,
+        1367006,
+        1366943
+      ],
+      "pin_cites": [
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/759/0372-02",
+        "/a2d/759/0372-01",
+        "/pa/563/0218-01",
+        "/pa/563/0217-01"
+      ]
+    },
+    {
+      "cite": "563 Pa. 218",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1367006
+      ],
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/563/0218-01"
+      ]
+    },
+    {
+      "cite": "709 A.2d 879",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11836819,
+        507799
+      ],
+      "weight": 11,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "880-81"
+        },
+        {
+          "page": "881"
+        },
+        {
+          "page": "883",
+          "parenthetical": "Bram wrongly implies that voluntariness should be resolved with narrow \"but-for\" test, i.e., whether defendant would have confessed but for threat or promise; but Supreme Court has explicitly declared that totality, rather than Bram standard, governs"
+        },
+        {
+          "page": "882",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "885-86",
+          "parenthetical": "Nigro, J., dissenting"
+        },
+        {
+          "page": "882"
+        },
+        {
+          "page": "882"
+        },
+        {
+          "page": "883"
+        },
+        {
+          "page": "883"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/709/0879-01",
+        "/pa/551/0157-01"
+      ]
+    },
+    {
+      "cite": "551 Pa. 157",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        507799
+      ],
+      "weight": 10,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "160"
+        },
+        {
+          "page": "160-61"
+        },
+        {
+          "page": "164"
+        },
+        {
+          "page": "162-63"
+        },
+        {
+          "page": "169-70"
+        },
+        {
+          "page": "163"
+        },
+        {
+          "page": "164"
+        },
+        {
+          "page": "165"
+        },
+        {
+          "page": "165"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/551/0157-01"
+      ]
+    },
+    {
+      "cite": "520 Pa. 151",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1815550
+      ],
+      "weight": 6,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "153"
+        },
+        {
+          "page": "409"
+        },
+        {
+          "page": "155"
+        },
+        {
+          "page": "411"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/520/0151-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1172,
+    "char_count": 25908,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.217534497184971
+    },
+    "sha256": "eca7eff6f0958456374cc4ddfb2f548f665ab1a185d8f3995e45a838fd5170cc",
+    "simhash": "1:8d94216e7727458c",
+    "word_count": 4099
+  },
+  "last_updated": "2024-02-27T20:54:19.083056+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Russell TEMPLIN, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION OF THE COURT\nJustice CASTILLE.\nThis Court granted discretionary pretrial review of a suppression ruling to determine and elucidate the proper standard for evaluating a claim that a confession made after an explicit Miranda waiver was rendered involuntary because it followed upon a promise by police to recommend ROR bail in the event the suspect was arrested and arraigned. The suppression court excluded the confession in this case, focusing exclusively upon the fact of the post-waiver promise, which it deemed an \u201cimproper inducement\u201d that \u201crequire[d] suppression of the statement.\u201d In so holding, the court relied upon Commonwealth v. Gibbs, 520 Pa. 151, 553 A.2d 409 (1989), a case involving an inducement to waive Miranda rights \u2014 specifically, the right to counsel, which the suspect in Gibbs had equivocally invoked. Upon the Commonwealth\u2019s certified appeal, a divided Superi- or Court panel reversed, holding that the suppression court erred in focusing only upon the alleged inducement, while failing to consider the totality of the circumstances, in assessing the voluntariness of appellant\u2019s confession. Relying upon the totality of the circumstances analysis set forth in Commonwealth v. Nester, 551 Pa. 157, 709 A.2d 879 (1998), the Superior Court panel majority found that appellant\u2019s confession was voluntary. Judge Brosky dissented, noting his agreement with the trial court that the case was \u201cextremely similar to, and controlled by,\u201d Gibbs.\nFor the reasons set forth below, we hold that the totality of the circumstances, including any alleged inducement, must be considered in evaluating the voluntariness of a confession. In addition, we affirm the finding of the Superior Court that the totality of the circumstances here demonstrated that appellant\u2019s confession was voluntary.\nIn reviewing a suppression ruling, this Court is bound by the lower court\u2019s factual findings that find support in the record but we are not bound by the court\u2019s conclusions of law. Nester, 551 Pa. at 160, 709 A.2d at 880-81; see also Commonwealth v. Polo, 563 Pa. 218, 222, 759 A.2d 372, 374 (Pa.2000); Commonwealth v. Pickron, 535 Pa. 241, 246, 634 A.2d 1093, 1096 (1993). The determination of whether a confession is voluntary is a conclusion of law and, as such, is subject to plenary review. Nester, 551 Pa. at 160-61, 709 A.2d at 881.\nThe relevant material facts are as follows. On July 24, 1997, a resident of West Pottsgrove Township telephoned the local police department to report that appellant had had sexual contact with the resident\u2019s six-year-old daughter while appellant and the child were watching a movie in appellant\u2019s home. Officer Todd Richard took the report and began his investigation by interviewing the child and her mother at the police station. On September 17,1997, Officer Richard again interviewed the child, who related to the officer appellant\u2019s alleged actions. Shortly after speaking with the child, Officer Richard went to appellant\u2019s home to attempt to schedule a previously requested polygraph examination. Appellant was already familiar with the allegations made against him, as he had been previously interviewed by a representative from Children and Youth Services, accompanied by a police officer other than Officer Richard during that interview. Appellant had not yet responded to the request to take the polygraph test. Appellant agreed with Officer Richard that he would take a polygraph test, and Officer Richard left.\nThe next day, Officer Richard returned to appellant\u2019s home to discuss possible dates for the polygraph. After speaking briefly to appellant, Officer Richard requested that appellant accompany him to the police station to discuss the incident, and appellant agreed. Appellant was not handcuffed or otherwise restrained during the ride to the police station or during the ensuing stationhouse interview. Nor was appellant under the influence of drugs or alcohol. The interview took place in an interview room in which the doors stood open and unguarded. Officer Richard explained to appellant that the doors would remain open and that he was free to leave at any time. Officer Richard offered appellant something to drink, but appellant declined. Appellant acknowledged in his suppression testimony that Officer Richard was polite and that he felt that he could leave the room during the interview.\nAlthough appellant was not formally restrained, Officer Richard nevertheless advised him of his Miranda rights by reading a standard Constitutional Rights Form. The officer questioned appellant to make certain he understood his rights. Appellant then indicated that he was willing to give a voluntary statement, and Officer Richard provided him with a written waiver of rights form and asked him to read it and sign it. Appellant read and signed the form, thus explicitly waiving his Miranda rights.\nFollowing the waiver, appellant initially denied having any sexual contact with the child. Approximately half an hour into the discussion, however, appellant asked the officer what would happen if he, in appellant\u2019s words, \u201cwould .... admit to doing something.\u201d Officer Richard responded by describing the process of arraignment, setting of bail and preliminary hearing in detail. Officer Richard noted that appellant \u201casked the question several times .... [and] I explained it several times in detail.\u201d The suppression court found that Officer Richard also told appellant that he could not make any promises as to whether he would spend time in prison, but advised that, if appellant were to admit his actions and charges were filed, the officer would recommend at arraignment that appellant be released on his own recognizance (ROR).\nThe evidence concerning the promise to recommend ROR release was disputed. Officer Richard testified that, although he, discussed making a recommendation of ROR release, he did not promise to make such a recommendation in exchange for a statement. The officer testified that he told appellant he would make that recommendation because he believed appellant could be trusted to appear since appellant had been nothing but cooperative. The officer was impeached with his contemporaneous report dated September 18, 1997, which stated:\nI explained to [appellant] that I could make no promises as to whether or not he would spend time in prison. I did advised [sic] him that if he he [sic] were to admit his actions and charges were filed then I would recommend R.O.R. bail at his arraignment.\nExhibit D-l. Appellant testified that the officer promised him that he would recommend both ROR release and Accelerated Rehabilitative Disposition (ARD) classes in exchange for a statement. Appellant further claimed that, \u201cI thought I would go in front of a judge and he would give me ROR and ARD classes and I thought it would be over and done with.\u201d N.T. 9/8/98 at 49. The suppression court stated that it \u201cresolved the conflict in the evidence and found that Officer Richard promised to make a recommendation for ROR bail, but not ARD.\u201d Trial court op. at 2-8. That credibility-based finding is consistent with Officer Richard\u2019s report and, thus, is supported by the record evidence.\nThe suppression evidence also reflects that Officer Richard told appellant that, notwithstanding his recommendation of ROR release, it would be the district justice who would establish the terms of any post-arraignment release. Appellant testified that he realized that the district justice ultimately would determine whether he would be released after arraignment and that, in fact, ROR release was recommended at his arraignment and he was released on his own recognizance. Appellant also testified that Officer Richard never promised him that he would talk to the district attorney about his case. Finally, appellant testified that he understood everything the officer told him up to the point \u201cwhere the D.J. would come in and, you know, ROR and ARD classes.\u201d\nAppellant then gave a written statement admitting, inter alia, that he rubbed the six year-old child\u2019s vagina with his hand, but denying that he ever exposed himself to the child or otherwise touched her. Appellant also claimed that he was \u201con acid\u201d when he touched the child. Officer Richard transcribed the statement onto his computer as appellant spoke. Appellant reviewed a printout of the statement, made corrections, then signed and adopted it.\nOn appeal, appellant contends that the officer\u2019s post -Miranda waiver promise to recommend ROR release at arraignment was \u201can offer of leniency in the prosecution\u201d of the case which rendered his confession involuntary as a matter of law, irrespective of the totality of the circumstances. Appellant argues that, while the totality of the circumstances test generally governs the determination of the voluntariness of a confession, Gibbs and its progeny require a \u201cbright line rule\u201d of exclusion automatically invalidating confessions which follow upon an offer of leniency. In the alternative, appellant argues that his confession was involuntary under the totality of the circumstances. The Commonwealth responds that the constitutional test for exclusion of a confession upon grounds of involuntariness requires consideration of the totality of the circumstances and that, under that analysis, the Superior Court properly determined that appellant\u2019s confession was voluntary.\nThe Superior Court clearly was correct in holding that the voluntariness of a confession is determined by the totality of the circumstances. The contrary, absolute rule that appellant promotes apparently derives from an early opinion of the U.S. Supreme Court, Bram v. United States, 168 U.S. 532, 18 S.Ct. 183, 42 L.Ed. 568 (1897), where the U.S. Supreme Court stated that a confession cannot be obtained by \u201cany direct or implied promises, however slight, nor by the exertion of any improper influence.\u201d Id. at 542-43, 18 S.Ct. 183 (citation omitted). But the Supreme Court has since made clear that, under current precedent, the above-quoted passage from Bram \u201cdoes not state the standard for determining the voluntariness of a confession.\u201d Arizona v. Fulminante, 499 U.S. 279, 285, 111 S.Ct. 1246, 113 L.Ed.2d 302 (1991). Instead, voluntariness is determined by considering the totality of the circumstances. Id.; see also Withrow v. Williams, 507 U.S. 680, 689, 113 S.Ct. 1745, 123 L.Ed.2d 407 (1993) (\u201cwe continue to employ the totality-of-circumstances approach when addressing a claim that the introduction of an involuntary confession has violated due process\u201d); Schneckloth v. Bustamonte, 412 U.S. 218, 226-27, 93 S.Ct. 2041, 36 L.Ed.2d 854 (1973). Accord Miller v. Fenton, 796 F.2d 598, 604 (3d Cir.1986), cert. denied, 479 U.S. 989, 107 S.Ct. 585, 93 L.Ed.2d 587 (1986). See generally W.R. LaFave et al., Criminal Procedure, \u00a7 6.2(c) (2d ed.1999). This Court explicitly recognized the inapplicability of Bram\u2019s absolute statement in Nester. See 551 Pa. at 164, 709 A.2d at 883 (Bram wrongly implies that voluntariness should be resolved with narrow \u201cbut-for\u201d test, i.e., whether defendant would have confessed but for threat or promise; but Supreme Court has explicitly declared that totality, rather than Bram standard, governs).\nLong before Fulminante, this Court had repeatedly recognized that the voluntariness of a confession is determined by considering the totality of the circumstances. E.g., Commonwealth v. Kampo, 480 Pa. 516, 522, 391 A.2d 1005, 1007-08 (1978); Commonwealth v. Jones, 457 Pa. 423, 430, 322 A.2d 119, 124 (1974) (\u201cthere is no simple litmus test for determining whether a confession is involuntary. Instead, courts must consider the totality of the circumstances surrounding the confession\u201d); Commonwealth v. Eiland, 450 Pa. 566, 572-75, 301 A.2d 651, 653-54 (1973) (discussing, inter alia, Culombe v. Connecticut, 367 U.S. 568, 81 S.Ct. 1860, 6 L.Ed.2d 1037 (1961)); Commonwealth ex rel. Butler v. Rundle, 429 Pa. 141, 149, 239 A.2d 426, 430 (1968). This Court has applied the totality of circumstances test with no less force or vigor in cases where there was a claim that a promise or inducement rendered the confession involuntary. E.g., Eiland. This Court merely reaffirmed the vitality of the test in Nester, 551 Pa. at 162-63, 709 A.2d at 882 (footnote omitted); accord Nester, 551 Pa. at 169-70, 709 A.2d at 885-86 (Nigro, J., dissenting). See also Commonwealth v. Jones, 546 Pa. 161, 178, 683 A.2d 1181, 1189 (1996) (\u201cThe test for determining voluntariness of a confession and whether an accused knowingly waived his or her rights looks to the totality of the circumstances\u201d); Commonwealth v. Edmiston, 535 Pa. 210, 227-28, 634 A.2d 1078, 1087 (1993) (same).\nAppellant argues, however, that in Commonwealth v. Laatsch, 541 Pa. 169, 661 A.2d 1365 (1995), a case post-dating Ful-minante, this Court \u201creaffirmed\u201d the supposed ruling of Gibbs that a promise of leniency in the prosecution, without more, automatically negates the voluntariness of a confession. Appellant\u2019s reliance on Laatsch and Gibbs is misplaced. The Laatsch Court merely held that the Superior Court in that case had erred in extending Gibbs to a situation involving a police promise designed to induce cooperation in future investigations, rather than an inducement to waive counsel and confess, as had occurred in Gibbs. There was no broad issue in Laatsch as to the propriety of employing Gibbs in evaluating the voluntariness of a confession \u2014 the issue which is presented here.\nSecond, and more fundamentally, Gibbs neither cited to, nor purported to overrule, this Court\u2019s precedent recognizing that the totality of the circumstances test governs the voluntariness of confessions.\nThe State Police trooper who interrogated Gibbs stated that, after he administered Miranda warnings, Gibbs made what this Court termed an \u201cequivocal inquiry\u201d respecting the right to counsel, as he suggested, \u201cMaybe I should talk to a lawyer,\u201d and \u201cWhat good would it do me to tell you?\u201d The trooper responded, \u201cI really don\u2019t know what good it would do. The only thing is I would tell the District Attorney you cooperated for whatever good that would be, but I would have no idea whether it would help your case or not.\u201d Gibbs then waived his Miranda rights and confessed to the trooper. 520 Pa. at 153, 553 A.2d at 409. This Court determined that the trooper\u2019s statement in response to the defendant\u2019s equivocation respecting counsel impermissibly induced his Miranda waiver, thereby rendering his subsequent confession inadmissible:\nBy conveying the distinct impression that the district attorney would be told of his cooperation in giving a confession on the spot, there occurred an inescapable inducement which cannot be condoned under our law. For while we recognize that the police have a legitimate responsibility to conduct investigations, including interrogations, criminal suspects have a constitutional right to make up their own minds as to whether they want the Miranda protections. Promises of benefits or special consideration, however benign in intent, comprise the sort of persuasion and trickery which easily can mislead suspects into giving confessions. The process of rendering Miranda warnings should proceed freely without any intruding frustration by the police. Only in that fashion can we trust the validity of subsequent admissions, for if the initial employment of Miranda is exploited illegally, succeeding inculpatory declarations are compromised. Misleading statements and promises by the police choke off the legal process at the very moment which Miranda was designed to protect.\nId. at 155, 558 A.2d at 410-11. The Court concluded that, \u201cwe decide only that the authorities are not permitted to employ inducements which impair in any way a suspect\u2019s right to his own unfettered evaluation of the need for legal counsel.\u201d Id. at 156, 553 A.2d at 411.\nObviously, an inducement to waive following upon an assertion of rights after being given Miranda warnings implicates more than a due process concern with the voluntariness of a confession; it may burden the defendant\u2019s constitutional privilege against compulsory self-incrimination or the right to counsel. Thus, confessions obtained in violation of Miranda are excluded irrespective of their voluntariness. Unlike Gibbs, this case involves the voluntariness of a confession in a circumstance where Miranda rights were properly explained, acknowledged, explicitly waived, and no assertion of the right to counsel, equivocal or otherwise, or the right to remain silent was made. Whatever inducement is alleged to have existed in this matter did not \u201cchoke off the legal process at the very moment which Miranda was designed to protect.\u201d Since the concerns that animated Gibbs are not present in the case sub judice, Gibbs is inapposite. See Commonwealth v. Bronshtein, 547 Pa. 460, 473-74, 691 A.2d 907, 913 (1997) (recognizing Miranda \u2014 based nature of Gibbs holding); Commonwealth v. Jones, 457 Pa. at 431 n. 7, 322 A.2d at 124 n. 7 (recognizing distinction between coerced confession claim and claim that confession is inadmissible under Miranda).\nThe circumstances of the confession here, viewed in their totality, plainly demonstrate its voluntary nature. In determining voluntariness, the question \u201cis not whether the defendant would have confessed without interrogation, but whether the interrogation was so manipulative or coercive that it deprived the defendant of his ability to make a free and unconstrained decision to confess.\u201d Nester, 551 Pa. at 163, 709 A.2d at 882; Jones, 457 Pa. at 430, 322 A.2d at 124 (same); see also Miller, 796 F.2d at 604 (\u201cThe question in each case is whether the defendant\u2019s will was overborne when he confessed\u201d). \u201cBy the same token, the law does not require the coddling of those accused of crime. One such need not be protected against his own innate desire to unburden himself.\u201d Commonwealth v. Graham, 408 Pa. 155, 162, 182 A.2d 727, 730-31 (1962). Factors to be considered in assessing the totality of the circumstances include \u201cthe duration and means of the interrogation; the physical and psychological state of the accused; the conditions attendant to the detention; the attitude of the interrogator; and any and all other factors that could drain a person\u2019s ability to withstand suggestion and coercion.\u201d Nester, 551 Pa. at 164, 709 A.2d at 882.\nOf primary importance in this case is the fact that appellant was fully apprised of, and expressly waived, his Miranda rights, including the right to counsel and the right to remain silent, before any substantive questioning began, and well before the alleged inducement to confess. As a leading commentator has noted\nThe fact that warnings were given is an important factor tending in the direction of a voluntariness finding. This fact is important in two respects. It bears on the coerciveness of the circumstances, for it reveals that the police were aware of the suspect\u2019s rights and presumably prepared to honor them. And .... it bears upon the defendant\u2019s susceptibility, for it shows that the defendant was aware that he had a right not to talk to the police.\nW.R. LaFave et al., Criminal Procedure, \u00a7 6.2(c), at 460. Accord Jones, 546 Pa. at 178-79, 683 A.2d at 1189 (fact that suspect was read Miranda rights immediately pri- or to making statement weighed in favor of finding voluntariness).\nThe other circumstances surrounding the stationhouse interview corroborate the voluntariness of the confession. Appellant voluntarily accompanied the officer to the police station. See Nester, 551 Pa. at 165, 709 A.2d at 883. The interview was conducted by a single police officer and lasted at most an hour and a half, not an excessive period of time. Id. There was no physical coercion or intimidation: Appellant was not handcuffed or arrested, either during the ride to the stationhouse or during the interview itself. The door to the interview room was left open and appellant was informed that he was free to leave at any time. Appellant also was not impaired by drugs or alcohol. Nor did the police officer threaten appellant in any way; to the contrary, appellant testified that the officer was polite, and even offered him something to drink. See Edmiston, 535 Pa. at 228, 634 A.2d at 1087 (comfortable surroundings and non-coercive atmosphere, absence of force or compulsion, absence of handcuffing or shackling, and polite demeanor of police weigh in favor of finding of voluntariness). Finally, the subject of the interview was not sprung upon appellant by surprise: Appellant was already aware of the child\u2019s accusations, and he had already been in contact with the police on several other occasions, including just the day before, respecting the allegations. In short, there was no special element of coercion, over and beyond that which is inherent in any non-custodial star tionhouse interview, to overbear appellant\u2019s will. In addition, any coercive factors inherent in the stationhouse setting were more than offset by the Miranda warnings and waiver.\nWhat the matter is reduced to then is the effect of the promise to recommend release on ROR. Although a promise of pre-trial release is not insignificant, appellant is incorrect in equating it with a promise of leniency in the actual prosecution itself, ie., a reduction or outright dismissal of charges, or a promise as to leniency in sentencing. The promise here did not even concern a recommendation to talk to the Court or the prosecutor with respect to the overall prosecution, contrast Gibbs, nor was there a promise that a confession would result in no charges being filed. See Nester, 551 Pa. at 165, 709 A.2d at 883. The importance of the distinction in the scope of the promise is made apparent by considering appellant\u2019s suppression testimony. Appellant did not merely claim that he was promised a recommendation of ROR release; instead, he claimed that he was also promised that, if he gave an incriminating statement, he would be required only to attend ARD classes, and then the matter \u201cwould be over and done with.\u201d His testimony regarding ARD classes was not credited by the suppression court. Obviously, a promise of a favorable and relatively painless resolution of the entire case is much more likely to have a coercive effect than a promise only to recommend ROR release at arraignment.\nEqually significant is the fact that the promise respecting ROR release was not misstated or overstated. The officer made clear that the ultimate determination of the conditions of any pre-trial release would be up to the assigned district justice, and appellant testified that he understood that fact. The officer was then true to his promise, and appellant in fact was released on ROR. The absence of any misstatement or misleading promise weighs in favor of a finding of voluntariness. See W.R. LaFave et al., Criminal Procedure, \u00a7 6.2(c), at 452 n. 86 (\u201cOf course, deception or misstatement in the promise is a critical factor in concluding that it [operated to overbear the suspect\u2019s will]\u201d); Commonwealth v. Kampo, 480 Pa. at 522, 391 A.2d at 1007-08 (fact that officers were truthful with suspect regarding what they would tell court if he cooperated weighed in favor of finding confession voluntary).\nConsidered in its totality, the credited evidence here overwhelmingly demonstrated that appellant\u2019s confession was voluntary. Accordingly, we affirm the decision of the Superior Court.\nFormer Chief Justice FLAHERTY did not participate in the decision of this case.\n. Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966).\n. The Rules of Criminal Procedure define \"release on recognizance\u201d or \"ROR\u201d bail as \"[rjelease conditioned only upon the defendant\u2019s written agreement to appear when required and to comply with the conditions of the bail bond in Rule 526(A).\u201d Pa.R.Crim.P. 524(C)(1).\n. The Commonwealth certified that the suppression of appellant\u2019s confession substantially handicapped or effectively terminated the prosecution, thus perfecting its right to appeal the pretrial order. Pa.R.A.P. 311(d); Commonwealth v. Dugger, 506 Pa. 537, 486 A.2d 382 (1985).\n. See Stansbury v. California, 511 U.S. 318, 322, 114 S.Ct. 1526, 128 L.Ed.2d 293 (1994) (per curiam) (ultimate inquiry for determining custody for Miranda purposes is whether there was formal arrest or restraint on freedom of movement of degree associated with formal arrest), citing California v. Beheler, 463 U.S. 1121, 1125, 103 S.Ct. 3517, 77 L.Ed.2d 1275 (1983) (per curiam) (citation omitted); Commonwealth v. Johnson, 556 Pa. 216, 238-39, 727 A.2d 1089, 1100 (1999), cert. denied, 528 U.S. 1163, 120 S.Ct. 1180, 145 L.Ed.2d 1087 (2000).\n. The signed waiver acknowledged that appellant had been advised of: (1) his right to remain silent and that anything he said could and would be used against him in a court of law; (2) his right to counsel before and during any questioning; (3) his right to appointed counsel if he could not afford to retain a lawyer; and (4) his right to refuse to answer any question and to stop talking anytime he wished.\n. Appellant also claims that this Court \"reaffirmed\u201d the Gibbs test in Hester because Hester cited to Laatsch. In fact, Hester made clear that the totality of the circumstances test governs; the discussion of Laatsch occurred only as the Hester Court was in the process of applying the totality of the circumstances. In any event, in both Laatsch and Hester suppression relief was denied; thus, neither case held that an inducement alone rendered a confession involuntary.",
+        "type": "majority",
+        "author": "Justice CASTILLE."
+      }
+    ],
+    "attorneys": [
+      "Alan J. Josel, Norristown, Michael A. John, for Russell Templin.",
+      "Michael D. Marino, Norristown, Marianne Killinger, for Com."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Russell TEMPLIN, Appellant.\nSupreme Court of Pennsylvania.\nArgued Oct. 18, 2000.\nDecided April 24, 2002.\nAlan J. Josel, Norristown, Michael A. John, for Russell Templin.\nMichael D. Marino, Norristown, Marianne Killinger, for Com.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+  },
+  "file_name": "0959-03",
+  "first_page_order": 999,
+  "last_page_order": 1007
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12505079,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Nelson RIVERA Jr., Petitioner",
+  "name_abbreviation": "Commonwealth v. Rivera",
+  "decision_date": "2018-12-28",
+  "docket_number": "No. 601 MAL 2018",
+  "first_page": "888",
+  "last_page": "888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 626,
+    "sha256": "a28357d5753a4b472d472f49bf935511d9fa57cbac4fde8c47683352d3a499d6",
+    "simhash": "1:8d6db61cf7c34fe8",
+    "word_count": 98
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent\nv.\nNelson RIVERA Jr., Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nAND NOW, this 28th day of December, 2018, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue, rephrased for clarity, is:\nWhere a prosecutor's conduct causes a mistrial, and a defendant subsequently moves to bar retrial on double jeopardy grounds, what standard of review should a reviewing court apply to the trial court's factual finding regarding the prosecutor's intent?",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent\nv.\nNelson RIVERA Jr., Petitioner\nNo. 601 MAL 2018\nSupreme Court of Pennsylvania.\nDecember 28, 2018\nORDER"
+  },
+  "file_name": "0888-03",
+  "first_page_order": 888,
+  "last_page_order": 888
+}

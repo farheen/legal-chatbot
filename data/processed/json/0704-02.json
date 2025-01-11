@@ -1,0 +1,64 @@
+{
+  "id": 12486845,
+  "name": "Copsey v. Park",
+  "name_abbreviation": "Copsey v. Park",
+  "decision_date": "2016-08-19",
+  "docket_number": "Pet. Docket No. 189; Sept. Term, 2016",
+  "first_page": "704",
+  "last_page": "704",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 704"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "a621c7ca170e190359d8dfa9a7a063232a0fcabd17129998e1779bd0ce559d95",
+    "simhash": "1:28ef56009468c218",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Copsey\nv.\nPark"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari granted."
+    ],
+    "corrections": "",
+    "head_matter": "Copsey\nv.\nPark\nPet. Docket No. 189\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 19, 2016\nPetition for writ of certiorari granted."
+  },
+  "file_name": "0704-02",
+  "first_page_order": 704,
+  "last_page_order": 704
+}

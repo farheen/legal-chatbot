@@ -1,0 +1,58 @@
+{
+  "id": 12486691,
+  "name": "Com. v. C. Shaffer",
+  "name_abbreviation": "Com. v. Shaffer",
+  "decision_date": "2016-03-21",
+  "docket_number": "NO. 1059 MDA 2015",
+  "first_page": "205",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "2b6b93a87b9f94b78735b5d5cb23be0ef9cacf47522eab73300762dbb5ee18f2",
+    "simhash": "1:1411450851b88421",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Shaffer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Shaffer\nNO. 1059 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 21, 2016\nAffirmed."
+  },
+  "file_name": "0205-07",
+  "first_page_order": 205,
+  "last_page_order": 205
+}

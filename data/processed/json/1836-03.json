@@ -1,0 +1,59 @@
+{
+  "id": 12167198,
+  "name": "In re Robert Z. Page and Benjamin E. Reed, Jr.",
+  "name_abbreviation": "In re Page",
+  "decision_date": "1964-11-18",
+  "docket_number": "No. 7577",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 99,
+    "ocr_confidence": 0.639,
+    "sha256": "bd97035a1d9dcd5ea4f29581eea3edd98165f624ce3d9cea53c659a96f90d02b",
+    "simhash": "1:4afc8b22a67c0a11",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert Z. Page and Benjamin E. Reed, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Impregnation of wood.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 18, 1964\nIn re Robert Z. Page and Benjamin E. Reed, Jr.\n(No. 7577)."
+  },
+  "file_name": "1836-03",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

@@ -1,0 +1,87 @@
+{
+  "id": 8099610,
+  "name": "STATE of Maine v. Fred H. O'CLAIR, also known as Fred James O'Clair",
+  "name_abbreviation": "State v. O'Clair",
+  "decision_date": "1966-09-28",
+  "docket_number": "",
+  "first_page": "74",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "223 A.2d 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "183 A.2d 209",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "158 Me. 265",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        942531
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/158/0265-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 198,
+    "char_count": 2358,
+    "ocr_confidence": 0.783,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20079355977896782
+    },
+    "sha256": "9c3a728b52d43b60ff08dface9100468d8b87e92d0d20da92bee1e5e9716e6e2",
+    "simhash": "1:a015ee3cd18d3cdf",
+    "word_count": 397
+  },
+  "last_updated": "2024-02-27T20:05:54.886428+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DUFRESNE, J., did not sit."
+    ],
+    "parties": [
+      "STATE of Maine v. Fred H. O\u2019CLAIR, also known as Fred James O\u2019Clair."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nUpon arraignment the respondent seasonably filed a motion to quash the indictment and simultaneously filed a demurrer thereto. The respondent sought and obtained from the court leave to plead over in event his demurrer should be overruled. The court below denied the motion and overruled the demurrer. Since the motion and demurrer raised the same issue with respect to the sufficiency of the indictment, exceptions were prosecuted only with respect to the demurrer. The indictment in pertinent part states:\n\u201cThe Grand Jurors for said State upon their oath present, that Fred H. O\u2019Clair also known as Fred James O\u2019Clair of Unity in the County of Waldo and State of Maine, commorant of Thomaston in the County of Knox and State of Maine, on the thirty-first day of October A.D. 1963 at Thomaston feloniously did commit a criminal offense, to wit, while undergoing lawful imprisonment in the Maine State Prison, in pursuance of the sentence of Harold C. Marden, Justice of the Kennebec County Superior Court at its June Term A.D. 1961 for the offense of breaking entry and larceny in the night time, for a term of not less then two years nor more than four years, which sentence was then and there in full force and effect, whereupon he the said Fred H. O\u2019Clair also known as Fred James O\u2019Clair did then and there wil-fully, unlawfully and feloniously from and out of said Maine State Prison escape and go at large. Against the peace of the State, and contrary to the form of Statute in such case made and provided.\u201d\nWe note that an indictment employing almost identical language was sustained in Duncan, Petr. v. State of Maine, 158 Me. 265, 183 A.2d 209. The only significant difference between the indictment in Duncan and the indictment in the instant case involves the addition in the Duncan indictment of those few words necessary to charge an attempt to escape rather than a completed act. Duncan controls the decision in the instant case.\nThe entry will be\nExceptions overruled. Case remanded for further proceedings upon the indictment.\nDUFRESNE, J., did not sit.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Peter P. Sulides, County Atty. for Knox County, Rockland, Jerome Matus, Asst. Atty. Gen., Augusta, for plaintiff.",
+      "Curtis M. Payson, Rockland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Fred H. O\u2019CLAIR, also known as Fred James O\u2019Clair.\nSupreme Judicial Court of Maine.\nSept. 28, 1966.\nPeter P. Sulides, County Atty. for Knox County, Rockland, Jerome Matus, Asst. Atty. Gen., Augusta, for plaintiff.\nCurtis M. Payson, Rockland, for defendant."
+  },
+  "file_name": "0074-01",
+  "first_page_order": 114,
+  "last_page_order": 115
+}

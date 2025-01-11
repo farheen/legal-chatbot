@@ -1,0 +1,61 @@
+{
+  "id": 8001041,
+  "name": "James C. RAWLINSON et al. v. BOARD OF CANVASSERS OF the CITY OF WOONSOCKET et al.",
+  "name_abbreviation": "Rawlinson v. Board of Canvassers",
+  "decision_date": "1979-11-16",
+  "docket_number": "No. 79-432-M.P.",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 A.2d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 223,
+    "ocr_confidence": 0.727,
+    "sha256": "50bb144a85cf537c7e5005362383a602dc9585957f07fcdaa2a688da69d160b9",
+    "simhash": "1:feab32f50c732c15",
+    "word_count": 40
+  },
+  "last_updated": "2023-07-14T21:02:34.358380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James C. RAWLINSON et al. v. BOARD OF CANVASSERS OF the CITY OF WOONSOCKET et al."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of mandamus is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "James C. Rawlinson, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "James C. RAWLINSON et al. v. BOARD OF CANVASSERS OF the CITY OF WOONSOCKET et al.\nNo. 79-432-M.P.\nSupreme Court of Rhode Island.\nNov. 16, 1979.\nJames C. Rawlinson, pro se."
+  },
+  "file_name": "1231-03",
+  "first_page_order": 1285,
+  "last_page_order": 1285
+}

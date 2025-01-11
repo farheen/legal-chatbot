@@ -1,0 +1,58 @@
+{
+  "id": 12486773,
+  "name": "Com. v. B. Dabney",
+  "name_abbreviation": "Com. v. Dabney",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1489 EDA 2015",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 116,
+    "sha256": "7e7068a2a0e88c740bb22d51db4d1661012149944bf86990d57be95266906e45",
+    "simhash": "1:d01b48a19eb71fd9",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nB. Dabney"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nB. Dabney\nNO. 1489 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed, Vacated and Remanded."
+  },
+  "file_name": "0211-11",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6088016,
+  "name": "In re James Donald Walker",
+  "name_abbreviation": "In re Walker",
+  "decision_date": "1967-09-19",
+  "docket_number": "No. 8113",
+  "first_page": "1639",
+  "last_page": "1639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 65,
+    "ocr_confidence": 0.48,
+    "sha256": "b568807bdd2c37529651920bb56a8fe1e050abaa654887527c9b35d3162311a5",
+    "simhash": "1:81f21b9f1af93a05",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re James Donald Walker"
+    ],
+    "opinions": [
+      {
+        "text": "Aerators.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "September 19, 1967\nNo. 8113.\nIn re James Donald Walker"
+  },
+  "file_name": "1639-10",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

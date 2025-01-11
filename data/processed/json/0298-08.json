@@ -1,0 +1,62 @@
+{
+  "id": 12485594,
+  "name": "State v. Christopher Gray",
+  "name_abbreviation": "State v. Gray",
+  "decision_date": "2016-06-24",
+  "docket_number": "NOS. C-957 SEPT. TERM 2015, 076844",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 125,
+    "sha256": "96bd8939aca6ec723166e5aa2f5a66720b164c4b49e33e92f045ae0eba6dd97a",
+    "simhash": "1:504c5634852f25a6",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nChristopher Gray"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nChristopher Gray\nNOS. C-957 SEPT. TERM 2015, 076844\nSupreme Court of New Jersey\nJune 24, 2016\nDisposition: Denied."
+  },
+  "file_name": "0298-08",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

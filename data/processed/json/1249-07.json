@@ -1,0 +1,59 @@
+{
+  "id": 6084693,
+  "name": "In re William J. Hall",
+  "name_abbreviation": "In re Hall",
+  "decision_date": "1949-12-12",
+  "docket_number": "No. 5661",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 73,
+    "ocr_confidence": 0.532,
+    "sha256": "7e0b0789b1a41a28475104d1df75971973b370db7586f3e3809247058e29f72d",
+    "simhash": "1:aaeedebf2b536c50",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William J. Hall"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in beam.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 12, 1949\nIn re William J. Hall\n(No. 5661)."
+  },
+  "file_name": "1249-07",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488191,
+  "name": "M.B.B. v. A.J.B.",
+  "name_abbreviation": "M.B.B. v. A.J.B.",
+  "decision_date": "2016-05-02",
+  "docket_number": "1400 EDA 2015",
+  "first_page": "1130",
+  "last_page": "1130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 85,
+    "sha256": "5d3ba5fc5198a335585b4363c032bf8f1c40be7031c7821e02138f4c3b059c9d",
+    "simhash": "1:b71b703085a907f4",
+    "word_count": 14
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.B.B.\nv.\nA.J.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M.B.B.\nv.\nA.J.B.\n1400 EDA 2015\nSuperior Court of Pennsylvania.\nMay 2, 2016\nAffirmed"
+  },
+  "file_name": "1130-05",
+  "first_page_order": 1130,
+  "last_page_order": 1130
+}

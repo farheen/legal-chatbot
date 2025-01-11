@@ -1,0 +1,83 @@
+{
+  "id": 12491226,
+  "name": "STATE of Connecticut v. Jermaine E. REDDICK",
+  "name_abbreviation": "State v. Reddick",
+  "decision_date": "2017-10-11",
+  "docket_number": "",
+  "first_page": "58",
+  "last_page": "58",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 58"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "174 Conn.App. 536",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490389
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/166-2/0754-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 349,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2578573113722074
+    },
+    "sha256": "aeb3c77ff08a8cf7769a98bd735c967a089d870713ac8c30fd858fae409febb0",
+    "simhash": "1:3c1f806ad2b9b5f0",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:34:56.921746+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nJermaine E. REDDICK"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification to appeal from the Appellate Court, 174 Conn.App. 536, 166 A.3d 754 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nJermaine E. REDDICK\nSupreme Court of Connecticut.\nDecided October 11, 2017\nRobert E. Byron, assigned counsel, in support of the petition.\nSarah Hanna, assistant state's attorney, in opposition.\nThe defendant's petition for certification to appeal from the Appellate Court, 174 Conn.App. 536, 166 A.3d 754 (2017), is denied."
+  },
+  "file_name": "0058-03",
+  "first_page_order": 58,
+  "last_page_order": 58
+}

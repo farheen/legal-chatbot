@@ -1,0 +1,64 @@
+{
+  "id": 7956451,
+  "name": "In re Thomas JOSEPH",
+  "name_abbreviation": "In re Joseph",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 79-356-M.P.",
+  "first_page": "747",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 578,
+    "ocr_confidence": 0.81,
+    "sha256": "b96608da8c9b5c2e94fde7562d7ea45dcb67627419c3f9a81447c656462d2562",
+    "simhash": "1:b3a4f5320ba8293a",
+    "word_count": 88
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Thomas JOSEPH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondents\u2019 motion for visitation privileges is denied without prejudice to their right to file said motion in the Family Court. The motion of Children\u2019s Friend & Service for permission to file a brief as amicus curiae is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert R. Nocera, Pawtucket, for Diocesan B\u00fcreau of Social Service.",
+      "James J. Mullen, Providence, for Children\u2019s Friend and Service.",
+      "Doris J. Licht, Providence, for Jewish Family and Children\u2019s Service.",
+      "Mitchell S. Riffkin, Providence, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Thomas JOSEPH.\nNo. 79-356-M.P.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nRobert R. Nocera, Pawtucket, for Diocesan B\u00fcreau of Social Service.\nJames J. Mullen, Providence, for Children\u2019s Friend and Service.\nDoris J. Licht, Providence, for Jewish Family and Children\u2019s Service.\nMitchell S. Riffkin, Providence, for respondents."
+  },
+  "file_name": "0747-03",
+  "first_page_order": 801,
+  "last_page_order": 802
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501524,
+  "name": "COM. v. SIMMONS, J.",
+  "name_abbreviation": "Com. v. Simmons",
+  "decision_date": "2018-07-03",
+  "docket_number": "1314 MDA 2017",
+  "first_page": "646",
+  "last_page": "646",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 646"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 134,
+    "sha256": "d239f751973a6b737f942c9df222180c9043b48cef361e4bd714c7138a071cfc",
+    "simhash": "1:369f77aa04cb8f94",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nSIMMONS, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nSIMMONS, J.\n1314 MDA 2017\nSuperior Court of Pennsylvania.\nJuly 3, 2018\nAffirmed - Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "0646-04",
+  "first_page_order": 646,
+  "last_page_order": 646
+}

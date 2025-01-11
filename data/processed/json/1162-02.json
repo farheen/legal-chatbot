@@ -1,0 +1,59 @@
+{
+  "id": 7298041,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. Thomas BROWN, Respondent",
+  "name_abbreviation": "Commonwealth v. Brown",
+  "decision_date": "2009-06-23",
+  "docket_number": "",
+  "first_page": "1162",
+  "last_page": "1162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "974 A.2d 1162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 556,
+    "ocr_confidence": 0.667,
+    "sha256": "1d8706b4a640d9d72f95eaedbe55f2dc6c7f622a29d27397ad6b748502546c89",
+    "simhash": "1:5e76dc26c7893aee",
+    "word_count": 83
+  },
+  "last_updated": "2023-07-14T21:51:09.426837+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. Thomas BROWN, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 23rd day of June, 2009, the Petition for Allowance of Appeal is hereby GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue, rephrased for clarity, is:\nWhether the Superior Court erred in determining police lacked reasonable suspicion to stop respondent\u2019s vehicle based upon the information provided by the known, but history-less, confidential informant.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. Thomas BROWN, Respondent.\nSupreme Court of Pennsylvania.\nJune 23, 2009."
+  },
+  "file_name": "1162-02",
+  "first_page_order": 1204,
+  "last_page_order": 1204
+}

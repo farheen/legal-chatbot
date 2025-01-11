@@ -1,0 +1,58 @@
+{
+  "id": 12487290,
+  "name": "Com. v. A. Tillman",
+  "name_abbreviation": "Com. v. Tillman",
+  "decision_date": "2016-04-11",
+  "docket_number": "NO. 1378 EDA 2015",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 117,
+    "sha256": "78d28a9662f77e4a18780e08b16f2babe54352f53980404e5adcbaa01fd2a443",
+    "simhash": "1:b44362f933be9bc1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Tillman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Tillman\nNO. 1378 EDA 2015\nSuperior Court of Pennsylvania.\nApril 11, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0776-10",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12484914,
+  "name": "Commonwealth v. Joseph Thomas Gainer",
+  "name_abbreviation": "Commonwealth v. Gainer",
+  "decision_date": "2016-05-17",
+  "docket_number": "NO. 60 WAL 2016",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 150,
+    "sha256": "732f410c83d387a5f23e70d060ecaf00ec07e199d3175275040aff9a5ae958f8",
+    "simhash": "1:358e43f680a43438",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJoseph Thomas Gainer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJoseph Thomas Gainer\nNO. 60 WAL 2016\nSupreme Court of Pennsylvania\nMay 17, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0002-03",
+  "first_page_order": 2,
+  "last_page_order": 2
+}

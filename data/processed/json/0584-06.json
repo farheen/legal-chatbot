@@ -1,0 +1,58 @@
+{
+  "id": 12485785,
+  "name": "Com. v. A. Black",
+  "name_abbreviation": "Com. v. Black",
+  "decision_date": "2016-02-02",
+  "docket_number": "NO. 965 MDA 2015",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "e31aed0a420a01388ae527c86afec16142c44d0a1ee992f7300e24fda871f72c",
+    "simhash": "1:e8567e889eab0405",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nA. Black"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nA. Black\nNO. 965 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 02, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0584-06",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

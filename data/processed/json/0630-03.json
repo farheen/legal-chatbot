@@ -1,0 +1,59 @@
+{
+  "id": 8354563,
+  "name": "Warren WEDDINGTON, Petitioner, v. Judge Glynnis D. HILL, Court of Common Pleas of Philadelphia County, Respondent",
+  "name_abbreviation": "Weddington v. Hill",
+  "decision_date": "2007-07-12",
+  "docket_number": "No. 65 EM 2007",
+  "first_page": "630",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "929 A.2d 630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 404,
+    "ocr_confidence": 0.699,
+    "sha256": "d6998ed17377f52d1e3452e667167780c224c9454e746317f0d21956b079af41",
+    "simhash": "1:2b7369eef3c92e95",
+    "word_count": 68
+  },
+  "last_updated": "2023-07-14T19:01:18.689048+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Warren WEDDINGTON, Petitioner, v. Judge Glynnis D. HILL, Court of Common Pleas of Philadelphia County, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 12th day of July, 2007, the Application for Leave to File Original Process is granted. The Petition for Writ of Mandamus relief is denied and the judge\u2019s name is to be stricken from the caption.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Warren WEDDINGTON, Petitioner, v. Judge Glynnis D. HILL, Court of Common Pleas of Philadelphia County, Respondent.\nNo. 65 EM 2007.\nSupreme Court of Pennsylvania.\nJuly 12, 2007."
+  },
+  "file_name": "0630-03",
+  "first_page_order": 678,
+  "last_page_order": 679
+}

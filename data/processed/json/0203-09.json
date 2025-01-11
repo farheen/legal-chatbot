@@ -1,0 +1,58 @@
+{
+  "id": 12486663,
+  "name": "Com. v. J. Lattimore",
+  "name_abbreviation": "Com. v. Lattimore",
+  "decision_date": "2016-03-18",
+  "docket_number": "NO. 1099 MDA 2015",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "d0c611317248afed8b9e35e346f44cd7cd59e8595bf29521b0c473e489a62ff5",
+    "simhash": "1:3d104459f0c61ca1",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Lattimore"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Lattimore\nNO. 1099 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 18, 2016\nAffirmed.\n16 Petition for reargument denied May 3, 2016.\n--------"
+  },
+  "file_name": "0203-09",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

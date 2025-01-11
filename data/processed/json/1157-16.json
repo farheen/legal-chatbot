@@ -1,0 +1,58 @@
+{
+  "id": 12488599,
+  "name": "Com. v. Gaerttner, J.",
+  "name_abbreviation": "Com v. Gaerttner",
+  "decision_date": "2016-05-23",
+  "docket_number": "1178 WDA 2015",
+  "first_page": "1157",
+  "last_page": "1157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 99,
+    "sha256": "ddfcf5fcec36a05a635beb7a655d2e7198e531b98edecc3a7b23b92583f90be9",
+    "simhash": "1:b0d8504b718ca380",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGaerttner, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGaerttner, J.\n1178 WDA 2015\nSuperior Court of Pennsylvania.\nMay 23, 2016\nVacated/Remanded"
+  },
+  "file_name": "1157-16",
+  "first_page_order": 1157,
+  "last_page_order": 1157
+}

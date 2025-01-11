@@ -1,0 +1,58 @@
+{
+  "id": 12488978,
+  "name": "IN RE CARPENTER",
+  "name_abbreviation": "In re Carpenter",
+  "decision_date": "2016-12-16",
+  "docket_number": "15\u201325",
+  "first_page": "1231",
+  "last_page": "1231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "153 A.3d 1231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "bd6555ff2db21cbfa8d1caf614630a68be4f697d641e8ab85fd5ab07a3397710",
+    "simhash": "1:481127409ac0c44b",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.010181+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE CARPENTER"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE CARPENTER\n15-25\nSupreme Court of Vermont.\nDecember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nReversed."
+  },
+  "file_name": "1231-26",
+  "first_page_order": 1231,
+  "last_page_order": 1231
+}

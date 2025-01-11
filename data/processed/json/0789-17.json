@@ -1,0 +1,58 @@
+{
+  "id": 12487482,
+  "name": "Com. v. O. Boyd",
+  "name_abbreviation": "Com. v. Boyd",
+  "decision_date": "2016-04-21",
+  "docket_number": "NO. 1697 WDA 2015",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 150,
+    "sha256": "967c826e62a535a75c9507c2a9c2ec9d70bcb8f3da6e9eaaa55ed86a6e4d1058",
+    "simhash": "1:d98d6618c0b59f95",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nO. Boyd"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nO. Boyd\nNO. 1697 WDA 2015\nSuperior Court of Pennsylvania.\nApril 21, 2016\nAffirmed.\n15 Petition for reargument denied June 30, 2016.\n--------"
+  },
+  "file_name": "0789-17",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

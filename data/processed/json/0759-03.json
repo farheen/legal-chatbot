@@ -1,0 +1,64 @@
+{
+  "id": 12488907,
+  "name": "JAREAUX v. PROCTOR",
+  "name_abbreviation": "Jareaux v. Proctor",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 454, Sept. Term, 2016",
+  "first_page": "759",
+  "last_page": "759",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 759"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "54f99477546715b74148cf6ebbc56d57b896ded0444c6c88a69db5d5fe79aa60",
+    "simhash": "1:10df542990bdcc10",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JAREAUX\nv.\nPROCTOR"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "JAREAUX\nv.\nPROCTOR\nPet. Docket No. 454, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0759-03",
+  "first_page_order": 759,
+  "last_page_order": 759
+}

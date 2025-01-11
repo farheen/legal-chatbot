@@ -1,0 +1,68 @@
+{
+  "id": 1279860,
+  "name": "Joe Jenkins, Plaintiff in Error, v. State of Florida, Defendant in Error",
+  "name_abbreviation": "Jenkins v. State",
+  "decision_date": "1931-01-05",
+  "docket_number": "",
+  "first_page": "1599",
+  "last_page": "1600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 95,
+    "char_count": 934,
+    "ocr_confidence": 0.539,
+    "pagerank": {
+      "raw": 5.275691599737251e-08,
+      "percentile": 0.3309090607213007
+    },
+    "sha256": "d078bf179019cae1e0468ac9dbd59de902fe8cff0d0ce6be6ac4a849b3b15de7",
+    "simhash": "1:a7418e37341cfbfd",
+    "word_count": 163
+  },
+  "last_updated": "2023-07-14T17:35:28.833773+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Terrell, .C. J., and Whitfield, Ellis, Strum, Brown and Buford, J. J., concur."
+    ],
+    "parties": [
+      "Joe Jenkins, Plaintiff in Error, v. State of Florida, Defendant in Error."
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThis Writ of Error is from a judgment resulting from a trial and conviction of murder in' the second degree. It is contended here that the charge of the trial court as to murder in the second degree was erroneous and that error was committed in not sustaining an objection of the defendant to certain testimony of Charlie Noegel.\nWe do not think either assignment is well grounded. There was ample evidence in the record to- support the verdict and judgment and the law is well settled that a jury may return a verdict of murder in the second degree on an indictment charging murder in the first degree.\nAffirmed.\nTerrell, .C. J., and Whitfield, Ellis, Strum, Brown and Buford, J. J., concur.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [
+      "I, J. McCall, for Plaintiff in Error;",
+      "Fred H. Davis, Attorney General, and Boy Campbell, Assistant for the State."
+    ],
+    "corrections": "",
+    "head_matter": "Joe Jenkins, Plaintiff in Error, v. State of Florida, Defendant in Error.\nEn Banc.\nDecision filed January 5, 1931.\nI, J. McCall, for Plaintiff in Error;\nFred H. Davis, Attorney General, and Boy Campbell, Assistant for the State."
+  },
+  "file_name": "1599-01",
+  "first_page_order": 595,
+  "last_page_order": 596
+}

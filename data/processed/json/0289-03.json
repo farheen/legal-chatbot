@@ -1,0 +1,64 @@
+{
+  "id": 12490948,
+  "name": "BEAUCHAMP, Kenneth v. STATE of Maryland",
+  "name_abbreviation": "Beauchamp v. State",
+  "decision_date": "2017-09-20",
+  "docket_number": "Case No. 33, Sept. Term, 2017",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 163,
+    "sha256": "a8dc707bce18490a44c142af52702ac152f854f733ce3c1b094c198d59171bc4",
+    "simhash": "1:0356826880091005",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:26.796983+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BEAUCHAMP, Kenneth\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "BEAUCHAMP, Kenneth\nv.\nSTATE of Maryland\nCase No. 33, Sept. Term, 2017\nCourt of Appeals of Maryland.\nSeptember 20, 2017\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0289-03",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

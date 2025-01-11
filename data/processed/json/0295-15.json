@@ -1,0 +1,58 @@
+{
+  "id": 12490454,
+  "name": "BINGHAM, E. v. UCBR",
+  "name_abbreviation": "Bingham v. Ucbr",
+  "decision_date": "2017-03-08",
+  "docket_number": "1245 CD 2016",
+  "first_page": "295",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 128,
+    "sha256": "4b8fbfe62d6a8ad9843b3d670ddcd39146babe8064ed67e216089441edd1f602",
+    "simhash": "1:1fade237ec885e59",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BINGHAM, E.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BINGHAM, E.\nv.\nUCBR\n1245 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 8, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0295-15",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

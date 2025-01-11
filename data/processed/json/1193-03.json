@@ -1,0 +1,59 @@
+{
+  "id": 9180874,
+  "name": "In the Matter of Eric Jeffrey WIENER Petition for Reinstatement",
+  "name_abbreviation": "In re Wiener",
+  "decision_date": "2005-01-31",
+  "docket_number": "No. 477 Disciplinary Docket No. 3",
+  "first_page": "1193",
+  "last_page": "1193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "868 A.2d 1193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 561,
+    "ocr_confidence": 0.662,
+    "sha256": "b83adf0b81626668ad4b71d67ce4af64404d77e49fd1951b7588850a97cb8e65",
+    "simhash": "1:d82fc4fcccc1ce55",
+    "word_count": 88
+  },
+  "last_updated": "2023-07-14T15:08:23.611420+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Eric Jeffrey WIENER Petition for Reinstatement."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of January, 2005, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated November 19, 2004, the Petition for Reinstatement is GRANTED.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Eric Jeffrey WIENER Petition for Reinstatement.\nNo. 477 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJan. 31, 2005."
+  },
+  "file_name": "1193-03",
+  "first_page_order": 1233,
+  "last_page_order": 1233
+}

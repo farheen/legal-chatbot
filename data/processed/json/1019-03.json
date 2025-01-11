@@ -1,0 +1,62 @@
+{
+  "id": 12487914,
+  "name": "Milton Campbell v. Commissioner of Correction",
+  "name_abbreviation": "Campbell v. Comm'r of Corr.",
+  "decision_date": "2016-10-25",
+  "docket_number": "No. 37892",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "149 A.3d 1019"
+    },
+    {
+      "type": "parallel",
+      "cite": "169 Conn. App. 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "fcc218c466e0deb67fdbb66b36c36f78067fad1cfc637b8a93387451e60d3003",
+    "simhash": "1:84cf9d47eaed3338",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.005679+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Milton Campbell\nv.\nCommissioner of Correction"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe appeal is dismissed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Milton Campbell\nv.\nCommissioner of Correction\nNo. 37892\nAppellate Court of Connecticut.\nArgued October 5, 2016\nOfficially released October 25, 2016"
+  },
+  "file_name": "1019-03",
+  "first_page_order": 1019,
+  "last_page_order": 1019
+}

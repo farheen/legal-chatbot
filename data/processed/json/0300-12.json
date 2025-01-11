@@ -1,0 +1,58 @@
+{
+  "id": 12490523,
+  "name": "COMMONWEALTH v. WCAB (LOGUE)",
+  "name_abbreviation": "Commonwealth v. Wcab",
+  "decision_date": "2017-03-30",
+  "docket_number": "1447 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 151,
+    "sha256": "21c32c5f7904d24a36c4eac897a24ba041cae948e0f787b012560256a6333b92",
+    "simhash": "1:ac3fca3680e93f58",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH\nv.\nWCAB (LOGUE)"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH\nv.\nWCAB (LOGUE)\n1447 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 30, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-12",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

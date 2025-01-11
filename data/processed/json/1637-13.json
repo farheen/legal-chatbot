@@ -1,0 +1,59 @@
+{
+  "id": 6087415,
+  "name": "In re Reinhard Dahlberg",
+  "name_abbreviation": "In re Dahlberg",
+  "decision_date": "1966-12-08",
+  "docket_number": "No. 7690",
+  "first_page": "1637",
+  "last_page": "1637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1637"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "ocr_confidence": 0.498,
+    "sha256": "5df14aac5adc76efdf960d0c164be753125148a9fbbf35950097cad3e0def14f",
+    "simhash": "1:490810f682f80747",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Reinhard Dahlberg"
+    ],
+    "opinions": [
+      {
+        "text": "Electrical structural element having closely neighboring terminal contacts and method of making it.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 7690.\nIn re Reinhard Dahlberg"
+  },
+  "file_name": "1637-13",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

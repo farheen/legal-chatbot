@@ -1,0 +1,83 @@
+{
+  "id": 12489503,
+  "name": "Ometrius PEREZ v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Perez v. Comm'r of Corr.",
+  "decision_date": "2017-04-05",
+  "docket_number": "",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "158 A.3d 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "325 Conn. 909"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "170 Conn. App. 906",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489112,
+        12489110,
+        12489111
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/154-2/0090-03",
+        "/a3d/154-2/0090-01",
+        "/a3d/154-2/0090-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 465,
+    "sha256": "0214a58a801540ee8b96bb7ed3ef884f2a6578d0f1c3e381fda7ea52cebd57cb",
+    "simhash": "1:3dbe140cf7e327f1",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:34:52.528919+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ometrius PEREZ\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Ometrius Perez' petition for certification for appeal from the Appellate Court, 170 Conn. App. 906, 154 A.3d 90 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ometrius PEREZ\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided April 5, 2017\nOmetrius Perez, self-represented, in support of the petition.\nMarjorie A. Dauster, senior assistant state's attorney, in opposition.\nThe petitioner Ometrius Perez' petition for certification for appeal from the Appellate Court, 170 Conn. App. 906, 154 A.3d 90 (2017), is denied.\nMcDONALD, J., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0319-02",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7284666,
+  "name": "In the Matter of Miguel R. HERNANDEZ",
+  "name_abbreviation": "In re Hernandez",
+  "decision_date": "2011-06-03",
+  "docket_number": "No. 2011-078-M.P.",
+  "first_page": "1232",
+  "last_page": "1232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 A.3d 1232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 808,
+    "ocr_confidence": 0.712,
+    "sha256": "2f49b20c77a213e0f088ca41c3c1c596959ac90d38da55298ad480e2caed830f",
+    "simhash": "1:23241f973f674d6b",
+    "word_count": 133
+  },
+  "last_updated": "2023-07-14T21:40:28.586031+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Miguel R. HERNANDEZ."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nOn March 8, 2011 this court suspended Miguel R. Hernandez, the petitioner, from the practice of law for his failure to comply with an order of the court that he file an answer to two disciplinary complaints. On May 13, 2011, he filed a petition for reinstatement. This matter came before the court at its conference on June 1, 2011. The petitioner appeared before the court, without counsel.\nHaving reviewed the petition, the response of disciplinary counsel, and having heard the representations of the petitioner, we deny the petition without prejudice. The petitioner may not submit a new reinstatement petition until three months from the date of this order.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Miguel R. Hernandez.",
+      "David D. Curtin."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of Miguel R. HERNANDEZ.\nNo. 2011-078-M.P.\nSupreme Court of Rhode Island.\nJune 3, 2011.\nMiguel R. Hernandez.\nDavid D. Curtin."
+  },
+  "file_name": "1232-02",
+  "first_page_order": 1264,
+  "last_page_order": 1264
+}

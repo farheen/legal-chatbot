@@ -1,0 +1,64 @@
+{
+  "id": 8002170,
+  "name": "Gary V. FINCK v. AETNA CASUALTY & SURETY CO.",
+  "name_abbreviation": "Finck v. Aetna Casualty & Surety Co.",
+  "decision_date": "1979-11-29",
+  "docket_number": "No. 79-222-Appeal",
+  "first_page": "1235",
+  "last_page": "1236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "409 A.2d 1235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 490,
+    "ocr_confidence": 0.773,
+    "sha256": "eb717a23ed4dd33e707e6d0d76a2dec65813f2ed129e296721cf5d5295c10ca3",
+    "simhash": "1:f9eb563c59c4c42d",
+    "word_count": 77
+  },
+  "last_updated": "2023-07-14T21:02:34.358380+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "Gary V. FINCK v. AETNA CASUALTY & SURETY CO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe plaintiff\u2019s motion to default as prayed is denied. The defendant\u2019s motion to extend the time for filing its brief is granted and said brief shall be filed on or before December 5, 1979.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Hanson, Curran & Parks, David P. Whitman, Providence, for plaintiff.",
+      "Roberts, Carroll, Feldstein & Tucker, David W. Carroll, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Gary V. FINCK v. AETNA CASUALTY & SURETY CO.\nNo. 79-222-Appeal.\nSupreme Court of Rhode Island.\nNov. 29, 1979.\nHanson, Curran & Parks, David P. Whitman, Providence, for plaintiff.\nRoberts, Carroll, Feldstein & Tucker, David W. Carroll, Providence, for defendant."
+  },
+  "file_name": "1235-03",
+  "first_page_order": 1289,
+  "last_page_order": 1290
+}

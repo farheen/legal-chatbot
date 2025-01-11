@@ -1,0 +1,58 @@
+{
+  "id": 12489645,
+  "name": "JONES v. HART",
+  "name_abbreviation": "Jones v. Hart",
+  "decision_date": "2017-01-30",
+  "docket_number": "17\u2013023",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "b1ec57ee02efa0f9a49f115b12838c6d29cca049393875643c1ff0f70be56b96",
+    "simhash": "1:7c117c3060c452c0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JONES\nv.\nHART"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "JONES\nv.\nHART\n17-023\nSupreme Court of Vermont.\nJanuary 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDenied."
+  },
+  "file_name": "0649-06",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

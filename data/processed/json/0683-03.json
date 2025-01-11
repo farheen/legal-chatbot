@@ -1,0 +1,96 @@
+{
+  "id": 8000271,
+  "name": "Robert VICCIONE v. CHIEN-SHENG CHEN",
+  "name_abbreviation": "Viccione v. Chien-sheng Chen",
+  "decision_date": "1981-07-02",
+  "docket_number": "No. 78-266-A",
+  "first_page": "683",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "433 A.2d 683"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "110 R.I. 186",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3150838
+      ],
+      "weight": 2,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/110/0186-01"
+      ]
+    },
+    {
+      "cite": "408 A.2d 598",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        5544909
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/122/0406-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 662,
+    "ocr_confidence": 0.834,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20070590988123246
+    },
+    "sha256": "f822e53f490813c7ddf530848b4d78481d2c6e734d92387f466cef3e46a03051",
+    "simhash": "1:206e2c285983bd79",
+    "word_count": 108
+  },
+  "last_updated": "2024-02-27T20:27:02.607962+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "SHEA, J., did not participate."
+    ],
+    "parties": [
+      "Robert VICCIONE v. CHIEN-SHENG CHEN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis case is assigned to the show cause calendar.\nThe plaintiff is directed to appear on a date to be assigned and show cause why the default judgment entered in this case should not be vacated because of plaintiff\u2019s failure to comply with the provisions of Super.R.Civ.P. 55. See Medeiros v. Hilton Homes, Inc., R.I., 408 A.2d 598 (1979); and Pollins v. McGovern, 110 R.I. 186, 291 A.2d 418 (1972).\nSHEA, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Quinn, Cuzzone, Geremia & Pennacchia, Bruce Q. Morin, Providence, for plaintiff.",
+      "Chien-Sheng Chen, New York City, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Robert VICCIONE v. CHIEN-SHENG CHEN.\nNo. 78-266-A.\nSupreme Court of Rhode Island.\nJuly 2, 1981.\nQuinn, Cuzzone, Geremia & Pennacchia, Bruce Q. Morin, Providence, for plaintiff.\nChien-Sheng Chen, New York City, for defendant."
+  },
+  "file_name": "0683-03",
+  "first_page_order": 737,
+  "last_page_order": 737
+}

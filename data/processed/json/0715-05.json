@@ -1,0 +1,58 @@
+{
+  "id": 12501872,
+  "name": "COM. v. GORDON, T.",
+  "name_abbreviation": "Com. v. Gordon",
+  "decision_date": "2018-07-27",
+  "docket_number": "3595 EDA 2017",
+  "first_page": "715",
+  "last_page": "715",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 126,
+    "sha256": "b24bdcead6339a88c8d1ce733321aa3daf9a513d6047784b4699d6bd484a88c1",
+    "simhash": "1:9cd6561844c385a0",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGORDON, T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGORDON, T.\n3595 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 27, 2018\nReargument Denied September 10, 2018\nAffirmed"
+  },
+  "file_name": "0715-05",
+  "first_page_order": 715,
+  "last_page_order": 715
+}

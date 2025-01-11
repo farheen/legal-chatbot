@@ -1,0 +1,58 @@
+{
+  "id": 12490681,
+  "name": "WHARTON, M. v. WCAB (DOC)",
+  "name_abbreviation": "Wharton v. Wcab",
+  "decision_date": "2017-05-26",
+  "docket_number": "643 CD 2016",
+  "first_page": "310",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "4a3e33f3988ef9539f3de5821eede8f9eb1a692b0b0eefcb4a224eeebccc775f",
+    "simhash": "1:5d61cab281e81658",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WHARTON, M.\nv.\nWCAB (DOC)"
+    ],
+    "opinions": [
+      {
+        "text": "Reversed and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "WHARTON, M.\nv.\nWCAB (DOC)\n643 CD 2016\nCommonwealth Court of Pennsylvania.\nMay 26, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0310-05",
+  "first_page_order": 310,
+  "last_page_order": 310
+}

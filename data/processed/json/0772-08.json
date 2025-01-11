@@ -1,0 +1,58 @@
+{
+  "id": 12487242,
+  "name": "In Re: T.L.S., Jr.",
+  "name_abbreviation": "In re T.L.S.",
+  "decision_date": "2016-04-05",
+  "docket_number": "NO. 1296 MDA 2015",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 772"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "65e304875cca435cc69b19642c9b26641c74758a9dcbae50ec299f67cb47e45e",
+    "simhash": "1:581e2ca9fa19b782",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: T.L.S., Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: T.L.S., Jr.\nNO. 1296 MDA 2015\nSuperior Court of Pennsylvania.\nApril 05, 2016\nAffirmed."
+  },
+  "file_name": "0772-08",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

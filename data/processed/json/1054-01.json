@@ -1,0 +1,97 @@
+{
+  "id": 6080659,
+  "name": "In re Continental Motors Corp.",
+  "name_abbreviation": "In re Continental Motors Corp.",
+  "decision_date": "1943-05-03",
+  "docket_number": "No. 4674",
+  "first_page": "1054",
+  "last_page": "1058",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "30 C.C.P.A. 1054"
+    },
+    {
+      "type": "parallel",
+      "cite": "135 F.2d 1017"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "124 F. (2d) 189",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077793,
+        1090131
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/29-2/0753-01",
+        "/f2d/124/0189-01"
+      ]
+    },
+    {
+      "cite": "90 F. (2d) 260",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6082390,
+        978927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/24-2/1220-01",
+        "/f2d/90/0260-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 389,
+    "char_count": 9160,
+    "ocr_confidence": 0.466,
+    "sha256": "19e988eee384857a9ed7c25f631eabb84113ae90dcd3189ccc749e858798965d",
+    "simhash": "1:a8c5ea5f1fac9ec8",
+    "word_count": 1408
+  },
+  "last_updated": "2024-02-27T20:59:38.414474+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Garrett, Presiding Judge, and Bland, Hatjteld, Lenroot, and Jackson, Associate Judges"
+    ],
+    "parties": [
+      "In re Continental Motors Corp."
+    ],
+    "opinions": [
+      {
+        "text": "Hatfield, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Commissioner of Patents affirming the decision of the Examiner of Trade-Marks denying appellant\u2019s application for registration, under the Trade-Mark Act of February 20, 1905, of the trade-mark \u201cContinental\u201d for use on engine-driven lighting and power plants.\nAppellant alleges in its application that it has used its mark on its goods since December 31,1937.\nThe rejection of appellant\u2019s application was based upon registration No. 187,900, issued to Continental Electric Company, Inc., August 12, 1924, on an application filed February 5, 1924, for the trade-mark \u201cContinental Electric,\u201d the word \u201cElectric\u201d being disclaimed apart from the mark as shown, for use on electric motors, electric generators, alternators, rotary converters, motor-generator sets, dynamotors, and switchboards.\nIt is conceded by counsel for appellant that the dominant feature of the registered mark of the Continental Electric Company, Inc. is the word \u201cContinental,\u201d and .that the mark for which appellant seeks registration and the mark of the Continental Electric Company, Inc. are confusingly similar if the goods upon which they are used possess the same descriptive properties. Accordingly, the sole issue in the case is whether appellant\u2019s engine-driven lighting and power plants upon which its mark is used possess the same descriptive properties as the electric motors, electric generators, alternators, rotary converters, motor-generator sets, dynamotors, and switchboards covered by the registration of the Continental Electric Company, Inc.\nIn holding that the goods of appellant and those of the Continental Electric Company, Inc. possess the same descriptive properties, the Examiner of Trade-Marks said:\nIt can hardly be denied that electric motors, generators, and dynamos function as parts of lighting and power plants.\nThe applicant states that it is recognized in the industry as an engine manufacturer and that the electrical equipment comprised in its ensemble is manufactured for it. This would not seem to lessen the similarity of applicant\u2019s goods to those of the registrant, since applicant\u2019s goods include in considerable part at least the goods of the registrant.\nIn support of his statement, the examiner cited the case of United Battery Manufacturing Co., Ltd. v. United Metal Box Co., Inc., 24 C. C. P. A. (Patents) 1220, 90 F. (2d) 260, wherein it was held that 'storage batteries and electric switches possess the same descriptive properties.\nIn his decision affirming the decision of the Examiner of TradeMarks, the Commissioner of Patents stated, among other things, that\u2014\nEngine driven power plants include generators which are driven by an engine to produce electric power. Both the engine and the generator are major parts of the plant. In my opinion such power plants are assemblies of the same descriptive properties as the motor-generator sets named in the cited registration. Iu such sets a generator is driven by an electric motor to produce electric power and the generator is an important part.\nIn a decision in response to appellant\u2019s petition for reconsideration, the Commissioner of Patents adhered to the views expressed in the quoted excerpts from his original decision.\nIt is contended here by counsel for appellant that although the function of appellant\u2019s engine-driven lighting and power plants and the motor-generator sets of the registrant \u201cis the conversion of potential energy into kinetic energy,\u201d electric motors, such as are used in the registrant\u2019s motor-generator sets, and internal combustion engines, such as are used in appellant\u2019s power plants, are not classified in the same class in the Patent Office and do not possess the same descriptive properties, and that, therefore, the decision of the Commissioner of Patents must have been based upon the theory that the electric generators employed in appellant\u2019s power plants and also in the registrant\u2019s motor-generator sots constitute \u201cthe common denominator which determines whether\" the two products are goods having the same descriptive properties.\u201d\nCounsel for appellant concedes in his brief that appellant\u2019s power plants and the registrant\u2019s motor-generator sets \u201cinclude a generator as an essential element, since the general object in each case (an output of electric current) demands a device capable of translating mechanical energy into electrical energy, whether such mechanical energy be supplied by a prime mover such as appellant\u2019s internal combustion engine or by an electric motor such as in registrant\u2019s case.\u201d It is contended by counsel, however, that motor-generator sets are used to convert electric current generated in one form by an electric generating plant into an electric current of another form; that such generator sets are used for industrial purposes, such as \u201celectric welding, electro-plating, and for converting alternating current to direct current or vice versa\u201d; that as the motive power of such motor-generator sets is an electric motor, they are of use only where electric current is available, whereas appellant\u2019s engine-driven lighting and power plants are used to produce electric current for domestic use, such as light and power where commercial current is not available; and that the registrant\u2019s motor-generator sets are sold to industrial concerns for the purpose hereinbefore stated, whereas appellant\u2019s power plants are sold to a different class of purchasers, that is, to individuals who are unable to secure electricity from generating plants of municipal or privately owned power companies.\nIn support of his argument that appellant\u2019s goods do not possess the same descriptive properties as those of the registrant, counsel for appellant relies, to some extent at least, upon the decision of this court in the case of Winchester Repeating Arms Company, Etc. v. Wincharger Corp., 29 C. C. P. A. (Patents) 753, 124 F. (2d) 189, wherein it was held that dry-cell batteries, incapable of being recharged, used in radio receivers were not goods of the same descriptive properties as wind-driven and engine-driven electric generator combinations -which are used principally to charge storage batteries.\nIn our decision in that case we stated that, so far as the record there was concerned, it did not appear that the wind-driven or engine-driven electric generator combinations included batteries. In the instant case, however, appellant\u2019s engine-driven lighting and power plants, as well as the registrant\u2019s motor-generator sets, include electric generators as hiajor parts thereof. Furthermore, the registrant\u2019s trade-mark registration for the mark \u201cContinental Electric\u201d covers generators as well as motor-generator sets. It is evident that our decision in the Winchester Repeating Arms Company case, supra, does not support the contentions made here by counsel for appellant.\nIt may be, as argued by counsel for appellant, that the registrant\u2019s motor-generator sets and appellant\u2019s engine-driven lighting and power plants are not sold to the same class of purchasers, although there is no evidence of record to establish that fact. Nevertheless, the generators upon which the registrant uses its mark may be, and probably are, sold to the same class of purchasers as are appellant\u2019s power plants.\nIt is suggested in the brief of counsel for appellant that as appellant and its predecessors have used the mark \u201cContinental\u201d on internal combustion engines since 1902, such mark having been registered September 25, 1917, in the United States Patent Office for use on such engines (registration No. 118,628, renewed September 25,1937), and as such engines are essential parts of appellant\u2019s power plants, the anomalous situation would be presented of appellant having the right to use its mark on its engines but not on those which form a part of its engine-driven lighting and power plants, should it be held that because of the registration of the Continental Electric Company, Inc. of its trade-mark \u201cContinental Electric,\u201d appellant is not entitled to register its mark for use on its power plants. It is further suggested by counsel that in view of appellant\u2019s prior use. and registration of its mark, the trade-mark registration of the Continental Electric Company, Inc. was improvidently issued.\nThe validity of the trade-mark registration of the Continental Electric Company, Inc., is not an issue in this proceeding. So, regardless of the anomalous situation in which appellant finds itself, we are unable to hold on the record presented that the goods of' appellant do not possess the same decriptive properties as those covered by the trade-mark registration of the Continental Electric Company, Inc. Accordingly, the decision of the Commissioner of Patents is affirmed.",
+        "type": "majority",
+        "author": "Hatfield, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Byron B. GolKngs for appellant.",
+      "W. W. Cochran ( B. F. Whitehead of counsel) for the Commissioner, of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "135 F. (2d) 1017\nIn re Continental Motors Corp.\n(No. 4674)\nMay 3, 1943\nByron B. GolKngs for appellant.\nW. W. Cochran ( B. F. Whitehead of counsel) for the Commissioner, of Patents.\n[Oral argument January 6,1943, by Mr. Collings and Mr. whitehead]\nBefore Garrett, Presiding Judge, and Bland, Hatjteld, Lenroot, and Jackson, Associate Judges"
+  },
+  "file_name": "1054-01",
+  "first_page_order": 370,
+  "last_page_order": 374
+}

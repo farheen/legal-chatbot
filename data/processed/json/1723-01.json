@@ -1,0 +1,719 @@
+{
+  "id": 1279865,
+  "name": "A. J. Rabinowitz, Appellant, v. E. D. Keefer and Roma T. Raine, Appellees",
+  "name_abbreviation": "Rabinowitz v. Keefer",
+  "decision_date": "1931-01-12",
+  "docket_number": "",
+  "first_page": "1723",
+  "last_page": "1748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "100 Fla. 1723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Fla.",
+    "id": 9230,
+    "name": "Florida Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 28,
+    "name_long": "Florida",
+    "name": "Fla."
+  },
+  "cites_to": [
+    {
+      "cite": "65 Fla. 202",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1626425
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/65/0202-01"
+      ]
+    },
+    {
+      "cite": "36 Fla. 418",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1083469
+      ],
+      "pin_cites": [
+        {
+          "page": "425"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/36/0418-01"
+      ]
+    },
+    {
+      "cite": "32 Fla. 481",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        8849969
+      ],
+      "pin_cites": [
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/32/0481-01"
+      ]
+    },
+    {
+      "cite": "46 Mo., 239",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        8851176
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/46/0239-01"
+      ]
+    },
+    {
+      "cite": "24 Conn., 211",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        522082
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/24/0211-01"
+      ]
+    },
+    {
+      "cite": "6 B. Mon., 531",
+      "category": "reporters:state",
+      "reporter": "B. Mon.",
+      "case_ids": [
+        4440508
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/45/0531-01"
+      ]
+    },
+    {
+      "cite": "4 Mon., 120",
+      "category": "reporters:state",
+      "reporter": "Mon.,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 Mo., 110",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Yerg., 346",
+      "category": "reporters:state",
+      "reporter": "Yer.",
+      "case_ids": [
+        8542989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn/11/0346-01"
+      ]
+    },
+    {
+      "cite": "15 Ill., 158",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        436718
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/15/0158-01"
+      ]
+    },
+    {
+      "cite": "17 Fla. 122",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        6095856
+      ],
+      "pin_cites": [
+        {
+          "page": "134-135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/17/0037-01"
+      ]
+    },
+    {
+      "cite": "120 Fed. 819",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3822419
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/120/0819-01"
+      ]
+    },
+    {
+      "cite": "20 Fla. 656",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1113275
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/20/0656-01"
+      ]
+    },
+    {
+      "cite": "19 Fla. 752",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        568612
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/fla/19/0752-01"
+      ]
+    },
+    {
+      "cite": "96 Fla. 704",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1248671
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/96/0704-01"
+      ]
+    },
+    {
+      "cite": "94 Fla. 1087",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1268786
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/94/1087-01"
+      ]
+    },
+    {
+      "cite": "100 Fla. 44",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1298272,
+        1298097
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/100/0044-02",
+        "/fla/100/0044-01"
+      ]
+    },
+    {
+      "cite": "6 Pac. R. 173",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "12 Ore. 3",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2286174
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or/12/0003-01"
+      ]
+    },
+    {
+      "cite": "24 Pac. R. 515",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "19 Ore. 334",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        8661937
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/or/19/0334-01"
+      ]
+    },
+    {
+      "cite": "44 W. Va. 414",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8639140
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/w-va/44/0414-01"
+      ]
+    },
+    {
+      "cite": "204 Mo. 341",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        2214042
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/204/0341-01"
+      ]
+    },
+    {
+      "cite": "84 Mo. 352",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        432149
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/84/0352-01"
+      ]
+    },
+    {
+      "cite": "53 Fla. 1019",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "148 U. S. 31",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3567630
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/148/0031-01"
+      ]
+    },
+    {
+      "cite": "59 Ark. 299",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1327695
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/59/0299-01"
+      ]
+    },
+    {
+      "cite": "9 Kan. 201",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        91873
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/9/0201-01"
+      ]
+    },
+    {
+      "cite": "14 Ill. 304",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        2585955
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/14/0304-01"
+      ]
+    },
+    {
+      "cite": "171 Ala. 644",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3464815
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ala/171/0644-01"
+      ]
+    },
+    {
+      "cite": "1912 B 827",
+      "category": "reporters:state",
+      "reporter": "Barb.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "47 L. R. A. (N. S.) 573",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "164 Mich. 87",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1574065
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mich/164/0087-01"
+      ]
+    },
+    {
+      "cite": "232 Mo. 358",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        820263
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/232/0358-01"
+      ]
+    },
+    {
+      "cite": "147 N. C. 284",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11269663
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nc/147/0284-01"
+      ]
+    },
+    {
+      "cite": "11 How. 297",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        583688
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/52/0297-01"
+      ]
+    },
+    {
+      "cite": "148 U. S. 21",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3567089
+      ],
+      "weight": 3,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/148/0021-01"
+      ]
+    },
+    {
+      "cite": "117 Am. St. R. 938",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "19 S. D. 131",
+      "category": "reporters:state",
+      "reporter": "S.D.",
+      "case_ids": [
+        8589129
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/sd/19/0131-01"
+      ]
+    },
+    {
+      "cite": "130 N. C. 53",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11272549
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/nc/130/0053-01"
+      ]
+    },
+    {
+      "cite": "83 Pac. R. 959",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "35 Colo. 117",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2615665
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/colo/35/0117-01"
+      ]
+    },
+    {
+      "cite": "217 Mo. 607",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        871922
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mo/217/0607-01"
+      ]
+    },
+    {
+      "cite": "1917 D 943",
+      "category": "reporters:state",
+      "reporter": "Dall.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "144 Ga. 395",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1067565
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ga/144/0395-01"
+      ]
+    },
+    {
+      "cite": "76 Atl. R. 983",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "83 Conn. 386",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        500250
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/conn/83/0386-01"
+      ]
+    },
+    {
+      "cite": "127 Ark. 186",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1550290
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/127/0186-01"
+      ]
+    },
+    {
+      "cite": "141 Mass. 97",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        766164
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/mass/141/0097-01"
+      ]
+    },
+    {
+      "cite": "174 Ind. 601",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1652684
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ind/174/0601-01"
+      ]
+    },
+    {
+      "cite": "280 Ill. 607",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        4888040
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ill/280/0607-01"
+      ]
+    },
+    {
+      "cite": "88 Fla. 86",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1308759
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/88/0086-01"
+      ]
+    },
+    {
+      "cite": "63 Fla. 448",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1629131
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/63/0448-01"
+      ]
+    },
+    {
+      "cite": "93 Fla. 326",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1275810
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/93/0326-01"
+      ]
+    },
+    {
+      "cite": "53 Fla. 1090",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        323262
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/53/1090-01"
+      ]
+    },
+    {
+      "cite": "35 Fla. 212",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1080207
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/35/0212-01"
+      ]
+    },
+    {
+      "cite": "20 Fla. 656",
+      "category": "reporters:state",
+      "reporter": "Fla.",
+      "case_ids": [
+        1113275
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/fla/20/0656-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1442,
+    "char_count": 44181,
+    "ocr_confidence": 0.532,
+    "pagerank": {
+      "raw": 1.7213251233757352e-07,
+      "percentile": 0.7039850585883578
+    },
+    "sha256": "efd5f8c9bdacfdec128ea5dd14bb0423a1ed0141de54e4ee792055093571a79c",
+    "simhash": "1:d92b9e2b47746679",
+    "word_count": 7693
+  },
+  "last_updated": "2024-02-27T19:39:14.952203+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Terrell, C. J., and Whitfield and Strum, J. J., concur.",
+      "Ellis and Buford, J. J., dissent.",
+      "Buford, J., concurs."
+    ],
+    "parties": [
+      "A. J. Rabinowitz, Appellant, v. E. D. Keefer and Roma T. Raine, Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "Brown, J.\nThis is an appeal by one of the defendants in the court below, A. J. Rabinowitz, from a final decree in favor of the complainants, E. D. Keefer and Roma T. Raine, after hearing on bill and \u00e1nswer, cancelling certain deeds as a cloud upon the title of the complainants.\nThe material facts are set forth in the final decree, which reads as follows:\n\u201cThe above entitled cause coming on regularly to be heard on this day\", and it appearing that the bill, of complaint and the answer of the defendant A. J. Rabinowitz both show the sam\u00e9 facts relative to'the state of the title to the property involved herein, the cause was heal'd hpon the bill and answer by agreement of counsel for complainants and for the said defendant, and after argument of counsel and due consideration, counsel for said parties agree and the court finds the facts to be:\n\u201c1. That the decrees pro confesso entered by the clerk against the defendants Jacob Edwards, individually and as trustee, Juliana S. Edwards, his wife, Charles E. Sumner, and Samuel C. Rudine, were regularly suffered and entered;\n\u201c2. That the complainants, E. D. Keefer and Roma R. Raine, and the defendant A. J. Rabinowitz claim title to the property hereinafter described, from the same common source, that is, from the defendant Jacob Edwards;\n\u201c3. That in September, 1902, the said Jacob Edwards, a widower, transferred all his right, title and interest in said lands to Leslie N. Wilkie, by quit-claim deed duly recorded in January, 1903; that thereafter said Leslie N. Wilkie executed and delivered an instrument of conveyance of said lands to John A. Graham, which instrument was duly recorded in 1904; that thereafter said John A, Graham executed and delivered an instrument of conveyance of said lands to A. W. Gilchrist, which instrument was duly recorded in 1904; that thereafter said A. W. Gilchrist executed and delivered an instrument of conveyance of said lands to E. M. Putman, which instrument was duly recorded in 1905; that thereafter E. M. Putman and wife transferred their interests in said lands to W. H. Frazier, by quit-claim deed duly recorded in 1908, subject, however, to a mortgage duly recorded, in favor of Barnes & Jessup Company, a corporation; 'that thereafter, said W. H. Frazier, by deed duly recorded in 1910, conveyed said lands to Lura J. Putman; that thereafter, said Barnes-Jessup Company foreclosed said mortgage and said lands were conveyed by John W. Burton, Special Master, to said Barnes-Jessup Company, by special master\u2019s deed duly recorded in 1910; that thereafter, Southern Naval Stores Company, a corporation, as successor to said Barnes-Jessup Company, conveyed said lands by deed duly recorded in 1913, to Telfair-Stockton Company, a corporation; that thereafter E. B. Wells, as Receiver for said Telfair-Stockton Company, conveyed said lands to S. F. Coventry, by deed duly recorded in 1924; that thereafter, in December, 1924, said S. F. Coventry, joined by his wife, conveyed an undivided one-half interest in said lands t\u00f3 Harry N. Kellam, by deed duly recorded in June, 1925; that on December 9, 1924, said S. F. Coventry and wife conveyed an undivided one-half interest in said lands to J. Wesley Coleman and Clarence 0. Coleman, by warranty deed duly recorded in March, 1925; that in April, 1925, J. Wesley Coleman quit-claimed an undivided one-fourth interest in said lands to Clarence 0. Coleman, which instrument was duly recorded in April, 1925; that thereafter, on July'll, 1925, said Harry N. Kellam conveyed by warranty deed an undivided one-half interest in said property to the complainants, E. D. Keefer and Roma T. Raine, which deed was duly recorded in July, 1925; that on July 6, 1925, said Clarence 0. Coleman conveyed by warranty deed an undivided one-half interest in said lands to the complainants, which deed was duly recorded in July, 1925;\n\u201c4. The court further finds, that in the year 1892, said Jacob Edwards duly conveyed said lands by warranty deed, to Charles E. Sumner; that in .1916, said Charles E. Sumner executed and delivered a warranty deed of said lands to Samuel C. Rudine; that in August, 1925, said Samuel C. Rudine executed and delivered a warranty deed of said lands to the defendant A. J. Rabinowitz; that these three last mentioned warranty deeds, though regular in other respects, were not recorded until August, 1925, after the recordation of the deeds of complainants from their immediate grantors; that the said lands are wild and unimproved, and unoccupied;\n\u201c5. From such facts, the Court being of opinion and finding the law to be that the complainants, claiming immediately under warranty deeds, but remotely under the quit-claim deed from Jacob Edwards to Leslie N. .Wilkie, executed after, but recorded before the original warranty deed from Jacob Edwards under which the defendant Rabinowitz claims, are Iona fide purchasers of said lands, without notice of the claims of said defendant and his predecessors in title, Sumner and Rudine, and that complainants, as such, are entitled to the protection of the recording acts as against said prior warranty deed from Edwards to Sumner; and that said warranty deeds from Edwards to Sumner, from Sumner to Rudine, and from Rudine to the defendant Rabinowitz, are clouds upon the title of the complainants, and should be cancelled as such; It is, therefore, ordered, adjudged and decreed as follows:\n\u201c1. That the decrees pro confesso entered against the defendants Jacob Edwards, individually and as trustee, Juliana S. Edwards, his wife, Charles E. Sumner, widower, and Samuel C. Rudine, a single man, are hereby severally confirmed ;\n\u201c2. That the complainants, E. D. Keefer and Roma T. Raine, own and have legal title in fee. simple to the lands described as against defendant, as follows, to-wit:\n\u201cSouth Half (S%) of Section Twenty-seven (27), Township Forty-one (41) South, Range Twenty-three (23) East, in Charlotte County, Florida;\n\u201c3. That the rights, claims, interests, titles and claims of title of the defendants Charles E. Sumner, Samuel C. Rudine, and A. J. Rabinowitz, derived through or under the said deed of Jacob Edwards, made in 1892 to said Charles E. Sumner, and through the said deed of Charles E. Sumner to Samuel C. Rudine, and the deed of. said Rudine to the defendant Rabinowitz, recorded in August, 1925, are, severally, hereby cancelled as clouds upon the said title of said complainants, and the clerk is directed to make notations accordingly on the records of said instruments; and that the title of the said complainants to said lands, in fee simple, is forever quieted and confirmed against, the said defendants, Charles E. Sumner, Samuel C. Rudine, and A. J. Rabinowitz, and that said defendants and each of them are forever enjoined and restrained from setting up or attempting to set up, asserting or attempting to assert, any title, right, or claim against the title of said complainants hereby quieted.\n\u201c4. The defendant Rabinowitz pay costs herein, taxed at $...........\n\u201cDONE AND ORDERED, at Punta Gorda, Florida, this June 21st, 1928.\n\u201cGEORGE W. WHITEHURST,\n\u201cCircuit Judge.\u201d\nThe bill alleged that before purchasing the property complainants had the public records examined by competent and experienced attorneys and that when they purchased and acquired their warranty deeds to the land, paying a valuable .consideration therefor, they were entirely without notice, either actual or constructive, of the deeds under which Rabinowitz claims, or of any adverse claim to the property by any of the defendants.\nThe facts of' this case are essentially the same, so far as the principle here involved is concerned, as were the facts alleged in the bill upon which the recent case of Rabinowitz v. Houk, 129 So. R. 501, was based, except that in the latter case the complainant, in addition to tracing his title back through various warranty deeds to L. N. Wilkie, who held under a quit-claim deed from Jacob Edwards, also claimed under a tax deed to Robert J. Edwards, who also conveyed to said Wilkie. This case should therefore be affirmed, upon the authority of Rabinowitz v. Houk, supra, or the latter case should be overruled. In view of the very able opinion of Mr. Justice Ellis in the case at bar, the writer has made a re-examination of the ease of Rabinowitz v. Houk, with the result that he is more than ever convinced of the soundness of the conclusions reached in that case.\nThe statute involved in this case, originally adopted in 1828, now appearing as Section 5698 Comp. Gen: Laws, provides that \u201cNo conveyance, transfer or mortgage of real property, or of any interest therein, nor any lease for a term of one year or longer, shall be good and effectual in law or equity, against creditors or subsequent purchasers for a valuable consideration and without notice, unless the same be recorded according to law\u201d\u2014etc.\nIt was early decided by this Court that, as between the parties, an unrecorded deed was valid. Stewart v. Mathews, 19 Fla. 752.\nIn Snow v. Lake, 20 Fla. 656, this Court adopted the rule, already in force in some of the States, that a grantee in a quit-claim deed could not be a bona fide purchaser without notice within the meaning of the recording acts. This construction of the statute has been consistently followed by this Court since that time, but so far as I have been able to find it has not been extended in its operation beyond the immediate grantee in a quit-claim; nor do I think that logic or reason requires its extension. To further extend the rule would in effect amount to the adoption of a new rule, which new rule would, to my mind, work great injustice and hardship, as is illustrated by the facts in Rabinowitz v. Houk, as well as in the present case. It may be that, under the doctrine of Stare decisis, it is better in many instances to stick to an old rule, especially in eases where the old rule has become a rule of property, than to adopt a new rule, even though the new be better founded in reason than the old. But the case of Rabinowitz v. Houk did not set aside the old rule. It merely restricted it strictly within the limits .to which it had been previously applied by this Court. When it comes to the adoption of a new rule of statutory construction, or when an effort is made to extend an old rule beyond the limits hitherto recognized, the courts may well consider the logic, reason, justice and wisdom, as well as the soundness of the public policy involved, in the step they are about to take.\nIf the question decided in Snow v. Lake was now being presented for the first time, the writer is frank to say that he would consider it a very debatable question. With all due deference, candor compels me to say that I am doubtful of the wisdom of the rule of statutory construction therein adopted, for the reasons so ably pointed out in the opinions of Justices Field, Brewer and Gray respectively in the three decisions of the Supreme Court of the United States cited in Rabinowitz v. Houk, and the opinion of Justice Sanborn in Boynton v. Haggart, 120 Fed. 819, as well as for the reasons set forth in 27 R. C. L. 731-733 and cases cited. The statute says nothing about purchasers under quitclaim deeds. It purports to protect as against unrecorded deeds all subsequent purchasers for a valuable consideration and without notice,- with qualification. To arbitrarily assume by way of a rule of statutory construction that in no case can a purchaser who takes by quitclaim deed be a bona fide purchaser for value and without notice, without regard to the facts of the particular case, is in my humble judgment going too far. However, though the decisions on the subject in other jurisdictions are various and conflicting, the rule adopted in Snow v. Lake has been so long recognized in this State, having become in a way a rule of property, it should doubtless continue to be followed by the courts, leaving any possible change therein to legislative action. But I am constrained to believe that the rule thus adopted in Snow v. Lake should be strictly confined within the limits stated in that case; that is, it should be restricted in its operation to the immediate grantee in a quit claim deed.\nBut it is contended that the rule cannot be so confined, because, if the grantor in the quit-claim had previously conveyed his title to another, even though by an unrecorded deed, the title passed entirely out of him, and therefore the grantee in the quit-claim took no title whatever, nor did any of those claiming under him. This argument proves too-much if sound, it would operate likewise against a subsequent grantee by warranty deed from a grantor who had previously executed a warranty deed to some other person apd. which prior deed had been withheld from the public records and of which the subsequent grantee had no notice. It would practically nullify the recording statute. See Boynton v. Haggart, 120 Fed. 819. Furthermore, this argument fails to give full force and effect to the significant language of the statute, which is that \u201cNo conveyance * * * of real property * * * shall be good and effectual in law or equity against * * * subsequent purchasers for a valuable consideration and without notice, unless the same be recorded according to law.\u201d This means that a deed, though good inter partes, so long as it is withheld from the public records it is not good and effectual as against a subsequent purchaser for a valuable consideration and without notice; that, in effect, as to him it is ineffectual to convey the absolute title out of the grantor, by reason of the failure to record it.\nThis very significant language of the statute was considered by .that justly distinguished jurist Mr. Justice Wescott, in his opinion in Emerson v. Ross, 17 Fla. 122, 134-135, in which case this Court held that the recorded deed of an administrator upon a- sale' of the lands of a deceased intestate for value and without notice, vested a good title as against a prior unrecorded deed of such deceased intestate. In the course of his opinion, Mr. Justice Wescott said:\n\u201cWe take it, therefore, that there is no difference in principle between such a deed by an heir and such a deed by an administrator. Some of the cases upon this subject hold that the second deed is inoperative, because, in the view they take of it, after the first deed nothing was left to descend to the heir, or to pass as an asset to the administrator. We do not think this is correct, for the reason that an unrecorded deed does not, under the law, vest an absolute estate. Under the recording statutes., the absolute title rests with the grantor in-abeyance, and does not irrevocably pass to the grantee until the deed is recorded. There is such an estate left in the grantor as, upon the recording of a subsequent conveyance to a bona fide purchaser for value without notice, divests the entire estate passed by the prior unrecorded deed. If the intestate were alive, his second deed to such a purchaser for value would pass the estate. Does the estate upon his death pass absolutely to the first grantee! Unquestionably not, for what he has goes either to the heir or administrator. The statutes of descents and distribution direct nothing of the kind, upon the death of the intestate, his heir, or in the absence of debts, his administrator, viewed in reference to the probate court, upon exhaustion of personal assets, stands according to the true intent and meaning of the statutes controlling the subject of intestate estates and descents, in the same place as the intestate. The administrator is his legal representative, with defined powers, and, so far as this matter is concerned, the power and estate which 'existed, in the intestate before his death passes to his administrator, acting under the order of a court having jurisdiction.\n\u201cThe estate or power existing in the grantor where there is an unrecorded deed, must have either ceased to exist or have gone to the heir or administrator. There is nothing from which it can be inferred that the unrecorded deed by the death of the intestate became of any greater force or effect. Looking to the intention and object of the Legislature in passing .the recording statutes, it is clear that the evil which they intended to remedy attaches as well to apparent ownership in the heir or administrator, as in the deceased intestate when alive. The object of this statute is to make patent, to disclose to the world the holder of the legal title, in order that purchasers for value might be protected against the secret deeds of the grantor, and the law protects the party who expends Kis money on the basis of this apparent ownership. In the case of his death, his heir or his administrator, with a decree of the court authorizing a sale, is the apparent owner of the legal title, and it is equally as. important and equally as just that the public should be allowed'to deal with them as with the original grant- or if living. The cases upon this subject (15 Ill., 158; 2 S. & R., 44; 3 Yerg., 346; 39 Mo., 110; 4 Mon., 120; 6 B. Mon., 531; 24 Conn., 211; 46 Mo., 239,) are conflicting, but we think that the doctrine we have just stated is correct.\u201d (Italics supplied.)\nThe ease just quoted was cited with approval in Ballard v. Lippman Bros., 32 Fla. 481, 487, 14 So. R. 154; and in Lusk v. Rul, 36 Fla. 418, 425, 18 So. R. 582. See also Thompson on Real Property, Vol. 5, 226, and Boynton v. Haggart, supra.\nIn addition to this, we have held in several cases that a party who has withheld his deed or mortgage from the record, thereby allowing a subsequent party without notice to be misled into taking substantial steps relying upon the record as it exist\u00e9d, would be estopped to question the rights of such subsequent party. See Hunter v. State Bank of Florida, 65 Fla. 202, 61 So. R. 497, 499; and other cases cited in the opinion in Rabinowitz v. Houk, supra, and also the recent case of Van Eepoel Real Estate Co. v. Sarasota Milk Co., 129 So. R. 892.\nI think this principle applies here. Keefer and Raine were purchasers for a valuable consideration and without notice. Before taking their warranty deeds, they employed competent attorneys to search the records. Nothing derogatory to the title they were buying appeared thereon. It is admitted \u25a0 they had no actual notice. What more could they do? Several weeks after they had received and recorded their deeds Rabinowitz placed his deeds on record, one of which had been made to him after the deeds to Keefer and Raine had been recorded, and the other two had been withheld from the records for nin'e and thirty-three years .respectively. Thus Rabinowitz, and those under whom he claimed, had by their conduct permitted the record to mislead Keefer and Raine, and must bear any consequent loss rather than- those who in good faith had acted with reference to the records as being in accord with the actual facts, as they had the right to do under the statute.\nOur conclusion therefore is that the decree of the court below should be affirmed.\nAffirmed.\nTerrell, C. J., and Whitfield and Strum, J. J., concur.\nEllis and Buford, J. J., dissent.",
+        "type": "majority",
+        "author": "Brown, J."
+      },
+      {
+        "text": "Ellis, J.,\n(Dissenting) : A. J. Rabinowitz appealed from a decree in a cause begun by E. D. Keefer and Roma T. Raine against Jacob Edwards, individually and as trustee, his wife Juliana Edwards, Charles E. Sumner, Samuel C. \u25a0Rudine and A. J. Rabinowitz. The relief sought by the suit was that certain claims of title and deeds of Conveyance to the land on which the claims were based be cancelled as a cloud upon the complainants-\u2019 title and an order enjoining the defendants from setting up or asserting any right or title to the lands.\nThe cause seems to have been decided on amended bill and the answer of Rabinowitz. Decrees pro confesso, according to recitations contained in the final decree, were entered against all defendants except Rabinowitz. According to the allegations of the bill and averments of the answer, the lands in question are \u201cwild, unimproved and unoccupied and not in possession of any person or persons, corporation or corporations\u201d. From any allegations to the contrary such has been the status of the lands since 1887 when the Trustees of the Internal Improvement Fund conveyed them to the Florida Southern Railway. -That Corporation conveyed the lands in fee- simple to Jacob \u2018Edwards on May 5, 1888, which deed was recorded in October of that year in \u25a0 DeSoto County' where the lands, are located. In 1892 Edwards and wife conveyed to Charles E. Sumner by warranty deed, who- in November, 1916, conveyed by deed to Samuel C. Rudine and he, an unmarried man, conveyed the lands by deed dated August 5, 1925, to Rabinowitz. The conveyances from Edwards to Sumner and from Sumner to Rudine and from the latter to Rabinowitz were not recorded when the complainants obtained their deeds of conveyance in July, 1925. No one claims any interest in the land adversely to complainants but the defendant Rabinowitz.\nThe complainants claim title through mesne conveyances back to Jacob Edwards, who quitclaimed to Leslie N. Wilkie in September, 1902. That deed was recorded in January, 19Q3. Wilkie in 1903 conveyed to John A. Graham, The character of that conveyance is not described. In 1904 Graham conveyed to A. W. Gilchrist, who in 1905 conveyed to E. M. Putnam. The character of those two deeds are not described. In October, 1908, Putnam and wife quitclaimed to W. H. Frazier subject to a mortgage executed by Putnam to Barnes and Jessup Company dated December 8,1905. In March, 1910 Frazier conveyed to Laura J. Putnam and in 1909 Barnes and Jessup Company began proceedings to enforce the mortgage held by it. The cause proceeded to final decree and sale and the Master in Chancery executed a deed to Barnes and. Jessup Company dated September 6, 1910. Thereafter that Corporation, its name having been changed to Southern Naval Stores Company conveyed to Telfair Stockton Company, a corporation, in December, 1913. In 1924 that Corporation and-E. B. Wells, as Receiver for Southern Nay\u00e1l Stores Company, conveyed to S. F. Coventry. The character of none of the above deeds is described except the quitclaim from Putnam to Frazier in October, 1908, and the Master\u2019s deed to Barnes and Jessup Company. It is alleged, however, that all were duly recorded.\nIt is alleged that in December, 1924, Coventry by war-' ranty deed conveyed an undivided half interest to Harry N. Helium and by another deed, alleged to be a warranty, conveyed the remaining undivided 'half interest to J. Wesley Coleman and C. O. Coleman. In April, 1925, J. Wesley Coleman quitclaimed his undivided fourth interest to C. 0. Coleman. In July, 1925, Kellum, by warranty deed, conveyed his undivided half interest to E. D. Keefer and Roma T-. Raine, the complainants, and on July '6, 1925, Coleman by warranty deed conveyed an undivided half interest to Keefer and Raine.\nIt thus appears that the claims of both complainants and defendants originate in a common source, that of a fee simple title in Jacob Edwards, who acquired the lands in May, 1888. The defendant claims through successive conveyances from Edwards and his grantees beginning by warranty deed from him and wife to Sumner in January, 1892. The complainants claim through conveyances \u25a0 of different character: quitclaim deeds, master\u2019s deed and warranty deeds beginning with a quitclaim deed from Edwards to Wilkie in September, 1902, ten years and eight months after Edwards had parted with his title to Sumner.\nAccording to the allegations of the bill, the first war-, ranty deed appearing in the complainants\u2019 line of title was the deed from Coventry to Kellam on December 9, 1924, and to Coleman on the same date each for an individed half interest. Prior to that time the conveyances are described in language somewhat as follows: \u201cBy that instrument found of record\u201d in a certain deed book at a certain page the grantor by name 1 \u2018 conveyed said lands \u2019 \u2019 to the grantee by name. . Then the quitclaim deed from Edwards to Wilkie in 1902 and the quitclaim deed from Putnam to Frazier in October, 1908.\nThe bill alleges that the \u2018 \u2018 conveyances \u2019 \u2019 to the complainants \u201cwere made for good and valuable considerations and without any notice whatever either actual of constructive of the claim of said defendant, A. J. Rabinowitz. \u2019 \u2019\nIt is alleged that the public records did not disclose any \u201coutstanding claims by any person or persons, and at the time your Orators purchased said lands and recorded the conveyances thereof, none of said deeds under which the defendant, A. J. Rabinowitz claims, were recorded in Charlotte County, Florida public records, or in any County wherein said land lies, and that your Orators did not have notice of the claims of said- defendants or any one of them or they would not have purchased said lands.\u201d The complainants claim therefore that they are bona fide purchasers for a valuable consideration without noticed\nThe bill alleges that the deed from Edwards to Sumner was recorded on August 28, 1925, at which time the deeds, to Rudine from' Sumner and from Rudine to Rabinowitz, were also recorded.\nThe Chancellor decreed that the complainants are bona fide purchasers of the lands without notice of the claims, of Rabinowitz and his predecessors in title, Sumner and Rudine, and that the complainants are \u201centitled to the protection of the recording acts as against said prior warranty deed from Edwards to Sumner;\u201d that \u201csaid warranty deeds from Edwards to Sumner, from Sumner toRudine, and from Rudine to the defendant Rabinowitz,. are clouds upon the title of the complainants, and should be cancelled as such.\u201d From that decree Rabinowitz appealed.\nIt is apparent from the foregoing statement that the complainants did not acquire through and by the various conveyances in-their chain of deeds the Edwards title to-the lands because that title- had passed out of him to Sumner more than ten years before the execution of the quitclaim deed by Edwards to Wilkie which is the beginning-of the complainants\u2019 line of conveyances. When the complainants became invested with the title to the land, if ever, and by What pieans to the exclusion of the Edwards-Sumner-Rudine:Rabinowitz title is the question for determination. -\nNow, the Edwards-Rabinowitz warranty deeds of conveyance were not recorded until August 28, 1925, more than a month after the warranty deeds from Coleman and Kellum were executed to the complainants and recorded. If the complainants may be said to be \u201csubsequent purchasers for. a valuable consideration and without notice\u201d then no conveyance in the Edwards-Rabinowitz chain of deeds was good or effectual in law or equity. against the complainants because the conveyances were not recorded according to law when complainants became such purchasers. See 5698 Comp. Gen. Laws 1927 (3822 Rev. Gen. Stats., 1920).\nThis Court.has held that a grantee in a recorded quitclaim deed is not a l)ona fide purchaser without notice within the meaning of the recording acts, .that he occupies the same position in respect to an unrecorded prior deed or mortgage as did his grantor. See Show v. Lake, 20 Fla. 656; Fries v. Griffin, 35 Fla. 212; 17 So. R. 66; Black v. Skinner Mfg. Co., 53 Fla. 1090, 43 So. R. 922; Braddy and Hale Fishery Co. v. Thomas, 93 Fla. 326, 112 So. R. 55.\nThis doctrine, which is settled in this jurisdiction, means simply that the; grantee in a quitclaim deed is \u2022 estopped from asserting that he is a. bona fide purchaser without notice of the lands described'.in the quitclaim deed under which he claims.\nA party claiming title under one who is estopped will also be bound by the estoppel. See Key West Wharf & Coal Co. v. Porter, 63 Fla. 448, 58 So. R. 599; Watkins v. Emmerson, 88 Fla. 86, 102 So. R. 10.\nIt follows from the doctrines just quoted that the recording statute, Sec. 5698 Comp. Gen. Laws 1927, (3822 Rev. Gen. Stats. 1920) supra, affords no protection to one who claims title to land under a quit claim deed, that is a mere deed of release. In other words, such a claimant is as completely charged with notice of an outstanding title, an unrecorded deed conveying the title to another, as if that conveyance had been duly recorded when the claimant acquired his deed*of release or quitclaim to the premises.\nThe recording statute does not invalidate an unrecorded deed of conveyance as between the grantor and grantee. The title passes by such a conveyance and in turn is acquired by a subsequent grantee of such grantee and so on by each purchaser of the land. The statute affords protection only to subsequent purchasers for a valuable consideration and without notice of the former unrecorded conveyances, but as a claimant under a quitclaim deed is not a subsequent purchaser for a valuable consideration and without notice of such unrecorded conveyances of the land it follows that the recording statute affords no protection to him.\nA grantor can convey no greater estate than he has or in which he has an alienable title or interest, therefore a deed from a person without title or interest which he may convey is inoperative as a conveyance and the grantee under a release and quitclaim will take nothing where the grantor has no interest which he can convey. So a deed is inoperative where the grantor has previously conveyed his entire title. See Rollo v. Pool, 280 Ill. 607, 117 N. E. R. 756; Beatson v. Bowers, 174 Ind. 601, 91 N. E. R. 922; Litchfield v. Ferguson, 141 Mass. 97, 6 N. E. R. 721; Nolen v. Powell, (Ala.) 64 So. R. 566; Sims v. Stovall, 127 Ark. 186, 191 S. W. R. 954; McMahon v. Stratford, 83 Conn. 386, 76 Atl. R. 983; Dailey v. Springfield, 144 Ga. 395, 87 So. E. R. 479, Ann. Cas. 1917 D 943; Potter v. Long, 217 Mo. 607, 117 S. W. R. 724; Williams v. Conroy, 35 Colo. 117, 83 Pac. R. 959; Gray v. Williams, 130 N. C. 53, 40 So. E. R. 843; Fowler v. Will, 19 S. D. 131, 102 N. W. R. 598, 117 Am. St. R. 938, 8 Ann. Cas. 1093.\nWhile it is true that the title to real property may be as effectually conveyed or transferred by a quitclaim deed as by any other form of conveyance it conveys only whatever title or estate the grantor may have had in the land at the time it is given. See Moelle v. Sherwood, 148 U. S. 21, 13 Sup. Ct. R. 426, 37 L. Ed. 350; Van Rensselaer v. Kearney, 11 How. 297, 13 L. Ed. 703; see also 18 C. J. 313.\nOnly such title or interest as the grantor possesses at the time, of giving a quitclaim will pass thereby. Bryan v. Eason, 147 N. C. 284, 61 So. E. R. 71; East v. Davis, (Mo.) 204 S. W. R. 402; Shelton v. Horrell, 232 Mo. 358, 134 S. W. R. 988; Pellow v. Artic Iron Co., 164 Mich. 87, 128 N. W. R. 918; 47 L. R. A. (N. S.) 573, Ann. Cas. 1912 B 827; Garrow v. Toxey, 171 Ala. 644, 54 So. R. 556.\nWhere a grantor therefore has no interest in the land to convey, his quitclaim deed is regarded as merely a release or formal disclaimer notwithstanding the use of additional words of grant or of warranty. See Frink v. Darst, 14 Ill. 304, 58 Ann. Dec. 575; Bruce v. Luke, 9 Kan. 201, 12 Am. R. 491; Reynolds v. Shaver, 59 Ark. 299, 27 S. W. R. 78, 43 A. S. R. 36, 8 R. C. L. 927.\nWhen therefore Edwards made a quitclaim deed to Wilkie in September, 1902, no title passed to Wilkie because Edwards had previously conveyed the same to Sumner in 1892, and Wilkie was not protected by the recording statute against the unrecorded deed to Sumner. See Snow v. Lake, supra; Fries v. Griffin, supra; Fowler v. Will, supra.\nIn the case of Moelle v. Sherwood, supra, Mr. Justice Field, speaking for the Supreme Court of the United States, qualified materially the rule which obtains in this State, that is that a grantee in a quitclaim deed is not a subsequent purchaser for a valuable consideration without notice within the meaning of the recording statute, but the fact remains that the rule which obtains in this State is a rule of property and has received the consistent and unvarying approbation of this Court. It is a rule of property which has obtained in-this jurisdiction for many generations and as such there is no more of hardship in it than any other rule for the conveyance of lands, as, for instance, that the deed shall be executed under seal; or that there shall be- two witnesses to its execution; or that it must contain words of limitation which before the statute so long obtained in this State. See Sec. 5669 Comp. Gen. Laws 1927.\nMr. Justice Field, in the Moelle-Sherwood case, expressed the view that the rule that a grantee in a quitclaim deed cannot be treated as a bona fide purchaser does' not seem to rest upon any sound principle and- proceeded to point out that there may be many reasons why the holder of property may refuse t'o accompany his conveyance of it with an express warranty of the soundness of its title or its freedom from the claims, of others or to execute a conveyance in such form as to imply a warranty of any kind even when the title is known to be perfect. He then refers to situations illustrative of his views. It is however upon those very grounds and for those very .reasons that the grantee in a quitclaim deed is by the rule obtaining in this State and many other jurisdictions ipso facto put upon notice of possible defects in the title which he seeks to acquire. It is because he knows that the grantor is unwilling to convey the title in the usual way by an ordinary deed of conveyance of the land but agrees to convey only his right, title or interest therein, whatever it may be, that puts him, the grantee in such a conveyance, upon notice of outstanding titles and destroys the element of bona tides and lack of notice within the meaning of the statute.\nThe case of United States v. California & Oregon Land Company, 148 U. S. 31, 37 L. Ed. 354, 13 Sup. Ct. R. 458, announced the doctrine that a \u201cpurchaser holds under a quitclaim deed does not of itself prevent his being a bona fide purchaser. \u2019 \u2019 The Court, speaking through Mr. Justice Brewer, disaffirmed previous expressions to the contrary. Those cases were decided in 1893 but the case of Black v. Skinner Mfg. Co., 53 Fla. 1019, cited herein, was decided in 1907 and Braddy and Hale Fishery Co. v. Thomas, supra, was decided in 1927. So that this jurisdiction continues to follow the rule notwithstanding a criticism of it by the Federal Supreme Court.\nAn investigation of the rule and the reason for it only leads the investigator to the conclusion \u2022 that the various jurisdictions are in disagreement. Whatever may be- the cause of such disagreement the statutes and their peculiar wording may in a large part be responsible for the conflict of opinion. Even so, that is but a demonstration that the rule is merely an arbitrary rule of property and is sustained by reasoning as cogent as that by which the contrary rule is upheld. In those jurisdictions where it is held that the grantee in a quitclaim deed takes the property over grantees in prior unrecorded deeds and is thus entitled to the protection of the recording statute the argument in support of the rule rests upon the assumption that such grantee believes his grantor to have title, or some alienable interest in the land; that the grantee has paid a valuable consideration for it; that he is a purchaser in good faith and without notice from those having an apparent title to the land or that believing his vendor to be the owner he naturally supposes that he' has obtained all there is to-sell and should not be made to suffer merely because -of' the inartistic-manner in which the deed to him appears-' to be drawn. Campbell v. Laclede Gas Co., 84 Mo. 352; Strong v. Whybark, 204 Mo. 341, 102 S. W. R. 968; Ellison v. Torpin, 44 W. Va. 414, 30 So. E. R. 183; Woody v. Strong, (Tex. Civ. App.) 100 S. W. R. 801.\nAn interesting note on the subject may be found in 8 Ann. Cas. 1095. Where one takes a quitclaim deed he does so voluntarily. There is no compulsion upon him to accept it. If he pays his grantor full value for the land and consents to accept a conveyance not of the land by the usual method but agrees to accept a conveyance of only such right and interest that the seller may have it cannot be any hardship upon him if the rule of property which obtains warns him that his quitclaim deed is not good as a conveyance of the land against a prior unrecorded deed by which the land and title may have been conveyed to another. The very language of the deed under which he claims, the conversations between him' and his grantor' preliminary to the execution of the deed, the latter\u2019s refusal to convey the land but only such interest as he may then have in it, all constitute a warning to the purchaser at least sufficient to put him upon inquiry.\nIn the State of Oregon the rule turns upon the question of possession. If the grantee under the quitclaim deed takes possession from the common grantor it seems that he will acquire a title good as against a prior unrecorded conveyance. American Mtg. Co. v. Hutchinson, 19 Ore. 334, 24 Pac. R. 515.\nIf possession is not given the rule is otherwise. Baker v. Woodward, 12 Ore. 3, 6 Pac. R. 173.\nIn the case at bar there is no question of possession. There is no allegation in the bill that the complainants have ever been in possession. The allegation is that the \u201csaid lands are wild and unimproved and not in the posses^ sion of any person whomsoever\u201d.\nIn the case of Rabinowitz v. Houk, 100 Fla. 44, 129 So. R. 501, the rule which for so long has obtained in this State was seemingly disaffirmed. The distinction was drawn between an immediate grantee under a quitclaim deed who was held to be not a \u201cbona fide purchaser without notice\u201d and a purchaser without notice, under a warranty deed from one in whose chain of conveyances there is a quitclaim deed. The doctrine is announced that a \u2018 \u2018 purchaser for value without notice who takes by warranty deed in good faith after a search of the record is presumptively a bona fide purchaser\u201d.\nThere are some material differences in point of fact however between that ease and the one at bar. Houk, the complainant, claimed under a warranty deed from Edge in 1924, who received title from Manatee Naval Stores Company by warranty deed in 1919. That Corporation acquired title from Young and Robertson in 1903, Young having obtained a deed to an undivided half interest from Robertson in 1901 who acquired title from Wilkie by warranty deed in 1901. Wilkie acquired title by two deeds, one from R. J. Edwards, who acquired title by a tax deed in October, 1892, and from Jacob Edwards, widower, in 1900; the latter\u2019s deed was not alleged to be a warranty deed. No action had been brought to set aside the tax deed which therefore had become indisputable.\nThe Rabinowitz title was as follows: Rabinowitz from Rudine in 1925; Rudine from Sumner in 1916; Sumner from Jacob Edwards and wife in January, 1892, the latter being a warranty deed; the others \u201cfee simple deeds\u201d, as the opinion states. The Rabinowitz deeds in that chain of title were not recorded until after Houk had acquired a deed and the deeds in his line of conveyances were all recorded.\nThe record does not show that the Houk title originated in a quitclaim deed from Jacob Edwards and does show that there was a title originating in a tax deed to Robert J. Edwards in 1892 which had become indisputable. There was not a quitclaim deed in the line of conveyances from Edwards to Houk, unless it was the deed from Jacob Edwards, widower, to Wilkie in October, 190Q, which the opinion merely states was \u201cnot alleged to be a warranty deed\u201d.\nMr. Justice Brown, in an exhaustive opinion in the ease, reviewing the doctrine which has so long obtained in this. State said that \u201cThis Court has long recognized the doctrine that the immediate grantee under a purely quitclaim deed, a mere deed of release, obtains just such title as his vendor had, and subject to the same defenses, and is not a bona fide- purchaser without notice within the meaning-of the recording acts\u201d, citing authorities.\nThe learned justice then proceeds to discuss the rule as' it obtains in other jurisdictions where the contrary rule obtains and concludes that if the rule as it obtains: in this State \u201cwere permitted to be extended it would tend directly to impair the selling value of all such property, and would operate to hinder improvements; and as it is the policy of the law that titles to real estate should become matters of certainty as far as possible a person buying under such circumstances is presumptively' a bona, fide purchaser and takes the title free from outstanding-equities of which he had no notice\u201d.\nNow the tax deed in the Houk title post dated the deed from Edwards to Sumner which was in January, 1892,. therefore the bill to remove cloud based upon the tax title would have been properly sustained against persons- asserting title acquired subsequently from Edwards\u2019 grantees, such claim of title being acquired after the tax deed and asserted against it. See Stuart v. Stephanus, 94 Fla. 1087, 114 So. R. 767.\nIf however it was the purpose of this Court in Rabinowitz v. Houk, supra, to modify the rule by distinguishing between an immediate grantee under a quitclaim deed, and one claiming title under a warranty deed from a grantor in whose chain of title- there is \u2018 \u2018 remote quitclaim deed\u201d\u2014to state the proposition differently\u2014if it was the purpose of the court in the Rabinowitz-IIouk ease supra to modify the rule that a party claiming title, under one who is\u2019 estopped will also be bound by the estoppel and that a grantor can convey no greater estate than he has or in which he has an alienable title or interest, by the qualification that if the last grantee claiming under a warranty deed as a conveyance of the land pays a valuable consideration for it and buys in good faith after examining the record and' finding no outstanding title in another he will be protected by the recording act, Section 5698 Comp; Gen. Laws 1927, .and he held to be a subsequent purchaser for a valuable consideration .and without notice it should be definitely stated what is meant by the term \u201cremote\u201d in the phrase \u201cremote quitclaim deed.\u201d Is the term one of numerical or temporal significance? Does it have reference to remoteness in point of time or number of conveyances?\nIt is easily imaginable that there may be a chain of deeds originating in a quitclaim consisting of six or more transfers separated in point of time by not more than twenty-four hours between the original quitclaim and the last warranty deed, or by a period of twenty years or more as in that case between the presumed quitclaim to Willde in 1902 and the deed to complainant in 1925.\nIf the matter of time alone determines the applicability of the rule as modified, there would be difficulty in deciding at just what period of remoteness from the last deed the modified rule would apply. If number of conveyances alone would determine the matter of remoteness it should be stated how many conveyances back of the last would bring the modified rule into effect. If both elements should combine to determine when a quitclaim deed is remote in the line of conveyances the modified rule would by no means be certain in its application depending upon the circumstances of each case and the individual views of the particular judge whose duty it would be to determine the applicability of the rule. That- condition would not promote certainty in a very high degree in the matter of titles'\u2019to real estate and their transfer.\nI think that \u2019 the Rabinowitz-Houk case, supra, is not controlling in this case and that the rule of property as heretofore and now existing in this State should be maintained. See Myers v. Van Buskirk, 96 Fla. 704, 119 So. R. 123.\nThe decree appealed from should therefore be reversed with instructions to dismiss the bill or proceed in accordance with the views expressed in this opinion.\nBuford, J., concurs.",
+        "type": "dissent",
+        "author": "Ellis, J.,"
+      }
+    ],
+    "attorneys": [
+      "Thomas W. Butler and Thomas J. Ellis, for Appellant;",
+      "Earl D. Farr and J. H. Hancock, for Appellees."
+    ],
+    "corrections": "",
+    "head_matter": "A. J. Rabinowitz, Appellant, v. E. D. Keefer and Roma T. Raine, Appellees.\nDivision A.\nOpinion filed January 12, 1931.\nPetition for rehearing denied February 18, 1931.\nThomas W. Butler and Thomas J. Ellis, for Appellant;\nEarl D. Farr and J. H. Hancock, for Appellees."
+  },
+  "file_name": "1723-01",
+  "first_page_order": 719,
+  "last_page_order": 744
+}

@@ -1,0 +1,86 @@
+{
+  "id": 8083704,
+  "name": "WIFE, Plaintiff, v. HUSBAND, Defendant",
+  "name_abbreviation": "Wife v. Husband",
+  "decision_date": "1968-01-22",
+  "docket_number": "",
+  "first_page": "606",
+  "last_page": "608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "238 A.2d 606"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del. Super. Ct.",
+    "id": 9286,
+    "name": "Delaware Superior Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "201 A.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "235 Md. 490",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2297864
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/235/0490-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 205,
+    "char_count": 2541,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.719567370958748e-08,
+      "percentile": 0.29669355240402046
+    },
+    "sha256": "35090b7a945bbf5f54b6a13fc647347c5a06ac3f6cec2253bc4419db949fd6e3",
+    "simhash": "1:317aa83953a9e70e",
+    "word_count": 410
+  },
+  "last_updated": "2024-02-27T16:29:55.178470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WIFE, Plaintiff, v. HUSBAND, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "QUILLEN, Judge:\nThis case comes to the Court on a petition for a divorce on the ground of voluntary separation. On the basis of the testimony of the plaintiff and her mother, I make the following factual findings. The husband and wife in this case, while residing in the same, single family dwelling house, have, for more than three consecutive years prior to the wife\u2019s filing of the divorce petition, lived completely separate lives, occupied separate bedrooms, and shared none of the numerous customary marital relations, including, but not limited to, sexual intercourse. There is no reasonable expectation that the customary marital relations will be resumed. I will also assume, without deciding, that the cessation of customary marital relations was voluntary on both sides.\nThe one legal question presented turns on the factual finding that the husband and the wife have continued to share the same dwelling unit. In face of that single significant fact, as a matter of law, can the Court conclude that the \u201chusband and wife have voluntarily lived separate and apart, without any cohabitation for three consecutive years prior to the filing of the divorce action\u201d? 13 Del.C. \u00a7 1522(11).\nThe question must be answered negatively. The language used by the Legislature in the statute simply was not intended to cover a situation where the husband and wife continue to -share the same dwelling unit. The phrase \u201clived separate and apart\u201d contemplates not only a de facto-cessation of all customary marital relations but also an outward manifestation of such, cessation by a physical separation from, each other\u2019s place of abode. After all, one. of the most significant and customary-marital relations is the sharing of the-same dwelling unit.\nThe law in this regard has recently been reviewed by the Supreme Court of Maryland. Lillis v. Lillis, 235 Md. 490, 201 A.2d 794 (1964). I think the authorities cited therein and the reasoning of that opinion, including the distinguishing of desertion cases and certain voluntary separation cases from the District of Columbia, apply equally to a construction of the Delaware statute, which in pertinent part, is identical to the Maryland statute. Therefore, in order not to unduly complicate a simple legal question, I rest this decision solely on the precise wording of the Delaware statute and the Lillis case.\nThe petition is denied. It is so ordered.",
+        "type": "majority",
+        "author": "QUILLEN, Judge:"
+      }
+    ],
+    "attorneys": [
+      "Sidney J. Clark, Wilmington, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "WIFE, Plaintiff, v. HUSBAND, Defendant.\nSuperior Court of Delaware. New Castle.\nJan. 22, 1968.\nSidney J. Clark, Wilmington, for plaintiff."
+  },
+  "file_name": "0606-01",
+  "first_page_order": 638,
+  "last_page_order": 640
+}

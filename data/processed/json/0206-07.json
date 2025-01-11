@@ -1,0 +1,58 @@
+{
+  "id": 12486708,
+  "name": "Com. v. H. Liciaga",
+  "name_abbreviation": "Com. v. Liciaga",
+  "decision_date": "2016-03-22",
+  "docket_number": "NO. 2412 EDA 2015",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "8223be0ddbf1e72f41e12956f648a09a405fb5453f51088c1b3b5874bb24a9a3",
+    "simhash": "1:3a1be60022d41f40",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nH. Liciaga"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nH. Liciaga\nNO. 2412 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 22, 2016\nAffirmed."
+  },
+  "file_name": "0206-07",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

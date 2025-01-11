@@ -1,0 +1,59 @@
+{
+  "id": 6093062,
+  "name": "In re Richard E. Milford",
+  "name_abbreviation": "In re Milford",
+  "decision_date": "1968-04-15",
+  "docket_number": "No. 8255",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 80,
+    "ocr_confidence": 0.515,
+    "sha256": "297c384ee95afde72dfc72e4546b282472946260396ae02b96fa49166bae79f4",
+    "simhash": "1:2ae96b23c73d9b68",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Richard E. Milford"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Information-bearing medium.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 15, 1968\nNo. 8255.\nIn re Richard E. Milford"
+  },
+  "file_name": "1514-12",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

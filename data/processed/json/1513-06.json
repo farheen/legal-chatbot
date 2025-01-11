@@ -1,0 +1,59 @@
+{
+  "id": 6092724,
+  "name": "In re Swingline, Inc.",
+  "name_abbreviation": "In re Swingline, Inc.",
+  "decision_date": "1967-10-05",
+  "docket_number": "No. 8094",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 65,
+    "ocr_confidence": 0.452,
+    "sha256": "7cbe3c25fa66f67ab502580de7eb2fb088cfb50a1c18e101fe1df0cb89acc698",
+    "simhash": "1:d511a0c1479d08f0",
+    "word_count": 10
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Swingline, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Trademark for paper fasteners.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "No. 8094.\nIn re Swingline, Inc."
+  },
+  "file_name": "1513-06",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485227,
+  "name": "Michael A. Hunter v. United States",
+  "name_abbreviation": "Hunter v. United States",
+  "decision_date": "2016-05-05",
+  "docket_number": "NO. 15-CO-0316",
+  "first_page": "1225",
+  "last_page": "1225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 132,
+    "sha256": "710a0dfc1ba39f5038e786eef1037e4749850f85f866cdceb336b206073a834b",
+    "simhash": "1:59a812403794dcdb",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. Hunter\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael A. Hunter\nv.\nUnited States\nNO. 15-CO-0316\nDistrict of Columbia Court of Appeals\nMay 05, 2016\nMotley\nDisposition: Affirmed."
+  },
+  "file_name": "1225-11",
+  "first_page_order": 1225,
+  "last_page_order": 1225
+}

@@ -1,0 +1,88 @@
+{
+  "id": 7923708,
+  "name": "In re WALTER C. and Rebekah C.",
+  "name_abbreviation": "In re Walter C.",
+  "decision_date": "1984-10-02",
+  "docket_number": "",
+  "first_page": "1312",
+  "last_page": "1312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "481 A.2d 1312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "480 A.2d 766",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7904451
+      ],
+      "pin_cites": [
+        {
+          "page": "770"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/480/0766-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 153,
+    "char_count": 1613,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20059296893371004
+    },
+    "sha256": "7e9f78e333b6e0c480df7fe3c10adbebf900c6fe889cfb0bab2711ce0a634906",
+    "simhash": "1:7132d4428e1d44a2",
+    "word_count": 255
+  },
+  "last_updated": "2024-02-27T19:44:37.891291+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, VIOLETTE, WATHEN and GLASSMAN, JJ.",
+      "All concurring."
+    ],
+    "parties": [
+      "In re WALTER C. and Rebekah C."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe parents of Walter C. and Rebekah C. appeal from an order of the Superior Court, Kennebec County, affirming an order of the District Court (Augusta) that terminated their parental rights pursuant to 22 M.R.S.A. \u00a7 4055 (Supp.1983-1984). Their sole contention on appeal is that the Department of Human Services had a burden to prove by clear and convincing evidence that it had made the necessary efforts to facilitate reunification of the family pursuant to 22 M.R.S.A. \u00a7 4041 prior to seeking termination of ,parental rights, and that the Department failed to sustain that burden.\nWe deny the appeal.\nAs we observed in the recent case of In re Daniel C., 480 A.2d 766 at 770 (Me.1984), the failure of the Department to fulfill its obligations under section 4041 does not constitute an independent ground for denial of a petition for termination under section 4055(1). Moreover, the Department did make substantial reunification efforts, and ample evidence supports the conclusion of the District Court that in the circumstances of this case further efforts at reunification would have been futile. Section 4041 required nothing more.\nThe entry must be:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "David A. Cloutier (orally), Augusta, for plaintiffs.",
+      "James Eastman Smith, Asst. Atty. Gen., Dept, of Human Services (orally), Augusta, for defendant.",
+      "Joseph M. O\u2019Donnell, Hallowell, Guardian ad litem (orally)."
+    ],
+    "corrections": "",
+    "head_matter": "In re WALTER C. and Rebekah C.\nSupreme Judicial Court of Maine.\nArgued March 7, 1984.\nDecided Oct. 2, 1984.\nDavid A. Cloutier (orally), Augusta, for plaintiffs.\nJames Eastman Smith, Asst. Atty. Gen., Dept, of Human Services (orally), Augusta, for defendant.\nJoseph M. O\u2019Donnell, Hallowell, Guardian ad litem (orally).\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, VIOLETTE, WATHEN and GLASSMAN, JJ."
+  },
+  "file_name": "1312-01",
+  "first_page_order": 1372,
+  "last_page_order": 1372
+}

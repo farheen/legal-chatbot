@@ -1,0 +1,129 @@
+{
+  "id": 8398070,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. William ROBINSON, Petitioner",
+  "name_abbreviation": "Commonwealth v. Robinson",
+  "decision_date": "2008-04-22",
+  "docket_number": "",
+  "first_page": "710",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "947 A.2d 710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "838 A.2d 651",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        16665,
+        9299173
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0003-01",
+        "/a2d/838/0651-01"
+      ]
+    },
+    {
+      "cite": "576 Pa. 3",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        16665
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/576/0003-01"
+      ]
+    },
+    {
+      "cite": "832 A.2d 1014",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9088752,
+        588049,
+        587990,
+        9088766
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1024"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/832/1014-01",
+        "/pa/574/0574-01",
+        "/pa/574/0573-02",
+        "/a2d/832/1014-02"
+      ]
+    },
+    {
+      "cite": "574 Pa. 574",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        588049
+      ],
+      "year": 2003,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 218,
+    "char_count": 3054,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20341012159396166
+    },
+    "sha256": "4449c983d47d83ff09f3a616e17546672b635aa431f8f5a0780d580f06c4fe50",
+    "simhash": "1:0104e36983d98aa8",
+    "word_count": 476
+  },
+  "last_updated": "2024-02-27T16:30:29.111353+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. William ROBINSON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 22nd day of April 2008, the Petition for Allowance of Appeal is GRANTED, the order of the Superior Court is VACATED and the case is REMANDED to the PCRA court for further proceedings. In summarily dismissing the PCRA petition without a hearing, the PCRA court stated only that the petition lacked merit. In its Pa.R.A.P.1925(a) opinion, however, the court later stated that dismissal was warranted because, inter alia, no certifications from the potential witnesses were included. In point of fact, witness certifications were included in the pro se petition attached to the counseled petition. Moreover, petitioner was never given an opportunity to attempt to address the procedural defect, as contemplated by Pa.R.Crim.P. 905.\nOn appeal, the Superior Court panel majority affirmed on different procedural grounds, citing petitioner\u2019s failure to attach a certification from trial counsel. This ground likewise was never cited in the PCRA court\u2019s Notice of Intent to Dismiss, and petitioner was not given an opportunity to address the supposed procedural deficiency.\nA request for an evidentiary hearing must include a certification, signed by the petitioner, as to each intended witness, identifying the witness\u2019s name, address, date of birth, the expected substance of his or her testimony, and any documents material to that testimony. 42 Pa.C.S. \u00a7 9545(d)(1). Failure to substantially comply with this requirement will render the proposed witness\u2019s testimony inadmissible. Id.\nPennsylvania Rule of Criminal Procedure 905 is intended to provide petitioners with a legitimate opportunity to present their claims to the PCRA court, in a manner sufficient to avoid dismissal due to a correctable defect in pleading or presentation. E.g. Commonwealth v. McGill, 574 Pa. 574, 832 A.2d 1014, 1024 (2003). Thus, when a PCRA court is presented with a PCRA petition that is defective in form or content, the judge should indicate to the petitioner the nature of the defects and provide an opportunity for the petitioner to amend. Pa.R.Crim.P. 905(B) cmt.; Commonwealth v. Rush, 576 Pa. 3, 838 A.2d 651 (2003).\nThe Superior Court panel majority affirmed the PCRA court\u2019s denial of petitioner\u2019s request for an evidentiary hearing, and the subsequent dismissal of his PCRA petition, solely on the grounds that petitioner failed to include a certification concerning the testimony that trial counsel would offer at the PCRA hearing. Assuming, without deciding, that such a certification is required respecting former counsel, this deficiency was not the basis of the PCRA court\u2019s decision, nor was it identified to petitioner at a point where he could have sought to amend his pleadings.\nAccordingly, the order of the Superior Court affirming the summary dismissal of petitioner\u2019s PCRA petition is VACATED, and this case is REMANDED to the PCRA court to allow petitioner an opportunity to amend his pleadings.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. William ROBINSON, Petitioner.\nSupreme Court of Pennsylvania.\nApril 22, 2008."
+  },
+  "file_name": "0710-03",
+  "first_page_order": 750,
+  "last_page_order": 751
+}

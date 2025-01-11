@@ -1,0 +1,58 @@
+{
+  "id": 12486034,
+  "name": "E. Smith v. T.W. Phillips Gas Supply",
+  "name_abbreviation": "Smith v. T.W. Phillips Gas Supply",
+  "decision_date": "2016-02-19",
+  "docket_number": "NO. 375 WDA 2015",
+  "first_page": "600",
+  "last_page": "600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 128,
+    "sha256": "6ed1acf2b70765cd15e4fd669c697ee927907db0948a03933442ba2e29a2f017",
+    "simhash": "1:b08d74b9007b8dd5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E. Smith\nv.\nT.W. Phillips Gas Supply"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "E. Smith\nv.\nT.W. Phillips Gas Supply\nNO. 375 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 19, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0600-17",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

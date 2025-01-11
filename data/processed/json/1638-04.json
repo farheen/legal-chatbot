@@ -1,0 +1,59 @@
+{
+  "id": 6087607,
+  "name": "In re Gordon Johnson Co.",
+  "name_abbreviation": "In re Gordon Johnson Co.",
+  "decision_date": "1967-01-26",
+  "docket_number": "No. 7997",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 129,
+    "ocr_confidence": 0.488,
+    "sha256": "56ba8496a5b6b7038075ce1d13818b9bc7ec8c3c40b49365687923df3feb08a2",
+    "simhash": "1:82a1a76ba4521264",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gordon Johnson Co."
+    ],
+    "opinions": [
+      {
+        "text": "Method of preservation, packaging and holding of fresh foods for human \u00fase.,",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 26, 1967\nNo. 7997.\nIn re Gordon Johnson Co."
+  },
+  "file_name": "1638-04",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

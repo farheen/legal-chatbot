@@ -1,0 +1,83 @@
+{
+  "id": 12488050,
+  "name": "Juan GUZMAN v. Zeynullah YEROZ et al.",
+  "name_abbreviation": "Guzman v. Yeroz",
+  "decision_date": "2016-10-04",
+  "docket_number": "",
+  "first_page": "1152",
+  "last_page": "1152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 1152"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 923"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "167 Conn.App. 420",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12486338
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/143-2/0661-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 331,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25775286512843026
+    },
+    "sha256": "42a45b0089858f18b66038e198953b79685121ea659065d24ee40da740ee2619",
+    "simhash": "1:b4090f28b6202cfe",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:34:54.100288+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan GUZMAN\nv.\nZeynullah YEROZ et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The named defendant's petition for certification for appeal from the Appellate Court, 167 Conn.App. 420, 143 A.3d 661 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan GUZMAN\nv.\nZeynullah YEROZ et al.\nSupreme Court of Connecticut.\nDecided October 4, 2016\nHugh D. Hughes, in support of the petition.\nJames S. Brownstein and Robert F. Carter, in opposition.\nThe named defendant's petition for certification for appeal from the Appellate Court, 167 Conn.App. 420, 143 A.3d 661 (2016), is denied."
+  },
+  "file_name": "1152-03",
+  "first_page_order": 1152,
+  "last_page_order": 1152
+}

@@ -1,0 +1,64 @@
+{
+  "id": 7942726,
+  "name": "STATE v. Charlie HAIGH",
+  "name_abbreviation": "State v. Haigh",
+  "decision_date": "1980-12-11",
+  "docket_number": "No. 80-471-M.P.",
+  "first_page": "242",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "424 A.2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 366,
+    "ocr_confidence": 0.747,
+    "sha256": "20979de7eb01b5bdc4b492a8a30e366ed3f5180710b0b5a71e529ce73103d5a7",
+    "simhash": "1:24ae44c1bf4064c7",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T20:20:40.051442+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., did not participate."
+    ],
+    "parties": [
+      "STATE v. Charlie HAIGH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is denied.\nBEVILACQUA, C. J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff-respondent.",
+      "Aram K. Berberian, Warwick, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Charlie HAIGH.\nNo. 80-471-M.P.\nSupreme Court of Rhode Island.\nDec. 11, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Spec. Asst. Atty. Gen., Chief, Appellate Division, for plaintiff-respondent.\nAram K. Berberian, Warwick, for defendant-petitioner."
+  },
+  "file_name": "0242-03",
+  "first_page_order": 294,
+  "last_page_order": 294
+}

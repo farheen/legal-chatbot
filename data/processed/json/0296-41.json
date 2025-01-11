@@ -1,0 +1,62 @@
+{
+  "id": 12485520,
+  "name": "State v. Mill Village Apartments",
+  "name_abbreviation": "State v. Mill Vill. Apartments",
+  "decision_date": "2016-05-19",
+  "docket_number": "NOS. C-865 SEPT. TERM 2015, 077361",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "8da6f4ca84ca1eb73a7a9eb564b247d32113b96ab9e5f4e4c962635d7f898938",
+    "simhash": "1:36b4539352647924",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nMill Village Apartments"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nMill Village Apartments\nNOS. C-865 SEPT. TERM 2015, 077361\nSupreme Court of New Jersey\nMay 19, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-41",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

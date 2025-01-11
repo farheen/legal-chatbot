@@ -1,0 +1,58 @@
+{
+  "id": 12487599,
+  "name": "In Re: T.S.S.F.M",
+  "name_abbreviation": "In re T.S.S.F.M",
+  "decision_date": "2016-04-29",
+  "docket_number": "NO. 3685 EDA 2015",
+  "first_page": "797",
+  "last_page": "797",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "ccf24819051b915c95e77d64c65bc958e0ccf989bb05c6a76269ef79ddf7176f",
+    "simhash": "1:29052e95cae18d94",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: T.S.S.F.M"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: T.S.S.F.M\nNO. 3685 EDA 2015\nSuperior Court of Pennsylvania.\nApril 29, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0797-06",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

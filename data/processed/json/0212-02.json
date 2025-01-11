@@ -1,0 +1,58 @@
+{
+  "id": 12486795,
+  "name": "Com. v. R. Rosser",
+  "name_abbreviation": "Com. v. Rosser",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1733 EDA 2015",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "aae679e537beb9bc9b4d0022c8dd2f7b18c4570c5ae041b5bbedf054b5244d74",
+    "simhash": "1:d5194bc18cb1b5c9",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Rosser"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Rosser\nNO. 1733 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nVacated and Remanded."
+  },
+  "file_name": "0212-02",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

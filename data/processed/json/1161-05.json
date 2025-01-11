@@ -1,0 +1,58 @@
+{
+  "id": 12488667,
+  "name": "Com. v. Savage, O.",
+  "name_abbreviation": "Com v. Savage",
+  "decision_date": "2016-05-27",
+  "docket_number": "3345 EDA 2014",
+  "first_page": "1161",
+  "last_page": "1161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "88d94d67a386178648eb494c0426508e8f9c38e51895baab4903966a2bc07f51",
+    "simhash": "1:86635479d1942af3",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSavage, O."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSavage, O.\n3345 EDA 2014\nSuperior Court of Pennsylvania.\nMay 27, 2016\nAffirmed"
+  },
+  "file_name": "1161-05",
+  "first_page_order": 1161,
+  "last_page_order": 1161
+}

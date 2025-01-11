@@ -1,0 +1,59 @@
+{
+  "id": 6080514,
+  "name": "In re Kolbel et al.",
+  "name_abbreviation": "In re Kolbel",
+  "decision_date": "1957-03-04",
+  "docket_number": "6269",
+  "first_page": "1031",
+  "last_page": "1031",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "44 C.C.P.A. 1031"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 118,
+    "ocr_confidence": 0.514,
+    "sha256": "7df8ce957c48e90b6b05ad85f2e25d0f478d1fba9299c40d2161f3ab7c1492f3",
+    "simhash": "1:ea8049f0421d858b",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T21:45:41.767522+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kolbel et al."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in catalytic hydrogenation of carbon monoxide with water vapor.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 4, 1957\nIn re Kolbel et al.\n(6269)."
+  },
+  "file_name": "1031-03",
+  "first_page_order": 349,
+  "last_page_order": 349
+}

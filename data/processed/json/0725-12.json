@@ -1,0 +1,58 @@
+{
+  "id": 12487107,
+  "name": "Commonwealth v. Jonathan Nunez",
+  "name_abbreviation": "Commonwealth v. Nunez",
+  "decision_date": "2016-08-17",
+  "docket_number": "NO. 257 MAL (2016)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "661cf09bbd14cf2cdfc35e28a335e09808ff6fa9c3057f07c108f6084cc538d5",
+    "simhash": "1:5c8f1c63bac42a93",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJonathan Nunez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJonathan Nunez\nNO. 257 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 17, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0725-12",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

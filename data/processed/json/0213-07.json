@@ -1,0 +1,58 @@
+{
+  "id": 12486809,
+  "name": "Com. v. R. Stufflet",
+  "name_abbreviation": "Com. v. Stufflet",
+  "decision_date": "2016-03-31",
+  "docket_number": "NO. 783 WDA 2015",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "4fa65a7c9e32dc257743877339078a21f961dd7117c32a098931b7ebd5fb2fc4",
+    "simhash": "1:9413dfa2c0da8dc8",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Stufflet"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Stufflet\nNO. 783 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 31, 2016\nAffirmed."
+  },
+  "file_name": "0213-07",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

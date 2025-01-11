@@ -1,0 +1,58 @@
+{
+  "id": 12501861,
+  "name": "COM. v. WALTON, R.",
+  "name_abbreviation": "Com. v. Walton",
+  "decision_date": "2018-07-26",
+  "docket_number": "3002 EDA 2017",
+  "first_page": "713",
+  "last_page": "713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 713"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "a3bb066d4568e82ead25e5e850cb913fdb5e88667421e55eec582467d1ee86ba",
+    "simhash": "1:bdf682bac6b95fd4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nWALTON, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nWALTON, R.\n3002 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 26, 2018\nAffirmed"
+  },
+  "file_name": "0713-05",
+  "first_page_order": 713,
+  "last_page_order": 713
+}

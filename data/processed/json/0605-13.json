@@ -1,0 +1,58 @@
+{
+  "id": 12486110,
+  "name": "T. Weishner v. D. Weishner",
+  "name_abbreviation": "Weishner v. Weishner",
+  "decision_date": "2016-02-26",
+  "docket_number": "NO. 394 WDA 2015",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 118,
+    "sha256": "ae27db530bd164661149ac5ba33bfcc2b9f15452c3c07f688b5f8b88d14f418a",
+    "simhash": "1:011b018948098c82",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T. Weishner\nv.\nD. Weishner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "T. Weishner\nv.\nD. Weishner\nNO. 394 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 26, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0605-13",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

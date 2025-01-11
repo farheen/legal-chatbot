@@ -1,0 +1,58 @@
+{
+  "id": 12488339,
+  "name": "In the Interest of: I.L., a Minor",
+  "name_abbreviation": "In re I.L.",
+  "decision_date": "2016-05-09",
+  "docket_number": "1457 EDA 2015",
+  "first_page": "1140",
+  "last_page": "1140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 102,
+    "sha256": "a340f494d6f7eae1b4f660e0a91f2610e9a8c2e1073beaf91d796266451eaebd",
+    "simhash": "1:905256bb7fed8fe0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: I.L., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: I.L., a Minor\n1457 EDA 2015\nSuperior Court of Pennsylvania.\nMay 9, 2016\nAffirmed"
+  },
+  "file_name": "1140-05",
+  "first_page_order": 1140,
+  "last_page_order": 1140
+}

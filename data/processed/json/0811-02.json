@@ -1,0 +1,64 @@
+{
+  "id": 12489425,
+  "name": "BYINGTON, Joe Nathaniel v. STATE of Maryland, et al.",
+  "name_abbreviation": "Byington v. State",
+  "decision_date": "2017-04-21",
+  "docket_number": "Pet. Docket No. 560, Sept. Term, 2016",
+  "first_page": "811",
+  "last_page": "811",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "157 A.3d 811"
+    },
+    {
+      "type": "parallel",
+      "cite": "452 Md. 526"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 177,
+    "sha256": "e590e3511e41d58a21865652f485a5721023c53b391660eefb48d960747d8220",
+    "simhash": "1:04feca7190cd8811",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T20:57:14.014091+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BYINGTON, Joe Nathaniel\nv.\nSTATE of Maryland, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "BYINGTON, Joe Nathaniel\nv.\nSTATE of Maryland, et al.\nPet. Docket No. 560, Sept. Term, 2016\nCourt of Appeals of Maryland.\nApril 21, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0811-02",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

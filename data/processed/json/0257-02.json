@@ -1,0 +1,92 @@
+{
+  "id": 9186471,
+  "name": "John GALLAGHER, Respondent v. PENNSYLVANIA LIQUOR CONTROL BOARD, World Transportation, Inc., Envoy Warehouse, Inc. and Trans Freight Systems, Inc., Petition of Trans Freight Systems, Inc.",
+  "name_abbreviation": "Gallagher v. Pennsylvania Liquor Control Board",
+  "decision_date": "2004-10-06",
+  "docket_number": "",
+  "first_page": "257",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "861 A.2d 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "756 A.2d 1116",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        225996,
+        11244791
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01",
+        "/a2d/756/1116-01"
+      ]
+    },
+    {
+      "cite": "562 Pa. 455",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        225996
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/562/0455-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 112,
+    "char_count": 1087,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21535753628879523
+    },
+    "sha256": "23bea38af6c7d3f7ce33da32723759ff00dee4a8dd94934db535bdd65c25de1b",
+    "simhash": "1:74ae93029ee9efaa",
+    "word_count": 173
+  },
+  "last_updated": "2024-02-27T23:02:56.765441+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John GALLAGHER, Respondent v. PENNSYLVANIA LIQUOR CONTROL BOARD, World Transportation, Inc., Envoy Warehouse, Inc. and Trans Freight Systems, Inc., Petition of Trans Freight Systems, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 6th day of October, 2004, the Petition for Allowance of Appeal is hereby granted, limited to the following issue:\nApplying the standards for appellate review set forth in Harman v. Borah, 562 Pa. 455, 756 A.2d 1116 (2000), and considering the scope of a trial court\u2019s discretion under the Pennsylvania Rules of Evidence, did the Superior Court err in reversing the trial court\u2019s denial of Gallagher\u2019s motion for a new trial based on its conclusion that the collateral source rule had been violated and without consideration of actual prejudice, when the evidence of payments from a collateral source was relevant to the jury\u2019s determination as to which of two defendants was Gallagher\u2019s employer and the trial court gave a cautionary instruction to the jury that the evidence should be used only for that limited purpose.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John GALLAGHER, Respondent v. PENNSYLVANIA LIQUOR CONTROL BOARD, World Transportation, Inc., Envoy Warehouse, Inc. and Trans Freight Systems, Inc., Petition of Trans Freight Systems, Inc.\nSupreme Court of Pennsylvania.\nOct. 6, 2004."
+  },
+  "file_name": "0257-02",
+  "first_page_order": 291,
+  "last_page_order": 292
+}

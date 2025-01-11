@@ -1,0 +1,58 @@
+{
+  "id": 12486705,
+  "name": "Com. v. I. King",
+  "name_abbreviation": "Com. v. King",
+  "decision_date": "2016-03-23",
+  "docket_number": "NO. 3323 EDA 2014",
+  "first_page": "206",
+  "last_page": "206",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 114,
+    "sha256": "a62bcbfd7ad8dcb57d3c78fc0fb4c69269dccbacf95dda005cc7251b914f03c2",
+    "simhash": "1:8663fec5009fda93",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nI. King"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nI. King\nNO. 3323 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 23, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0206-04",
+  "first_page_order": 206,
+  "last_page_order": 206
+}

@@ -1,0 +1,63 @@
+{
+  "id": 7963232,
+  "name": "Petition of RHODE ISLAND DEFENSE ATTORNEYS ASSOCIATION",
+  "name_abbreviation": "In re Rhode Island Defense Attorneys Ass'n",
+  "decision_date": "1980-01-10",
+  "docket_number": "No. 79-330-M.P.",
+  "first_page": "137",
+  "last_page": "138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 407,
+    "ocr_confidence": 0.79,
+    "sha256": "7b3120dcf90e4499016be8657f7ee57fa822e51fc1b95c05b99648dfef134dcb",
+    "simhash": "1:6d406d731c0340bc",
+    "word_count": 57
+  },
+  "last_updated": "2023-07-14T15:51:21.095335+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "DORIS, J., did not participate."
+    ],
+    "parties": [
+      "Petition of RHODE ISLAND DEFENSE ATTORNEYS ASSOCIATION."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition of the Rhode Island Defense Attorneys Association requesting promulgation of a rule authorizing open-panel prepaid legal service plans and prohibiting closed-panel plans, as prayed, is denied.\nDORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Aram K. Berberian, Cranston, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "Petition of RHODE ISLAND DEFENSE ATTORNEYS ASSOCIATION.\nNo. 79-330-M.P.\nSupreme Court of Rhode Island.\nJan. 10, 1980.\nAram K. Berberian, Cranston, for petitioner."
+  },
+  "file_name": "0137-04",
+  "first_page_order": 185,
+  "last_page_order": 186
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12484903,
+  "name": "Commonwealth v. Wallace A. Holley",
+  "name_abbreviation": "Commonwealth v. Holley",
+  "decision_date": "2016-05-03",
+  "docket_number": "NO. 74 MAL 2016",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 147,
+    "sha256": "570c4bd367bf6a20447ea463e3a9fad012a9dd36500d58111ab0824e3083aa57",
+    "simhash": "1:949e566e01e00dd8",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nWallace A. Holley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nWallace A. Holley\nNO. 74 MAL 2016\nSupreme Court of Pennsylvania\nMay 03, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0002-12",
+  "first_page_order": 2,
+  "last_page_order": 2
+}

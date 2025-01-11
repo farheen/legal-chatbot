@@ -1,0 +1,59 @@
+{
+  "id": 6082756,
+  "name": "Ex parte Herbert O. Naumann",
+  "name_abbreviation": "Ex parte Naumann",
+  "decision_date": "1947-05-05",
+  "docket_number": "No. 5305",
+  "first_page": "1208",
+  "last_page": "1208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 120,
+    "ocr_confidence": 0.44,
+    "sha256": "9263e5868c1626f688e7f0b1f94d9e484c045f13c45b45e92a4ec806e9ffc77e",
+    "simhash": "1:7762bf18c93d318c",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Herbert O. Naumann"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process and apparatus for the wet treatment of yarn.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 5, 1947\nEx parte Herbert O. Naumann\n(No. 5305)."
+  },
+  "file_name": "1208-08",
+  "first_page_order": 526,
+  "last_page_order": 526
+}

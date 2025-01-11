@@ -1,0 +1,602 @@
+{
+  "id": 8090931,
+  "name": "The STATE of Delaware, v. Thomas H. WINSETT, Wilbert A. Weekley, and Edward J. Mayerhofer",
+  "name_abbreviation": "State v. Winsett",
+  "decision_date": "1968-02-02",
+  "docket_number": "",
+  "first_page": "821",
+  "last_page": "834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "238 A.2d 821"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del. Super. Ct.",
+    "id": 9286,
+    "name": "Delaware Superior Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "349 U.S. 936",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11354987,
+        11355276,
+        11354892,
+        11355085,
+        11355196
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/349/0936-02",
+        "/us/349/0936-05",
+        "/us/349/0936-01",
+        "/us/349/0936-03",
+        "/us/349/0936-04"
+      ]
+    },
+    {
+      "cite": "177 A.2d 344",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 A. 2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "205 A.2d 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 A.2d 780",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 A.2d 777",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8096121
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/230/0777-01"
+      ]
+    },
+    {
+      "cite": "1 A.L.R. 3d 1205",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R. 3d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "378 U.S. 368",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166505
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0368-01"
+      ]
+    },
+    {
+      "cite": "222 A.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8103861
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/222/0781-01"
+      ]
+    },
+    {
+      "cite": "205 A.2d 510",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "520"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 N.E. 2d 836",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "286 N.Y.S.2d 827",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 N.Y.2d 118",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2282487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/21/0118-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 433",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785566
+      ],
+      "weight": 3,
+      "year": 1961,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0433-01"
+      ]
+    },
+    {
+      "cite": "371 U.S. 471",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        450611
+      ],
+      "weight": 3,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0471-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 707",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181228
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0707-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164855
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0001-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 737",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047392
+      ],
+      "weight": 4,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0737-01"
+      ]
+    },
+    {
+      "cite": "200 A.2d 692",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 A.2d 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 A.2d 347",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "222 A.2d 326",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8101676
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/222/0326-01"
+      ]
+    },
+    {
+      "cite": "222 A.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 L.Ed. 1801",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "338 U.S. 49",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3946942
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "54"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/338/0049-01"
+      ]
+    },
+    {
+      "cite": "360 U.S. 315",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8889
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "320-321"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/360/0315-01"
+      ]
+    },
+    {
+      "cite": "365 U.S. 534",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167547
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "540-541"
+        },
+        {
+          "page": "739"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/365/0534-01"
+      ]
+    },
+    {
+      "cite": "114 N.W. 112",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 Wis. 601",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8701265
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/133/0601-01"
+      ]
+    },
+    {
+      "cite": "99 L.Ed. 1265",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 S.Ct. 788",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 P.2d 744",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Cal.2d 16",
+      "category": "reporters:state",
+      "reporter": "Cal. 2d",
+      "case_ids": [
+        4373025
+      ],
+      "pin_cites": [
+        {
+          "page": "30-31"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-2d/44/0016-01"
+      ]
+    },
+    {
+      "cite": "204 N.E.2d 176",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "255 N.Y. S.2d 838",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 N.Y.2d 72",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2271474
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/15/0072-01"
+      ]
+    },
+    {
+      "cite": "216 N.E.2d 588",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 N.Y.S.2d 422",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 N.Y.2d 185",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "case_ids": [
+        2275553
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-2d/17/0185-01"
+      ]
+    },
+    {
+      "cite": "4 L.Ed.2d 1833",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "361 U.S. 199",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167093
+      ],
+      "weight": 6,
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/361/0199-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765474
+      ],
+      "weight": 4,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0293-01"
+      ]
+    },
+    {
+      "cite": "356 U.S. 560",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164736
+      ],
+      "weight": 5,
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "566"
+        },
+        {
+          "page": "980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/356/0560-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 528",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765184
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0528-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 719",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047240
+      ],
+      "weight": 4,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0719-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 4,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166688
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0478-01"
+      ]
+    },
+    {
+      "cite": "389 U.S. 35",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11333825
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0035-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1545,
+    "char_count": 40246,
+    "ocr_confidence": 0.74,
+    "pagerank": {
+      "raw": 2.7577862741620837e-07,
+      "percentile": 0.8333157647414965
+    },
+    "sha256": "3b09f11f045f5977bb9b51c9a251824df8a2fb8bd8048eb5b8a6cda27208cbcc",
+    "simhash": "1:3b6844e0fe75020a",
+    "word_count": 6952
+  },
+  "last_updated": "2024-02-27T16:29:55.178470+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The STATE of Delaware, v. Thomas H. WINSETT, Wilbert A. Weekley, and Edward J. Mayerhofer."
+    ],
+    "opinions": [
+      {
+        "text": "DUFFY, Chancellor:\nThomas H. Winsett, Wilbert A. Weekley and Edward J. Mayerhofer were convicted of crimes arising out of the death of Robert A. Paris, a State of Delaware police officer, on October 17, 1963. Winsett was convicted of murder in the first degree with a recommendation of mercy, and Weekley and Mayerhofer were convicted as accomplices. Thereafter, defendants filed post-trial motions, all of which were denied. 205 A.2d 510 (1964). The convictions and the ruling on the motions were affirmed by the Delaware Supreme Court. 222 A.2d 781 (1966).\nActing under Rule 33, Del.C.Ann., and relying on Jackson v. Denno, 378 U.S. 368, 84 S.Ct. 1774, 12 L.Ed.2d 908, 1 A.L.R. 3d 1205 (1964), Weekley moved for a new trial or alternatively for a special hearing on the question of the voluntariness of certain statements made by him and admitted into evidence. After briefing and argument the Court granted the motion and ordered such a special hearing. Del. 230 A.2d 777 (1967); on application, similar relief was given to Winsett and Mayer-hofer. A hearing was held on June 29, 1967, after which the issues were briefed by counsel and argued on November 2. This is the decision thereon.\nA.\nThe sole issue now to be decided is the voluntariness, or lack thereof, of statements made by each defendant and admitted into evidence at trial against the defendant who gave them. This is required because, as I have said previously, the record does \u201cnot contain the express determination * * * as to voluntariness which I believe Jackson requires.\u201d 230 A.2d 780. It is necessary to keep this limited scope in mind because defendants, ranging far and wide in their briefs and arguments, attempt to renew their attack on the voluntariness of the statements as a matter of law, a contention which they made before and lost both here and in the Supreme Court. 205 A.2d 524 and 222 A. 2d 787. Hence the rule of the case, affirmed by the Supreme Court, is that the statements are not inadmissible as a matter of law under Federal and State decisions. Compare Jackson v. Denno, supra. For this reason I do not regard myself as free to re-examine that question, and such decisions as State v. Dekoenigswarter, Del., 177 A.2d 344 (1962) and Beecher v. State of Alabama, 389 U.S. 35, 88 S.Ct. 189, 19 L.Ed.2d 35 (1967), are relevant only to the extent that they help fix standards for determining voluntariness.\nThe distinction thus made is critical to an understanding of the case as it is now before the Court. In the logical order of things the motions and the issue they submit seem out of season, but the chronology merely points up the impact which decisions of the United States Supreme Court have had on the administration of justice in a case the trial of which began before such decisions were known or announced. The trial of this case began with a three-day voir dire hearing on June 3, 1964, all of which was directed to the admissibility of the statements. The ruling admitting the statements was made on June 15, 1964, and that was before the Supreme Court decided Jackson, supra; Escobedo v. State of Illinois, 378 U.S. 478, 84 S.Ct. 1758, 12 L.Ed. 2d 977 (1964); Miranda v. State of Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L. Ed.2d 694 (1966); Johnson v. State of New Jersey, 384 U.S. 719, 86 S.Ct. 1772, 16 L. Ed.2d 882 (1966), and other related rulings on which defendants here rely. And the present Rule 33 motions, filed almost three years after trial, focus on a narrow but now critical facet of the trial itself: independent findings of fact as to the vol-untariness of the statements.\nB.\nFor present purposes, the record consists of:\n(1) The preliminary hearing before Mag- \u25a0 istrate Peden on November 1, 1963;\n(2) The hearing before Judge Storey on December 12, 13, 16, 17, 1963;\n(3) The voir dire hearing before me on June 3, 4, 5, 1964;\n(4) The trial transcript covering the period June 8 to June 24, 1964;\n(5) The hearing conducted on June 29, 1967 with respect to voluntariness.\nI am not going to analyze this record. 1 have reviewed it and considered it together with the briefs and arguments of counsel.\nC.\nTo be voluntary, a statement, written or oral, must have been given without duress or coercion. It must have been given free of any promises or threats by others. A statement which was prompted by mental or physical coercion, or by duress or intimidation, is not voluntary because it was not the product of a free will. Cf. State v. Winsett, Del., 205 A.2d 510, 520 (1964).\nThe question in each case is whether defendant\u2019s will was \u201coverborne\u201d at the time he made the statement. Lynumn v. State of Illinois, 372 U.S. 528, 83 S.Ct. 917, 9 L.Ed.2d 922 (1963.) If in fact defendant\u2019s will was overborne, or if the st\u00e1tement was not the product of a rational and intelligent free will, it was not voluntarily made because it was coerced. Payne v. Arkansas, 356 U.S. 560, 566, 78 S.Ct. 844, 2 L.Ed.2d 975, 980 (1958). Townsend v. Sain, 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963).\nThe judgment must be based on the \u201ctotality of the circumstances.\u201d Blackburn v. State of Alabama, 361 U.S. 199, 80 S.Ct. 274, 4 L.Ed.2d 242 (1960). Factors which bear on these circumstances include the following: defendant\u2019s age and mental condition (whether he was \u201cdull,\u201d for example), whether he was denied a hearing before a magistrate, whether he was advised of his right to remain silent or his right to counsel, whether he was held incommunicado and if so how long, whether he was denied food for long periods, whether there were any threats of mob violence, the legality of his arrest, Payne v. State of Arkansas, supra; defendant\u2019s educational background and experience, his emotional stability or lack thereof, his record as to former crimes, whether the police used subterfuge in obtaining the statement, whether the statement was composed by a police officer, whether defendant had the aid of counsel or relatives or friends, whether there was prolonged police questioning of defendant. Ann.: Admissibility of Confession, 4 L.Ed.2d 1833.\nD.\nDefendants contend that they were hungry, wet, cold, fatigued and frightened. They say that they were \u201con the run\u201d and in hiding for approximately thirty-six hours and knew that they were being sought for a homicide in which a policeman was killed. And they point out that they were taken at gunpoint by a police poss\u00e9, armed with shotguns, rifles and pistols. Defendants argue that it is against this background that the statements were made and that these are significant factors which show them to be involuntary.\nOf course the coercion of a statement at gunpoint from a cold, hungry, frightened person is anathema to any notion of justice or fairness and the result is inadmissible because it violates both the Fifth and Fourteenth Amendments. But does that adequately and completely describe this case? I turn now to the evidence and the law to be applied to it.\n(1)\nThe circumstances of arrest are vital to an understanding of what took place, and this requires a consideration of certain legal principles applicable at that time.\nThe New York Court of Appeals recently discussed these in a case not unlike this one in significant respects. People v. Hill, 17 N.Y.2d 185, 269 N.Y.S.2d 422, 216 N.E.2d 588 (1966). That case, like this one, involved the first Huntley hearing. People v. Huntley, 15 N.Y.2d 72, 255 N.Y. S.2d 838, 204 N.E.2d 176 (1965). The Court there was called upon to consider statements made by a defendant while the police were using force to arrest him. The Court said:\n\u201cAlthough the issue is one of first impression in this State, courts of other jurisdictions have held that the use of reasonable force in subduing a defendant or in effecting his arrest does not impair the voluntariness of a statement made by him during his subjugation or render such statement inadmissible. (See, e. g., People v. Burwell, 44 Cal.2d 16, 30-31, 279 P.2d 744, cert. den. 349 U.S. 936, 75 S.Ct. 788, 99 L.Ed. 1265; Anderson v. State, 133 Wis. 601, 114 N.W. 112.)\u201d\nThe rationale to which the Court pointed in distinguishing \u201capprehension\u201d situations from backroom interrogation in a police station is illustrated by its reference to U. S. Supreme Court opinions. Thus:\n\u201cConfessions which are involuntary are inadmissible \u2018not because [they] are unlikely to be true but because the methods used to extract them offend an underlying principle in the enforcement of our criminal law\u2019 and violate procedural standards of due process. (Rogers v. Richmond, 365 U.S. 534, 540-541, 81 S.Ct. 735, 739, 5 L.Ed.2d 760; see Spano v. People of State of New York, 360 U.S. 315, 320-321, 79 S.Ct. 1202, 3 L.Ed.2d 1265; Blackburn v. State of Alabama, 361 U.S. 199, 80 S.Ct. 274, 4 L.Ed.2d 242; Watts v. State of Indiana, 338 U.S. 49, 54, 69 S.Ct. 1347, 93 L.Ed. 1801.)\u201d\nThe Court went on to discuss the relationship between force used to make an arrest and statements given thereafter by the accused:\n\u201cNor does the use of force to accomplish the defendant\u2019s arrest taint the incriminating statements which were subsequently given to the police and the district attorney at the station house. [Citations omitted.]\u201d\nI adopt as Delaware law the conclusions of the New York Court of Appeals that (a) the use of reasonable force in effecting an arrest does not in itself impair the voluntariness of a statement made by a defendant during his subjugation or thereby render such statement inadmissible; and (b) the use of such force does not necessarily taint an incriminating statement thereafter given to the police.\n(2)\nThe actual apprehension took place in a relatively short period of time, about twenty minutes. This is measured from the moment the police first arrived at the site until each defendant was in a police car about fifty yards from the point of apprehension. Defendants were taken, captured, at gunpoint a few yards from the place where they had recently abandoned their weapons. All defendants were required, commanded, to hold up their hands and then to lie face down on the ground within a space of about ten feet. Each defendant was frisked and cuffed with his hands behind his back.\nAs police officers converged on the scene, which was the culmination of the manhunt, there was some \u201cconfusion,\u201d but not an undue amount considering what was occurring. There was swearing by some police officers which consisted of the use of the phrase \u201cS. O. B.\u201d (in its full text) in commanding defendants as to what was to be done as part of the apprehension.\nIn making the capture the police had a right to use such force as was necessary to effect the arrests, particularly when they had reasons to believe that defendants, or one or more of them, had participated in a killing in which a gun was used. 11 Del.C. \u00a7 1904. Cf. People v. Hill, supra. I find as a fact that in making the apprehension and arrest the police used no more force than was necessary under the circumstances. In saying this I reject any argument which defendants make as to tight handcuffs, profanity, nudges, kicks and other conduct alleged to amount to excessive force whether considered singly or cumulatively. And the use of such force does not impair the voluntariness of any statement made by any defendant during his subjugation or thereafter, or render such statement inadmissible.\n(3)\nThe condition of each defendant was clearly the result of his own conduct. By their own testimony defendants knew that they were wanted by the police and they knew that the police were searching for them. It was by their choice that the search continued because they chose to continue to evade the police. And now they seek to take advantage of the situation, which they themselves created, by arguing that those conditions prompted them to make statements which were involuntary.\nIn this context defendants\u2019 condition as to hunger, fatigue and the like can in no way be attributed to improper conduct on the part of the police. On the contrary, if anything, it resulted from the police taking action which they were obliged to take, i. e., to search for, find and arrest persons whom the police had reason to believe were involved in a homicide. But assuming that defendants have a right to rely on self-created conditions, a matter as to which I have doubt, the complete answer is that I do not find any causal connection between their hunger, fatigue, wetness and cold, and the statements which they gave. And I say this whether those conditions be considered in isolation or in combination with other factors in the case.\n(4)\nI next turn to defendants\u2019 contentions that they responded to police questioning out of fear or fright. The States argues that this is not a relevant consideration, but I believe that it is. I say this because under Blackburn, Payne and other authorities referred to above, a defendant\u2019s age, mental condition, educational background, emotional stability and the like are pertinent. And by analogy whatever fear a defendant may know at the time he makes a statement is equally relevant and material. In short, the \u201ctotality of the circumstances\u201d test calls into play two general factors: the defendant\u2019s \u201cpersonal\u201d condition (at least other than self-created conditions which I have already discussed) and police conduct.\nThe application of these factors quite clearly cannot be made in any mechanical or abstract way; intimidation, subtlety or subterfuge, for example, which overbears one man may not even budge the next one. Hence the evidence must be weighed and tested before arriving at a finding. And here the pertinent evidence as to the fear or fright of each defendant is discussed below.\n(5)\nAs to defendants\u2019 contentions that they were neither provided with counsel nor warned of their right to be silent, the Delaware Supreme Court has already established the law in these cases, saying, at 222 A.2d 787:\n\u201c * * * The question before us is whether the statements were made voluntarily; if they were, failure to provide counsel or to inform defendants of their right to remain silent does not require a reversal.\u201d\nSee, also, People v. Hill, supra; and Parson v. State, Del., 222 A.2d 326 (1966).\nE.\nI now consider each defendant separately, but before doing, so I note that this is by no means the classic case of backroom interrogation in a police station. And the elements commonly found there are conspicuously absent here. Thus, there was no unending interrogation, no long questioning. Defendants were not deprived of food, drink or medical assistance. They were not held incommunicado for a long period of time. They were not threatened by mob violence. With the exception of Weekley\u2019s request to talk to a public defender before signing a statement, they did not request counsel. They were not denied counsel. The statements were not composed by police officers, and neither trickery nor subterfuge was employed by the police in obtaining them. And defendants were not impoverished illiterates with only a few years of schooling.\nThe questioning by police was relatively brief; each defendant was provided with hot food and drink, Weekley was promptly given medical assistance, and indeed the treatment was such that both Winsett and Mayerhofer independently later expressed their gratitude to police officers for the reasonable way in which they had been treated. It is true that Mayerhofer was deprived of some of his clothing for a short period of time, but I am satisfied that that was incidental to his processing and that it was not unreasonable in either time or purpose.\nI now turn to the evidence relevant to each defendant only and, in reviewing it, I have looked at it in terms of three events or time periods: (i) the apprehension: I have already determined that the police at this time used no more force than was necessary under the circumstances and the use of such force does not impair the voluntariness of any statement later given; and (ii) from the place of apprehension to the police station; and (iii) at the police station.\n(1) As to Weekley\nWeekley testified that no one touched or threatened him while he was in the police car. Prior to the time he reached the police station, the only significant evidence as to a statement by him followed a comment by Sergeant James P. McGrory :\n\u201cQ. Sergeant, what again was it that you said?\nA. I said to Mr. Weekley, \u2018You have killed a good one.\u2019\nQ. And did he say anything?\nA. His response was, \u2018I don\u2019t know why you keep blaming me. It was Tommy.\u2019 \u201d\nAs in Hill, the statement was exculpatory and indeed Sergeant McGrory\u2019s words were not interrogative in form or character, nor did they call for a reply. And Detective John B. Daniels testified that Weekley said he tried to push or kick the gun away (apparently from Winsett).\nAt the police station Weekley was questioned for about ten minutes, and then when Dr. Charles W. Wagner arrived to examine his wound he was left alone with the doctor. The doctor left, the interview continued and the doctor returned some thirty minutes later and again Weekley was left alone with him. Weekley told the doctor he was unable to take penicillin and was given other forms of medication.\nWhen the written statement was completed, Weekley refused to sign it. He initialed the first four pages but refused to sign it because, in his own words, \u201cI felt if I hadn\u2019t signed it they couldn\u2019t use it.\u201d For this reason Weekley, by his own testimony, gave a statement up to the point when! he was asked to sign it. In my judgment his testimony clearly confirms the volun-tariness, in fact, of what he said. It shows, in short, that he knew when he wanted to stop, and he did so. That he was mistaken. as to the admissibility of the statement \u25a0 he gave in no way reduces its voluntary' character.\nI should also note that a fifth page to Weekley\u2019s statement was made and signed by him. In that supplement Weekley said that he and Mayerhofer had planned to give themselves up as soon as they could see their wives and make arrangements for their welfare.\nAs to Weekley, I find that prior to the time he reached the station house he was not asked a single question by the police. But he did volunteer a statement (\u201cIt was Tommy.\u201d) after comment by a police officer. At the station house Weekley was not coerced in any way by the police. Questions were asked, he answered them until he decided to go no further and so he refused to sign the statement (and he never did sign it).\nConsidering Weekley\u2019s age, prior experience and the evidence referred to above, I conclude that whatever fear or fright he may have experienced prior to the time he was interrogated at the police station did not overbear his will and prompt him to make a statement or to give responses which were otherwise involuntary. And this is so whether his \u201ccondition\u201d is considered in isolation or in combination with police conduct.\n(2) As to Mayerhofer\nAfter apprehension and on the way to the car, Mayerhofer was asked by Detective James L. Ford who did the shooting. Mayerhofer said, \u201cTommy.\u201d In the car Mayerhofer was asked the same question by Detective Gerald J. Dougherty and he gave a similar response. As in Weekley\u2019s case, Mayerhofer\u2019s response in both instances put the blame for the shooting on Winsett.\nMayerhofer testified that Detective Dougherty was emotionally upset both in the car and in the police station. And he also testified that the only \u201cthreat\u201d made; against him was by Detective Dougherty. But, according to Mayerhofer\u2019s own testimony, Detective Dougherty was not present in the station when the interrogation began. Thus, Mayerhofer testified on direct examination :\n\u201cA Well, Detective Dougherty was asked to leave the room at that time.\nQ By whom?\nA I am not sure, one of the officers asked him.\nQ He left in any event?\nA Yes, sir, he left.\u201d\nAgain, according to Mayerhofer, Detectives Hurlburt and Ford then remained with him, his clothing was examined and thereafter the questioning began.\nOn direct examination Mayerhofer testified that he was afraid to ask that his clothing be returned, and when he was asked why he said:\n\u201cA Well, I would say that the whole procedure had me afraid, the seeing of Winsett kicked, the knowing of the State Trooper being killed, as I said, the taking my clothing from me, this whole procedure had me frightened.\u201d\nI do not find this response convincing. I note, for example, that on direct examination he had testified flatly that he could not say that Winsett had been kicked; the most he saw was a kick \u201ctoward Mr. Winsett.\u201d In addition, his own testimony establishes that his clothing was taken from him and kept in front of him while the detectives examined it. And there was no mysterious police purpose in doing so. It was part of the examination of both Mayerhofer and his clothing. And, as to the examination of his person, Mayerhofer was given a mirror so that he could see his own scratches and then he was asked to concur with the notations made by Detective Hurlburt. He did so.\nThe cause of whatever fear or fright Mayerhofer felt is stated in his own words. On direct examination he was asked about his state of mind at the time he entered the police station.\n\u201cQ. What caused you to be frightened at this particular point?\nA. Well, when I had seen the newspaper article that a State Trooper had been killed and that I was possibly involved, that frightened me.\u201d\nThis relates to events before apprehension and I regard it as the key to Mayer-hofer\u2019s state of mind before arrest, before he arrived at the station and thereafter. His earlier responses to Detectives Ford and Dougherty are consistent with this concern at possible personal involvement in the homicide. And his statements at the station were made after Detective Dougherty had left the interrogation room. It is also worth notice that Mayerhofer had on a prior occasion been interviewed by police officers in New York and had given them a statement.\nI conclude that whatever fear or fright Mayerhofer may have experienced at any time he was questioned by Delaware police, considering the situation in which he found himself and his implied desire to disassociate himself from the homicide, did not overbear his will and prompt him to make a statement or to give responses which were otherwise involuntary. And this is so whether his \u201ccondition\u201d is considered in isolation or in combination with police conduct.\n(3) As to Winsett\nWinsett contends that statements which he made were involuntary because they resulted from police coercion and/or the situation in which he found himself.\n(a) Winsett argues that the police continued to use \u201cforce at the scene of apprehension after the apprehension and arrest had been accomplished.\u201d This is directed primarily to the \u201cnudge\u201d or \u201ckick\u201d by Officer Charles L. Bowen of the New Castle Town Police. The testimony is in conflict as to which word more accurately describes what took place. As to purpose, the officer testified that he did what he did because :\n\u201cA Winsett lied down but he lied down on his back instead of his stomach, which he was told to lie on his stomach.\nQ And what happened?\nA I ordered him to turn over on his stomach, which he did not on the first order.\u201d\nNone of the personnel who examined Winsett when he was admitted to the Correctional Institution next morning noted any scars or bruises or marks on his face in the area where he said he was kicked. And, significantly, Dr. William J. Vander-vort, the Medical Director of the Institution, testified:\n\u201cQ. Now referring to the other report could you tell me, sir, what \u2014 if you need to refer to it to refresh your recollection \u2014 what condition, if any, did you observe and find with respect to his face?\nA. His what?\nQ. Face.\nA. He had several scratches over his left face. I think this was the only acute change.\nQ. Did you notice anything on the left side of the face which appeared to be a bruise or swelling or abrasions?\nA. I would think that perhaps some of the scratches could be called an abrasion. I did not list an abrasion as such.\nQ. Did you see anything which appeared to be, or appeared that it could be a bruise?\nA. Not to my recollection. Scratches was the way I described it.\u201d\nAnd Dr. Vandervort\u2019s contemporaneously prepared notes were available at the hearing.\nThe nature of the contact, whether nudge or kick, has been a subject of much inquiry at the hearings and continuing argument in the briefs. I have re-examined the photographs of Winsett which were taken when he was admitted to the Institution, but I cannot identify the marks on Winsett\u2019s face as an abrasion or bruise, and not a scratch. On balance I am persuaded by Dr. Vandervort\u2019s testimony and the inferences to be drawn from it that Winsett was not kicked in the manner and for the purpose which he argues. In addition, whatever the action by Officer Bowen, it was incidental to the apprehension itself.\n(b) Winsett contends that his left ankle was \u201cstomped\u201d upon by Trooper Harlan Tull while they were in the police car and when he did not immediately answer a question. Tull denied doing so.\nWhen Winsett was admitted to the Correctional Institution next morning he had an injured left ankle. At that time, according to the admitting personnel, he said that \u201ca State Trooper had stepped on it accidentally at the time of his arrest.\u201d Dr. Vandervort noted that the ankle was \u201csprained\u201d and that there was no evidence of any significant injury.\nWinsett disputes the testimony that attributes to him a statement that the stepping was \u201caccidental.\u201d He admitted using the word but said that he was talking about the blow to his head and was doing so sarcastically.\nOn the basis of the related evidence, I reject Winsett\u2019s testimony. I do so in light of Dr. Vandervort\u2019s testimony and that of Detective Knecht who examined Winsett within an hour of the alleged event. He said :\n\u201cMr. Winsett on his left lower leg in the front, in the shinbone area, had a laceration there that had blood congealed over, a scab of some nature on him, and it wasn\u2019t fresh.\u201d\nThat testimony is not disputed.\n(c) While Winsett was being taken to a police car he was asked if he had done the shooting. Later, in the car, he was asked the same question. Winsett argues that the police conduct referred to above, coupled with his fear of being struck, hit or killed, made him give involuntary answers to the police questions. In short, he argues that the police made \u201cdemands\u201d upon him and that there was continuing \u201cpolice force\u201d' upon him for the specific purpose of \u201cgetting his confession.\u201d\nI do not read the record as supporting Winsett\u2019s contentions that there were demands upon him or that continuing police force was applied against him for the purpose of getting his confession.\nThe conduct of which he complains involves a blow from behind as he got into the police car, a kick in the head during apprehension, and a stomp on the ankle while he was in the car. The latter two and their significance I have already discussed. As to the blow, Winsett testified that he \u201ccomplained to the doctor of a pain in the right side of\u201d his neck. But Dr. Vandervort did not list any such complaint. In view of the complete examination which the Doctor made and the notes he kept, I find that Winsett was not struck in the manner and for the purpose he argues.\nThe reality is that Winsett\u2019s primary complaint relates to the circumstances of capture and arrest. Those circumstances involved lawful conduct by the police, and this distinguishes such cases as Wong Sun v. United States, supra, where a statement was induced by an unlawful invasion of defendant\u2019s house by the police. And the absence of police duress bordering on the unlawful distinguishes this case from State v. De Koenigswarter, supra, where \u201cdefendant had seen her companion twice beaten in the presence of several police officers for passively resisting arrest in connection with a minor charge.\u201d 177 A.2d 347.\nAs to the contemporaneous circumstances, the statements were not, in the language of Malloy v. Hogan, supra, \u201cextracted by any sort of threats of violence, nor obtained by any direct or implied promises, however slight, nor the exertion of any improper influence.\u201d There was no \u201cextraction\u201d here of an answer to the questions put to Winsett by the use of any sort or kind of threat or violence. There was no \u201cimproper\u201d influence. Winsett was asked several questions. He answered them. He was not \u201ccompelled\u201d to incriminate himself.\n(d) It is undisputed that at the police station Winsett was subjected to some verbal abuse. But this was minimal and in my judgment did not \u201ccause\u201d the statements which he made when he was alone with Detectives William Knecht and Franz Rass-man. Indeed, in his own testimony on direct examination he stated that he had nothing to complain about as to the way these two men had treated him :\n\u201cQ. Now you have heard the testimony about your arrival at the Correctional Institution, the New Castle County Correctional Institution ?\nA. Yes, I have.\nQ. Detectives Knecht and Rassman were with you then, were they not?\nA. I believe they were. Yes, sir.\nQ. As you and they parted that morning after you had been taken to the New Castle County Correctional Institution, would you tell us as best you recall what occurred between you and them?\nA. Well, I believe I was sitting on a bench and I stood up and I took Detective Rothman\u2019s hand and I said, \u2018You have been courteous and I appreciate it.\u2019\nQ. As a matter of fact had Detective Rassman and Detective Knecht, since the time you came into contact with them in tha'. interrogation room, had they been courteous to you?\nA. Yes, sir, they had.\nQ. They had made no threats to you ?\nA. No, sir, they did not.\nQ. They made no promises to you?\nA. No, sir.\nQ. You had nothing to complain about about the way those two men had treated you?\nA. No, sir, I do not.\u201d\n(e) Finally, as to Winsett, I turn to his contention that his statements and responses to questions were made out of fear or fright. I have already determined that police conduct both at apprehension and thereafter, was neither coercive in purpose nor in fact insofar as compelling answers by Winsett was concerned. But did the totality of the circumstances produce in Winsett such a fear or fright as to overbear his will and prompt him to make a statement or to give responses which he would not otherwise have given?\nHe argues, strongly, that they were. And by one analysis they may seem so. He was, for example, upset when Detective Knecht first saw him at the police station, and this tends to corroborate his argument. But there are other factors to consider.\nFirst, his background. Winsett was thirty years old, with the equivalent of a high school education. He had been in the military service for two years. Winsett had been interviewed by police officers before, in a police station, on more than one occasion; and on at least one occasion he had been interviewed at night in a police station by a police officer. So he was experienced in police interrogation.\nSecond, the events before capture. Win-sett had been \u201con the run\u201d for about thirty-six hours during part of which time he knew that the police were searching for him. It seems reasonable to infer that he at least had an opportunity to consider what he would do if he were apprehended. During the time before apprehension he was armed. Asked on direct examination when he first realized that there were police officers near him, he said:\n\u201cA. I heard a siren, several sirens nearing the area. I assumed that the police were after myself and my companions. I immediately hid some guns that we had \u2014 that I had on me.\nQ. Where did you hide those?\nA. Under some brush, heavily wooded area.\nQ. You took them off your person?\nA. Yes, sir.\u201d\nThird, the first question. When T*ull asked the first question, Winsett was not then surrounded by police officers with loaded weapons waiting for his reply. He was handcuffed, with Tull\u2019s hands on him, walking to the car. By his own argument, however, apprehension had ended at this time and he was on his way to the police station.\nFourth, the origin of Winsett\u2019s fright or fear. Winsett was asked where his fear came from. He replied: Winsett went on to say that he \u201crealized\u201d that a man involved in a shooting of a policeman was generally killed. On direct examination he testified that he had \u201calways read in the paper one thing another that anyone who shoots at a State policeman, or any policeman for that matter, doesn\u2019t go to trial; they are killed upon arrest.\u201d He was unable to identify any source of such information and the assertion stands without corroboration of any kind.\n\u201cA. As I have said, Mr. Mayerhofer had been out to the diner and he had seen over someone\u2019s shoulder an article or headline of an article in the paper that a State policeman had been killed at a motel shooting. And I think that when he came back there was some discussion among us on that and I realized that it could be myself involved.\nQ. It could be yourself involved and this made you frightened for your life ?\nA. It certainly did.\u201d\nI conclude that prior to arrest Winsett may have been concerned about the situation in which he found himself, a fugitive wanted in connection with a homicide. And he may have been aware of what might finally follow from that. But I reject his argument that any fear, whether induced by that kind of worry or by police conduct, made him make a statement or give responses which were otherwise involuntary. When he gave the first significant statement the apprehension had been made, there were no guns pointed at him by menacing police officers leveling him down while waiting for a reply, no blows were being struck, no pushing was being done, no physical force of any kind was being exerted except that required to keep him in custody. Trooper Tull asked the question, he answered it, apparently without hesitation.\nIn these circumstances I cannot conclude that he spoke from fright or fear or gave responses which were otherwise involuntary. Indeed, the self-defense aspect of the case which he mentioned on the way to the station and thereafter may have given him a reason for speaking. But, in any event, I am satisfied that if fear played any part in his responses it was fear for what might ultimately happen to him because of his involvement, and not fear of refusing to answer a police question.\nI conclude that Winsett\u2019s will was not overborne by either his condition or police conduct at the critical times in question.\nF.\nI have considered other arguments made by defendants including failure of the police, before the first questions were asked, to warn of a right to remain silent and of a right to counsel. Under the facts of these cases, I do not regard such failure as persuasive on the question of voluntariness. As to the other arguments, I find them to be without merit.\nI conclude that for evidentiary purposes defendants\u2019 statements were voluntary and properly submitted to the jury. All motions are denied. It is so ordered.\n. While sitting in the Superior Court, I presided at the trial of these cases and I have been assigned to them, under Art. 4 \u00a7 13 of the Delaware Constitution, Del. C.Ann.\n. Rulings on pre-trial motions appear at 200 A.2d 237 (1964) and 200 A.2d 692 (1964). During the trial I excluded, on defendants\u2019 motions, substantially all evidence relating to statements, taping sessions, re-enactments and other matters which occurred after defendants gave written statements at the police station. As a result, the only evidence as to statements heard by the jury covered the period from about 5:30 P.M. to about 10:00 P.M. on October 18, 1963.\n. See Johnson v. State of New Jersey, supra, and Davis v. State of North Carolina, 384 U.S. 737, 86 S.Ct. 1761, 16 L.Ed.2d 895 (1966). The standard of voluntariness in State eases is now the same as in Federal prosecutions. Mal-loy v. Hogan, 378 U.S. 1, 84 S.Ct. 1489, 12 L.Ed.2d 653 (1964). Failure to warn of a right to remain silent or right to counsel (as required by Miranda v. State of Arizona, supra) are \u201csignificant factors\u201d in determining voluntariness.\n. Compare, for example, the facts in this case with those which were before the United States Supreme Court in many of the cases on which defendants rely. A \u201ccolor-matching\u201d test is not required to point up the differences. Thus, in Beecher v. State of Alabama, supra, defendant was ordered at gunpoint to speak his guilt or be killed, and a gun was fired next to his ear; he was wounded at the time and was under morphine sedation when he later signed two \u201cprepared\u201d statements. Clewis v. State of Texas, 386 U.S. 707, 87 S.Ct. 1338, 18 L.Ed.2d 423 (1967), involved a defendant who was held for some thirty-eight hours and subjected to intermittent interrogation before he was taken to a magistrate; he had had little sleep, little food, and to the police he appeared to be ill. And the appearance before the magistrate was followed by more interrogation and tests. In Davis v. State of North Carolina, supra, defendant, \u201can impoverished Negro with a third or fourth grade education,\u201d was taken into custody by police and interrogated repeatedly over a period of sixteen days while he was given a \u201climited\u201d diet (he lost fifteen pounds) and was in fact held incommunicado. In Lynumn v. State of Illinois, supra, defendant was told by police officers who were encircling her in her apartment that state financial assistance to her children would be cut off and they would be taken from her if she did not \u201ccooperate.\u201d In Wong Sun v. United States, 371 U.S. 471, 83 S.Ct. 407, 9 L.Ed.2d 441 (1963), defendant\u2019s statements were made after six or seven officers had unlawfully invaded the bedroom where his wife and child were sleeping, and it was those circumstances which \u201cinduced\u201d the statements. In Townsend v. Sain, supra, defendant was a confirmed heroin addict whose illness and need were coercively used by the police. Reck v. Pate, 367 U.S. 433, 81 S.Ct. 1541, 6 L.Ed. 2d 948 (1961), involved a nineteen-year-old mental defective who was in police custody for some eighty hours without counsel, without contact with his family, without court appearance and without bail or charge; during long questioning, relentless and incessant, and without food, he became ill and the record carried \u201can unexpressed import of police brutality.\u201d In Blackburn v. State of Alabama, supra, defendant had a history of mental illness and was probably insane at the time he was questioned for a sustained period of over eight hours and finally gave a statement composed by a deputy sheriff. In Spano v. People of State of New York, 360 U.S. 315, 79 S.Ct. 1202, 3 L.Ed.2d 1265 (1959), the police extracted a statement by official pressure, fatigue and sympathy falsely aroused by artifice. And in Payne v. State of Arkansas, supra, defendant was a nineteen-year-old Negro who was held incommunicado for some two days in circumstances where there was a threat of mob violence.\n. R. 338 \u2014 12/16/63\n. R. 887 \u2014 6/15/64\n. E. 88 \u2014 6/29/67\n. E. 1128 \u2014 6/16/64\n. E. 262 \u2014 6/3/64\n. E. 784 \u2014 12/17/63\n. E. 517 \u2014 6/3/64\n. E. 519 \u2014 6/3/64\n. E. 522 \u2014 6/3/64\n. R. 510 \u2014 6/3/64\n. R. 264 \u2014 6/4/64\n. R. 515 \u2014 6/5/64\n. R. 543 \u2014 6/5/64\n. R. 380 \u2014 6/3/64\n. R. 550 \u2014 12/17/63\n. R. 486, 497, 508, 509 \u2014 12/16/63\n. R. 548 \u2014 12/17/63\n. R. 64 \u2014 12/12/63\n. R. 674 \u2014 12/17/63\n. R. 548, 551, 553 \u2014 12/17/63\n. R. 655, 656 \u2014 12/17/63\n. R. 500 \u2014 6/5/64\n. R. 626 \u2014 12/17/63\n. Winsett did not speak under the drawn and pointed compulsion of a revolver, and this distinguishes People v. Shivers, 21 N.Y.2d 118, 286 N.Y.S.2d 827, 233 N.E. 2d 836, decided 12/28/67; a copy of that opinion was sent to me on January 27, 1968 with a letter from Winsett\u2019s counsel arguing its relevancy to this case.\n. R. 462 \u2014 6/5/64\n. R. 403 \u2014 6/5/64.",
+        "type": "majority",
+        "author": "DUFFY, Chancellor:"
+      }
+    ],
+    "attorneys": [
+      "Jay H. Conner, and Jerome O. Herlihy, Deputy Attys. Gen., for the State.",
+      "H. James Conaway, Jr., Wilmington, for defendant, Thomas H. Winsett.",
+      "C. Waggaman Berl, Jr., Wilmington, for defendant, Wilbert A. Weekley.",
+      "Arthur J. Sullivan, Wilmington, for defendant, Edward J. Mayerhofer."
+    ],
+    "corrections": "",
+    "head_matter": "The STATE of Delaware, v. Thomas H. WINSETT, Wilbert A. Weekley, and Edward J. Mayerhofer.\nSuperior Court of Delaware. New Castle.\nFeb. 2, 1968.\nJay H. Conner, and Jerome O. Herlihy, Deputy Attys. Gen., for the State.\nH. James Conaway, Jr., Wilmington, for defendant, Thomas H. Winsett.\nC. Waggaman Berl, Jr., Wilmington, for defendant, Wilbert A. Weekley.\nArthur J. Sullivan, Wilmington, for defendant, Edward J. Mayerhofer."
+  },
+  "file_name": "0821-01",
+  "first_page_order": 853,
+  "last_page_order": 866
+}

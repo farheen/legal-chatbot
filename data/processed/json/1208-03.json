@@ -1,0 +1,80 @@
+{
+  "id": 9412141,
+  "name": "In the Matter of Romaine PHILLIPS. Petition for Reinstatement",
+  "name_abbreviation": "In re Phillips",
+  "decision_date": "2002-06-19",
+  "docket_number": "No. 611 Disciplinary Docket No. 2",
+  "first_page": "1208",
+  "last_page": "1209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "801 A.2d 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Pa. 573",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1795237
+      ],
+      "weight": 2,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/509/0573-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 646,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.217387963545365
+    },
+    "sha256": "86b300600b7ab6fe2ae2b6f69f650a369792b1274ee80be0112107319cece17d",
+    "simhash": "1:78aec2802381f766",
+    "word_count": 105
+  },
+  "last_updated": "2024-02-27T17:25:40.970685+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Mr. Justice Castille did not participate in this matter."
+    ],
+    "parties": [
+      "In the Matter of Romaine PHILLIPS. Petition for Reinstatement."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 19th day of June, 2002, the Petition for Reinstatement is denied and petitioner is forever barred from the practice of law in the Commonwealth of Pennsylvania. See Office of Disciplinary Counsel v. Keller, 509 Pa. 573, 506 A.2d 872 (1986). Pursuant to Rule 218(e), Pa. R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.\nMr. Justice Castille did not participate in this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Romaine PHILLIPS. Petition for Reinstatement.\nNo. 611 Disciplinary Docket No. 2.\nSupreme Court of Pennsylvania.\nJune 19, 2002."
+  },
+  "file_name": "1208-03",
+  "first_page_order": 1200,
+  "last_page_order": 1201
+}

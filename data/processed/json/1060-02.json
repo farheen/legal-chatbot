@@ -1,0 +1,58 @@
+{
+  "id": 12490175,
+  "name": "MADARA v. DHS",
+  "name_abbreviation": "Madara v. DHS",
+  "decision_date": "2017-02-06",
+  "docket_number": "2695 CD 2015",
+  "first_page": "1060",
+  "last_page": "1060",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 1060"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "fe093cd472e0c61c9696f6be5c66fea87b5011fe22c610ff26e68ba611f2f694",
+    "simhash": "1:155dc223086f7403",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MADARA\nv.\nDHS"
+    ],
+    "opinions": [
+      {
+        "text": "Vacated and Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MADARA\nv.\nDHS\n2695 CD 2015\nCommonwealth Court of Pennsylvania.\nFebruary 6, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1060-02",
+  "first_page_order": 1060,
+  "last_page_order": 1060
+}

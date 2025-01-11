@@ -1,0 +1,80 @@
+{
+  "id": 12074024,
+  "name": "STATE v. Edward E. VOCCOLA",
+  "name_abbreviation": "State v. Voccola",
+  "decision_date": "1983-01-21",
+  "docket_number": "No. 82-256-C.A.",
+  "first_page": "1227",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "454 A.2d 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "440 A.2d 742",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7944075
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/440/0742-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 746,
+    "ocr_confidence": 0.753,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2453038767897279
+    },
+    "sha256": "373db8f5028184e23469c37b1957ad9a2e822e8a2593274322f0d9df1fcfe240",
+    "simhash": "1:ac072ca26c8165df",
+    "word_count": 124
+  },
+  "last_updated": "2024-02-27T18:26:20.479567+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Edward E. VOCCOLA."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant, Edward E. Voccola, appeals from a Superior Court jury conviction for attempting to obtain money under false pretenses and for committing a perjury.\nThe defendant is ordered to appear on a date to be assigned to show cause why his appeal should not be summarily dismissed. In showing cause, the defendant is directed to address the issue of whether or not the trial justice erred in denying the defendant\u2019s motion for judgment of acquittal on both charges. State v. Giordano, R.I., 440 A.2d 742 (1982).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Alan R. Tate, Asst. Atty. Gen., for plaintiff.",
+      "William A. Dimitri, Jr., Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Edward E. VOCCOLA.\nNo. 82-256-C.A.\nSupreme Court of Rhode Island.\nJan. 21, 1983.\nDennis J. Roberts II, Atty. Gen., Alan R. Tate, Asst. Atty. Gen., for plaintiff.\nWilliam A. Dimitri, Jr., Providence, for defendant."
+  },
+  "file_name": "1227-04",
+  "first_page_order": 1279,
+  "last_page_order": 1280
+}

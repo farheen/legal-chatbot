@@ -1,0 +1,59 @@
+{
+  "id": 6080878,
+  "name": "Chicago Pump Co. v. Infilco, Inc.",
+  "name_abbreviation": "Chicago Pump Co. v. Infilco, Inc.",
+  "decision_date": "1958-01-10",
+  "docket_number": "No. 6335",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1053"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 291,
+    "ocr_confidence": 0.411,
+    "sha256": "910192174b25f673a071f0e1a1f0d1fc31020bce786e849eae96285fad6115d8",
+    "simhash": "1:0009d57595435e4e",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chicago Pump Co. v. Infilco, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "Trademark for a machine intended to be interposed in and across a sewage stream and adapted to intercept and screen solids carried by the stream and permit the sewage liquor and the unscreened small solids to pass therethrough.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 10, 1958\nChicago Pump Co. v. Infilco, Inc.\n(No. 6335)."
+  },
+  "file_name": "1053-05",
+  "first_page_order": 383,
+  "last_page_order": 383
+}

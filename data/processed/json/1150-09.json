@@ -1,0 +1,58 @@
+{
+  "id": 12488502,
+  "name": "Com. v. Neal, C.",
+  "name_abbreviation": "Com v. Neal",
+  "decision_date": "2016-05-17",
+  "docket_number": "1996 MDA 2015",
+  "first_page": "1150",
+  "last_page": "1150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 86,
+    "sha256": "9fa9d752947aa0dbbbd267ace9cae2b14a3250182d9b3d3c939aa4842e48376e",
+    "simhash": "1:549b57fb5da89e79",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nNeal, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nNeal, C.\n1996 MDA 2015\nSuperior Court of Pennsylvania.\nMay 17, 2016\nAffirmed"
+  },
+  "file_name": "1150-09",
+  "first_page_order": 1150,
+  "last_page_order": 1150
+}

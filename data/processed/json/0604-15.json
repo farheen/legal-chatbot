@@ -1,0 +1,58 @@
+{
+  "id": 12486097,
+  "name": "Com. v. M. Toran",
+  "name_abbreviation": "Com. v. Toran",
+  "decision_date": "2016-02-25",
+  "docket_number": "NO. 954 WDA 2015",
+  "first_page": "604",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "306142520e6a161291481825e55934829d25b5a232f18cbbd5c6d4eada9fc8b4",
+    "simhash": "1:77195c8af2c2afd5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Toran"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Toran\nNO. 954 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 25, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0604-15",
+  "first_page_order": 604,
+  "last_page_order": 604
+}

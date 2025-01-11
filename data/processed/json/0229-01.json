@@ -1,0 +1,1025 @@
+{
+  "id": 12023877,
+  "name": "John E. POTEAT, Appellant, v. UNITED STATES, Appellee",
+  "name_abbreviation": "Poteat v. United States",
+  "decision_date": "1974-12-16",
+  "docket_number": "No. 6917",
+  "first_page": "229",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 A.2d 229"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "80 S.Ct. 725",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6163485,
+        6163782
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/362/0257-01",
+        "/us/362/0309-01"
+      ]
+    },
+    {
+      "cite": "362 U.S. 257",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6163485
+      ],
+      "weight": 2,
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/362/0257-01"
+      ]
+    },
+    {
+      "cite": "110 F.2d 246",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1034486
+      ],
+      "year": 1940,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/110/0246-01"
+      ]
+    },
+    {
+      "cite": "71 App.D.C. 306",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1940,
+      "opinion_index": 0
+    },
+    {
+      "cite": "291 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1498121
+      ],
+      "weight": 3,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "parenthetical": "dictum"
+        },
+        {
+          "parenthetical": "dictum"
+        },
+        {
+          "parenthetical": "dictum"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/291/0097-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11712077
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0222-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "271 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8086266
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/271/0788-01"
+      ]
+    },
+    {
+      "cite": "294 A.2d 376",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8045621
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/294/0376-01"
+      ]
+    },
+    {
+      "cite": "284 A.2d 671",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8081738
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/284/0671-01"
+      ]
+    },
+    {
+      "cite": "487 F.2d 1197",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3593572,
+        217127
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1201"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/159/0326-01",
+        "/f2d/487/1197-01"
+      ]
+    },
+    {
+      "cite": "159 U.S.App.D.C. 326",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3593572
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/159/0326-01"
+      ]
+    },
+    {
+      "cite": "294 A.2d 860",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8052567
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "864"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/294/0860-01"
+      ]
+    },
+    {
+      "cite": "346 F.2d 73",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        863451
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/346/0073-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 4,
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731118
+      ],
+      "weight": 9,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "451-452"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "569"
+        },
+        {
+          "page": "452"
+        },
+        {
+          "page": "570"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0443-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 337",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054264
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0337-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "parenthetical": "waiver of trial counsel"
+        },
+        {
+          "parenthetical": "waiver of trial counsel"
+        },
+        {
+          "parenthetical": "waiver of trial counsel"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "waiver of counsel during interrogation"
+        },
+        {
+          "parenthetical": "waiver of counsel during interrogation"
+        },
+        {
+          "parenthetical": "waiver of counsel during interrogation"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "318 A.2d 589",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8051715
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "unpreserved Fourth Amendment issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/318/0589-01"
+      ]
+    },
+    {
+      "cite": "414 F.2d 1119",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2180618
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/414/1119-01"
+      ]
+    },
+    {
+      "cite": "134 U.S.App.D.C. 223",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "302 A.2d 232",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11249814
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "parenthetical": "unpreserved identification issue"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/302/0232-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 232",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "342 U. S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641051
+      ],
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "223"
+        },
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/342/0205-01"
+      ]
+    },
+    {
+      "cite": "434 F.2d 880",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2219993
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/434/0880-01"
+      ]
+    },
+    {
+      "cite": "250 A.2d 573",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8076343
+      ],
+      "year": 1969,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/250/0573-01"
+      ]
+    },
+    {
+      "cite": "38 L.Ed.2d 146",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "94 S.Ct. 245",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "414 U.S. 908",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11771362,
+        11771148,
+        11771469,
+        11771217,
+        11771090,
+        11771031,
+        11771420,
+        11771517,
+        11771295
+      ],
+      "year": 1973,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/414/0908-06",
+        "/us/414/0908-03",
+        "/us/414/0908-08",
+        "/us/414/0908-04",
+        "/us/414/0908-02",
+        "/us/414/0908-01",
+        "/us/414/0908-07",
+        "/us/414/0908-09",
+        "/us/414/0908-05"
+      ]
+    },
+    {
+      "cite": "477 F.2d 31",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2265820
+      ],
+      "pin_cites": [
+        {
+          "page": "33"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/477/0031-01"
+      ]
+    },
+    {
+      "cite": "421 F.2d 1127",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2156364
+      ],
+      "year": 1969,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/421/1127-01"
+      ]
+    },
+    {
+      "cite": "137 U.S.App.D.C. 192",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "328 F.Supp. 1077",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5588680
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/328/1077-01"
+      ]
+    },
+    {
+      "cite": "34 L.Ed.2d 258",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "93 S.Ct. 335",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1972,
+      "opinion_index": 1
+    },
+    {
+      "cite": "409 U.S. 991",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6432514,
+        6432299,
+        6432171,
+        6432047,
+        6432401,
+        6432787,
+        6431800,
+        6431930,
+        6432667
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/409/0991-07",
+        "/us/409/0991-05",
+        "/us/409/0991-04",
+        "/us/409/0991-03",
+        "/us/409/0991-06",
+        "/us/409/0991-09",
+        "/us/409/0991-01",
+        "/us/409/0991-02",
+        "/us/409/0991-08"
+      ]
+    },
+    {
+      "cite": "464 F.2d 667",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        709175
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/464/0667-01"
+      ]
+    },
+    {
+      "cite": "295 A.2d 498",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11252531
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/295/0498-01"
+      ]
+    },
+    {
+      "cite": "325 F.2d 629",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        108997
+      ],
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/325/0629-01"
+      ]
+    },
+    {
+      "cite": "117 U.S.App.D.C. 56",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1963,
+      "opinion_index": 1
+    },
+    {
+      "cite": "27 L.Ed.2d 49",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1970,
+      "opinion_index": 1
+    },
+    {
+      "cite": "91 S.Ct. 39",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1970,
+      "opinion_index": 1
+    },
+    {
+      "cite": "400 U.S. 821",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12057666,
+        12057733,
+        12057895,
+        12057495,
+        12057585,
+        12057972,
+        12057398,
+        12057815,
+        12057272,
+        12057343
+      ],
+      "year": 1970,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/400/0821-06",
+        "/us/400/0821-07",
+        "/us/400/0821-09",
+        "/us/400/0821-04",
+        "/us/400/0821-05",
+        "/us/400/0821-10",
+        "/us/400/0821-03",
+        "/us/400/0821-08",
+        "/us/400/0821-01",
+        "/us/400/0821-02"
+      ]
+    },
+    {
+      "cite": "424 F.2d 45",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2251025
+      ],
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/424/0045-01"
+      ]
+    },
+    {
+      "cite": "22 L.Ed.2d 219",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "89 S.Ct. 1018",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1969,
+      "opinion_index": 1
+    },
+    {
+      "cite": "394 U.S. 908",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189512,
+        6190509,
+        6190096,
+        6189904,
+        6189712,
+        6190333
+      ],
+      "year": 1969,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/394/0908-01",
+        "/us/394/0908-06",
+        "/us/394/0908-04",
+        "/us/394/0908-03",
+        "/us/394/0908-02",
+        "/us/394/0908-05"
+      ]
+    },
+    {
+      "cite": "405 F.2d 239",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1211967
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/405/0239-01"
+      ]
+    },
+    {
+      "cite": "475 F.2d 240",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        281629
+      ],
+      "weight": 5,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "247"
+        },
+        {
+          "page": "247-248"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/475/0240-01"
+      ]
+    },
+    {
+      "cite": "481 F.2d 723",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1318012
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "725"
+        },
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/481/0723-01"
+      ]
+    },
+    {
+      "cite": "284 A.2d 460",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8073121
+      ],
+      "year": 1971,
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/284/0460-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164855
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/378/0001-01"
+      ]
+    },
+    {
+      "cite": "110 F.2d 246",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1034486
+      ],
+      "year": 1940,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/110/0246-01"
+      ]
+    },
+    {
+      "cite": "71 App.D.C. 306",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1940,
+      "opinion_index": 1
+    },
+    {
+      "cite": "291 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1498121
+      ],
+      "weight": 11,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "105-106"
+        },
+        {
+          "page": "332"
+        },
+        {
+          "page": "107-108"
+        },
+        {
+          "page": "333"
+        },
+        {
+          "page": "114"
+        },
+        {
+          "page": "335"
+        },
+        {
+          "page": "116"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/291/0097-01"
+      ]
+    },
+    {
+      "cite": "386 U.S. 18",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168882
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "23"
+        },
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/386/0018-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731118
+      ],
+      "weight": 4,
+      "year": 1965,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/379/0443-01"
+      ]
+    },
+    {
+      "cite": "304 U.S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "weight": 3,
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464",
+          "parenthetical": "right to counsel"
+        },
+        {
+          "page": "1023",
+          "parenthetical": "right to counsel"
+        },
+        {
+          "parenthetical": "right to counsel"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 232",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 1
+    },
+    {
+      "cite": "342 U. S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        641051
+      ],
+      "weight": 3,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "274"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/342/0205-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1132,
+    "char_count": 25361,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 1.1905581455927173e-07,
+      "percentile": 0.591298179932498
+    },
+    "sha256": "ff9808c3c03d4b5b2383e60238b20c9a726f96f95afde89c04fb62276b6cb738",
+    "simhash": "1:fcbebf693e36a93b",
+    "word_count": 4309
+  },
+  "last_updated": "2024-02-27T22:08:57.964193+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before REILLY, Chief Judge, and KELLY and NEBEKER, Associate Judges."
+    ],
+    "parties": [
+      "John E. POTEAT, Appellant, v. UNITED STATES, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "NEBEKER, Associate Judge:\nIn this appeal from a conviction of carrying a pistol without a license the contentions are that the trial court erred (1) in denying appellant\u2019s motion to suppress evidence, and (2) in holding the pretrial hearing on that motion in appellant\u2019s absence. We reject both claims and affirm.\nThe testimony at the hearing on the motion to suppress revealed that at about 6:00 p. m. appellant was driving a vehicle owned by one of the two women who were riding with him. When appellant stopped the car at an intersection, the owner called to a nearby policeman and asked him to order appellant out of her car. The officer came over to the car and asked her for the registration, which she produced. According to the officer, while he was checking the registration, appellant got out of the car \u201con his own\u201d. Upon being told by the car owner that appellant had a gun, the officer patted him down, detected a bulge in his back pocket resembling a gun, and removed what was indeed a pistol. The arrest followed.\nAppellant was not present at the hearing and no explanation for his absence appears in the transcript. Four days after the hearing, an entry was made on the docket stating, \u201cBench warrant issued, defendant in jail in New Jersey.\u201d The motion to suppress evidence was denied.\nAt trial before another judge and a jury, the police officer repeated the testimony which he had given pretrial. Appellant, testifying for the first time, gave for present purposes an essentially similar version of the events. According to appellant, he had happened upon the disabled car with a female occupant and had repaired the defect upon her request. The woman offered him some liquor; he and his female companion got into the car and they drank and conversed. The owner then asked him to drive the car to a gas station to buy some fuel. While enroute, appellant stopped at an intersection, at which time the owner called to a nearby scooter officer, saying, \u201cOfficer, this man [has] got a gun on him. Make him get out of my car\u201d. The officer ordered appellant out, and according to appellant:\nI got out of the car, you know, lifted the little pillow up. You know, one of those little pillows?\n* * * * * *\nI\u2019m sitting on the pillow.\n* * * * * *\nI lifted that little pillow up, and there is that little pistol right there sitting down underneath the pillow. So, the roller [officer] grabbed me.\nAt no time during the trial or at any other time did appellant object to the fact that the hearing on the motion to suppress evidence had been held in his absence, a claim which he raises for the first time on appeal.\nWhile the reach of Rule 43, supra, may not cover the right to be present at all suppression hearings (see United States v. Gradsky, 434 F.2d 880 (Sth Cir. 1970)), we may start from an assumed premise that appellant had a constitutional right to be present and to offer his own version \u201cas to events in which the [accused] participated\u201d. United States v. Hayman, 342 U. S. 205, 223, 72 S.Ct. 263, 274, 96 L.Ed. 232 (1952). This right, however, is one which may be forfeited. Such a forfeiture, sometimes referred to as a waiver, is premised upon a failure to raise a now-claimed constitutional denial in a prior judicial proceeding (e. g., the failure to timely object on Miranda or other constitutional grounds when a confession or other evidence is offered) and should be distinguished from the standards applicable to determine whether the right itself has been waived (e. g., the waiver by the suspect at the time of his confession of his Miranda rights). On the first issue, see, e. g., Adams v. United States, D.C.App., 302 A.2d 232 (1973) (unpreserved identification issue) ; Washington v. United States, 134 U.S.App.D.C. 223, 414 F.2d 1119 (1969); and Grennett v. United States, D.C.App., 318 A.2d 589 (1974) (unpreserved Fourth Amendment issue). On the latter point, see, e. g., Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966) (waiver of counsel during interrogation); Johnson v. Zerbst, 304 U.S. 458, 58 S.Ct. 1019, 82 L.Ed. 1461 (1938) (waiver of trial counsel).\nIt is noted that the ABA Standards for Criminal Justice, The Defense Function, \u00a7 5.2(a) (Approved Draft, 1971), contemplates that three areas of trial strategy require personal judgment of the accused \u2014whether to plead guilty; whether to waive jury trial; and whether to testify. While other decisional areas fall \u201cinto a gray zone\u201d, as the commentary phrases it, the Standards recognize that the decision whether to seek to litigate the suppression issue again and in the presence of the appellant is not one for his personal judgment. It is at this point where the majority departs from the premise of the dissent. It is not the right to be present at a critical stage with which we are now dealing. That right seems to be a personal one as the ABA Standards recognize in discussing exclusion from trial of a disruptive defendant. See Illinois v. Allen, 397 U.S. 337, 90 S.Ct. 1057, 25 L.Ed.2d 353 (1970); ABA Standards, The Function of the Trial Judge \u00a7 6.8 (Approved Draft, 1972).\nThe refined issue here presented then is whether the failure of appellant\u2019s counsel, at or before trial, to challenge the pretrial motion proceeding as defective due to the absence of the accused is governed by the rule which recognizes that a party may deliberately decide for tactical reasons to bypass an available objection. Such a deliberate decision is distinguishable from an inadvertent failure to object in that it is binding and may not be challenged even by way of collateral attack. Henry v. Mississippi, 379 U.S. 443, 451-452, 85 S.Ct. 564, 13 L.Ed.2d 408 (1965); Fay v. Noia, 372 U.S. 391, 83 S.Ct. 822, 9 L.Ed.2d 837 (1963). See also Nelson v. California, 346 F.2d 73 (9th Cir. 1965). These and other cases treat this issue in the context of whether, in a federal proceeding, the prisoner\u2019s counsel deliberately bypasses an available state procedure to secure a constitutional right. There is no reason, however, why such a rule does not apply in federal courts. See Terrell v. United States, D.C.App., 294 A.2d 860, 864 (1972); cf. United States v. DeCoster, 159 U.S.App.D.C. 326, 487 F.2d 1197, 1201 (1973). We are presented with no case and we have found none in which the question we see presented in this case has been decided.\nIn the instant case counsel may very well have decided that appellant\u2019s version of the facts surrounding the arrest and seizure, even if believed at a second hearing, also gave rise to a reasonable basis for the arrest and search. See Young v. United States, D.C.App., 284 A.2d 671, 673 (1971). Such a judgment by counsel would have been correct. Taking either version, the essential facts justifying the officer\u2019s action were not in dispute. Appellant agreed that the woman told the officer he had a gun. Therefore, there was constitutional justification for the arrest and the seizure of the gun even on the assumption that it was seized from the car seat as appellant exposed it to the officer\u2019s view. See United States v. Walker, D.C.App., 294 A.2d 376 (1972); United States v. Frye, D.C.App., 271 A.2d 788 (1970).\nIt is also possible that counsel may have decided to go to the jury on the accused\u2019s claim of innocent presence near the gun, and, if unsuccessful, raise the infirm suppression hearing on appeal.\nIf either reason motivated the action of [appellant\u2019s] counsel, and [his] plans backfired, counsel\u2019s deliberate choice of the strategy would amount to a waiver binding on [appellant] and would preclude him from a decision on the merits of his [factual assertion respecting the arrest]. . . . [Henry v. Mississippi, supra, 379 U.S. at 451, 85 S.Ct. at 569.]\nSuch a decision by counsel even without consultation with appellant would have the same effect. Id. at 452, 85 S.Ct. at 570.\nSince, even according to appellant\u2019s testimony, there is no valid Fourth Amendment issue, we conclude it is unnecessary to remand for a hearing to determine whether failure to assert the right to be present was a deliberate choice or an oversight of counsel. If the latter, the failure to seek a cure of the defect in the suppression hearing has been rendered harmless to appellant (see Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705 (1967)) in view of his testimony also establishing a valid arrest and seizure (Harris v. New York, 401 U.S. 222, 91 S.Ct. 643, 28 L.Ed.2d 1 (1971)). Moreover, because both the written motion to suppress and appellant\u2019s own trial testimony support admissibility of the gun, it is hardly arguable that appellant\u2019s presence at the suppression hearing was required to aid counsel in cross-examination regardless of whether he would also testify.\nOur conclusion renders without merit the assertion that trial counsel was constitutionally ineffective for failure to seek to reopen the motion to suppress with appellant present. See Washington v. United States, supra, 134 U.S.App.D.C. at 225 n. 6, 414 F.2d at 1121 n. 6. Accordingly, the judgment of conviction is\nAffirmed.\n. D.C.Code 1973, \u00a7 22-3204.\n. Super.Ct.Crim.R. 43 provides in pertinent part:\nThe defendant shall be present at the arraignment, at every stage of the trial including the impanelling of the jury and the return of the verdict, and at the imposition of sentence. .\n.Even the motion to suppress asserted that the woman \u201cstated [to the officer] that defendant was carrying a gun.\u201d The hearing judge observed this fact at the beginning of the hearing when he also stated: \u201cThe facts set out in your pleading demonstrate it\u2019s without merit.\u201d\n. See also Snyder v. Massachusetts, 291 U.S. 97, 54 S.Ct. 330, 78 L.Ed. 674 (1934) (dictum); Neild v. District of Columbia, 71 App.D.C. 306, 310 n. 10, 110 F.2d 246, 250 n. 10 (1940) ; 3 C. Wright, Federal Practice and Procedure: Criminal \u00a7 721, at 195 (1969); 8A Moore\u2019s Federal Practice \u00b6 43.03 [1], at 43-15 & -16 (2d ed. 1974 rev.).\n.Presumably, under appellant\u2019s version lie possessed standing even if he was unknowing that the gun was there. See Jones v. United States, 362 U.S. 257, 267, 80 S.Ct. 725, 4 L.Ed.2d 697 (1960).\n. See Henry v. Mississippi, supra; Fay v. Noia, supra.\n. See note 3, supra.",
+        "type": "majority",
+        "author": "NEBEKER, Associate Judge:"
+      },
+      {
+        "text": "KELLY, Associate Judge\n(dissenting):\nIn dissenting from the majority holding in this case I believe a more extended discussion of the constitutional issue presented is necessary. Briefly put, the facts are that appellant was not present at a hearing to suppress evidence of a gun found on or near his person at the time of his arrest. No inquiry was made of counsel by the court as to why appellant was not present, nor whether he knew the motion was to be heard that date and had been advised of his right to be present. No explanation for appellant\u2019s absence appears in the record of the trial court. The contention here is that the court denied appellant his rights under Super.Ct.Cr.R. 43 and under the Constitution of the United States by holding the hearing in his absence.\nWhatever the relevance of Rule 43, which does not by its terms grant a right to be present at a pretrial motion to suppress evidence, it seems clear to me that appellant had a constitutional right to be present at the hearing on his motion to suppress evidence and on this record there is no showing that appellant waived that constitutional right.\nThe due process clauses of the Fifth and Fourteenth Amendments insure that all proceedings against a defendant shall be conducted in accordance with fundamental fairness in every respect. In terms of a defendant\u2019s right to be present at an evi-dentiary hearing other than his trial, this means that the defendant shall have that right whenever his presence bears a reasonably substantial relationship to his opportunity to defend. Many years ago the Supreme Court in Snyder v. Massachusetts, 291 U.S. 97, 105-106, 54 S.Ct. 330, 332, 78 L.Ed. 674 (1934), overruled on other grounds, Malloy v. Hogan, 378 U.S. 1, 84 S.Ct. 1489, 12 L.Ed.2d 653 (1964), said that \u201cin a prosecution for a felony the defendant has the privilege under the Fourteenth Amendment to be present in his own person whenever his presence has a relation, reasonably substantial, to the fulness of his opportunity to defend against the charge. . . .\u201d In Snyder, the Court had before it the question of whether a defendant had a right under the due process clause of the Fourteenth Amendment to accompany the jury on a view of the scene of the crime. It concluded that he did not, finding that he could have added nothing by his presence and that the attendance by his counsel was sufficient to safeguard his interests insofar as the accuracy and fairness of the view were concerned. The Court was careful to point out, however, that if the defendant\u2019s presence would have made a difference at the jury viewing it would have been essential to due process for him to be there. The rule set forth was that \u201c[s]o far as the Fourteenth Amendment is concerned, the presence of a defendant is a condition of due process to the extent that a fair and just hearing would be thwarted by his absence, and to that extent only.\u201d Snyder v. Massachusetts, supra, 291 U.S. at 107-108, 54 S.Ct. at 333. The due process clause of the Fifth Amendment would similarly insure a defendant in District of Columbia courts the right to be present whenever a fair and just hearing would be thwarted in his absence. Neild v. District of Columbia, 71 App.D.C. 306, 310 n. 10, 110 F.2d 246, 250 n. 10 (1940).\nThe Supreme Court later reaffirmed its Snyder dictum by holding that under certain circumstances a defendant\u2019s presence may be required at a hearing on a post-trial motion under 28 U.S.C. \u00a7 22SS. United States v. Hayman, 342 U.S. 205, 72 S.Ct. 263, 96 L.Ed. 232 (1952). The Court said: \u201cWhether the prisoner should be produced depends upon the issues raised by the particular case. Where, as here, there are substantial issues of fact as to events in which the prisoner participated, the trial court should require his production for a hearing.\u201d Id. at 223, 72 S.Ct. at 274. See also 3 C. Wright, Federal Practice and Procedure: Criminal, \u00a7 721, at 195 (1969); 8A Moore\u2019s Federal Practice \u00b6 43.03[1], at 43-15 & -16 (2d ed. 1974 rev.).\nThe pretrial hearing on the motion to suppress in the instant case presents just such a situation where appellant\u2019s presence was essential to due process. The sole purpose of the hearing was to present the facts surrounding the search of appellant and the seizure of the gun from his person, or elsewhere, so that the court could determine the legality of that search and seizure. Appellant, absent from the hearing, was deprived of the opportunity to advise his counsel with respect to the calling and cross-examination of witnesses as well as of the opportunity, if he so desired, to present his own version of the events. Additionally, an adverse decision rendered at a suppression hearing becomes the law of the case and is ordinarily binding upon a defendant at trial. D.C.Code 1973, \u00a7 23-104(a) (2); Jenkins v. United States, D.C.App., 284 A.2d 460 (1971). Under such circumstances fundamental fairness requires that appellant, a participant in the events at issue, be present at the eviden-tiary hearing to determine whether his Fourth Amendment rights have been violated.\nAppellant would also have us recognize that his right to confrontation of witnesses under the Sixth Amendment was violated by holding the suppression hearing in his absence. In my judgment, the right to be present at a hearing to suppress evidence is also guaranteed to the accused by the Sixth Amendment in those hearings at which testimony is taken and the subject matter of the testimony is not restricted to technical matters or to confidential information. United States v. Ruiz-Estrella, 481 F.2d 723, 725 (2d Cir. 1973). And again, by his exclusion from the hearing, appellant was denied the opportunity to advise with counsel and to cross-examine the witnesses against him, two of the purposes of that guarantee. Snyder v. Massachusetts, supra, 291 U.S. at 114, 54 S.Ct. at 335.\nThe constitutional rights at issue have been regarded as \u201cbasic\u201d and \u201cfundamental\u201d, United States v. Ruiz-Estrella, supra, 481 F.2d at 726; United States v. Clark, 475 F.2d 240, 247 (2d Cir. 1973), and sometimes as \u201cpersonal\u201d, United States v. Crutcher, 405 F.2d 239, 243 (2d Cir. 1968), cert. denied, 394 U.S. 908, 89 S.Ct. 1018, 22 L.Ed.2d 219 (1969). A distinguishing characteristic of rights so designated is that, as they are essential to fairness and justice, they cannot be waived save by the accused and then only intelligently and competently. As defined in Johnson v. Zerbst, 304 U.S. 458, 464, 58 S.Ct. 1019, 1023, 82 L.Ed. 1461 (1938) (right to counsel), a waiver is \u201can intentional relinquishment or abandonment of a known right or privilege\u201d, and the right to be present at a suppression hearing of the kind at issue here has been held to require such an understanding waiver. See United States v. Clark, supra, 475 F.2d at 247-248; United States v. Lopez, supra, 328 F.Supp. at 1088; United States v. Dalli, 424 F.2d 45, 48 (2d Cir.), cert. denied, 400 U.S. 821, 91 S.Ct. 39, 27 L.Ed.2d 49 (1970).\nThe fact that there was no objection before or at trial to appellant\u2019s absence from the hearing did not result in a waiver of the objection and its loss for purposes of appeal. See United States v. Clark, supra, wherein the court dismissed a claim of waiver advanced by the government when defense counsel raised no objection to the defendant\u2019s absence from a suppression hearing and none to the government\u2019s motion to exclude him. It is true, of course, as the majority notes, that two types of waiver have developed in the law, and that in many instances (e. g., failure to object to illegal evidence; failure to object to hearsay) the defendant will be precluded from raising issues on appeal that were not raised at trial. The appellate court is then only free to notice plain error affecting substantial rights, the damaging effect of which may, in turn, be negated if the error is found to be harmless. This type of analysis is precluded where, as here, a fundamental constitutional right is involved.\nThe majority suggests that waiver was effected in this case because the decision not to raise an objection may have been a tactical one on the part of the defense counsel and thus binding on appellant in accordance with Henry v. Mississippi, 379 U.S. 443, 85 S.Ct. 564, 13 L.Ed.2d 408 (1965). Even assuming the rule of Henry v. Mississippi is applicable, however, it seems that it merely adds another type of knowing waiver to those already binding on a defendant; specifically, a deliberate failure to object in order to gain some tactical advantage at trial. In Henry counsel failed to object to the introduction of illegally obtained evidence and the cause was remanded to determine whether the lack of objection was inadvertent. At the very least, then, this court would have to remand this case to see if counsel deliberately chose not to assert the right. In any event, the record is to the contrary. Defense counsel moved pretrial to suppress the gun, objected to its introduction at trial, and moved for judgment of acquittal both at the close of the government's case and at the close of all the evidence. These repeated motions belie the suggestions of the majority that defense counsel believed appellant\u2019s testimony to be probative of guilt or that he wished to go to the jury on the issue of innocent presence near the gun.\nThe majority concludes by stating that even if counsel did not deliberately decline to raise the issue of appellant\u2019s absence from the hearing, any resultant error was harmless. Again, it must be noted that we are dealing here with basic constitutional rights which cannot be lost except through a voluntary, intelligent waiver and that action in derogation of these rights is not subject to rehabilitation on the ground that it was harmless. As stated in Snyder v. Massachusetts, stipra, 291 U.S. at 116, 54 S.Ct. at 336:\nTrue, indeed, it is that constitutional privileges or immunities may be conferred so explicitly as to leave no room for an inquiry whether prejudice to a defendant has been wrought through their denial. ... If the defendant in a federal court were to be denied the opportunity to be confronted with the \u201cwitnesses against him,\u201d the denial of the privilege would not be overlooked as immaterial because the evidence thus procured was persuasive of the defendant\u2019s guilt. In the same way, privileges, even though not explicit, may be so obviously fundamental as to bring us to the same result. .\nAnd as the Supreme Court more recently noted, in Chapman v. California, 386 U.S. 18, 23, 87 S.Ct. 824, 827, 17 L.Ed.2d 705 (1967), \u201cthere are some constitutional rights so basic to a fair trial that their infraction can never be treated as harmless error.\u201d Appellant\u2019s right to be present at the suppression hearing could not be defeated by a claim that his absence was harmless. The trial court cannot dispense with his presence in a hearing that directly affects his liberty, nor can this kind of error be cured by subsequent events in the proceeding.\nFor the reasons set forth above, I respectfully dissent.\n. There is an entry on the docket made four days after the hearing which reads: \u201cBench warrant issued, defendant in jail in New Jersey\u201d. If appellant was in custody, however, it was not of course in his power to voluntarily absent himself from the hearing. Cross v. United States, 117 U.S.App.D.C. 56, 325 F.2d 629 (1963). Appellant\u2019s affidavit explaining the reason for his absence to this court, which was appended to his brief, was stricken from the record on motion from the government.\n. Super. Ct.Cr.R. 43 provides in pertinent part:\nThe defendant shall be present at the arraignment, at every stage of the trial including the impanelling of the jury and the return of the verdict, and at the imposition of sentence. In prosecutions for offenses not punishable by death, the defendant\u2019s voluntary absence after the trial has been commenced in his presence shall not prevent continuing the trial to and including the return of the verdict. .\n.See Campbell v. United States, D.C.App., 295 A.2d 498 (1972).\n. The Sixth Amendment reads in pertinent part:\nIn all criminal prosecutions, the accused shall enjoy the right . . to be confronted with the witnesses against him\n. Several cases have carved out a limited ex-oeirtion to the defendant\u2019s right of presence at suppression hearings where the testimony pertained to a profile used by the airline companies to identify potential hijackers. United States v. Clark, 475 F.2d 240 (2d Cir. 1973) ; United States v. Bell, 464 F.2d 667 (2d Cir.), cert. denied, 409 U.S. 991, 93 S.Ct. 335, 34 L.Ed.2d 258 (1972); United States v. Lopez, 328 F.Supp. 1077 (E.D.N.Y.1971).\n.The primary purpose of the Sixth Amendment lias often been stated to be the prevention of the use of depositions or ex parte affidavits to convict the accused. The Amendment compels the presence of the accusers so that the defendant can test their recollection and subject them to the scrutiny of the jury. The Constitution of the United States of America: Analysis and Interpretation (1973), p. 1212. The purposes of the Amendment have thus been interpreted as various, and it would seem reasonable to assume that its purposes are as varied as the abuses which arise from the absence of the defendant at times when witnesses are testifying.\n. Examples of rights to which this standard is applied are the privilege against self-incrimination, right to trial by jury, rights given up by a guilty plea, and the right to assistance of counsel. United States v. McPherson, 137 U.S.App.D.C. 192, 194-195 n. 6, 421 F.2d 1127, 1129-1130 n. 6 (1969).\n. See also United States v. Hurse, 477 F.2d 31, 33 (8th Cir.), cert. denied, 414 U.S. 908, 94 S.Ct. 245, 38 L.Ed.2d 146 (1973), where the appellate court entertained the contention of error due to absence from a supplemental suppression hearing raised for the first time on appeal.\n.Henry v. Mississippi, supra, deals with the preservation of a federal constitutional claim, that of an illegal search, in a state court where it was subject to a state requirement that an objection be raised at the time of the introduction of the evidence. There was some indication that defense counsel was from out of state and was not familiar with the local rule. It was under these circumstances that a \u201cknowing waiver\u201d was required by the Supreme Court.\nIt is highly questionable whether the \u201cknowing waiver\u201d delineated in Henry applies to rights such as those at issue here or that it in any way displaces the intelligent and competent waiver required to lose those rights.\n. See also Miller v. United States, D.C.App., 250 A.2d 573 (1969).",
+        "type": "dissent",
+        "author": "KELLY, Associate Judge"
+      }
+    ],
+    "attorneys": [
+      "Charles C. Glover, III, Washington, D. C, appointed by this court, for appellant.",
+      "Joseph B. Valder, Asst. U. S. Atty., with whom Harold H. Titus, Jr., U. S. Atty., John A. Terry, Stuart M. Gerson and James F. Rutherford, Asst. U. S. Attys., were on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "John E. POTEAT, Appellant, v. UNITED STATES, Appellee.\nNo. 6917.\nDistrict of Columbia Court of Appeals.\nArgued Sept. 11, 1973.\nDecided Dec. 16, 1974.\nCharles C. Glover, III, Washington, D. C, appointed by this court, for appellant.\nJoseph B. Valder, Asst. U. S. Atty., with whom Harold H. Titus, Jr., U. S. Atty., John A. Terry, Stuart M. Gerson and James F. Rutherford, Asst. U. S. Attys., were on the brief, for appellee.\nBefore REILLY, Chief Judge, and KELLY and NEBEKER, Associate Judges."
+  },
+  "file_name": "0229-01",
+  "first_page_order": 267,
+  "last_page_order": 274
+}

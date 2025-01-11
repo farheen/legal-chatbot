@@ -1,0 +1,58 @@
+{
+  "id": 12487598,
+  "name": "In Re: S-S. T.R",
+  "name_abbreviation": "In re S-S. T.R",
+  "decision_date": "2016-04-29",
+  "docket_number": "NO. 3684 EDA 2015",
+  "first_page": "797",
+  "last_page": "797",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 797"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 135,
+    "sha256": "22c8cac62d2a56bd93b916b309b1e31f9b7f555b9bfba2cc0757a599ba49589e",
+    "simhash": "1:62176e9f52a4adc4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: S-S. T.R"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: S-S. T.R\nNO. 3684 EDA 2015\nSuperior Court of Pennsylvania.\nApril 29, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0797-05",
+  "first_page_order": 797,
+  "last_page_order": 797
+}

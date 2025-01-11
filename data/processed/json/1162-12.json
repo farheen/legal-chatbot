@@ -1,0 +1,58 @@
+{
+  "id": 12488674,
+  "name": "Com. v. Snyder, C.",
+  "name_abbreviation": "Com v. Snyder",
+  "decision_date": "2016-05-27",
+  "docket_number": "1729 WDA 2015",
+  "first_page": "1162",
+  "last_page": "1162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "cdc34eba998adf015bd67623b08ab4205b7f2a55419554b89c4bbc1a55028d89",
+    "simhash": "1:c8891219d9a31690",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSnyder, C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSnyder, C.\n1729 WDA 2015\nSuperior Court of Pennsylvania.\nMay 27, 2016\nAffirmed"
+  },
+  "file_name": "1162-12",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

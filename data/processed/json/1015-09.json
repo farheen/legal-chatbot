@@ -1,0 +1,59 @@
+{
+  "id": 6080897,
+  "name": "In re Eckel",
+  "name_abbreviation": "In re Eckel",
+  "decision_date": "1954-05-14",
+  "docket_number": "No. 5991",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 10,
+    "char_count": 65,
+    "ocr_confidence": 0.527,
+    "sha256": "823af8f9dd1683a50d89c7b06f8ae25360822af9ea7e2d887db3645373b81eb8",
+    "simhash": "1:ae125cea53042a04",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Eckel"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in clip, with locking plate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Eckel\n(No. 5991)."
+  },
+  "file_name": "1015-09",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

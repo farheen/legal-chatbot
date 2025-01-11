@@ -1,0 +1,58 @@
+{
+  "id": 12486520,
+  "name": "Com. v. V. Steed",
+  "name_abbreviation": "Com. v. Steed",
+  "decision_date": "2016-03-09",
+  "docket_number": "NO. 1851 EDA 2015",
+  "first_page": "194",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 115,
+    "sha256": "2cea166f6919a69311903fd0fa440db5975cf29f9e727a81bf5aaf8d73a71e77",
+    "simhash": "1:f753c30687fafce1",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nV. Steed"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nV. Steed\nNO. 1851 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 09, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0194-05",
+  "first_page_order": 194,
+  "last_page_order": 194
+}

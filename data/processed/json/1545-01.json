@@ -1,0 +1,342 @@
+{
+  "id": 6087178,
+  "name": "In re Jack H. Hofstetter",
+  "name_abbreviation": "In re Hofstetter",
+  "decision_date": "1966-06-23",
+  "docket_number": "No. 7529",
+  "first_page": "1545",
+  "last_page": "1552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1545"
+    },
+    {
+      "type": "parallel",
+      "cite": "150 U.S.P.Q. 105"
+    },
+    {
+      "type": "parallel",
+      "cite": "362 F.2d 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "76 USPQ 174",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "74 F. Supp. 985",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        593874
+      ],
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/74/0985-01"
+      ]
+    },
+    {
+      "cite": "60 USPQ 3",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1943,
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 F. 2d 531",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3686086
+      ],
+      "year": 1943,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/139/0531-01"
+      ]
+    },
+    {
+      "cite": "40 USPQ 141",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 App. D.C. 372",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 USPQ 47",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 App. D.C. 61",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1937,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 USPQ 546",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1941,
+      "opinion_index": 0
+    },
+    {
+      "cite": "314 U.S. 688",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168688,
+        6168786,
+        6168422,
+        6168591
+      ],
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/314/0688-03",
+        "/us/314/0688-04",
+        "/us/314/0688-01",
+        "/us/314/0688-02"
+      ]
+    },
+    {
+      "cite": "50 USPQ 10",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 F. 2d 736",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        466565
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "737"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/120/0736-01"
+      ]
+    },
+    {
+      "cite": "74 App. D.C. 189",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 USPQ 411",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "241 F. Supp. 280",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        385236
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/241/0280-01"
+      ]
+    },
+    {
+      "cite": "338 F. 2d 1020",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12164108,
+        886119
+      ],
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "1022"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/0848-01",
+        "/f2d/338/1020-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 848",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164108
+      ],
+      "weight": 2,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/0848-01"
+      ]
+    },
+    {
+      "cite": "35 U.S.C. \u00a7 145",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "148 USPQ 245",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 F. 2d 367",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        839368,
+        3654198
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/356/0367-01"
+      ]
+    },
+    {
+      "cite": "223 F. 2d 497",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53365,
+        6080286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/223/0497-01",
+        "/ccpa/42-2/1037-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 1037",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6080286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/1037-01"
+      ]
+    },
+    {
+      "cite": "202 Mar. 24",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "pin_cites": [
+        {
+          "page": "1953"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 853,
+    "char_count": 17908,
+    "ocr_confidence": 0.43,
+    "pagerank": {
+      "raw": 3.490476551611172e-07,
+      "percentile": 0.8822406248395177
+    },
+    "sha256": "7c0e8fa2c315a939823e5825ac2f929ac431963686c57ed93e47cfd7a79d1ccb",
+    "simhash": "1:1a2b8268a5ddfc8e",
+    "word_count": 2964
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges"
+    ],
+    "parties": [
+      "In re Jack H. Hofstetter"
+    ],
+    "opinions": [
+      {
+        "text": "Smith, Judge,\ndelivered tbe opinion of the court:\nThe issue presented is whether the subject matter of the appealed claims, relating to a method and apparatus for producing blow molded plastic containers, is obvious within the meaning of 35 U.S.C. 103. The Board of Appeals affirmed the examiner\u2019s rejection based on the combined teachings of the prior art.\nThe subject matter sought to be patented involves the blow molding of plastic containers by initially forming a tubular expansible parison which is then received within a multisection mold and expanded by internal air pressure to the mold configuration. The method and apparatus claimed are particularly directed to making plastic containers having relatively wide variances between neck and bottom diameters, such as jugs or bottles in the half gallon to full gallon size range.\nAppellant concedes that the appealed claims are directed to what he asserts to be an improvement over prior art methods and apparatus for blow molding such plastic containers. According to appellant, the asserted improvement permits the blow molding of a plastic container using a minimum amount of plastic materials yet providing a imiform wall of the desired thickness throughout the container.\nThe problem faced by appellant and his proposed solution for it are best understood by referring to Figs. 1 and 2 of his patent application drawings.\nIn Fig. 1, the parison is shown at 13 and the container configuration desired is shown at 14. In Fig. 2, the parison is viewed from above the mold prior to blow molding with the container parting line shown at 15a. As appellant explains, the total displacement of the material near the parting line (shown as X) is much less than the displacement of the material normal to the parting line (shown as Y).\nThe improvement asserted by appellant is the extrusion of a parison having a nonuniform wall thickness such that after blowing, the wall thickness will in fact be uniform. The apparatus disclosed for this purpose includes an elliptical female die opening in cooperation with a cone shaped male die counterpart which produces an extruded parison having \u201ccrescent-shaped\u201d wall sections. The question presented is whether this improvement is obvious in view of the prior art references of record.\nThe appealed claims fall into two groups: claims 1-3 and 5-7 are directed to a method; and claims 8-13 are directed to an apparatus for carrying out the claimed method. The references relied on are:\nNegoro_ 3, 019, 481 Feb. 6,1962\nSherman_ 2,780,835 Feb. 12,1957\nHaines_ 2, 632, 202 Mar. 24, 1953\nThe board preferred to affirm the rejection of claims 1-3, and 5-7 as being unpatentable over either Haines or Negoro in view of Sherman. The board\u2019s statement of this rejection was as follows:\n* * * Both Haines and Negoro clearly teach forming a tube of nonuniform wall thickness and placing this tube in a mold where it is blown into a container of uniform wall thickness. This is the concept that appellant is claiming and it is \u25a0taught by Haines and Negoro. Sherman teaches extruding a tube of crescent-shaped thickened portions thereon and to modify the tubes of either Haines or Negoro to include this teaching of Sherman would be a mere matter of choice and design. * * *\nAs to apparatus claims 8-13, the board stated as follows:\nClaims 8 through 13 stand rejected as unpatentable over Sherman in view of either Haines or Negoro or as unpatentable over either Haines or Negoro in view of Sherman. The Examiner takes the position the claims are readable on the apparatus of Sherman when combined with the container molding halves and means for blowing air into the extruded tube taught by either Haines or Negoro. Further, as with the method claims above, the Examiner holds the references may be reversed and if this is done, it would be obvious to use the dual crescent-shaped orifice of Sherman in the apparatus disclosed by Haines or Negoro.\nThe subject matter is so claimed in the appealed claims that the references need not he discussed in detail. Both Negoro and Haines are concerned with blow molding of plastic articles. Appellant argues that while both refer to an article having uniform wall thickness, neither reference teaches a method or apparatus wherein this goal is achieved. Bather, the references disclose a finished article having substantially uniform wall thickness. The Negoro reference in pertinent part states:\nIt is therefore another object of the invention to provide a novel extruder for a machine which forms hollow articles by expanding a tube within a mold, the extruder having a variable orifice die which is of such a construction that the thickness of the tubing may be varied during the extrusion process so that portions of the tubing which are to be expanded the least will have a lesser wall thickness, with the result that the finished article will have a substantially uniform wall thickness. [Emphasis added.]\nThe Haines reference states:\n* * * I propose to extrude tubes into appropriate position relative to open molds and then to close the molds over these tubes and blow the tubes into the shape of hollow containers in said molds in regular sequence. I propose that the tubes shall be formed as extruded so that approximately exactly the necessary material is supplied at each region at which greater or less materials are required so that the final plastic container shall have a substantially uniform wall thickness throughout without stress and strain and without weaknesses or waste of material which might otherwise be occasioned. [Emphasis added.]\nNegoro, Haines and applicant disclose apparatus wherein, as relevant here, tbe space between the female portion of the extrusion die and the male portion thereof may be varied during extrusion of the parison to vary the wall thickness of the parison along its length. Neither Negoro or Haines, however, discloses appellant\u2019s means for simultaneously controlling the wall thickness of the parison across its width. Appellant\u2019s arguments are therefore well taken. Furthermore, it appears inconsistent to maintain that Negoro and Haines teach uniform wall thickness and also find it necessary to add the teachings of Sherman.\nSherman relates to forming plastic tubing and discloses an apparatus for extruding plastic tubes in which the wall thickness is controlled. Figs. 4 and 5 of Sherman\u2019s drawing show a cross sectional view of the male and female die portions of his proposed apparatus and are here reproduced.\nReferring to the above figures, it is seen that Sherman discloses a female die portion consisting of four parts (designated as 13 through 16 in the above figures). The Sherman specification states:\n* * * Tlie outside dimensions of the tubing are determined by the sections of the body as is the outside shape and thickness of the tubing. * * * Movement of the movable sections 15, 16 toward and away from the outer mandrel will change the outside dimensions, shape and thickness of the tubing. * * *\nIt may thus be seen that the apparatus provides for the change of the inner dimensions and shape, outer dimensions and shape, and thickness of the tubing during extrusion, without any interruption of the extrusion.\nThus, it appears that Sherman discloses an apparatus for varying the wall thickness of a tube extrusion uniformly along its length which also provides that the cross sectional shape of the tube may be changed without interruption of the extrusion through the cooperation of two stationary and two movable female die portions.\nAppellant\u2019s argument relative to Sherman is:\n* * * In brief, Sherman is totally unrelated to any method or apparatus for forming and blowing a container to uniform wall thickness.\nSherman is admittedly concerned with extruding tubes and the structure shown by Sherman is dissimilar to that shown by appellant. Sherman does disclose the concept of changing the cross sectional shape of the extruded tube and varying the wall thicknesses. Also, the various portions of the die may be set in such a manner as to extrude a tube having varying wall thickness around the perimeter of a cross sectional view of the extruded tube.\nIt is apparent from the record that appellant has eliminated waste material in the operation of blow molding containers, particularly containers having relatively wide variances between the neck and bottom diameters, e.g., \u201cin the half-gallon to full gallon size range.\u201d Appellant achieves this by simultaneously varying the wall thickness of the parison radially as well as longitudinally according to the final configuration desired in the blow molded article. Neither Haines or Negoro, concerned with the same problem as appellant in the blow molding of containers, discloses such a method or apparatus. Sherman, for different purposes, teaches the extrusion of tubes having varying radial thickness measured on a cross section.\nIt seems that the relevancy of Sherman to the blow molding art, viewed in combination with Haines or Negoro, \u2022 is- not appreciated until appellant\u2019s invention is examined. Thus,, appellants invention is realized only through hindsight. This we may not do.\n\"We agree with the solicitor\u2019s argument that:\n* * * It is well settled that, as stated in In re Krogman, 42 CCPA 1037, 223 F. 2d 497:\nWhether a reference is \u2018pertinent, or a combination of references is proper, depends solely upon what is reasonably and realistically taught thereby in relation to that which is claimed.\nHowever, we are doubtful that appellant\u2019s invention would have been obvious to one of ordinary skill in the art from the teachings of record other than by employing hindsight reasoning.\nWe are aware that the Court of Appeals, District of Columbia, in its per curiam opinion in Reynolds v. Aghnides, 356 F. 2d 367, 148 USPQ 245 (1966), stated the difference in the law applied in that court as contrasted with this court in determining patentability when the existence of any prerequisite thereto is in doubt. The court, consisting of Bazelon, Chief Judge, and Wright and Tamm, Circuit Judges, said:\nAppellee alleging unlawful denial of his patent application by the Patent Office, petitioned the District Court, under 35 U.S.C. \u00a7 145, to authorize issuance of the patent by the Commissioner. Although finding that \u201csome doubt exists as to the utility\u201d of appellee\u2019s claimed invention, the trial court, citing Appli-\ncation of Nurkiewicz, 52 CCPA 848, 338 F. 2d 1020, 1022, 143 USPQ 421, 422 (1964), as its authority, resolved the doubt in favor of the applicant and ordered the Commissioner to grant the patent. Aghnides v. Reynolds, D.D.C., 241 F. Supp. 280, 145 USPQ 411 (1965). In so doing the trial court erred. Whatever may he the rule in patent review proceedings before the United States Court of Customs and Patent Appeals, in trials de novo under 35 U.S.C. \u00a7 145 in the District Court \u201cdoubt [as to patentability] is to be resolved,\u201d not in favor of the applicant, but \u201cin favor of the correctness of administrative * * * action.\u201d General Motors Corporation v. Coe, 74 App. D.C. 189, 190; 120 F. 2d 736, 737, 50 USPQ 10, 11, cert. denied, 314 U.S. 688, 51 USPQ 546 (1941). [Other cases cited.]\nThere are very sound policy reasons underlying the rule applied in this court, and supposedly in the Patent Office, that doubts are to be resolved in favor of applicants. Several-of the factors properly taken into account in determining patentability, especially unobviousness and utility, are often not known at the time when the application is being prosecuted in the Patent Office but are developed later, perhaps even after the patent is issued. It therefore is proper that doubt should be resolved in favor of applicants so that they shall not be denied patents which later events may show them entitled to. Among such events, which may even have to await patenting, are commercial success, unexpected utility, displacement of competing devices, etc.\nThe so-called \u201crule of doubt\u201d is an ancient one, its common-sense basis having been recognized as early as 1827. It was applied by the Court of Appeals of the District of Columbia long before this court came into existence. See McCrady, Patent Office Practice \u00a7 118 (4th ed. 1959) and cases there cited. That court continued to apply the rale thereafter. See Battery Patents Corp. v. Coe, 68 App. D.C. 61, 35 USPQ 47 (1937). A dissent by Judge Edgerton may have started a trend by the Court of Appeals, D.C., in the direction of its present view. See Carbide & Carbon Chemicals Corp. v. Coe, 69 App. D.C. 372, 40 USPQ 141 (1938). In Magnaflux Corp. v. Coe, 139 F. 2d 531, 60 USPQ 3 (1943), Judge Edgerton in writing the opinion for the court gave effect to the presumption of administrative correctness. In National Lead Co. v. Kingsland, 74 F. Supp. 985, 76 USPQ 174 (D.D.C. 1948), Judge Holtzoff concluded that in the District of Columbia the rule of doubt was dead. These cases show that the court was trying, in that period, to follow the lead of the Supreme Court in \u201craising the standard of invention.\u201d This occurred prior to the 1952 Patent Act.\nWe continued to believe that the \u201crule of doubt\u201d is a sound rule making for a better and fairer operation of the patent system and that the reasons for its abandonment in the District of Columbia courts are not persuasive. In the present case we apply it for the same valid reasons stated at its inception:\nIn every ease of doubt, however, it would seem to be more congenial with the policy of the law to afford the citizen an opportunity of trying the validity of his right by issuing a patent. [2 Op. Atty. Gen. 52, 4 June 1827.]\nWe are, therefore, resolving our doubts on this issue in favor of appellant and solely on this basis reverse the rejection of these claims.\nIn view of the foregoing, the decision of the board is reversed.\nWorley, C. J., concurs in the result.\nClaims 1-3 and 5-13 inclusive of application Ser. No. 172,543, filed Feb. 12, 1962.\nThe term \u201cparison\u201d derives from the glass bottle blowing art but is here used to signify the plastic softened charge which, like a parison of glass, is placed in, the mold prior to blowing the bottle, but which unlike the parison of glass is extruded into the mold with wall portions of predetermined contours.\nClaim 1, defining a method, is as follows:\n1-. In the formation of reduced diameter upper portion and enlarged bottom diameter containers by extruding a tubular parison and expanding the parison by internal air pressure within a mold comprising a pair of cavitated sections adapted to pinch together the walls of the parison along a bottom diameter in an axial plane of. the formed container, the method that includes :\n(1) extruding one extent of the parison having at opposite sides of said plane a relatively lesser wall thiehness throughout a length of the parison which forms said reduced diameter portion of the container, and\n(2) extruding another container bottom-forming extent of the parison of wall thicknesses at opposite sides of said plane which is greater than the first mentioned wall thickness and greater than the wall thickness of the last mentioned extent in said plane,\n(3) internally blowing said bottom forming parison extent to conformance with the inside walls of said mold so as to cause the greater thickness of said parison wall at opposite sides of said plane to expand approaching the lesser thickness of said blown parison wall in said plane.\nClaim 8, defining an apparatus, is as follows:\n8. Apparatus for forming hollow plastic containers by extruding and blow molding a tubular parison, comprising an outer tubular structure and a mandrel movable axially within and annularly spaced from the wall of said structure to form an annular extrusion passage, means for forcing plastic material through said passage to form a tubular parison, said structure including a die extent surrounding a portion of the mandrel and having at one relative axial mandrel position lesser annular spacing about and at opposite sides of an axial plane of the mandrel, and having in another relative axial mandrel position greater spacing about the mandrel which increases at opposite sides of said plane, means for shifting the mandrel between said positions during extrusion of the parison to form the latter with different wall thicknesses corresponding to said spacings, and a pair of molding sections positioned to receive said parison upon extrusion, and means for blowing air to said parison for expanding same to conformance with the inside walls of said molding section.\nThe board also affirmed the rejection of these claims as unpatentable over Sherman in view of Haines or Negoro.\n5The District Court cannot \"order\" \u2014 it \u201cauthorizes.\u201d 35 U.S.C. 145.\nThe full quotation is as follows :\n* * * doubt is to be resolved, in suits to obtain a patent as in suits of other sorts, in favor of the correctness of administrative and judicial! action.",
+        "type": "majority",
+        "author": "Smith, Judge,"
+      },
+      {
+        "text": "Martin, Judge,\ndissenting.\nAlthough I agree with the majority opinon that the rule of law in this court is one of resolving doubt in favor of the applicant, I do not find appellant\u2019s case so strong here as to call that rule into play. For the reasons given by the examiner and the board, it is my view that the claimed method and apparatus for simultaneously controlling the parison wall thickness along its length and in its cross section are obvious in view of the references of record. I would affirm.",
+        "type": "dissent",
+        "author": "Martin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Paul N. Kokulis (S. Calvin \"White, Lawrence A. Symo, of counsel) for appellant.",
+      "Clarence W. Moore (J. F. Nakamura, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "362 F. 2d 293; 150 USPQ 105\nIn re Jack H. Hofstetter\n(No. 7529)\nUnited States Court of Customs and Patent Appeals,\nJune 23, 1966\nPaul N. Kokulis (S. Calvin \"White, Lawrence A. Symo, of counsel) for appellant.\nClarence W. Moore (J. F. Nakamura, of counsel) for the Commissioner of Patents.\n[Oral argument December 8, 1965 by Mr. White and Mr. Nakamura]\nBefore Worley, Chief Judge, and Rich, Martin, Smith, and Almond, Jr., Associate Judges\nPetition for rehearing denied October 6, 1966."
+  },
+  "file_name": "1545-01",
+  "first_page_order": 867,
+  "last_page_order": 874
+}

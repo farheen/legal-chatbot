@@ -1,0 +1,64 @@
+{
+  "id": 12488911,
+  "name": "MILBURN, Christopher Allan v. STATE of Maryland",
+  "name_abbreviation": "Milburn v. State",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 466, Sept. Term, 2016",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 173,
+    "sha256": "5d6ace3bd4284adea5c072ad21e9c9a79cf19e0164513871f1d7ead906207450",
+    "simhash": "1:09c244b1f2e98f10",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MILBURN, Christopher Allan\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "MILBURN, Christopher Allan\nv.\nSTATE of Maryland\nPet. Docket No. 466, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0760-03",
+  "first_page_order": 760,
+  "last_page_order": 760
+}

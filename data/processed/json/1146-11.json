@@ -1,0 +1,58 @@
+{
+  "id": 12488425,
+  "name": "In the Interest of: K.D.T., a Minor",
+  "name_abbreviation": "In re K.D.T.",
+  "decision_date": "2016-05-12",
+  "docket_number": "3376 EDA 2015",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 105,
+    "sha256": "43e509c5cb7dbd973ff22882e35b529f6f2e02519ea5661e36c6efcbbc47435b",
+    "simhash": "1:b014f631dfb807c2",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: K.D.T., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: K.D.T., a Minor\n3376 EDA 2015\nSuperior Court of Pennsylvania.\nMay 12, 2016\nAffirmed"
+  },
+  "file_name": "1146-11",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

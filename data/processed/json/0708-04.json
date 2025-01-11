@@ -1,0 +1,64 @@
+{
+  "id": 12486863,
+  "name": "Harper, Victor Steven v. State of Maryland",
+  "name_abbreviation": "Harper v. State",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 202; Sept. Term, 2016",
+  "first_page": "708",
+  "last_page": "708",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 708"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 167,
+    "sha256": "f1314de49504d428174dae23798016162a67ca9d666295862f00ccc89b0eb6f3",
+    "simhash": "1:2c624600c0cc0210",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harper, Victor Steven\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harper, Victor Steven\nv.\nState of Maryland\nPet. Docket No. 202\nSept. Term, 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0708-04",
+  "first_page_order": 708,
+  "last_page_order": 708
+}

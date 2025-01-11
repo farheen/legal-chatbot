@@ -1,0 +1,193 @@
+{
+  "id": 6086910,
+  "name": "In re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart",
+  "name_abbreviation": "In re Rainer",
+  "decision_date": "1967-06-02",
+  "docket_number": "No. 7668",
+  "first_page": "1445",
+  "last_page": "1454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1445"
+    },
+    {
+      "type": "parallel",
+      "cite": "153 U.S.P.Q. 802"
+    },
+    {
+      "type": "parallel",
+      "cite": "377 F.2d 1006"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "343 USPQ 186",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 F. 2d 363",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077403,
+        2012118
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0720-01",
+        "/f2d/282/0363-01"
+      ]
+    },
+    {
+      "cite": "48 CCPA 720",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077403
+      ],
+      "weight": 2,
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/48-2/0720-01"
+      ]
+    },
+    {
+      "cite": "283 U.S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        434451
+      ],
+      "year": 1931,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/283/0664-01"
+      ]
+    },
+    {
+      "cite": "377 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2028874,
+        6086741
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/377/0610-01",
+        "/ccpa/54-2/1315-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 1315",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086741
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/1315-01"
+      ]
+    },
+    {
+      "cite": "483 Mar. 2",
+      "category": "reporters:state",
+      "reporter": "A.K. Marsh.",
+      "pin_cites": [
+        {
+          "page": "1954"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "305 F. 2d 505",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12165970,
+        251606
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1243-01",
+        "/f2d/305/0505-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 1243",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12165970
+      ],
+      "weight": 2,
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/1243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 956,
+    "char_count": 22676,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 1.586265004301859e-07,
+      "percentile": 0.6812816113989657
+    },
+    "sha256": "48d48912d2b49abaf70ddbc97a7b07776d6650a2fc16a578d3097d6432abab33",
+    "simhash": "1:64bf2b49c1df4d13",
+    "word_count": 3458
+  },
+  "last_updated": "2024-02-27T19:01:39.401188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Worley, Chief Judge, Bich, Martin, Smith and Almond, Associate Judges"
+    ],
+    "parties": [
+      "In re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart"
+    ],
+    "opinions": [
+      {
+        "text": "Bich, Judge,\ndelivered the opinion of the court:\nThe appeal is from decisions of the Board of Appeals, affirming the examiner\u2019s rejection of claims 2-6, 8-12, 17, 20, and 48-59 in application serial No. 12,339, filed March 2, 1960, entitled \u201cPolyethylene.\u201d Claims 18 and 63 have been allowed.\nIntroduction\nThe invention relates to graft copolymers of polyethylene and certain other compounds, their method of preparation, and articles made thereof. The following claims are typical of those rejected:\n2. A process comprising irradiating normally solid polyethylene at a dosage of at least about 2 X 10\u00b0 REP in contact with a material selected from the group consisting of a polymerizable ethylenieally unsaturated hydrocarbon monomer other than ethylene, halogenated styrene, alkyl acrylates, alkyl meth-acrylates, dialkenyl oxalates, diallyl phthalate, diallymaleate, diallyl fumarate, dialkyl maleates and dialkyl fumarates to form a graft polymer.\n9. A bottle made of irradiated polyethylene, the irradiation being to an extent of at least 2 X 10\u00b0 REP, having grafted thereto a polymer formed by polymerizing a member of the group consisting of polymerizable ethylenieally unsaturated hydrocarbon monomer other than ethylene, halogenated styrene, alkyl acrylates, alkyl methacrylates, N,N-methylene-bis-acrylamide, dialkenyl oxalates, diallyl phthalate, triallyl eyanurate, diallyl maleate, diallyl fumarate, triallyl melamine, dialkyl maleates and dialkyl fumarates on said polyethylene.\n17. A graft polymer of irradiated polyethylene with a polymer of an ethylenically nnsaturated hydrocarbon monomer, other than ethylene, said polymer of said monomer being formed in the presence of said polyethylene, said irradiation being to an extent of at least 2 X 10\u00b0 REP.\n49. The process of preparing a shaped article exhibiting dimensional and thermal stability and resistance to oxidative degradation at temperatures up to 250\u00b00. which comprises (1) preparing an intimate mixture of from 60 to 95 parts by weight of (a) polyethylene, and a complementary proportion of from 40 to 5 parts by weight of (b) at least one organic compound selected from the group consisting of monomeric esters of methacrylic acid and monomeric esters of acrylic acid; (2) preparing a shaped article from said mixture, and (3) irradiating said shaped article with high energy, ionizing radiation for a time sufficient to provide a radiation dose of from 36 X 10\u00b0 rads to 720 X 105 rads.\n57. A bottle made of irradiated polyethylene, the irradiation being to an extent of at least 2 X 10\u00b0 REP, having grafted thereto a polymer formed by polymerizing a material selected from the group consisting of a polymerizable ethylenically unsaturated hydrocarbon monomer other than ethylene, alkyl acrylates and alkyl methacrylates.\nClaims 3-6, and 12, 20, and 48 are dependent upon el aim 2 and recite additional limitations including tlie presence of a \u201cfree radical engendering compound,\u201d an inert atmosphere, a vacuum, an irradiation dosage of at least 6 X 106 REP and a temperature of at least the transition point of polyethylene. Claim 8 restricts the material in contact with polyethylene in the process of claim 2 to a hydrocarbon monomer.\nClaims 10 and 11 restrict the polymer coating of claim 9 to the exterior and interior of the bottle respectively.\nClaims 50-54 and 56 are process claims which require the same three basic steps as claim 49. Claim 65 is directed to a shaped article made by the process of claim 49.\nClaims 58 and 59 restrict the polymer coating of claim 57 to the exterior and interior of the bottle respectively.\nThe board affirmed rejections of the appealed claims on the bases of res judicata, obviousness, inadequate disclosure, and indefiniteness (improper Markush group). It relied on In re Rainer, 49 CCPA 1243, 305 F. 2d 505, 134 USPQ 343 (1962), Lawton et al., Irradiation of Polymers by High-Energy Electrons, 172 Nature 76-77 (1953) and the following patents:\nCole_ 2, 919, 473 Jan. 5, 1960\nBrophy_ 2, 670, 483 Mar. 2, 1954\nIn In re Rainer, while reversing as to some claims, we affirmed rejections of several claims in an application of which the present application is a continnation-in-part. The former application was concerned with \u201ccondensation products of polyethylene with other polymers and ethylenically unsaturated monomers,\u201d characterized as \u201cnew cross-linked polymers of increased strength and rigidity * * These were prepared by the irradiation of polyethylene \u201cin the presence of other non-polar or only slightly polar polymers or ethylen-ically unsaturated monomers.\u201d The following claims are typical of those whose rejection was affirmed:\n81. A process comprising irradiating normally solid polyethylene at a dosage of at least about 2 X 10\u00b0 REP admixed with a material selected from the group consisting of hydrocarbon polymers containing a plurality of isobutylene units, a liquid partially depolymerized rubber, a liquid butadiene styrene copolymer, a liquid butadiene acrylonitrile polymer, a polymerizable ethylenically unsaturated hydrocarbon monomer other than ethylene, halogenated .styrene, alkyl acrylates, alkyl methacrylates, N,N-methylene-bis-aerylamide, dialkenyl oxa-lates, diallyl phthalate, ethylene glycol dimethacrylate, triallyl cyanurate, dial-lyl maleate, diallyl fumarate, triallyl melamine, dialkyl maleates and dialkyl fumarates to form a cross-linked polyethylene copolymer.\n39. A process comprising irradiating normally solid polyethylene at a dosage of between about 2 X 10\u00b0 REP and 200 X 105 [REP] with high energy radiation equivalent to at least about 750,000 electron volts admixed with a material selected from the group consisting of hydrocarbon polymers containing a plurality of isobutylene units, a liquid partially depolymerized rubber, a liquid butadiene styrene copolymer, a liquid butadiene acrylonitrile polymer, a polymerizable ethylenically unsaturated hydrocarbon monomer other than ethylene, halogenated styrene, alkyl acrylates, alkyl methacrylates, N,N-methylene-bis-acrylamide, dialkenyl oxalates, diallyl phthalate, ethylene glycol dimethacrylate, triallyl cyanurate, diallyl maleate, diallyl fumarate, triallyl melamine, dialkyl maleates and dialkyl fumarates to form a cross-linked polyethylene copolymer.\n40. A process according to claim 39 in which .said material is a polymerizable ethylenically unsaturated hydrocarbon monomer.\nThe Lawton et al. (hereafter Lawton) reference describes the irradiation of various polymers and lists those which became cross-linked and those which became degraded. The former include:\nPolyacrylic esters\nPolystyrene\nPolyesters\nNylon\nPolyethylene\nChlorinated polyethylene\nChlorosulphonated polyethylene\nNatural rubber\nGRS\nButadiene-acrylonitrile copolymers\nNeoprene-W\nNeoprene-GN\nPolydimethylsiloxanes\nStyrene-acrylonitrile copolymers\nLawton also teaches:\nA number of other polymer mixtures, co-polymers, and polymer monomer mixtures have also been found to become cross-linked as a result of irradiation. Although the mechanism of the process is not well established in each of the ahoye examples, some general statements covering possible mechanisms can be made. These, however, will be reserved for future publications.\nBrophy discloses the use of a peroxy compound (benzoyl peroxide) in an irradiation polymerization of polyethylene monomer materials.\nCole teaches the desirability, in certain instances, of conducting the irradiation of polymeric materials in an inert atmosphere in order \u201cto minimize oxidation by atmospheric oxygen.\u201d\nRes Judicata\nThe board affirmed the rejection of claims 2-6, 8, 12,17, 20, and 48 on the ground of res judicata, citing In re Rainer, supra. It reasoned that the reference to graft copolymers in the appealed claims was insufficient to impart the necessary \u201csubstantial or critical distinction\u201d from the adjudicated claims. The board noted, without much elaboration, that a changed characterization of the product would create no distinction in the process. \u201cThe process of claims 39 and 40 of the prior application * * * did not become a new process because appellants changed the label of the product which results from the irradiation * * \u215c .\u201d Claims 5, 6, and 48, directed to irradiation in an atmosphere free of oxygen, were not, in the board\u2019s opinion, different enough from the adjudicated claims to avoid res judicata, inasmuch as \u201cthe prior art well appreciated the desirability of excluding oxidizing gases during irradiation * * * .\u201d\nWe have recently restricted the application of res judicata in ex parte patent cases. In re Herr (Patent Appeal No. 7751, decided May 11, 1967), 54 CCPA 1315, 377 F. 2d 610, 153 USPQ 548. We, therefore, apply that doctrine herein only to the extent of precluding consideration of reargument of the issue of the obviousness, in view of Lawton, of the preparation of the cross-linked polymers of the earlier case by the process there disclosed, as discussed in the next section of this opinion.\nObviousness\nThe board affirmed the rejection of claims 2, 8, 12, 17, and 20, as obvious in view of Lawton.\nAppellants\u2019 essential challenge to this decision is based on their characterization of the compounds here involved as graft polymers. The Lawton reference makes no mention of graft polymerization. The question, of course, is whether this makes a difference. We fbink not.\nThe compounds under discussion in this case were involved in the earlier case. Their properties, of course, have not changed. Appellants seem to urge that their denomination as graft polymers somehow imparts unobviousness to both compounds and process. We think that this contention must fail because the obviousness of neither is properly controverted. Appellants do not contend that these are different compounds than those which would be within the contemplation of one of ordinary skill with the reference before him nor that the properties thereof would be unexpected. Characterization is not strong enough a peg to support patentability. Even were appellants to have discovered that the obvious compounds might properly be designated \u201cgraft polymers,\u201d they could not prevail. See DeForest Radio Co. v. General Electric Co., 283 U.S. 664 (1931).\nAppellants urge that claim 20 is patentable over Lawton for the additional reason that it is limited to irradiation \u201cat a temperature of at least the transition point of the polyehylene.\u201d They argue:\nThe examiner made no attempt to show that Lawton taught the use of such high temperatures but merely alleged that appellants did not show that the temperature was critical * * *. The issue is not whether the higher temperature is taught to be critical by appellants but whether the higher temperature would be obvious in view of Lawton. There is no suggestion in Lawton of using such high temperatures.\nWe cannot agree. Criticality must be established before unobvi-ousness can be predicated on the selection of a temperature within the range disclosed by the reference.\nClaims 3 and 4, rejected as obvious in view of Lawton and Brophy, concededly stand or fall with claim 2. Accordingly, their rejection is affirmed.\nWe, therefore, affirm the rejection of claims 2, 8, 12, 1Y, and 20 for generally the same reasons that we gave in the earlier case.\nClaims 5, 6, and 48 were rejected as obvious in view of Lawton and Cole. Appellants urge that the limitations in these claims, viz., a requirement for irradiation \u201cin an inert fluid atmosphere,\u201d \u201cin a vacuum,\u201d and \u201cin an inert gas atmospherere,\u201d render them unobvious.\nAppellants5 specification teaches that ozone has an adverse effect on polyethylene and its graft copolymers and that it is therefore \u201cfrequently desirable\u201d to conduct the irradiation in an inert gas atmosphere and \u201csometimes desirable\u201d to conduct it in a vacuum. Cole teaches that \u201cin certain instances\u201d irradiation in an inert atmosphere is desirable to minimize oxidation by atmospheric oxygen. We believe Cole\u2019s teaching would make obvious the utilization of either an inert atmosphere or a vacuum in a process for the irradiation of polyethylene. The relevancy of Cole\u2019s teaching here is in the disclosure of the desirability of irradiation in the absence of oxygen. We therefore attach little importance to Cole\u2019s failure to mention the use of a vacuum.\nWe also feel that the criticality of the use of a vacuum is questionable. The language of the specification as a whole certainly would not lead one to think that the nature of the ambient atmosphere constituted a critical part of appellants\u2019 invention. \u201cGood ventilation,\u201d in fact, is mentioned as an alternative to the inert gas or vacuum. We affirm the rejection of claims 5, 6, and 48 for obviousness.\nInadequate Disclosure\nClaims 2-6, 8-12, 17, 20, 48, and 57-59 were rejected on the ground that the disclosure was inadequate to support them. Our affirmance of the obviousness rejection makes it necessary to discuss only claims 9-11 and 57-59.\nThe rejection on inadequate disclosure was made by the board under Rule 196(b). The board directed attention to the following portion of appellants\u2019 specification:\nInstead of mixing polyethylene with any of the above materials, it is also possible to employ grafted polymers, wherein ethylenically unsaturated monomers are grafted to polyethylene. Suitable monomers for grafting purposes include isoprene, cyclopentadiene, styrene, a-methyl styrene, alkyl substituted styrenes, such as O-vinyl toluene, p-vinyl toluene, m-vinyl toluene, and p-ethyl styrene, dialkenyl benzenes, e.g., para-divinyl benzene, ring halogenated sty-renes, such as o-ehlorostyrene, p-chlorostyrene, 2,4-diehlorostyrene and 2,6-dichlorostyrene, etc. The hydrocarbon monomers are preferred for grafting purposes.\nAlso, there can be used monomers such as alkyl acrylates and methacrylates, e.g., methyl acrylate, ethyl acrylate, methyl methacrylate, butyl acrylate, octyl acrylate, butyl methacrylate, octyl methacrylate, N,N-methylene-bis-acrylamide, polyallyl esters, e.g., diallyl phthalate, diallyl oxalate, ethylene glycol dimeth-aerylate, triallyl cyanurate, bis-allyl carbonates, diallyl mal\u00e9ate, and diallyl fumarate, dialkenyl oxalates, e.g., diallyl oxalate, triallyl melamine, dialkyl maleates and fumarates, e.g., diethylmaleate and diethyl fumarate, etc.\nAppellants\u2019 examples include descriptions of the irradiation of polyethylene bottles coated with various monomers. It is noted that, when ethylene glycol dimethacrylate was used, \u201cThe coating solidified but did not wet the polyethylene\u201d and that \u201ca readily peelable coating was formed.\u201d The parties agree that no graft copolymer was formed in this example. Other examples specifically refer to the product of irradiation of p-divinyl benzene and of styrene as graft copolymers. (A claim directed to the latter was allowed.) Examples are also given of the irradiation of about half a dozen other monomers without any reference to the formation of graft copolymers. The rationale of the rejection is stated in the solicitor\u2019s brief:\nThe rationale of the above noted rejection is adequately stated by the Board of Appeals * * *. Essentially, it is based on the fact that, although the present specification catalogs a large number of monomers * * * which can be irradiated with polyethylene to form graft cross-linked copolymers, that catalog of monomers includes ethylene glycol dimethacrylate which further on in the specification * * * is shown not to form a graft cross-linked copolymer * * *. Consequently, the Board properly concluded that the disclosure would be considered adequate as to those monomers actually shown by the examples (or otherwise in the original disclosure) to form graft cross-linked copolymers with the polyethylene * * * but inadequate as to any other monomers or the very broad category of \u201cpolymerizable ethylenically unsaturated hydrocarbon monomers\u201d, which include monomers such as vinyl acetylene not even mentioned in the appellants\u2019 catalog of monomers.\nThe thrust of the inadequate disclosure rejection is that appellants have claimed more broadly than they have invented. It is maneuvered into the shadow, at least, of section 112 by the observation that the specification gives no indication whether these monomers for which there is no specific example will behave on irradiation like styrene, which forms a graft copolymer, or like ethylene glycol dimethacrylate, which does not.\nThe adequacy of the disclosure is a function of the nature of the disclosure. In re Cavallito, 48 CCPA 720, 282 F. 2d 363, 127 USPQ 206 (1960). In chemical cases, important considerations include the type of reactions, the state of the art, the representative nature of the examples, and the breadth of the claims. The question which must be asked in every case is whether the claims are, in fact, reasonable definitions of the inventions disclosed.\nThe present case is unusual in that appellants\u2019 specification is the evidence of its own inadequacy. The board properly relied upon it. We think the board properly rejected claims 9-11 for inadequate disclosure. Each of those claims includes several polyallyl esters. But the only polyallyl ester whose irradiation is reported did not form a graft copolymer. We, therefore, affirm the rejection of claims 9-11.\nWe think the board erred in its affirmance of the rejection of claims 57-59. (Claim 57 is quoted above.) These claims are said by appellants to be drawn to those classes of compounds for which working examples were provided. The board did not agree that working examples had been provided. Apparently because of inconsistency in the specification, the board refused to infer the production of graft copolymers in the examples of polyethylene-monomer irradiation. We feel that a fair reading of the specification as a whole demands such an inference. The specification states, as the introduction to its catalog of monomers, that \u201cit is often possible to employ grafted polymers.\u201d It then gives examples of monomer irradiation, making clear in one example that a graft copolymer was not formed. It seems clear to us that the specification as a whole implies the production of graft copolymers in each example where there is no contrary indication. We therefore reverse the rejection of claims 57-59 on the ground of inadequate disclosure.\nClaims 57-59 were also rejected for the presence therein of Markush groups of diminished scope in relation to the Markush group of claim 9. Since we have affirmed the rejection of claim 9 there is no longer a basis for this objection and we reverse this rejection.\nClaims Refused Entry\nClaims 49-56, which were presented after final rejection for the purpose of provoking an interference with a patent from which they were copied with modifications, were refused entry by the examiner for inadequate support. Appellants\u2019 brief delineates the issue:\nThe only issue as to support is whether the application discloses the sequence-of three method steps called for by claims 49-56 (R. 35). These three method, steps in order are:\n(1) Preparing an intimate mixture of polyethylene with the monomer.\n(2) Preparing a shaped article from the mixture; and\n(3) Irradiating the shaped article.\nMore precisely, the question is whether appellants\u2019 specification discloses the irradiation of a shaped intimate mixture of polyethylene and monomer.\nAppellants point to the disclosure of the irradiation of polyethylene-monomer blends of a certain thickness and argue that the irradiation of a sheet is thus disclosed. And a sheet, in appellants\u2019 opinion,, is a \u201cshaped article.\u201d It seems to us that the essence of appellants\u2019 argument is that all polymer-monomer mixtures, since necessarily of some thickness, constitute shaped articles. We do not believe that \u201cshaped\u201d has this minimal meaning in appellants\u2019 claims. We could not attribute any significance to the second step \u2014 \u201cpreparing a shaped article from said mixture\u201d \u2014 if all mixtures were inherently shaped articles.\nAppellants also urge us to consider the entire teaching of the specification, particularly certain examples allegedly disclosing the irradiation of polyethylene-pofo/mer blends, and to imply in it a teaching of interchangeability of the polymers and monomers. In our reading of the specification we find no such implication. The rejection of claims 49-56 is affirmed.\nSummary\nThe rejection of claims 2-6, 8-12, 20, 48-56 is affirmed. The rejection of claims 57-59 is reversed. The decision of the board is modified.\nWorley, C.J., and Almond, J., concur in the result.\nMaetin, J., participated in the -hearing of this case but died before a decision was reached.\nThis case was twice before a board consisting of Asp and Lidoff, Examiners-in-Chief, and Behrens, Acting Examiner-in-Chief. The latter wrote both opinions.\nA REP, as is recognized in the art, is defined as that amount of nuclear radiation \u25a0which dissipates 93 ergs of energy per gram of tissue producing 1.61 X 1012 ion pairs in the process. It is approximately equal to the amount of energy that would be dissipated by a one roentgen X-ray beam in a gram of tissue.\nAppellants assert that the Patent Office Is bound by its tacit admission and the holding of the court in Magat v. Ladd, 343 USPQ 186 (D. D.C. 1964). There the court observed that the Patent Office had \u201ctacitly conceded\u201d the distinction between graft polymers and cross-linked polymers. The court held that Lawton in no way suggests graft polymers nor is the process disclosed capable of producing them. The evidence in that case apparently showed that cross-linked and graft polymers are mutually exclusive entities. We are not here so impeded, having before us the contrary assertions of both appellants and Patent Office. We have recently emphasized the importance of the identity of the records when the preclusive effect of earlier litigation between the same parties is urged. In re Herr, supra. A fortiori, divergent records and different parties forbid the attribution of any preclusive effect. Appellants\u2019 \u201cadditional\u201d argument, for the patent-ability of claim 17, based on Magat, therefore fails.\nPatent No. 3,079,312 to Alsys, Feb. 26, 1963, to E. I. duPont de Nemours and Company, assignee.",
+        "type": "majority",
+        "author": "Bich, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Alvm Guttag (O. Edward Parker, of counsel) for appellants.",
+      "Joseph Schimmel (Jack E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "377 F. 2d 1006; 153 USPQ 802\nIn re William C. Rainer, Edward M. Redding, Joseph J. Hitov, Arthur W. Sloan and William D. Stewart\n(No. 7668)\nUnited States Court of Customs and Patent Appeals,\nJune 2, 1967\nAlvm Guttag (O. Edward Parker, of counsel) for appellants.\nJoseph Schimmel (Jack E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument October 6, 1966 by Mr. Guttag and Mr. Armore]\nBefore Worley, Chief Judge, Bich, Martin, Smith and Almond, Associate Judges"
+  },
+  "file_name": "1445-01",
+  "first_page_order": 785,
+  "last_page_order": 794
+}

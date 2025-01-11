@@ -1,0 +1,58 @@
+{
+  "id": 12485829,
+  "name": "Estate of: Edward Stahl",
+  "name_abbreviation": "In re Estate of Stahl",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 1764 EDA 2015",
+  "first_page": "587",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 116,
+    "sha256": "a6e2f74c3f718703b72533942b39c51752ca60600cc174272cedb742a1861556",
+    "simhash": "1:b157738308b0b9c5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Estate of: Edward Stahl"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Estate of: Edward Stahl\nNO. 1764 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0587-03",
+  "first_page_order": 587,
+  "last_page_order": 587
+}

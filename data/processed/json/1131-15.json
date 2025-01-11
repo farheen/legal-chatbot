@@ -1,0 +1,58 @@
+{
+  "id": 12488198,
+  "name": "Com. v. James, E.",
+  "name_abbreviation": "Com v. James",
+  "decision_date": "2016-05-02",
+  "docket_number": "1777 WDA 2014",
+  "first_page": "1131",
+  "last_page": "1131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 86,
+    "sha256": "ae3f53695e569d5fbe170ef643da0673f4e4ff747f4ce0e485ce02105d095637",
+    "simhash": "1:b46779f8f7a923a4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJames, E."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJames, E.\n1777 WDA 2014\nSuperior Court of Pennsylvania.\nMay 2, 2016\nAffirmed"
+  },
+  "file_name": "1131-15",
+  "first_page_order": 1131,
+  "last_page_order": 1131
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12489644,
+  "name": "FOX v. KING",
+  "name_abbreviation": "Fox v. King",
+  "decision_date": "2017-01-30",
+  "docket_number": "16\u2013437",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "159 A.3d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "7ba70f0021f6a591b6fa163e02f44bf8a74424c956473c9a7884848c8afdb2b0",
+    "simhash": "1:7c150f32c9c04640",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017162+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FOX\nv.\nKING"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "FOX\nv.\nKING\n16-437\nSupreme Court of Vermont.\nJanuary 30, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0649-05",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

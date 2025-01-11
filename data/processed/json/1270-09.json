@@ -1,0 +1,59 @@
+{
+  "id": 6082307,
+  "name": "Ex parte Wendel M. Schneider",
+  "name_abbreviation": "Ex parte Schneider",
+  "decision_date": "1945-05-23",
+  "docket_number": "No. 4982",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 C.C.P.A. 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 101,
+    "ocr_confidence": 0.45,
+    "sha256": "a54ab6030724a4333badd9b13b2c564707770aa307f785c3c90cced05e859835",
+    "simhash": "1:0952a000125c053b",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:03:11.359845+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Wendel M. Schneider"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in sanitary mouthpiece for bottles.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 23, 1945\nEx parte Wendel M. Schneider\n(No. 4982)"
+  },
+  "file_name": "1270-09",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

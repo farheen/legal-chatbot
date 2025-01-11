@@ -1,0 +1,58 @@
+{
+  "id": 12490452,
+  "name": "KERNS, S. v. J.L.R.",
+  "name_abbreviation": "Kerns v. J.L.R.",
+  "decision_date": "2017-03-08",
+  "docket_number": "234 CD 2016",
+  "first_page": "295",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 127,
+    "sha256": "204fad00b6b70bc2da116ed25b8caa3fdea8671b8388ccd1aa8851c36eb29b80",
+    "simhash": "1:3f71ef35e4cd3e79",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KERNS, S.\nv.\nJ.L.R."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "KERNS, S.\nv.\nJ.L.R.\n234 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 8, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0295-13",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488706,
+  "name": "In re Dashno",
+  "name_abbreviation": "In re Dashno",
+  "decision_date": "2016-07-13",
+  "docket_number": "15-266",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "94064c0cb1d0e8854c9bd4d496911b8ed33b5a3b02d2d6bd036dd33bb3734380",
+    "simhash": "1:563951258211de41",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Dashno"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Dashno\n15-266\nSupreme Court of Vermont.\nJuly 13, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0343-13",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

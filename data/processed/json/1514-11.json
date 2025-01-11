@@ -1,0 +1,59 @@
+{
+  "id": 6093044,
+  "name": "In re Nathan Kaplan",
+  "name_abbreviation": "In re Kaplan",
+  "decision_date": "1968-04-12",
+  "docket_number": "No. 8285",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 62,
+    "ocr_confidence": 0.491,
+    "sha256": "514e6a92d03fdcfe9d92d8e8d601506bbf039b6ba948d8b909de9f0d7da2308a",
+    "simhash": "1:e1157ef6bff0ce9a",
+    "word_count": 11
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Nathan Kaplan."
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Tire retread.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 12, 1968\nNo. 8285.\nIn re Nathan Kaplan."
+  },
+  "file_name": "1514-11",
+  "first_page_order": 854,
+  "last_page_order": 854
+}

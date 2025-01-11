@@ -1,0 +1,58 @@
+{
+  "id": 12485800,
+  "name": "Com. v. J. McMaster",
+  "name_abbreviation": "Com. v. McMaster",
+  "decision_date": "2016-02-03",
+  "docket_number": "NO. 156 EDA 2015",
+  "first_page": "585",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 111,
+    "sha256": "890987cfdfdbf9b622d02b7def0d9b9dbf3eeb87bb1daf701bc8d43b32a22582",
+    "simhash": "1:bc564ad029c818e5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. McMaster"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. McMaster\nNO. 156 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 03, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0585-04",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

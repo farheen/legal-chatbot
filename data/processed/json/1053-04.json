@@ -1,0 +1,59 @@
+{
+  "id": 6080854,
+  "name": "In re Khalil",
+  "name_abbreviation": "In re Khalil",
+  "decision_date": "1957-11-08",
+  "docket_number": "No. 6310",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1053"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 75,
+    "ocr_confidence": 0.45,
+    "sha256": "0123633bc871919feae6e484f38c2219ded2404a169c9b629eeb7dab6a5e6a68",
+    "simhash": "1:3bf654759c13cf9c",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Khalil"
+    ],
+    "opinions": [
+      {
+        "text": "Improvements in a tubeless tire.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "November 8, 1957\nIn re Khalil\n(No. 6310)."
+  },
+  "file_name": "1053-04",
+  "first_page_order": 383,
+  "last_page_order": 383
+}

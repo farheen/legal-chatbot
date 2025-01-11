@@ -1,0 +1,58 @@
+{
+  "id": 12487208,
+  "name": "Com. v. W. Sanchez",
+  "name_abbreviation": "Com. v. Sanchez",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 937 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "c46f0bbed2c0348ed71530cd9a1b8ad4370030226250cfeab342e06171d11919",
+    "simhash": "1:a8cd676198315580",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nW. Sanchez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nW. Sanchez\nNO. 937 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAffirmed."
+  },
+  "file_name": "0770-03",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

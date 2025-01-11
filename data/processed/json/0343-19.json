@@ -1,0 +1,58 @@
+{
+  "id": 12488712,
+  "name": "In re C.W.",
+  "name_abbreviation": "In re C.W.",
+  "decision_date": "2016-07-13",
+  "docket_number": "16-076",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "1860d8ff2b358f0f4ed13ae8943e29565d8190a045e77bc6cda4f411b7c95c80",
+    "simhash": "1:7471432adeb3c264",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re C.W."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re C.W.\n16-076\nSupreme Court of Vermont.\nJuly 13, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0343-19",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

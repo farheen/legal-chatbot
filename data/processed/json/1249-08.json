@@ -1,0 +1,59 @@
+{
+  "id": 6084705,
+  "name": "In re Breuler",
+  "name_abbreviation": "In re Breuler",
+  "decision_date": "1950-01-11",
+  "docket_number": "No. 5652",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 96,
+    "ocr_confidence": 0.53,
+    "sha256": "83ce69b2bc22508b5b20e25b5b32e882f0e29d5b0ae591bf9301aed0f32d0365",
+    "simhash": "1:14251bf2b39bbdcc",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Breuler"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in composition of cementitious material.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 11, 1950\nIn re Breuler\n(No. 5652)."
+  },
+  "file_name": "1249-08",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

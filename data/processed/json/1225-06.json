@@ -1,0 +1,58 @@
+{
+  "id": 12485237,
+  "name": "Pedro Petrovic v. United States",
+  "name_abbreviation": "Petrovic v. United States",
+  "decision_date": "2016-05-11",
+  "docket_number": "NO. 14-CO-845",
+  "first_page": "1225",
+  "last_page": "1225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 1225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "DC",
+    "id": 25265,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 128,
+    "sha256": "cc1a73d04fd6a393f2741619362fd32e3920520d49cfb8333b62417b56b04621",
+    "simhash": "1:ff6c7201274d5e5b",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro Petrovic\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Pedro Petrovic\nv.\nUnited States\nNO. 14-CO-845\nDistrict of Columbia Court of Appeals\nMay 11, 2016\nRankin\nDisposition: Affirmed."
+  },
+  "file_name": "1225-06",
+  "first_page_order": 1225,
+  "last_page_order": 1225
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12491738,
+  "name": "STATE of New Jersey, Plaintiff, v. Tariq S. GATHERS, Defendant.",
+  "name_abbreviation": "State v. Gathers",
+  "decision_date": "2017-07-06",
+  "docket_number": "S\u2013140 September Term 2016; 079274",
+  "first_page": "152",
+  "last_page": "152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 152"
+    },
+    {
+      "type": "parallel",
+      "cite": "231 N.J. 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 948,
+    "sha256": "02b5beb358fb49a1124fe32a5e6306b7b161bffbfb1d44401baf19b021704883",
+    "simhash": "1:0e12babbe08ab8a8",
+    "word_count": 158
+  },
+  "last_updated": "2021-08-27T20:57:29.057506+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff,\nv.\nTariq S. GATHERS, Defendant."
+    ],
+    "opinions": [
+      {
+        "text": "This matter having come before the Court on the State's application seeking emergent relief related to a pending appeal (A-80-16), in the form of a stay of the Superior Court, Appellate Division's March 21, 2017 published decision; and\nA single justice of the Court having referred the application to the full Court for consideration of the State's request for a stay; and\nThe Court having reviewed the instant application and attachments, including any brief(s) to the Appellate Division filed by the parties on the motion for a stay, the Appellate Division's June 6, 2017 disposition of the motion for a stay, and the Appellate Division's published opinion of March 21, 2017, and for good cause shown; it is\nORDERED that the State's request for a stay of the Appellate Division's judgment is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff,\nv.\nTariq S. GATHERS, Defendant.\nS-140 September Term 2016\n079274\nSupreme Court of New Jersey.\nJuly 6, 2017\nORDER"
+  },
+  "file_name": "0152-03",
+  "first_page_order": 152,
+  "last_page_order": 152
+}

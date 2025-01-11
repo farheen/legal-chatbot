@@ -1,0 +1,82 @@
+{
+  "id": 7892495,
+  "name": "In re GEORGE S., Jr.",
+  "name_abbreviation": "In re George S.",
+  "decision_date": "1988-10-21",
+  "docket_number": "",
+  "first_page": "1388",
+  "last_page": "1389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "548 A.2d 1388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "495 A.2d 781",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7919452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/495/0781-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 103,
+    "char_count": 883,
+    "ocr_confidence": 0.746,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20053756029791697
+    },
+    "sha256": "c97e2f535b3d8564b7a41c923d82fcfd930fd265dfe7c711428e7f5b91a40678",
+    "simhash": "1:dfea402cc2a5125b",
+    "word_count": 138
+  },
+  "last_updated": "2024-02-27T17:03:38.923649+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and ROBERTS, WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+    ],
+    "parties": [
+      "In re GEORGE S., Jr."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe parents of George S., Jr. appeal from a judgment of the District Court (Portland, Henry, J.) terminating their parental rights pursuant to 22 M.R.S.A. \u00a7 4055 (Supp.1987). On appeal, the parents argue that the evidence does not support the judgment. After reviewing the record, we conclude that the District Court could rationally find that the requisite factual findings were proved to a high probability. In re Debra B., 495 A.2d 781 (Me.1985).\nThe entry is:\nJUDGMENT AFFIRMED.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Christopher J. Ryer, Portland, for appellants.",
+      "Christine Foster, Asst. Atty. Gen., Dept, of Human Services, for appellee.",
+      "Charles A. Lane, Portland, Guardian Ad Litem."
+    ],
+    "corrections": "",
+    "head_matter": "In re GEORGE S., Jr.\nSupreme Judicial Court of Maine.\nSubmitted on briefs Sept. 15, 1988.\nDecided Oct. 21, 1988.\nChristopher J. Ryer, Portland, for appellants.\nChristine Foster, Asst. Atty. Gen., Dept, of Human Services, for appellee.\nCharles A. Lane, Portland, Guardian Ad Litem.\nBefore McKUSICK, C.J., and ROBERTS, WATHEN, GLASSMAN, CLIFFORD and HORNBY, JJ."
+  },
+  "file_name": "1388-02",
+  "first_page_order": 1390,
+  "last_page_order": 1391
+}

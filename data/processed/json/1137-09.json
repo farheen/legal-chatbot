@@ -1,0 +1,58 @@
+{
+  "id": 12488297,
+  "name": "Com. v. Pratt, J.",
+  "name_abbreviation": "Com v. Pratt",
+  "decision_date": "2016-05-05",
+  "docket_number": "639 WDA 2015",
+  "first_page": "1137",
+  "last_page": "1137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 85,
+    "sha256": "74691cf44b4ee8bd9fa9c0ceb52dcb0feacd305903ecaaed131a5d0f7ee8e13b",
+    "simhash": "1:7c9b751bdf2b87e0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nPratt, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nPratt, J.\n639 WDA 2015\nSuperior Court of Pennsylvania.\nMay 5, 2016\nAffirmed"
+  },
+  "file_name": "1137-09",
+  "first_page_order": 1137,
+  "last_page_order": 1137
+}

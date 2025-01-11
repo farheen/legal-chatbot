@@ -1,0 +1,59 @@
+{
+  "id": 6081140,
+  "name": "In re Stanchus",
+  "name_abbreviation": "In re Stanchus",
+  "decision_date": "1958-05-02",
+  "docket_number": "No. 6416",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "45 C.C.P.A. 1054"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 82,
+    "ocr_confidence": 0.538,
+    "sha256": "50ce363a983a7f645313884d682b6923c23c6f6cf2563b21a46d5a570615c942",
+    "simhash": "1:02853189264d8508",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:52:31.430181+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Stanchus"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in argon shielded arc welding.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "May 2, 1958\nIn re Stanchus\n(No. 6416)."
+  },
+  "file_name": "1054-03",
+  "first_page_order": 384,
+  "last_page_order": 384
+}

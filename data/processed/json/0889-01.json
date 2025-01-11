@@ -1,0 +1,105 @@
+{
+  "id": 6094901,
+  "name": "In re Forest Ray Moulton",
+  "name_abbreviation": "In re Moulton",
+  "decision_date": "1930-03-03",
+  "docket_number": "No. 2243",
+  "first_page": "889",
+  "last_page": "891",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "16 App. D. C. 345",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1312342
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/16/0345-01"
+      ]
+    },
+    {
+      "cite": "14 App. D. C. 181",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1315837
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/14/0181-01"
+      ]
+    },
+    {
+      "cite": "11 App. D. C. 177",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1321698
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/11/0177-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 313,
+    "char_count": 4341,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.1735444807786091
+    },
+    "sha256": "b9691c6cfc51e9f9b9619999c4d380e34c1cbe56f85dfa1172da3b6454090466",
+    "simhash": "1:41df3821ab39be19",
+    "word_count": 719
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroo-t. Associate Judges '"
+    ],
+    "parties": [
+      "In re Forest Ray Moulton"
+    ],
+    "opinions": [
+      {
+        "text": "\u25a0 Lekroot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Commissioner of Patents rejecting claims 1, 3, 4, 5, 7, 8, 9, 10, 13, 14, 15, 16, 18, 20, 21, and 22 of appellant\u2019s application. Claims 2, 6, 12, 17, and 19 were allowed by the Patent Office.\nUpon the hearing of the appeal, appellant abandoned all of the appealed claims except claims 3, 4, 5, 21, and 22. Claims 3 and 22, which are illustrative, read as follows:\n3. In an apparatus of tlie character referred to, in combination, a picture frame, and a source of projection light comprising an ellipsoidal reflector, a light element at the primary focus thereof, said picture frame being at the second focus thereof, and a second reflector interposed between said foci.\n22. In a device of the character described, in combination, a uniformly continuously curved reflector and an objective, a source of light including a lamp bulb having its source of light situated at the primary focus of said reflector, and a reflecting surface on said bulb presented toward and curved about the light source as a center and arranged between the light source and objective.\nThe references are:\nAdams, No. 1163192, December 7, 1915.\nClark, No. 1248456, December 4, 1917.\nBallman, No. 1275120, August 6, 1918.\nThe application involves an apparatus for motion-picture projection, which consists essentially of a primary reflector whose surface of generation is an ellipse, a secondary reflector of spherical contour, and a light source positioned in relation to the primary and secondary reflectors so as to coincide with the focus of the primary reflector and the center of the secondary reflector. Preferably, the secondary reflector is formed on a portion of an incandescent bulb of spherical contour.\nThe secondary reflector serves to salvage rays which might be lost, due to not striking the primary reflector, by directing them back to it. Back of the film gate and between it and the light source is a diverging lens for rendering parallel the converging rays from the primary reflector. .\nIn appellant\u2019s brief the object of the device is concisely stated as follows:\nAppellant\u2019s invention is directed to an association of elements and to a method of projection which permits the utilization of a low source of illumination to obtain compactness without sacrificing any quantity of actual light necessary for obtaining the proper illumination. It resides in the transmission of the highest possible amount of light rays from a minimum candlepower source of illumination, avoiding the projecting of hazardous heat rays. It further resides in focusing light in a highly compact device \u2014 that is, where the light-source condensing lens and film are in very close proximity \u2014 with the minimum aberration.\nAll of the tribunals of the Patent Office passing upon appellant\u2019s application, viz, the examiner, the examiners in chief, and the commissioner, were of the opinion that the appealed claims were not allowable in view of the prior art as shown by the cited references.\nThe commissioner, in his opinion, concludes his discussion of the patentability of the appealed claims in the following language:\nI am of the opinion that Adams\u2019s light projector and the appellant\u2019s light projector have an equivalent form and function in an equivalent manner, and that no invention was involved in modifying the Adams projector as suggested by Clark and Ballman et al.\nIt is the rule that when patentable novelty has been denied by all the expert tribunals of the Patent Office, it is incumbent upon one appealing therefrom to make out a clear case of error to obtain a reversal. In re Barratt, 11 App. D. C. 177; In re Smith, 14 App. D. C. 181; In re Beswick, 16 App. D. C. 345.\nWe have carefully examined the record and the briefs of the parties and are not satisfied that the commissioner erred in affirming the rejection of the appealed claims.\nThe decision of the commissioner is affirmed.",
+        "type": "majority",
+        "author": "\u25a0 Lekroot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Paul Carpenter {J. T. Basseehes of counsel) for appellant.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Forest Ray Moulton\n(No. 2243)\nUnited States Court of Customs and Patent Appeals,\nMarch 3, 1930\nPaul Carpenter {J. T. Basseehes of counsel) for appellant.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument January 23, 1930, by Mr. Basseches and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroo-t. Associate Judges '"
+  },
+  "file_name": "0889-01",
+  "first_page_order": 339,
+  "last_page_order": 341
+}

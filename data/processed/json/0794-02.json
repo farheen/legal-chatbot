@@ -1,0 +1,83 @@
+{
+  "id": 12490917,
+  "name": "Christopher FITZPATRICK v. U.S. BANK NATIONAL ASSOCIATION, Trustee, et al.",
+  "name_abbreviation": "Fitzpatrick v. U.S. Bank Nat'l Ass'n",
+  "decision_date": "2017-09-20",
+  "docket_number": "",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 794"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 902"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "173 Conn.App. 686",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490084
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/164-2/0832-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 348,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25784399013224324
+    },
+    "sha256": "9d6722928b0438df0910e902308e2e03cacc73b9a4a06a8c74015c02fab0a1d5",
+    "simhash": "1:a81add3ada7195b6",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher FITZPATRICK\nv.\nU.S. BANK NATIONAL ASSOCIATION, Trustee, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiff's petition for certification to appeal from the Appellate Court, 173 Conn.App. 686, 164 A.3d 832 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher FITZPATRICK\nv.\nU.S. BANK NATIONAL ASSOCIATION, Trustee, et al.\nSupreme Court of Connecticut.\nDecided September 20, 2017\nRyan P. Driscoll, in support of the petition.\nPierre-Yves Kolakowski, in opposition.\nThe plaintiff's petition for certification to appeal from the Appellate Court, 173 Conn.App. 686, 164 A.3d 832 (2017), is denied."
+  },
+  "file_name": "0794-02",
+  "first_page_order": 794,
+  "last_page_order": 794
+}

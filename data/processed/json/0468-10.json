@@ -1,0 +1,58 @@
+{
+  "id": 12488820,
+  "name": "IN RE B.M.",
+  "name_abbreviation": "In re B.M.",
+  "decision_date": "2016-09-16",
+  "docket_number": "16\u2013208",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "b32ea0fe1b2852560223f5a0bdb1bd384b8eb7b3b2b7d4d00408eba4b8fc9c72",
+    "simhash": "1:7c710b169be4b201",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE B.M."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE B.M.\n16-208\nSupreme Court of Vermont.\nSeptember 16, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0468-10",
+  "first_page_order": 468,
+  "last_page_order": 468
+}

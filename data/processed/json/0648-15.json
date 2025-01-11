@@ -1,0 +1,58 @@
+{
+  "id": 12490020,
+  "name": "DAVIS, C. v. UCBR",
+  "name_abbreviation": "Davis v. UCBR",
+  "decision_date": "2016-12-07",
+  "docket_number": "348 CD 2016",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "164 A.3d 648"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 128,
+    "sha256": "26202784cf24009fbe320f2f9b812f8700d606f3088f5cccc581a1cd9f3a0938",
+    "simhash": "1:2c2ffa35c2847ffd",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.019769+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DAVIS, C.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "DAVIS, C.\nv.\nUCBR\n348 CD 2016\nCommonwealth Court of Pennsylvania.\nDecember 7, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0648-15",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

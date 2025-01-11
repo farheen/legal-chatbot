@@ -1,0 +1,59 @@
+{
+  "id": 9412098,
+  "name": "In the Matter of Robert C. JACOBS",
+  "name_abbreviation": "In re Jacobs",
+  "decision_date": "2002-06-13",
+  "docket_number": "No. 752 Disciplinary Docket No. 3",
+  "first_page": "1208",
+  "last_page": "1208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "801 A.2d 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 487,
+    "ocr_confidence": 0.673,
+    "sha256": "53813800b9ea86a145cb40741e0e08eb8b4f3ba280e79c923e01a15473ca551f",
+    "simhash": "1:99a7d13d02c7ace0",
+    "word_count": 83
+  },
+  "last_updated": "2023-07-14T16:02:53.878597+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Robert C. JACOBS."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 13th day of June, 2002, the Joint Petition to Temporarily Suspend an Attorney is granted and, pursuant to Rule 214, Pa.R.D.E., Robert C. Jacobs is placed on temporary suspension and he shall comply with all the provisions of Rule 217, Pa.R.D.E. The matter is hereby referred to the Disciplinary Board pursuant to Rule 214(f)(1), Pa.R.D.E.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Robert C. JACOBS.\nNo. 752 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nJune 13, 2002."
+  },
+  "file_name": "1208-02",
+  "first_page_order": 1200,
+  "last_page_order": 1200
+}

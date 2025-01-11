@@ -1,0 +1,58 @@
+{
+  "id": 12486550,
+  "name": "Com. v. M. Camacho",
+  "name_abbreviation": "Com. v. Camacho",
+  "decision_date": "2016-03-11",
+  "docket_number": "NO. 672 EDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "2a98d6e6602305942de75a5456f965a80327a37272f3d94fec7a145fdbe3d10c",
+    "simhash": "1:bd0b66910acf39d0",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Camacho"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Camacho\nNO. 672 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 11, 2016\nVacated and Remanded."
+  },
+  "file_name": "0196-05",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

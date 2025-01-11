@@ -1,0 +1,59 @@
+{
+  "id": 6080882,
+  "name": "In re Walter Frey",
+  "name_abbreviation": "In re Frey",
+  "decision_date": "1959-01-08",
+  "docket_number": "No. 6406",
+  "first_page": "987",
+  "last_page": "987",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "46 C.C.P.A. 987"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 113,
+    "ocr_confidence": 0.454,
+    "sha256": "2143bc30aa43b51b8d3044cd51ccd647c66db2ac96eb6e9f928658f190372b85",
+    "simhash": "1:c3c6c96940591f7b",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T22:58:36.479495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Walter Frey"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in manufacture of pig-mentary rutile titanium dioxide.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 8, 1959\nIn re Walter Frey\n(No. 6406)."
+  },
+  "file_name": "0987-04",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

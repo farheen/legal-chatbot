@@ -1,0 +1,58 @@
+{
+  "id": 12490682,
+  "name": "ADAMS, L. v. COMMONWEALTH",
+  "name_abbreviation": "Adams v. Commonwealth",
+  "decision_date": "2017-05-26",
+  "docket_number": "1076 CD 2016",
+  "first_page": "310",
+  "last_page": "310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 132,
+    "sha256": "7131c6d61c49684d9170c30b9fa7f352bc4cd1326328adb4cb83423a7abffdf8",
+    "simhash": "1:8ce1ea7487e09c7c",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ADAMS, L.\nv.\nCOMMONWEALTH"
+    ],
+    "opinions": [
+      {
+        "text": "Quashed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ADAMS, L.\nv.\nCOMMONWEALTH\n1076 CD 2016\nCommonwealth Court of Pennsylvania.\nMay 26, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0310-06",
+  "first_page_order": 310,
+  "last_page_order": 310
+}

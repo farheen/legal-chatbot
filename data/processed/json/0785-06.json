@@ -1,0 +1,58 @@
+{
+  "id": 12487424,
+  "name": "A.M.H. v. J.K.",
+  "name_abbreviation": "A.M.H. v. J.K.",
+  "decision_date": "2016-04-18",
+  "docket_number": "NO. 1842 MDA 2015",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 785"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 103,
+    "sha256": "5c2e7fa6741520493c582d69d68dc75705f095908e10a554af5049675dc0a1ea",
+    "simhash": "1:b80f0ec314b315c4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A.M.H.\nv.\nJ.K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "A.M.H.\nv.\nJ.K.\nNO. 1842 MDA 2015\nSuperior Court of Pennsylvania.\nApril 18, 2016\nVacated and Remanded."
+  },
+  "file_name": "0785-06",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

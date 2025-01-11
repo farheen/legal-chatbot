@@ -1,0 +1,58 @@
+{
+  "id": 12485750,
+  "name": "Com. v. G. Gerber, Jr.",
+  "name_abbreviation": "Com. v. Gerber",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 591 MDA 2015",
+  "first_page": "582",
+  "last_page": "582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 161,
+    "sha256": "c516227e31f994560fc038a6bf2a3fd6dcf5bef45fbbc471660e999389b9fa56",
+    "simhash": "1:a115fa89d40f8d8b",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nG. Gerber, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nG. Gerber, Jr.\nNO. 591 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed.\nPetition for reargument denied April 13, 2016."
+  },
+  "file_name": "0582-04",
+  "first_page_order": 582,
+  "last_page_order": 582
+}

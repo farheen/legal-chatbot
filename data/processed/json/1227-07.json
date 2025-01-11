@@ -1,0 +1,59 @@
+{
+  "id": 6082964,
+  "name": "Pitman v. Wilson",
+  "name_abbreviation": "Pitman v. Wilson",
+  "decision_date": "1932-11-03",
+  "docket_number": "No. 3022",
+  "first_page": "1227",
+  "last_page": "1227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "20 C.C.P.A. 1227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 7,
+    "char_count": 47,
+    "ocr_confidence": 0.524,
+    "sha256": "d5cb96c4ba07a05cf415034149403020795f45def20e889d31963b8d32baaa96",
+    "simhash": "1:8522516696f3a8ff",
+    "word_count": 7
+  },
+  "last_updated": "2023-07-14T15:25:03.635342+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pitman v. Wilson"
+    ],
+    "opinions": [
+      {
+        "text": "Frying kettles.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Pitman v. Wilson\n(No. 3022). \u2014"
+  },
+  "file_name": "1227-07",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

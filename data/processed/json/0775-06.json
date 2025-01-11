@@ -1,0 +1,58 @@
+{
+  "id": 12487286,
+  "name": "Com. v. M. McManus",
+  "name_abbreviation": "Com. v. McManus",
+  "decision_date": "2016-04-08",
+  "docket_number": "NO. 1415 MDA 2014",
+  "first_page": "775",
+  "last_page": "775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 117,
+    "sha256": "48bd468d72510cbd6900457565848d55c5294fe20158b2fd22eaf329dd0bf390",
+    "simhash": "1:4857664d1736bd8c",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. McManus"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. McManus\nNO. 1415 MDA 2014\nSuperior Court of Pennsylvania.\nApril 08, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0775-06",
+  "first_page_order": 775,
+  "last_page_order": 775
+}

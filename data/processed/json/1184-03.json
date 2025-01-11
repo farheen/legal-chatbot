@@ -1,0 +1,64 @@
+{
+  "id": 7954260,
+  "name": "Earl ELBY v. John MORAN",
+  "name_abbreviation": "Elby v. Moran",
+  "decision_date": "1980-09-25",
+  "docket_number": "No. 80-300-M.P.",
+  "first_page": "1184",
+  "last_page": "1184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "423 A.2d 1184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 312,
+    "ocr_confidence": 0.792,
+    "sha256": "722b690cef9229f6a065cfc6fdae5131afeb3e3083204f2d035bb19000d4e775",
+    "simhash": "1:34af445d9f40208f",
+    "word_count": 53
+  },
+  "last_updated": "2023-07-14T18:17:26.218735+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., and DORIS, J., did not participate."
+    ],
+    "parties": [
+      "Earl ELBY v. John MORAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of habeas corpus is denied.\nBEVILACQUA, C. J., and DORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Earl Elby, pro se.",
+      "Dennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Spec. Asst. Atty. Gen., for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Earl ELBY v. John MORAN.\nNo. 80-300-M.P.\nSupreme Court of Rhode Island.\nSept. 25, 1980.\nEarl Elby, pro se.\nDennis J. Roberts II, Atty. Gen., Alyssa L. Talanker, Spec. Asst. Atty. Gen., for respondent."
+  },
+  "file_name": "1184-03",
+  "first_page_order": 1242,
+  "last_page_order": 1242
+}

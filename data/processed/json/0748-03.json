@@ -1,0 +1,62 @@
+{
+  "id": 7956834,
+  "name": "In the Matter of Robert McLELLAN",
+  "name_abbreviation": "In re McLellan",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 80-21-A",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 433,
+    "ocr_confidence": 0.813,
+    "sha256": "0e6968bdf58ebfa37171501556bc491c1eac60419174c53e4b0943b006ee7bb7",
+    "simhash": "1:7500b07e89cc2279",
+    "word_count": 69
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Robert McLELLAN."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe motion to remand this case to the Family Court for the hearing scheduled for April 24, 1980 is granted. Upon conclusion of said hearing, the record herein shall be returned to this court forthwith.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Sumner David Stone, Cranston, for appellants.",
+      "Michael McCarthy, Providence, Dept, for Children and Their Families, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of Robert McLELLAN.\nNo. 80-21-A.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nSumner David Stone, Cranston, for appellants.\nMichael McCarthy, Providence, Dept, for Children and Their Families, for respondent."
+  },
+  "file_name": "0748-03",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

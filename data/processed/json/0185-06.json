@@ -1,0 +1,58 @@
+{
+  "id": 12486386,
+  "name": "Com. v. K. Meenan",
+  "name_abbreviation": "Com. v. Meenan",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 424 MDA 2015",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "ac4f2c4441aef6b1e41f4e01aca2478c0b02247ecc0703119de1b3447a53d20b",
+    "simhash": "1:96d3957900821588",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Meenan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Meenan\nNO. 424 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nReversed and Remanded."
+  },
+  "file_name": "0185-06",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

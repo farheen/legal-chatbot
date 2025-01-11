@@ -1,0 +1,59 @@
+{
+  "id": 12167840,
+  "name": "In re Marvin Achterhof, Miles Q. Fetterman, Nelson L. Havens and John F. McWhorter",
+  "name_abbreviation": "In re Achterhof",
+  "decision_date": "1965-03-09",
+  "docket_number": "No. 7363",
+  "first_page": "1838",
+  "last_page": "1838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1838"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 164,
+    "ocr_confidence": 0.583,
+    "sha256": "549ab31bbabe6bd41c7067cef5786460eed9f2c90c1fb1bcfd974ee7a8a6b8d4",
+    "simhash": "1:47a0e0f4b3452637",
+    "word_count": 26
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marvin Achterhof, Miles Q. Fetterman, Nelson L. Havens and John F. McWhorter"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Method of molding polyurethane and product therefrom.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 9, 1965\nIn re Marvin Achterhof, Miles Q. Fetterman, Nelson L. Havens and John F. McWhorter\n(No. 7363)."
+  },
+  "file_name": "1838-05",
+  "first_page_order": 1162,
+  "last_page_order": 1162
+}

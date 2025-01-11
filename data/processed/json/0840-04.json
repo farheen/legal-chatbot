@@ -1,0 +1,64 @@
+{
+  "id": 12489874,
+  "name": "CRUZ, Jesus Garduno v. STATE of Maryland",
+  "name_abbreviation": "Cruz v. State",
+  "decision_date": "2017-06-21",
+  "docket_number": "Pet. Docket No. 42, Sept. Term, 2017",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "162 A.3d 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 163,
+    "sha256": "0cd56e91e33ce77cceec01abd291f1e3fbdcc3091f4e0bf54aabd04ee35c24c9",
+    "simhash": "1:1d428a71d01d0311",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.018929+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CRUZ, Jesus Garduno\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "CRUZ, Jesus Garduno\nv.\nSTATE of Maryland\nPet. Docket No. 42, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJune 21, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0840-04",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

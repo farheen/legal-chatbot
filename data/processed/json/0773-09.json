@@ -1,0 +1,58 @@
+{
+  "id": 12487258,
+  "name": "Com. v. E. Dones",
+  "name_abbreviation": "Com. v. Dones",
+  "decision_date": "2016-04-06",
+  "docket_number": "NO. 1687 MDA 2015",
+  "first_page": "773",
+  "last_page": "773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "c80f37ab22e0e4b80f4125f9b2d4fbb20b6b63729e2f031cfee2071619f40a99",
+    "simhash": "1:381926cd4aa51584",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nE. Dones"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nE. Dones\nNO. 1687 MDA 2015\nSuperior Court of Pennsylvania.\nApril 06, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0773-09",
+  "first_page_order": 773,
+  "last_page_order": 773
+}

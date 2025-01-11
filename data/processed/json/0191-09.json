@@ -1,0 +1,58 @@
+{
+  "id": 12486482,
+  "name": "M. Novack v. A. Novack",
+  "name_abbreviation": "Novack v. Novack",
+  "decision_date": "2016-03-07",
+  "docket_number": "NO. 861 MDA 2015",
+  "first_page": "191",
+  "last_page": "191",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 98,
+    "sha256": "59d741ce86a1b7a177ef33837c8649fe67be8cb7a2496677edb020e7a554400f",
+    "simhash": "1:bbdf5f90d8f2198c",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M. Novack\nv.\nA. Novack"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M. Novack\nv.\nA. Novack\nNO. 861 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 07, 2016\nAffirmed."
+  },
+  "file_name": "0191-09",
+  "first_page_order": 191,
+  "last_page_order": 191
+}

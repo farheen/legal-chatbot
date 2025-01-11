@@ -1,0 +1,64 @@
+{
+  "id": 12491259,
+  "name": "HUNTER, David v. STATE of Maryland",
+  "name_abbreviation": "Hunter v. State",
+  "decision_date": "2017-10-20",
+  "docket_number": "Pet. Docket No. 224, Sept. Term, 2017",
+  "first_page": "615",
+  "last_page": "615",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 615"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "f3f21603dbde1c89e4c68a962de282b7cf79cc8f808f6c0847ce7dd982bf9bf9",
+    "simhash": "1:0f6a8250820d11d4",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T20:57:26.959830+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HUNTER, David\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari and conditional cross-petition both denied."
+    ],
+    "corrections": "",
+    "head_matter": "HUNTER, David\nv.\nSTATE of Maryland\nPet. Docket No. 224, Sept. Term, 2017\nCourt of Appeals of Maryland.\nOctober 20, 2017\nPetition for writ of certiorari and conditional cross-petition both denied."
+  },
+  "file_name": "0615-04",
+  "first_page_order": 615,
+  "last_page_order": 615
+}

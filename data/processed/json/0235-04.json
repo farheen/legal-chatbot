@@ -1,0 +1,83 @@
+{
+  "id": 12490870,
+  "name": "Reynaldo ARROYO v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Arroyo v. Comm'r of Corr.",
+  "decision_date": "2017-09-13",
+  "docket_number": "",
+  "first_page": "235",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "169 A.3d 235"
+    },
+    {
+      "type": "parallel",
+      "cite": "326 Conn. 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "172 Conn.App. 442",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489700
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/160-2/0425-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 367,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25784128727196065
+    },
+    "sha256": "9f05880b9a1f9489b97a51f91030c5ba2959dc42c0ff00fec188f9aa8d42b91f",
+    "simhash": "1:30aee00aa14967f0",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:42:08.128436+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reynaldo ARROYO\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Reynaldo Arroyo's petition for certification to appeal from the Appellate Court, 172 Conn.App. 442, 160 A.3d 425 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Reynaldo ARROYO\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided September 13, 2017\nPeter G. Billings, in support of the petition.\nBruce R. Lockwood, senior assistant state's attorney, in opposition.\nThe petitioner Reynaldo Arroyo's petition for certification to appeal from the Appellate Court, 172 Conn.App. 442, 160 A.3d 425 (2017), is denied."
+  },
+  "file_name": "0235-04",
+  "first_page_order": 235,
+  "last_page_order": 236
+}

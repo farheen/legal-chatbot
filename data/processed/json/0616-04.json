@@ -1,0 +1,64 @@
+{
+  "id": 12491263,
+  "name": "RICHTER, Charles v. STATE of Maryland",
+  "name_abbreviation": "Richter v. State",
+  "decision_date": "2017-10-20",
+  "docket_number": "Pet. Docket No. 263, Sept. Term, 2017",
+  "first_page": "616",
+  "last_page": "616",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "171 A.3d 616"
+    },
+    {
+      "type": "parallel",
+      "cite": "456 Md. 91"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 164,
+    "sha256": "d12065e753798501c06495c444b5e7409fdc5ea76f3bb9d6c428eec979b4fa80",
+    "simhash": "1:3ad61250c44d534d",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:26.959830+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RICHTER, Charles\nv.\nSTATE of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "RICHTER, Charles\nv.\nSTATE of Maryland\nPet. Docket No. 263, Sept. Term, 2017\nCourt of Appeals of Maryland.\nOctober 20, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0616-04",
+  "first_page_order": 616,
+  "last_page_order": 616
+}

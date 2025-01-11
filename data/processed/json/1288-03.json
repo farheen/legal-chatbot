@@ -1,0 +1,59 @@
+{
+  "id": 7293795,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner v. David S. KNOBLE, Respondent",
+  "name_abbreviation": "Commonwealth v. Knoble",
+  "decision_date": "2010-02-03",
+  "docket_number": "",
+  "first_page": "1288",
+  "last_page": "1288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "988 A.2d 1288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 659,
+    "ocr_confidence": 0.657,
+    "sha256": "a5f0e7b236d017f73b5affb8cf8f95d78e1fb84071e4a0e4328d93d672fd86e9",
+    "simhash": "1:7e9ff0086305cb9f",
+    "word_count": 101
+  },
+  "last_updated": "2023-07-14T17:11:23.314170+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner v. David S. KNOBLE, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of February, 2010, the Petition for Allowance of Appeal is GRANTED, LIMITED TO the issue set forth below. Allocatur is DENIED as to all remaining issues. The issue, rephrased for clarity, is:\nWhether the Superior Court erred in concluding a probationer may invoke his Fifth Amendment right against self-incrimination for an unrelated offense, regardless of whether the information will be used in subsequent criminal proceedings, and whether such invocation must be made at the time of interrogation.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner v. David S. KNOBLE, Respondent.\nSupreme Court of Pennsylvania.\nFeb. 3, 2010."
+  },
+  "file_name": "1288-03",
+  "first_page_order": 1336,
+  "last_page_order": 1336
+}

@@ -1,0 +1,62 @@
+{
+  "id": 8001495,
+  "name": "Susan CLEGG v. Antone NAPPI",
+  "name_abbreviation": "Clegg v. Nappi",
+  "decision_date": "1981-10-28",
+  "docket_number": "No. 81-254-Appeal",
+  "first_page": "1103",
+  "last_page": "1104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "438 A.2d 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 330,
+    "ocr_confidence": 0.786,
+    "sha256": "1a720b9add5579caa16a54f2198f6d3c16f7ebd9ea43fad4db4ca6add461d756",
+    "simhash": "1:8c0a1cc68bc334c3",
+    "word_count": 51
+  },
+  "last_updated": "2023-07-14T21:59:35.543107+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Susan CLEGG v. Antone NAPPI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion to affirm the order of the Family Court pursuant to Rule 16(g) is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Quinn, Cuzzone, Geremia & Pennacchia, Samuel A. Miller, Providence, for plaintiff.",
+      "Joseph F. Penza, Jr., Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Susan CLEGG v. Antone NAPPI.\nNo. 81-254-Appeal.\nSupreme Court of Rhode Island.\nOct. 28, 1981.\nQuinn, Cuzzone, Geremia & Pennacchia, Samuel A. Miller, Providence, for plaintiff.\nJoseph F. Penza, Jr., Providence, for defendant."
+  },
+  "file_name": "1103-04",
+  "first_page_order": 1087,
+  "last_page_order": 1088
+}

@@ -1,0 +1,62 @@
+{
+  "id": 7943484,
+  "name": "STATE v. Anthony TASSONE",
+  "name_abbreviation": "State v. Tassone",
+  "decision_date": "1980-03-20",
+  "docket_number": "No. 78-124-C.A.",
+  "first_page": "116",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "413 A.2d 116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 385,
+    "ocr_confidence": 0.805,
+    "sha256": "aa7fd6d2b2c297ee5715a9e9bf8c91df912ec43088ea0f5774a3822c813ac458",
+    "simhash": "1:d4b966113dc00e5b",
+    "word_count": 60
+  },
+  "last_updated": "2023-07-14T15:17:39.882574+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. Anthony TASSONE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe state\u2019s motion to withdraw the tangible evidence in this case which was introduced by the Attorney-General at defendant\u2019s trial, as prayed, is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Joel S. Chase, Spec. Asst. Atty. Gen., for plaintiff.",
+      "John F. Cicilline, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. Anthony TASSONE.\nNo. 78-124-C.A.\nSupreme Court of Rhode Island.\nMarch 20, 1980.\nDennis J. Roberts II, Atty. Gen., Joel S. Chase, Spec. Asst. Atty. Gen., for plaintiff.\nJohn F. Cicilline, Providence, for defendant."
+  },
+  "file_name": "0116-02",
+  "first_page_order": 164,
+  "last_page_order": 164
+}

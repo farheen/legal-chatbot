@@ -1,0 +1,59 @@
+{
+  "id": 6084717,
+  "name": "In re Chuck",
+  "name_abbreviation": "In re Chuck",
+  "decision_date": "1950-01-12",
+  "docket_number": "No. 5660",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 11,
+    "char_count": 75,
+    "ocr_confidence": 0.435,
+    "sha256": "2c535aeb10bb94851cebd2eb7a5e5d315db7c3fbac76f71610e9ea644a88e0f2",
+    "simhash": "1:90a4cb1a1105d880",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Chuck"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in submarine viaduct.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "January 12, 1950\nIn re Chuck\n(No. 5660)."
+  },
+  "file_name": "1249-09",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

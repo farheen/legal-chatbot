@@ -1,0 +1,62 @@
+{
+  "id": 7943698,
+  "name": "STATE v. William AMARO",
+  "name_abbreviation": "State v. Amaro",
+  "decision_date": "1981-02-26",
+  "docket_number": "No. 81-38-M.P.",
+  "first_page": "342",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "427 A.2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 337,
+    "ocr_confidence": 0.815,
+    "sha256": "16774e8ab92fdf38381708bab7efed1e5c4533c13296d3c9ea2046b0ba7dc7a2",
+    "simhash": "1:3dc0261e9e4820c7",
+    "word_count": 48
+  },
+  "last_updated": "2023-07-14T18:05:01.903490+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v. William AMARO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for writ of certiorari is granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Kathryn A. Panciera, Spec. Asst. Atty. Gen., for plaintiff-respondent.",
+      "Dolbashian, Chappell, Chace & Forte, Paul M. Chappell, Portsmouth, for defendant-petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v. William AMARO.\nNo. 81-38-M.P.\nSupreme Court of Rhode Island.\nFeb. 26, 1981.\nDennis J. Roberts II, Atty. Gen., Kathryn A. Panciera, Spec. Asst. Atty. Gen., for plaintiff-respondent.\nDolbashian, Chappell, Chace & Forte, Paul M. Chappell, Portsmouth, for defendant-petitioner."
+  },
+  "file_name": "0342-04",
+  "first_page_order": 406,
+  "last_page_order": 407
+}

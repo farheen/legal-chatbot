@@ -1,0 +1,58 @@
+{
+  "id": 12485989,
+  "name": "Com. v. K. Pratt",
+  "name_abbreviation": "Com. v. Pratt",
+  "decision_date": "2016-02-18",
+  "docket_number": "NO. 565 EDA 2015",
+  "first_page": "597",
+  "last_page": "597",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 597"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 108,
+    "sha256": "0d63d9109b8144638eaad6e6908556f3d72e3478c19576681f3ea376ba8d26fa",
+    "simhash": "1:bd8de29188b98da3",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Pratt"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Pratt\nNO. 565 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 18, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0597-04",
+  "first_page_order": 597,
+  "last_page_order": 597
+}

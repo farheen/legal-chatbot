@@ -1,0 +1,58 @@
+{
+  "id": 12486487,
+  "name": "Com. v. J. Anderson",
+  "name_abbreviation": "Com. v. Anderson",
+  "decision_date": "2016-03-07",
+  "docket_number": "NO. 1241 WDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "0d264ca5d9655e776ad4c24a9b2d9afd7038d4824926dcc81a80fe865e3feae1",
+    "simhash": "1:b91d2c445cf107c5",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Anderson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Anderson\nNO. 1241 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 07, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0192-14",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

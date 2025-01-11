@@ -1,0 +1,58 @@
+{
+  "id": 12487371,
+  "name": "Com. v. D. Mussomele",
+  "name_abbreviation": "Com. v. Mussomele",
+  "decision_date": "2016-04-14",
+  "docket_number": "NO. 1737 WDA 2015",
+  "first_page": "781",
+  "last_page": "781",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 781"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "eb7182436c0ceb3102fc19b12d15ac625dc8ddb890a5e3a99415616430b551a0",
+    "simhash": "1:099b4e6b90a59380",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Mussomele"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Mussomele\nNO. 1737 WDA 2015\nSuperior Court of Pennsylvania.\nApril 14, 2016\nAffirmed."
+  },
+  "file_name": "0781-15",
+  "first_page_order": 781,
+  "last_page_order": 781
+}

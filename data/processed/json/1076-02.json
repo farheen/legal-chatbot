@@ -1,0 +1,97 @@
+{
+  "id": 11633377,
+  "name": "COMMONWEALTH of Pennsylvania, Appellant, v. David Edward ROGERS Jr., Appellee",
+  "name_abbreviation": "Commonwealth v. Rogers",
+  "decision_date": "1999-03-26",
+  "docket_number": "",
+  "first_page": "1076",
+  "last_page": "1076",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "727 A.2d 1076"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "718 A.2d 1242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        356265,
+        11690730
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01",
+        "/a2d/718/1242-01"
+      ]
+    },
+    {
+      "cite": "553 Pa. 224",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        356265
+      ],
+      "year": 1998,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/553/0224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 505,
+    "ocr_confidence": 0.639,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24208264651722938
+    },
+    "sha256": "d41405b7f545241699b99c092891f6eb573262818b97dbea4a0d060ac3d0f6d6",
+    "simhash": "1:33e91bcae05955dc",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T17:47:37.398997+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellant, v. David Edward ROGERS Jr., Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 25th day of March, 1999, the Order of the Superior Court is affirmed. See Commonwealth v. Randolph, 553 Pa. 224, 718 A.2d 1242 (1998).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Mark D. Greenwald, Allentown, for Commonwealth.",
+      "Richard J. Makoul, Allentown, for David Edward Rogers."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellant, v. David Edward ROGERS Jr., Appellee.\nSupreme Court of Pennsylvania.\nSubmitted Oct. 27, 1998.\nDecided March 26, 1999.\nMark D. Greenwald, Allentown, for Commonwealth.\nRichard J. Makoul, Allentown, for David Edward Rogers.\nBefore FLAHERTY, C.J., ZAPPALA, CAPPY, CASTILLE, NIGRO, NEWMAN, SAYLOR, JJ."
+  },
+  "file_name": "1076-02",
+  "first_page_order": 1130,
+  "last_page_order": 1130
+}

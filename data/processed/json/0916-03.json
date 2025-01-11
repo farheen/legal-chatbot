@@ -1,0 +1,74 @@
+{
+  "id": 9289133,
+  "name": "William ROSS, Petitioner v. WORKERS' COMPENSATION APPEAL BOARD (ALLIED SIGNAL, INC. and Traveler's/Aetna), Respondents",
+  "name_abbreviation": "Ross v. Workers' Compensation Appeal Board",
+  "decision_date": "2003-12-31",
+  "docket_number": "",
+  "first_page": "916",
+  "last_page": "917",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "842 A.2d 916"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "828 A.2d 1043",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        588045,
+        9107997
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/574/0061-01",
+        "/a2d/828/1043-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 516,
+    "ocr_confidence": 0.688,
+    "sha256": "b4e03db93ab0bfe59bcaf5200132bea83cc32f8097945827c91acf0974e4d8ce",
+    "simhash": "1:740a0a37a3b30ecf",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T21:16:07.968320+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William ROSS, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (ALLIED SIGNAL, INC. and Traveler\u2019s/Aetna), Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 31st day of December, 2003, the Petition for Allowance of Appeal is hereby GRANTED, the order of the Commonwealth Court is VACATED, and the case is REMANDED for the issuance of a decision that complies with Section 422(a), of the Workers\u2019 Compensation Act, 77 P.S. \u00a7 834. See Daniels v. WCAB, 828 A.2d 1043 (Pa.2003).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William ROSS, Petitioner v. WORKERS\u2019 COMPENSATION APPEAL BOARD (ALLIED SIGNAL, INC. and Traveler\u2019s/Aetna), Respondents.\nSupreme Court of Pennsylvania.\nDec. 31, 2003."
+  },
+  "file_name": "0916-03",
+  "first_page_order": 950,
+  "last_page_order": 951
+}

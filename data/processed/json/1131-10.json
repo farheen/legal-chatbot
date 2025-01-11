@@ -1,0 +1,58 @@
+{
+  "id": 12488193,
+  "name": "Com. v. Sekely, S.",
+  "name_abbreviation": "Com v. Sekely",
+  "decision_date": "2016-05-02",
+  "docket_number": "1740 MDA 2015",
+  "first_page": "1131",
+  "last_page": "1131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 104,
+    "sha256": "0e8ed6874ef96f31a147af123379be25c014dbaa91f9163a02ee521ca316ed1f",
+    "simhash": "1:dc57544c94b11df0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSekely, S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSekely, S.\n1740 MDA 2015\nSuperior Court of Pennsylvania.\nMay 2, 2016\nReversed/Vacated/Remanded"
+  },
+  "file_name": "1131-10",
+  "first_page_order": 1131,
+  "last_page_order": 1131
+}

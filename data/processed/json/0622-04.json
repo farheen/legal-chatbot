@@ -1,0 +1,58 @@
+{
+  "id": 12504962,
+  "name": "Albert GORDON v. US",
+  "name_abbreviation": "Gordon v. United States",
+  "decision_date": "2018-12-07",
+  "docket_number": "17-CO-1218",
+  "first_page": "622",
+  "last_page": "622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 622"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 133,
+    "sha256": "29cd8b250d0736862ba9823ed2a79b4bf3fd3cf3fa3fdd5f3e62a617ae09e424",
+    "simhash": "1:2da6737a2dcc9c5b",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:42.438369+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert GORDON\nv.\nUS"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Albert GORDON\nv.\nUS\n17-CO-1218\nDistrict of Columbia Court of Appeals.\nDecember 07, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0622-04",
+  "first_page_order": 622,
+  "last_page_order": 622
+}

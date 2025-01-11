@@ -1,0 +1,59 @@
+{
+  "id": 6087904,
+  "name": "In re William B. Gogarty, et al.",
+  "name_abbreviation": "In re Gogarty",
+  "decision_date": "1967-06-29",
+  "docket_number": "No. 8032",
+  "first_page": "1639",
+  "last_page": "1639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1639"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 129,
+    "ocr_confidence": 0.557,
+    "sha256": "cf3ff6a03ee11e54b70d36c2526779b23232ddface4197ed5ecb2a7f0dcabfab",
+    "simhash": "1:1aaa5ad9a824075a",
+    "word_count": 22
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William B. Gogarty, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Process and composition for the secondary recovery of petroleum fluids.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "June 29, 1967\nNo. 8032.\nIn re William B. Gogarty, et al."
+  },
+  "file_name": "1639-02",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

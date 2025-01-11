@@ -1,0 +1,62 @@
+{
+  "id": 7957612,
+  "name": "STATE v. Andrew A. BUCCI",
+  "name_abbreviation": "State v. Bucci",
+  "decision_date": "1980-04-17",
+  "docket_number": "No. 80-5-M.P.",
+  "first_page": "750",
+  "last_page": "750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "415 A.2d 750"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 324,
+    "ocr_confidence": 0.815,
+    "sha256": "24a11a8b60435f7e427928b971e5b1f888cbc08840a103a4bb62caef0052521a",
+    "simhash": "1:750a2d713ff16485",
+    "word_count": 49
+  },
+  "last_updated": "2023-07-14T21:59:37.260702+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE v.Andrew A. BUCCI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe defendant\u2019s motion for leave to substitute surety is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Dennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.",
+      "Aram K. Berberian, Warwick, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE v.Andrew A. BUCCI.\nNo. 80-5-M.P.\nSupreme Court of Rhode Island.\nApril 17, 1980.\nDennis J. Roberts II, Atty. Gen., Stephen Lichatin III, Special Asst. Atty. Gen., Chief, Appellate Division, for plaintiff.\nAram K. Berberian, Warwick, for defendant."
+  },
+  "file_name": "0750-03",
+  "first_page_order": 804,
+  "last_page_order": 804
+}

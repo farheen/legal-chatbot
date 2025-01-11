@@ -1,0 +1,58 @@
+{
+  "id": 12487126,
+  "name": "Commonwealth v. Curtis A. Sheerer",
+  "name_abbreviation": "Commonwealth v. Sheerer",
+  "decision_date": "2016-08-23",
+  "docket_number": "NO. 151 WAL (2016)",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 726"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "75c8bfe54b2d70e7669dc93b75b96a44889b9c37743fd93012105254e0685118",
+    "simhash": "1:fc25163598382a90",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nCurtis A. Sheerer"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nCurtis A. Sheerer\nNO. 151 WAL (2016)\nSupreme Court of Pennsylvania\nAugust 23, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0726-11",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

@@ -1,0 +1,93 @@
+{
+  "id": 9272723,
+  "name": "E.W. BOWMAN, INC. and Vigilant Insurance Company, Appellants, v. WORKERS' COMPENSATION APPEAL BOARD (WILSON and Great American Insurance Company), Appellees",
+  "name_abbreviation": "E.W. Bowman, Inc. v. Workers' Compensation Appeal Board",
+  "decision_date": "2004-03-17",
+  "docket_number": "",
+  "first_page": "1216",
+  "last_page": "1217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "844 A.2d 1216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "809 A.2d 447",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11425184
+      ],
+      "pin_cites": [
+        {
+          "page": "451-2"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/809/0447-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 190,
+    "char_count": 2365,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21607611100106608
+    },
+    "sha256": "b6ae866d70973f408fc71ca66985e9e90e964ad40f907dbbe04c573f71be7b6d",
+    "simhash": "1:b75b24538359b499",
+    "word_count": 358
+  },
+  "last_updated": "2024-02-27T19:39:59.515132+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+    ],
+    "parties": [
+      "E.W. BOWMAN, INC. and Vigilant Insurance Company, Appellants, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (WILSON and Great American Insurance Company), Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nThe Order of the Commonwealth Court is affirmed.\nJustice NEWMAN files a dissenting statement.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      },
+      {
+        "text": "Justice NEWMAN.\nDISSENTING STATEMENT\nI believe that the Commonwealth Court incorrectly interpreted Section 306(e)(8)(vi) of the Workers\u2019 Compensation Act (the Act), 77 P.S. \u00a7 513(8)(vi), to prevent apportionment of costs between multiple insurance companies, merely because that section permits only an \u201cemployer\u201d to assert divided liability. E.W. Bowman, Inc. v. WCAB (Wilson), 809 A.2d 447, 451-2 (Pa.Cmwlth.2002). Section 305(a)(1) of the Act states that\nEvery employer liable under this act to pay compensation shall insure the payment of compensation in the State Workmen\u2019s Insurance Fund, or in any insurance company, or mutual association or company, authorized to insure such liability in this Commonwealth, unless such employer shall be exempted by the department from such insurance. Such insurer shall assume the employer\u2019s liability hereunder and shall be entitled to all of the employer\u2019s immunities and protection hereunder ...\n77 P.S. \u00a7 501(a)(l)(emphasis supplied). The ability to join additional liable parties in a workers\u2019 compensation proceeding is certainly a protection available to the employer and I see no reason why it should not be similarly available to the insurer, especially in light of the above-cited statutory pronouncement. Given the position of the insurer, who essentially becomes the employer through the language of the Act and the terms of the individual insurance contract, I believe that it is improper to burden the insurer with liability that did not arise during the course of its contractual relationship with the employer. I, therefore, respectfully dissent from the per curiam affirmance of the Order of the Commonwealth Court.",
+        "type": "dissent",
+        "author": "Justice NEWMAN."
+      }
+    ],
+    "attorneys": [
+      "Joseph E. Fricker, Jr., Pittsburgh, for E.W. Bowman, Inc. et al.",
+      "Christopher Pierson, Pittsburgh, for Great American Insurance Company.",
+      "Amber Marie Kenger, Mechanicsburg, Richard C. Lengler, Harrisburg, for WCAB.",
+      "Daniel K. Bricmont, Pittsburgh, for William Wilson."
+    ],
+    "corrections": "",
+    "head_matter": "E.W. BOWMAN, INC. and Vigilant Insurance Company, Appellants, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (WILSON and Great American Insurance Company), Appellees.\nSupreme Court of Pennsylvania.\nArgued March 1, 2004.\nDecided March 17, 2004.\nJoseph E. Fricker, Jr., Pittsburgh, for E.W. Bowman, Inc. et al.\nChristopher Pierson, Pittsburgh, for Great American Insurance Company.\nAmber Marie Kenger, Mechanicsburg, Richard C. Lengler, Harrisburg, for WCAB.\nDaniel K. Bricmont, Pittsburgh, for William Wilson.\nBefore CAPPY, C.J., and CASTILLE, NIGRO, NEWMAN, SAYLOR, EAKIN and BAER, JJ."
+  },
+  "file_name": "1216-02",
+  "first_page_order": 1268,
+  "last_page_order": 1269
+}

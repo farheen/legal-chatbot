@@ -1,0 +1,58 @@
+{
+  "id": 12488704,
+  "name": "Powell v. Powell",
+  "name_abbreviation": "Powell v. Powell",
+  "decision_date": "2016-07-15",
+  "docket_number": "16-216",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 141,
+    "sha256": "a6c749d92d769b9472ab9205dc1a7e579ba5e0a8afb11d29c9d73329d5fd1f43",
+    "simhash": "1:58116f32dec00845",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Powell\nv.\nPowell"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Powell\nv.\nPowell\n16-216\nSupreme Court of Vermont.\nJuly 15, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDenied."
+  },
+  "file_name": "0343-11",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

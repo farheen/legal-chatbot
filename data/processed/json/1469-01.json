@@ -1,0 +1,460 @@
+{
+  "id": 6087086,
+  "name": "In re Francis J. Honn and Willard M. Sims",
+  "name_abbreviation": "In re Honn",
+  "decision_date": "1966-08-04",
+  "docket_number": "No. 7593",
+  "first_page": "1469",
+  "last_page": "1482",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1469"
+    },
+    {
+      "type": "parallel",
+      "cite": "150 U.S.P.Q. 652"
+    },
+    {
+      "type": "parallel",
+      "cite": "364 F.2d 454"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "46 Stat. 376",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Stat. 958",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 USPQ 38",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 F. 2d 1000",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6081104,
+        961426
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1053-01",
+        "/f2d/75/1000-01"
+      ]
+    },
+    {
+      "cite": "22 CCPA 1053",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6081104
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/22-2/1053-01"
+      ]
+    },
+    {
+      "cite": "148 F. 2d 102",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079234,
+        3654150
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/32-2/0861-01",
+        "/f2d/148/0102-01"
+      ]
+    },
+    {
+      "cite": "32 CCPA 861",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079234
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/32-2/0861-01"
+      ]
+    },
+    {
+      "cite": "347 F. 2d 898",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12166396,
+        860415
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1607-01",
+        "/f2d/347/0898-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1607",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166396
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1607-01"
+      ]
+    },
+    {
+      "cite": "347 F. 2d 574",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        12166327,
+        860407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1593-01",
+        "/f2d/347/0574-01"
+      ]
+    },
+    {
+      "cite": "52 CCPA 1593",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12166327
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/52-2/1593-01"
+      ]
+    },
+    {
+      "cite": "200 F. 2d 706",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1281033,
+        6077506
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/200/0706-01",
+        "/ccpa/40-2/0724-01"
+      ]
+    },
+    {
+      "cite": "40 CCPA 724",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077506
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/40-2/0724-01"
+      ]
+    },
+    {
+      "cite": "230 F. 2d 459",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        71297,
+        6078745
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/230/0459-01",
+        "/ccpa/43-2/0831-01"
+      ]
+    },
+    {
+      "cite": "229 F. 2d 457",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        67218,
+        6078125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/229/0457-01",
+        "/ccpa/43-2/0775-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 775",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078125
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0775-01"
+      ]
+    },
+    {
+      "cite": "360 F. 2d 972",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6086632,
+        825678
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1231-01",
+        "/f2d/360/0972-01"
+      ]
+    },
+    {
+      "cite": "53 CCPA 1231",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086632
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1231-01"
+      ]
+    },
+    {
+      "cite": "306 F. 2d 908",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6078468,
+        256703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0806-01",
+        "/f2d/306/0908-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 806",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078468
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0806-01"
+      ]
+    },
+    {
+      "cite": "309 F. 2d 769",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6077513,
+        196825
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0725-01",
+        "/f2d/309/0769-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 725",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077513
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0725-01"
+      ]
+    },
+    {
+      "cite": "312 F. 2d 930",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6079961,
+        185754
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0954-01",
+        "/f2d/312/0930-01"
+      ]
+    },
+    {
+      "cite": "50 CCPA 954",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079961
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/50-2/0954-01"
+      ]
+    },
+    {
+      "cite": "43 CCPA 831",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078745
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/43-2/0831-01"
+      ]
+    },
+    {
+      "cite": "138 USPQ 287",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "122 USPQ 151",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 0
+    },
+    {
+      "cite": "U.S. Patent No. 2,965,619",
+      "category": "laws:admin_filing",
+      "reporter": "U.S. Patent",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 USPQ 36",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "86 USPQ 489",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "88 USPQ 561",
+      "category": "reporters:specialty",
+      "reporter": "U.S.P.Q. (BNA)",
+      "opinion_index": 1
+    },
+    {
+      "cite": "222 F. 2d 273",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        49539,
+        6079039
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/222/0273-01",
+        "/ccpa/42-2/0893-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 893",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079039
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/ccpa/42-2/0893-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1330,
+    "char_count": 38418,
+    "ocr_confidence": 0.46,
+    "pagerank": {
+      "raw": 2.9545598720942453e-07,
+      "percentile": 0.8491064536967213
+    },
+    "sha256": "cc3a6c04a392132a705b67475db3c365178df947858446d5e167b953d1c0d25a",
+    "simhash": "1:b58864c86ff46fc4",
+    "word_count": 5997
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick"
+    ],
+    "parties": [
+      "In re Francis J. Honn and Willard M. Sims"
+    ],
+    "opinions": [
+      {
+        "text": "Kirkpatrick, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Appeals which affirmed the examiner\u2019s rejection of claims 1-12 and 14-22 in appellants\u2019 application entitled \u201cFluorinated Elastomers and Method for Crosslinking Same.\u201d\nA short chronology of the proceedings leading to this appeal will be helpful in understanding the issues involved. Appellants\u2019 1953 parent application, like the present application, describes certain linear, elastomeric, fluorinated copolymers and methods for vulcanizing or cross-linking those polymers to produce products of increased toughness and heat resistance, and lessened plasticity and solubility. According to appellants, the parent application has issued as U.S. Patent No. 2,965,619 with claims drawn to vulcanized elastomers and processes of preparing them from the linear, fluorinated copolymers.\nThe present application was originally filed with 13 claims drawn to certain of the vulcanizable elastomeric fluorinated copolymers disclosed therein. The examiner finally rejected all claims (now present, claims 1-12 and 14-16) as based on an insufficient disclosure and as unpatentable over two prior art patents to Dittman. Appellants appealed to the board; before its decision, the examiner reopened prosecution, citing a third patent to Rexford against the claims. Appellants responded to that rejection by copying claims 1, 2 and 6-9 of Rexford into their application as present claims 17-22 and requested an interference be declared with Rexford. The examiner refused to institute interference proceedings, and entered a second final rejection of all claims, including claims 17-22, \u201cas based on an insufficient disclosure,\u201d \u201cas being substantially met by Rexford\u201d and \u201cas unpatentable over either of the Dittman * * * patents.\u201d A second appeal to the board ensued. In his Answer, the examiner-modified his position to the extent that, in addition to the insufficient, disclosure rejection of all claims, claims 1-3, 5, 6, 8, 12, 14 and 17-22 were rejected as \u201cfully met\u201d by Rexford and claims 1-3, 5-9, 12, 14 and 17-22 were rejected \u201cas unpatentable over\u201d the Dittman patents. The board affirmed on all grounds. We shall consider each issue-separately.\nThe \u201cInsufficient Disclosure\u201d Rejection\nThe appropriate starting point for disposition of the issue of sufficiency of disclosure is appellants\u2019 specification. The portions which are relevant to the claimed subject matter are set out below:\nThese and other objects are accomplished by the following invention. Linear-elastomers comprising disordered, saturated, fluorinated carbon chains, and including a substantial number of carbon atoms which are linked only to hydrogen and to other carbon atoms, are reacted with a crosslinking agent at elevated temperatures to produce a vulcanized elastomer. Ordinarily, the linear- elas-tomer is at least 10 per cent comprised of -CH2- groups.\nDisorder in the linear, saturated, fluorinated carbon chains is ordinarily achieved by the copolymerization of at least two mono-olefinic compounds. In order to obtain chemical stability in the elastomer, at least one of the monoolefinic compounds must be fluorinated. In order that the copolymer be elasto-meric in nature, at least one of the mono-olefinic compounds must contain at least one carbon atom linked only to hydrogen and carbon atoms. At least 10 per cent of the carbon atoms in the chain must be of this type in order to obtain an elastomeric product.\nOrdinarily, a mono-olefinic compound containing a CH2=group is used and this results in the linear chains containing -Cil2- groups. When the mono-olefinic compound contains an unsaturated chain of three or more carbon atoms, methyl groups may be present and these remain as side groups on the linear chain.\nAmong the fluorinated mono-olefinic compounds which may be used as comono-mers to produce fluorine-containing elastomers are: CF2=CFC1, CP2=CH2, CF2=CC12, cf3-cf=cf2, CF2=CF-CN, CF2=CHC1, CF3-CC1=CC1-CF3, \u25a0cf2=chf, CH2=CFC1, cis cf3-ch=ch-cf3,\nThese fluorinated mono-olefinic compounds may be copolymerized with each other, provided at least one of the comonomers contains at least one carbon atom bonded only to hydrogen and carbon atoms. Fluorinated oleflnic compounds, such as those listed above, may also be copolymerized with other mono-olefinic compounds supplying the carbon atoms which are linked only to hydrogen and carbon atoms. Among the mono-olefinic compounds which may be used for this purpose are vinyl chloride, propylene, styrene, vinylidene chloride, acrylonitrile, (n) butyl acrylate, divinyl benzene, ethylene, acrylamide and vinyl bromide.\nAmong the coplymer systems which are particularly advantageous are the following:\nvinylidene fluoride -1,1-chlorofluoroethylene\nvinylidene fluoride -tetrafluoroethylene\nvinylidene fluoride -bromotrifiuoroethylene\n\u2666vinylidene fluoride -2-chloroperfluoropropylene\nvinylidene fluoride -acrylamide\nvinylidene fluoride -chlorotrifluoroethylene\ndifluorodichloroethylene (asym.) -vinylidene chloride\ndichlorodifluoroethylene (asym.) -(n) butyl acrylate\n\u2666perfluoropropylene -1,1-fluorochloroethylene\n(n) butyl acrylate -l,l-difluoro2-chloroethylene\n(n) butyl aGrylate -tetrafluoroethylene\ntrifluoroethylene -1,1-fluorochloroethylene\n\u26661,1-fluorochloroethylene -2-chloroperfluoropropylene\ntetrafluoroethylene -ethylene\ntetrafluoroethylene -1,1-fluorochloroethylene\nThe copolymerization reaction may be carried out in either a water suspension type system or in a mass polymerization system. In the former system the reaction is preferably carried out at a temperature between about 0\u00b0 0. and about 35\u00b0 0. In a mass polymerization system the reaction is preferably carried out at a temperature between about \u201420\u00b0 C. and about 0\u00b0 O. With the water suspension type system a redox catalyst system is preferred. It has and contains an oxidant, a reductant and a variable valence metal salt. The oxidant in the water suspension type recipe is preferably an inorganic persulfate, such as potassium persul-fate, sodium persulfate or ammonium persulfate, the latter being most desirable. The reductant is preferably a bisulfite, such as sodium bisulfite or potassium bisulfite, and preferably the former. The variable valence metal salt which is employed for the purpose of regenerating the oxidant is preferably in the form of an iron salt, such as ferrous sulfate or ferrous nitrate with ferrous sulfate being the most desirable variable valence metal salt.\nIn the mass polymerization system, organic peroxide promoters, and particularly halogen-substituted acyl peroxide, are used. Triehloroacetyl peroxide is a preferred promoter of this type. Other halogen-substituted organic peroxides suitable for carrying out the polymerization are trlfluoroacetyl peroxide, difluoro-acetyl peroxide, 2,4-dichlorobenzoyl peroxide, chloroacetyl peroxide, trifluoro-dichloropropionyl peroxide, and dichlorofluoroacetyl peroxide.\nThe appealed claims are all directed to certain copolymers derived from a fluorohalogenated propylene and a fluorinated ethylene. Appellants and the Patent Office agree that only the compounds marked by an asterisk (*) in the above list of proposed \u201ccopolymer systems\u201d fall within the scope of the appealed claims, of which claims 1, 8, 10, 15 and and 17 are representative:\n1. An elastomeric copolymer consisting essentially of a fluorohalogenated pro-pene in which the halogen substituents are normally gaseous halogens, not more than one of which is chlorine, and a fluorinated ethylene in which the sub-stituents are selected from the group consisting of fluorine and hydrogen, said compounds having at most two hydrogen atoms per molecule, which hydrogen atoms are in the form of CH2=groups, and only one of said compounds having a OH2=group, said copolymer having a linear carbon chain comprised of at least 10 per cent -CH2- groups.\n8. An elastomeric copolymer consisting essentially of hexafluoropropene and vinylidene fluoride having a carbon chain in which at least 10 per cent of the carbon atoms are -CH2-.\n10. An elastomeric copolymer consisting essentially of hexafluoropropene and 1,1-fluorochloroethylene having a carbon chain in which at least 10 per cent of the carbon chains -OH2- [sic]\n15. An elastomeric copolymer consisting essentially of vinylidene fluoride and 2-chloroperfluoropropylene having a carbon chain in which at least 10 percent of the carbon atoms are -CH2-.\n17. An elastic copolymer of about 70% to 30% by weight of vinylidene fluoride and from about 30% to 70% by weight of hexafluoropropene.\nThe position of the examiner and the board with respect to the sufficiency of disclosure issue is exemplified by the following excerpt from the board\u2019s opinion:\nClaims 1 through 12 and 14 through 22 * * * stand rejected as based upon an insufficient disclosure. The Examiner points out that not a single example is disclosed for preparing a fluorohalogenated or perfluoropropene copolymer and only three of the suggested pairings of monomers * * * would fall within the terms of the broad claims; further that nothing is taught concerning the properties or preparation of these copolymers or even any assertion that they are new. The specific copolymer of hexafluoropropene-vinylidene fluoride now claimed is nowhere specifically suggested * * * [in] the specification. The Examiner saw no valid basis for appellants claiming as new products \u201cmaterials never described, never prepared and never stated to be new.\u201d * * ;!: He specifically held that the disclosure failed to comply with Rule 71(b) lacking a complete description of a specific embodiment of the presently claimed invention.\nOur conclusion on the preceding rejection is that it is proper and should be sustained. Appellants have argued that the disclosure is sufficient to teach any person skilled in the art how to prepare the claimed copolymers. However, the method is not in issue but rather the copolymers themselves, which would vary in characteristics depending upon the particular selection of monomers and the conditions of polymerization. * * * sweeping disclosures of the instant type do not teach specific inventive compositions broadly embraced thereby * * *.\nThe question of sufficiency of disclosure is one that must be determined on the basis of each state of facts and the decisions relied upon by appellants are not seen controlling in the instant case where the results of minor variations are relatively unpredictable and catalytic phenomena are involved. * * * The tenor of the entire disclosure is that the invention is directed to the crosslinking of certain of these polymers and both of the examples are to a process of producing such crosslinked polymers. If in the broad and speculative disclosure of possible polymers herein there is a second and distinct invention, such portion must by itself comply with Rule 71(b) and include a complete description of a specific embodiment of that distinct invention. Etc parte Knowles et ah, * * * 122 USPQ 151. Disclosure of the best mode is mandatory. Faulstich v. Ladd, 138 USPQ 287. The listing of possible monomer reactants is not necessarily a basis for claims to any specific combination which may fall within the scope of the disclosure. Prutton v. Fuller and Johnson, 43 CCPA 831; * * * 109 USPQ 59. The situation is similar to that in In re Fried, 50 CCPA 954; * * * 312 F. 2d 930; 136 USPQ 429 wherein a disclosure permitting choices between several variables with no working example and failure to name or identify the final compounds by formula was held insufficient under 35 U.S.C. 112 to support claims to a specific steroid. The rejection for insufficiency of disclosure is sustained.\nFor purposes of our discussion, the claims may conveniently be placed into two groups: (I) Those claims (1-7, 10, 11 and 14-16) which are generic to or directed to species other than the copolymer of hexafluoropropylene and vinylidene fluoride, and (II) those claims (8, 9, 12, and 17-22) directed to copolymers of hexafluoro-propylene and vinylidene fluoride.\nI. While the exact nature of the Patent Office position regarding claims 1-7, 10, 11 and 14-16 is not entirely clear from the record, it would appear that one of its chief concerns is the asserted failure of the specification to comply with Patent Office Eule 71(b), which requires that the specification \u201cmust describe completely a specific embodiment of the process, machine, manufacture, composition of matter or improvement invented * * [Emphasis supplied.] As we noted in In re Gay, 50 CCPA 725, 309 F. 2d 769, 135 USPQ 311, that language of Rule 71(b) has no statutory antecedent basis except insofar as it implements the following requirements of 35 USC 112:\nThe specification shall contain a written description of the invention, and of the manner and process of making and using it, in such full, clear, concise, and exact terms as to enable any person skilled in the art to which it pertains, or with which it is most nearly connected, to make and use the same * * *.\nUnder what circumstances, if any, the present language of Eule 71(b) is bereft of antecedent statutory authority on the ground that it requires more disclosure in a specification than Congress has established is necessary in section 112 we need not here decide, for we are satisfied under the present circumstances that appellants\u2019 specification does \u201cdescribe completely a specific embodiment of the * * * composition of matter * * * invented,\u201d and does contain \u201ca written description of the invention, and of the manner and. process of making and using it, in such full, clear, concise, and exact terms as to enable any person skilled in the art to which it pertains * * * to make and use the same.\u201d\nWhat is referred to by section 112 as \u201cthe invention\u201d is determined by appellants\u2019 claims read in light of the specification. In re Chilowsky, 50 CCPA 806, 306 F. 2d 908, 134 USPQ 515. Here the invention is certain compositions of matter, obtained by reacting certain fluorohalogenated propylenes with certain fluorinated ethylenes. Appellants have set forth, indeed effectively named, three specific copolymers (denoted by asterisks in the quotation from appellants\u2019 specification) which fall within the scope of those composition of matter claims. From the other description in the specification, we are informed that at least 10 percent of the carbon atoms in the linear chain of those copolymers must be -CH2- groups, thus effectively establishing, for example, that the copolymer of vinylidene fluoride and 2-chloroperfluoropropylene is composed of at least one molecule of vinylidene fluoride (CH2=CF2) for each four molecules of 2-chloroperfluoropropylene (CF3-CC1=CF2). When so constituted, those copolymers are said to be elastomeric (rubbery), chemically inert and electrically insulating. We think those copolymers, when considered with the remainder of the specification, are specific embodiments of the invention within any reasonable requirement of Rule 71(b), as well as within the language of section 112 requiring \u201ca description of the invention.\u201d A specific embodiment of the invention may be found in tbe disclosure considered as a whole, and need not of necessity be restricted to a paragraph labelled \u201cexample.\u201d\nAppellants, however, must also disclose how to make and use that invention. 35 USC 112. No question has been raised as to the sufficiency of disclosure of the manner of using the vulcanizable, elastomeric copolymers. The position of the Patent Office with regard to the \u201cprocess of making\u201d the invention is not entirely clear. On the one hand, the board states that \u201cThe method is not in issue,\u201d and on the other that \u201ccatalytic phenomena are involved\u201d and that the copolymers \u201cwould vary in characteristics depending on the par ticular selection of monomers and the conditions of polymerization.\u201d While appellants have not set forth a full, detailed working example of the manner of making their copolymers, we are satisfied that sufficient working procedure has been set forth so that one skilled in the art may prepare the claimed copolymers without undue experimentation. We are supported in our conclusion by reference to the two Dittman patents in the record, which describe in detail the \u201cwater suspension\u201d and \u201cmass\u201d polymerization 'processes contemplated by appellants and indicate the general applicability of those processes to catalytic polymerization of a wide variety of fluorinated olefin monomer species, including many of the fluorinated propylenes and ethylenes recited by appellants here. It is well settled that an applicant need not expressly set forth in his specification that which would be understood by persons skilled in the art. See In re Bosy, 53 CCPA 1231, 360 F. 2d 972, 149 USPQ 789; In re Chilowsky, 43 CCPA 775, 229 F. 2d 457, 108 USPQ 321, and cases cited therein. While addition to the disclosure of a more detailed specific embodiment of the process of preparing the copolymers (which is not the claimed invention here) might have been helpful, the information that is in the disclosure, considered as a whole, would clearly teach those skilled in the art what the invention is and how to practice it.\nIt is apparent that the statutory provisions and the expression \u201cspecific embodiment\u201d in Eule 71(b) are subject to some interpretation. Application of those principles must necessarily depend on the facts of each case. The presence or absence of a working example is but one factor to be considered in determining whether the specification as a whole is sufficient under the statute and rules. Attendant relevant circumstances, such as the nature of the invention, the state of the prior art and relative skill of those in that art, should be given full consideration. The circumstances here would seem to indicate that the presence of a specific working example, denominated as such, is unnecessary.\nThe board also observed that \u201cDisclosure of the best mode is mandatory,\u201d -with apparent reference to the last clause of the first paragraph of 35 USC 112 and the last sentence of Rule 71(b). It is the solicitor\u2019s position that the \u201cbest mode\u201d requirement of the above statute and rule \u201cdoes require actual working examples\u201d and that appellants\u2019 specification, containing no \u201cworking example\u201d of the preparation of the claimed copolymers, necessarily fails to fulfill that requirement.\nIn enacting section 112 as part of the 1952 patent act, Congress retained the phraseology of R.S. 4888 with minor deletions in wording, and added the clause at the end of the first paragraph \u2022which, gives rise to the controversy here. In our view, there is nothing in that clause, either explicitly or implicitly, which necessarily requires a specific working example, labeled as such, to be set forth as the contemplated \u201cbest mode.\u201d Moreover, we have nothing in the record before us to suggest that appellants have not in fact disclosed the best mode contemplated by them of carrying out their invention. Quite the contrary, as is evident from their specification quoted above, appellants have disclosed a number of elastomeric fluorinated copolymers as \u201cparticularly advantageous,\u201d temperature ranges in which the copolymerization reaction \u201cis preferably carried out,\u201d and \u201cpreferred\u201d or \u201cmost desirable\u201d components of catalyst systems to be utilized. Certainly the absence of a specific working example is not necessarily evidence that the best mode has not been disclosed, nor is the presence of one evidence that it has. It seems to us that an inventor may represent his contemplated best mode just as well by a preferred range of conditions or group of reactants as by a working example which employs unitary values of each variable involved.\nIn conclusion, we hold:\n(1) That appellants\u2019 disclosure, considered as a whole, does completely disclose a specific embodiment of the inventions claimed in claims 1-7, 10, 11 and 14-16.\n(2) That appellants\u2019 disclosure does contain a written description of the invention in such manner as will enable one skilled in the art to make and use those inventions without undue experimentation.\n(3) That no reason exists to cause us to believe appellants have not set forth the best mode contemplated by them of carrying out the invention.\nII. A somewhat different question is presented by claims 8, 9, 12 and 17-22 which are directed in varying degrees of detail only to copolymers of hexafluoropropene (CF3-CF=CF2) and vinylidene fluoride (CF2=CH2). Those particular copolymers are nowhere specifically named in the specification. Appellants, however, urge that the copolymers of those claims \u201cwould be the natural and expected result achieved by one skilled in the art following the procedures outlined in the application.\u201d\nWhile it might be possible to produce the specific copolymer of hexafluoropropene and vinylidene fluoride here in issue by a fortuitous selection of that particular pair of monomers from the list of 30 or so other monomers in a manner of selection generally suggested by appellants in their specification hereinbefore quoted, we are not convinced that appellants\u2019 specification, considered as a whole, necessarily discloses that copolymer in a manner entitling them to claim it. As we stated in Prutton v. Fuller, 43 CCPA 831, 230 F. 2d 459, 109 USPQ 59:\nThe question as to whether an application forms a proper support for a claim to a composition which is not specifically disclosed, but which falls among compositions suggested by general language in the application is one which must be determined largely by the particular circumstances of each case. The determining factor is whether the application would fairly suggest to the skilled worker in the art the particular composition claimed, or whether the desirability of that composition could be ascertained only by extensive experimentation. As was noted in In re Prutton, supra, [40 CCPA 724, 200 F. 2d 706, 96 USPQ 147] the indication or lack of indication of a preference for the composition, in the application disclosure, is an important factor to be considered in making the determination, since anyone attempting to carry out the disclosure of an application would logically begin with the preferred examples given.\nWe find the directions or criteria set forth in appellants\u2019 specification insufficient to necessarily lead one of ordinary skill in the art to the copolymers of hexafluoropropylene and vinylidene fluoride, the precise aspect of the invention here claimed. See In re Rainer, 52 CCPA 1593, 347 F. 2d 574, 146 USPQ 218; Biel v. Chessin, 52 CCPA 1607, 347 F. 2d 898, 146 USPQ 293. As the board observed, the simple listing of possible monomer reactants is not ipso facto a basis for claims to any specific copolymer obtained from those reactants which may fall within the scope of the disclosure. See also In re Prutton, 40 CCPA 724, 200 F. 2d 706, 96 USPQ 147; Engelbrecht v. Rogers, 32 CCPA 861, 148 F. 2d 102, 64 USPQ 582; In re Collins, 22 CCPA 1053, 75 F. 2d 1000, 35 USPQ 38, and cases cited therein.\nWe conclude that appellants\u2019 specification does not support claims 8, 9, and 12 drawn to the copolymers of hexafluoropropylene and vinylidene fluoride. Moreover, as for claims 17-22 which were copied from Kexford for purposes of interference, we do not find in the specification a disclosure of the particular ranges of weight or mol percentages of monomer constituents set forth in those claims, exemplified by claim 17. The rejection of claims 8, 9, 12 and 17-22 is affirmed,.\nThe Refection on Rexford\nThe issue here arises from the rejection of claims 1-3, 5, 6, 8, 12, 14 and 17-22 as \u201cfully met\u201d by the Kexford patent, which has a filing date in 1957. Kexford discloses and claims certain copolymers of hexafluoropropylene and vinylidene fluoride. The board refused to give the present application the benefit of the 1953 filing date of appellants\u2019 parent application under the provisions of 35 USC 120. The parent and present applications each contain the disclosure reproduced earlier in this opinion from which appellants urge that the invention claimed in the appealed claims antedates the Kexford patent as a reference. That position is valid only if appellants\u2019 parent application complies with section 120, which requires that the earlier application disclose the invention in the manner provided by the first paragraph, of section. 112. It follows from the. discussion of the section 112 issue earlier in' this opinion that claims 1-3, 5, 6, and 14 are not properly rejected on Rexford, whereas claims 8, 12 and 17-22, not supported by \u00e9ither the parent or present disclosures, ar\u00e9 properly rejected on that patent.\nThe Rejection of Dittman\nAs noted earlier, the Dittman patents are directed to 'processes for the polymerization of halogenated olefin monomers. Both patents contain similar disclosures of suitable halogenated .olefins that may be utilized in those processes. It seems apparent from a consideration of both Dittman patents that the patentee was not particularly concerned with the nature of the final polymer products obtained, noting only that the processes could be used to obtain a variety of \u201cplastics, oils, greases and waxes.\u201d\nIn sustaining the examiner\u2019s rejection in the present case, tire board stated:\n* * * [The Dittman] references have a broad disclosure of copolymerizing monomers selected from a listing similar to that contained in the instant application. In our opinion this disclosure, while possibly on no better footing that appellants\u2019 own disclosure, provides sufficient basis for sustaining the rejection. * * * One need only make the selection that appellants find can so readily be made in their own case. For example, Dittman et ah, 2,705,706, name several perhalo-olefins which may be homopolymerized or copolymerized. One of these is trifluoro-chloroethylene ; another is perfluoropropene. These may be copolymerized with other monomers such as vinylidene fluoride. The pairing of trifluorochloro-ethylene and vinylidene fluoride is found * * *. Since trifluorochloroethylene is in the same class as perfluoropropene according to * * * [the patent], presumably perfluoropropene could be substituted for the trifluorochloroethylene for copoly-merization with vinylidene fluoride and this would result in polymers meeting the requirements of appellants\u2019 claims. * * *\n* * * Appellants\u2019 complaint that Dittman et al.\u2019s teachings are insufficient for selecting the appropriate monomer combinations is, in our opinion, equally applicable to appellants\u2019 own disclosure. It does not seem logical that an applicant should be entitled to insist that a reference have a disclosure better than his own before it can be applied to his claims. * * * .\nIt is evident from the board\u2019s opinion and the solicitor\u2019s brief that the only copolymer which the Patent Office thinks may be synthesized from the Dittman disclosure to meet the requirements of the instant generic and specific claims is the coploymer of hexafluoro-propylene (perfluoropropene) and vinylidene fluoride.\nAppellants urge that the board failed to appreciate that the Ditt-man patents make no mention of elastomeric copolymers, much less the criteria necessary for selecting the requisite monomers from the extensive list of polymerizable materials therein in order to prepare elastomeric products; and that the board erred in equating appellants\u2019 disclosure with that of Dittman.\nWe agree with appellants. A disclosure such as in the Dittman patents, while providing ample detail as to polymerization processes, would seem of little value in solving the'particular problem which' appellants faced, that of providing elastomeric fluorinated polymers. Certainly nothing in either Dittman reference suggests that preparation of rubbery polymers is possible or desirable. We find no clear suggestion in the Dittman patents of the concept of copolymerizing vinylidene fluoride and hexafluoropropylene or of the product obtained thereby.\nThe rejection of claims 1-3, 5-9, 12, 14 and 16-22 as unpatentable over the Dittman references is reversed.\nIn summary, the decision of the board is affirmed as. to claims 8, 9, 12 and 17-22 and reversed as to claims 1-7, 10, ll and 14-16.\nMaRtin, J., concurs in the result.\nSerial No. 6,879, filed February 5, 1960, as a division of application Serial No. 346,800, iflled April 3,1953.\nDittman.-.-... 2,689,241 Sept. 14,1954-Dittman,........- 2,705,706 Apr. 5,1955.\nRexford._.......-. 3,051,677 Aug. 28,1962-(filed Apr. 29, 1957)\nThe examiner also rejected claim 16 on Dittman. As the solicitor points out, it appears claim 16 was-inadvertently included in that rejection since claims 10 and 16 are essentially duplicates and claim 10 was not rejected on Dittman. Since we find the subject matter of claim 16 new and nonobvious in view of Dittman,. the rejection of that claim is reversed without need of further discussion.\nAs will become apparent later in this opinion, we think appellants have described their copolymers and methods of preparing them. With regard to the examiner\u2019s observation that appellants\u2019 claimed copolymers were \u201cnever stated to be new,\u201d it would seem reasonable to infer from the mere filing of the present application that appellants considered the copolymers to be new. In any event, appellants\u2019 application oath states that they believe they \u201care the original, first and sole inventors of the invention or discovery\u201d in the present application entitled \u201cEluormate\u00fa, Elastomers and Method for Crosslinking Same.\u201d [Emphasis supplied.]\nIn the Interest of accuracy, we observe that both section 112 and Rule 71(b) require that the specification set forth \u201cthe best mode contemplated by the invert-tor of carrying out his invention.\u201d [Emphasis supplied.)\nIRS 4888, as amended (38 Stat. 958, 46 Stat. 376) read in pertinent part:\n\u201cBefore any inventor or discoverer shall receive a patent for his invention or discovery, he shall make application therefor in writing, to the Commissioner of Patents, and shall file in the Patent Office a written description of the same, and of the manner and process of making, constructing, compounding, and using it, in such full, clear, concise, and exact terms as to enable any person skilled in the art or science to which it appertains, or with which it is most nearly connected, to make, construct, compound, and use the same; and in case of a machine, he shall explain the principle thereof, and the best mode in which he has contemplated applying that principle, so as to distinguish it from other inventions * * *.\u201d\nThe revision note to section 112 states :\n\u201cThe clause [in RS 4888] relating to machines is omitted as unnecessary and the requirement for disclosing the best mode of carrying out the invention is stated as generally applicable to all types of invention (derived from Title 35, U.S.C., 1946 ed., \u00a769, first defense).\u201d\nWe also note the remarks of P. J. Federico in his \u201cCommentary on the New Patent Act,\u201d 35 USCA \u00a7\u00a71-110 at page 25 :\n*\u2022* * * The clause in the old statute [RS 4888] relating to machine patents and requiring the best mode in such cases has been omitted as unnecessary and a clause has been added requiring that the specification \u2018shall set forth the best mode contemplated by the inventor of carrying out his invention.\u2019 Although not the same, this requirement is partly derived from and replaces the first defense specified in old R.S. 4920 (see under section 282) as well as being a revision and extension of the old clause which related only to machines. This requirement, it should he noted, U not absolute, since it only requires disclosure of the best mode contemplated by the inventor, presumably at the time of filing the application.\u201d [Emphasis supplied.]\nRS 4920 (35 USC 69, 1946 ed.), first defense, to which both the revision note to section 112 and Mr. Federico refer, read:\n\u201cIn any action for infringement the defendant * * * may prove on trial any one or more of the following special matters :\n\u201cFirst. That for the purpose of receiving the public the description and specification filed by the patentee in the Patent Office was made to contain less than the whole truth relative to his invention or discovery, or more than is necessary to produce the desired effect * *\nIt is in the above context that this court stated in In re Gay:\n\u201c* * * the essense [of the last clause of the first paragraph of section 112] * * * requires an inventor to disclose the best mode contemplated by him, as of the time he executes the application, of carrying out his invention. Manifestly the sole purpose of this latter requirement is to restrain inventors from applying for patents while at the same time concealing from the public preferred embodiments of their inventions which they have in fact conceived.\u201d\n*******\n\"* * * we think that an inventor is in compliance therewith if he does not conceal what he feels is a preferred embodiment of his invention. * * *\u201d See also Robinson on Patents, sec. 485 (1890).\nWe observe that present claims 17-22, appearing as claims 1, 2 and 6-9 in the Rexford patent and drawn to specific copolymers of hexafluoropropylene and vinylidene fluoride, were allowed to Rexford' over both Dittman patents. No adequate reason has been offered by the Patent Office why the subject matter of those claims is now properly rejected on Dittman (see'35 TXSC 2\u201982), and we find none.",
+        "type": "majority",
+        "author": "Kirkpatrick, Judge,"
+      },
+      {
+        "text": "Smith, Judge,\nconcurring, with whom Rich, J., joins.\nAs the majority opinion notes, Rule 71(b) has no statutory antecedent basis except insofar as it implements certain provisions of 35 USC 112, set forth in the majority opinion. The provisions there quoted are similar in all material respects to the language employed by Congress in R.S. 4888, the progenitor of section 112. In Lawson v. Bruce, 42 CCPA 893, 222 F. 2d 273, 105 USPQ 440, we observed that there was no requirement in R.S.4888 or hr the Rules of Practice then in effect that a party relying on a constructive reduction to practice must show a specific embodiment or working example to support claimed compounds. As is evident from the excerpt from the decision of the Board of Patent Interferences which is quoted in Lawson v. Bruce, the Patent Office tribunals were then in agreement with that position, stating:\nThe Office rulings above discussed definitely establish that a sufficient .disclosure need not of necessity contain a specific working example for a particular compound being claimed. A teaching in the specification as a whole for preparing the compound may suffice. As for identifying properties the decisions establish no uniform practice. We find nothing \"in R.S. 4888 [the statute then applicable] or the Rules of Practice which demands such properties in a disclosure * * *.\nIt is not believed necessary that the * * * application indicate that the compound was ever made. * * * the statutes do not require that a patentee, actually reduce the invention to practice. The filing of a complete and allowable application is conclusive evidence that the invention was reduced to practice as early as that date.\n* * * It appears * * * that although no specific working example is given * * * [for the compound in issue] there is set forth substantial working procedure. * * *\n*******\n* * * we are satisfied that a person skilled in the art, following the general and specific teachings therein, would encounter no difficulty in producing [the] compound * * * We appreciate that it may involve some judgment on the part of the skilled worker. This, however, is true even in cases where examples are given since obviously every detail of the necessary procedure cannot be given in a patent specification and many details must be left to the skill of the chemist. * * *\nAt the present time, section 112, like its predecessor, makes no explicit requirement that a specific embodiment or working example is necessary to support claims to a composition of matter. Assuming the expressions \u201cspecific embodiment\u201d and \u201cworking example\u201d may be equated, as the Patent Office has evidently done here, present Rule 71(b) does make such a requirement, the language pertinent thereto to making its first appearance in the Buies of Practice effective March 1, 1949. The Buies of Practice, when not inconsistent with the statutes from which they are derived, have the force of law. 35 USC 6. To be consistent with section 112, the language in Buie 71(b) relating to a description of a \u201cspecific embodiment\u201d should not be construed as requiring more description of the invention than is otherwise required by section 112. It is not within the province of the Patent Office or this court, in interpreting section 112 by rule or decision, to require more or accept less in the way of disclosure of an invention than Congress intended a specification shall contain.\nAs to the fifst question decided in the majority opinion, concerning claims 1-7, 10,11 and 14-16,1 agree with the reasoning and conclusions set forth in the majority opinion that the terms of section 112 are satisfied. As Buie 71(b) cannot in my view require more in the way of a disclosure, the inquiry is at an end and the board\u2019s decision as to those claims cannot be sustained.\nFor the above reasons, I concur in the reversal of the board\u2019s decision as to claims 1-7, 10, 11 and 14-16. I agree with the reasoning and conclusion of the majority as to claims 8, 9,12 and 17-22.\nThe board was referring to the decisions in Ex parte Hagelston, 88 USPQ 561, and Ex parte Von Zoaren, 86 USPQ 489. For a later board decision to the same effect, subsequent to enactment of section 112 and promulgation of Rul\u00e9 71(b) in substantially it* present form, see Ex parte Slocombe, 130 USPQ 36.",
+        "type": "concurrence",
+        "author": "Smith, Judge,"
+      }
+    ],
+    "attorneys": [
+      "James A. Smith (Orman Alexander, of counsel) for appellants.",
+      "Clarence W. Moore (Jack E. Armore, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "364 F. 2d 454; 150 USPQ 652\nIn re Francis J. Honn and Willard M. Sims\n(No. 7593)\nUnited States Court of Customs and Patent Appeals,\nAugust 4, 1966\nJames A. Smith (Orman Alexander, of counsel) for appellants.\nClarence W. Moore (Jack E. Armore, of counsel) for the Commissioner of Patents.\n[Oral argument February 9, 1966 by Mr. Smith and Mr. Armore]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Chief Judge \u2019Worley, pursuant to provisions of Section \u2022294(d), Title 28, United States Code."
+  },
+  "file_name": "1469-01",
+  "first_page_order": 791,
+  "last_page_order": 804
+}

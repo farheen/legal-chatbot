@@ -1,0 +1,58 @@
+{
+  "id": 12486544,
+  "name": "Com. v. K. Sierra",
+  "name_abbreviation": "Com. v. Sierra",
+  "decision_date": "2016-03-10",
+  "docket_number": "NO. 1196 MDA 2015",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "03819d689ce7ef635bbe19579ffc9439a56a5d80ab64db11c540b28c1653e295",
+    "simhash": "1:1e4246581cca9488",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nK. Sierra"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nK. Sierra\nNO. 1196 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 10, 2016\nAffirmed."
+  },
+  "file_name": "0196-15",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

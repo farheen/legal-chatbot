@@ -1,0 +1,58 @@
+{
+  "id": 12488831,
+  "name": "STATE v. KANE",
+  "name_abbreviation": "State v. Kane",
+  "decision_date": "2016-09-01",
+  "docket_number": "16-289",
+  "first_page": "468",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "2f73798878b072523425fc0ffb0106103012658856ccb86c925cd709c16d2bd0",
+    "simhash": "1:f1110c308a5470c0",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE\nv.\nKANE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE\nv.\nKANE\n16-289\nSupreme Court of Vermont.\nSeptember 1, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nAffirmed."
+  },
+  "file_name": "0468-20",
+  "first_page_order": 468,
+  "last_page_order": 468
+}

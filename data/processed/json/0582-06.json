@@ -1,0 +1,58 @@
+{
+  "id": 12485752,
+  "name": "N. Stump v. G. Stump",
+  "name_abbreviation": "Stump v. Stump",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 710 MDA 2015",
+  "first_page": "582",
+  "last_page": "582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 112,
+    "sha256": "c8e6bd0cb995b5dc32576fbccc4c6e2efe0ddb9809b9227ca8be1a8cc021917b",
+    "simhash": "1:251d8224506200e7",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "N. Stump\nv.\nG. Stump"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "N. Stump\nv.\nG. Stump\nNO. 710 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0582-06",
+  "first_page_order": 582,
+  "last_page_order": 582
+}

@@ -1,0 +1,92 @@
+{
+  "id": 11529590,
+  "name": "Nancy WOLF, on behalf of the deceased, Hunter WOLF, Petitioner, v. WORKERS' COMPENSATION APPEAL BOARD (BIRDSBORO CORPORATION), Respondents",
+  "name_abbreviation": "Wolf ex rel. Wolf v. Workers' Compensation Appeal Board",
+  "decision_date": "2000-04-26",
+  "docket_number": "",
+  "first_page": "822",
+  "last_page": "822",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "750 A.2d 822"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "746 A.2d 87",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        95834,
+        11467271
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0413-01",
+        "/a2d/746/0087-01"
+      ]
+    },
+    {
+      "cite": "560 Pa. 413",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        95834
+      ],
+      "year": 2000,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/560/0413-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 485,
+    "ocr_confidence": 0.661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24122873572938036
+    },
+    "sha256": "ef36c012aafb86811772fc4b4575c1c4dbba9dfc25573be7ce2b8e77db7db7b2",
+    "simhash": "1:7c940b27a9c1ac3e",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T19:50:14.102154+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nancy WOLF, on behalf of the deceased, Hunter WOLF, Petitioner, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (BIRDSBORO CORPORATION), Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 26th day of April, 2000, the Petition for Allowance of Appeal is GRANTED. The Order of the Commonwealth Court is reversed. See City of McKeesport v. Workers\u2019 Compensation Appeal Board (Miletti), 560 Pa. 413, 746 A.2d 87 (2000).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Nancy WOLF, on behalf of the deceased, Hunter WOLF, Petitioner, v. WORKERS\u2019 COMPENSATION APPEAL BOARD (BIRDSBORO CORPORATION), Respondents.\nSupreme Court of Pennsylvania.\nApril 26, 2000.\nReconsideration Denied June 28, 2000."
+  },
+  "file_name": "0822-02",
+  "first_page_order": 870,
+  "last_page_order": 870
+}

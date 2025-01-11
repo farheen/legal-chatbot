@@ -1,0 +1,59 @@
+{
+  "id": 6083594,
+  "name": "Orville S. Hershey v. George A. Gillen",
+  "name_abbreviation": "Hershey v. Gillen",
+  "decision_date": "1932-05-03",
+  "docket_number": "No. 2991",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 81,
+    "ocr_confidence": 0.628,
+    "sha256": "98ed98c9300001601d28505346e27fdb3486ddae604b99153750f97f44ce0923",
+    "simhash": "1:cde0d34836f11204",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Orville S. Hershey v. George A. Gillen"
+    ],
+    "opinions": [
+      {
+        "text": "Automobile locks.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MAY 3, 1932\nOrville S. Hershey v. George A. Gillen\n(No. 2991)."
+  },
+  "file_name": "1298-18",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

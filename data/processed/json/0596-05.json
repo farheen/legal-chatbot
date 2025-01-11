@@ -1,0 +1,58 @@
+{
+  "id": 12485974,
+  "name": "Com. v. Y. Kemp",
+  "name_abbreviation": "Com. v. Kemp",
+  "decision_date": "2016-02-17",
+  "docket_number": "NO. 1768 EDA 2015",
+  "first_page": "596",
+  "last_page": "596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "99538541d7c91ba2d5cf5c665c4408d5949fd84660b0d6492a424ff7b12193d5",
+    "simhash": "1:370e6e918da287d4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nY. Kemp"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nY. Kemp\nNO. 1768 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 17, 2016\nDisposition: Affirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0596-05",
+  "first_page_order": 596,
+  "last_page_order": 596
+}

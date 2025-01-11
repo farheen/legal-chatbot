@@ -1,0 +1,58 @@
+{
+  "id": 12501728,
+  "name": "COM. v. DANIELS, E.",
+  "name_abbreviation": "Com. v. Daniels",
+  "decision_date": "2018-07-19",
+  "docket_number": "2525 EDA 2017",
+  "first_page": "688",
+  "last_page": "688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 688"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "c1bd096fef6418e7c68e9ed38301170e5313ad36b4cca3131f0d04ef74cfa906",
+    "simhash": "1:9fd656fbe5b1bcc4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nDANIELS, E."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nDANIELS, E.\n2525 EDA 2017\nSuperior Court of Pennsylvania.\nJuly 19, 2018\nAffirmed"
+  },
+  "file_name": "0688-04",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

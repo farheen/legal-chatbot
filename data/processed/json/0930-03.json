@@ -1,0 +1,61 @@
+{
+  "id": 11640409,
+  "name": "In the Matter of John J. ZAGARI",
+  "name_abbreviation": "In re Zagari",
+  "decision_date": "1999-03-04",
+  "docket_number": "No. 210 Disciplinary Docket No. 3",
+  "first_page": "930",
+  "last_page": "931",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "724 A.2d 930"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 575,
+    "ocr_confidence": 0.652,
+    "sha256": "b6e43c9a1d6cdc91a31acc9043288537dbf341847ad21ac32d32f6395c5aa219",
+    "simhash": "1:d82a874a8181ee54",
+    "word_count": 93
+  },
+  "last_updated": "2023-07-14T15:46:29.380997+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Justice CAPPY did not participate in this matter."
+    ],
+    "parties": [
+      "In the Matter of John J. ZAGARI."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 4th day of March, 1999, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated January 11, 1999, the Petition for Reinstatement is granted.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.\nJustice CAPPY did not participate in this matter.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of John J. ZAGARI.\nNo. 210 Disciplinary Docket No. 3.\nSupreme Court of Pennsylvania.\nMarch 4, 1999."
+  },
+  "file_name": "0930-03",
+  "first_page_order": 998,
+  "last_page_order": 999
+}

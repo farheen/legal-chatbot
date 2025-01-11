@@ -1,0 +1,58 @@
+{
+  "id": 12488390,
+  "name": "Com. v. Sparrow, J.",
+  "name_abbreviation": "Com v. Sparrow",
+  "decision_date": "2016-05-10",
+  "docket_number": "2016 WDA 2014",
+  "first_page": "1143",
+  "last_page": "1143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 106,
+    "sha256": "a4456feeeb4c9923200725b67a37e779fde580994e267eb9dd4605dff287f3b1",
+    "simhash": "1:3002d8f9caaaa6f2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nSparrow, J."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nSparrow, J.\n2016 WDA 2014\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed/Vacated/Remanded"
+  },
+  "file_name": "1143-08",
+  "first_page_order": 1143,
+  "last_page_order": 1143
+}

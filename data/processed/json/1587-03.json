@@ -1,0 +1,59 @@
+{
+  "id": 6082871,
+  "name": "In re Frank Scelzo, Jr.",
+  "name_abbreviation": "In re Scelzo",
+  "decision_date": "1962-10-11",
+  "docket_number": "No. 6849",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "ocr_confidence": 0.506,
+    "sha256": "504db17732a5df74951ef08cbc13c25ce6eece55af18022cff3fdda89b21dbb2",
+    "simhash": "1:08608145241ddc5b",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Frank Scelzo, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in a golf club head.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 11, 1962\nIn re Frank Scelzo, Jr.\n(No. 6849) ."
+  },
+  "file_name": "1587-03",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

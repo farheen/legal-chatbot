@@ -1,0 +1,59 @@
+{
+  "id": 6093224,
+  "name": "In re Joseph T. Loomer",
+  "name_abbreviation": "In re Loomer",
+  "decision_date": "1968-09-16",
+  "docket_number": "No. 8204",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "55 C.C.P.A. 1515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 86,
+    "ocr_confidence": 0.517,
+    "sha256": "5b45c1f839e11bd16889ece57ec2a1129a4d142a9d50e7391d6cd3dbd52b0c2c",
+    "simhash": "1:600f99b83498aa9f",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T15:48:50.705811+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Joseph T. Loomer"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014 Finishing of printing material.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "September 16, 1968\nNo. 8204.\nIn re Joseph T. Loomer"
+  },
+  "file_name": "1515-08",
+  "first_page_order": 855,
+  "last_page_order": 855
+}

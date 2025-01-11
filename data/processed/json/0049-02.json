@@ -1,0 +1,62 @@
+{
+  "id": 12492386,
+  "name": "STATE of New Jersey, Plaintiff, v. John S. HILKEVICH, Defendant-Movant.",
+  "name_abbreviation": "State v. Hilkevich",
+  "decision_date": "2018-01-16",
+  "docket_number": "M\u2013534 September Term 2017; 078961",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "178 A.3d 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "232 N.J. 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 278,
+    "sha256": "0b12c8c1ac4edca9ae7a33ffc36a045f33ac9d1f44913761bb82ec8c37d2a521",
+    "simhash": "1:06bf7c257d070d29",
+    "word_count": 43
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff,\nv.\nJohn S. HILKEVICH, Defendant-Movant."
+    ],
+    "opinions": [
+      {
+        "text": "It is ORDERED that the motion for reconsideration of the Court's order denying the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff,\nv.\nJohn S. HILKEVICH, Defendant-Movant.\nM-534 September Term 2017\n078961\nSupreme Court of New Jersey.\nJanuary 16, 2018\nORDER"
+  },
+  "file_name": "0049-02",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

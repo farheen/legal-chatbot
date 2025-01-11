@@ -1,0 +1,59 @@
+{
+  "id": 12167093,
+  "name": "In re Fred Kagan and Robert D. Birkenmeyer",
+  "name_abbreviation": "In re Kagan",
+  "decision_date": "1964-10-29",
+  "docket_number": "No. 7107",
+  "first_page": "1835",
+  "last_page": "1835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 103,
+    "ocr_confidence": 0.516,
+    "sha256": "779d9619d10bdb4bbe20423161d87ad415a88d260548a98d14fb86a9c2c48952",
+    "simhash": "1:3c9366021dcb3f57",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Fred Kagan and Robert D. Birkenmeyer"
+    ],
+    "opinions": [
+      {
+        "text": "Organic compounds and process.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "October 29, 1964\nIn re Fred Kagan and Robert D. Birkenmeyer\n(No. 7107)."
+  },
+  "file_name": "1835-09",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

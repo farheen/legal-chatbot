@@ -1,0 +1,58 @@
+{
+  "id": 12488532,
+  "name": "Com. ex rel Vanderpool v. Abrams",
+  "name_abbreviation": "Vanderpool v. Abrams",
+  "decision_date": "2016-05-18",
+  "docket_number": "1420 WDA 2015",
+  "first_page": "1152",
+  "last_page": "1152",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 124,
+    "sha256": "ca064a4dc2c37b8666f9c7734a73826a66758b4f58692ee591874eeaacf78b3b",
+    "simhash": "1:100b20d892291b84",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com. ex rel Vanderpool\nv.\nAbrams"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com. ex rel Vanderpool\nv.\nAbrams\n1420 WDA 2015\nSuperior Court of Pennsylvania.\nMay 18, 2016\nTransfer to Commonwealth Court"
+  },
+  "file_name": "1152-09",
+  "first_page_order": 1152,
+  "last_page_order": 1152
+}

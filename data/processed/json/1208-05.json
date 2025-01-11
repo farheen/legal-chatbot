@@ -1,0 +1,59 @@
+{
+  "id": 6082712,
+  "name": "Ex parte Christopher Luckhaupt",
+  "name_abbreviation": "Ex parte Luckhaupt",
+  "decision_date": "1947-04-02",
+  "docket_number": "No. 5327",
+  "first_page": "1208",
+  "last_page": "1208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 121,
+    "ocr_confidence": 0.486,
+    "sha256": "30a390b4e6860d82afe554f16d641145e5aee41b4d99bb30fe815a5aedc5fa5b",
+    "simhash": "1:709d8a379f7f0604",
+    "word_count": 17
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Christopher Luckhaupt"
+    ],
+    "opinions": [
+      {
+        "text": "Method of treating cellulosic materials and resulting products.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "April 2, 1947\nEx parte Christopher Luckhaupt\n(No. 5327)."
+  },
+  "file_name": "1208-05",
+  "first_page_order": 526,
+  "last_page_order": 526
+}

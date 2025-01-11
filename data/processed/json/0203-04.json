@@ -1,0 +1,58 @@
+{
+  "id": 12486658,
+  "name": "W. Jones-Keahey v. G. Keahey",
+  "name_abbreviation": "Jones-Keahey v. Keahey",
+  "decision_date": "2016-03-21",
+  "docket_number": "NO. 373 EDA 2015",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 104,
+    "sha256": "ddbd83bd5f4afc78fb7ab74c5afccfc4e99daf2686b22df73decfb43eee27967",
+    "simhash": "1:bf1116998ca0c5c7",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W. Jones-Keahey\nv.\nG. Keahey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "W. Jones-Keahey\nv.\nG. Keahey\nNO. 373 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 21, 2016\nAffirmed."
+  },
+  "file_name": "0203-04",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

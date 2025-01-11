@@ -1,0 +1,58 @@
+{
+  "id": 12490524,
+  "name": "GIBSON, B. v. PBPP",
+  "name_abbreviation": "Gibson v. PBPP",
+  "decision_date": "2017-03-30",
+  "docket_number": "1456 CD 2016",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 128,
+    "sha256": "c0c38444072c96f9c31dd4c1b2f8529711e4951af27748f2a172d5bb37edc200",
+    "simhash": "1:35d1efa682807e79",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GIBSON, B.\nv.\nPBPP"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "GIBSON, B.\nv.\nPBPP\n1456 CD 2016\nCommonwealth Court of Pennsylvania.\nMarch 30, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0300-13",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

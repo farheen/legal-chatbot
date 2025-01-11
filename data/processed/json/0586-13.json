@@ -1,0 +1,58 @@
+{
+  "id": 12485809,
+  "name": "Com. v. J. James",
+  "name_abbreviation": "Com. v. James",
+  "decision_date": "2016-02-03",
+  "docket_number": "NO. 1223 WDA 2014",
+  "first_page": "586",
+  "last_page": "586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "6c12b2211f320390c935baa8ff14a043e9d9ae03df652e6e617f12dedfd61135",
+    "simhash": "1:9c5bcab91a88f8e5",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. James"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. James\nNO. 1223 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 03, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0586-13",
+  "first_page_order": 586,
+  "last_page_order": 586
+}

@@ -1,0 +1,86 @@
+{
+  "id": 7997720,
+  "name": "Harold S. ALSTON, Defendant, Appellant, v. STATE of Delaware, Plaintiff, Appellee",
+  "name_abbreviation": "Alston v. State",
+  "decision_date": "1980-01-17",
+  "docket_number": "",
+  "first_page": "1019",
+  "last_page": "1021",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "410 A.2d 1019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del.",
+    "id": 9322,
+    "name": "Delaware Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "270 F.2d 252",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1967812
+      ],
+      "pin_cites": [
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/270/0252-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 278,
+    "char_count": 4038,
+    "ocr_confidence": 0.799,
+    "pagerank": {
+      "raw": 8.065025581739223e-08,
+      "percentile": 0.4666214130630782
+    },
+    "sha256": "121534b6576a5af398f89f455f84d8b6ba989347a805efeb834b19ec123daf51",
+    "simhash": "1:1bf7054a849355a5",
+    "word_count": 694
+  },
+  "last_updated": "2024-02-27T19:30:58.814650+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before HERRMANN, C. J., DUFFY and McNEILLY, JJ."
+    ],
+    "parties": [
+      "Harold S. ALSTON, Defendant, Appellant, v. STATE of Delaware, Plaintiff, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nDefendant was convicted by a Superior Court jury of theft, in violation of 11 Del.C. \u00a7 841, and, after sentencing, he docketed this appeal.\nAt trial, the jury acquitted defendant of Burglary in the Third Degree, see 11 Del.C. \u00a7 824, and his only argument on appeal is that the verdict finding him guilty of theft is inconsistent with an acquittal on the burglary charge; for that reason, he says, there is reversible error and this Court should order that he also be acquitted on the theft charge.\nA jury may acquit, convict, or disagree as to the several counts in a multi-count indictment, and a verdict as to one count is not necessarily invalid because of what the jury did, or failed to do, as to any other count. 23A C.J.S. Criminal Law \u00a7 1403. If the elements of separate counts are identical, different verdicts may be legally inconsistent, but that is not this case.\nHere, the counts of burglary and theft are based on different statutes with distinctly different elements. Thus, theft is defined in 11 Del.C. \u00a7 841, which provides that:\n\u201c[a] person is guilty of theft when he takes, exercises control over or obtains property of another person intending to deprive him of it or appropriate it. .\nA person is guilty of theft if he, in any capacity, legally receives, takes, exercises control over, or obtains property of another which is the subject of theft, and fraudulently converts same to his own use.\nTheft is a class A misdemeanor, unless the value of the property is $300 or more, in which case it is a class E felony.\u201d\nThe crime of burglary, on the other hand, is defined this way in 11 Del.C. \u00a7 824:\n\u201cA person is guilty of burglary in the third degree when he knowingly enters or remains unlawfully in a building with intent to commit a crime therein.\u201d\nAs the Court noted in Torres v. United States, 9 Cir., 270 F.2d 252, 256, because the elements for theft differ from .the elements of burglary, the jury\u2019s verdict of guilty of the former charge is not legally or logically inconsistent with its inability to return a verdict on the latter:\n\u201cThere is nothing legally or logically inconsistent with the jury finding the defendant guilty on one count and not guilty on the other. The reason is simply that the evidence may not have convinced the jury that the defendant took part in the [burglary], or alternatively, that he possessed the stolen goods. In our case the jury did not think the government proved that Torres stole the goods, but did believe he possessed them, knowing they were stolen.\u201d\nIn this case, similarly, the jury may not have been convinced that defendant burglarized the building from which the property was stolen, but it may have found that he had received, taken or exercised control over the property, knowing that it had been stolen. Such conduct, of course, is a violation of \u00a7 841.\nThe record shows that defendant took a number of affirmative actions indicating that he intended to appropriate the goods for his own use. He sold one of the items (a valuable vacuum clean\u00e9r) very shortly after it had been stolen and, when confronted by the manager of the burglarized building, he initially denied knowledge of the burglary or the location of the goods, but then, according to the manager\u2019s testimony, said, \u201cOkay. You\u2019re right. I can get the stuff back for you. We took it, . . . \u201d (referring to himself and a partner).\nThere is evidence in the record from which the jury could have concluded that defendant knew that the property had been stolen and that he intended to appropriate it for his own use. The jury need not have made a determination that defendant had burglarized the building in order to reach that conclusion.\nAffirmed.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Richard M. Baumeister, Wilmington, for defendant, appellant.",
+      "Timothy H. Barron, Deputy Atty. Gen., Wilmington, for plaintiff, appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Harold S. ALSTON, Defendant, Appellant, v. STATE of Delaware, Plaintiff, Appellee.\nSupreme Court of Delaware.\nSubmitted Dec. 11, 1979.\nDecided Jan. 17, 1980.\nRichard M. Baumeister, Wilmington, for defendant, appellant.\nTimothy H. Barron, Deputy Atty. Gen., Wilmington, for plaintiff, appellee.\nBefore HERRMANN, C. J., DUFFY and McNEILLY, JJ."
+  },
+  "file_name": "1019-01",
+  "first_page_order": 1067,
+  "last_page_order": 1069
+}

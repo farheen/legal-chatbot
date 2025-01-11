@@ -1,0 +1,194 @@
+{
+  "id": 6086993,
+  "name": "In re Carsten Ingeman Johnsen",
+  "name_abbreviation": "In re Johnsen",
+  "decision_date": "1966-05-12",
+  "docket_number": "No. 7656",
+  "first_page": "1401",
+  "last_page": "1403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1401"
+    },
+    {
+      "type": "parallel",
+      "cite": "149 U.S.P.Q. 630"
+    },
+    {
+      "type": "parallel",
+      "cite": "359 F.2d 905"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "296 F. 2d 767",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        218763,
+        12164591
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/296/0767-01",
+        "/ccpa/49-2/0803-01"
+      ]
+    },
+    {
+      "cite": "49 CCPA 803",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        12164591
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/49-2/0803-01"
+      ]
+    },
+    {
+      "cite": "326 F. 2d 418",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6091879,
+        115159
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0869-01",
+        "/f2d/326/0418-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 869",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6091879
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0869-01"
+      ]
+    },
+    {
+      "cite": "239 F. 2d 403",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 CCPA 723",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6077520
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/44-2/0723-01"
+      ]
+    },
+    {
+      "cite": "223 F. 2d 471",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        53448,
+        6079700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/223/0471-01",
+        "/ccpa/42-2/0956-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 956",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6079700
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0956-01"
+      ]
+    },
+    {
+      "cite": "145 U.S. 156",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3561963
+      ],
+      "pin_cites": [
+        {
+          "page": "171"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/145/0156-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 417,
+    "char_count": 5793,
+    "ocr_confidence": 0.45,
+    "pagerank": {
+      "raw": 8.451705655150067e-08,
+      "percentile": 0.48490954491941424
+    },
+    "sha256": "c8b0bb44a7a30a977505e00b73a32fe1e716c6f1b2f91e9bd8d3744207260a1c",
+    "simhash": "1:05dfe4777d8a47b1",
+    "word_count": 969
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick"
+    ],
+    "parties": [
+      "In re Carsten Ingeman Johnsen"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam:\nThis is an appeal from the decision of the Board of Appeals which affirmed the examiner\u2019s rejection of claims 1, 5-7, and 12-15 in the appellant\u2019s application entitled \u201cGeneration of Hydrogen and Electrical Energy.\u201d\nThis case provides yet another illustration of the difficulties which beset an inventor, unfamiliar with Patent Office procedure, who prosecutes his application pro se and of the continuing validity of the observation by the Supreme Court in Topliff v. Topliff, 145 U.S. 156, 171, that:\n* * * The specification and claims of a patent, particularly if the invention be at all complicated, constitute one of the most difficult legal instruments to draw with accuracy, and in view of the fact that valuable inventions are often placed in the hands of inexperienced persons to prepare such specifications and claims, it is no matter of surprise that the latter frequently fail to describe with requisite certainty the exact invention * * *.\nThe examiner rejected the appellant\u2019s claims, directed to a method of producing hydrogen and electrical energy from carbon compounds, water and air, as failing to comply with the requirements of 35 USC 112. The examiner regarded the claims as indefinite, vague and unduly broad. The board agreed, finding that\n* * * the claims do not set forth coherent related steps which cooperate with each other * * *.\nThe board refused to consider new claims which the appellant presented in a reply brief to the examiner\u2019s Answer, on the ground that the reply brief was not timely and that it was not directed to any new points raised for the first time in the examiner\u2019s Answer as required by Patent Office Eule 193(b).\nOn appeal here, the appellant expresses no dissatisfaction with the examiner\u2019s and the board\u2019s rejection of claims 1, 5-7, and 12-15 under 35 USC 112, nor does he point out where the board erred in rejecting those claims. While no question has been raised by the solicitor as to the sufficiency of the appellant\u2019s reasons of appeal to enable us to review that rejection, it seems to us that the reasonable inference to be drawn from the appellant\u2019s subsequent conduct is that he has abandoned pursuit of that issue. See In re Le Baron, 42 CCPA 956, 223 F. 2d 471, 106 USPQ 176, and cases cited therein.\nWhat the appellant does ask this court to do, both in his brief and in his Petition of Appeal, is to consider\n* * * ordering the Commissioner of Patents to issue Letters Patent to said applicant, on said subject, containing Specifications, Drawings and the claims nos. 1, 2, 3, 4, 5, 6, 7 and 8 described in Paper No. 14 mailed Feb. 24r-1964 * * *.\nThe appellant\u2019s \u201cPaper No. 14\u201d is his reply brief to the examiner\u2019s Answer, and claims 1-8 (obviously misnumbered \u2014 see Patent Office Eule 126) set forth therein are those not considered by the examiner or the board. He asks that the court \u201cpermit consideration of my paper #14\u201d and notes that, in his opinion,\nThe revised claims in Paper #14: * * * answer all the Examiner\u2019s criticisms [sic] regarding broadness, coherence, indefiniteness. Consideration of my ywper #14 is essential to the success of my appeal.\nWe do not \u201cdirect\u201d or \u201corder\u201d the Commissioner of Patents to issue a patent even upon disagreeing with decisions of the Patent Office. The effect of our decision is to return the case involved to the Patent Office for further proceedings consistent with the court\u2019s opinion. See Glass v. De Roo, 44 CCPA 723, 239 F. 2d 403, 112 USPQ 62; In re Citron, 51 CCPA 869, 326 F. 2d 418, 140 USPQ 220. It is the province of the Patent Office, not of this court, to determine in the first instomoe whether the statutory requirements have been satisfied. We cannot, therefore, consider the allowability of claims, such as claims 1-8 appearing in the appellant\u2019s paper number 14, which have neither been entered in the case nor considered by the examiner or the board. In re Smitley, 49 CCPA 803, 296 F. 2d 767, 132 USPQ 3. The Patent Office has not decided whether those claims are patentable to the appellant, and this court lacks jurisdiction to review a decision which has not been made. 35 USC 141.\nThus, while we affirm the rejection of claims 1, 5-7, and 12-15 for the reasons given by the examiner and the board, and also refuse to consider \u201cclaims 1-8\u201d appearing in the appellant\u2019s reply brief to the examiner\u2019s Answer, we note that the appellant does not appear to be without remedy. As the solicitor points out:\nAppellant might have secured consideration for the new claims proposed in his reply brief by submitting them in a continuation application. This could yet be done, albeit at greater expense due to a recent statutory increase in fees. * * *\nThe court also observes a recent change in Patent Office practice which greatly simplifies the procedure for filing a continuation application. See 824 O.G. 1.\nThe decision is affirmed.\nSerial No. 123,408, filed July 10,1961.\nThe second paragraph of 35 USC 112 reads : The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as his invention.",
+        "type": "majority",
+        "author": "Per Curiam:"
+      }
+    ],
+    "attorneys": [
+      "Gar stem, Ingeman Johnsen, pro se.",
+      "Joseph Sohimmel (Jere W. Sears, of counsel) for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "359 F. 2d 905; 149 USPQ 630\nIn re Carsten Ingeman Johnsen\n(No. 7656)\nUnited States Court of Customs and Patent Appeals,\nMay 12, 1966\nGar stem, Ingeman Johnsen, pro se.\nJoseph Sohimmel (Jere W. Sears, of counsel) for the Commissioner of Patents.\n[Oral argument March 8, 1966 by Mr. Sears ; submitted on record and brief by appellant]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick\nUnited States Senior District Judge for the Eastern District of Pennsylvania, designated to participate in place of Chief Judge Worley, pursuant to provisions of Section 294(d), Title 28, United States Code."
+  },
+  "file_name": "1401-01",
+  "first_page_order": 723,
+  "last_page_order": 725
+}

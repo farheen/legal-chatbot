@@ -1,0 +1,58 @@
+{
+  "id": 12487538,
+  "name": "Com. v. T. Schram",
+  "name_abbreviation": "Com. v. Schram",
+  "decision_date": "2016-04-25",
+  "docket_number": "NO. 1267 WDA 2015",
+  "first_page": "793",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 793"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "1456bb04042a068eea6fe16fb610098733d1788a7e062b7dec5d950f6d412bd5",
+    "simhash": "1:361836f950250885",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Schram"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Schram\nNO. 1267 WDA 2015\nSuperior Court of Pennsylvania.\nApril 25, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0793-12",
+  "first_page_order": 793,
+  "last_page_order": 793
+}

@@ -1,0 +1,59 @@
+{
+  "id": 12167119,
+  "name": "In re John A. Hogg and Alan H. Nathan",
+  "name_abbreviation": "In re Hogg",
+  "decision_date": "1964-10-29",
+  "docket_number": "No. 7147",
+  "first_page": "1835",
+  "last_page": "1835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 12,
+    "char_count": 115,
+    "ocr_confidence": 0.673,
+    "sha256": "6401269fa496d9a632982c3bbf75c72ce8d13064607eca90a18c6a16285698cf",
+    "simhash": "1:d278d4f6bb4cba0b",
+    "word_count": 12
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John A. Hogg and Alan H. Nathan"
+    ],
+    "opinions": [
+      {
+        "text": "2a-fluoro-11-oxygenated-17a-hydroxy-4,6-pregnadiene-3,20-diones.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re John A. Hogg and Alan H. Nathan\n(No. 7147)."
+  },
+  "file_name": "1835-10",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485665,
+  "name": "Commonwealth v. Shaquille West",
+  "name_abbreviation": "Commonwealth v. West",
+  "decision_date": "2016-06-22",
+  "docket_number": "NO. 87 WAL 2016",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "455283b4b2df456a309c5395a68181df7f39a98806e2121a7b3cdc0c8ae9f171",
+    "simhash": "1:dc8606e308210470",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nShaquille West"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nShaquille West\nNO. 87 WAL 2016\nSupreme Court of Pennsylvania\nJune 22, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0481-11",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

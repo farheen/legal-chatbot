@@ -1,0 +1,62 @@
+{
+  "id": 12485499,
+  "name": "State v. Steven St. Fleur",
+  "name_abbreviation": "State v. St. Fleur",
+  "decision_date": "2016-06-03",
+  "docket_number": "NOS. C-893 SEPT. TERM 2015, 076603",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "226 N.J. 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 125,
+    "sha256": "d2b4314ec06bb2bdff5fd1d8132bcb9f6a19259e197615c933a10bce50a56c2c",
+    "simhash": "1:846910e6288b2026",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State\nv.\nSteven St. Fleur"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State\nv.\nSteven St. Fleur\nNOS. C-893 SEPT. TERM 2015, 076603\nSupreme Court of New Jersey\nJune 03, 2016\nDisposition: Denied."
+  },
+  "file_name": "0296-22",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

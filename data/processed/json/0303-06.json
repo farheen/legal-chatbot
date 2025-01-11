@@ -1,0 +1,58 @@
+{
+  "id": 12490576,
+  "name": "STEVENSON, K. v. UCBR",
+  "name_abbreviation": "Stevenson v. Ucbr",
+  "decision_date": "2017-04-19",
+  "docket_number": "909 CD 2016",
+  "first_page": "303",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "167 A.3d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 130,
+    "sha256": "db6176355fca4df6a133d50bc2bd5b879de8d45d4fedc36b93b9e9ebce27deb8",
+    "simhash": "1:356bfab7914c357a",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.022978+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STEVENSON, K.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STEVENSON, K.\nv.\nUCBR\n909 CD 2016\nCommonwealth Court of Pennsylvania.\nApril 19, 2017\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0303-06",
+  "first_page_order": 303,
+  "last_page_order": 303
+}

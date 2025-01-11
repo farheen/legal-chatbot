@@ -1,0 +1,100 @@
+{
+  "id": 8051107,
+  "name": "Herbert BARRY, Jr., et al. v. Nadzia Melanovich GURIN",
+  "name_abbreviation": "Barry v. Gurin",
+  "decision_date": "1979-09-18",
+  "docket_number": "",
+  "first_page": "739",
+  "last_page": "740",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "405 A.2d 739"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "195 A.2d 414",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "414-15"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Me. 485",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        474130
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "485-86"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/159/0485-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 1371,
+    "ocr_confidence": 0.773,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41385829830233345
+    },
+    "sha256": "c859c1fc35382d023274dad79c7d63871ff522a118b2cd68be8c20ba929d95b9",
+    "simhash": "1:0e57e3b04b410c7d",
+    "word_count": 213
+  },
+  "last_updated": "2024-02-27T22:14:23.256652+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C. J., and POMER-OY, WERNICK, ARCHIBALD, GODFREY and NICHOLS, JJ.",
+      "GLASSMAN, J., did not sit."
+    ],
+    "parties": [
+      "Herbert BARRY, Jr., et al. v. Nadzia Melanovich GURIN."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION\nPlaintiffs appeal from a judgment entered in Superior Court (Sagadahoc County) on a jury verdict for defendant. Plaintiff Herbert Barry, Jr., sued for injuries arising out of a collision between the automobiles driven by him and defendant, alleging that the collision resulted from defendant\u2019s negligence. Herbert\u2019s mother joined as plaintiff seeking to recover her damages related to his injuries. The jury found defendant \u201cnot guilty of negligence which was a proximate cause of the accident.\u201d The sole issue on appeal is whether the presiding justice erred in denying plaintiffs\u2019 motion for judgment n. o. v. See Rule 50(b), M.R.Civ.P. On our review of that ruling, \u201cthe verdict stands unless manifestly wrong and we take the evidence in the light most favorable to the successful party.\u201d Ogden v. Libby, 159 Me. 485, 485-86, 195 A.2d 414, 414-15 (1963). The evidence was plainly sufficient to warrant the jury\u2019s verdict.\nThe entry will be:\nAppeal denied.\nJudgment affirmed.\nGLASSMAN, J., did not sit.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Bernotavicz & Kenyon by John W. Berno-tavicz (orally), Richmond, for plaintiffs.",
+      "Clifford & Clifford by Jere R. Clifford (orally), Lewiston, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Herbert BARRY, Jr., et al. v. Nadzia Melanovich GURIN.\nSupreme Judicial Court of Maine.\nSept. 18, 1979.\nBernotavicz & Kenyon by John W. Berno-tavicz (orally), Richmond, for plaintiffs.\nClifford & Clifford by Jere R. Clifford (orally), Lewiston, for defendant.\nBefore McKUSICK, C. J., and POMER-OY, WERNICK, ARCHIBALD, GODFREY and NICHOLS, JJ."
+  },
+  "file_name": "0739-01",
+  "first_page_order": 803,
+  "last_page_order": 804
+}

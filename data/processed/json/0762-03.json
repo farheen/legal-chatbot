@@ -1,0 +1,64 @@
+{
+  "id": 12488919,
+  "name": "RAMSAY v. SAWYER PROPERTY MANAGEMENT",
+  "name_abbreviation": "Ramsay v. Sawyer Prop. Mgmt.",
+  "decision_date": "2017-01-23",
+  "docket_number": "Pet. Docket No. 461, Sept. Term, 2016",
+  "first_page": "762",
+  "last_page": "762",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 762"
+    },
+    {
+      "type": "parallel",
+      "cite": "451 Md. 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 162,
+    "sha256": "9c63c9d5f55f78b09198f29ec43818bd63e2200f81366f8f02669e3c96c8b902",
+    "simhash": "1:827f5031d6794883",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T20:57:14.008101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RAMSAY\nv.\nSAWYER PROPERTY MANAGEMENT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied"
+    ],
+    "corrections": "",
+    "head_matter": "RAMSAY\nv.\nSAWYER PROPERTY MANAGEMENT\nPet. Docket No. 461, Sept. Term, 2016\nCourt of Appeals of Maryland.\nJanuary 23, 2017\nPetition for writ of certiorari denied"
+  },
+  "file_name": "0762-03",
+  "first_page_order": 762,
+  "last_page_order": 762
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6082497,
+  "name": "Ex parte Haviland H. Platt",
+  "name_abbreviation": "Ex parte Platt",
+  "decision_date": "1946-12-06",
+  "docket_number": "No. 5289",
+  "first_page": "1207",
+  "last_page": "1207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 C.C.P.A. 1207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 81,
+    "ocr_confidence": 0.569,
+    "sha256": "43c0b1ad5aa158e42f52e7de26a7fbbb62293d019299796e29a06ccd5ca8df0f",
+    "simhash": "1:848937269b0fa658",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T21:06:23.869324+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Haviland H. Platt"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in aircraft.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "December 6, 1946\nEx parte Haviland H. Platt\n(No. 5289)."
+  },
+  "file_name": "1207-04",
+  "first_page_order": 525,
+  "last_page_order": 525
+}

@@ -1,0 +1,65 @@
+{
+  "id": 12504890,
+  "name": "DEPAUL-GREEN, K. v. UCBR",
+  "name_abbreviation": "Depaul-Green v. UCBR",
+  "decision_date": "2018-11-09",
+  "docket_number": "1807 CD 2017",
+  "first_page": "512",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 512"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 248,
+    "sha256": "cf36fe4c0c847961a636da8fca52da9951af350ab566e24501c78ecb83a09193",
+    "simhash": "1:25c32bd6408d6c5b",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DEPAUL-GREEN, K.\nv.\nUCBR"
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nAffirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "DEPAUL-GREEN, K.\nv.\nUCBR\n1807 CD 2017\nCommonwealth Court of Pennsylvania.\nNovember 9, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0512-04",
+  "first_page_order": 512,
+  "last_page_order": 512
+}

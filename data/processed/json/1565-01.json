@@ -1,0 +1,203 @@
+{
+  "id": 6087218,
+  "name": "In re Hector W. Griswold and George W. Pearce In re Hector W. Griswold",
+  "name_abbreviation": "In re Griswold",
+  "decision_date": "1966-09-15",
+  "docket_number": "No. 7644; No. 7645",
+  "first_page": "1565",
+  "last_page": "1574",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "53 C.C.P.A. 1565"
+    },
+    {
+      "type": "parallel",
+      "cite": "150 U.S.P.Q. 804"
+    },
+    {
+      "type": "parallel",
+      "cite": "365 F.2d 834"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "331 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6092332,
+        132702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01",
+        "/f2d/331/0610-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1271",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092332
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1271-01"
+      ]
+    },
+    {
+      "cite": "327 F. 2d 1005",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        121210,
+        6092284
+      ],
+      "pin_cites": [
+        {
+          "page": "1011"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/327/1005-01",
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 1180",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092284
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1190"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/1180-01"
+      ]
+    },
+    {
+      "cite": "222 F. 2d 267",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        49656,
+        6078794
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/222/0267-01",
+        "/ccpa/42-2/0864-01"
+      ]
+    },
+    {
+      "cite": "42 CCPA 864",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6078794
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/42-2/0864-01"
+      ]
+    },
+    {
+      "cite": "357 F. 2d 679",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        6086458,
+        835886
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1182-01",
+        "/f2d/357/0679-01"
+      ]
+    },
+    {
+      "cite": "53 CCPA 1182",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086458
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/53-2/1182-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 908,
+    "char_count": 22091,
+    "ocr_confidence": 0.422,
+    "pagerank": {
+      "raw": 1.66295762557121e-07,
+      "percentile": 0.6946754424678814
+    },
+    "sha256": "307bd492ad17f1f9b44d5e3ea4f0d8e0a1749bef189aec9d695467403fb64c2e",
+    "simhash": "1:81dba0bf454e64ec",
+    "word_count": 3502
+  },
+  "last_updated": "2024-02-27T21:06:38.381882+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick"
+    ],
+    "parties": [
+      "In re Hector W. Griswold and George W. Pearce In re Hector W. Griswold"
+    ],
+    "opinions": [
+      {
+        "text": "Rich, Acting Chief Judge,\ndelivered the opinion of the court:\nThese two appeals are from unanimous decisions of the Patent Office Board of Appeals, petition for reconsideration in each denied,, affirming the examiner\u2019s rejection of product claim 23 in application, serial No. 437,038, filed June 16, 1954, by Griswold and Pearce, and of product claim 40 in application serial No. 437,119, filed June 16,, 1954, by Griswold. Both applications are entitled \u201cNonwoven Fabric and Method of Producing Same.\u201d While separate records and briefs, were filed in each appeal, the dispositive issues are so closely related that they will be treated in a single opinion.\nThe sole ground of rejection before us in serial No. 437,038 (Appeal No. 7644) is double patenting. The examiner made an additional rejection on prior art which was reversed by the board. The double patenting rejection is based on appellants\u2019 own patent, issued on an application filed April 26,1955, as a continuation-in-part of serial Nos. 437,037 and 437,038:\nGriswold and Pearce_ 3,081,515 March 19,1963\nThe appeal in serial No. 437,119 (Appeal No. 7645) involves the following reference:\nHandmade Papers of Japan, T. K. and H. R. Tindale, Charles E. Tuttle Co., Rutland, Vt., and Tokyo, Japan. Printed in Tokyo in 1952.\nand presents several issues, only the last of which do we find it necessary to decide: (1) whether the entire Tindale publication, including the specimens of \u201chandmade papers\u201d bound therein, is a \u201cprinted publication\u201d within a proper interpretation of 35 U.S.0.102(b); (2) w-hether the Tindale publication specimens are properly considered \u2022evidence under 35 TJ.S.C. 102 (a) that \u201cthe invention was known * * * by others in this country * * * before the invention thereof\u201d by Griswold; (3) whether, in any event, the Tindale specimens serve as an enabling disclosure so that the public is placed in possesion of Gris-wold\u2019s invention; (4) whether the board made a new ground of rejection as to the question presented by issue (2), and subsequently abused \u25a0discretion in refusing to consider affidavits said to show invention of the subject matter of claim 40 by Griswold prior to the effective date of Tindale; and (5) double patenting in view of Griswold\u2019s own patent, application for which was filed April 26, 1955, as a continuation-in-part of serial No. 437,119:\nGriswold_ 3,081,514 March 19, 1963\nWe shall deal first with the double patenting rejection in each appeal. To place the cases in proper perspective in relation to the many \u25a0other double patenting rejections which have come here of late, it would appear from the letters of the examiner, the decisions of the board and the solicitor\u2019s briefs that the issue the Patent Office believes is presented by each appeal represents, in the words of the examiner, \u201ca matter of preventing two patents from issuing on but a single invention.\u201d Appellants, on the other hand, are of the view that each \u2022of the two claims on appeal is \u201cgeneric to\u201d the claims in the patents on which the double patenting rejections are founded and \u201cpatentably \u25a0distinct therefrom.\u201d At the very least, appellants state, each claim on appeal is \u201cfor an invention different from\u201d the respective patent claims and, in view of a terminal disclaimer filed in each application by their assignee, Johnson and Johnson, the double patenting rejections should be reversed.\nWith that background information, we turn to a discussion of the respective applications and patents, and the rejections and arguments made.\nThe Inventions\nThe inventions described in the applications, as well as in the patents, have to do generally with \u201cnonwoven\u201d fabrics, i.e., fabrics produced directly from fiber lengths without the usual spinning, weaving, or knitting operations.\nAs an introduction to their inventions, appellants note that conventional manufacture of woven or knitted fabrics involves the spinning or twisting together of the fibers or filaments of the material making up the fabric into tight mechanical and frictional engagement to form yams or threads of generally circular cross-section. The yarns or threads in turn are woven or knitted to form a fabric comprising, in general, reticular structures of intersecting, intertwining yams which define a pattern of interstices and provide strength to the fabric.\nOn the other hand, it appears that nonwoven fabrics have been of two main types \u2014 \u201cfelts\u201d and \u201cbonded webs.\u201d Hat felt is a common example of the former material, and consists of an assemblage of highly interlocked, densely packed fiber lengths. A \u201c'bonded web\u201d consists of a loosely assembled layer of individual fiber lengths, arranged in either an oriented or random (isotropic) manner, which are held together by various adhesive bonding materials and, to a lesser extent, by interlocking of the fibers. The fibers in an oriented or \u201ccard\u201d web are arranged more or less in one direction by a card machine, and impart strength to the web primarily in that \u201cmachine\u201d direction. The fibers in an isotropic web are arranged in a random, helter-skelter manner by air lay or water lay processes, and impart strength to the web in all directions.\nAppellants\u2019 object is to produce a nonwoven fabric which has the general appearance and strength characteristics bestowed on a woven or knitted fabric by the yarns employed to make those fabrics. To produce the nonwoven fabrics described in the present application and patents, appellants apply an external force to either a card web or a random web of the type hereinbefore described in order to cause fibers in the web to 'bend and form into interconnected groups or bundles.\nIn his application, Griswold discloses that the external force may be applied, for example, by resilient belts placed on each side of a moistened card web or random web. The belts are oscillated in such a manner that the fibers of the starting web are pushed or rolled away from certain areas (which become apertures in the fabric) and bunched or consolidated in other areas to yield interconnected fiber groups which define the apertures and give the fabric a woven or knitted appearance. The moisture contained in the starting web serves to assist in parallelizing the fiber segments and bringing them into close'association.\nAs disclosed by the application of Griswold and Pearce, the external force may be applied to the starting web by a grooved molding means and a resilient member. Oscillation of the resilient member causes the fibers to be pushed away from the projections on the mold, thus defining holes, and into the interconnected grooves of the mold, where the fibers are parallelized and consolidated into interconnected bundles or groups. The fiber groups in the fabric produced in the latter fashion define a predetermined pattern corresponding to the pattern of grooves in the mold. In either case, it is the interconnected bundles of groups of substantially parallel and consolidated fibers which impart the strength and appearance to the fabrics appellants produce. Further strength may be attained by employing the bonding techniques applied to conventional nonwoven materials.\nIn the Griswold application, the holes or interstices defined by the parallel, consolidated fibers are distributed randomly throughout the fabric, i.e., in no particular pattern. The joint invention of Griswold and Pearce, as described in their application, appears to reside in the discovery of myriad techniques by which the substantially parallel, consolidated fibers could be arranged into interconnected bundles or groups defining a variety of 'predetermined patterns of holes or interstices. Reproduced below are Figure 4, appearing in the Griswold \u25a0application and patent, and Figure 6, appearing in the Griswold and Pearce application and patent, which diagrammatically illustrate the inventions of each.\nThe Griswold 3,081,514 patent as well as the Griswold and Pearce \u20223,081,515 patent contain much disclosure which substantially duplicates that present in the respective parent applications on appeal here. In addition, the Griswold and Pearce patent contains further description of types of fabric having a predetermined pattern of holes, and methods and apparatus by which those fabrics may be manufactured. The Griswold patent incorporates substantially the same additional disclosure of fabrics having a predetermined pattern of holes, attributing the invention of that subject matter to Griswold and Pearce by appropriate cross reference to their application which issued into the *515 patent. Both patents also added description of apparatus for making the present fabrics, detailed disclosure of which is found in the Kalwaites patent 2,862,251, referred to in \u2019515.\nOpinion\nWe turn now to see what inventions are defined in the application and patent claims. The board regarded claim 1 of Griswold \u2019514 to be representative of the patent claims which it compared with claim 40 in appeal ISTo. 7645. The two claims are reproduced below, with common verbiage in the first column and differing verbiage in the other two columns:\nIt is self-evident that the primary difference between the above two claims is the omission from the application claim of any reference to the yam-like fiber groups having an oval cross-section which are defined in the patent claim. Other of the patent claims, notably claims 4 and 10, define nonwoven fabrics comprising, in claim 4 [emphasis ours]\n* * * interconnected groups of fiber segments closely associated, and substantially parallelised about the longitudinal axes of the groups to the extent that the groups are yarnlilce, said interconnected groups extending longitudinally and transversely of the fabric and defining holes between them, said groups being interconnected by fibers common to a plurality of groups * * *.\nand in claim 10\n* * * fibers arranged to form interconnected bundles of fiber segments posess-ing yarn-lihe thickness in two dimensions, individual segments in each of said bundles being substantially parallel to the other segments in the bundle and consolidated with the same segments with which they are substantially parallel, said bundles being interconnected by fibers common to a plurality of bundles and defining holes between the bundles * \u00bb *.\nAppellants contend that the above-mentioned differences in language between the patent claims and the application claims lead inescapably to the conclusion that the respective claims define two different inventions. We do not agree.\nThe view of the examiner as expressed in his Answer before the hoard was that:\n* * * the basic difference resides in defining the fiber groups as of \u201coval-cross-section\u201d and/or \u201cyarn-like\u201d in the patent and omitting such limitation(s) from the claim under consideration. Appellant concurs with the above and further admits that the instant application and the patent have the same disclosure with respect to but a single embodiment of the fabric. It is the Examiner\u2019s position that the above restrictions are encompassed by and apparently inherent in the fabric of this application; that the claims are but different definitions of the same disclosed subject matter merely varying in breadth or scope or mode of definition. It is to be noted that throughout the specification of the instant application and all the original claims to the fabric, the bundles are referred to as \u201cyarn-like\u201d, \u201cyam-like in cross-section\u201d, \u201cpossess yam-like thickness\u201d, etc. There is nothing to indicate they (the bundles) could be otherwise. It appears from a comparison of the instant application and the patent, their respective specifications and drawings that the objects and fabric thereof are identical. It therefore appears that the fiber bundles of the instant application would not be but \u201cyarn-like\u201d and/or of \u201coval cross-section\u201d when read with the specification and disclosure.\nGriswold relies on the same arguments to establish that the application claim and patent claims are \u201cpatentably distinct\u201d so as to establish that the claims define \u201cdifferent inventions.\u201d Contrary to the examiner, Griswold contends that the fiber bundles or groups of claim 40 \u201care not necessarily \u2018yam-like\u2019 or of \u2018oval cross-section,\u2019 \u201d and that the examiner erroneously concluded that the embodiments of the inventions in the fabrics disclosed in the appealed application and the \u2019514 patent must be identical. As support for his position, Griswold states:\nFig. 21 * * * [of Griswold \u2019514] illustrates an embodiment of a nonwoven fabric having hole-defining bundles of parallelized and consolidated fibers such as is called for by appealed claim 40. It may be argued that the bundles of fibers in the fabric depicted there are not o\u00ed \u201coval cross-section\u201d; and that the eross1-seetion of these bundles might best be described as substantially rectangular. In addition, it might well be argued that the bundles of Fig. 21 are not \u201cyarn-like\u201d in structure, but are \u201cribbon-like\u201d instead. Hence it might be argued that the fabric of Fig. 21 does not come within the ambit of claims of patent No. 3,081,514. It will, however, clearly come within generic claim 40, and appellant is entitled to the broader protection afforded by this claim.\nAs another example, it might be argued that ithe fabric of Pig. 9 of patent No. 3,081,515 * * * does not come within the claims of [that patent or] patent No. 3,081,514. While we believe the fabric would come within those claims, we also believe that appellant is entitled to receive patent protection which will clearly and beyond any doubt cover the embodiment of Pig. 9 referred to, as well as other embodiments the exact structure of which appellant cannot now foresee, so long as they embody the gist of appealed claim 40, i.e., bundles of parallelized and consolidated fibers which help define holes in the nonwoven fabric, without limitation as to the third dimension of the bundles.\nHe further argues:\nAppellant is entitled to claim his invention as broadly as the prior art permits, and it is appellant\u2019s position that the prior art permits claiming the apertured nonwoven fabric broadly with respect to the bundles, i.e., reciting only that the bundles are made up of fibers which are substantially parallel and consolidated, without regard to the third dimension of \u00a1the bundles. It is the bundles\u2019 third dimension which is the basis for the additional \u201coval cross-section\u201d and \u201cyarn-like\u201d limitations which are present in the claims 'of patent No. 3,081,514. It is the'se limitations to the structure of the bundles which distinguish the patent claims patentably from claim 40 of the instant application.\nIn the absence of a claim like claim 40, a nonwoven fabric which has the general appearance to the casual observer of a woven or knitted fabric, but which does not have fiber bundles with an \u201coval cross-section\u201d or bundles of a \u201cyarn-like\u201d appearance, m'ay be made without infringement of the claim\u00ae in p'atent No. 3,081,514. Yet such a fabric would embody the important novel feature \u2014 the hallmark \u2014 of applicant\u2019s invention, i.e. the bundle structure of claim 40.\nNo doubt the fiber groups defined by appealed claims 23 and 40 could have cross-sections other than oval, e.g., roughly square, rectangular, circular, and the like. In that sense at least, the invention defined 'by the present claims encompasses fabric structures different from the structures defined in some of the patent claims, whether or not those different cross-sections of the groups involve what may be nebulously termed a \u201cpatentable distinction.\u201d Not all of the patent claims, however, require that the fiber groups have an oval cross-section, plainly contemplating other types of cross-section, as unspecific as in the appealed claims. Hence the question still remains whether there is a detectable difference between the expressions \u201cyarn-fe'/ce fiber groups,\u201d \u201cinterconnected groups of fiber segments closely associated and substantially parallelized * * * to the extent that the groups are yarn-like\u201d and \u201cbundles of fiber segments possessing yarn-like thickness in two dimensions\u201d employed in the patent claims, and the expressions employed in the application claims which omit the italicized limitations.\nAs the solicitor points out, no definition is supplied by appellants in their briefs or specifications as to what is meant by \u201cyam-K&e.\u201d We understand from the specifications and patents that a yarn generally Ras a circular cross-section and is comprised of filaments or fibers which are twisted into tight mechanical engagement. But it is quite apparent that neither Griswold nor Griswold and Pearce contemplate fiber groups having a twist applied to them like a yarn, apart from any purely accidental twisting of the fiber lengths which might occur during application of the external-deforming forces to the card web or random web. Griswold\u2019s application states:\n* * * The fibers in the bundles are not a's closely grouped as the fibers in yams and, while there may be some twisting or intertwining among them, they are not twisted in the same way that the fibers in yams are twisted. * * *\nThe nature and appearance of the yarn-like bundles may be varied with the materials and methods used to prepare the fabric of this invention. For instance, the bundles may appear relatively tight or relatively loose and fluffy and the fabric may resemble a gauze, a fluffy knited fabric, etc. * * *\nUnder the circumstances, we find no differences in substance between the invention defined in appealed claims 23 and 40 and the invention defined in the patent claims. The expression \u201cyarn-like1'' and others similar to it adds little, if any, delimiting definition to the patent claims as to the shape of the cross-section of the fiber groups involved or to the tightness of packing of the fibers in that cross-section. We think the expression yarn-Zt&e is sufficiently broad to describe a multitude of fiber bundle structures, whether they be ribbon, rectangular, circular, square, triangular or elliptical in cross-section, as well as structures in which the groups appear tightly consolidated, as in yarns, or relatively loose and fluffy. We are of the opinion that there is nothing defined in the appealed claims that is not as broadly defined in the patent claims. The inventions defined by the respective claims are, in our view, the same.\nAppellants have filed terminal disclaimers in their applications but do not argue that they should be given effect if we find the inventions claimed in the respective applications and patents to be the same. Under the circumstances and in view of our finding, we give the disclaimers no effect. In re Bridgeford, 53 CCPA 1182, 357 F. 2d 679, 149 USPQ 55; In re Siu, 42 CCPA 864, 222 F. 2d 267, 105 USPQ 428.\nThe view we take renders it unnecessary to express any opinion on the other issues presented by Appeal No. 7645. In both appeals the decisions of the board are affirmed.\nConsisting of Examiners-in-Chief Bailey and Manian and Acting Examiner-in-Chief Angel, the latter writing the opinion in each appeal.\nIt is unnecessary in this opinion to set forth appealed claim. 23 in the Griswold and Pearce application or any of the claims of patent 3,081,515 on which it was rejected for double patenting. The claims in the Griswold and Pearce application and patent differ from those set forth above primarily in additionally requiring that the fiber groups define a \u201cpredetermined pattern\u201d of holes.\nAt oral argument, appellants\u2019 counsel stated that, \u201csince double patenting is one issue common to both [appeals], we\u2019ll argue only One case [which was Appeal No. 7645 of Griswold], with the understanding that whatever happens there will apply to the other.\u201d\nFigure 9 mentioned is a photomicrograph illustrating a nonwoven fabric having a predetermined; pattern of holes defined by what appears to be very loosely consolidated or assembled fibers arranged in bundles or groups of indeterminate cross-section.\nThe cross-sectional figures of the fiber groups In the patents show a great variety of cross-sectional shapes.\nThe terminal disclaimers which have been filed are ingenious. The pertinent portion of the disclaimer in the Griswold application file reads :\n* * * Johnson & Johnson hereby disclaims the terminal part of any patent granted on the above identified application, which would extend beyond the expiration date of said patent 3,081,514, and hereby covenants that any patent so granted on. the above identified application, together with any right to recover for its violation shall be enforceable only for and during such period that the legal title to saldi patent and to such right to recover shall be the same respectively as the legal tltl\u00e9 to\u201d United States Patent 3,081,514 and to any corresponding right to recover for its violation, this covenant to run with any patent granted on the above identified application, and to be binding upon the grantee, its successors, or assigns. \u2022 ~ \u25a0\nThe above language includes an imaginative solution to one of the more theoretical objections to double patenting, spilt ownership of two patents and potential harrassment. Cf. In re Sarett, 51 CCPA 1180, 1190, 327 F. 2d 1005, 1011, 140 USPQ 474, 480; In re Robeson, 51 CCPA 1271, 331 F. 2d 610, 141 USPQ 485.",
+        "type": "majority",
+        "author": "Rich, Acting Chief Judge,"
+      },
+      {
+        "text": "MaRtin, J.,\nconcurs in the result.",
+        "type": "concurrence",
+        "author": "MaRtin, J.,"
+      }
+    ],
+    "attorneys": [
+      "Max Dressier, Alexander T. Larder (James W. Clement, Arnold 8. Worfolh, Alexander T. Kardos, of counsel) for appellants.",
+      "Joseph SoMmmel (8. William Cochran, of counsel) for the Commissioner of' Patents."
+    ],
+    "corrections": "",
+    "head_matter": "365 F. 2d 834; 150 USPQ 804\nIn re Hector W. Griswold and George W. Pearce In re Hector W. Griswold\n(No. 7644)\n(No. 7645)\nUnited States Court of Customs and Patent Appeals,\nSeptember 15, 1966\nMax Dressier, Alexander T. Larder (James W. Clement, Arnold 8. Worfolh, Alexander T. Kardos, of counsel) for appellants.\nJoseph SoMmmel (8. William Cochran, of counsel) for the Commissioner of' Patents.\n[Oral argument April 8, 1966 by Mr. Dressier and Mr. Coehran>]\nBefore Rich, Acting Chief Judge, and Martin, Smith, and Almond, Jr., Associate Judges, and Judge William H. Kirkpatrick\nUnited States Senior District Judge for the Eastern District ofi Pennsylvania, designated to participate in place of Chief Judge Worley, pursuant to provisions of Section 294(d), Title 2S, United States Code."
+  },
+  "file_name": "1565-01",
+  "first_page_order": 887,
+  "last_page_order": 896
+}

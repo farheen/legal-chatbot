@@ -1,0 +1,58 @@
+{
+  "id": 12486486,
+  "name": "M.C. v. T.F.",
+  "name_abbreviation": "M.C. v. T.F.",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 1409 MDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 89,
+    "sha256": "a17075529f92719219484b8928562c181b9f9c27df99d4a3683b04f1583606a4",
+    "simhash": "1:69585f150ee69cb2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.C.\nv.\nT.F."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M.C.\nv.\nT.F.\nNO. 1409 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed."
+  },
+  "file_name": "0192-13",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

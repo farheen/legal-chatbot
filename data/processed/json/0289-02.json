@@ -1,0 +1,86 @@
+{
+  "id": 7861159,
+  "name": "COMMONWEALTH of Pennsylvania, Appellee, v. Nancy M. FEATHERS, Appellant",
+  "name_abbreviation": "Commonwealth v. Feathers",
+  "decision_date": "1996-10-08",
+  "docket_number": "No. 3 W.D.1996",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "683 A.2d 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "501 Pa. 514",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1782423
+      ],
+      "weight": 2,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/501/0514-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 71,
+    "char_count": 632,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20013077982538752
+    },
+    "sha256": "a49356938e5303348178cb9a9cb117d1485abd1b3a8b614c56a9b5dbff8f7757",
+    "simhash": "1:066e3a36074da327",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T23:51:20.507764+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+    ],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Appellee, v. Nancy M. FEATHERS, Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nOrder affirmed. See Commonwealth v. Rawles, 501 Pa. 514, 462 A.2d 619 (1983).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Thomas M. Dickey, Altoona, for appellant.",
+      "Norma Chase, Pennsylvania Association of Criminal Defense Lawyers, Pittsburgh, ami-cus curiae.",
+      "David C. Gorman, Hollidaysburg, for ap-pellee.",
+      "Peter J. Gardner, Philadelphia, amicus curiae, for appellant.",
+      "John M. Daley, Special Prosecutor, for ap-pellee."
+    ],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Appellee, v. Nancy M. FEATHERS, Appellant.\nNo. 3 W.D.1996.\nSupreme Court of Pennsylvania.\nArgued Sept. 19, 1996.\nDecided Oct. 8, 1996.\nThomas M. Dickey, Altoona, for appellant.\nNorma Chase, Pennsylvania Association of Criminal Defense Lawyers, Pittsburgh, ami-cus curiae.\nDavid C. Gorman, Hollidaysburg, for ap-pellee.\nPeter J. Gardner, Philadelphia, amicus curiae, for appellant.\nJohn M. Daley, Special Prosecutor, for ap-pellee.\nBefore FLAHERTY, C.J., and ZAPPALA, CAPPY, CASTILLE, NIGRO and NEWMAN, JJ."
+  },
+  "file_name": "0289-02",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

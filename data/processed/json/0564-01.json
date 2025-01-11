@@ -1,0 +1,97 @@
+{
+  "id": 9298511,
+  "name": "John STOKES, Appellant v. PENNSYLVANIA BOARD OF PROBATION PAROLE; Frank Gillis, Superintendent, SCI Coal Township, et. al., Appellees",
+  "name_abbreviation": "Stokes v. Pennsylvania Board of Probation Parole",
+  "decision_date": "2003-10-08",
+  "docket_number": "No. 114 MAP 2002",
+  "first_page": "564",
+  "last_page": "564",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "838 A.2d 564"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "812 A.2d 591",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11367121,
+        1070140
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/812/0591-01",
+        "/pa/571/0375-01"
+      ]
+    },
+    {
+      "cite": "571 Pa. 375",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1070140
+      ],
+      "year": 2002,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/571/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 65,
+    "char_count": 462,
+    "ocr_confidence": 0.66,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2163626141910204
+    },
+    "sha256": "893ea57cf5b13fe5e9638fb0a2bdec914da8c2ad272ebd1161cb130532bf6950",
+    "simhash": "1:7a2fe2ee85a515d3",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T18:14:13.392480+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John STOKES, Appellant PENNSYLVANIA BOARD OF PROBATION PAROLE; Frank Gillis, Superintendent, SCI Coal Township, et. al., Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 8th day of October, 2003, the Commonwealth\u2019s motion to dismiss is granted, and this matter is dismissed for mootness since no case or controversy currently exists. See Pap\u2019s A.M. v. City of Erie, 571 Pa. 375, 812 A.2d 591, 600 (2002).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John STOKES, Appellant PENNSYLVANIA BOARD OF PROBATION PAROLE; Frank Gillis, Superintendent, SCI Coal Township, et. al., Appellees.\nNo. 114 MAP 2002.\nSupreme Court of Pennsylvania.\nOct. 8, 2003."
+  },
+  "file_name": "0564-01",
+  "first_page_order": 594,
+  "last_page_order": 594
+}

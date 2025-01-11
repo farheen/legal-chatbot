@@ -1,0 +1,58 @@
+{
+  "id": 12486385,
+  "name": "Com. v. M. Davidoff",
+  "name_abbreviation": "Com. v. Davidoff",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 386 MDA 2015",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 108,
+    "sha256": "922f01d91cd8a90b933ae9d79fee871645e0d782af530a74a47a98aaa5a34982",
+    "simhash": "1:909ed5c030821d68",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nM. Davidoff"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nM. Davidoff\nNO. 386 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nReversed and Remanded."
+  },
+  "file_name": "0185-05",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

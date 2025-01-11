@@ -1,0 +1,178 @@
+{
+  "id": 6094872,
+  "name": "James G. MacLaren v. Joseph J. Stoetzel",
+  "name_abbreviation": "MacLaren v. Stoetzel",
+  "decision_date": "1930-02-21",
+  "docket_number": "No. 2204",
+  "first_page": "857",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 857"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "14 App. D. C. 50",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1315813
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/14/0050-01"
+      ]
+    },
+    {
+      "cite": "16 App. D. C. 133",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1312360
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/16/0133-01"
+      ]
+    },
+    {
+      "cite": "56 App. D. C. 220",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        4067217
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "12 Fed. Rep. (2d) 161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4067217,
+        1644319
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/12/0161-01"
+      ]
+    },
+    {
+      "cite": "21 How. 322",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        683838
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/62/0322-01"
+      ]
+    },
+    {
+      "cite": "13 App. D. C. 86",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1318372
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/13/0086-01"
+      ]
+    },
+    {
+      "cite": "296 Fed. Rep. 724",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3635552
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/296/0724-01"
+      ]
+    },
+    {
+      "cite": "2 Fed. Rep. (2d) 1017",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1288512,
+        1288770,
+        1288617,
+        1288847,
+        1288880,
+        1288729,
+        1288763
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/2/1017-04",
+        "/f2d/2/1017-07",
+        "/f2d/2/1017-01",
+        "/f2d/2/1017-03",
+        "/f2d/2/1017-06",
+        "/f2d/2/1017-05",
+        "/f2d/2/1017-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 868,
+    "char_count": 21418,
+    "ocr_confidence": 0.454,
+    "pagerank": {
+      "raw": 6.953181076708473e-08,
+      "percentile": 0.42144735079149404
+    },
+    "sha256": "4afb3d5952afa30b8772582f040747e58dd812549c4f3f1098aca0f471fb62e1",
+    "simhash": "1:952391e4b81d1bdf",
+    "word_count": 3609
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "James G. MacLaren v. Joseph J. Stoetzel"
+    ],
+    "opinions": [
+      {
+        "text": "Lenkoot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Commissioner of Pat-, ents in an interference proceeding. The invention in issue relates to automatic air control valves for use in pneumatic tube dispatch systems, such as are employed in department stores for dispatching cash slips, change, etc.\nThere are 11 counts comprising the issue. Count 1 is representative and reads as follows:\nPneumatic dispatch apparatus comprising a conduit and an exhauster connected therewith, a controlling valve located in the conduit, a minimum flow of air through the conduit being permitted when the valve is in closed position, a pneumatic exposed at one side to the pressure obtaining in the conduit and permanently exposed at the opposite side to atmospheric pressure, said pneumatic being adapted to open the air controlling valve when the pressure within the conduit is reduced due to the checking of said minimum flow by introducing a carrier into the conduit, and means responsive to increased flow of air-through the conduit such as occurs when the carrier is discharge,d for equalizv ing the pressure upon opposite sides of the pneumatic to permit the valve t\u00bb close.\nAll of the tribunals of the Patent Office, the examiner of interferences, the examiners in chief and the Commissioner of Patents,, united in awarding priority to Stoetzel, the appellee herein.\nThe facts in the case relevant to the question- before us are as follows:\nAppellant is an employee of the Lamson Co., his assignee, and appellee is an employee of the G. & G. Atlas Systems (Inc.), his assignee. Both assignees are manufacturers of pneumatic dispatch tube apparatus, and are actively in competition with each other.\nThe interference is between the issued patent of James G. Mac-Liaren, the appellant, granted May 19, 1925, on an application filed January 28, 1925, and a pending application of Joseph J. Stoetzel, the appellee, filed October 17, 1925.\nThe interference was originally declared September 4, 1925, between appellant\u2019s patent and an application of one Edmund Weigele, an officer of the Atlas Co., filed December 9, 1924, who had assigned his rights to said company. The Weigele application, it is conceded, covered the subject matter of the invention here involved. A patent having issued to appellant while the Weigele application was pending, such issue was inadvertent. Appellant, being the first to file, is the senior partju Appellee, having filed after the declaration of the interference between appellant and Weigele, he was on November 20, 1925, added to the interference. Weigele conceded priority to appellee, whereupon said Weigele was eliminated, and the interference proceeded between appellant and appellee.\nAll of the tribunals of the Patent Office have found that appellee conceived the invention and reduced the same to practice in 1921. We concur in that finding, and, he being the first to conceive and \u2022the first to reduce to practice, is entitled to an award of priority, unless an equitable estoppel exists against, him to assert such priority, arising from the following facts, as shown bjr the record :\n. In May or June, 1921, appellee in Brooklyn, N. Y., constructed and tested a device embracing the invention here involved. This particular form of device was never commercialized by appellee or his assignee, the Atlas Co. In July, 1922, appellee in Chicago completed a second embodiment of the invention and gave it to Weigele, who took it to his home in New Jersey and kept it there until some time in 1924. On Juty 17, 1922, appellee filed an application for which patent No. 1589998 was issued on June 22, 1926, which embraced the invention here involved except that it omitted a vane mechanism which is embraced in the counts here in issue, and because of such omission said counts do not read on the application upon which said patent was issued. Appellee gives the reason for such omission that such mechanism was old in the prior art, a patent upon the same being owned by his assignee, the Atlas Co.\nIn August, 1923, appellant independently conceived the invention .and in November of the same year reduced it to uractice. At that time he -was vice president and general manager of the Standard Carrier Co. (Inc.), which manufactured and installed pneumatic tubes and carriers, being the same business as that of both assignees of the parties herein. In January, 1924, said Standard Carrier Co. manufactured 75 valves embodying appellant\u2019s invention, 53 of which were installed in the store of Goddard Bros., of Lynn, Mass., 16 in the store of A. E. Trautman Co., Greensburg, Pa., and 3 in the Bridgeport Gas Light Co. building, Bridgeport, Conn.\nIn June or July, 1924, the Standard Carrier Co. went out of business and its patents, tools, and fixtures were acquired by the Lamson Co., appellant\u2019s assignee. Said Standard Carrier Co. manufactured no more than the 75 devices above referred to, and the Lamson Co., assignee of appellant, has never manufactured or placed in commercial use any of the devices embodying the invention here involved.\nIn June, 1924, the Atlas Co., appellee\u2019s assignee, installed the device embodying his invention in the Slattery store in Boston in place of devices which had been held in preceding litigation to infringe the Libby patent owned by the Lamson Co., appellant\u2019s assignee. By January, 1926, more than 1,500 devices embodying appellee\u2019s invention had been placed in commercial use by the- said Atlas Co. In July, 1924, said Atlas Co. sent to the attorneys of' said Lamson Co., at their request, a sample of appellee\u2019s device which, had been placed in the Slattery store.\nIn the fall of 1924 the Lamson Co. brought contempt proceedings against the Atlas Co., contending that the device here involved was also an infringement of the Libby patent owned by it, but the court held-that there was no infringement. Lamson Company v. Slattery Company et al., 2 Fed. Rep. (2d) 1017.\nIn August, 1924, appellant entered (he employ of his assignee, the Lamson Co., and soon thereafter called to the attention of its management his device, for which application for patent was filed on January 28, 1925. On December 9, 1924, the Atlas Co. filed the application of Weigele, as hereinbefore stated. On May 19, 1925, patent to appellant was issued, but as Weigele\u2019s application was then pending, such issue was inadvertent. On September 4, 1925, an interference was declared between appellant on his patent and Weigele. On October 27, 1925, appellee filed his application, copying claims of appellant\u2019s patent, and asked that he be made a party to the interference between appellant and Weigele, which was granted on November 20, 1925. Thereafter, Weigele conceded priority to appellee and the interference proceeded between appellant and appellee.\nIt appears from the testimony that after appellee had conceived and tested his invention, his assignee, the Atlas Co., being charged by the Lamson Co. with infringement of its Libby patent, considered the placing into commercial use of appellee\u2019s device as a means of avoiding infringement of said Libby patent, but concluded that a device covered by another patent owned by it was preferable, and therefore appellee\u2019s device was not utilized at that time. Upon marketing the device so chosen, the Lamson Co. served notice upon the Atlas Co. of infringement of its Libby patent, and on March 17, 1924, the United States District Court for Massachusetts held in favor of the Lamson Co. Lamson Company v. Slattery Co., 296 Fed. Rep. 724.\nThereupon, appellee\u2019s device .with certain improvements was adopted by the Atlas Co. and placed in commercial use in'June, 1924.\nAppellant contends that the facts above stated establish concealment and suppression by appellee and his assignee of the invention until June, 1924, five months after appellant, as an independent inventor, had given it to the public by commercial sales and use in January, 1924, and that therefore, under the doctrine declared in the case of Mason v. Hepburn, 13 App. D. C. 86, appellee is estopped from asserting priority of invention as against appellant.\nThe Mason v. Hepburn case, supra, holds that:\n* * * a subsequent inventor of a new and useful manufacture or improvement who has diligently pursued his labors to the procurement of a patent in good faith and without any knowledge of the preceding discoveries of another, shall, as against that other, who has deliberately concealed the knowledge of his invention from the public, be regarded as the real inventor and as such entitled to his reward.\nLater in the opinion the doctrine is stated in somewhat broader terms, as follows:\nThe true ground of the doctrine, we apprehend, lies in the policy and spirit of the patent laws and in the nature of the equity that arises in favor of him who gives the public the benefit of the knowledge of his invention, who expeuds his time, labor and money in discovering, perfecting, and patenting, in good faith, that which he and all others have been led to believe has never been discovered, by reason of the indifference, supineness, or wilful act of one who may, in fact, have discovered it long before.\nThe doctrine in the two statements quoted is derived from the case of Kendall v. Winsor, 21 How. 322, and the court in the Hepburn case quotes from said case of Kendall v. Winsor, supra, as follows:\nThe true policy and ends of the patent laws enacted under this Government are disclosed in that article of the Constitution, the source of all these laws, viz, \u201c to promote the progress of science and the useful arts,\u201d contemplating and necessarily implying their extension and increasing adaptation to the uses of society. Vide Constitution of the United States, art. 1, sec. 8, clause 8. By correct induction from these truths it follows that the inventor, who, designedly, .and with a view of applying it indefinitely and exclusively for his own profit, withholds his invention from the public, comes not within the policy or objects of the Constitution or acts of Congress. He does not promote and, if aided in his design, would impede the progress of science and the useful arts; and with a very bad grace could he appeal for favor or protection to that society which, if he had not injured, he certainly had neither benefited nor intended to benefit. Hence, if, during such a concealment, an invention similar to or identical with his own should be made and patented or brought into use without a patent, the latter could not be inhibited nor restricted upon proof of its identity with a machine previously invented and withheld and concealed by the inventor from the public. The rights and interests, whether of the public or individuals, can never be made to yield to schemes of selfishness or cupidity; moreover, that which is once given to or is invested in the public can not be recalled nor thken from them.\nThe Supreme Court in Kendall v. Winsor, supra, further said that an inventor\u2014\nMay forfeit his rights as an inventor by a wilful or negligent postponement of his claims, or by an attempt to withhold the benefit of his improvement from the public until a similar or the same improvement should have been made and introduced by others.\nAppellant contends that the evidence shows that appellee concealed and suppressed his invention from 1921 until June, 1924, and that, appellant having conceived, reduced to practice, and put into commercial use, the device, without any knowledge of appellee\u2019s invention, and at a time when appellee was concealing and suppressing it from the public, he is estopped under the cases last cited from asserting priority against appellant.\nAppellee, on the other hand, contends that the case of Mason v. Hepburn, supra, does not apply to the facts in the case at bar, but that it is governed by the recent case of McGrath v. Burke, 12 Fed. Rep. (2d) 161, 56 App. D. C. 220, in which the court said:\nIt is sought by counsel for appellant to. bring Burke\u2019s case within the rule announced in Mason v. Hepburn, 13 App. D. C. 86. In that case, however, seven years elapsed between the reduction of the invention to practice by Mason and the filing of his application. During that period there had been a complete suppression of the invention. Mason in the meantime had applied for, and received, a patent upon a similar invention, and until the Hepburn patent came to his attention, his earlier invention seems to have passed from his mind. This court has refused to extend the rule of the Hepburn case, which is a strict one, to any case not coming clearly within it. McBerty v. Cook, 16 App. D. C. 133.\nThe case before us we think is clearly distinguishable from the Hepburn case. In this case less than two years elapsed between the date of Burke\u2019s reduction to practice and the filing of his application in the Patent Office. This is not a case where an inventor, who has merely conceived an invention, is spurred into activity by the entry of a rival inventor into the field. He had reduced to practice, and before abandonment of the invention can be presumed there must appear a deliberate intention on the part of the inventor to surrender all claim to the invention.\nThe present case seems to come clearly within the holding of this court in Esty v. Newton, 14 App. D. C. 50, and it was so held by the Board of Examiners in Chief and the Commissioner of Patents. There, as here, Newton delayed his application for two years, while he was engaged in efforts to make improvements in the subject-matter of the invention. During the period of delay, two patents were issued to him on the same subject matter. On this point the court said:\n\u201c Newton was engaged in constant efforts in improvements in fire extinguishers. He had an application for a patent for one that was issued March 31, 1891, and experimented with another that was patented July 12, 1892. This last he then, and also when he testified, considered better and more efficient than the one in controversy, and he would probably not have applied for a patent for the latter had he not seen Esty\u2019s device. Being advised that his last patent did not cover this one, he made his application in order to prevent the competition of Esty. This is no more than seems to have been often done by inventors under similar circumstances. By actual reduction to practice the right to the invention becomes perfect, and can only beome subordinate to the claim of a subsequent bona fide inventor by some such course of conduct as that shown in Mason v. Hepburn, supra, and the cases therein cited.\u201d\nHere the assignee of Burke was relying upon the Cather application as a complete domination of the Burke invention, and when its attention was called to the McGrath device, and it became apparent that the Cather application did not furnish full protection, the Burke application was made in order to prevent the competition of McGrath.\n' Appellee contends that he was justified in thinking that the claims of his 1922 application, upon which patent was later issued, fully covered the invention here involved, and that he was excusable for not appreciating until he saw appellant\u2019s claim, that claims might be drawn for the combination of his contribution with that of a prior art, patent for which prior art was owned by his assignee, and that upon that theory the McGrath case is exactly in point and should dispose of this case. Appellant responds that the McGrath case does not apply to the case at bar, and asserts as follows:\nThe McGrath v. Burke decision rests on the facts (1) that during the period of delay in filing the Burke application, the owner of the invention filed an intervening application for substantially the same invention with claims which dominated the invention of Burke, and (2) believed and was justified in believing that such claims covered the original invention of Burke.\nIn the case-at bar, the intervening application of Stoetzel filed in 1922, relied on by the examiners in chief to bring the case within McGrath v. Burke, not only did not claim or dominate the invention in issue, but did not even disclose it,\nWith regard to this contention of appellant, we do not construe the opinion in the McGrath case to be based upon facts as stated by appellant. The court made no finding as to whether the application of the owner of the invention in fact dominated the invention of Burke, but merely that such was Burke\u2019s contention and belief. The only purpose the court had in referring to the intervening application in that case and the belief of Burke that it covered his invention was to negative an intention upon his part to surrender all claim to the invention. So in the case at bar, if appellee\u2019s application of 1922 was believed by him to cover his particular invention, and that certain prior art used in combination with it was covered by a patent owned by his assignee, and appellee did not know that he would be entitled as well to a patent upon the combination, which he in fact had invented, this if true, like in the McGrath case, negatives any intention to conceal or suppress his invention.\nWhether appellee did conceal or suppress his invention is a question of fact.\nIn Kendall v. Winsor, supra, the court said, upon this subject:\nTbe real interest of an inventor with respect to an assertion or surrender of his rights under the Constitution and laws of the United States, whether it be sought in his declarations or acts, or in forbearance or neglect to speak or act, is an inquiry or conclusion of fact, and peculiarly within the province of the jury, guided by legal evidence submitted to them at the trial.\nIt is therefore pertinent to inquire as to what the tribunals of the Patent Office have held upon this question. All of them agreed that the appellant had failed to sustain his burden of proving such concealment or suppression. The examiner of interferences recites the 1922 application of appellee, together with other facts, and concludes that abandonment had not been established. The examiners in chief, in arriving at the same conclusion, hold that the McGrath case is applicable to the case at bar, and that appellee\u2019s 1922 application negatives suppression and concealment of the invention by ap-pellee. The commissioner\u2019s decision inferentially approves the views of the examiners in chief regarding the applicability of the McGrath case to the 1922 application of appellee, but specifically places his award of priority upon other grounds. In view of our conclusion, it is unnecessary for us to decide whether the commissioner erred as to the specific ground upon which he awarded priority to appellee, for our decision does not rest upon unanimity of the Patent Office tribunals upon this question of fact.\nWe are of the opinion that the McGrath case is applicable to the case at bar, rather than Mason v. Hepburn, and that appellee, as found by the examiners in chief, was not negligent in thinking that the claims of his 1922 application fully covered the invention for which he was entitled to patent, and that there was no intention upon his part or upon the part of his assignee to suppress or conceal his invention. The fact that he was entitled to a broader patent than he acquired, or than his specifications disclosed, has no'bearing necessarily upon the question of suppression or concealment. That would be material if there was proof that he omitted some part, of his invention from his disclosure for the purpose of concealing his entire invention, but there is no such evidence in this case.\nThere is another established fact that very strongly corroborates the conclusion that there was no suppression or concealment of ap-pellee\u2019s invention. In July, 1924, appellee\u2019s assignee, the Atlas Co., freely gave to appellant\u2019s assignee, the Lamson Co., a sample of appellee\u2019s device. Not only was the Lamson Co. a strong competitor of the Atlas Co., but they were in litigation with each other over the question of infringement of patents. It is hardly conceivable that this sample would have been furnished the Lamson Co. without immediate application for a patent, had not the officers of the Atlas Co. as well as appellee believed that appellee\u2019s 1922, application, together with prior patents owned by the Atlas Co., gave them full protection. Furthermore, it may be observed that when such sample device was given to the Lamson Co., neither appellee nor the Atlas Co., so far as the record discloses, knew anything about appellant or his invention, or of it being placed in commercial use in January, 1924, or at any other time.\nThe appellant having failed to prove suppression or concealment of appellee\u2019s invention at the time that appellant conceived, reduced to practice, and placed his invention in commercial use, or at any other time, and appellee being the first to conceive and reduce to practice the invention, priority must be awarded to him. The decision of the commissioner is affirmed.",
+        "type": "majority",
+        "author": "Lenkoot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Boierts, Gushman & Woodberry (Robt. Gushman of counsel) for appellant. .",
+      "M err ell E. Glarh (Parker Dodge and Horace A. Dodge of counsel) for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "James G. MacLaren v. Joseph J. Stoetzel\n(No. 2204)\nUnited States Court of Customs and Patent Appeals,\nFebruary 21, 1930\nBoierts, Gushman & Woodberry (Robt. Gushman of counsel) for appellant. .\nM err ell E. Glarh (Parker Dodge and Horace A. Dodge of counsel) for appellee.\n[Oral argument January 9, 1930, by Mr. Cushman and Mr. Clark]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+  },
+  "file_name": "0857-01",
+  "first_page_order": 307,
+  "last_page_order": 314
+}

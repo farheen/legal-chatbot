@@ -1,0 +1,96 @@
+{
+  "id": 11336790,
+  "name": "COMMONWEALTH of Pennsylvania, Petitioner, v. Stephanie RILEY, Respondent",
+  "name_abbreviation": "Commonwealth v. Riley",
+  "decision_date": "1996-07-25",
+  "docket_number": "",
+  "first_page": "1262",
+  "last_page": "1263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "679 A.2d 1262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "652 A.2d 283",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        474170,
+        474223,
+        7865981,
+        7865895
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0249-01",
+        "/pa/539/0248-01",
+        "/a2d/652/0283-02",
+        "/a2d/652/0283-01"
+      ]
+    },
+    {
+      "cite": "539 Pa. 249",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        474170
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/539/0249-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 460,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2398547173985819
+    },
+    "sha256": "b1ee6c6dca77203fa9e189ed3e5c485896b676ba24f1762e1a5230104402f41a",
+    "simhash": "1:9c0f032ba7110cab",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:44:17.532134+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Petitioner, v. Stephanie RILEY, Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 25th day of July, 1996, the Petition for Allowance of Appeal is granted. The order of the Superior Court is reversed, the judgment of sentence is vacated and the case is remanded for resentencing in accordance with 18 Pa.C.S. \u00a7 7508(a)(3)(i). See, Commonwealth v. Williams, 539 Pa. 249, 652 A.2d 283 (1994).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Petitioner, v. Stephanie RILEY, Respondent.\nSupreme Court of Pennsylvania.\nJuly 25, 1996."
+  },
+  "file_name": "1262-03",
+  "first_page_order": 1344,
+  "last_page_order": 1345
+}

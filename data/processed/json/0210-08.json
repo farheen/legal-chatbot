@@ -1,0 +1,58 @@
+{
+  "id": 12486770,
+  "name": "Com. v. H. Cruz",
+  "name_abbreviation": "Com. v. Cruz",
+  "decision_date": "2016-03-29",
+  "docket_number": "NO. 1807 EDA 2015",
+  "first_page": "210",
+  "last_page": "210",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 104,
+    "sha256": "bed9382e001074c00c40c82415602757e058ca5ffb3716657e8d96549739ed35",
+    "simhash": "1:8443e8c101a38d81",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nH. Cruz"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nH. Cruz\nNO. 1807 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 29, 2016\nVacated and Remanded."
+  },
+  "file_name": "0210-08",
+  "first_page_order": 210,
+  "last_page_order": 210
+}

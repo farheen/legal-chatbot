@@ -1,0 +1,58 @@
+{
+  "id": 12487356,
+  "name": "B. Rapp v. Penn National Mutual",
+  "name_abbreviation": "Rapp v. Penn Nat'l Mut.",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 995 WDA 2015",
+  "first_page": "780",
+  "last_page": "780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 780"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 107,
+    "sha256": "e9843f0e8092c7b8080caf6da302bb0988b2bcf690b525286e5e80f5a256ea2d",
+    "simhash": "1:60012640d0050700",
+    "word_count": 18
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "B. Rapp\nv.\nPenn National Mutual"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "B. Rapp\nv.\nPenn National Mutual\nNO. 995 WDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0780-15",
+  "first_page_order": 780,
+  "last_page_order": 780
+}

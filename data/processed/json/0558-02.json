@@ -1,0 +1,64 @@
+{
+  "id": 12489752,
+  "name": "WEST v. LUEST",
+  "name_abbreviation": "Western v. Luest",
+  "decision_date": "2017-05-22",
+  "docket_number": "Pet. Docket No. 23, Sept. Term, 2017",
+  "first_page": "558",
+  "last_page": "558",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "160 A.3d 558"
+    },
+    {
+      "type": "parallel",
+      "cite": "453 Md. 31"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "0d9b72b535e62ffba584bc5d913c0b7b29ddc6d3267b1eb414f8821bd205ac08",
+    "simhash": "1:23cd423988098205",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.016011+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WEST\nv.\nLUEST"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "WEST\nv.\nLUEST\nPet. Docket No. 23, Sept. Term, 2017\nCourt of Appeals of Maryland.\nMay 22, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0558-02",
+  "first_page_order": 558,
+  "last_page_order": 558
+}

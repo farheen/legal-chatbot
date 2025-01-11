@@ -1,0 +1,58 @@
+{
+  "id": 12487544,
+  "name": "A. Baum v. Keystone Mercy Health Plan",
+  "name_abbreviation": "Baum v. Keystone Mercy Health Plan",
+  "decision_date": "2016-04-26",
+  "docket_number": "NO. 1250 EDA 2015",
+  "first_page": "793",
+  "last_page": "793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 793"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 114,
+    "sha256": "5dbfffe38078aaf5c2196e069a5c5b3b2b1d201520354a19789f3ad5a30094ad",
+    "simhash": "1:370f66d220a12fe0",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. Baum\nv.\nKeystone Mercy Health Plan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "A. Baum\nv.\nKeystone Mercy Health Plan\nNO. 1250 EDA 2015\nSuperior Court of Pennsylvania.\nApril 26, 2016\nAffirmed."
+  },
+  "file_name": "0793-05",
+  "first_page_order": 793,
+  "last_page_order": 793
+}

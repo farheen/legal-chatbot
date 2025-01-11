@@ -1,0 +1,65 @@
+{
+  "id": 12504882,
+  "name": "ROSADO, D. v. PBPP",
+  "name_abbreviation": "Rosado v. PBPP",
+  "decision_date": "2018-11-01",
+  "docket_number": "1852 CD 2017",
+  "first_page": "510",
+  "last_page": "510",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 250,
+    "sha256": "d7e63ecf5361d148ccbb47aa563e8da42094d62988fda92635f9c393eaa252b1",
+    "simhash": "1:258183d24dde6d0a",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROSADO, D.\nv.\nPBPP"
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nVacated/Remanded.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ROSADO, D.\nv.\nPBPP\n1852 CD 2017\nCommonwealth Court of Pennsylvania.\nNovember 1, 2018\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0510-04",
+  "first_page_order": 510,
+  "last_page_order": 510
+}

@@ -1,0 +1,59 @@
+{
+  "id": 6084779,
+  "name": "In re Spencer",
+  "name_abbreviation": "In re Spencer",
+  "decision_date": "1950-03-06",
+  "docket_number": "No. 5735",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "37 C.C.P.A. 1249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 56,
+    "ocr_confidence": 0.599,
+    "sha256": "8f27601814fa823749ed9118000191d09af901cd8150f6a501c0f462ec165809",
+    "simhash": "1:4d336af3197bc6d3",
+    "word_count": 9
+  },
+  "last_updated": "2023-07-14T21:17:19.698311+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Spencer"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in metal working.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Spencer\n(No. 5735)."
+  },
+  "file_name": "1249-13",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

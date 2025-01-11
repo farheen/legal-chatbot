@@ -1,0 +1,58 @@
+{
+  "id": 12488565,
+  "name": "Com. v. Fleming, D.",
+  "name_abbreviation": "Com v. Fleming",
+  "decision_date": "2016-05-20",
+  "docket_number": "925 WDA 2015",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 131,
+    "sha256": "bfd35e27901ab1e2db97996a1f752ec50d7f7e75e204772f0054dc5456fab3cb",
+    "simhash": "1:bf1f3cfed7a897c2",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nFleming, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nFleming, D.\n925 WDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1155-11",
+  "first_page_order": 1155,
+  "last_page_order": 1155
+}

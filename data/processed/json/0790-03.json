@@ -1,0 +1,58 @@
+{
+  "id": 12487500,
+  "name": "Com. v. D. Godson",
+  "name_abbreviation": "Com. v. Godson",
+  "decision_date": "2016-04-25",
+  "docket_number": "NO. 78 EDA 2015",
+  "first_page": "790",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 790"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 135,
+    "sha256": "c522fec30aa5affd34b70e32b164689744605ea842e6182770d7effd58be01ec",
+    "simhash": "1:f7016ff314209dc1",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Godson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Godson\nNO. 78 EDA 2015\nSuperior Court of Pennsylvania.\nApril 25, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0790-03",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486485,
+  "name": "Com. v. O. Rodriguez",
+  "name_abbreviation": "Com. v. Rodriguez",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 962 MDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 96,
+    "sha256": "7cb5896b02f999586befee079e2e0cc2f42ea6e66e2f4edd3103d5ca7adc4522",
+    "simhash": "1:804945851eaa1db4",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nO. Rodriguez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nO. Rodriguez\nNO. 962 MDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed."
+  },
+  "file_name": "0192-12",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

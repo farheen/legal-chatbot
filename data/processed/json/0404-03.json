@@ -1,0 +1,64 @@
+{
+  "id": 12487831,
+  "name": "Richardson, Anthony v. State of Maryland",
+  "name_abbreviation": "Richardson v. State",
+  "decision_date": "2016-10-31",
+  "docket_number": "Pet. Docket No. 324; Sept. Term, 2016",
+  "first_page": "404",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 404"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 166,
+    "sha256": "7743b3d4d310a35d99ec49576e5d16c65db26088f694ae183102430d6b96807e",
+    "simhash": "1:2b6254f8d0cd0201",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richardson, Anthony\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richardson, Anthony\nv.\nState of Maryland\nPet. Docket No. 324\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 31, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0404-03",
+  "first_page_order": 404,
+  "last_page_order": 404
+}

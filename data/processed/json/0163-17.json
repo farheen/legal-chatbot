@@ -1,0 +1,58 @@
+{
+  "id": 12486943,
+  "name": "Commonwealth v. Jamal Tate Johnson",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2016-07-19",
+  "docket_number": "NO. 109 WAL (2016)",
+  "first_page": "163",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "91940dd4fa59f59fe6662bf51ff5958937fe25f59071e744a8197f5394cdbe01",
+    "simhash": "1:5d8e57b88a649980",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJamal Tate Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJamal Tate Johnson\nNO. 109 WAL (2016)\nSupreme Court of Pennsylvania\nJuly 19, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0163-17",
+  "first_page_order": 163,
+  "last_page_order": 163
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12488733,
+  "name": "Bank of New York Mellon v. Quinn",
+  "name_abbreviation": "Bank of N.Y. Mellon v. Quinn",
+  "decision_date": "2016-08-19",
+  "docket_number": "16-250",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 159,
+    "sha256": "7171dee800c1b9677f91a29a2ed689ed95c8d3fbe66707fb98d4c66e5af122f9",
+    "simhash": "1:6c912d015f51a045",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bank of New York Mellon\nv.\nQuinn"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bank of New York Mellon\nv.\nQuinn\n16-250\nSupreme Court of Vermont.\nAugust 19, 2016\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDenied."
+  },
+  "file_name": "0344-08",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

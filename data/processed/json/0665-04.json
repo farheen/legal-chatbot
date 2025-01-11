@@ -1,0 +1,58 @@
+{
+  "id": 12501615,
+  "name": "COM. v. GORDON, B.",
+  "name_abbreviation": "Com. v. Gordon",
+  "decision_date": "2018-07-12",
+  "docket_number": "897 WDA 2017",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 665"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "8ff1f37376735859a6ad205e9d4bd14a02c60079fc50a0432befe51aa3ec2972",
+    "simhash": "1:1dda4fab77e913a4",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nGORDON, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nGORDON, B.\n897 WDA 2017\nSuperior Court of Pennsylvania.\nJuly 12, 2018\nAffirmed"
+  },
+  "file_name": "0665-04",
+  "first_page_order": 665,
+  "last_page_order": 665
+}

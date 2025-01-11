@@ -1,0 +1,86 @@
+{
+  "id": 7871364,
+  "name": "STATE of Maine v. Mark V. LOUBIER",
+  "name_abbreviation": "State v. Loubier",
+  "decision_date": "1988-04-05",
+  "docket_number": "",
+  "first_page": "216",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "539 A.2d 216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "481 A.2d 772",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7919091
+      ],
+      "pin_cites": [
+        {
+          "page": "775"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/481/0772-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1061,
+    "ocr_confidence": 0.804,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2003807944015269
+    },
+    "sha256": "e3ae7a6fc213e1aed4489253bee4c884661909acc26a6b21ad68d139ea8c4b74",
+    "simhash": "1:d9fdbdb98bb8c36b",
+    "word_count": 170
+  },
+  "last_updated": "2024-02-27T23:50:14.198152+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before McKUSICK, C.J., and NICHOLS, ROBERTS, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Mark V. LOUBIER."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OF DECISION.\nThe defendant, Mark V. Loubier, appeals from a judgment of the Superior Court, Aroostook County, entered after a jury verdict finding him guilty of operating a motor vehicle while under the influence of intoxicating liquor or with excessive alcohol in his blood, 29 M.R.S.A. \u00a7 1312-B (Supp. 1987). Loubier\u2019s sole contention on appeal is that the State failed to make an adequate in-court identification of him at trial. The record in this case reveals that the defendant was adequately identified by the State\u2019s witness, so as to allow the jury to be convinced of his guilt beyond a reasonable doubt. See State v. Guptill, 481 A.2d 772, 775 (Me.1984).\nThe entry is:\nJudgment affirmed.\nAll concurring.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "John D. McElwee, Dist. Atty., Sara Burlock, Asst. Dist. Atty., Caribou, for plaintiff.",
+      "Donald Goodridge, Houlton, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Mark V. LOUBIER.\nSupreme Judicial Court of Maine.\nSubmitted on Briefs March 8, 1988.\nDecided April 5, 1988.\nJohn D. McElwee, Dist. Atty., Sara Burlock, Asst. Dist. Atty., Caribou, for plaintiff.\nDonald Goodridge, Houlton, for defendant.\nBefore McKUSICK, C.J., and NICHOLS, ROBERTS, GLASSMAN, SCOLNIK and CLIFFORD, JJ."
+  },
+  "file_name": "0216-02",
+  "first_page_order": 260,
+  "last_page_order": 261
+}

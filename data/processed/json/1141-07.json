@@ -1,0 +1,58 @@
+{
+  "id": 12488357,
+  "name": "Com. v. Gonzalez, R.",
+  "name_abbreviation": "Com v. Gonzalez",
+  "decision_date": "2016-05-10",
+  "docket_number": "1077 EDA 2015",
+  "first_page": "1141",
+  "last_page": "1141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 133,
+    "sha256": "7a3e08bf5b8ab96c8bd9cc725396504b91d656ba767bcfef04621b049e0e5e6e",
+    "simhash": "1:7b0151f7d2e087f5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGonzalez, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGonzalez, R.\n1077 EDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed-Application to Withdraw as Counsel Granted"
+  },
+  "file_name": "1141-07",
+  "first_page_order": 1141,
+  "last_page_order": 1141
+}

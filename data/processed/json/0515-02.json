@@ -1,0 +1,65 @@
+{
+  "id": 12504900,
+  "name": "CRAGO, D. v. SCSC (DHS)",
+  "name_abbreviation": "Crago v. SCSC",
+  "decision_date": "2018-11-15",
+  "docket_number": "617 CD 2018",
+  "first_page": "515",
+  "last_page": "515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 515"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 297,
+    "sha256": "0ab45e177a1b72ed43e0c1d6b66a5f11eac847c9c797ffcfcd115a0581500589",
+    "simhash": "1:278fc3d7d58f4e4a",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CRAGO, D.\nv.\nSCSC (DHS)"
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nAffirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CRAGO, D.\nv.\nSCSC (DHS)\n617 CD 2018\nCommonwealth Court of Pennsylvania.\nNovember 15, 2018\nReconsideration/Reargument Denied January 8, 2019\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0515-02",
+  "first_page_order": 515,
+  "last_page_order": 515
+}

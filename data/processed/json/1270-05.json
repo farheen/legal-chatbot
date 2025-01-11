@@ -1,0 +1,59 @@
+{
+  "id": 6082212,
+  "name": "Ex parte Willis H. Carrier",
+  "name_abbreviation": "Ex parte Carrier",
+  "decision_date": "1945-02-15",
+  "docket_number": "No. 4968",
+  "first_page": "1270",
+  "last_page": "1270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 C.C.P.A. 1270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 108,
+    "ocr_confidence": 0.498,
+    "sha256": "67b00715ffa7b182457f2f446f2126403e2da25f5161c61d2d072b64f25c88a6",
+    "simhash": "1:07a6223f44bed60a",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:03:11.359845+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Willis H. Carrier"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in dehumidification methods and means.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "February 15, 1945\nEx parte Willis H. Carrier\n(No. 4968)."
+  },
+  "file_name": "1270-05",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

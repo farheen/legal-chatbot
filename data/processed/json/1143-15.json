@@ -1,0 +1,58 @@
+{
+  "id": 12488381,
+  "name": "Com. v. Matteson, R.",
+  "name_abbreviation": "Com v. Matteson",
+  "decision_date": "2016-05-10",
+  "docket_number": "1911 WDA 2015",
+  "first_page": "1143",
+  "last_page": "1143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "e76e525da659772c62e8ca404d7a4a2965e4d7f9468114665418daca3f6db4ba",
+    "simhash": "1:71d0d7b8d9b807fa",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nMatteson, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nMatteson, R.\n1911 WDA 2015\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1143-15",
+  "first_page_order": 1143,
+  "last_page_order": 1143
+}

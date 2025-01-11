@@ -1,0 +1,59 @@
+{
+  "id": 12167381,
+  "name": "In re Edward B. McMillan",
+  "name_abbreviation": "In re McMillan",
+  "decision_date": "1964-12-10",
+  "docket_number": "No. 7423",
+  "first_page": "1836",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 95,
+    "ocr_confidence": 0.719,
+    "sha256": "5b7d6770c4d21eb97aaa6d6297c456e742b78f963959e4693d03f08370c04bc3",
+    "simhash": "1:c68411902b55f0cc",
+    "word_count": 13
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Edward B. McMillan"
+    ],
+    "opinions": [
+      {
+        "text": "Electromagnetic-energy absorber and room lined therewith.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Edward B. McMillan\n(No. 7423)."
+  },
+  "file_name": "1836-10",
+  "first_page_order": 1160,
+  "last_page_order": 1160
+}

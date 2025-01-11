@@ -1,0 +1,58 @@
+{
+  "id": 12487077,
+  "name": "Commonwealth v. Joe Escobar",
+  "name_abbreviation": "Commonwealth v. Escobar",
+  "decision_date": "2016-08-25",
+  "docket_number": "NO. 175 EAL (2016)",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "08aa8e11e5d2bcb12c091eb193e66bdeb87b9faf2d8c1b35d7f73d81611ab136",
+    "simhash": "1:f8ae5d393aec08b5",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJoe Escobar"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJoe Escobar\nNO. 175 EAL (2016)\nSupreme Court of Pennsylvania\nAugust 25, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0723-04",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

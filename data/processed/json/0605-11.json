@@ -1,0 +1,58 @@
+{
+  "id": 12486108,
+  "name": "ACT Dealerships v. D. McLaren",
+  "name_abbreviation": "ACT Dealerships v. McLaren",
+  "decision_date": "2016-02-26",
+  "docket_number": "NO. 1862 WDA 2014",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 122,
+    "sha256": "76e8f82c5fc74e24ce14db0beabde2a60cc1e03c5aa0962444cbfce4b47040f6",
+    "simhash": "1:2573e038000c2800",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ACT Dealerships\nv.\nD. McLaren"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ACT Dealerships\nv.\nD. McLaren\nNO. 1862 WDA 2014\nSuperior Court of Pennsylvania.\nFebruary 26, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0605-11",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

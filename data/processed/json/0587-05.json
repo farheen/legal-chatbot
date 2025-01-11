@@ -1,0 +1,58 @@
+{
+  "id": 12485831,
+  "name": "Com. v. D. Keeley",
+  "name_abbreviation": "Com. v. Keeley",
+  "decision_date": "2016-02-05",
+  "docket_number": "NO. 2016 EDA 2015",
+  "first_page": "587",
+  "last_page": "587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 110,
+    "sha256": "f43eb79b1de175ec991f147736597371adb32f9db4162143e1815fd791bb6fe8",
+    "simhash": "1:b95456abc8f915c4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Keeley"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Keeley\nNO. 2016 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 05, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0587-05",
+  "first_page_order": 587,
+  "last_page_order": 587
+}

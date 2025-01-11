@@ -1,0 +1,58 @@
+{
+  "id": 12488544,
+  "name": "Com. v. Olswfski, K.",
+  "name_abbreviation": "Com v. Olswfski",
+  "decision_date": "2016-05-19",
+  "docket_number": "2684 EDA 2015",
+  "first_page": "1153",
+  "last_page": "1153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 90,
+    "sha256": "7dbad2ef379579e30ec981ab3056eb142debb2d2ae1f922e1132c6edda0ae77b",
+    "simhash": "1:b4105ef11ab39fd1",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nOlswfski, K."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nOlswfski, K.\n2684 EDA 2015\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1153-05",
+  "first_page_order": 1153,
+  "last_page_order": 1153
+}

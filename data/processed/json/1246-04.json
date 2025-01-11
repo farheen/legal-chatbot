@@ -1,0 +1,83 @@
+{
+  "id": 12488813,
+  "name": "Sidney PARKER v. COMMISSIONER OF CORRECTION",
+  "name_abbreviation": "Parker v. Comm'r of Corr.",
+  "decision_date": "2017-01-11",
+  "docket_number": "",
+  "first_page": "1246",
+  "last_page": "1246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "152 A.3d 1246"
+    },
+    {
+      "type": "parallel",
+      "cite": "324 Conn. 909"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "169 Conn. App. 421",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12488755
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/151-2/0430-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 377,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577679239214333
+    },
+    "sha256": "13e67e05bafc83df15f9cf55c06a02f5ff14f0e1eec028d694acaafb63ab12e1",
+    "simhash": "1:b80c048a7963a393",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:34:52.531276+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sidney PARKER\nv.\nCOMMISSIONER OF CORRECTION"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petitioner Sidney Parker's petition for certification for appeal from the Appellate Court, 169 Conn. App. 421, 151 A.3d 430 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sidney PARKER\nv.\nCOMMISSIONER OF CORRECTION\nSupreme Court of Connecticut.\nDecided January 11, 2017\nCheryl A. Juniewic, assigned counsel, in support of the petition.\nTimothy F. Costello, assistant state's attorney, in opposition.\nThe petitioner Sidney Parker's petition for certification for appeal from the Appellate Court, 169 Conn. App. 421, 151 A.3d 430 (2016), is denied."
+  },
+  "file_name": "1246-04",
+  "first_page_order": 1246,
+  "last_page_order": 1246
+}

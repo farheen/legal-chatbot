@@ -1,0 +1,83 @@
+{
+  "id": 12485094,
+  "name": "ROSENTHAL LAW FIRM, LLC v. James COHEN.",
+  "name_abbreviation": "Rosenthal Law Firm, LLC v. Cohen",
+  "decision_date": "2016-06-21",
+  "docket_number": "",
+  "first_page": "933",
+  "last_page": "933",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 933"
+    },
+    {
+      "type": "parallel",
+      "cite": "322 Conn. 904"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "165 Conn.App. 467",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12485145
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/139-2/0774-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 432,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2576856797442631
+    },
+    "sha256": "2fc685a0da9851ef6b33f913a1bd4793f2aae126ff21763066c43cd540ac0642",
+    "simhash": "1:263e45189f0064f5",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T16:21:08.929688+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ROSENTHAL LAW FIRM, LLC\nv.\nJames COHEN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 467, 139 A.3d 774 (2016), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "ROSENTHAL LAW FIRM, LLC\nv.\nJames COHEN.\nSupreme Court of Connecticut.\nDecided June 21, 2016.\nJames Cohen, self-represented, in support of the petition.\nEdward Rosenthal, West Hartford, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 467, 139 A.3d 774 (2016), is denied.\nPALMER and ROBINSON, Js., did not participate in the consideration of or decision on this petition."
+  },
+  "file_name": "0933-03",
+  "first_page_order": 933,
+  "last_page_order": 933
+}

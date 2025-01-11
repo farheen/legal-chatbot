@@ -1,0 +1,58 @@
+{
+  "id": 12488078,
+  "name": "Terry V. Jones v. United States",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2016-08-19",
+  "docket_number": "NO. 15-CO-1065",
+  "first_page": "1283",
+  "last_page": "1283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 1283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 146,
+    "sha256": "28a40c8390b1a92170349d13982948f71ff281f06525615858b6b98c23a9e861",
+    "simhash": "1:2684a7450fcc8a09",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.005530+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terry V. Jones\nv.\nUnited States"
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Terry V. Jones\nv.\nUnited States\nNO. 15-CO-1065\nDistrict of Columbia Court of Appeals\nAugust 19, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "1283-04",
+  "first_page_order": 1283,
+  "last_page_order": 1283
+}

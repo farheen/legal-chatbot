@@ -1,0 +1,62 @@
+{
+  "id": 12491865,
+  "name": "STATE of Connecticut v. Steven K. STANLEY",
+  "name_abbreviation": "State v. Stanley",
+  "decision_date": "2018-01-02",
+  "docket_number": "No. 39918",
+  "first_page": "85",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "175 A.3d 85"
+    },
+    {
+      "type": "parallel",
+      "cite": "179 Conn. App. 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn. App. Ct.",
+    "id": 8801,
+    "name": "Connecticut Appellate Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 183,
+    "sha256": "d8b5ff33f251b1399295f57c16ee28ae2384bc1bf69c0c629cba06ee9e140054",
+    "simhash": "1:bd9d028182ce2135",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:29.057506+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nSteven K. STANLEY"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment is affirmed.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nSteven K. STANLEY\nNo. 39918\nAppellate Court of Connecticut.\nArgued December 12, 2017\nOfficially released January 2, 2018"
+  },
+  "file_name": "0085-02",
+  "first_page_order": 85,
+  "last_page_order": 85
+}

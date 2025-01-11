@@ -1,0 +1,58 @@
+{
+  "id": 12485258,
+  "name": "Commonwealth v. Perry Lamont Wallace",
+  "name_abbreviation": "Commonwealth v. Wallace",
+  "decision_date": "2016-06-15",
+  "docket_number": "NO. 120 MAL 2016",
+  "first_page": "13",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 152,
+    "sha256": "85c96aba4fdb20a2fd5744e271d0be7a177c36dfd1c174431c13d45740d606b7",
+    "simhash": "1:f49e467cd0a13390",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nPerry Lamont Wallace"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nPerry Lamont Wallace\nNO. 120 MAL 2016\nSupreme Court of Pennsylvania\nJune 15, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0013-06",
+  "first_page_order": 13,
+  "last_page_order": 13
+}

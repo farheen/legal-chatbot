@@ -1,0 +1,58 @@
+{
+  "id": 12488609,
+  "name": "Com. v. Buckley, Q.",
+  "name_abbreviation": "Com v. Buckley",
+  "decision_date": "2016-05-24",
+  "docket_number": "1675 MDA 2015",
+  "first_page": "1158",
+  "last_page": "1158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 98,
+    "sha256": "fae508488d613a2ec42fe2800d31a49c81b15978527a5a4b7fbf468b6babe3f3",
+    "simhash": "1:25877659d8fe1da0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBuckley, Q."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBuckley, Q.\n1675 MDA 2015\nSuperior Court of Pennsylvania.\nMay 24, 2016\nAffirmed/Remanded"
+  },
+  "file_name": "1158-10",
+  "first_page_order": 1158,
+  "last_page_order": 1158
+}

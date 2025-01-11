@@ -1,0 +1,58 @@
+{
+  "id": 12488452,
+  "name": "Com. v. Rodriguez, A.",
+  "name_abbreviation": "Com v. Rodriguez",
+  "decision_date": "2016-05-13",
+  "docket_number": "1560 MDA 2015",
+  "first_page": "1147",
+  "last_page": "1147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 122,
+    "sha256": "6fc5100dd01ddc53e5412d0ec825eebbae6174c42436ef10744d52eecb799de0",
+    "simhash": "1:000170183aaa9510",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nRodriguez, A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nRodriguez, A.\n1560 MDA 2015\nSuperior Court of Pennsylvania.\nMay 13, 2016\nReargument Denied July 21, 2016\nQuashed"
+  },
+  "file_name": "1147-05",
+  "first_page_order": 1147,
+  "last_page_order": 1147
+}

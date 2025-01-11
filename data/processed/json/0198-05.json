@@ -1,0 +1,58 @@
+{
+  "id": 12486581,
+  "name": "Com. v. J. Jones",
+  "name_abbreviation": "Com. v. Jones",
+  "decision_date": "2016-03-15",
+  "docket_number": "NO. 3468 EDA 2014",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 93,
+    "sha256": "14e2dc9cbe4b7ea1d0efc47a1a46b05e31afe7f3320a0158874dcbe1b9cea03d",
+    "simhash": "1:2ddb280180200aa5",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Jones"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Jones\nNO. 3468 EDA 2014\nSuperior Court of Pennsylvania.\nMarch 15, 2016\nAffirmed."
+  },
+  "file_name": "0198-05",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

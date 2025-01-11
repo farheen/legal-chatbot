@@ -1,0 +1,128 @@
+{
+  "id": 12047022,
+  "name": "State v. Richard I. BRIGHAM, Jr.",
+  "name_abbreviation": "State v. Brigham",
+  "decision_date": "1995-11-01",
+  "docket_number": "No. 94-754-C.A.",
+  "first_page": "405",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "121 R.I. 280",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        3187297
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "282"
+        },
+        {
+          "page": "899"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/121/0280-01"
+      ]
+    },
+    {
+      "cite": "456 A.2d 742",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7954749
+      ],
+      "pin_cites": [
+        {
+          "page": "744-45"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/456/0742-01"
+      ]
+    },
+    {
+      "cite": "645 A.2d 482",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7863556
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "484"
+        },
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/645/0482-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 229,
+    "char_count": 2987,
+    "ocr_confidence": 0.732,
+    "pagerank": {
+      "raw": 2.7631595910281427e-07,
+      "percentile": 0.8337362525768877
+    },
+    "sha256": "8ec4915c8ec40b061cb25dcd6dd805c83c6e2b94759532f5de5e62b0115f06e6",
+    "simhash": "1:100bd4c9514b6566",
+    "word_count": 475
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State v. Richard I. BRIGHAM, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nPER CURIAM.\nThis matter came before the Supreme Court pursuant to an order directing the defendant, Richard I. Brigham, Jr., to appear and show cause why his appeal should not be dismissed. In this case the defendant appeals from the partial granting of his motion to reduce his sentence pursuant to Rule 35 of the Superior Court Rules of Criminal Procedure. The defendant was convicted of two counts of first-degree sexual assault and was sentenced to thirty years on each count, to be served concurrently. After hearing oral argument and examining the memoranda submitted by the parties, we are of the opinion that cause has not been shown and that the issues will be decided at this time.\nThe trial justice, after hearing defendant\u2019s motion, reduced his sentence from thirty to twenty-four years of incarceration. On appeal defendant argues that the trial justice abused his discretion in not further reducing his sentence. The defendant suggests that the court placed too much emphasis on deterrence and not enough weight on his likelihood of rehabilitation.\nA motion to reduce a sentence under Rule 35 is essentially a plea for leniency. State v. Tiernan, 645 A.2d 482, 484 (R.I. 1994). Such motions are within the sound discretion of the trial justice and \u201cmay be granted if the court decides on reflection or on the basis of changed circumstances that the sentence originally imposed was, for any reason, unduly severe.\u201d State v. Byrnes, 456 A.2d 742, 744-45 (R.I.1983). This court\u2019s authority to review the trial justice\u2019s decision in such matters is extremely limited and should be exercised only when the sentence is without justification. State v. Giorgi, 121 R.I. 280, 282, 397 A.2d 898, 899 (1979).\nIn determining a fair sentence, a trial justice considers various factors including the severity of the crime, the defendant\u2019s personal, educational, and employment background, the potential for rehabilitation, societal deterrence, and the appropriateness of the punishment. Tiernan, 645 A.2d at 484. It appears that the trial justice properly considered those factors in reducing the defendant\u2019s sentence by 20 percent. The defendant hoped for further reduction solely on the basis of one factor, rehabilitation. However, the trial justice, while mindful of the defendant\u2019s potential for rehabilitation, was equally mindful of the other factors, such as the severity of the crime and deterrence, in his decision to reduce the defendant\u2019s sentence only so far. Clearly, the defendant has failed to establish that the trial justice abused his discretion in refusing to reduce the sentence further.\nFor these reasons the defendant\u2019s appeal is denied and dismissed, the order and judgment appealed from is affirmed, and the papers in the case are remanded to the Superior Court.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Aaron Weisman, Asst. Attorney General, for plaintiff.",
+      "Robert B. Mann, Providence, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "State v. Richard I. BRIGHAM, Jr.\nNo. 94-754-C.A.\nSupreme Court of Rhode Island.\nNov. 1, 1995.\nAaron Weisman, Asst. Attorney General, for plaintiff.\nRobert B. Mann, Providence, for defendant."
+  },
+  "file_name": "0405-01",
+  "first_page_order": 463,
+  "last_page_order": 465
+}

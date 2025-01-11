@@ -1,0 +1,58 @@
+{
+  "id": 12486496,
+  "name": "R. Hamm v. N. Handwerk",
+  "name_abbreviation": "Hamm v. Handwerk",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 1109 EDA 2015",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 156,
+    "sha256": "f365bce2451a9da0ea84a2f75a10a1d7b57b544d37b89d802c85d53094064131",
+    "simhash": "1:7159ce17927f7db5",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. Hamm\nv.\nN. Handwerk"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R. Hamm\nv.\nN. Handwerk\nNO. 1109 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nAffirmed.\n11 Petition for reargument denied May 12, 2016.\n--------"
+  },
+  "file_name": "0192-09",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

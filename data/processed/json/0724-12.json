@@ -1,0 +1,58 @@
+{
+  "id": 12487085,
+  "name": "Commonwealth v. Wade Anthony Mason",
+  "name_abbreviation": "Commonwealth v. Mason",
+  "decision_date": "2016-08-22",
+  "docket_number": "NO. 325 MAL (2016)",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 142,
+    "sha256": "38091c4cea500439183df6f53da3df0635b97c7aeee692ac410d5ace48190b80",
+    "simhash": "1:fc0e583990475df1",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nWade Anthony Mason"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nWade Anthony Mason\nNO. 325 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 22, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0724-12",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

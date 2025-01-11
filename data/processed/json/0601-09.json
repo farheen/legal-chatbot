@@ -1,0 +1,58 @@
+{
+  "id": 12486060,
+  "name": "Com. v. C. Vasquez",
+  "name_abbreviation": "Com. v. Vasquez",
+  "decision_date": "2016-02-22",
+  "docket_number": "NO. 42 WDA 2015",
+  "first_page": "601",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "b15a90cba9a2ba0ae9b14e2a731e98a31b7f3ec7282bfe885e118fbadb0a97f7",
+    "simhash": "1:251fdea911ded6e9",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Vasquez"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Vasquez\nNO. 42 WDA 2015\nSuperior Court of Pennsylvania.\nFebruary 22, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0601-09",
+  "first_page_order": 601,
+  "last_page_order": 601
+}

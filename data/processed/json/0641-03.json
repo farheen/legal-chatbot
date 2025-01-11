@@ -1,0 +1,59 @@
+{
+  "id": 8382064,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Eugene GREEN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Green",
+  "decision_date": "2008-04-11",
+  "docket_number": "",
+  "first_page": "641",
+  "last_page": "641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "946 A.2d 641"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "ocr_confidence": 0.607,
+    "sha256": "392413bb88a792f3c65e06580818c70c778ef342971d89d348f6c83178cdd816",
+    "simhash": "1:48e506fe2347aedc",
+    "word_count": 34
+  },
+  "last_updated": "2023-07-14T21:10:53.740288+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Eugene GREEN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 11th day of April 2008, the Petition for Writ of Prohibition is DENIED.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Eugene GREEN, Petitioner.\nSupreme Court of Pennsylvania.\nApril 11, 2008."
+  },
+  "file_name": "0641-03",
+  "first_page_order": 673,
+  "last_page_order": 673
+}

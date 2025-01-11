@@ -1,0 +1,64 @@
+{
+  "id": 12490292,
+  "name": "IN RE: A.B.",
+  "name_abbreviation": "In re A.B.",
+  "decision_date": "2017-07-28",
+  "docket_number": "Pet. Docket No. 137, Sept. Term, 2017",
+  "first_page": "465",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "165 A.3d 465"
+    },
+    {
+      "type": "parallel",
+      "cite": "454 Md. 661"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "74ccc12ad3b1eab5bfeac4408aacc793005a17a21ea45b6dafc72c51ae5284f6",
+    "simhash": "1:33f7da79ce4bc385",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.020432+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE: A.B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE: A.B.\nPet. Docket No. 137, Sept. Term, 2017\nCourt of Appeals of Maryland.\nJuly 28, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0465-04",
+  "first_page_order": 465,
+  "last_page_order": 465
+}

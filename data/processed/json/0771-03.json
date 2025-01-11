@@ -1,0 +1,58 @@
+{
+  "id": 12487222,
+  "name": "In the Interest of: L.H.Y., a Minor",
+  "name_abbreviation": "In re Interest of L.H.Y.",
+  "decision_date": "2016-04-04",
+  "docket_number": "NO. 1824 EDA 2015",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 771"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 155,
+    "sha256": "2b5fb3b178677237f32839d9cba2c7b22e08aed92c14f675cc8712b00178d839",
+    "simhash": "1:370d2fd9c6a79c16",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Interest of: L.H.Y., a Minor"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Interest of: L.H.Y., a Minor\nNO. 1824 EDA 2015\nSuperior Court of Pennsylvania.\nApril 04, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0771-03",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

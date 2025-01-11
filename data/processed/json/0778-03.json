@@ -1,0 +1,58 @@
+{
+  "id": 12487329,
+  "name": "In Re: Anna Hoban",
+  "name_abbreviation": "In re Hoban",
+  "decision_date": "2016-04-13",
+  "docket_number": "NO. 1036 EDA 2015",
+  "first_page": "778",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "b45c23aedfcebfebcdff39054be7a73b832ea2e6b536be62f92385c479bd33ee",
+    "simhash": "1:808a12f161f18ba1",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re: Anna Hoban"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Re: Anna Hoban\nNO. 1036 EDA 2015\nSuperior Court of Pennsylvania.\nApril 13, 2016\nAffirmed."
+  },
+  "file_name": "0778-03",
+  "first_page_order": 778,
+  "last_page_order": 778
+}

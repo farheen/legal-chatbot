@@ -1,0 +1,58 @@
+{
+  "id": 12487120,
+  "name": "Commonwealth v. Wesley Morgan Pollard, Sr.",
+  "name_abbreviation": "Commonwealth v. Pollard",
+  "decision_date": "2016-08-30",
+  "docket_number": "NO. 155 MAL (2016)",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 725"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 227,
+    "sha256": "0d667eceb3351bc7be659942758d72635470adff59104d800c75891438dc8d6d",
+    "simhash": "1:7dbe3829b28529b4",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nWesley Morgan Pollard, Sr."
+    ],
+    "opinions": [
+      {
+        "text": "17 Justice MUNDY did not participate in the derision of this matter.\n--------",
+        "type": "majority",
+        "author": "17 Justice MUNDY did not participate in the derision of this matter."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nWesley Morgan Pollard, Sr.\nNO. 155 MAL (2016)\nSupreme Court of Pennsylvania\nAugust 30, 2016\nPETITION FOR ALLOWANCE OF APPEAL\nDenied."
+  },
+  "file_name": "0725-05",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

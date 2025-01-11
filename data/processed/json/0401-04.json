@@ -1,0 +1,64 @@
+{
+  "id": 12487820,
+  "name": "Jones, Wendall Ernest v. State of Maryland",
+  "name_abbreviation": "Jones v. State",
+  "decision_date": "2016-10-31",
+  "docket_number": "Pet. Docket No. 355; Sept. Term, 2016",
+  "first_page": "401",
+  "last_page": "401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "147 A.3d 401"
+    },
+    {
+      "type": "parallel",
+      "cite": "450 Md. 230"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 168,
+    "sha256": "9235fddd4607c460021935f5635534d05c3a5b0ed87c9f26d721ce5c291f0fb7",
+    "simhash": "1:2c4340b1d3c94001",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T20:57:14.001454+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jones, Wendall Ernest\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jones, Wendall Ernest\nv.\nState of Maryland\nPet. Docket No. 355\nSept. Term, 2016\nCourt of Appeals of Maryland.\nOctober 31, 2016\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0401-04",
+  "first_page_order": 401,
+  "last_page_order": 401
+}

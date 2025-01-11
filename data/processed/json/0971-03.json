@@ -1,0 +1,62 @@
+{
+  "id": 12502110,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Rashon JACKSON, a/k/a Ray Taylor, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Jackson",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-175 September Term 2018; 080937",
+  "first_page": "971",
+  "last_page": "971",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 971"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 387,
+    "sha256": "813f8fc5fe0323567b3cc1f342a1dc506b426b639376bf71494e38cce24b866c",
+    "simhash": "1:36f62d31c273ff28",
+    "word_count": 58
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRashon JACKSON, a/k/a Ray Taylor, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-003588-14 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nRashon JACKSON, a/k/a Ray Taylor, Defendant-Petitioner.\nC-175 September Term 2018\n080937\nSupreme Court of New Jersey.\nOctober 05, 2018\nORDER"
+  },
+  "file_name": "0971-03",
+  "first_page_order": 971,
+  "last_page_order": 971
+}

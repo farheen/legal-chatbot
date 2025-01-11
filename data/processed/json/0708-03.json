@@ -1,0 +1,64 @@
+{
+  "id": 12486862,
+  "name": "Fogg, Everett v. State of Maryland",
+  "name_abbreviation": "Fogg v. State",
+  "decision_date": "2016-08-22",
+  "docket_number": "Pet. Docket No. 175; Sept. Term 2016",
+  "first_page": "708",
+  "last_page": "708",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 708"
+    },
+    {
+      "type": "parallel",
+      "cite": "449 Md. 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 161,
+    "sha256": "ead08cd52db7d31bf30109969bdfe2aa9f1a6f08cb24b8c43f422c8c422b5fa4",
+    "simhash": "1:4d6bd641d14c123c",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fogg, Everett\nv.\nState of Maryland"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari dismissed."
+    ],
+    "corrections": "",
+    "head_matter": "Fogg, Everett\nv.\nState of Maryland\nPet. Docket No. 175\nSept. Term 2016\nCourt of Appeals of Maryland.\nAugust 22, 2016\nPetition for writ of certiorari dismissed."
+  },
+  "file_name": "0708-03",
+  "first_page_order": 708,
+  "last_page_order": 708
+}

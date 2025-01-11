@@ -1,0 +1,58 @@
+{
+  "id": 12501800,
+  "name": "COM. v. MCDOWELL, D.",
+  "name_abbreviation": "Com. v. McDowell",
+  "decision_date": "2018-07-23",
+  "docket_number": "1823 WDA 2017",
+  "first_page": "702",
+  "last_page": "702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 702"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 91,
+    "sha256": "a658a74575bd924074c4803fd2a5a602e72171dc2794cf53aaa4ce8ff8ad2e25",
+    "simhash": "1:b8dbc2ae81c999c2",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nMCDOWELL, D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nMCDOWELL, D.\n1823 WDA 2017\nSuperior Court of Pennsylvania.\nJuly 23, 2018\nAffirmed"
+  },
+  "file_name": "0702-05",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

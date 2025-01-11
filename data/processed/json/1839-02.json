@@ -1,0 +1,59 @@
+{
+  "id": 12168055,
+  "name": "In re Nikolaus Laing",
+  "name_abbreviation": "In re Laing",
+  "decision_date": "1965-05-03",
+  "docket_number": "No. 7661",
+  "first_page": "1839",
+  "last_page": "1839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1839"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 8,
+    "char_count": 51,
+    "ocr_confidence": 0.58,
+    "sha256": "99acbd15a66b7e759544012de6331cd932bd18d94e9579642a53d216f29b5080",
+    "simhash": "1:0be45c81d1085b89",
+    "word_count": 8
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Nikolaus Laing"
+    ],
+    "opinions": [
+      {
+        "text": "Mixing appliance.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Nikolaus Laing\n(No. 7661)."
+  },
+  "file_name": "1839-02",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

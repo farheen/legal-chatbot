@@ -1,0 +1,58 @@
+{
+  "id": 12486433,
+  "name": "Com. v. C. Dodd",
+  "name_abbreviation": "Com. v. Dodd",
+  "decision_date": "2016-03-03",
+  "docket_number": "NO. 1183 EDA 2015",
+  "first_page": "188",
+  "last_page": "188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 135,
+    "sha256": "bdd9e5be0a3d8785847a8ab4cd3567bb5b9b748a29e1cb839fec1a29a0bbb2d8",
+    "simhash": "1:5f9b2486cca184d1",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Dodd"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Dodd\nNO. 1183 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 03, 2016\nAffirmed Application to Withdraw as Counsel Granted."
+  },
+  "file_name": "0188-08",
+  "first_page_order": 188,
+  "last_page_order": 188
+}

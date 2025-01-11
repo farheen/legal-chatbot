@@ -1,0 +1,62 @@
+{
+  "id": 7866053,
+  "name": "In the Matter of William T. SMITH",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "1995-10-02",
+  "docket_number": "No. 502, Disciplinary Docket No. 2-Supreme Court; No. 69 DB 85 Disciplinary Board",
+  "first_page": "464",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "665 A.2d 464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 641,
+    "ocr_confidence": 0.762,
+    "sha256": "7593718af6145cb30a8ef463e000c9f214b18e9b20e30f54e39a77a023a6e15f",
+    "simhash": "1:f8f884a660837e74",
+    "word_count": 102
+  },
+  "last_updated": "2023-07-14T21:00:58.781133+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "CASTILLE, J., dissents.",
+      "MONTEMURO, J., is sitting by designation."
+    ],
+    "parties": [
+      "In the Matter of William T. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 2nd day of October, 1995, upon consideration of the Report and Recommendations of the Disciplinary Board of the Supreme Court of Pennsylvania dated August 28, 1995, the Petition for Reinstatement is granted.\nPursuant to Rule 218(e), Pa.R.D.E., petitioner is directed to pay the expenses incurred by the Board in the investigation and processing of the Petition for Reinstatement.\nCASTILLE, J., dissents.\nMONTEMURO, J., is sitting by designation.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of William T. SMITH.\nNo. 502, Disciplinary Docket No. 2\u2014Supreme Court.\nNo. 69 DB 85 Disciplinary Board.\nSupreme Court of Pennsylvania.\nOct. 2, 1995."
+  },
+  "file_name": "0464-03",
+  "first_page_order": 532,
+  "last_page_order": 533
+}

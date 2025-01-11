@@ -1,0 +1,58 @@
+{
+  "id": 12488265,
+  "name": "Com. v. Lopez, H.",
+  "name_abbreviation": "Com v. Lopez",
+  "decision_date": "2016-05-04",
+  "docket_number": "699 MDA 2015",
+  "first_page": "1135",
+  "last_page": "1135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 106,
+    "sha256": "fa7ab21f48a99112eb4a0956df0d28575e2be685c115aa9e5d475eaf5899f9ad",
+    "simhash": "1:fc08f46206af1449",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nLopez, H."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nLopez, H.\n699 MDA 2015\nSuperior Court of Pennsylvania.\nMay 4, 2016\nWithdrawal of Counsel Granted"
+  },
+  "file_name": "1135-07",
+  "first_page_order": 1135,
+  "last_page_order": 1135
+}

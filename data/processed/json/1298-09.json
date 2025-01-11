@@ -1,0 +1,59 @@
+{
+  "id": 6083451,
+  "name": "In re Albert F. Fifield",
+  "name_abbreviation": "In re Fifield",
+  "decision_date": "1932-04-29",
+  "docket_number": "No. 2944",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "19 C.C.P.A. 1298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 126,
+    "ocr_confidence": 0.51,
+    "sha256": "1fd69276669459265a51616d8d45b83a17768eb24f5a84aad92c9c957011879f",
+    "simhash": "1:7646880d13d7f99c",
+    "word_count": 21
+  },
+  "last_updated": "2023-07-14T18:56:38.566472+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Albert F. Fifield"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in process of preparing wearing surfaces for tools, dies, etc.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "APRIL 29, 1932\nIn re Albert F. Fifield\n(No. 2944)."
+  },
+  "file_name": "1298-09",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

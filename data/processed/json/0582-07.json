@@ -1,0 +1,58 @@
+{
+  "id": 12485753,
+  "name": "Com. v. J. Rivera",
+  "name_abbreviation": "Com. v. Rivera",
+  "decision_date": "2016-02-01",
+  "docket_number": "NO. 718 MDA 2015",
+  "first_page": "582",
+  "last_page": "582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 109,
+    "sha256": "18cf4e6f46b8965bf35968d696146e4ead5690d60c31b18239dab4c335c59c23",
+    "simhash": "1:29dcda0844c804ed",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Rivera"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Rivera\nNO. 718 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 01, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0582-07",
+  "first_page_order": 582,
+  "last_page_order": 582
+}

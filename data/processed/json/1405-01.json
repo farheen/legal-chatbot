@@ -1,0 +1,166 @@
+{
+  "id": 6085243,
+  "name": "In re Franz Ackermann, Max Duennenberger and Adolph Emil Siegrist",
+  "name_abbreviation": "In re Ackermann",
+  "decision_date": "1971-07-08",
+  "docket_number": "No. 8518",
+  "first_page": "1405",
+  "last_page": "1410",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "58 C.C.P.A. 1405"
+    },
+    {
+      "type": "parallel",
+      "cite": "444 F.2d 1172"
+    },
+    {
+      "type": "parallel",
+      "cite": "170 U.S.P.Q. 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "411 F. 2d 1333",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2191700,
+        6085110
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/411/1333-01",
+        "/ccpa/56-2/1438-01"
+      ]
+    },
+    {
+      "cite": "56 CCPA 1438",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6085110
+      ],
+      "weight": 2,
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/56-2/1438-01"
+      ]
+    },
+    {
+      "cite": "327 F. 2d 513",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        121026,
+        6092038
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/327/0513-01",
+        "/ccpa/51-2/0993-01"
+      ]
+    },
+    {
+      "cite": "51 CCPA 993",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6092038
+      ],
+      "weight": 2,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/51-2/0993-01"
+      ]
+    },
+    {
+      "cite": "377 F. 2d 610",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2028874,
+        6086741
+      ],
+      "weight": 2,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/377/0610-01",
+        "/ccpa/54-2/1315-01"
+      ]
+    },
+    {
+      "cite": "54 CCPA 1315",
+      "category": "reporters:specialty",
+      "reporter": "C.C.P.A.",
+      "case_ids": [
+        6086741
+      ],
+      "weight": 4,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ccpa/54-2/1315-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 728,
+    "char_count": 13836,
+    "ocr_confidence": 0.388,
+    "pagerank": {
+      "raw": 1.515237265493103e-07,
+      "percentile": 0.6682845216072443
+    },
+    "sha256": "a47f59386cb2a12c6650160ca9fef9062d70c04488e576657603b99e56addece",
+    "simhash": "1:f9ee6c2701c634ba",
+    "word_count": 2227
+  },
+  "last_updated": "2024-02-27T17:45:50.180518+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Rich, Almond, Baldwin, Lane, Associate Judges, and Landis, Judge, sitting by designation"
+    ],
+    "parties": [
+      "In re Franz Ackermann, Max Duennenberger and Adolph Emil Siegrist"
+    ],
+    "opinions": [
+      {
+        "text": "Baldwin, Judge,\ndelivered tbe opinion of the court.\nThis appeal is from the decision of the Patent Office Board of Appeals, adhered to on reconsideration, sustaining the rejection of the single claim in appellants\u2019 application as unpatentable in view of the prior art under 85 USC 103 on the ground of res judicata.\nThe Invention\nThe sole claim on appeal is as follows:\n1. A crystalline product of manufacture consisting of pure a: j3-di-[5-methyl-benzoxazolyl- (2) ]-ethylene, said product existing in the form of fine yellowish needles, and melting at 183 to 184\u00b0C, showing in ethanol solution extinction maxima at the wave lengths of X=350 mg, X=362 mg and X=380 mg, said product in dioxane solution exhibiting a bluish fluorescence, said product being an optical brightening agent.\nThe References\nThe references indicative of the knowledge possessed by one of ordinary skill in this art were all placed in the record by the examiner. Of those supporting the rejection under 35 USC 103, Meyer et ah, the primary reference, was also cited and extensively discussed in appellants\u2019 specification. For our purposes, that reference may be said to disclose broadly the class of compounds containing the following atomic skeleton structure:\nIn the above structure, X may be either an O, S or NH radical. For simplicity, we will use the designation \u201cdi-substituted ethylenes\u201d as representing this class of compounds. The patent teaches that these compounds may be prepared by dehydrogenating the corresponding disubstituted ethane with a suitable dehydrogenating agent, and cites a considerable number of such agents any of which would be suitable. It goes on, however, to specify a preference for \u201cmild oxidizing agents, especially mercuric salts.\u201d The stated utility for the disclosed compounds is as follows:\nThe products, when in a dissolved or finely dispersed condition, exhibit a more or less pronounced fluorescence and also possess a more or less marked affinity for cellulose fibres. By virtue of these properties the products are suitable, for example, for identifying materials, for instance, by printing marks thereon which are visible when viewed by light of short wave length.\nOf particular pertinence in the Meyer et al. patent is illustrative example 5 wherein is shown the production of the compound a: /?-di[benzoxazolyl- (2) ]-ethylene, from which the compound of the instant claim differs only in that the benzene rings are substituted at the \u20185\u2019 position with a methyl group. The example concludes with the comment that \u201ca,/J-di-[benzoxazolyl-(2)]-ethane methylated in the benzene nucleus may also be [de] -hydrogenated in similar manner.\u201d (Emphasis added).\nOf the secondary references, those relevant to the rejection are Schneider, Graenacher et al., Meyer et al. (II) and Fry et al. Meyer et al. (II) and Graenacher disclose di-substituted ethylenes of analogous structure to be claimed compound and said to possess optical brightening properties wherein the corresponding benzene nuclei each contains a methyl or alkyl group in the 5,5' or 6,6' locations. The other two references show similar \u201cmethylated\u201d benzene nuclei but on compounds less similar to that now claimed.\nThe Rejections\nThe Prior Art Rejection\nThe examiner rejected the claim in view of the disclosure of Meyer et al. (I) taken either alone or in combination with the above-mentioned secondary art. His reasoning was stated in the Answer as follows:\nMeyer et al. I teach the parent bis benzoxazolyl ethene compound and further show that this compound can be methylated in the benzene nucleus. The most common methylation in the benzene nucleus in this general class of compounds is either 5,5' or 6,6' dimethylation * * *. Homologues and suggested derivatives thereof are prima facie unpatentable where the same properties exist for both.\nThe Res Judicata Rejection\nIn their parent application, appellants had presented claims reciting only the compounds themselves, one claim drawn specifically to the compound recited in the claim before us now, the other defining the alkyl group on the benzene rings in more generic fashion. These claims were rejected over the combination of Meyer et al. (I) in view of Meyer et al. (II), previously discussed. The examiner there took the position that the claimed compounds were homologous to those described in Meyer et al. (I) and therefore at least prima facie obvious due to the close structural similarity. He was sustained on appeal to the board, which also stated its belief, citing the closing sentences in example 5 of Meyer et al. (I) (also discussed previously), that that reference \u201csubstantially anticipates the claims on appeal.\u201d Affidavit evidence submitted by appellants, showing that the compounds prepared according to their process were significantly better as optical brighteners for polyester fibers than compounds disclosed in the references and made by the process described therein, was dismissed by the examiner as being apparently based only on purity differences, which he held to be \u201cirrelevant to patentability as claimed\u201d. The board indicated that any evidence would be incapable to \u201crender patentable a compound which is clearly lacking in novelty.\u201d\nAppellants refiled and, in an obvious attempt to get around the criticisms of both the examiner and the board in the parent case, limited their claimed invention to the pure, crystalline, di-5-methylated compound giving the maximum brightening effect. They also submitted additional affidavits showing a comparison of the claimed product with the non-methylated compounds of Meyer et al. (I) when prepared according to appellants\u2019 process. This comparison did demonstrate that, when pure, the compounds of the prior art are effective as optical brighteners for polyester fabric, but indicates as well that it would take approximately ten times as much of the pure prior art compounds to product a brightening effect comparable to that of the claimed product.\nThe examiner in this case took the position that the subject matter claimed here is the same as that represented by the claim to this compound in the parent case since the parent case showed its preparation in the pure form now recited. He asserted that the issue of purity had been considered in the earlier case and concluded: \u201cThe question of patentability over Meyer et al. (I) is no longer a virgin problem and the prior adjudication stands, right or wrong.\u201d\nThe Board of Appeals\nThe board affirmed the rejection over the prior art in this case, adopting the examiner\u2019s reasoning as its own. With regard to the combined affidavit evidence of record, the board first observed that the results therein shown apply only to polyester fabrics treated with the claimed material. It then went on to conclude:\nHowever, as disclosed by the specification, the optical brightener is stated to be suitable for a variety of different materials for this purpose. We note, however, that Meyer et al. I show their product used on cellulose fibers and there is no evidence to show that with such fibers the claimed product possesses unobvious properties or improved results over this reference. The evidence, therefore, is concerned with the use of the claimed, optical brightener only on a polyester fiber and, as pointed out by the Examiner, appellants have already received a patent, No. 2,875,089, fully commensurate in scope with the showing made in this application. * * *\nSince the claim covers the compound for all brightening purposes, it would appeal\u2022 that it is overclaiming the product in this respect since the evidence of record does not show that the claimed compound gives superior results with other than the polyester fiber for which a patent has already been granted to appellants. [Emphasis supplied].\nThe examiner\u2019s position that the instant claim amounts to a relitigation of substantially the same subject matter previously adjudicated and held unpatentable was also sustained, our decision in In re Herr, 54 CCPA 1315, 377 F. 2d 610, 153 USPQ 548 (1967), being distinguished on its facts.\nOpinion\nAs we see it from the record before us, the gist or essence of appellants\u2019 invention, in practical, commercial terms, is the discovery that the specific compound recited in the instant claim has, in its pure state, an outstanding capability for \u2018brightening polyester fibers. The cited references indicate that the broad class to which that compound belongs was known to the art prior to appellants\u2019 discovery. Those references also suggest that the art would expect the class of compounds as a whole to possess the general property of optical fluorescence and that the art would have been able to prepare the specific compound of the claim. It further seems reasonable to accept that a chemist would ordinarily attempt to synthesize a compound in as pure a state as possible and disclose such a synthesis when called to do so. Thus having no reason to believe from the reference disclosures that the compounds therein described were not any less pure than appellants\u2019, it follows that the general teachings contained therein, coupled with the specific disclosure of homologous compounds and the suggestion that methyl-ation at the 5,5' site on the benzene rings would have been Obvious to the artisan, make out a strong prima facie case that the claimed subject matter is unpatentable under 35 USC103.\nOn the other hand, appellants have satisfactorily demonstrated not only that the prior art compounds were not comparable in purity to theirs, but also that such compounds even when so pure possess a significant (although admittedly very specific) property to a substantially lesser degree. Proof of the former has the effect of weakening the Patent Office case since, as we have indicated, that the prior art compounds be presumed pure is an important element of the logic behind the Patent Office position. Both aspects of the evidence, when taken together, have the effect of justifying an inference that the manifest difference in properties of the claimed subject matter over the prior art compounds would have been unexpected. Considering the record before us in light of the above, we are satisfied that appellants have rebutted the initial inference of obviousness and have established that their claimed subject matter, as a whole, would not have been obvious at the time the invention was made to a person having ordinary skill in this art. Cf., In re Doyle, 51 CCPA 993, 327 F. 2d 513, 140 USPQ 421 (1964).\nThe 'board\u2019s comments with regard to \u201coverclaiming\u201d we find particularly inappropriate in tins case, and we note that none of the opinions cited by the solicitor in support thereof is really pertinent. Those cases all had to do with attempts at proving unobviousness with regard to subject matter of relatively broad scope with evidence pertaining to only a relatively narrow portion of such subject matter. Here we are dealing with evidence pertaining to tibe full extent of subject matter being claimed. The mere fact that such, evidence deals with only one of a spectrum of properties possessed by that subject matter does not detract from its relevance. As we alluded to earlier, such evidence tends to prove that the subject matter claimed possesses a difference in properties over that with which it was compared which would have been unexpected. As such it is relevant and, we feel, convincing of un'obviousness.\nIn connection with the rejection on res judicata grounds, we note first that the decision asserted as an estoppel is that of a Patent Office tribunal and not a decision on the merits by a court of record. As such, we find that, in presenting for examination the modified claim we now have before us, appellants did sufficiently alter the issues on patent-ability to 'be decided by the Patent Office. Accordingly, the following cases are in point and require reversal of the board\u2019s decision on this rejection: In re Craig, 56 CCPA 1438, 411 F. 2d 1333, 162 USPQ 157 (1969); In re Herr, 54 CCPA 1315, 377 F. 2d 610, 153 USPQ 548 (1967).\nThe board\u2019s decision is reversed.\nSerial No. 515,749, filed December 22, 1965, as a continuation in part of application Serial No. 295,224, filed July 15, 1963, which in turn was asserted to have been a continuation in part of two earlier applications.\nU.S. Patent 2,483,392, Issued October 4, 1948. Appellant Ackermann is a joint inventor.\nThe patent disclosure actually contains tbe word \u201chydrogenated\u201d. However, appellants have not disputed the characterization of this by the Patent Office as \u201cclearly a typographical error.\u201d Neither will we.\n\u00dc.S. Patent 2,072,908, issued March 9,1937.\nU.S. Patent 2,463,264, issued March 1,1949.\nU.S. Patent 2,488,289, issued November 15,1949.\nU.S. Patent 2,620,282, issued December 2,1952.\n8 Interestingly, while this reference to appellants\u2019 earlier patent might indicate that some double patenting considerations should be involved here, the board insisted, when pressed on the point, that no rejection on double patenting grounds was intended by the indicated language. Of course, such considerations have no relevancy in a determination of patentability under 35 USC 103 and, needless to say, we are not permitted to render any decision on issues not properly before us. We are left simply to ponder why such a rejection was not made.",
+        "type": "majority",
+        "author": "Baldwin, Judge,"
+      }
+    ],
+    "attorneys": [
+      "Harry Goldsmith, attorney of record, for appellants.",
+      "Joseph G. Kolodny, Bryant W. Brennan, of counsel.",
+      "8. Wm. Cochran for the Commissioner of Patents. Jack B. Armore, of counsel."
+    ],
+    "corrections": "",
+    "head_matter": "444 F. 2d 1172; 170 USPQ 340\nIn re Franz Ackermann, Max Duennenberger and Adolph Emil Siegrist\n(No. 8518)\nUnited States Court of Customs and Patent Appeals,\nJuly 8, 1971\nHarry Goldsmith, attorney of record, for appellants.\nJoseph G. Kolodny, Bryant W. Brennan, of counsel.\n8. Wm. Cochran for the Commissioner of Patents. Jack B. Armore, of counsel.\n[Oral argument May 3,1971 by Mr. Goldsmith and Mr. Armore]\nBefore Rich, Almond, Baldwin, Lane, Associate Judges, and Landis, Judge, sitting by designation"
+  },
+  "file_name": "1405-01",
+  "first_page_order": 727,
+  "last_page_order": 732
+}

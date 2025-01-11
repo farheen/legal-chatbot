@@ -1,0 +1,104 @@
+{
+  "id": 12488127,
+  "name": "STATE of Connecticut v. William CASTILLO",
+  "name_abbreviation": "State v. Castillo",
+  "decision_date": "2016-09-13",
+  "docket_number": "",
+  "first_page": "684",
+  "last_page": "684",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "150 A.3d 684"
+    },
+    {
+      "type": "parallel",
+      "cite": "323 Conn. 903"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "478-79"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "165 Conn.App. 703",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12485334
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/140-2/0301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 94,
+    "char_count": 943,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2577574986032004
+    },
+    "sha256": "2c9fc348dd3aa0d7513521d7420359dcdaf97f5817cd8a5fd87c10b446cd1204",
+    "simhash": "1:741b42388869acb2",
+    "word_count": 144
+  },
+  "last_updated": "2024-02-27T18:34:54.100288+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nWilliam CASTILLO"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 703, 140 A.3d 301 (2016), is granted, limited to the following issues:",
+      "\"1. Did the Appellate Court correctly determine that the defendant was not in custody for Miranda v. Arizona, 384 U.S. 436, 478-79, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), purposes during his in-home interrogation by the police?",
+      "\"3. Did the Appellate Court correctly determine that it was inappropriate or premature for that court to consider the defendant's supervisory claim?\""
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nWilliam CASTILLO\nSupreme Court of Connecticut.\nDecided September 13, 2016\nRichard Emanuel, in support of the petition.\nNancy L. Chupak, senior assistant state's attorney, in opposition.\nThe defendant's petition for certification for appeal from the Appellate Court, 165 Conn.App. 703, 140 A.3d 301 (2016), is granted, limited to the following issues:\n\"1. Did the Appellate Court correctly determine that the defendant was not in custody for Miranda v. Arizona, 384 U.S. 436, 478-79, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966), purposes during his in-home interrogation by the police?\n\"2. Did the Appellate Court correctly determine that the trial court's factual finding, that the defendant was at home when the police arrived to interrogate him, was not clearly erroneous?\n\"3. Did the Appellate Court correctly determine that it was inappropriate or premature for that court to consider the defendant's supervisory claim?\""
+  },
+  "file_name": "0684-02",
+  "first_page_order": 684,
+  "last_page_order": 684
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12486379,
+  "name": "R. Brilla v. W. Brilla",
+  "name_abbreviation": "Brilla v. Brilla",
+  "decision_date": "2016-03-01",
+  "docket_number": "NO. 417 WDA 2015",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 98,
+    "sha256": "96584500cf52efd3f29538fcb5ea655c22a9ae8679321fa093c0a34177c31816",
+    "simhash": "1:95dbd42fd0d41fff",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R. Brilla\nv.\nW. Brilla"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R. Brilla\nv.\nW. Brilla\nNO. 417 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 01, 2016\nAffirmed."
+  },
+  "file_name": "0185-15",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

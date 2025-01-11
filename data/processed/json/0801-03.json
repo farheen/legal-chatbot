@@ -1,0 +1,83 @@
+{
+  "id": 12491383,
+  "name": "Ricky E. COSTA et al. v. PLAINVILLE BOARD OF EDUCATION et al.",
+  "name_abbreviation": "Costa v. Plainville Bd. of Educ.",
+  "decision_date": "2017-11-15",
+  "docket_number": "",
+  "first_page": "801",
+  "last_page": "801",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "172 A.3d 801"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 961"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "175 Conn.App. 402",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12490420
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/167-2/1152-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 335,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25786580607595266
+    },
+    "sha256": "8d18ac35dc2d3a3e24387eb04575892b4aa8f409bd738f1870503c0413a162a1",
+    "simhash": "1:d49b3748b0d0f8f6",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:35:00.082849+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricky E. COSTA et al.\nv.\nPLAINVILLE BOARD OF EDUCATION et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The plaintiffs' petition for certification to appeal from the Appellate Court, 175 Conn.App. 402, 167 A.3d 1152 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricky E. COSTA et al.\nv.\nPLAINVILLE BOARD OF EDUCATION et al.\nSupreme Court of Connecticut.\nDecided November 15, 2017\nHarold J. Geragosian, in support of the petition.\nBeatrice S. Jordan, in opposition.\nThe plaintiffs' petition for certification to appeal from the Appellate Court, 175 Conn.App. 402, 167 A.3d 1152 (2017), is denied."
+  },
+  "file_name": "0801-03",
+  "first_page_order": 801,
+  "last_page_order": 801
+}

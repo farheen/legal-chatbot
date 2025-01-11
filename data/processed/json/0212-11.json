@@ -1,0 +1,58 @@
+{
+  "id": 12486789,
+  "name": "Com. v. R. Marchetti",
+  "name_abbreviation": "Com. v. Marchetti",
+  "decision_date": "2016-03-30",
+  "docket_number": "NO. 1952 WDA 2014",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 97,
+    "sha256": "ba771ba0023fecb37dee0f3a10050206d734c5c0dbe852a451b4582d7aefc944",
+    "simhash": "1:b41fc88084a85c01",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Marchetti"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Marchetti\nNO. 1952 WDA 2014\nSuperior Court of Pennsylvania.\nMarch 30, 2016\nAffirmed."
+  },
+  "file_name": "0212-11",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

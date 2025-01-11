@@ -1,0 +1,58 @@
+{
+  "id": 12488213,
+  "name": "Com. v. Grant, R.",
+  "name_abbreviation": "Com v. Grant",
+  "decision_date": "2016-05-03",
+  "docket_number": "1110 MDA 2015",
+  "first_page": "1132",
+  "last_page": "1132",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 86,
+    "sha256": "7633b8c51f21b5fb2e96b093b77832949f35370d8d7522eed80367375e1fa95a",
+    "simhash": "1:8cd556d9d22b50f0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nGrant, R."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nGrant, R.\n1110 MDA 2015\nSuperior Court of Pennsylvania.\nMay 3, 2016\nAffirmed"
+  },
+  "file_name": "1132-14",
+  "first_page_order": 1132,
+  "last_page_order": 1132
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12501785,
+  "name": "COM. v. OWENS, L.",
+  "name_abbreviation": "Com. v. Owens",
+  "decision_date": "2018-07-20",
+  "docket_number": "164 WDA 2018",
+  "first_page": "699",
+  "last_page": "699",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 124,
+    "sha256": "be8f46af77175f5cb12460fb5e3ddcc16ff2a99a3fd43bd2b9a583f556a09c9d",
+    "simhash": "1:ad5777180c0882a8",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COM.\nv.\nOWENS, L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COM.\nv.\nOWENS, L.\n164 WDA 2018\nSuperior Court of Pennsylvania.\nJuly 20, 2018\nReargument Denied September 13, 2018\nAffirmed"
+  },
+  "file_name": "0699-04",
+  "first_page_order": 699,
+  "last_page_order": 699
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12485853,
+  "name": "Com. v. D. Dancey",
+  "name_abbreviation": "Com. v. Dancey",
+  "decision_date": "2016-02-09",
+  "docket_number": "NO. 427 MDA 2015",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 117,
+    "sha256": "cfa06e16722d66c38ac52906af18ec1f83eafcb88a51903b6b12cdc007cbda3f",
+    "simhash": "1:b9a9d589766817a4",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nD. Dancey"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nD. Dancey\nNO. 427 MDA 2015\nSuperior Court of Pennsylvania.\nFebruary 09, 2016\nDisposition: Appeal dismissed."
+  },
+  "file_name": "0589-10",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

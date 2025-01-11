@@ -1,0 +1,78 @@
+{
+  "id": 12041366,
+  "name": "In re Mark D. SIEGEL, Respondent. A Member of the Bar of the District of Columbia Court of Appeals",
+  "name_abbreviation": "In re Siegel",
+  "decision_date": "1995-10-05",
+  "docket_number": "No. 94-BG-1655",
+  "first_page": "62",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 62"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "635 A.2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7363908
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/635/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 132,
+    "char_count": 1459,
+    "ocr_confidence": 0.768,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24520831137259352
+    },
+    "sha256": "ad49c6892ef8e6510da16e049f4e0848a9680c152c3c26edfc62b58945993436",
+    "simhash": "1:b3765376e53d9ab3",
+    "word_count": 234
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and KING, Associate Judges, and BELSON, Senior Judge."
+    ],
+    "parties": [
+      "In re Mark D. SIEGEL, Respondent. A Member of the Bar of the District of Columbia Court of Appeals."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nOn consideration of the Report and Recommendation of the Board on Professional Responsibility that respondent, already the subject of a six-month suspension with a requirement of proof of fitness as a condition of reinstatement, see In re Siegel, 635 A.2d 345 (D.C.1993), be suspended for an additional month because of an additional incident of neglect of client matters occurring in the roughly contemporaneous time-frame of the incidents underlying the six-month suspension, and respondent having filed no exception thereto, it is\nORDERED that respondent is suspended from the practice of law in this jurisdiction for an additional month, to be served consecutively to the existing six-month suspension, and shall be required to prove fitness as a condition of reinstatement.\n. As of the date of the Board's Report and Recommendation, respondent had failed to file an affidavit pursuant to D.C.App. R. XI, \u00a7 14(g), and hence, for purposes of reinstatement, the six-month period had not yet begun to run under D.C.App. R. XI, \u00a7 16(c).\n. Indeed, as in the prior disciplinary matter, respondent has not participated in the instant proceedings in any way at any level.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Mark D. SIEGEL, Respondent. A Member of the Bar of the District of Columbia Court of Appeals.\nNo. 94-BG-1655.\nDistrict of Columbia Court of Appeals.\nSubmitted Sept. 11, 1995.\nDecided Oct. 5, 1995.\nBefore STEADMAN and KING, Associate Judges, and BELSON, Senior Judge."
+  },
+  "file_name": "0062-01",
+  "first_page_order": 118,
+  "last_page_order": 119
+}

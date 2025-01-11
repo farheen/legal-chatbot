@@ -1,0 +1,64 @@
+{
+  "id": 12490788,
+  "name": "FARMER v. GREEN",
+  "name_abbreviation": "Farmer v. Green",
+  "decision_date": "2017-08-25",
+  "docket_number": "Pet. Docket No. 99, Sept. Term, 2017",
+  "first_page": "60",
+  "last_page": "60",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "168 A.3d 60"
+    },
+    {
+      "type": "parallel",
+      "cite": "455 Md. 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Md. App. Ct.",
+    "id": 25266,
+    "name": "Court of Appeals of Maryland"
+  },
+  "jurisdiction": {
+    "id": 50,
+    "name_long": "Maryland",
+    "name": "Md."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "a61586e38bba06b3fbb3ececb0514592e8366da261016cbb078cecc25b76266a",
+    "simhash": "1:05d612311e8d5697",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T20:57:14.022556+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FARMER\nv.\nGREEN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "FARMER\nv.\nGREEN\nPet. Docket No. 99, Sept. Term, 2017\nCourt of Appeals of Maryland.\nAugust 25, 2017\nPetition for writ of certiorari denied."
+  },
+  "file_name": "0060-04",
+  "first_page_order": 60,
+  "last_page_order": 60
+}

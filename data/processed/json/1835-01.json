@@ -1,0 +1,59 @@
+{
+  "id": 12166935,
+  "name": "In re Charles Arthur Pearson, Marjorie Linda Bird and Montague Alexander Phillips",
+  "name_abbreviation": "In re Pearson",
+  "decision_date": "1964-08-31",
+  "docket_number": "No. 7243",
+  "first_page": "1835",
+  "last_page": "1835",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "52 C.C.P.A. 1835"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "ocr_confidence": 0.45,
+    "sha256": "d88e339c4e25763ec4c298ab2cb2d7815ef81aa8d6eab637a172b13d6f283abe",
+    "simhash": "1:eb9f0614f0ceeab1",
+    "word_count": 19
+  },
+  "last_updated": "2023-07-14T14:34:02.795273+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Charles Arthur Pearson, Marjorie Linda Bird and Montague Alexander Phillips"
+    ],
+    "opinions": [
+      {
+        "text": "\u2014Cleaning compositions.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "August 31, 1964\nIn re Charles Arthur Pearson, Marjorie Linda Bird and Montague Alexander Phillips\n(No. 7243)."
+  },
+  "file_name": "1835-01",
+  "first_page_order": 1159,
+  "last_page_order": 1159
+}

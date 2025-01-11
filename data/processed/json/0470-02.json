@@ -1,0 +1,115 @@
+{
+  "id": 9439128,
+  "name": "Fred DeWITT v. A.T. WALL",
+  "name_abbreviation": "DeWitt v. Wall",
+  "decision_date": "2002-04-19",
+  "docket_number": "No. 2002-212-M.P.",
+  "first_page": "470",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "796 A.2d 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "708 A.2d 549",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11815419
+      ],
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/708/0549-01"
+      ]
+    },
+    {
+      "cite": "667 A.2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7860757
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/667/0275-01"
+      ]
+    },
+    {
+      "cite": "689 A.2d 1037",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11927285
+      ],
+      "pin_cites": [
+        {
+          "page": "1048"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/689/1037-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 199,
+    "char_count": 2614,
+    "ocr_confidence": 0.673,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.21765322997595613
+    },
+    "sha256": "7c9087381a523744b81c625f05b912b660804f571620fc2e0df76d09da76427d",
+    "simhash": "1:5da3d3cd19d89096",
+    "word_count": 420
+  },
+  "last_updated": "2024-02-27T19:24:08.048318+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred DeWITT v. A.T. WALL."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe petition for a writ of certiorari is granted. The Superior Court\u2019s order that entered on April 9, 2002 ordering an evi-dentiary hearing on April 8, 2002 is summarily vacated for, inter alia, lack of personal jurisdiction over defendant and the petitioner, the State of Rhode Island, Department of Corrections. See Nisenzon v. Sadowski, 689 A.2d 1037, 1048 (R.I.1997) (\u201cjurisdiction of the court over the person of a defendant is dependent on proper service having been made.\u201d). Further proceedings in this case are enjoined (a) until proof of lawful service of process upon defendant and upon any other party who may be joined in this case is filed with the court and (b) until any claims pertaining to defendant\u2019s alleged retaliation against plaintiff for his court filings or to defendant\u2019s alleged unlawful denial of plaintiffs access to the courts are embodied in an amended pleading pursuant Rule 15 of the Superior Court Rules of Civil Procedure, which claims have been duly served on defendant and filed with the court. Letters, motions, and other documents addressed or provided to justices of the Superior Court do not constitute complaints under the applicable rules, nor is the jurisdiction of the Superior Court invoked by letter or by communications that do not constitute a complaint under the applicable rules.\nFurther, pursuant to our decisions in Bishop v. State, 667 A.2d 275 (R.I.1995) and L\u2019Heureux v. State, 708 A.2d 549 (1998), we remind the trial justice that the Superior Court lacks jurisdiction to review any alleged violations of the so-called Morris rules or other disciplinary proceedings that result in a sanction of disciplinary segregation of thirty days or less imposed upon plaintiff or other inmates. Therefore, the court is enjoined from doing so in this case because there is \u201cno constitutionally guaranteed liberty interest in [such] disciplinary proceedings.\u201d L\u2019Heureux, 708 A.2d 549, 552. Moreover, no further \u201cevi-dentiary hearings\u201d or other hearings with counsel for any department of state government or any other entity who has not been named and served as a party in this case shall be scheduled unless they are noticed and convened pursuant to the Superior Court Rules of Civil Procedure and unless the parties who are requested to attend such hearings have been named and duly served as parties in this case.\nThis case is remanded to the Superior Court for further proceedings consistent with this order.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Frederick DeWitt, pro se.",
+      "Patricia A. Coyne-Fague, Cranston."
+    ],
+    "corrections": "",
+    "head_matter": "Fred DeWITT v. A.T. WALL.\nNo. 2002-212-M.P.\nSupreme Court of Rhode Island.\nApril 19, 2002.\nFrederick DeWitt, pro se.\nPatricia A. Coyne-Fague, Cranston."
+  },
+  "file_name": "0470-02",
+  "first_page_order": 522,
+  "last_page_order": 523
+}

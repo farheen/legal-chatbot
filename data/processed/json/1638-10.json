@@ -1,0 +1,59 @@
+{
+  "id": 6087708,
+  "name": "In re Paul Henninger, et al.",
+  "name_abbreviation": "In re Henninger",
+  "decision_date": "1967-03-06",
+  "docket_number": "No. 8093",
+  "first_page": "1638",
+  "last_page": "1638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "54 C.C.P.A. 1638"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 114,
+    "ocr_confidence": 0.412,
+    "sha256": "93210952d3982b08a8d7d1616e1752df904b3763e619b0788921515dc3e46f50",
+    "simhash": "1:602ad43100e45581",
+    "word_count": 18
+  },
+  "last_updated": "2023-07-14T15:23:54.153496+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Paul Henninger, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Magnetic storage conductor \u2018device for electronic computers.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 6, 1967\nNo. 8093.\nIn re Paul Henninger, et al."
+  },
+  "file_name": "1638-10",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

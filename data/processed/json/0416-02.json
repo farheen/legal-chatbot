@@ -1,0 +1,84 @@
+{
+  "id": 12047384,
+  "name": "Linda A. SIMEONE v. Timothy A. SIMEONE",
+  "name_abbreviation": "Simeone v. Simeone",
+  "decision_date": "1995-09-28",
+  "docket_number": "No. 94-694-Appeal",
+  "first_page": "416",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "666 A.2d 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [
+    {
+      "cite": "485 A.2d 558",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7911555
+      ],
+      "pin_cites": [
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/485/0558-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1569,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24524209712612588
+    },
+    "sha256": "4fd22e70c31449e0e67f9f79e5750ae493c50812b7d4523ec3f18056d413b006",
+    "simhash": "1:4be9fa515847ad24",
+    "word_count": 260
+  },
+  "last_updated": "2024-02-27T18:06:30.780568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linda A. SIMEONE v. Timothy A. SIMEONE."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThis matter came before the Court on September 12, 1995, pursuant to an order directing the plaintiff to appear and show cause why this appeal should not be summarily denied and dismissed. In this case the plaintiff has appealed from an order of the Family Court appointing a commissioner to sell her residence, originally owned jointly by her and her former husband and still occupied by her. The daughter now owns her interest together with her former husband.\nAfter reviewing the memoranda submitted by the parties and after hearing counsel for both parties in oral argument, it is the conclusion of the court that cause has not been shown.\nThe trial judge\u2019s order, entered after hearing counsel and reviewing prior orders and transcripts of prior proceedings, is correct. It is clear that the wife was awarded exclusive use of the property but not permanent use thereof.\nThe findings of a trial justice sitting without a jury are entitled to great weight and will not be disturbed on appeal unless it can be shown that such findings are clearly wrong or that the trial justice misconceived or overlooked material evidence. Tarro v. Tarro, 485 A.2d 558, 564 (R.I.1984). The plaintiff has failed to meet that standard.\nFor these reasons the plaintiffs appeal is denied and dismissed, the order appealed from is affirmed and the papers of the ease are remanded to the Family Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Kevin McKenna, Providence.",
+      "John Quigley, Jr., Domenic Tudino, Providence."
+    ],
+    "corrections": "",
+    "head_matter": "Linda A. SIMEONE v. Timothy A. SIMEONE.\nNo. 94-694-Appeal.\nSupreme Court of Rhode Island.\nSept. 28, 1995.\nKevin McKenna, Providence.\nJohn Quigley, Jr., Domenic Tudino, Providence."
+  },
+  "file_name": "0416-02",
+  "first_page_order": 474,
+  "last_page_order": 475
+}

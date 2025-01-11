@@ -1,0 +1,65 @@
+{
+  "id": 12504897,
+  "name": "BROWN, F., et al. v. TIOGA TOWNSHIP ZHB",
+  "name_abbreviation": "Brown v. Tioga Twp. ZHB",
+  "decision_date": "2018-11-14",
+  "docket_number": "1260 CD 2017",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "199 A.3d 514"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "210 Pa. Code \u00a7 69.414",
+      "category": "laws:admin_compilation",
+      "reporter": "Pa. Code",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 298,
+    "sha256": "71a1905a9c70c74b95602ac85a0d616f976fa82bb6d1db96ea1e373bf0813fe6",
+    "simhash": "1:0b8bb3d614640caa",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T16:26:42.618727+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BROWN, F., et al.\nv.\nTIOGA TOWNSHIP ZHB"
+    ],
+    "opinions": [
+      {
+        "text": "Decision filed after Jan. 15, 2008, may be cited for persuasive, non-precedential value. 210 Pa. Code \u00a7 69.414.\nAffirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BROWN, F., et al.\nv.\nTIOGA TOWNSHIP ZHB\n1260 CD 2017\nCommonwealth Court of Pennsylvania.\nNovember 14, 2018\nReargument Denied January 8, 2019\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0514-03",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

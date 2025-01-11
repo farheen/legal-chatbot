@@ -1,0 +1,104 @@
+{
+  "id": 8959748,
+  "name": "In re Nominating Petitions of John L. BRAXTON. Objection of Alan Butkovitz. Petition of Alan Butkovitz",
+  "name_abbreviation": "In re Nominating Petitions of Braxton",
+  "decision_date": "2005-05-03",
+  "docket_number": "",
+  "first_page": "1143",
+  "last_page": "1144",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "874 A.2d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "852 A.2d 1182",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9239204,
+        1329325
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "1187",
+          "parenthetical": "interpreting the fatal defect rule of Section 1104(b)(3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/852/1182-01",
+        "/pa/578/0402-01"
+      ]
+    },
+    {
+      "cite": "578 Pa. 402",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1329325
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "411",
+          "parenthetical": "interpreting the fatal defect rule of Section 1104(b)(3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/578/0402-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 136,
+    "char_count": 1465,
+    "ocr_confidence": 0.636,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2128172337460601
+    },
+    "sha256": "9fa0055c17eb995d5dccb59f7f651043ee4ec16d6af6776ca6b011038233057f",
+    "simhash": "1:ada5462dc92b2ef0",
+    "word_count": 245
+  },
+  "last_updated": "2024-02-27T17:59:12.231895+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Nominating Petitions of John L. BRAXTON. Objection of Alan Butkovitz. Petition of Alan Butkovitz."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 3rd day of May, 2005, the Petition for Allowance of Appeal is hereby GRANTED. Respondent did not disclose anywhere on his Statement of Financial Interests the sources of his rental income and the names and addresses of the creditors holding mortgages on his rental properties. See 65 Pa.C.S. \u00a7 1105(b)(4), (b)(5). In light of these omissions, the Order of the Commonwealth Court, which allowed Respondent to amend his Statement of Financial Interests and remain on the ballot, is REVERSED, and Respondent John L. Brax-ton\u2019s name is ordered to be STRICKEN from the primary ballot for the Democratic Party nomination for the Office of Controller in the City of Philadelphia. See 65 Pa.C.S. \u00a7 1104(b)(3) (providing that the \u201c[fjailure to file the statement in accordance with the provisions of this chapter shall ... be a fatal defect to a petition to appear on the ballot\u201d); see also In re Nomination Petition of Benninghoff, 578 Pa. 402, 411, 852 A.2d 1182, 1187 (2004) (interpreting the fatal defect rule of Section 1104(b)(3) as permitting an amendment to a financial statement where a candidate has substantially complied with the Ethics Act, such as where all of the statutorily required disclosures \u201ccan be facially obtained from the information provided on the form as a whole\u201d).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Nominating Petitions of John L. BRAXTON. Objection of Alan Butkovitz. Petition of Alan Butkovitz.\nSupreme Court of Pennsylvania.\nMay 3, 2005."
+  },
+  "file_name": "1143-03",
+  "first_page_order": 1179,
+  "last_page_order": 1180
+}

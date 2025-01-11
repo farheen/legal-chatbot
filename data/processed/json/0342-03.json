@@ -1,0 +1,96 @@
+{
+  "id": 11974586,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent, v. Clarence ROGERS, Petitioner",
+  "name_abbreviation": "Commonwealth v. Rogers",
+  "decision_date": "1997-06-25",
+  "docket_number": "Petition No. 115 Western District Allocatur Docket 1997",
+  "first_page": "342",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "694 A.2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "689 A.2d 211",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        468626,
+        468670,
+        11924045,
+        11924062
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0136-01",
+        "/pa/547/0137-01",
+        "/a2d/689/0211-01",
+        "/a2d/689/0211-02"
+      ]
+    },
+    {
+      "cite": "547 Pa. 137",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        468670
+      ],
+      "year": 1997,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/547/0137-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 539,
+    "ocr_confidence": 0.68,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.24478801659865113
+    },
+    "sha256": "5d7a3cf64da23329b62ae4e61c4d2032a0d01ec4712e507c605e7cc0a5ab757a",
+    "simhash": "1:8dbb0aa4426f0d35",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T20:57:17.445316+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent, v. Clarence ROGERS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM:\nAND NOW, this 25th day of June, 1997, the Petition for Allowance of Appeal is GRANTED. The decision of the Superior Court is REVERSED. The matter is REMANDED to the Trial Court to allow Petitioner to file a Motion for New Trial Nunc Pro Tunc challenging the weight of the evidence pursuant to Rule of Criminal Procedure 1410(b)(l)(a)(iv). See Commonwealth v. Widmer, 547 Pa. 137, 689 A.2d 211 (1997).",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent, v. Clarence ROGERS, Petitioner.\nSupreme Court of Pennsylvania.\nJune 25, 1997."
+  },
+  "file_name": "0342-03",
+  "first_page_order": 406,
+  "last_page_order": 406
+}

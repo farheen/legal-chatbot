@@ -1,0 +1,64 @@
+{
+  "id": 7945336,
+  "name": "Sandra DiROCCO v. Vincent DiROCCO",
+  "name_abbreviation": "DiRocco v. DiRocco",
+  "decision_date": "1980-02-14",
+  "docket_number": "No. 79-193-A",
+  "first_page": "268",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "412 A.2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 455,
+    "ocr_confidence": 0.734,
+    "sha256": "bb726d3f9eb7bc3323bf850815198e4f4dd24ec6185c8603deebffec559ecdf6",
+    "simhash": "1:f46a06b1a06da335",
+    "word_count": 74
+  },
+  "last_updated": "2023-07-14T17:50:21.749348+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "BEVILACQUA, C. J., and DORIS, J., did not participate."
+    ],
+    "parties": [
+      "Sandra DiROCCO v. Vincent DiROCCO."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe respondent\u2019s motion to compel the filing of a brief and the petitioner\u2019s motion to affirm and motion for extension are assigned to the motion calendar for Friday, March 6, 1980 at 9:30 a. m. for oral argument.\nBEVILACQUA, C. J., and DORIS, J., did not participate.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Robert J. Bevilacqua, Providence, for petitioner.",
+      "Vincent DiRocco, Coventry, pro se."
+    ],
+    "corrections": "",
+    "head_matter": "Sandra DiROCCO v. Vincent DiROCCO.\nNo. 79-193-A.\nSupreme Court of Rhode Island.\nFeb. 14, 1980.\nRobert J. Bevilacqua, Providence, for petitioner.\nVincent DiRocco, Coventry, pro se."
+  },
+  "file_name": "0268-04",
+  "first_page_order": 324,
+  "last_page_order": 325
+}

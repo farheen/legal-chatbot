@@ -1,0 +1,58 @@
+{
+  "id": 12484972,
+  "name": "Commonwealth v. Justin Juan Johnson",
+  "name_abbreviation": "Commonwealth v. Johnson",
+  "decision_date": "2016-05-11",
+  "docket_number": "NO. 11 WAL 2016",
+  "first_page": "3",
+  "last_page": "3",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 A.3d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 234,
+    "sha256": "dbd0740dfd8230f30e51b51ff24d99342ddad7689f82386e0f58b17802474999",
+    "simhash": "1:9d5272408aa690c4",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T20:57:13.994284+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nJustin Juan Johnson"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nJustin Juan Johnson\nNO. 11 WAL 2016\nSupreme Court of Pennsylvania\nMay 11, 2016\nAppeal from the Superior Court.\nDisposition: Denied.\nJustice DONOHUE did not participate in the consideration or decision of this matter."
+  },
+  "file_name": "0003-07",
+  "first_page_order": 3,
+  "last_page_order": 3
+}

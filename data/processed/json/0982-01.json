@@ -1,0 +1,99 @@
+{
+  "id": 6094949,
+  "name": "In re Fred C. Walter",
+  "name_abbreviation": "In re Walter",
+  "decision_date": "1930-04-10",
+  "docket_number": "No. 2277",
+  "first_page": "982",
+  "last_page": "984",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "17 C.C.P.A. 982"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "273 Fed. Rep. 380",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        5391338
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/273/0380-01"
+      ]
+    },
+    {
+      "cite": "148 U. S. 678",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 App. D. C., 345",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1312342
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/16/0345-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 299,
+    "char_count": 3821,
+    "ocr_confidence": 0.448,
+    "pagerank": {
+      "raw": 2.6146442535666013e-07,
+      "percentile": 0.8207534493323742
+    },
+    "sha256": "01a010b0a50b0209c23ec3c4a001213a282689f1b1b03620421e548aababb385",
+    "simhash": "1:80ef20b0868e2b65",
+    "word_count": 638
+  },
+  "last_updated": "2024-02-27T19:30:35.593568+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+    ],
+    "parties": [
+      "In re Fred C. Walter"
+    ],
+    "opinions": [
+      {
+        "text": "Lenroot, Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Commissioner of Patents rejecting the claim of appellant\u2019s design application for a bumperette.\nThe appealed claim is as follows: \u201c The ornamental design for bumperette as shown.\u201d\nThe cited references are:\n'Hurlbut (design) 56230, August 31, 1920.\nSimms, 814171, March 6, 1906.\nGoetz, 1515734, November 18, 1924.\nApjiellant\u2019s design consists in combining two slightly curved tubular impact members, connected in spaced relation by connecting straps. The ends of the tubular members are covered by plain cylindrical caps, and upon each of the straps midway between the two said members there is what appears to be the .head of a bolt, much larger than necessary for any useful purpose.\nThe application was rejected by the three tribunals of the Patent Office, viz, the examiner, the board of examiners in chief, and the commissioner, as lacking in invention. In view of this fact, appellant must make out a clear case of error to obtain a reversal. In re Beswick, 16 App. D. C., 345.\nThe design patent to Hurlbut shows an automobile bumper comprising two cylindrical or tubular members connected in spaced relation by connecting members. They are apparently spaced nearer together than in appellant\u2019s design, and the connections shown by Hurlbut are of curved metal while appellant\u2019s connecting members are of flat metal. The Hurlbut design is of a front bumper extending the entire width of the car.\n\u2022 Simms and Goetz show curved bumpers designed to be attached to vehicles in positions to guard the lights, fenders, etc.\nThe commissioner agreed with the examiners in chief that no invention was involved in mollifying the design of Hurlbut in the customary way to adapt it for use as a bumperette, and said:\nIt is believed that in view of the prior state of the art there does not exist in the appellant\u2019s article a distinctively new appearance created by inventive process and serving the propose of embellishment; and, therefore, that the article is not patentable as a design * * *.\nThe Solicitor for the Patent Office does not contend that appellant\u2019s bumperette does not present a new and distinctive appearance, but correctly states that this is not the only test of patenta-bility. There must be in addition an exercise of the inventive or original faculty. Smith v. Whitman Saddle Co., 148 U. S. 678; Knapp v. Will & Baumer Co., 273 Fed. Rep. 380.\nIt should be remembered that the purpose of the law authorizing the grant of patents for designs was to give encouragement to the decorative arts, but it was not the purpose to grant a monopoly over a particular design, even if it presents a new and distinctive appearance, if its creation did not involve invention. The decorative arts would be retarded instead of advanced if one without the exercise of the inventive faculty, upon seeing a new article come into common use, could draft designs covering all attractive forms-of the article and secure patents for them, thus preventing the use of the article by the public, except in its most unattractive form,, unless tribute be paid to him who had secured the patents;\nIn designs the reward of a monopoly for a given period must be confined to those who have invented new, original and ornamental designs for articles of manufacture.\nWe find no error in the decision of the commissioner that the design here in issue is lacking in invention and it is affirmed.",
+        "type": "majority",
+        "author": "Lenroot, Judge,"
+      }
+    ],
+    "attorneys": [
+      "\u2019Wood & Wood (W\u00a1m. R. Wood of counsel) for Appellant.",
+      "T. A. Hostetler for the Commissioner of Patents."
+    ],
+    "corrections": "",
+    "head_matter": "In re Fred C. Walter\n(No. 2277)\nUnited States Court of Customs and Patent Appeals,\nApril 10, 1930\n\u2019Wood & Wood (W\u00a1m. R. Wood of counsel) for Appellant.\nT. A. Hostetler for the Commissioner of Patents.\n[Oral argument March 6, 1930, by Mr. Wood and Mr. Hostetler]\nBefore Graham, Presiding Judge, and Bland, Hatfield, Garrett, and Lenroot, Associate Judges"
+  },
+  "file_name": "0982-01",
+  "first_page_order": 432,
+  "last_page_order": 434
+}

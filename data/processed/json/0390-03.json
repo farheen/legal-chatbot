@@ -1,0 +1,83 @@
+{
+  "id": 12491473,
+  "name": "STATE of Connecticut v. Marwan CHANKAR",
+  "name_abbreviation": "State v. Chankar",
+  "decision_date": "2017-06-28",
+  "docket_number": "",
+  "first_page": "390",
+  "last_page": "390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "173 A.3d 390"
+    },
+    {
+      "type": "parallel",
+      "cite": "326 Conn. 914"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [
+    {
+      "cite": "173 Conn. App. 227",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12489854
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/162-2/0756-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 289,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.25786908812058157
+    },
+    "sha256": "2d7460aa16c2a7403aea8453ac9ad868771deaada16e2fdc678edf53d3b19537",
+    "simhash": "1:80de093e92e12453",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:34:58.363485+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Connecticut\nv.\nMarwan CHANKAR"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The defendant's petition for certification for appeal from the Appellate Court, 173 Conn. App. 227, 162 A.3d 756 (2017), is denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Connecticut\nv.\nMarwan CHANKAR\nSupreme Court of Connecticut.\nDecided June 28, 2017\nJennifer B. Smith, assigned counsel, in support of the petition.\nThe defendant's petition for certification for appeal from the Appellate Court, 173 Conn. App. 227, 162 A.3d 756 (2017), is denied."
+  },
+  "file_name": "0390-03",
+  "first_page_order": 390,
+  "last_page_order": 390
+}

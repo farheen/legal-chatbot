@@ -1,0 +1,58 @@
+{
+  "id": 12487202,
+  "name": "Com. v. J. Kanski",
+  "name_abbreviation": "Com. v. Kanski",
+  "decision_date": "2016-04-01",
+  "docket_number": "NO. 1390 MDA 2015",
+  "first_page": "770",
+  "last_page": "770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 94,
+    "sha256": "598613f98f5ce010a4f62f6d5fc68389bab772f872dbe8988697f47db0a507d4",
+    "simhash": "1:e886526510200d80",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nJ. Kanski"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nJ. Kanski\nNO. 1390 MDA 2015\nSuperior Court of Pennsylvania.\nApril 01, 2016\nAffirmed."
+  },
+  "file_name": "0770-11",
+  "first_page_order": 770,
+  "last_page_order": 770
+}

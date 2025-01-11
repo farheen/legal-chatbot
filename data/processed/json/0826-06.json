@@ -1,0 +1,58 @@
+{
+  "id": 12487627,
+  "name": "John Gantz v. Nancy Giroux, et al.",
+  "name_abbreviation": "Gantz v. Giroux",
+  "decision_date": "2016-07-13",
+  "docket_number": "NO. 2180 CD 15",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 826"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Commw. Ct.",
+    "id": 11887,
+    "name": "Commonwealth Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "6aa83e4fd224b4b9866968516f56eb32cce49cea23f4570e1125c25aca203e51",
+    "simhash": "1:3687b5b785d78f6e",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Gantz\nv.\nNancy Giroux, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Affirmed.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Gantz\nv.\nNancy Giroux, et al.\nNO. 2180 CD 15\nCommonwealth Court of Pennsylvania\nJuly 13, 2016\nDECISION WITHOUT PUBLISHED OPINION"
+  },
+  "file_name": "0826-06",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

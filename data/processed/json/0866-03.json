@@ -1,0 +1,59 @@
+{
+  "id": 8335640,
+  "name": "COMMONWEALTH of Pennsylvania, Respondent v. Stephen COLEMAN, Petitioner",
+  "name_abbreviation": "Commonwealth v. Coleman",
+  "decision_date": "2006-12-20",
+  "docket_number": "No. 159 EM 2006",
+  "first_page": "866",
+  "last_page": "866",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "914 A.2d 866"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 361,
+    "ocr_confidence": 0.723,
+    "sha256": "61ccb6ae7127eb2f77b628dd2aec27d7e19d7dbeebbd532e6327014f2a23199d",
+    "simhash": "1:cee56782eaab14f2",
+    "word_count": 59
+  },
+  "last_updated": "2023-07-14T22:22:06.286625+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMONWEALTH of Pennsylvania, Respondent v. Stephen COLEMAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 20th day of December, 2006, the Application to File Petition for Appeal Nunc Pro Tunc is denied without prejudice to seek relief under the Post Conviction Relief Act, 42 Pa.C.S. \u00a7 9541 et seq.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMONWEALTH of Pennsylvania, Respondent v. Stephen COLEMAN, Petitioner.\nNo. 159 EM 2006.\nSupreme Court of Pennsylvania.\nDec. 20, 2006."
+  },
+  "file_name": "0866-03",
+  "first_page_order": 892,
+  "last_page_order": 892
+}

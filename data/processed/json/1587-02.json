@@ -1,0 +1,59 @@
+{
+  "id": 6082864,
+  "name": "In re Benjamin Friedman",
+  "name_abbreviation": "In re Friedman",
+  "decision_date": "1962-10-10",
+  "docket_number": "No. 6846",
+  "first_page": "1587",
+  "last_page": "1587",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "50 C.C.P.A. 1587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 14,
+    "char_count": 111,
+    "ocr_confidence": 0.433,
+    "sha256": "bb91d9af13ee614251ee8e1689b0a047c05ac097dfe06473442228e254b547b2",
+    "simhash": "1:2e6e512103b62090",
+    "word_count": 16
+  },
+  "last_updated": "2023-07-14T22:58:43.275969+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Benjamin Friedman"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in syringes and or hypodermic needles and cartridges therefor.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Benjamin Friedman\n(No. 6846)."
+  },
+  "file_name": "1587-02",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

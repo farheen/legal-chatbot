@@ -1,0 +1,58 @@
+{
+  "id": 12485248,
+  "name": "Commonwealth v. Hector Trinidad",
+  "name_abbreviation": "Commonwealth v. Trinidad",
+  "decision_date": "2016-05-24",
+  "docket_number": "NO. 707 EAL 2015",
+  "first_page": "13",
+  "last_page": "13",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 A.3d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 146,
+    "sha256": "1856b00e0077e07c8d708b7988d768c73468295cbba47764b2e267563abbeed8",
+    "simhash": "1:34ce146fa3a821c0",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T20:57:13.996876+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commonwealth\nv.\nHector Trinidad"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Commonwealth\nv.\nHector Trinidad\nNO. 707 EAL 2015\nSupreme Court of Pennsylvania\nMay 24, 2016\nAppeal from the Superior Court.\nDisposition: Denied."
+  },
+  "file_name": "0013-17",
+  "first_page_order": 13,
+  "last_page_order": 13
+}

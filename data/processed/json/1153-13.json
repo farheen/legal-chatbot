@@ -1,0 +1,58 @@
+{
+  "id": 12488536,
+  "name": "Com. v. Black, W.",
+  "name_abbreviation": "Com v. Black",
+  "decision_date": "2016-05-19",
+  "docket_number": "1504 WDA 2014",
+  "first_page": "1153",
+  "last_page": "1153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 87,
+    "sha256": "07b70b6c291ad80a4b8040d5900670e282c468f7fbce939dcec2af828badcdff",
+    "simhash": "1:b4a26c79de3a93f0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBlack, W."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBlack, W.\n1504 WDA 2014\nSuperior Court of Pennsylvania.\nMay 19, 2016\nAffirmed"
+  },
+  "file_name": "1153-13",
+  "first_page_order": 1153,
+  "last_page_order": 1153
+}

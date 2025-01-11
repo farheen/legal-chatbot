@@ -1,0 +1,59 @@
+{
+  "id": 6080774,
+  "name": "In re Spooner",
+  "name_abbreviation": "In re Spooner",
+  "decision_date": "1954-03-02",
+  "docket_number": "No. 6030",
+  "first_page": "1015",
+  "last_page": "1015",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "41 C.C.P.A. 1015"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "C.C.P.A.",
+    "id": 8989,
+    "name": "United States Court of Customs and Patent Appeals"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 13,
+    "char_count": 88,
+    "ocr_confidence": 0.478,
+    "sha256": "e1b3b62ed23d8a720c7310754d38d167d643ff95dc25f2a90f5dafa357ff0261",
+    "simhash": "1:1c7aa123175e131d",
+    "word_count": 14
+  },
+  "last_updated": "2023-07-14T22:03:14.452196+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Spooner"
+    ],
+    "opinions": [
+      {
+        "text": "Improvement in quick action connecting devices.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "March 2, 1954\nIn re Spooner\n(No. 6030)."
+  },
+  "file_name": "1015-06",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

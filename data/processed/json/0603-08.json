@@ -1,0 +1,58 @@
+{
+  "id": 12486090,
+  "name": "Com. v. T. Mattis",
+  "name_abbreviation": "Com. v. Mattis",
+  "decision_date": "2016-02-24",
+  "docket_number": "NO. 2174 EDA 2015",
+  "first_page": "603",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "141 A.3d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 17,
+    "char_count": 110,
+    "sha256": "0c71aed8e7f17d37a704f1304d9568f7afc11f92058c4a582639ad1974341273",
+    "simhash": "1:294b6ec3cce823e4",
+    "word_count": 17
+  },
+  "last_updated": "2021-08-27T20:57:13.996264+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nT. Mattis"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nT. Mattis\nNO. 2174 EDA 2015\nSuperior Court of Pennsylvania.\nFebruary 24, 2016\nDisposition: Affirmed."
+  },
+  "file_name": "0603-08",
+  "first_page_order": 603,
+  "last_page_order": 603
+}

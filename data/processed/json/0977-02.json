@@ -1,0 +1,62 @@
+{
+  "id": 12502128,
+  "name": "STATE of New Jersey, Plaintiff-Respondent, v. Grady C. JILUS, Defendant-Petitioner.",
+  "name_abbreviation": "State v. Jilus",
+  "decision_date": "2018-10-05",
+  "docket_number": "C-174 September Term 2018; 080926",
+  "first_page": "977",
+  "last_page": "977",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "194 A.3d 977"
+    },
+    {
+      "type": "parallel",
+      "cite": "235 N.J. 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "N.J.",
+    "id": 8815,
+    "name": "New Jersey Court of Errors and Appeals"
+  },
+  "jurisdiction": {
+    "id": 24,
+    "name_long": "New Jersey",
+    "name": "N.J."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 368,
+    "sha256": "3c98e1da9be902d53d600ce503cedc5bbedeb2360a1d3c956937cadbd285fa9c",
+    "simhash": "1:34ff6521b113c720",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T20:57:39.405912+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of New Jersey, Plaintiff-Respondent,\nv.\nGrady C. JILUS, Defendant-Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "A petition for certification of the judgment in A-003516-16 having been submitted to this Court, and the Court having considered the same;\nIt is ORDERED that the petition for certification is denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE of New Jersey, Plaintiff-Respondent,\nv.\nGrady C. JILUS, Defendant-Petitioner.\nC-174 September Term 2018\n080926\nSupreme Court of New Jersey.\nOctober 5, 2018\nORDER"
+  },
+  "file_name": "0977-02",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

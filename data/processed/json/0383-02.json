@@ -1,0 +1,75 @@
+{
+  "id": 8955131,
+  "name": "Sharon LAZERATION, Petitioner, v. HOME DEPOT U.S.A., INC. and the Home Depot, Inc., Respondent",
+  "name_abbreviation": "Lazeration v. Home Depot U.S.A., Inc.",
+  "decision_date": "2005-06-10",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "877 A.2d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa.",
+    "id": 8832,
+    "name": "Supreme Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [
+    {
+      "cite": "870 A.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        9019281,
+        650331
+      ],
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/870/0787-01",
+        "/pa/582/0149-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 378,
+    "ocr_confidence": 0.691,
+    "sha256": "3e542980a52b5a463625c02c79e3620b0ec818a566e6b8645494dfc3449e1088",
+    "simhash": "1:3dad03b1bad19f7f",
+    "word_count": 64
+  },
+  "last_updated": "2024-02-27T22:50:08.903840+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sharon LAZERATION, Petitioner, v. HOME DEPOT U.S.A., INC. and the Home Depot, Inc., Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPER CURIAM.\nAND NOW, this 10th day of June 2005, we GRANT the Petition for Allowance of Appeal and REVERSE the Order of the Superior Court based upon the decision of this Court in Reutzel v. Douglas, \u2014 Pa. -, 870 A.2d 787 (2005).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sharon LAZERATION, Petitioner, v. HOME DEPOT U.S.A., INC. and the Home Depot, Inc., Respondent.\nSupreme Court of Pennsylvania.\nJune 10, 2005."
+  },
+  "file_name": "0383-02",
+  "first_page_order": 411,
+  "last_page_order": 411
+}

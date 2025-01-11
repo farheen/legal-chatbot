@@ -1,0 +1,58 @@
+{
+  "id": 12486401,
+  "name": "Com. v. C. Jordan",
+  "name_abbreviation": "Com. v. Jordan",
+  "decision_date": "2016-03-02",
+  "docket_number": "NO. 597 EDA 2015",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 115,
+    "sha256": "20f11d97bfd1a85cc9f71f379aeec1bc92456d5536f7b4d1162a4c07709f42a2",
+    "simhash": "1:9d8bf740d2b639c9",
+    "word_count": 19
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nC. Jordan"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nC. Jordan\nNO. 597 EDA 2015\nSuperior Court of Pennsylvania.\nMarch 02, 2016\nReversed, Vacated and Remanded."
+  },
+  "file_name": "0186-06",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

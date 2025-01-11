@@ -1,0 +1,58 @@
+{
+  "id": 12489789,
+  "name": "IN RE C.L.",
+  "name_abbreviation": "In re C.L.",
+  "decision_date": "2017-05-02",
+  "docket_number": "17\u2013129",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "161 A.3d 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Vt.",
+    "id": 8945,
+    "name": "Vermont Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 17,
+    "name_long": "Vermont",
+    "name": "Vt."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 136,
+    "sha256": "d3edd2918e0d19e240c6e0b4ef9bd35ff6c01f2c40802a2e08298f1c51efb2fb",
+    "simhash": "1:fdf5ce084cec0c71",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T20:57:14.017834+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE C.L."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "IN RE C.L.\n17-129\nSupreme Court of Vermont.\nMay 2, 2017\nAPPEAL DISPOSED OF WITHOUT PUBLISHED OPINION OR MEMORANDUM DECISION\nDismissed."
+  },
+  "file_name": "0535-21",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

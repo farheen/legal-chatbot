@@ -1,0 +1,124 @@
+{
+  "id": 8051021,
+  "name": "STATE of Maine v. Lawrence M. GAMAGE",
+  "name_abbreviation": "State v. Gamage",
+  "decision_date": "1973-03-06",
+  "docket_number": "",
+  "first_page": "347",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "301 A.2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "238 A.2d 217",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8070607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/238/0217-01"
+      ]
+    },
+    {
+      "cite": "290 A.2d 371",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8477426
+      ],
+      "pin_cites": [
+        {
+          "page": "373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/290/0371-01"
+      ]
+    },
+    {
+      "cite": "266 A.2d 222",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8064027
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/266/0222-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 3813,
+    "ocr_confidence": 0.797,
+    "pagerank": {
+      "raw": 2.9074267390388636e-07,
+      "percentile": 0.8455450491515143
+    },
+    "sha256": "49c1a6e99359100ceae8829f0c5bd0d95521157968c44cd23f16f297084a9d55",
+    "simhash": "1:e873a9b688919fb2",
+    "word_count": 632
+  },
+  "last_updated": "2024-02-27T22:56:11.860391+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before DUFRESNE, C. J., and WEB-BER, WEATHERBEE, POMEROY, WERNICK and ARCHIBALD, JJ."
+    ],
+    "parties": [
+      "STATE of Maine v. Lawrence M. GAMAGE."
+    ],
+    "opinions": [
+      {
+        "text": "WEBBER, Justice.\nThe defendant Gamage was convicted by a jury of an attempt to break and enter with intent to commit larceny. Being indigent, he was aided in his prosecution of this appeal by court appointed counsel.\nDefendant seasonably filed notice of appeal with a request that counsel be appointed to represent him on appeal and that a transcript of the record be prepared. The Justice below entered an order in these terms, \u201cHearing had. Court finds Motion frivolous, not in good faith and intended for delay. Appeal denied.\" (Emphasis ours). Although the issue is not now before us, the error having been rectified by a Justice of the Supreme Judicial Court acting pursuant to M.R.Crim.P., Rule 39A, we take this opportunity to emphasize that the Superior Court is without authority to deny an appeal to the Law Court for any reason whatever. Authority to dismiss an appeal is limited to those cases where appeals are not prosecuted in conformity to Rule requirements.\nThe appellant places primary reliance on his claim that the verdict was contrary to the weight of the evidence. Neither a motion for a new trial nor a motion for judgment of acquittal was addressed to the Court below. Under similar circumstances we held in State v. Pullen (1970-Me.) 266 A.2d 222, 229 that \u201cit was incumbent upon (the appellant) to lay the foundation for such appellate relief by filing- at trial level either a motion for acquittal under Rule 29, M.R.Crim.P., or a motion for new trial under Rule 33.\u201d We concluded that, \u201cIn this posture of the case, the sufficiency of the evidence to support the verdict is not before us.\u201d\nMindful of the uncertainty suggested in State v. Morton (1972-Me.) 290 A.2d 371, 373 (Footnote 2) we have carefully reviewed the policy considerations underlying the review requirements imposed by State v. Rowe (1968-Me.) 238 A.2d 217 and State v. Pullen, supra. In view of the fact that Rule 29(b) permits the making of a motion for judgment of acquittal within ten days after jury verdict or disagreement, which period may be further extended by the trial court, we conclude that it is not unreasonable to require that the trial court be first afforded an opportunity to take corrective action. We therefore reaffirm Rowe and Pullen and hold that, except in exceptional circumstances and to prevent manifest injustice, we will decline to treat the issue as raised unless the \u201cfoundation\u201d has been properly laid at trial level.\nIn order to suggest the futility of any subsequent collateral attack based upon the failure of counsel to make either or both of these motions, we add the same dictum which was included in Pullen. \u201cHowever, upon consideration of the whole evidence, we may add that the jury was warranted in believing beyond a reasonable doubt that the defendant was guilty as the jury did find.\u201d The evidence presented factual issues most appropriate for jury determination.\nThe appellant contends that the arresting officers failed to give him the \u201cwarnings\u201d required by Miranda v. Arizona (1966) 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694. Appellant fails, however, to relate the Miranda rule to anything that occurred in the course of this trial. Miranda was designed to protect the rights of a person subjected to \u201cin-custody interrogation\u201d and its prescribed \u201cwarnings\u201d were stated to be \u201cprerequisites to the admissibility of any statement made by a defendant.\u201d In the instant case the issue never arose since the State offered no evidence of any statement made by this appellant.\nAppeal denied.",
+        "type": "majority",
+        "author": "WEBBER, Justice."
+      }
+    ],
+    "attorneys": [
+      "Galen P. LaGassey, County Atty., Rock-land, for plaintiff.",
+      "Domenic P. Cuccinello, Thomaston, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Lawrence M. GAMAGE.\nSupreme Judicial Court of Maine.\nMarch 6, 1973.\nGalen P. LaGassey, County Atty., Rock-land, for plaintiff.\nDomenic P. Cuccinello, Thomaston, for defendant.\nBefore DUFRESNE, C. J., and WEB-BER, WEATHERBEE, POMEROY, WERNICK and ARCHIBALD, JJ."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 385,
+  "last_page_order": 386
+}

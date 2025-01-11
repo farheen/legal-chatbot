@@ -1,0 +1,61 @@
+{
+  "id": 7978778,
+  "name": "In re MICHAEL C.",
+  "name_abbreviation": "In re Michael C.",
+  "decision_date": "1982-08-27",
+  "docket_number": "No. 81-611-M.P.",
+  "first_page": "891",
+  "last_page": "892",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "449 A.2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "R.I.",
+    "id": 10179,
+    "name": "Supreme Court of Rhode Island"
+  },
+  "jurisdiction": {
+    "id": 15,
+    "name_long": "Rhode Island",
+    "name": "R.I."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 240,
+    "ocr_confidence": 0.753,
+    "sha256": "0d490f77eb79f547a3e3a3cc2ca8682e287efa7a9589f4a9eb392fa5308d1b65",
+    "simhash": "1:583330f673750949",
+    "word_count": 37
+  },
+  "last_updated": "2023-07-14T19:02:12.719483+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re MICHAEL C."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nPetition for Writ of Habeas Corpus denied without prejudice.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "William F. Reilly, Public Defender, Stephen C. Bridge, Asst. Public Defender, for petitioner."
+    ],
+    "corrections": "",
+    "head_matter": "In re MICHAEL C.\nNo. 81-611-M.P.\nSupreme Court of Rhode Island.\nAug. 27, 1982.\nWilliam F. Reilly, Public Defender, Stephen C. Bridge, Asst. Public Defender, for petitioner."
+  },
+  "file_name": "0891-03",
+  "first_page_order": 939,
+  "last_page_order": 940
+}

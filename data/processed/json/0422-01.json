@@ -1,0 +1,822 @@
+{
+  "id": 12025151,
+  "name": "STATE of Maine v. Peter John BUZYNSKI",
+  "name_abbreviation": "State v. Buzynski",
+  "decision_date": "1974-12-27",
+  "docket_number": "",
+  "first_page": "422",
+  "last_page": "431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 A.2d 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "57 Me. 574",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        634563
+      ],
+      "year": 1870,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/57/0574-01"
+      ]
+    },
+    {
+      "cite": "199 A. 269",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 Me. 435",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        644353
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/135/0435-01"
+      ]
+    },
+    {
+      "cite": "193 A.2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1963,
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 Me. 328",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        474081
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/159/0328-01"
+      ]
+    },
+    {
+      "cite": "297 A.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11253004
+      ],
+      "pin_cites": [
+        {
+          "page": "637"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/297/0620-01"
+      ]
+    },
+    {
+      "cite": "311 A.2d 266",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8023455
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/311/0266-01"
+      ]
+    },
+    {
+      "cite": "200 A.2d 150",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1964,
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Md. 505",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2299759
+      ],
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/234/0505-01"
+      ]
+    },
+    {
+      "cite": "325 F.Supp. 333",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3235908
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/325/0333-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170949
+      ],
+      "weight": 3,
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0356-01"
+      ]
+    },
+    {
+      "cite": "27 L.Ed.2d 251",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 251",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "400 U.S. 946",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12104866,
+        12105030,
+        12104936,
+        12105002,
+        12105261,
+        12105230,
+        12104976,
+        12105202,
+        12105043,
+        12104916,
+        12105170,
+        12104889,
+        12104954
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/400/0946-01",
+        "/us/400/0946-08",
+        "/us/400/0946-04",
+        "/us/400/0946-07",
+        "/us/400/0946-13",
+        "/us/400/0946-12",
+        "/us/400/0946-06",
+        "/us/400/0946-11",
+        "/us/400/0946-09",
+        "/us/400/0946-03",
+        "/us/400/0946-10",
+        "/us/400/0946-02",
+        "/us/400/0946-05"
+      ]
+    },
+    {
+      "cite": "86 Nev. 573",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4841924
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/86/0573-01"
+      ]
+    },
+    {
+      "cite": "84 Nev. 459",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4893092
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/84/0459-01"
+      ]
+    },
+    {
+      "cite": "28 L.Ed.2d 322",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1189",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "401 U.S. 974",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11749414,
+        11749322,
+        11748842,
+        11749104,
+        11749041,
+        11749584,
+        11749171,
+        11749493,
+        11748986,
+        11749247
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0974-08",
+        "/us/401/0974-07",
+        "/us/401/0974-01",
+        "/us/401/0974-04",
+        "/us/401/0974-03",
+        "/us/401/0974-10",
+        "/us/401/0974-05",
+        "/us/401/0974-09",
+        "/us/401/0974-02",
+        "/us/401/0974-06"
+      ]
+    },
+    {
+      "cite": "222 So.2d 457",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9718985
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/222/0457-01"
+      ]
+    },
+    {
+      "cite": "29 L.Ed.2d 719",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 2260",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 940",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11753859,
+        11753924,
+        11753667,
+        11753803,
+        11753742,
+        11753557,
+        11753597
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0940-06",
+        "/us/402/0940-07",
+        "/us/402/0940-03",
+        "/us/402/0940-05",
+        "/us/402/0940-04",
+        "/us/402/0940-01",
+        "/us/402/0940-02"
+      ]
+    },
+    {
+      "cite": "86 Nev. 720",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4843845
+      ],
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/86/0720-01"
+      ]
+    },
+    {
+      "cite": "36 L.Ed.2d 401",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 S.Ct. 1916",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "411 U.S. 939",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10016,
+        10336,
+        10114,
+        10176,
+        10340,
+        10292,
+        9752,
+        9756,
+        10143
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0939-08",
+        "/us/411/0939-01",
+        "/us/411/0939-06",
+        "/us/411/0939-03",
+        "/us/411/0939-05",
+        "/us/411/0939-07",
+        "/us/411/0939-04",
+        "/us/411/0939-09",
+        "/us/411/0939-02"
+      ]
+    },
+    {
+      "cite": "473 F.2d 395",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        275421
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "398"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/473/0395-01"
+      ]
+    },
+    {
+      "cite": "489 F.2d 1145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        208206,
+        3679246
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "1156"
+        },
+        {
+          "page": "1156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/489/1145-01",
+        "/us-app-dc/160/0021-01"
+      ]
+    },
+    {
+      "cite": "160 U.S.App.D.C. 21",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3679246
+      ],
+      "weight": 2,
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/160/0021-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 1302",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "1309"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 U.S. 790",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341724
+      ],
+      "weight": 4,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "799"
+        },
+        {
+          "page": "1007-1008"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/343/0790-01"
+      ]
+    },
+    {
+      "cite": "211 A.2d 558",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8088496
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/211/0558-01"
+      ]
+    },
+    {
+      "cite": "161 Me. 255",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        908244
+      ],
+      "weight": 2,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/161/0255-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "302 A.2d 84",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11247786
+      ],
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/302/0084-01"
+      ]
+    },
+    {
+      "cite": "154 A. 178",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1931,
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Me. 163",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        596104
+      ],
+      "year": 1931,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/130/0163-01"
+      ]
+    },
+    {
+      "cite": "237 A.2d 150",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8069670
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/237/0150-01"
+      ]
+    },
+    {
+      "cite": "488 P.2d 769",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Wash.App. 546",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        1867185
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-app/5/0546-01"
+      ]
+    },
+    {
+      "cite": "487 F.2d 1232",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        217162
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/487/1232-01"
+      ]
+    },
+    {
+      "cite": "518 P.2d 324",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10474492
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/518/0324-01"
+      ]
+    },
+    {
+      "cite": "286 N.E.2d 792",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Ill.App.3d 879",
+      "category": "reporters:state",
+      "reporter": "Ill. App. 3d",
+      "case_ids": [
+        2467479
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app-3d/6/0879-01"
+      ]
+    },
+    {
+      "cite": "100 A.2d 234",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Me. 218",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        620506
+      ],
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/149/0218-01"
+      ]
+    },
+    {
+      "cite": "281 A.2d 570",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8086950
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/281/0570-01"
+      ]
+    },
+    {
+      "cite": "294 A.2d 459",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046083
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/294/0459-01"
+      ]
+    },
+    {
+      "cite": "301 A.2d 348",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8051070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/301/0348-01"
+      ]
+    },
+    {
+      "cite": "454 F.2d 885",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        746922
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "889"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/454/0885-01"
+      ]
+    },
+    {
+      "cite": "238 So.2d 817",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9787965
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/238/0817-01"
+      ]
+    },
+    {
+      "cite": "182 N.W.2d 741",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Mich.App. 467",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2067410
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/26/0467-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 757",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12047531
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "761"
+        },
+        {
+          "page": "1830"
+        },
+        {
+          "page": "914"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0757-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1235,
+    "char_count": 25801,
+    "ocr_confidence": 0.762,
+    "pagerank": {
+      "raw": 4.017634953506508e-07,
+      "percentile": 0.9065103795626694
+    },
+    "sha256": "0229bbda4e5cbd66ea396df383c31db64d0ce867f92c610ec45e7bc07de5d42e",
+    "simhash": "1:f6fa35f224120ae0",
+    "word_count": 4276
+  },
+  "last_updated": "2024-02-27T22:08:57.964193+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before DUFRESNE, C. J\u201e and WEATHERBEE, WERNICK, ARCHIBALD and DELAHANTY, JJ.",
+      "POMEROY, J., did not sit.",
+      "All Justices concurring."
+    ],
+    "parties": [
+      "STATE of Maine v. Peter John BUZYNSKI."
+    ],
+    "opinions": [
+      {
+        "text": "ARCHIBALD, Justice.\nPeter John Buzynski was indicted for Robbery (17 M.R.S.A. \u00a7 3401) and first degree arson (17 M.R.S.A. \u00a7 161), and entered pleas of \u201cNot Guilty\u201d and \u201cNot Guilty by Reason of Mental Disease\u201d to both charges. Pursuant to Rule 13, M.R. Crim.P., the two indictments were ordered tried together, a procedure to which Mr. Buzynski agreed. Unlike past practice, the Justice presiding granted the defendant\u2019s motion to \u201cbifyrcate\u201d the trial, the purpose being, as stated by defense counsel, \u201cso there will be two issues of fact, the question of factual guilt and mental capacity be separated from the jury and given to them [sic] on different occasions.\u201d At the conclusion of the initial segment of the trial dealing only with \u201cfactual guilt,\u201d the jury was instructed on the elements of both robbery and arson, including the requisite criminal intent. The jury then answered affirmatively two questions phrased as follows : \u201cDoes the jury find that the defendant . . . did commit the crime of Robbery [arson] as alleged in the indictment?\u201d The same jury, not having been previously informed of the plea of not guilty by reason of mental disease, was then presented conflicting evidence bearing on the defendant\u2019s mental capacity, but \u2022found him mentally competent. The defendant has appealed from the ultimate judgments of guilt, appeals which we must deny.\nAppellant bases his appeal on the following points:\n\u201c1. The Presiding Justice erred in granting the State\u2019s Motion to send the Defendant to the Augusta State Hospital for observation, pursuant to Title 15 M.R.S.A. \u00a7 101, for to do so violated the Defendant\u2019s right against self-incrimination guaranteed by the Fifth and Fourteenth Amendments of the U. S. Constitution.\n2. The Presiding Justice erred in allowing the in-court identification of the Defendant by the witness, Erwin John Richardson, because the testimony showed, as a matter of law, that the in-court identification was tainted and prejudiced [by] the out-of-court procedures employed by the Portland Police Department.\n3. The Presiding Justice erred in denying Defendant\u2019s Motion for a directed verdict of acquittal at the conclusion of the State\u2019s case in Docket # 73-82 (Arson-First Degree) because the evidence, as a matter of law, was insufficient to show a burning of the real property in question.\n4. The Presiding Justice erred in refusing to allow the jury to hear the testimony of Defendant\u2019s witness, Gloria Wood.\n5. The Presiding Justice erred in denying Defendant\u2019s Motion to strike the testimony of Dr. Walter Rohm, concerning the MMPI Test (Minnesota Multiphasic Personality Inventory- Test) because of the gross governmental unfairness on the part of the state.\n6. The Presiding Jusl ice erred in refusing to grant Defendant\u2019s requested instructions to the jury listed as Nos. 4 and 5 in his requested instructions. The charge to the jury, of the Presiding Justice, was clearly erroneous as it related to the presumption of sanity and the burden of proof of the element of sanity.\u201d\nPoint I\nWas it error for the Justice below, pursuant to 15 M.R.S.A. \u00a7 101, to order a mental examination of the appellant at the Augusta State Hospital?\nAppellant argues that such an examination violates his right against self-incrimination guaranteed under the Fifth Amendment of the Constitution of the United States. Since the results thus obtained may be used to rebut the special defense generated by his plea of \u201cnot guilty by reason of mental disease,\u201d he contends he is being compelled to furnish evidence against himself.\nAppellant misconceives his position. The Fifth Amendment is designed to protect \u201can accused only from being compelled to testify against himself, or otherwise provide the State with evidence of a testimonial or communicative nature.\u201d Schmerber v. State of California, 384 U.S. 757, 761, 86 S.Ct. 1826, 1830, 16 L.Ed.2d 908, 914 (1966).\nIt is clear beyond debate that an order requiring a criminal defendant to submit to a psychiatric examination in no way compels the production of testimonial evidence. The purpose is not to extract incriminating- statements but, rather, to determine the presence, or absence, of mental disease or mental defect. The results of such an examination relate only to criminal responsibility. Such being the case, no Fifth Amendment problems are involved. See People v. Martin, 26 Mich.App. 467, 182 N.W.2d 741 (1971); Parkin v. State, 238 So.2d 817 (Fla.1970). As was succinctly put by the Ninth Circuit Court of Appeals, an order of this nature does\n\u201cnot compel \u2018communication\u2019 or \u2018testimony\u2019 on the issue of guilt of the defendant. It may be likened to compelling blood tests, handwriting exemplars, \u2018fingerprinting, photographing or measurements, to write or speak for identification, to appear in court, to stand, to assume a stance, to walk, or to make a particular gesture.\u2019 \u201d\nUnited States v. Handy, 454 F.2d 885, 889 (9th Cir. 1971); see also State v. Inman, 301 A.2d 348 (Me.1973).\nThis point is without merit.\nPoint II\nWas the in-court identification of the appellant so tainted by out-of-court procedures as to become inadmissible ?\nA brief factual summary will bring this argument into focus. Erwin Richardson testified that he had lost $10.00 to the appellant in a pin-ball game and, in so doing, had spent considerable time with him. Appellant had accompanied Richardson to his apartment so that the money could be obtained from Anna Lamoin, Richardson\u2019s aunt, to pay the gambling debt. Some hours later, Richardson testified, appellant returned to the apartment and was observed again while doing the acts necessary to commit arson and robbery. Subsequently, Richardson, with Mrs. Lamoin, was taken to police headquarters where he was shown six photographs out of which he selected one as being a photograph of the appellant.\nActing pursuant to our admonition to presiding justices in State v. Boyd, 294 A.2d 459 (Me.1972), the Justice below conducted an extensive examination of Richardson in the absence of the jury and stated :\n\u201cRecognizing the limitations of this witness, I am satisfied that there was an independent opportunity and observation made by this witness of a sufficient foundation upon which to base the in-Court identification that he has made.\nAnd, I\u2019m further satisfied that there was nothing as pertaining to the police photo mug shot identification that was in any way unfair or prejudicial to the extent that the in-Court identification by this witness is [affected] or tainted by the police photo examination and mug shot identification.\nOn that basis the Court will permit this witness to make the in-Court identification in the presence of the jury.\u201d\nReading the record in its entirety discloses no error. The evidence of the in-court identification was properly admitted. State v. Levesque, 281 A.2d 570 (Me.1971).\nPoint III\nShould the Justice below have granted appellant\u2019s motion for judgment of acquittal on the arson indictment because there was no admissible evidence of a sufficient burning of the structure to constitute arson?\nErwin Richardson testified the \u201c[f]loor had been burnt, you know, charred.\u201d Mrs. Lamoin also described the results of the fire in this language: \u201cThe wall was black, was like burning. . . . There was a burn stain on the floor. Walls got burned, you know.\u201d A Portland fireman described the condition of the wall and floor as \u201cscorched\u201d and \u201csmoldering.\u201d\nAppellant argues that this testimony is inadmissible because it is opinion evidence which only an expert witness can give. We disagree.\nAcknowledging the general rule that a non-expert cannot give opinion evidence on many technical topics, we do not feel that the testimony objected to falls within that rule.\nWe have allowed a non-expert witness to testify to an existing condition which is within the common knowledge of people in general by using adjectives, or descriptive adverbs, viewing such evidence not as opinion evidence, but as a conclusion of fact. See State of Maine v. Hamilton, 149 Me. 218, 100 A.2d 234 (1953). Such evidence is properly admitted\n\u201cwhere it is difficult or impossible for [a lay witness] to reproduce for the jury the totality of the conditions perceived and where the opinion given is one that men in general are accustomed and capable of making, comprehending, and understanding.\u201d\nPeople v. Burton, 6 Ill.App.3d 879, 286 N.E.2d 792, 797 (1972). See also Cherry v. State, 518 P.2d 324 (Okl.Cr.1974); United States v. Milne, 487 F.2d 1232 (5th Cir. 1973); State v. Johnson, 5 Wash.App. 546, 488 P.2d 769 (1971).\nWe view the questioned testimony in this context. The jury was instructed that the crime of arson would not have been committed unless the fire \"burns some material that is a part of the real estate\u201d as opposed to \u201cmere blackening of the walls by smoke or heat.\u201d Based on the testimony of these witnesses the jury could conclude that these legal criteria had been met. Therefore, there was no error in denying the motion for judgment of acquittal.\nPoint IV\nWas the testimony of Gloria Wood admissible ?\nAppellant made an abortive effort to establish an alibi, although he did not testify himself. Initially, he called his sister-in-law, Diane Dionne, as a witness hoping she would testify that he had spent the entire night of the alleged crime in her company. When she limited the time spent with appellant to \u201cabout 10 or 15 minutes\u201d between 9:00 and 9:30 p. m. on the critical evening, he then called his estranged wife, Sharon Buzynski, hoping she would refute this testimony by repeating a conversation in which Diane Dionne had admitted to her that she had in fact spent the critical night with the appellant. This effort backfired when Sharon Buzynski quoted Diane Dionne as saying to her: \u201cNo, I wasn\u2019t; I seen him at a bar earlier, and I left before he did.\u201d Nothing daunted, the appellant then presented Irma Shannon, Diane Dionne\u2019s grandmother, who, in the absence of the jury, said she had overheard a telephone conversation between Diane Dionne and a lawyer but denied telling appellant\u2019s mother, Gloria Wood, that \u201cDiane admitted being with Peter.\u201d Gloria Wood then testified (still in the absence of the jury) that Mrs. Shannon repeated to her a conversation she had overheard between Diane Dionne and Sharon Buzynski in which Diane is quoted as saying \u201che was with me all night.\u201d The Justice below ruled that Mrs. Wood\u2019s proferred testimony was inadmissible, and we agree.\nThe fact sought to be established was that appellant had been with Diane Dionne at the time the alleged crimes were committed. The testimony of Mrs. Wood related not to this fact but only to the credibility of Irma Shannon, i. e., to test her truthfulness when she denied having heard Diane Dionne admit being with the appellant during the critical night. Whether the jury believed, or did not believe, Mrs. Shannon had no bearing on whether Diane Dionne had, in fact, been with the appellant during the evening the crimes were consummated.\nWe proceed on the assumption that it was a proper exercise of judicial discretion to allow the appellant to attempt to impeach the credibility of his own witness, Diane Dionne, and to introduce hearsay testimony of her inconsistent declarations for that purpose. State v. Warner, 237 A.2d 150 (Me.1967). We know of no rule which extends this doctrine further. In any event, appellant fails to demonstrate any prejudice, as is his burden, since the excluded evidence was not relevant proof of any fact which would prove the suggested alibi. State v. Rist, 130 Me. 163, 154 A. 178 (1931).\nPoint V\nAppellant claims \u201cgovernmental foul play\u201d in the state\u2019s failure to turn over certain psychological testing data gathered by the state in its evaluation of the defendant at the Augusta State Hospital.\nDr. Bernard MacKinnon, a qualified psychiatrist, testified for the appellant that it was his opinion that the alleged criminal conduct of the defendant would not have occurred \u201cwere it not for the abnormal condition of his mind.\u201d More specifically, Dr. MacKinnon diagnosed the appellant\u2019s condition as \u201chysterical neurosis, dissociative of type.\u201d\nDr. MacKinnon based his diagnosis in part on a psychological report prepared by a psychologist at the Augusta State Hospital. Dr. MacKinnon was given this report along with other material pursuant to the court order. The psychologist\u2019s report was in turn based, in part, on the Minnesota Multiphases Personality Test (MMPI), a standard psychological test. It was Dr. MacKinnon\u2019s contention that the report supported his diagnosis.\nOn cross-examination the state established that by comparing various sections of the MMPI test results (the \u201cL. and F Scales\u201d), it could be determined if the individual taking the test was attempting to give answers intended to influence the test results. When asked by the state if he had compared the \u201cL and F scales\u201d in the MMPI test given the appellant, Dr. Mac-Kinnon responded:\n\u201cA. I have no knowledge of the L or F Scales because they are not included in the report. .\nQ. So, you made your evaluation without knowledge as to these two scales ?\nA. Yes, the psychologist\u2019s job is to consider these things.\u201d\nSubsequently, Dr. Walter Rohm, a psychiatrist, testified in rebuttal for the state that he had seen the MMPI test results and evaluated the \u201cL and F Scales,\u201d which indicated to him \u201can effort on the part of the client to slant the profile, resulting in the test results not truly reflective of the basic underlying personality picture.\u201d\nDefense counsel objected to both the cross-examination of Dr. MacKinnon and direct examination of Dr. Rohm with reference to the \u201cL and F Scales\u201d of the MMPI test. Defendant argues that the state is guilty of governmental \u201cfoul play\u201d in not fully complying with the court\u2019s order in failing to turn over the complete test results, while using them to impeach a defense witness and as part of its case in chief and, therefore, Dr. Rohm\u2019s evidence should be excluded.\nThe appellant\u2019s access to materials to be used against him at trial and in possession of the state is governed by Rule 16(a), M. R.Crim.P. The purpose of allowing discovery by the defendant is stated in Glass-man, Maine Practice, \u00a7 16.1:\n\u201cThe basic premise behind Rule 16 is that discover}' can have the same beneficial effects in criminal cases that it has in civil actions and should, therefore, be permitted. It can eliminate concealment and surprise; thereby destroying the \u2018sporting\u2019 aspects of a criminal trial. It can assist in the fair and expeditious disposition of cases prior to trial. It can eliminate any imbalance which exists between the parties as to the means and ability to secure evidence. Finally, it can assure a fuller presentation of the evidence to the trier of fact.\u201d\nWe affirmed this rationale in State v. Cloutier, 302 A.2d 84, 87 (Me.1973).\nIn the instant case Dr. MacKinnon was informed by the psychologist\u2019s report given pursuant to the Court order that the MMPI test had been performed. He was familier with the test. Although not actually given the test results, it was apparent he knew they existed. The appellant at no time prior to the trial requested further discovery to secure the test results. Dr. MacKinnon did not hesitate to make his diagnosis without the test results and even indicated at one point that evaluation of the results was the proper function of the psychologist administering the test and not a function of a psychiatrist.\nThe evils contemplated by the rule, unfair surprise and an imbalance in the ability to secure evidence, are not apparent in this case. Furthermore, the appellant has made no showing of prejudice to his defense by not having these test results. He has failed to show any bad faith on the state\u2019s part in omitting these results from the records submitted.\nThis point is without merit.\nPoint VI\nAppellant now challenges a basic instruction given the jury, namely: \u201cThe defendant . . . has the burden of proving his mental disease ... by the greater weight of the evidence.\u201d Admittedly, he argues, the Justice \u201cclearly stated the Maine law as it exists,\u201d but, since both arson and robbery require proof of criminal intent, \u201cthe proof of mental capacity [to form such an intent] is a necessary element . . . and, as such, the proof must be borne by the State and shown beyond a reasonable doubt.\u201d The requested instructions (n. 2, supra) were designed to raise this issue and, appellant contends, the refusal to so instruct was error of a constitutional dimension and violated the mandate of In Re Winship, 397 U.S. 358, 90 S.Ct. 1068, 25 L.Ed.2d 368 (1970).\nThe cornerstone of this argument is the proposition that criminal intent can only exist in the mind of a person free of mental disease (or defect), thus leading to the conclusion that proof of such freedom from mental disease (or defect) is a prerequisite to proof of criminal intent, or \u201cMens Rea,\u201d and must be established beyond a reasonable doubt by the state.\nWe do not adopt the premise upon which this argument is based. A person may well specifically intend to burn a structure, or to commit a robbery, even though he may suffer from a mental disease or defect which causes him to formulate such an intent. Maine law simply holds that he is not criminally responsible for consummating such a crime under those circumstances. Appellant\u2019s argument would compel us to engraft to the concept of \u201cmens rea\u201d \u2014 in all segments of our penal code where criminal intent is made an element of the crime \u2014 the additional element of sanity.\nWe do not conceive that the mandate of In Re Winship requires us to retreat from our long established rule so succinctly stated by Mr. Justice Sullivan in State of Maine v. Hathaway, 161 Me. 255, 263, 211 A.2d 558, 563 (1965):\n\u201cIn this jurisdiction a defendant pleading not guilty to crime by reason of insanity has the burden of satisfying the jury by a preponderance of the evidence of the truth of such affirmative defense.\u201d\nLeland v. State of Oregon, 343 U.S. 790, 72 S.Ct. 1002, 96 L.Ed. 1302 (1952), met the argument that an Oregon statute violated the Due Process Clause of the United States Constitution because it placed on a criminal defendant pleading insanity the burden of proving the same beyond a reasonable doubt. Mr. Justice Clark, speaking for a majority of the Court, held:\n\u201cWe are therefore reluctant to interfere with Oregon\u2019s determination of its policy with respect to the burden of proof on the issue of sanity since we cannot say that policy violates generally accepted concepts of basic standards of justice.\u201d\n343 U.S. at 799, 72 S.Ct. at 1007-1008, 96 L.Ed. at 1309.\nIn United States v. Greene, 160 U.S.App.D.C. 21, 489 F.2d 1145 (1973), a challenge was made to the statutory rule in the District of Columbia which, as does the Maine rule, places the burden upon a defendant asserting insanity as a defense to prove the same by a preponderance of the evidence. In Greene the appellant, as does the appellant here, relied on the proposition that In Re Winship had in effect overruled Leland v. Oregon, supra. The Greene Court rejected this argument, viewing Leland v. Oregon \u201cas an authoritative and binding precedent, unless modified or overruled by the Supreme Court.\u201d 489 F.2d at 1156.\nIn Phillips v. Hocker, 473 F.2d 395 (9th Cir. 1973), the appellant, in a post-conviction proceeding following his Nevada conviction, argued that the Nevada rule which placed the burden of proving insanity by a fair preponderance of the evidence on a defendant violated the Due Process Clause of the Constitution of the United States. The Ninth Circuit used this language in resolving that argument:\n\u201cWe also noted that Leland was specifically mentioned in [Winship], and we find no intimation in [Winship] that Leland should be questioned as to its holding on the nonconstitutional aspect of the insanity defense.\nWe believe that Leland remains viable and conclude that the first issue urged by appellant presents no constitutional question reviewable in these proceedings.\n473 F.2d at 398. The United States Supreme Court denied certiorari in Phillips. See Phillips v. Hocker, 411 U.S. 939, 93 S.Ct. 1916, 36 L.Ed.2d 401 (1973). Phillips had previously raised the same issue in a direct appeal. Phillips v. State of Nevada, 86 Nev. 720, 475 P.2d 671 (1970). His petition to the United States Supreme Court for a writ of certiorari was denied on June 29, 1971. Phillips v. Nevada, 402 U.S. 940, 91 S.Ct. 2260, 29 L.Ed.2d 719.\nIn two other state court decisions where comparable issues were raised, the United States Supreme Court has denied certiorari since Winship was decided. Parkin v. State, 222 So.2d 457 (Fla.1969), cert. denied, 401 U.S. 974, 91 S.Ct. 1189, 28 L.Ed.2d 322 (1971); Criswell v. State, 84 Nev. 459, 443 P.2d 552, aff\u2019d 86 Nev. 573, 472 P.2d 342 (1968), cert. denied, 400 U.S. 946, 91 S.Ct. 251, 27 L.Ed.2d 251 (1970).\nDealing with an issue analogous to the one here under discussion, namely, a due process challenge to a state policy involving the acceptance of a jury verdict of guilt despite three dissenting votes, the United States Supreme Court rejected the contention that the rule violated the holding in In Re Winship and cited Leland v. Oregon with approval. Johnson v. Louisiana, 406 U.S. 356, 92 S.Ct. 1620, 32 L.Ed.2d 152 (1972).\nIn our own jurisdiction we have on two occasions since In Re Winship was decided recognized the continuing viability of the policy announced in State of Maine v. Hathaway, supra. State v. Durgin, n. 8, supra; State v. Collins, n. 8, supra.\nFrom this analysis it is clear to us that Leland v. Oregon remains a valid authority for the retention of the rule originally fashioned in Maine over one hundred years ago. Until this rule is modified or overruled by appropriate authority, we adhere to the proposition that there is no constitutional infirmity in placing upon a criminal defendant the affirmative duty of establishing by a fair preponderance of the evidence that the unlawful act with which he is charged is the product of mental disease or mental defect. See United States ex rel. Tate v. Powell, 325 F.Supp. 333 (D.C.Pa.1971).\nThere is no merit in this contention.\nThe entry is:\nAppeal denied.\nPOMEROY, J., did not sit.\nAll Justices concurring.\n. This procedure is not now being retrospectively questioned. We comment on it only to recognize the departure from past custom under which the jury determined in one report whether a defendant was \u201cguilty,\u201d \u201cnot guilty\u201d or \u201cnot guilty by reason of mental disease.\u201d See United States v. Greene, 160 U.S.App.D.C. 21, 489 F.2d 1145, 1156 (1973).\n. \u201c4. Mens Rea or criminal intent is an essential element of the crimes for which the defendant lias been accused. The fact that the defendant possessed tlie mental capacity to have formed the necessary intent is an element of the offense which the prosecution must prove beyond a reasonable doubt.\n\u201c5. Alternative request for instruction if the above instructions are denied. In Maine there is a presumption of sanity; but when there has been evidence introduced which rebuts this presumption, it then becomes the burden of the prosecution to prove the defendant\u2019s sanity beyond a reasonable doubt, Bradford v. State, [234 Md. 505] 200 A.2d 150 (1964) Md.\u201d\n. \u201cWhen a finding of probable cause has been made, or an indictment has been returned against a person, or a person has taken an appeal to the Superior Court, a Justice of tlie Superior Court, if requested by tlie attorney for the respondent, or if requested by the prosecuting attorney where a respondent raises the issue of criminal reponsibility or indicates to the Court lie is going to raise the issue of criminal responsibility, or by the court on its own motion for cause shown or providing that the respondent consents, may order the respondent examined to determine his mental condition with reference to tlie issues of criminal responsibility and competence to stand trial. . . .\u201d15 M.R.S.A. \u00a7 101.\n.Appellant does not, nor could he, object to this procedure on the grounds that inculpatory statements made in the process of psychiatric evaluation might be used at Ms trial because such evidence is not admissible. State v. Hathaway, 161 Me. 255, 211 A.2d 558.\n. The Justice below, on objection by the state, allowed the question, stating, \u201cI don\u2019t think there is any real basis whereby I should permit you to impeach your own witness, but I\u2019m going to let you ask it.\u201d\n. The Justice below stated: \u201cAnd, as I indicated earlier . . . there was nothing presented to the Court upon which I could rule that Diane Dionne was a hostile witness, nor am I able to, at this point, state that Sharon Buzynski was, in fact, a hostile witness.\u201d\n. \u201cIt is hereby ORDERED that the Maine Department of Mental Health and Corrections provide copies of reports classified as \u2018sources of information\u2019 pertaining to Peter John Buzynski, Court Observation Case No. 41738, to . attorney for said defendant, as tlie court has authorized a private psychiatrist to examine Mr. Buzynski. These reports are necessary for the defense to prepare its case adequately.\u201d\n. State v. Durgin, 311 A.2d 266 (Me.1973). State v. Collins, 297 A.2d 620, 637 (Me.1972). State v. Park, 159 Me. 328, 193 A.2d 1 (1963).\nState v. Quigley, 135 Me. 435, 199 A. 269 (1938).\nState v. Lawrence, 57 Me. 574 (1870).\n. \u201cAn accused is not criminally responsible if his unlawful act was the product of mental disease or mental defect.\u201d 15 M.R.S.A. \u00a7 102.",
+        "type": "majority",
+        "author": "ARCHIBALD, Justice."
+      }
+    ],
+    "attorneys": [
+      "Henry N. Berry, III, County Atty., David P. Cluchey, Asst. County Atty., Portland, for plaintiff.",
+      "David C. Pomeroy, Portland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Maine v. Peter John BUZYNSKI.\nSupreme Judicial Court of Maine.\nDec. 27, 1974.\nHenry N. Berry, III, County Atty., David P. Cluchey, Asst. County Atty., Portland, for plaintiff.\nDavid C. Pomeroy, Portland, for defendant.\nBefore DUFRESNE, C. J\u201e and WEATHERBEE, WERNICK, ARCHIBALD and DELAHANTY, JJ."
+  },
+  "file_name": "0422-01",
+  "first_page_order": 460,
+  "last_page_order": 469
+}

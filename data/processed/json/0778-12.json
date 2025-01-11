@@ -1,0 +1,58 @@
+{
+  "id": 12487323,
+  "name": "Com. v. H. Chouman",
+  "name_abbreviation": "Com. v. Chouman",
+  "decision_date": "2016-04-12",
+  "docket_number": "NO. 1408 WDA 2015",
+  "first_page": "778",
+  "last_page": "778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 16,
+    "char_count": 95,
+    "sha256": "7f43ca7d418bcc08f1735ab2a40c3a3a0f329151f4b636d3dd210a5604c50e2c",
+    "simhash": "1:200964e138b19381",
+    "word_count": 16
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nH. Chouman"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nH. Chouman\nNO. 1408 WDA 2015\nSuperior Court of Pennsylvania.\nApril 12, 2016\nAffirmed."
+  },
+  "file_name": "0778-12",
+  "first_page_order": 778,
+  "last_page_order": 778
+}

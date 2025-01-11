@@ -1,0 +1,58 @@
+{
+  "id": 12487301,
+  "name": "Com. v. L. Cabassa",
+  "name_abbreviation": "Com. v. Cabassa",
+  "decision_date": "2016-04-11",
+  "docket_number": "NO. 739 EDA 2015",
+  "first_page": "776",
+  "last_page": "776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "145 A.3d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 106,
+    "sha256": "53c0a54fd89924dcba1408f9c2e33a1486a324c3642672f08545d89267edf89d",
+    "simhash": "1:22c9f2c189a73184",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000696+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nL. Cabassa"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nL. Cabassa\nNO. 739 EDA 2015\nSuperior Court of Pennsylvania.\nApril 11, 2016\nVacated and Remanded."
+  },
+  "file_name": "0776-06",
+  "first_page_order": 776,
+  "last_page_order": 776
+}

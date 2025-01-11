@@ -1,0 +1,558 @@
+{
+  "id": 12027418,
+  "name": "UNITED STATES, Appellant, v. Henry SIMPSON, Appellee",
+  "name_abbreviation": "United States v. Simpson",
+  "decision_date": "1975-01-16",
+  "docket_number": "No. 7337",
+  "first_page": "756",
+  "last_page": "759",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "330 A.2d 756"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "314 A.2d 464",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11251499
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "465"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/314/0464-01"
+      ]
+    },
+    {
+      "cite": "262 A.2d 810",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8097270
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/262/0810-01"
+      ]
+    },
+    {
+      "cite": "279 A.2d 508",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8095217
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "510"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/279/0508-01"
+      ]
+    },
+    {
+      "cite": "435 F.2d 405",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216836
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/0405-01"
+      ]
+    },
+    {
+      "cite": "140 U.S.App.D.C. 333",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "407 U.S. 143",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9137003
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0143-01"
+      ]
+    },
+    {
+      "cite": "454 F.2d 1016",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        747082
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "1017"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/454/1016-01"
+      ]
+    },
+    {
+      "cite": "147 U.S.App.D.C. 173",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "389 F.2d 305",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2097504,
+        3577716
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/389/0305-01"
+      ]
+    },
+    {
+      "cite": "128 U.S.App.D.C. 354",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3577716
+      ],
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "395 U.S. 752",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772077
+      ],
+      "weight": 5,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "763"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0752-01"
+      ]
+    },
+    {
+      "cite": "29 L.Ed.2d 152",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 S.Ct. 1675",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 U.S. 986",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11775072,
+        11774857,
+        11774799,
+        11774935,
+        11775000,
+        11774745,
+        11774620,
+        11774686
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/402/0986-08",
+        "/us/402/0986-05",
+        "/us/402/0986-04",
+        "/us/402/0986-06",
+        "/us/402/0986-07",
+        "/us/402/0986-03",
+        "/us/402/0986-01",
+        "/us/402/0986-02"
+      ]
+    },
+    {
+      "cite": "435 F.2d 74",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216550
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "81-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/0074-01"
+      ]
+    },
+    {
+      "cite": "140 U.S.App.D.C. 270",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "277-279"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "435 F.2d 385",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2216640
+      ],
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/435/0385-01"
+      ]
+    },
+    {
+      "cite": "140 U.S.App.D.C. 313",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "weight": 2,
+      "year": 1970,
+      "opinion_index": 0
+    },
+    {
+      "cite": "387 U.S. 294",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336837
+      ],
+      "weight": 6,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0294-01"
+      ]
+    },
+    {
+      "cite": "256 A.2d 782",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8091035
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/256/0782-01"
+      ]
+    },
+    {
+      "cite": "30 L.Ed.2d 166",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 S.Ct. 221",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "404 U.S. 884",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6364193,
+        6365019,
+        6366082,
+        6364389,
+        6364006,
+        6365577,
+        6366281,
+        6364619,
+        6365196,
+        6363822,
+        6365786,
+        6364827,
+        6365342
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0884-03",
+        "/us/404/0884-07",
+        "/us/404/0884-12",
+        "/us/404/0884-04",
+        "/us/404/0884-02",
+        "/us/404/0884-10",
+        "/us/404/0884-13",
+        "/us/404/0884-05",
+        "/us/404/0884-08",
+        "/us/404/0884-01",
+        "/us/404/0884-11",
+        "/us/404/0884-06",
+        "/us/404/0884-09"
+      ]
+    },
+    {
+      "cite": "267 A.2d 826",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8077885
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/267/0826-01"
+      ]
+    },
+    {
+      "cite": "3 L.Ed.2d 113",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 S.Ct. 126",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1958,
+      "opinion_index": 0
+    },
+    {
+      "cite": "358 U.S. 885",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3662369,
+        3652863,
+        3656868,
+        3653397,
+        3656223
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/358/0885-05",
+        "/us/358/0885-02",
+        "/us/358/0885-01",
+        "/us/358/0885-04",
+        "/us/358/0885-03"
+      ]
+    },
+    {
+      "cite": "254 F.2d 82",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        685347,
+        3765286
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/254/0082-01"
+      ]
+    },
+    {
+      "cite": "102 U.S.App.D.C. 383",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3765286
+      ],
+      "year": 1958,
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "395 U.S. 926",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1771591,
+        1772103,
+        1772204,
+        1771478,
+        1772088,
+        1771802,
+        1771483,
+        1772189
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0926-07",
+        "/us/395/0926-03",
+        "/us/395/0926-02",
+        "/us/395/0926-08",
+        "/us/395/0926-06",
+        "/us/395/0926-04",
+        "/us/395/0926-05",
+        "/us/395/0926-01"
+      ]
+    },
+    {
+      "cite": "416 F.2d 776",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2172987
+      ],
+      "year": 1969,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/416/0776-01"
+      ]
+    },
+    {
+      "cite": "135 U.S.App.D.C. 20",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "year": 1969,
+      "opinion_index": 0
+    },
+    {
+      "cite": "271 A.2d 406",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8070773
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/271/0406-01"
+      ]
+    },
+    {
+      "cite": "271 A.2d 788",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8086266
+      ],
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/271/0788-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 616,
+    "char_count": 9663,
+    "ocr_confidence": 0.784,
+    "pagerank": {
+      "raw": 4.789425132021875e-08,
+      "percentile": 0.3013096516437831
+    },
+    "sha256": "3cd595fc3bbc639c4a68269997e616f0ee03ec29d9e1278c903c7607c04b5da6",
+    "simhash": "1:b40e035a3b3783dc",
+    "word_count": 1640
+  },
+  "last_updated": "2024-02-27T22:08:57.964193+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before NEBEKER, YEAGLEY, and HARRIS, Associate Judges."
+    ],
+    "parties": [
+      "UNITED STATES, Appellant, v. Henry SIMPSON, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "HARRIS, Associate Judge:\nAppellee Simpson was arrested in his apartment, and later charged by two infor-mations with assault, D.C. Code 1973, \u00a7 22-504, possession of a dangerous weapon with intent to use it unlawfully against another, D.C. Code 1973, \u00a7 22-3214(b), and failure to register a firearm and ammunition in violation of the relevant police regulations. He filed a motion to suppress the gun as evidence. The motion was granted after a hearing. The government has appealed pursuant to D.C. Code 1973, \u00a7 23-104(a) (1). We conclude that the trial court erred in granting appellee\u2019s motion to suppress, and remand the case for reinstatement of the informations.\nMetropolitan Police Sergeant Patrick Lanigan responded to a radio run for a man with a gun at 443 N Street, N.W. The complainant, Charles Vines, lived in Apartment 7 at that address. Vines greeted the officer and said that \u201ca Mr. Simpson who lived in Apartment 5 had pointed a gun at him and threatened to kill him.\u201d Sergeant Lanigan questioned Vines further, and concluded that the complaint was legitimate.\nSergeant Lanigan awaited the arrival of another police officer, after which the two officers went to Apartment 5. Lanigan knocked on the door. A voice from inside asked, \u201cWho is there ?\u201d He responded that it was the police. He heard a chair being pulled out, but no one came to the door. Then he heard a squeak from inside the room. After about a minute, the door was opened by Simpson. The officers entered.\nTwo men and a woman were inside the room. Lanigan did not know which of the two men was Simpson, but focused his attention on appellee, who had opened the door. The sergeant frisked Simpson and asked him if he had a gun. Simpson replied that he owned a broken shotgun, and walked to the closet to show it to the other officer. Lanigan went immediately to the stove. As he testified:\nThe noise that I apparently \u2014 I thought I heard, sounded like a door opening; a stove. I opened the door, at the same time asking, \u201cWhat do you keep in the stove?\u201d, and Mr. Simpson said he kept his .38 there.\nHe further stated: \u201cI have an old stove; that is what it sounded like to me.\u201d He also said: \u201cThe first thing I went to was the stove; that they had placed the weapon in the stove, for my safety, I checked it.\u201d Sergeant Lanigan\u2019s hunch having been proven correct, the gun was seized. At that moment, Vines \u201ccame in the room and was screaming that is him; that\u2019s him and pointing his finger [at Simpson] and all.\u201d Simpson was placed under arrest. We are called upon to determine whether the police conduct violated appellee\u2019s Fourth Amendment rights and rendered the weapon inadmissible as evidence.\nThe government advances three theories under which it argues the gun was admissible: (1) the officers had probable cause to arrest appellee when they knocked on his door, and the search was incident to that arrest; (2) the officers were justified by exigent circumstances in making the arrest, at which point the limited search for a weapon was reasonable out of a justifiable concern for their safety; and (3) under the circumstances, Lanigan had probable cause to search the oven for a weapon.\nA police officer\u2019s duties include the investigation of complaints like the one in this case. In the course of such an investigation, an officer must exercise his judgment as to the best and safest manner of proceeding. Cf. United States v. Frye, D.C.App., 271 A.2d 788 (1970). Here, the officer interviewed Vines and concluded that his complaint was genuine. The officer thus had probable cause to believe an armed assault had taken place and that Simpson had committed it. See United States v. Dowing, D.C.App., 271 A.2d 406 (1970). He thereby had probable cause to arrest Simpson, and he prudently anticipated that the erstwhile armed assailant might be dangerous. See Pendergrast v. United States, 135 U.S.App.D.C. 20, 416 F.2d 776, cert. denied, 395 U.S. 926 (1969); Bell v. United States, 102 U.S.App.D.C. 383, 254 F.2d 82, cert. denied, 358 U.S. 885, 79 S.Ct. 126, 3 L.Ed.2d 113 (1958); cf. Matthews v. United States, D.C.App., 267 A.2d 826 (1970), cert. denied, 404 U.S. 884, 92 S.Ct. 221, 30 L.Ed.2d 166 (1971); Clarke v. United States, D.C.App., 256 A.2d 782 (1969).\nEvents transpired quickly after Simpson opened the door, and the record is imprecise as to their exact sequence. It is clear, however, that Sergeant Lanigan responded to a potentially explosive situation in a limited way, acting on a hunch which turned out to be correct. We have said:\n[T]he tactical choice by the police between apparent alternative courses of action cannot be overturned by detached judicial deliberation as long as the course of action taken is in itself reasonable.\nConsidering the situation before us in light of the Fourth Amendment, we conclude that the officers conducted themselves in a constitutionally reasonable way. They approached the door to Apartment 5 with probable cause to enter and make an arrest. See Warden v. Hayden, 387 U.S. 294, 87 S.Ct. 1642, 18 L.Ed.2d 782 (1967). The exigent nature of the circumstances absolved them from any need to obtain a warrant. See Dorman v. United States, 140 U.S.App.D.C. 313, 435 F.2d 385 (1970). Further, the manner of entry into the apartment, while not consented to, was permissible in these circumstances. See United States v. Harris, 140 U.S.App.D.C. 270, 277-279, 435 F.2d 74, 81-83 (1970), cert denied, 402 U.S. 986, 91 S.Ct. 1675, 29 L.Ed.2d 152 (1971).\nOnce inside the apartment, the police were entitled to make an arrest and effect a limited search for weapons. See Chimel v. California, 395 U.S. 752, 89 S.Ct. 2034, 23 L.Ed.2d 685 (1969). Three individuals were in the apartment\u2019s main room, where the stove was located. A woman was seated at a table in the middle of the room, some five feet from the stove. One man was lying on a bed, straight back from the front door. Simpson was on his feet, somewhere between seven and 12 feet from the stove. As noted, Sergeant Lanigan had not yet learned which of the two men was Simpson. The stove in which the gun was hidden was readily accessible to all three people in the room, and the limited protective search which took place was justifiable as being incident to the arrest. See Chimel v. California, supra at 763, 89 S.Ct. 2034. Further, the fact that the search took place immediately prior to Simpson\u2019s arrest is irrelevant, since there was probable cause for an arrest at the time of the search. See Bailey v. United States, 128 U.S.App.D.C. 354, 389 F.2d 305 (1967).\nMoreover, once the officers were inside the room, the limited search was justified by concern for their own safety. They reasonably expected to find a gun on the premises. The stove\u2019s central location, coupled with the suspicious squeak heard by Sergeant Lanigan, made it a likely hiding place which a prudent police officer properly could investigate. See United States v. Williams, 147 U.S.App.D.C. 173, 174, 454 F.2d 1016, 1017 (1971); cf. Adams v. Williams, 407 U.S. 143, 148, 92 S.Ct. 1921, 32 L.Ed.2d 612 (1972). In Young v. United States, 140 U.S.App.D.C. 333, 337, 435 F.2d 405, 409 (1970), the circuit court stated:\nThe underlying considerations of safety and reasonableness also apply when the officer is engaged in a reasonable inquiry on a suspicion of violence. A police officer need not defer such protective measures to the point of peril. All the law requires is that he have reasonable basis for believing that his safety or the safety of others requires a search or seizure.\nWe hold that appellee\u2019s Fourth Amendment rights were not unconstitutionally infringed by the police conduct that night. The granting of the motion to suppress accordingly is reversed, and the case is remanded for reinstatement of the informa-tions.\nReversed and remanded.\n. The trial court found that the entry had not been consented to by Simpson; the government does not challenge that finding. Cf. Warden v. Hayden, 387 U.S. 294, 87 S.Ct. 1642, 18 L.Ed.2d 782 (1967); Dorman v. United States, 140 U.S.App.D.C. 313, 435 F.2d 385 (1970).\n. In ruling on tlie motion, the trial court noted that the testimony of the four witnesses presented only one factual dispute, namely, whether or not the broken shotgun was found in the closet.\n. Bailey v. United States, D.C.App., 279 A.2d 508, 510 (1971); see also Gaskins v. United States, D.C.App., 262 A.2d 810 (1970).\n.The incident occurred at about 10 :15 p. m. While the record does not reveal the details of the dispute between Vines and Simpson, a departure by the police to seek a warrant needlessly could have endangered Vines.\n. The trial court took judicial notice of the fact that Simpson is a \u201cfunctional cripple\u201d and unable to move rapidly, and the second officer recognized that appellee was crippled after he entered the apartment. However, this circumstance \u2014 which took the trial court into the area of considering the relative tactical strength of the police and the suspects\u2014 does not make the police conduct unreasonable. Cf. United States v. Thomas, D.C.App., 314 A.2d 464, 465 (1974).",
+        "type": "majority",
+        "author": "HARRIS, Associate Judge:"
+      }
+    ],
+    "attorneys": [
+      "Michael G. Scheininger, Asst. U. S., Atty., with whom Harold H. Titus, Jr., U. S. Atty., and John A. Terry and Donald A. Couvillon, Asst. U. S. Attys., were on the brief, for appellant.",
+      "Barbara Lee Smith, law student counsel appointed by this court, with whom Robert St. John Roper, Washington, D. C., also appointed by this court, was on the brief, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, Appellant, v. Henry SIMPSON, Appellee.\nNo. 7337.\nDistrict of Columbia Court of Appeals.\nArgued Oct. 16, 1973.\nDecided Jan. 16, 1975.\nMichael G. Scheininger, Asst. U. S., Atty., with whom Harold H. Titus, Jr., U. S. Atty., and John A. Terry and Donald A. Couvillon, Asst. U. S. Attys., were on the brief, for appellant.\nBarbara Lee Smith, law student counsel appointed by this court, with whom Robert St. John Roper, Washington, D. C., also appointed by this court, was on the brief, for appellee.\nBefore NEBEKER, YEAGLEY, and HARRIS, Associate Judges."
+  },
+  "file_name": "0756-01",
+  "first_page_order": 794,
+  "last_page_order": 797
+}

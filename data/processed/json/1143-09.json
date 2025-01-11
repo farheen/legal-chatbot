@@ -1,0 +1,58 @@
+{
+  "id": 12488391,
+  "name": "Com. v. Brandy, B.",
+  "name_abbreviation": "Com v. Brandy",
+  "decision_date": "2016-05-10",
+  "docket_number": "2041 WDA 2014",
+  "first_page": "1143",
+  "last_page": "1143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 88,
+    "sha256": "6c43a7f95623584ae6b255d9b0898fc436fe1cd9625b8e2e8aff03fc37cee531",
+    "simhash": "1:6096d5fbc6282be0",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nBrandy, B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nBrandy, B.\n2041 WDA 2014\nSuperior Court of Pennsylvania.\nMay 10, 2016\nAffirmed"
+  },
+  "file_name": "1143-09",
+  "first_page_order": 1143,
+  "last_page_order": 1143
+}

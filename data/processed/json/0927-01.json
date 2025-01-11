@@ -1,0 +1,104 @@
+{
+  "id": 11244148,
+  "name": "Susan BROWNER, Appellant, v. DISTRICT OF COLUMBIA, Appellee",
+  "name_abbreviation": "Browner v. District of Columbia",
+  "decision_date": "2000-08-03",
+  "docket_number": "No. 98-CV-130",
+  "first_page": "927",
+  "last_page": "929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "756 A.2d 927"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 11933,
+    "name": "District of Columbia Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "580 A.2d 1036",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7374586
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1041"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/580/1036-01"
+      ]
+    },
+    {
+      "cite": "697 A.2d 23",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12009286
+      ],
+      "pin_cites": [
+        {
+          "page": "27-29"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/697/0023-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 401,
+    "char_count": 6791,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.23888709341741546
+    },
+    "sha256": "f4861e4483a4269e06dc2218cd4d4022305006ebb1d9d02172c230548f58da3e",
+    "simhash": "1:116691eaa349c5a6",
+    "word_count": 1113
+  },
+  "last_updated": "2024-02-27T18:22:13.121452+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before STEADMAN and RUIZ, Associate Judges, and KERN, Senior Judge."
+    ],
+    "parties": [
+      "Susan BROWNER, Appellant, v. DISTRICT OF COLUMBIA, Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM:\nThis is an appeal from the judgment of the trial court after a jury returned a verdict in favor of the District of Columbia on appellant\u2019s claim for damages resulting from a collision with a District of Columbia ambulance. Appellant contends that the trial court committed reversible error by concluding, as a matter of law, that the ambulance was on an emergency run and thus submitting to the jury only the issue whether or not the District of Columbia in its operation of the ambulance was grossly negligent.\nD.C.Code \u00a7 1-1212, the District of Columbia\u2019s waiver of immunity statute, provides the following exception: \u201cin the case of a claim arising out of the operation of an emergency vehicle on an emergency run the District shall be liable only for gross negligence.\u201d D.C.Code \u00a7 1-1211(5)(A) defines \u201cemergency vehicle\u201d to include a vehicle assigned to the Fire Department that is not designated as a non-emergency vehicle. D.C.Code \u00a7 1-1211(4) defines \u201cemergency run\u201d as \u201cthe movement of a District-owned vehicle, by direction of the operator or of some other authorized person or agency, under circumstances which lead the operator or such persons or agency to believe that such vehicle should proceed expeditiously upon a particular mission or to a designated location for the purpose of dealing with a supposed fire or other emergency, an alleged violation of a statute or regulation, or other incident requiring emergency action, or the prompt transportation to a place of treatment or greater safety of an alleged sick or injured person.\u201d\nThe evidence at trial showed that appellant was starting to make a left turn from Naylor Road onto 30th Street in Southeast Washington, D.C., when her car was hit by an ambulance which was attempting to pass her on her left side and which had crossed the double median line of the street to do so. The testimony of the paramedics was that they were transporting a woman who had called 911 after falling and suffering a head wound. Although the paramedics had given the woman\u2019s injuries a low rating of seriousness, they transported her as an emergency run (with siren and flashing lights) because it was Fire Department policy and procedure to so treat all transports of injured persons resulting from 911 calls. At the conclusion of the testimony, the court instructed the jury that, as a matter of law, the ambulance in this case was on an emergency run, and that they were to decide whether the District of Columbia was grossly negligent in its operation of the ambulance.\nAppellant contends that \u00a7 1-1211(4), in its use of the words \u201cunder circumstances which lead the operator or such persons or agency to believe that such vehicle should proceed expeditiously,\u201d requires the evaluation of the circumstances to be made on an individual, case-by-case basis. She further contends that the Fire Department\u2019s internal policy, which treats all patient transports resulting from 911 calls as an emergency run, conflicts with this requirement. Instead, she argues, the determination whether the ambulance was on an emergency run should be made by the jury.\nThe District of Columbia Fire Department\u2019s policy decision, which dictates the circumstances in which its ambulance operators must respond with an emergency run, speaks to the statutory provision that the agency may determine when an ambulance is on an emergency run. See D.C.Code \u00a7 1-1211(4). The trial court correctly concluded that the determination whether the Department\u2019s policy satisfies this statutory provision, or whether an individualized determination must be made, is a question of law, and thus is not appropriate for jury determination. See, e.g., Doe by Fein v. District of Columbia, 697 A.2d 23, 27-29 (D.C.1997) (determination whether police report satisfies statutory notice requirement of D.C.Code \u00a7 12-309 is question of law for court). We do not see a conflict between the Fire Department\u2019s policy and \u00a7 1-1211(4) since the statute, which expressly provides for the decision to be made by \u201cthe operator or ... persons or agency,\u201d does not rule out the adoption of a policy such as the one at issue here. Furthermore, the policy does not appear unreasonable on its face.\nAccordingly, we conclude that the trial court did not err in refusing to submit to the jury the question of whether the ambulance in this case was on an emergency run.\nAffirmed.\n. The relevant portion of \u00a7 1-1212 reads in full: \u201cHereafter the District of Columbia shall not assert the defense of governmental immunity in any suit at law in which a claim is asserted against it for money only on account of damage to or loss of property or on account of personal injury or death caused by the negligent or wrongful act or omission of any employee of the District occurring as the result of the operation by such employee, within the scope of his office or employment, of a vehicle owned or controlled by the District: Provided, that in the case of a claim arising out of the operation of an emergency vehicle on an emergency run the District shall be liable only for gross negligence.\u2019\u2019 (Emphasis added.)\n. Depositions of two paramedics were read to the jury, but the deposition testimony was not transcribed, nor were the depositions made part of the record. The summary provided here is based on the representations in the parties\u2019 briefs.\n. The clearest identification of the source of this policy is provided in appellant\u2019s pretrial Trial Brief, in which she quoted the Fire Department\u2019s designated corporate representative as stating, in a deposition, that the policy is \"a standing order in our Operations Procedures Manual.\u201d This standing order is not provided in the record or the briefs, but the parties appear to agree on its content.\n. Appellant does not appear to contend that the ambulance in this case was not an \"emergency vehicle.\u201d\n. Additionally, we have noted that generally, \"waivers of immunity are to be read narrowly.\u201d Abney v. District of Columbia, 580 A.2d 1036, 1041 (D.C.1990). Consistent with this principle, we have refused to give an unpublished Metropolitan Police Department General Order the effect of expanding the District\u2019s liability under \u00a7 1-1212. See id.",
+        "type": "majority",
+        "author": "PER CURIAM:"
+      }
+    ],
+    "attorneys": [
+      "Thomas Fortune Fay, Washington, DC, and Jonathan E. Rubens, were on the brief for appellant.",
+      "Robert R. Rigsby, Interim Corporation Counsel at the time the brief was filed, Charles L. Reischel, Deputy Corporation Counsel, Lutz Alexander Prager, Assistant Corporation Counsel, and Mary T. Connelly, Assistant Corporation Counsel, were on the brief for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "Susan BROWNER, Appellant, v. DISTRICT OF COLUMBIA, Appellee.\nNo. 98-CV-130.\nDistrict of Columbia Court of Appeals.\nSubmitted May 11, 2000.\nDecided Aug. 3, 2000.\nThomas Fortune Fay, Washington, DC, and Jonathan E. Rubens, were on the brief for appellant.\nRobert R. Rigsby, Interim Corporation Counsel at the time the brief was filed, Charles L. Reischel, Deputy Corporation Counsel, Lutz Alexander Prager, Assistant Corporation Counsel, and Mary T. Connelly, Assistant Corporation Counsel, were on the brief for appellee.\nBefore STEADMAN and RUIZ, Associate Judges, and KERN, Senior Judge."
+  },
+  "file_name": "0927-01",
+  "first_page_order": 961,
+  "last_page_order": 963
+}

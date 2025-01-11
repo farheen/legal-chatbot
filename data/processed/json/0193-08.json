@@ -1,0 +1,58 @@
+{
+  "id": 12486511,
+  "name": "Com. v. R. Kemper",
+  "name_abbreviation": "Com. v. Kemper",
+  "decision_date": "2016-03-08",
+  "docket_number": "NO. 51 WDA 2015",
+  "first_page": "193",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "144 A.3d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 105,
+    "sha256": "1149b476074072b69f33558d70022fd5d2354bbd14eb99f52d4d19c9ed4a5c8d",
+    "simhash": "1:9811448200888cc8",
+    "word_count": 18
+  },
+  "last_updated": "2021-08-27T20:57:14.000741+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nR. Kemper"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nR. Kemper\nNO. 51 WDA 2015\nSuperior Court of Pennsylvania.\nMarch 08, 2016\nReversed and Remanded."
+  },
+  "file_name": "0193-08",
+  "first_page_order": 193,
+  "last_page_order": 193
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12490992,
+  "name": "MYM REALTY, LLC v. John DOE et al.",
+  "name_abbreviation": "Mym Realty, LLC v. John Doe",
+  "decision_date": "2017-09-27",
+  "docket_number": "",
+  "first_page": "3",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "170 A.3d 3"
+    },
+    {
+      "type": "parallel",
+      "cite": "327 Conn. 908"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Conn.",
+    "id": 8803,
+    "name": "Connecticut Supreme Court"
+  },
+  "jurisdiction": {
+    "id": 2,
+    "name_long": "Connecticut",
+    "name": "Conn."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 292,
+    "sha256": "a2c21d27f1687ba440651d165c9b7acde8761d624fc637ad88c2b1e0f985712d",
+    "simhash": "1:326baabb94db7df5",
+    "word_count": 44
+  },
+  "last_updated": "2021-08-27T20:57:26.796983+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MYM REALTY, LLC\nv.\nJohn DOE et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MYM REALTY, LLC\nv.\nJohn DOE et al.\nSupreme Court of Connecticut.\nDecided September 27, 2017\nJerome T. Dunbar, self-represented, in support of the petition.\nThe petition by the defendant Jerome T. Dunbar for certification to appeal from the Superior Court (NHH-CV-16-6003333-S) is dismissed."
+  },
+  "file_name": "0003-03",
+  "first_page_order": 3,
+  "last_page_order": 4
+}

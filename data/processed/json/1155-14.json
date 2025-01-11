@@ -1,0 +1,58 @@
+{
+  "id": 12488568,
+  "name": "Com. v. Hoye, N.",
+  "name_abbreviation": "Com v. Hoye",
+  "decision_date": "2016-05-20",
+  "docket_number": "1481 WDA 2015",
+  "first_page": "1155",
+  "last_page": "1155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "151 A.3d 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Pa. Super. Ct.",
+    "id": 8775,
+    "name": "Superior Court of Pennsylvania"
+  },
+  "jurisdiction": {
+    "id": 6,
+    "name_long": "Pennsylvania",
+    "name": "Pa."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 15,
+    "char_count": 86,
+    "sha256": "0d7b5be7a7bae5e16632e29ef02e6ec561ab25ab4b03eff9dd71db34da33e591",
+    "simhash": "1:bb18b421d2090fce",
+    "word_count": 15
+  },
+  "last_updated": "2021-08-27T20:57:14.008363+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Com.\nv.\nHoye, N."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Com.\nv.\nHoye, N.\n1481 WDA 2015\nSuperior Court of Pennsylvania.\nMay 20, 2016\nAffirmed"
+  },
+  "file_name": "1155-14",
+  "first_page_order": 1155,
+  "last_page_order": 1155
+}
