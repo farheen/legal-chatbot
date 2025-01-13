@@ -3,9 +3,10 @@ import zipfile
 import json
 
 # Directories
-RAW_DATA_DIR = "../data/raw/"
-PROCESSED_DATA_DIR = "../data/processed/"
-os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
+RAW_DATA_DIR = "../legal-chatbot/data/raw/"
+PROCESSED_DATA_DIR = "../legal-chatbot/data/processed/"
+JSON_SUBDIR = os.path.join(PROCESSED_DATA_DIR, "json")  # Subdirectory for JSON files
+os.makedirs(JSON_SUBDIR, exist_ok=True)
 
 def extract_files(input_dir, output_dir):
     """
@@ -17,25 +18,64 @@ def extract_files(input_dir, output_dir):
             with zipfile.ZipFile(file_path, 'r') as zip_ref:
                 zip_ref.extractall(output_dir)
             print(f"Extracted: {file_name}")
+    print(f"All ZIP files extracted to {output_dir}.")
 
-def parse_json(data_dir):
+def parse_json(input_dir):
     """
-    Parse JSON files and extract meaningful fields for processing.
+    Parse JSON files from the input directory.
     """
     cases = []
-    for root, dirs, files in os.walk(data_dir):
-        for file in files:
-            if file.endswith(".json"):
-                with open(os.path.join(root, file), 'r') as f:
-                    data = json.load(f)
-                    case_text = data.get("text", "")
-                    case_title = data.get("title", "Unknown Case")
-                    cases.append({"title": case_title, "text": case_text})
+    json_dir = os.path.join(input_dir, "json")  # Adjusted to include the 'json' subdirectory
+    if not os.path.exists(json_dir):
+        print(f"No JSON directory found at {json_dir}.")
+        return cases
+
+    for file_name in os.listdir(json_dir):
+        if file_name.endswith('.json'):
+            file_path = os.path.join(json_dir, file_name)
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+                # Handle different JSON structures
+                if isinstance(data, list):  # List of cases
+                    for item in data:
+                        cases.append(extract_relevant_data(item))
+                elif isinstance(data, dict):  # Single case or cases key
+                    if "cases" in data:  # Check for cases key
+                        for item in data["cases"]:
+                            cases.append(extract_relevant_data(item))
+                    else:  # Handle single case
+                        cases.append(extract_relevant_data(data))
+                else:
+                    print(f"Unexpected JSON structure in {file_name}. Skipping.")
     return cases
+
+def extract_relevant_data(data):
+    """
+    Extract relevant fields from a single case.
+    """
+    # Extract opinions text safely
+    opinions = data.get("casebody", {}).get("opinions", [])
+    case_text = opinions[0].get("text", "") if opinions and isinstance(opinions, list) else ""
+
+    return {
+        "id": data.get("id"),
+        "name": data.get("name"),
+        "decision_date": data.get("decision_date"),
+        "jurisdiction": data.get("jurisdiction", {}).get("name_long"),
+        "court": data.get("court", {}).get("name"),
+        "case_text": case_text,
+    }
 
 if __name__ == "__main__":
     print("Extracting raw data...")
     extract_files(RAW_DATA_DIR, PROCESSED_DATA_DIR)
+
     print("Parsing JSON files...")
     cases = parse_json(PROCESSED_DATA_DIR)
+
     print(f"Parsed {len(cases)} cases.")
+    # Save parsed cases to a file
+    output_file = os.path.join(PROCESSED_DATA_DIR, "parsed_cases.json")
+    with open(output_file, 'w') as f:
+        json.dump(cases, f, indent=4)
+    print(f"Saved parsed cases to {output_file}.")
