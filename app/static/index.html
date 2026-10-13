@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Case Law Research</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <section id="login-view" class="login" hidden>
+    <form id="login-form" class="card">
+      <h1>Case Law Research</h1>
+      <label>Username <input name="username" autocomplete="username" required></label>
+      <label>Password <input name="password" type="password" autocomplete="current-password" required></label>
+      <button type="submit">Sign in</button>
+      <p id="login-error" class="error" role="alert"></p>
+    </form>
+  </section>
+
+  <div id="app-view" class="layout" hidden>
+    <aside class="sidebar">
+      <header class="brand">
+        <h1>Case Law Research</h1>
+        <button id="logout" class="link">Sign out</button>
+      </header>
+      <h2>Filters</h2>
+      <label>Jurisdictions
+        <select id="f-jurisdictions" multiple size="8"></select>
+      </label>
+      <p class="hint">Cmd/Ctrl-click to select several. None selected searches everything.</p>
+      <label>Court contains <input id="f-court" placeholder="e.g. Supreme"></label>
+      <div class="row">
+        <label>From <input id="f-from" placeholder="YYYY-MM-DD"></label>
+        <label>To <input id="f-to" placeholder="YYYY-MM-DD"></label>
+      </div>
+      <p id="coverage" class="hint"></p>
+      <button id="new-chat" class="secondary">New research thread</button>
+    </aside>
+
+    <main class="chat">
+      <div class="disclaimer">
+        Research aid only. Answers come from a historical case-law collection and may be incomplete or out of date.
+        Verify every authority, including whether it is still good law, before relying on it.
+      </div>
+      <div id="thread" class="thread" aria-live="polite"></div>
+      <form id="ask-form" class="ask">
+        <textarea id="question" rows="3" placeholder="Ask a legal research question, or paste a citation (e.g. 1 A.3d 281)" required></textarea>
+        <button type="submit" id="ask-button">Ask</button>
+      </form>
+    </main>
+
+    <aside class="sources">
+      <h2>Sources</h2>
+      <ol id="sources"></ol>
+    </aside>
+  </div>
+
+  <dialog id="case-dialog">
+    <form method="dialog"><button class="close" aria-label="Close">×</button></form>
+    <div id="case-body"></div>
+  </dialog>
+</body>
+</html>
