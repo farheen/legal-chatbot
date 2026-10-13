@@ -1,0 +1,9 @@
+# Data and indexes are rebuilt with legalbot.download / legalbot.ingest / legalbot.vectors; never commit them.
+data/
+*.part
+
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.DS_Store
