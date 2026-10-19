@@ -1,8 +1,16 @@
-torch
-transformers
-faiss-cpu
-pandas
-tqdm
-requests
-flask  # or streamlit
+anthropic==1.13.0
+beautifulsoup4==4.15.0
+faiss-cpu==1.15.1
+fastapi==0.143.0
+itsdangerous==2.2.0
+numpy==2.5.4
+requests==2.34.2
+sentence-transformers==6.1.0
+torch==2.14.1
+tqdm==4.70.1
+transformers==5.19.0
+uvicorn[standard]==0.54.0
 
+# tests
+httpx==0.28.1
+pytest==9.1.1
